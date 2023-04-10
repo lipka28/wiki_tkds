@@ -1,26 +1,79 @@
-# Welcome!
+# Vítej
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
 
-Here you will find an [open source](https://github.com/selfhostedshow/wiki), living and breathing repository of resources that we talk about on the Self Hosted podcast. You can help us help you by submitting PRs on Github to improve this documentation or fix mistakes.
 
-## About the show
+## Horizontal Rules
 
-This wiki was created by the audience of the [Self-Hosted podcast](https://selfhosted.show). It's open to all to contribute via pull request.
+___
 
-The show is your gateway to self-hosting all the things. Discover new software to take control of cloud services and own your data. Learn how you can take steps to free yourself from the agenda of large corporates and business models designed to sell your information. We help you unlock the power of Linux and Open Source.
+---
 
-## SSH Storage Leaderboard
+***
 
-| Rank | Guest            | Storage | Episode Timestamp                       | Notes                                                 |
-| ---- | ---------------- | ------- | --------------------------------------- | ----------------------------------------------------- |
-| #1   | Wendell Wilson   | 1 PB    | [#2 15:12](https://selfhosted.show/2)   | ZFS and Beehive                                       |
-| #2   | JDM              | 500 TB  | [#21 37:01](https://selfhosted.show/21) | Split between Unraid boxes                            |
-| #3   | Jeff Geerling    | 84 TB   | [#41 29:51](https://selfhosted.show/41) | 60 TB unallocated for projects                        |
-| #4   | Fuzzy Mistborn   | 70 TB   | [#70 11:28](https://selfhosted.show/70) | Debate about whether or not to count off-site storage |
-| #5   | Techno Tim       | 40 TB   | [#73 16:22](https://selfhosted.show/73) | Kubernetes and #100DaysOfHomeLab initiative           |
-| #6   | Jake Howard      | 14 TB   | [#42 34:45](https://selfhosted.show/42) | Was hoping for lowest (golf) score!                   |
-| #7   | Paulus Schoutsen | 8 TB    | [#45 20:12](https://selfhosted.show/45) | Creator of the Home Assistant Project                 |
 
-## Our other podcasts
+## Emphasis
 
-* [Linux Action News](https://linuxactionnews.com/) - A weekly Linux news and analysis podcast
-* [Linux Unplugged](http://linuxunplugged.com/) - Your virtual Linux User Group
+**This is bold text**
+
+__This is bold text__
+
+*This is italic text*
+
+_This is italic text_
+
+~~Strikethrough~~
+
+
+## Blockquotes
+
+
+> Blockquotes can also be nested...
+>> ...by using additional greater-than signs right next to each other...
+> > > ...or with spaces between arrows.
+
+
+## Lists
+
+Unordered
+
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy!
+
+Ordered
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+
+
+## Tables
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
+Right aligned columns
+
+| Option | Description |
+| ------:| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
+
+## Links
+
+[link text](http://dev.nodeca.com)
+
+[link with title](http://nodeca.github.io/pica/demo/ "title text!")
