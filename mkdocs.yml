@@ -1,4 +1,4 @@
-site_name: Tam, kde draci spí
+site_name: Tam kde draci spí
 site_url: https://pravidla.tkds.cz
 theme:
   name: 'material'
@@ -37,6 +37,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - awesome-pages
   - minify:
       minify_html: true
   - glightbox
