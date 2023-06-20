@@ -16,7 +16,9 @@ Svaly a fyzická síla. Hlavní využití síly je v boji a při nošení těžk
 | 9 - 12  |      0      |
 | 13 - 15 |     +1      |
 | 16 - 17 |     +2      |
-|   18    |     +3      |
+| 18 - 20 |     +3      |
+| 21 - 24 |     +4      |
+| 25 - 30 |     +5      |
 
 ## Zručnost
 
@@ -30,11 +32,13 @@ Zručnost, reflexy a rovnováha. Modifikátor zručnosti ovlivňuje především
 |  9 - 12  |      0      |
 | 13 - 15  |     +1      |
 | 16 - 17  |     +2      |
-|    18    |     +3      |
+| 18 - 20  |     +3      |
+| 21 - 24  |     +4      |
+| 25 - 30  |     +5      |
 
 ## Výdrž
 
-Výdrž představuje zdraví, výdrž a vytrvalost. Modifikátor výdrže ovlivňuje zdraví.
+Výdrž představuje zdraví, výdrž a vytrvalost. Modifikátor výdrže ovlivňuje hlavně zdraví a také se připočítává k záchranným hodům proti jedům a okamžité smrti.
 
 |  Výdrž  | Modifikátor |
 | :-----: | :---------: |
@@ -44,11 +48,13 @@ Výdrž představuje zdraví, výdrž a vytrvalost. Modifikátor výdrže ovliv�
 | 9 - 12  |      0      |
 | 13 - 15 |     +1      |
 | 16 - 17 |     +2      |
-|   18    |     +3      |
+| 18 - 20 |     +3      |
+| 21 - 24 |     +4      |
+| 25 - 30 |     +5      |
 
 ## Rozum
 
-Rozum představuje schopnost učit se, paměť, rozum a sílu vůle. Rozumu určuje gramotnost hráčovi postavy a kolik jazyků může postava ovládat. 
+Rozum představuje schopnost učit se, paměť, rozum a sílu vůle. Rozumu určuje gramotnost hráčovi postavy a kolik jazyků může postava ovládat a modifikátor rozumu se připočítává k záchranným hodům proti magii. Tato dovednost je také velmi důležitá pro jedince užívající magii. 
 
 |  Rozum  | Modifikátor |  Gramotnost  |       Ovládané jazyky       |
 | :-----: | :---------: | :----------: | :-------------------------: |
@@ -58,7 +64,9 @@ Rozum představuje schopnost učit se, paměť, rozum a sílu vůle. Rozumu urč
 | 9 - 12  |      0      |   Gramotný   |           Rozený            |
 | 13 - 15 |     +1      |   Gramotný   |          Rozený +1          |
 | 16 - 17 |     +2      |   Gramotný   |          Rozený +2          |
-|   18    |     +3      |   Gramotný   |          Rozený +3          |
+| 18 - 20 |     +3      |   Gramotný   |          Rozený +3          |
+| 21 - 24 |     +4      |   Gramotný   |          Rozený +4          |
+| 25 - 30 |     +5      |   Gramotný   |          Rozený +5          |
 
 *\*Postava se zvládne alespoň podepsat, Zvládá jednoduchou matematiku (jako třeba počítat do 20-ti) a čtení čehokoliv jí trvá velmi dlouho s minimálním pochopením pro čtený text.*
 
@@ -76,4 +84,6 @@ Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopn
 |  9 - 12  |      0      |
 | 13 - 15  |     +1      |
 | 16 - 17  |     +2      |
-|    18    |     +3      |
+| 18 - 20  |     +3      |
+| 21 - 24  |     +4      |
+| 25 - 30  |     +5      |

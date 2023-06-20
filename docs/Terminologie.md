@@ -52,10 +52,7 @@ Vysvětlivky speciálních jednotek používaných při hře.
 
 ### Váha
 
-K měření váhy se používají standardní jednotky metrického systému (gramy, kilogramy, tuny atd..) Lze se však čistě z herního hlediska setkat s dalšími dvěma jednotkami a to *Sloty* a *L*.
-
-- **1 Slot** - Abstraktní jednotka zatížení, pro zjednoduší výpočtů nosnosti postavy. Odpovídá váze přibližně 3 kilogramy nebo předmětu, kterým lze efektivně manipulovat jednou rukou.
-- **L** - 1/10 Slotu - Abstraktní jednotka zatížení pro drobné a lehké předměty.
+K měření váhy se používají standardní jednotky metrického systému (gramy, kilogramy, tuny atd..) Lze se však čistě z herního hlediska setkat s dalšími dvěma jednotkami a to *Sloty* a *L* (Více o těchto jednotkách [zde](/Gear/#nosnost)).
 
 ### Čas
 

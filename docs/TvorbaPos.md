@@ -6,18 +6,18 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Naházej si dovednosti
 
-Jdi dovednost po dovednosti, v pořadí jakém si usmyslíš. Na každou dovednost si hoď *3d6* a výsledek si zaznač.
+Jdi dovednost po dovednosti, v pořadí jakém si usmyslíš. Na každou dovednost si hoď *4d6*, zahoď nejnižší a výsledek si zaznač.
 
 ## 2. Vyber si rasu a povolání
 
 Vyber si jednu z ras a jedno povolání dobrodruha a zaznač si jejich název do svého deníku postavy. Mysli na to, že některé rasy mají minimální požadavek na specifické dovednosti aby sis je mohl vybrat.
 
 !!! note "Dobrodružství v Aldiru"
-	asd
+	Odkaz na rasy Aldiru
 
 ## 3. Uprav dovednostní body a zaznač si modifikátory dovedností a gramotnost.
 
-Pokud si přeješ, můžeš jedenkrát prohodit hodnoty 2 libovolných dovedností. Když jsou tvé dovednostní body pevně dané, zaznač si jejich modifikátory (kapitola *Dovednosti*). Také si nezapomeň zapsat gramotnost danou tvým rozumem.
+Pokud si přeješ, můžeš jedenkrát prohodit hodnoty 2 libovolných dovedností. Když jsou tvé dovednostní body pevně dané, zaznač si jejich modifikátory (více v kapitole [Dovednosti](Dovednosti.md)). Také si nezapomeň zapsat gramotnost danou tvým rozumem.
 
 ## 4. Zaznač si útočné číslo, záchranný hod a nosnost
 
@@ -27,11 +27,11 @@ Zaznač si útočné číslo a záchranný hod dle svého povolání. Případn�
 
 Stanov životy tvé postavy hodem kostkou zdraví uvedenou v tabulce postupu tvého povolání a aplikuj modifikátor za výdrž. Každá postava začíná minimálně s 1 životem.
 
-**Přehození 1** (Optional)
-Pokud ti padne 1, může ti DM dovolit házet znovu.
+!!! example "Volitelné pravidlo: Maximum na 1. úrovni"
+	Dle uvážení DM, je možnost na první úrovni neházet na životy vůbec a jen si zapsat nejvyšší možnou hodnotu na kostce modifikovanou tvou výdrži. 
 
-**Maximum na 1. úrovni** (Optional)
-Dle uvážení DM, je možnost na první úrovni neházet na životy vůbec a jen si zapsat nejvyšší možnou hodnotu na kostce modifikovanou tvou výdrži. 
+!!! example "Volitelné pravidlo: Přehození 1"
+	Pokud ti padne 1, může ti DM dovolit házet znovu.
 
 ## 6. Zaznač si schopnosti tvého povolání a rasy
 
@@ -41,20 +41,24 @@ Zaznač si všechny zvláštní schopnosti, které tvá postava získala výběr
 
 ## 8. Nakup si výbavu
 
-Tvá postava (pokud nic nezdědila) začíná s bohatstvím ve výši **3d6 * 10 zlatých**. Za které si může nakoupit libovolnou výbavu z tabulek v kapitole *Výbava*.
-**Pamatuj:** Tvé povolání může mít omezení vztahující se k výbavě, kterou můžeš používat.
-**Rozdělení předmětů:** Dbej na rozdělení předmětů na vybavené a uschované pokud je to třeba.
+Tvá postava (pokud nic nezdědila) začíná s bohatstvím ve výši *3d6 * 10 zlatých*. Za které si může nakoupit libovolnou výbavu z tabulek v kapitole *Výbava (Odkaz)*.
+
+!!! warning "Pozor: Omezení na výbavu"
+	Tvé povolání může mít omezení vztahující se k výbavě, kterou můžeš používat.
+
+!!! warning "Pozor: Rozdělení předmětů"
+	Dbej na rozdělení předmětů na vybavené a uschované pokud je to třeba.
 
 ## 9. Poznač si obranné číslo
 
-Obranné číslo tvé postavy je stanoveno dvěma faktory. A to **brněním**, které sis vybral v předchozím kroku a modifikátorem **zručnost**.
+Obranné číslo tvé postavy je stanoveno dvěma faktory. A to *brněním*, které sis vybral v předchozím kroku a modifikátorem *zručnost*.
 
 **Obranné číslo bez brnění**
-Pokud tvá postava nemá žádné brnění, její základní **OČ** je **10** (Před modifikací zručností)
+Pokud tvá postava nemá žádné brnění, její základní *OČ* je *10* (Před modifikací zručností)
 
 ## 10. Poznač si úroveň a zkušenostní body
 
-Pokud nebylo stanoveno jinak, tvá postava začíná na **úrovni 1**, **0 zkušenostními body** a cílem **500 zkušenostních bodů** do další úrovně.
+Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1*, *0 zkušenostními body* a cílem *10 zkušenostních bodů* do další úrovně.
 
 ## 11. Pojmenuj svou postavu
 

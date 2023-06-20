@@ -1,4 +1,4 @@
-# Bohov
+# Bohové
 
 It works
 
