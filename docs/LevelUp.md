@@ -10,9 +10,9 @@ Zkušenosti , společně s úrovní, jsou hlavní reprezentací rozvoje postavy.
 
 Zkušenosti jsou postavám přiděleny na základě všelijakých aktivit ve hře. Většinou v rozsahu *1 - 3 zk* za aktivitu. Zkušenosti mohou být přiděleny buď na konci sezení nebo v průběhu. Příklady takových aktivit jsou: 
 
-- **1 zk:**  prozkoumání místnosti v kobce; objevení zajímavé lokace; za každých 1000 gp získaného pokladu; vyřešení hádanky, pasti nebo krátkého či jednoduchého úkolu; potyčka adekvátní obtížnosti (úrovně stran jsou vyrovnány) atd.. 
-- **2 zk:** získání magického předmětu; dokončení úkolu; obtížný souboj (úroveň skupiny nepřátel > úroveň postav). 
-- **3+ zk:** dokončení rozsáhlého úkolu; souboj s velmi silným monstrem (úroveň skupiny nepřátel >>> úroveň postav).
+- *1 zk* -  prozkoumání místnosti v kobce; objevení zajímavé lokace; za každých 1000 gp získaného pokladu; vyřešení hádanky, pasti nebo krátkého či jednoduchého úkolu; potyčka adekvátní obtížnosti (úrovně stran jsou vyrovnány) atd.. 
+- *2 zk* - získání magického předmětu; dokončení úkolu; obtížný souboj (úroveň skupiny nepřátel > úroveň postav). 
+- *3+ zk* - dokončení rozsáhlého úkolu; souboj s velmi silným monstrem (úroveň skupiny nepřátel >>> úroveň postav).
 
 **Dělení zkušeností:** Zkušenosti se mezi postavami nijak nedělí. Všichni kdo se zúčastnili daného sezení obdrží plný obnos zkušeností. 
 
@@ -42,3 +42,6 @@ Když postava získá dostatečné množství zkušenostní, aby dosáhla na nov
 |       9        |             90             |
 |       10       |            100             |
 | 10+ (Optional) |    Aktuální úroveň x 10    |
+
+---
+

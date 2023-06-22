@@ -119,3 +119,6 @@ Gramotnost a počet jazyků, které postava ovládá (nebo se může naučit). J
 
 ### Schopnosti
 Jsou sadou výjimečných schopností, které postava získá na základě volby rasy a povolání nebo na základě voleb, které učiní při různých dobrodružství.
+
+---
+

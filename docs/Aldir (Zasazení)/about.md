@@ -1,4 +1,4 @@
-# Něco o Aldiru
+# Aldir a jazyky
 
 <img src="https://tkds.cz/imgs/Aldir.jpg" style="zoom:100%;" />
 
@@ -48,4 +48,6 @@ Pokud má postava dostatek rozumu aby se naučila 2 další běžné jazyky, mů
 | 8    | Prvotština (mrtvý) |          Elementálové          |
 | 9    |    Sylvánština     |          Vílí tvorové          |
 | 10   |  Zlodějský hantec  |  Zloději, tuláci a podvodníci  |
+
+---
 

@@ -426,3 +426,5 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 - *Penalizace:* Všechny útoky na blízku mimo těch bodných jsou házeny s nevýhodou. Poškození udělená Tupými nebo sečnými zbraněmi jsou poloviční. 
 - *Útoky na dálku:* Útoky na dálku nejsou pod vodní hladinou většinou možné, pokud nejsou použity velmi specifické zbraně.
 
+---
+

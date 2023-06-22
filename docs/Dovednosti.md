@@ -87,3 +87,6 @@ Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopn
 | 18 - 20  |     +3      |
 | 21 - 24  |     +4      |
 | 25 - 30  |     +5      |
+
+---
+
