@@ -12,6 +12,8 @@
 
 **Cizí Postavy (NPC):** Jsou všechny ostatní postavy, které jsou ovládány Pánem jeskyně a se kterými mohou hráči interagovat.
 
+**Zaokrouhlování:** pokud není stanoveno jinak, tak se zaokrouhluje dolů.
+
 ## Kostky
 
 Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně tvarovaných kostek. Tyto kostky používají následující notaci:
@@ -31,8 +33,6 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 **Více kostková notace:** Pokud je vyžadován hod více kostek naráz je počet hozených kostek indikován před *k*. Například *3k6* znamená hoď 3 šesti-stranné kostky a sečti výsledek.
 
 **Modifikátory:** Někdy může být třeba přičíst k hozeným kostkám nějaký bonus, nebo odečíst postih. Tyto modifikátory se připojují znaménkem "+" nebo "-" za hodnotu kostky. Například *3k6+2* znamená sečti výsledek hodu tří šesti-stranných kostek a přičti 2.
-
-**Zaokrouhlování:** pokud není stanoveno jinak, tak se zaokrouhluje dolů.
 
 **Výhoda a Nevýhoda:** Pokud hráč hází s výhodou, znamená to že může hodit dvakrát a nechat si přívětivější výsledek. Pokud hráč hází s nevýhodou ze dvou hodů si nechá ten horší. Pokud má hráč z nějakého důvodu výhodu a nevýhodu najednou, efekty se vzájemně vyruší. Více efektů výhody či nevýhody se však nesčítají.
 
