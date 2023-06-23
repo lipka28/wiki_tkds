@@ -17,7 +17,7 @@
 |   7    | +1d4+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 10; +1 kouzlo             |
 |   8    | +1d4+MOD Výdrž | Talent; +1 kouzlo                                            |
 |   9    | +1d4+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 8; +1 kouzlo              |
-|   10   | +1d4+MOD Výdrž | Magické mistrovství; +1 kouzlo; +1 Magická střela            |
+|   10   | +1d4+MOD Výdrž | Umocni magii; +1 kouzlo; +1 Magická střela                   |
 |  10+   |       +1       | +1 kouzlo                                                    |
 
 ## Schopnosti povolání

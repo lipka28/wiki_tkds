@@ -17,7 +17,7 @@
 |   7    | +1d6+MOD Výdrž | Bonus k zásahu: +5; Záchranný hod: 10                       |
 |   8    | +1d6+MOD Výdrž | Talent                                                      |
 |   9    | +1d6+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 8                        |
-|   10   | +1d6+MOD Výdrž | Přepadení za bílého dne; +2 body expertízy                  |
+|   10   | +1d6+MOD Výdrž | Dokonalý úhyb; +2 body expertízy                            |
 |  10+   |       +1       | ---                                                         |
 
 ## Schopnosti povolání

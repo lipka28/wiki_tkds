@@ -8,16 +8,16 @@
 
 | ÚROVEŇ |       HP       | ODEMYKÁ                                                      |
 | :----: | :------------: | :----------------------------------------------------------- |
-|   1    | +1d6+MOD Výdrž | Úchvatné vystoupení; Potížista; Bonus k zásahu +0; Záchranný hod: 16 |
+|   1    | +1d6+MOD Výdrž | Dobrá společnost; Potížista; Bonus k zásahu +0; Záchranný hod: 16 |
 |   2    | +1d6+MOD Výdrž | Inspirace                                                    |
 |   3    | +1d6+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                        |
 |   4    | +1d6+MOD Výdrž | Talent                                                       |
 |   5    | +1d6+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 12                        |
-|   6    | +1d6+MOD Výdrž | Dobrá společnost; +2 Inspirace                               |
+|   6    | +1d6+MOD Výdrž | Bloudivá mysl; +2 Inspirace                                  |
 |   7    | +1d6+MOD Výdrž | Bonus k zásahu: +5; Záchranný hod: 10                        |
 |   8    | +1d6+MOD Výdrž | Talent                                                       |
 |   9    | +1d6+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 8                         |
-|   10   | +1d6+MOD Výdrž | Bloudivá mysl; +2 Inspirace                                  |
+|   10   | +1d6+MOD Výdrž | Světoznámý; +2 Inspirace                                     |
 |  10+   |       +1       | ---                                                          |
 
 ## Schopnosti povolání
