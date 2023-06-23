@@ -2,7 +2,7 @@
 
 ![Image title](/assets/races/halfling.webp)
 
-**Požadavky:** Zručnost >= 11 a Výdrž <= 10  
+**Požadavky:** Zručnost >= 11 a Výdrž <= 9  
 
 **Vrozené jazyky:** Obecná řeč + Pulčický hantec 
 
@@ -10,7 +10,7 @@
 
 **Doba života:** 40 - 60 let
 
-**Popis:** Pulčíci jsou vzrůstem podobní gnómům, avšak na rozdíl od gnómů připomínají malého dospělého člověka. To je dáno tím, že pulčíci jsou v podstatě normální lidé s poměrně běžnou genetickou vadou. Může se tedy stát, že se dvěma lidem narodí pulčík, stejně tak se může stát, že se dvěma pulčíkům narodí obyčejný člověk. Pulčíci žijí ve společných komunitách s lidmi. I když jsou lidem často pro smích, společný život s lidmi však přináší tolik výhod, že si z pár posměšků příliš nedělají. Pulčíci mají velký talent pro obchod a však mezi lidmi jsou často využívání pro vykonávání podřadných prací, které se lidem nechtějí dělat. Pulčíci se často stanou dobrodruhy právě proto, aby utekly před tímto ponižujícím životem a dosáhli nějaké té pocty. 
+*Pulčíci jsou vzrůstem podobní gnómům, avšak na rozdíl od gnómů připomínají malého dospělého člověka. To je dáno tím, že pulčíci jsou v podstatě normální lidé s poměrně běžnou genetickou vadou. Může se tedy stát, že se dvěma lidem narodí pulčík, stejně tak se může stát, že se dvěma pulčíkům narodí obyčejný člověk. Pulčíci žijí ve společných komunitách s lidmi. I když jsou lidem často pro smích, společný život s lidmi však přináší tolik výhod, že si z pár posměšků příliš nedělají. Pulčíci mají velký talent pro obchod a však mezi lidmi jsou často využívání pro vykonávání podřadných prací, které se lidem nechtějí dělat. Pulčíci se často stanou dobrodruhy právě proto, aby utekly před tímto ponižujícím životem a dosáhli nějaké té pocty.*
 
 **Jména pro pulčíky:** Stejná jako ta lidská
 

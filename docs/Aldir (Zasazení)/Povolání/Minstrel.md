@@ -2,7 +2,7 @@
 
 ![Image title](/assets/classes/bard.webp)
 
-**Popis:** asd (Upravit popis)
+*Minstrelové jsou potulní hudebníci, zpěváci a baviči. Jejich ohromný talent zaujme i to nejnáročnější publikum. Ať už sedíte večer u táboráku po dlouhé celodenní cestě nebo se nacházíte ve víru boje, minstrelovi melodie a zpěv vás pohladí na duši. Jejich múzické nadání jim běžně otevírá dveře i do vyšších společností, kde jsou ale často zneužíváni jako špioni. Povolání minstrela je vhodné pro každého kdo se rád podělí o svůj talent a nevadí mu se dostat do potíží.*
 
 ## Tabulka postupu
 
@@ -13,11 +13,11 @@
 |   3    | +1d6+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                        |
 |   4    | +1d6+MOD Výdrž | Talent                                                       |
 |   5    | +1d6+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 12                        |
-|   6    | +1d6+MOD Výdrž | Dobrá společnost; +1 Inspirace                               |
+|   6    | +1d6+MOD Výdrž | Dobrá společnost; +2 Inspirace                               |
 |   7    | +1d6+MOD Výdrž | Bonus k zásahu: +5; Záchranný hod: 10                        |
 |   8    | +1d6+MOD Výdrž | Talent                                                       |
 |   9    | +1d6+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 8                         |
-|   10   | +1d6+MOD Výdrž | Bloudivá mysl; +1 Inspirace                                  |
+|   10   | +1d6+MOD Výdrž | Bloudivá mysl; +2 Inspirace                                  |
 |  10+   |       +1       | ---                                                          |
 
 ## Schopnosti povolání
@@ -45,7 +45,7 @@ Minstrel má bonus ve výši své úrovně k hodům na ověření v případech,
 
 ### Úroveň 2 - Inspirace
 
-Minstrelova slova a melodie působí až nadpřirozenou mocí. Jedenkrát denně můžeš jednomu blízkému stvoření (do 5-ti metrů) poskytnout výhodu na libovolné ověření dovednosti (včetně útoků). Inspirace musí být poskytnuta před provedením akce, a daný hod kostkou se pak musí odehrát během jedné směny. 
+Minstrelova slova a melodie působí až nadpřirozenou mocí. Dvakrát denně můžeš jednomu blízkému stvoření (do 5-ti metrů) poskytnout výhodu na libovolné ověření dovednosti (včetně útoků). Inspirace musí být poskytnuta před provedením akce, a daný hod kostkou se pak musí odehrát během jedné směny. 
 
 - *V boji* - Poskytnutí inspirace v boji je považováno za útočnou akci. 
 - *Extra inspirace* - Na 6. a 10. úrovni získáš extra použití.

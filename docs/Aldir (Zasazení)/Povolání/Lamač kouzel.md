@@ -1,8 +1,11 @@
 # Lamač kouzel
 
+!!! danger "Vyžaduje svolení PJ"
+     Vzhledem k nátuře tohohle povolání. Není lamač kouzel kompatibilní s většinou skupin dobrodruhů. Jelikož lamač kouzel může jednoduše způsobit rozpor s dalšími členy skupiny, především pokud někteří členové ovládají magii. *Výběr tohohle povolání vyžaduje svolení PJ* a je vhodné jen pro zkušené hráče se zkušeným PJ.
+
 ![Image title](/assets/classes/spellbreaker.webp)
 
-**Popis:** asd (Upravit popis)
+*Řád lamačů kouzel Aldirské republiky je proslulý a obávaný napříč celým Aldirem. Jeho elitně cvičení bojovníci jsou obávaní a respektovaní všude kam přijdou. Lamači kouzel disponují alchymisticky modifikovaným okem, kterému se říká vševidoucí oko. Tímto okem dokáží odhalit i ten nejvíce ukrývaný zdroj magie. Jejich úkol je prostý. Zabít, zničit nebo uvěznit vše, co jen zavání magií. Někteří lamači kouzel si však tohle poslání vykládají po svém a stávají se z nich sběratelé magických artefaktů. Povolání lamače kouzel je vhodné pro všechny co touží po respektu a poslání.*
 
 ## Tabulka postupu
 
