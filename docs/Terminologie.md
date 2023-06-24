@@ -101,11 +101,17 @@ Postup postavy ve hře je reprezentován kumulací zkušenostních bodů. Když 
 ### Obranné číslo (OČ)
 Určuje schopnost postavy vyhnout se nebo vykrýt útoky či jiné bojové manévry. Obranné číslo je modifikováno zručností postavy a typem zbroje, kterou postava nosí. Čím větší obranné číslo, tím hůře lze postavu zasáhnout.
 
+!!! warning "Přepočet descending AC"
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na AC (OČ), které se s vylepšováním snižuje na místo zvyšování. Pro přepočet na OČ *odečtete* hodnotu psanou v materiálu *od 19-ti*. Například zbroj poskytující *5 DAC* přepočítáte na OČ následovně: *19 - 5 = 14 OČ*.
+
 ### Záchranný hod
 Určuje schopnost postavy vyhnout se některým nebezpečným či dokonce smrtelným efektům.
 
 ### Útočný modifikátor (ToHit / +Zásah)
 Určuje schopnost postavy zasáhnout nepřítele v boji. Výše tohoto modifikátoru je určena převážné povoláním postavy a její úrovní. Přičítá se však i modifikátor síly (pro útok na blízku) nebo zručnosti (pro útok na dálku).
+
+!!! warning "Přepočet THAC0"
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na THAC0 (To Hit AC 0), které se s vylepšováním snižuje na místo zvyšování. Pro přepočet THAC0 na ToHit *odečtete* hodnotu psanou v materiálu *od 19-ti*. Například útok s *THAC0 10* přepočítáte na To Hit následovně: *19 - 10 = +9 ToHit*.
 
 ### Hybnost
 Hybnost představuje základní rychlost s jakou se postava zvládá pohybovat za 1 kolo. Při cestování na velké vzdálenosti (například putování divočinou) je počet kilometrů, které může postava v přívětivých podmínkách ujít za den, pětinásobkem této hybnosti. 
