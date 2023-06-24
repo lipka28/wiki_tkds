@@ -368,10 +368,15 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 !!! note "Minimální poškození"
     Úspěšný zásah vždy udělí aspoň 1 poškození. (Pokud cíl není imunní)
 
-**Typy poškození** Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na DM aby tyto případné odolnosti a slabosti vyhodnotil. 
+**Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na DM aby tyto případné odolnosti a slabosti vyhodnotil. 
 
 !!! note "Příklad: Ohnivý elementál"
     Ohnivému elementálovi, by zásah ohnivou koulí asi nic moc neudělal. Avšak smetením vodním proudem by mělo devastující účinky. 
+
+**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny.
+
+!!! note "Příklad: Hořící nestvůra"
+    Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1d8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
 
 ## Ostatní bojové situace
 
