@@ -45,10 +45,13 @@ Další nejasné situace. Například takové, kde nezáleží na nějakých spe
 
 Všechny postavy a monstra mohou podstoupit záchranný hod aby se vyhnuli plnému efektu kouzel, pastí a jiných speciálních útoků.
 
-**Typ záchranných hodů:** V této hře existuje pouze jeden univerzální záchranný hod. Ten se však může házet s různými modifikátory na základě toho proti čemu se postava snaží zachránit. Tyto modifikátory se dají získat různou výbavou, výběrem rasy, povolání či ze specifických dovedností. 
+**Typ záchranných hodů:** V této hře existuje pouze jeden univerzální záchranný hod. Ten se však může házet s různými modifikátory na základě toho proti čemu se postava snaží zachránit. Tyto modifikátory se dají získat různou výbavou, výběrem rasy, povolání či ze specifických dovedností.
 
 - *Záchranný hod proti magii:* Je modifikovaný rozumem. 
-- *Záchranný hod proti jedům a smrti:* Je modifikovaný výdrží.
+- *Záchranný hod proti smrti (a jedům):* Je modifikovaný výdrží.
+
+!!! Note "Jiné modifikátory"
+    Tyto modifikátory jsou nejpoužívanější avšak DM si může vyžádat i záchranný hod modifikovaný jinou dovedností. Například záchranný hod modifikovaný zručností může být požadován pokud se postavu někdo pokusí odzbrojit. Nebo modifikace osobností může být vhodná při záchranně proti strachu.
 
 **Hod záchranného hodu:** Když je postava ovlivněna efektem, který vyžaduje záchranný hod tak si hodí D20, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako univerzální hod. 
 
@@ -68,7 +71,7 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 **Smrt:** Monstrum nebo hráč jehož životy jsou zredukovány na *0* nebo méně, je považováno za mrtvé.
 
-**Mírnější systém smrti pro heroická dobrodružství (Optional):** Hráčova postava zredukovaná na 0 nebo méně životů upadne do bezvědomí. Pokud je tělo postavy následně do 24 hodin zkontrolováno nebo vyléčeno. Má postava *3 z 6-ti* šanci, že bude žít a probudí se s *1 životem* (nebo s vyléčeným množstvím). Pokud neuspěje může obětovat *3 bod náhodných dovednosti*, aby dosáhl úspěšného výsledku. 
+**Mírnější systém smrti pro heroická dobrodružství (Optional):** Hráčova postava zredukovaná na 0 nebo méně životů upadne do bezvědomí. Pokud je tělo postavy následně do *24 hodin* zkontrolováno nebo vyléčeno. Může se postava pokusit o záchranný hod proti smrti. Pokud uspěje tak je na živu s jedním životem a v bezvědomí po dobu *1d4 směn*. V případě vyléčení postava přijde k sobě okamžitě s vyléčeným množstvím.
 
 - *Opakovaná smrt:* Tuto záchranu je možné opakovat jen tehdy, pokud byla postava někdy po své smrti vyléčena na maximum svých životů. 
 - *Zničení těla:* V tomhle případě tělo nezle zkontrolovat a postava automaticky umírá.
@@ -97,7 +100,7 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 **Světlo a překvapení:** Postavy nebo monstra, která mají sebou zdroj světla, nemůžou překvapit své nepřátele. Světlo totiž prozrazuje jejich přítomnost.
 
-**Pád z výšky:** Pád z výšky na tvrdý povrch působí 1d6 poškození za každé započaté 2 metry pádu. První 2 metry pádu se do tohohle poškození nepočítají.  
+**Pád z výšky:** Pád z výšky na tvrdý povrch působí *1d6* poškození za každé započaté 2 metry pádu. První 2 metry pádu se do tohohle poškození nepočítají. Padající postava se může pokusit při pádu zachytit ověřením zručnosti proti *obtížnosti 15*. I zachycená postava však obdrží poškození za vzdálenost, kterou již spadla.
 
 !!! note "Rychlost pádu"
     Pokud postava padá volným pádem, předpokládá se, že padá rychlostí *25 metrů* za vteřinu. (150 metrů za kolo)
@@ -123,17 +126,15 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 - Přežití vlastní smrti
 - Podstoupení náročného magického rituálu
 
-**Efekty únavy:** Každý získaný stupeň únavy posune postavu na další úroveň v tabulce níže. Efekty v tabulce jsou kumulativní. To znamená že postava je vždy ovlivněna, mimo efektu své aktuální úrovně únavy, i všemi předcházející efekty.
+**Efekty únavy:** Každý získaný stupeň únavy uděluje postih ve výši hodnoty únavy do: 
 
-| ÚROVEŇ ÚNAVY |                            EFEKT                             |
-| :----------: | :----------------------------------------------------------: |
-|      1       |     *Žádný* - První úroveň únavy nepřináší žádné postihy     |
-|      2       | *Nevrlý* - Neumíš být přátelský. Navíc tvé hody na reakce okolí mají stejný efekt, jako by si měl CHA 3 (tedy postih -3) |
-|      3       |        *Pomalý* - Tvá maximální hybnost je poloviční.        |
-|      4       | *Roztřesený* - Postih -2 do OČ, šance na zásah a poškození. DM může aplikovat další postihy na akce vyžadující sílu, obratnost či zručnost. (Například nevýhodu na odemykání zámků, šplhání a podobně) |
-|      5       |  *Náchylný* - Všechny tvé záchranné hody jsou s nevýhodou.   |
-|      6       | *Zesláblý* - Tvůj maximální počet životů je snížen na polovinu |
-|      7+      | *Smrt?* - Při dosažení 7-mé a každé další úrovně únavy. Musí hráč podstoupit záchranný hod proti smrti s postihem ve výši úrovně své únavy. Pokud neuspěje, zemře. (*Náchylný* pro tento specifický hod neplatí.) |
+- Hodu na zásah
+- Poškození modifikovaných sílou
+- Obranného čísla
+- Záchranných hodů
+- Ověření dovedností. 
+
+**Smrt na únavu:** Pokud postava dosáhne únavy o hodnotě 7 nebo více musí podstoupit záchranný hod proti smrti nebo zemřít.
 
 **Zbavení se únavy:** Zbavení se únavy v divočině je ve směs nemožné. Je vyžadována buď pomoc magie, strávit noc v civilizaci nebo alespoň v bezpečném stavení. Za každý den strávený v bezpečí civilizace je vyléčen 1 stupeň únavy. Při odpočinku v civilizaci nelze na únavu zemřít.
 
@@ -321,10 +322,13 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Pohyb:** Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Pohyb obtížným terénem stojí dvojnásobek hybnosti. Například plavání, brodění se, šplhání a podobné. Pohyb je také možné kombinovat s dalšími akcemi.
 
-**Pohyb v boji na blízko:** Pokud je stvoření v blízkém boji nemůže se úplně volně pohybovat. Jediné 2 způsoby pohybu, které jsou možné, jsou:
+**Vázání v boji na blízko:** Stvoření, které zaútočilo nebo bylo napadeno jiným stvořením útokem na blízku (třeba i neúspěšným) je vázán v boji na blízko. Pro stvoření vázané v boji na blízko platí následující omezení:
 
-- *Strategický pohyb* - Stvoření se může pohnout maximálně o polovinu své hybnosti po obvodu svých soupeřů. Nesmí se však od nich vzdálit.
-- *Útěk* - Stvoření se může vyvázat z boje na blízku tím, že obětuje v daném kole svou útočnou akci. Může se pak pohybovat svou plnou rychlostí.
+- *Útoky na dálku* - Mají *50%* šanci na selhání (Automaticky mine)
+- *Používání nebo manipulace s předměty* - Mají *50%* šanci že předmět se nepoužije a upadne na zem (některé předměty se mohou rozbít)
+- *Čarování kouzel* - Má *50%* šanci, že kouzlo bude ztraceno (včetně ceny za sesílání)
+- *Strategický pohyb* - Stvoření se může pohnout pouze po obvodu svých soupeřů. Nesmí se však od nich vzdálit.
+- *Útěk* - Stvoření se může vyvázat z boje na blízku tím, že obětuje v daném kole svou akci. Může se pak pohybovat svou plnou rychlostí mimo dosah nepřítele.
 
 **Dosah útoků:** Dosah útoku je dán velikostí zbraně. U zbraní na blízku u kterých dává smysl házení je maximální vzdálenost hodu dána sílou nositele.
 
@@ -349,7 +353,10 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **NAT 1 a NAT 20:** Hody přirozené *1* jsou považovány za neúspěch. Hod přirozené *20* je považován za kritický zásah. 
 
-**Kritické zásahy:** Uděluje maximální možné poškození (Určené maximální hodnotou na kostce poškození dané zbraně včetně bonusů).  
+**Kritické zásahy:** Uděluje maximální možné poškození (Určené maximální hodnotou na kostce poškození dané zbraně včetně bonusů). Pro účely vyhodnocování jsou i útoky za plné poškození považovány za kritické zásahy.
+
+!!! example "Volitelné pravidlo: Extra efekt při kritickém zásahu"
+    PJ se může rozhodnout udělovat extra efekty za kritické zásahy. Například nějaká krvácení, odzbrojení, shození na zem či dlouhodobá zranění jako je zlomení ruky. Vše se odvíjí od toho jak hráč popíše svůj útok. 
 
 **Nezranitelnost:** Některá stvoření jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje poškození.  
 
@@ -380,9 +387,11 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 ## Ostatní bojové situace
 
+**Sprint:** Stvoření může v daném kole obětovat své akce a tím se pohybovat až dvojnásobkem své hybnosti.
+
 **Hození zbraně:** Postava může zaútočit hozením zbraně (u které to dává smysl), do efektivní vzdálenosti danou její hodnotou síly (Poblíž). K poškození se navíc pak připočítává její modifikátor síly.
 
-**Neozbrojený útok:** Neozbrojený útok má vždy poškození 1d4 (+ modifikátory za sílu) a však poškození se vždy hází s nevýhodou.  
+**Neozbrojený boj:** Neozbrojený útok má vždy poškození 1d4 (+ modifikátory za sílu) a však poškození se vždy hází s nevýhodou. Navíc útoky na blízko proti neozbrojenému cíli jsou vždy s výhodou.
 
 **Improvizované zbraně:** Při útoku improvizovanou zbraní se poškození hází s nevýhodou. 
 
@@ -390,17 +399,11 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus +1 do zásahu, poškození a OČ. 
 
-!!! example "Volitelné pravidlo: Útok do více cílů"
-    Pokud PJ uvolí. Může dovolit hráči útočit každou zbraní zvlášť ve stejném kole. V takovém případě je však druhý útok vždy s nevýhodou na zásah.
-
 **Netrénovaná brnění:** Netrénovaná brnění poskytují jen poloviční bonus k OČ a mohou mít další postihy u některých povolání.
 
 **Netrénované štíty:** Postavy netrénované se štítem. Nezískávají jen poloviční bonus do OČ ze štítu a také ním nemohou reflexivně blokovat. 
 
-**Reflexivní blokování štítem:** Postavy trénované se štítem, mohou jako instantní akci, vyblokovat poškození z příchozího útoku a zredukovat jej na polovinu. Jejich štít se tím však rozbije. 
-
-!!! example "Volitelné pravidlo: Pevné štíty"
-    Na místo zničení štítu se permanentně sníží jeho poskytovaný bonus do OČ (např. z +2 se stane +1). Toto poškození nelze opravit a pokud bonus klesne na 0 štít je zničen.
+**Reflexivní blokování štítem:** Postavy trénované se štítem, mohou jako instantní akci, vyblokovat poškození z příchozího útoku a zredukovat jej o 1 kostku poškození za každé obětované OČ štítu. Pokud OČ štítu padne na 0, štít je zničen. Tohle poškození lze opravit avšak u speciálních a magických štítů může být oprava velmi drahá.
 
 **Obklíčení:** Pokud je jedinec v boji na blízko aspoň se 3-mi nepřáteli. Všichni tito nepřátelé mají bonus +1 na zásah.
 
@@ -409,7 +412,18 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Shození na zem:** Je-li stvoření shozeno na zem. Musí obětovat celý svůj pohyb v daném kole aby se postavilo. V každém kole co leží stvoření na zemi a nebo vstává jsou všechny jeho útoky házeny s nevýhodou a také všechny útoky na blízku proti takovému stvoření jsou házeny s výhodou.
 
-**Připravená akce:** Postava nebo stvoření může obětovat svou útočnou akci a pohyb v daném kole, a připravit si akci na specifickou událost. Pokud tato událost pak během toho samého kola nastane. Může být připravená akce použita jako instantní akce.
+**Připravená akce:** Postava nebo stvoření může obětovat své akce, a připravit si akci na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nastane. Může být připravená akce použita jako instantní akce.
+
+!!! Note "Připravené akce a pohyb"
+    Postava se může hýbat jak během tahu co akci připravím tak během samotného použití připravené akce. Dohromady se však nemůže pohnout víc než povoluje hybnost dané postavy.
+
+**Držení kouzla:** Vyčarované kouzlo lze pozdržet a použít jej později jako instantní akci. Pokud je však cíl držící kouzlo zasažen útokem nebo kouzlem, existuje *50 %* šance, že kouzlo bude ztraceno. Během držení kouzla nelze sesílat jiná kouzla.
+
+!!! Note "Držené kouzlo v boji na blízko"
+    Šance na selhání kouzla v boji na blízko platí pouze pro samotné vyčarování kouzla nikoliv jeho seslání.
+
+!!! Warning "Souběh akcí"
+    Připravené akce a kouzla probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
 
 **Slepota:** Slepé stvoření se pohybuje náhodným směrem a všechny útoky na blízku co na něj cílí jsou s výhodou. Sám na blízku útočí s nevýhodou. Útoky na dálku nejsou možné. Pokud se chce oslepený pohybovat specifickým směrem jeho maximální hybnost je 1 metr. Rychlejší pohyb je náhodný.
 

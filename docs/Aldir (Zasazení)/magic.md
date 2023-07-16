@@ -10,13 +10,19 @@ Většina povolání ovládajících magii se také mohou ponořit do výzkumu n
 
 **Objevování nových kouzel a magických předmětů:** Hráč popíše DM jaké kouzlo či předmět by chtěl vytvořit. DM rozhodne zda je to možné a jaké materiály a obnos peněz bude na něj potřeba.  
 
-- *Cena a čas* - Cena se může pohybovat od 500 zlatých a jednoho týdne za drobné kouzelné efekty až po několik stovek tisíc zlatých a 1 rok pro předměty a kouzla s trvalejším či rozsáhlejším efektem. 
+- *Cena a čas* - Cena se může pohybovat od 500 stříbrných a jednoho týdne za drobné kouzelné efekty až po několik stovek tisíc stříbrných a 1 rok pro předměty a kouzla s trvalejším či rozsáhlejším efektem. 
 - *Ostatní* - Do magického výzkumu však spadají i jiné věci než předměty a kouzla. Věci jako vysvěcení místa, seslání trvalého ochranného kouzla, vytvoření magického konstruktu a další.
 
-**Šance na selhání výzkumu:** Ve všech případech má magický výzkum *15%* šanci na selhání.
+**Šance na selhání výzkumu:** Ve všech případech má magický výzkum *35 - modifikátor rozumu x 5 %* šanci na selhání.
 
 !!! note "Selhání větších investic"
     U větších investic se neúspěch projevuje spíše vadou na finálním produktu.
+
+### Používání svitků
+
+Každé gramotné inteligentní stvoření se může pokusit seslat kouzlo ze svitku podstoupením ověření rozumu s *obtížností 15*. Neúspěšné ověření znamená zničení svitku a spektakulární selhání kouzla.
+
+**Znalost používání svitků:** Postavy, které mají schopnost používat svitky (například z povolání). Mohou používat svitky bez nutnosti ověření.
 
 ## Kouzla
 
@@ -88,7 +94,7 @@ Kouzla z tohohle seznamu, jsou dostupná všem povoláními užívající magii.
 Následuje podrobný popis efektů dříve zmíněných kouzel. Pokud není specifikováno jinak platí tato pravidla a vysvětlivky: 
 
 - *L* - Je proměnná představující úroveň sesilatele.  
-- *Sesílání* - Sesílání kouzla trvá běžně *1 útočnou akci* a vyžaduje cíl v zorném poli. 
+- *Sesílání* - Sesílání kouzla trvá běžně celé kolo a nelze se při něm hýbat.
 - *Dosah* - Dosah kouzla je *daleko* (až 50 metrů) 
 - *Trvání* - Pokud má kouzlo delší efekt, tak jeho délka je *L* směn. 
 - *Prodloužení kouzla* Probíhající kouzlo můžeš kdykoliv prodloužit za cenu sesílání bez nutnosti opakování kouzla. 
@@ -97,6 +103,9 @@ Následuje podrobný popis efektů dříve zmíněných kouzel. Pokud není spec
 - *Kombinace efektů* - Více souběžných kouzel, nemůže být použito k navýšení té samé dovednosti (Síla, Zručnost, OČ, Životy a podobně...). 
 - *Předmět* - Jakýkoliv předmět, který se dá bez problému unést jednou rukou. 
 - *Subjekt* - Je cokoliv až do dvojnásobku velikosti člověka.
+
+!!! Note "Slabší verze kouzel"
+    I když je hodnota *L* dána úrovní kouzelníka, tak si kouzelník může vybrat seslat nižší úroveň kouzla. Například pojmout méně cílů nebo způsobit nižší poškození. Cena takového "slabšího" kouzla je stejná jako při normálním sesílání.
 
 ---
 

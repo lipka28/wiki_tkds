@@ -31,9 +31,9 @@ Postava může mít maximálně *8+Modifikátor Síly* slotů vybavených předm
 
 Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zásah.
 
-### Typy zbrojí: 
+### Typy zbrojí:
 
-- **Lehká** - Flexibilní, pohodlná a neomezuje v pohybu. 
+- **Lehká** - Flexibilní, lze v ní spát a neomezuje v pohybu. 
 - **Střední** - Omezuje v pohybu, nedá se v ní spát. 
 - **Těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit. 
 - **Velmi těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit a snižuje hybnost o 2 metry. 
@@ -41,17 +41,21 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 
 | ZBROJE                     |     TYP     | VÁHA |  OČ  | POTŘEBNÁ SÍLA |   CENA   |
 | :------------------------- | :---------: | :--: | :--: | :-----------: | :------: |
-| Obyčejné oblečení          |      -      |  L   |  +0  |       -       | - (1 zl) |
-| Noblesní oblečení          |      -      |  1   |  +0  |       -       |  100 zl  |
-| Vycpávaná / kožená zbroj   |    Lehká    |  1   |  +2  |       -       |  20 zl   |
-| Šupinová / kroužková zbroj |   Střední   |  2   |  +4  |      10       |  40 zl   |
-| Půl plát s kyrysem         |    Těžká    |  3   |  +6  |      12       |  80 zl   |
-| Plná plátová zbroj         | Velmi těžká |  4   |  +8  |      14       |  250 zl  |
-| Štít                       |    Štít     |  2   |  +2  |      10       |  25 zl   |
+| Obyčejné oblečení          |      -      |  1   |  +0  |       -       | - (1 st) |
+| Noblesní oblečení          |      -      |  1   |  +0  |       -       |  100 st  |
+| Vycpávaná / kožená zbroj   |    Lehká    |  1   |  +2  |       -       |  20 st   |
+| Šupinová / kroužková zbroj |   Střední   |  2   |  +4  |      10       |  40 st   |
+| Půl plát s kyrysem         |    Těžká    |  3   |  +6  |      12       |  160 st  |
+| Plná plátová zbroj         | Velmi těžká |  4   |  +8  |      14       |  320 st  |
+| Štít                       |    Štít     |  2   |  +2  |      10       |  25 st   |
 
 **OČ:** Bonus k obrannému číslu. 
 
 **Potřebná síla:** Požadavek na sílu pro nošení zbroje.
+
+### Kovové zbroje a magie:
+
+Pokud stvoření používající magii má na sobě kovovou zbroj (většinou střední nebo těžší). Jeho sesílání kouzel má šanci selhat. Tahle šance je rovna *10 x OČ bonus zbroje %*.
 
 ## Zbraně
 
@@ -70,9 +74,9 @@ Tato kategorizace je také důležitá v situacích kdy záleží na prioritě z
 
 | ZBRAŇ   | CENA  | VÁHA |  POŠKOZENÍ  | PŘÍKLADY ZBRANÍ                                              |
 | :------ | :---: | :--: | :---------: | :----------------------------------------------------------- |
-| Malá    | 5 zl  |  L   |     1d4     | bajonety, boxery, nože...                                    |
-| Střední | 15 zl |  1   | 1d6 - (1d8) | bojové hole, meče, oštěpy, palice, palcáty, sekery...        |
-| Velká   | 30 zl |  2   | 1d10 - 1d12 | halapartny, kopí, obouruční meče a sekery, válečná kladiva... |
+| Malá    | 5 st  |  1   |     1d4     | bajonety, boxery, nože...                                    |
+| Střední | 15 st |  2   | 1d6 - (1d8) | bojové hole, meče, oštěpy, palice, palcáty, sekery...        |
+| Velká   | 30 st |  3   | 1d10 - 1d12 | halapartny, kopí, obouruční meče a sekery, válečná kladiva... |
 
 ### Střelné zbraně
 
@@ -84,24 +88,25 @@ I střelné zbraně jsou řazeny do stejných kategorií jako zbraně na blízku
 
 **Neefektivní dostřel:** S každou střelnou zbraní lze útočit i na tak zvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu (Nebo o stupeň výš toho abstraktního. Např.: Daleko -> Velmi daleko). Takový útok však probíhá *s nevýhodou*.
 
-**Střelba v šarvátce:** Pokud je střelec zrovna v šarvátce a jeho střelná zbraň není malá, tak lze střílet jen s nevýhodou. Střelba na neefektivní dostřel není v tomto okamžiku možná. 
-
 **Nabíjecí zbraně:** Některé zbraně, jako například kuše či muškety, mohou vyžadovat přebíjení. Přebíjení zabírá celé kolo a nelze se při něm hýbat či útočit, stále je však možné používat instantní akce. Nabíjecí zbraně mívají vyšší kostku poškození, než jejich stejně velký nenabíjecí ekvivalent.
 
 **Střelný prach**: Kampaně zasazené v novodobém Aldiru, předpokládají existenci křesadlových střelných zbraní. 
 
 - **Vlastnosti křesadlových zbraní:** Křesadlové zbraně vždy hází poškození s výhodou. Jsou však velmi náchylné na vlhkost. 
-- **Selhání:** Při hodu *NAT 1* na zásah křesadlová zbraň selže. Takovou zbraň je třeba 1 směnu čistit čistící sadou, aby byla znovu použitelná. 
+- **Selhání:** Při hodu *NAT 1 až 3* na zásah křesadlová zbraň selže. Takovou zbraň je třeba 1 směnu čistit čistící sadou, aby byla znovu použitelná. 
 - **Magické pistole:** Je v podstatě nemožné nalézt pistole a pušky s magickým očarováním, jelikož tento styl zbraní se začal  v Aldiru vyrábět až po plošném zákazu magie. Magické pušky nebo magická munice jsou tedy extrémně vzácné.
+
+!!! Warning "Selhání s výhodou a nevýhodou"
+    Výhoda a nevýhoda má nežádoucí vliv na pravděpodobnost selhání křesadlové zbraně. V případě, že je tedy křesadlová zbraň použita s výhodou nebo nevýhodou, je třeba na selhání házet zvlášť, mimo hod na zásah.
 
 | ZBRAŇ                            |  CENA  | VÁHA | POŠKOZENÍ  | PŘÍKLADY ZBRANÍ                 |
 | :------------------------------- | :----: | :--: | :--------: | :------------------------------ |
-| Malá střelná                     | 20 zl  |  L   | 1d4 - 1d6  | praky, příruční kuše, šipky...  |
-| Malá střelná na střelný prach    | 80 zl  |  1   |    1d6     | bambitky...                     |
-| Střední střelná                  | 40 zl  |  1   | 1d6 - 1d8  | kuše, luky...                   |
-| Střední střelná na střelný prach | 120 zl |  2   |    1d8     | houfnice, muškety...            |
-| Velká střelná                    | 80 zl  |  2   | 1d8 - 1d10 | dalekonosné luky, těžké kuše... |
-| Velká střelná na střelný prach   | 160 zl |  3   |    1d10    | těžké muškety...                |
+| Malá střelná                     | 20 st  |  1   | 1d4 - 1d6  | praky, příruční kuše, šipky...  |
+| Malá střelná na střelný prach    | 80 st  |  1   |    1d6     | bambitky...                     |
+| Střední střelná                  | 40 st  |  2   | 1d6 - 1d8  | kuše, luky...                   |
+| Střední střelná na střelný prach | 120 st |  2   |    1d8     | houfnice, muškety...            |
+| Velká střelná                    | 80 st  |  3   | 1d8 - 1d10 | dalekonosné luky, těžké kuše... |
+| Velká střelná na střelný prach   | 160 st |  3   |    1d10    | těžké muškety...                |
 
 ### Munice
 
@@ -116,51 +121,51 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 | PŘEDMĚT                                                  |      VÁHA      | CENA  |
 | :------------------------------------------------------- | :------------: | :---: |
-| Dalekohled                                               |       1        | 20 zl |
-| Dřevěná hůl                                              |       2        | 1 zl  |
-| Dřevěný kabinet na lektvary                              |       2        | 50 zl |
-| Dřevěný kůl                                              |       L        | 1 zl  |
-| Dýmovnice                                                |       L        | 35 zl |
-| Hák                                                      |       1        | 25 zl |
-| Hlavička Česneku                                         |       L        | 1 st  |
-| Hudební nástroj                                          |     1 - 2      | 25 zl |
-| Kniha (Kapacita 100 stránek / 20 receptů / 10 kouzel)    |       1        | 15 zl |
-| Kovová pouta                                             |       1        | 15 zl |
-| Kovový hřeb                                              |       L        | 5 zl  |
-| Koňské sedlo a otěže                                     | 3 (0 nasazeno) | 25 zl |
-| Křesadlo                                                 |       1        | 15 zl |
-| Křída (10)                                               |     1(10L)     | 1 zl  |
-| Lahvička kyseliny                                        |       1        | 20 zl |
-| Lahvička oleje                                           |       1        | 4 zl  |
-| Lahvička s korkovou zátkou                               |       1        | 1 zl  |
-| Lékárnička (10 použití)                                  |       1        | 50 zl |
-| Lékárnička - zásoby (+10 použití)                        |       1        | 40 zl |
-| Lucerna                                                  |       1        | 10 zl |
-| Motouz (25 metrů)                                        |       1        | 1 zl  |
-| Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo atd...) |       1        | 5 zl  |
-| Píšťalka                                                 |       L        | 1 zl  |
-| Psací potřeby - extra inkoust a pergamen (+10 použití)   |       1        | 15 zl |
-| Pochodeň (5 kusů)                                        |       5L       | 1 zl  |
-| Protijed (slabý)                                         |       L        | 30 zl |
-| Provaz (10 metrů)                                        |       1        | 1 zl  |
-| Psací potřeby (10 použití)                               |       1        | 20 zl |
-| Pytel kovových ježků (5 použití)                         |       1        | 10 zl |
-| Rybářské náčiní                                          |       1        | 5 zl  |
-| Řetěz (2 metry)                                          |       1        | 5 zl  |
-| Sada na čištění křesadlových zbraní (10 použití)         |       1        | 25 zl |
-| Sedlová brašna / Pytel                                   |    1 (Kon.)    | 5 zl  |
-| Spacák                                                   |       1        | 2 zl  |
-| Stan (pro 1)                                             |       1        | 5 zl  |
-| Stan (pro 2)                                             |       2        | 15 zl |
-| Stan (pro 4)                                             |       3        | 40 zl |
-| Víno (1 litr, obyčejné)                                  |       1        | 2 zl  |
-| Víno (1 litr, Kvalitní)                                  |       1        | 25 zl |
-| Zápalky (10 použití)                                     |       L        | 5 zl  |
-| Zásoby                                                   |       L        | 1 zl  |
-| Zlodějské náčiní (10 použití)                            |       1        | 25 zl |
-| Zlodějské náčiní - náhradní nástroje (+10 použití)       |       1        | 15 zl |
-| Zrcátko                                                  |       L        | 5 zl  |
-| Zvonek                                                   |       L        | 1 zl  |
+| Dalekohled                                               |       1        | 20 st |
+| Dřevěná hůl                                              |       2        | 1 st  |
+| Dřevěný kabinet na lektvary                              |       2        | 50 st |
+| Dřevěný kůl (5 ks)                                       |       5L       | 1 md  |
+| Dýmovnice                                                |       L        | 35 st |
+| Hák                                                      |       1        | 25 st |
+| Hlavička Česneku                                         |       L        | 1 md  |
+| Hudební nástroj                                          |     1 - 2      | 25 st |
+| Kniha (Kapacita 100 stránek / 20 receptů / 10 kouzel)    |       1        | 15 st |
+| Kovová pouta                                             |       1        | 15 st |
+| Kovový hřeb                                              |       L        | 5 st  |
+| Koňské sedlo a otěže                                     | 3 (0 nasazeno) | 25 st |
+| Křesadlo                                                 |       1        | 15 st |
+| Křída (10)                                               |     1(10L)     | 1 st  |
+| Lahvička kyseliny                                        |       1        | 20 st |
+| Lahvička oleje                                           |       1        | 4 st  |
+| Lahvička s korkovou zátkou                               |       1        | 1 st  |
+| Lékárnička (10 použití)                                  |       1        | 50 st |
+| Lékárnička - zásoby (+10 použití)                        |       1        | 40 st |
+| Lucerna                                                  |       1        | 10 st |
+| Motouz (25 metrů)                                        |       1        | 1 st  |
+| Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo atd...) |       1        | 5 st  |
+| Píšťalka                                                 |       L        | 1 st  |
+| Psací potřeby - extra inkoust a pergamen (+10 použití)   |       1        | 15 st |
+| Pochodeň (5 kusů)                                        |       5L       | 1 st  |
+| Protijed (slabý)                                         |       L        | 30 st |
+| Provaz (10 metrů)                                        |       1        | 1 st  |
+| Psací potřeby (10 použití)                               |       1        | 20 st |
+| Pytel kovových ježků (5 použití)                         |       1        | 10 st |
+| Rybářské náčiní                                          |       1        | 5 st  |
+| Řetěz (2 metry)                                          |       1        | 5 st  |
+| Sada na čištění křesadlových zbraní (10 použití)         |       1        | 25 st |
+| Sedlová brašna / Pytel                                   |    1 (Kon.)    | 5 st  |
+| Spacák                                                   |       1        | 2 st  |
+| Stan (pro 1)                                             |       1        | 5 st  |
+| Stan (pro 2)                                             |       2        | 15 st |
+| Stan (pro 4)                                             |       3        | 40 st |
+| Víno (1 litr, obyčejné)                                  |       1        | 2 st  |
+| Víno (1 litr, Kvalitní)                                  |       1        | 25 st |
+| Zápalky (10 použití)                                     |       L        | 5 st  |
+| Zásoby                                                   |       L        | 1 st  |
+| Zlodějské náčiní (10 použití)                            |       1        | 25 st |
+| Zlodějské náčiní - náhradní nástroje (+10 použití)       |       1        | 15 st |
+| Zrcátko                                                  |       L        | 5 st  |
+| Zvonek                                                   |       L        | 1 st  |
 | A další... (Zeptej se DM)                                |       ??       |  ??   |
 
 **Kontejner (Kon.):** Obsazené předměty s tímto označením zabírají místo v inventáři pouze pokud, jsou-li v něm uschované. Při běžném použití žádné místo nezabírají. (Místo je zabíráno pouze předměty uschovanými uvnitř)
@@ -195,7 +200,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. 
 
-- *Přirozené léčení v divočině:* Umožňuje přirozené léčení (2 životy) při přenocování v divočině. (1 použití / cíl / přenocování)
+- *Léčení:* 1 použití umožňuje vyléčit 2 životy denně. (1 použití / cíl)
 
 **Lucerna:** Poskytuje světlo v oblasti *8 metrů* a má posuvnou clonu, kterou lze světlo zakrýt nebo namířit jen jedním směrem. K fungování vyžaduje olej. 
 
@@ -252,13 +257,13 @@ Aplikace na zbraň trvá 1 směnu. Jednou lahvičkou jedu lze pokrýt *jednu vel
 
 ### Běžné jedy
 
-| TYP  | CENA (zl) | SAVE MOD. | ODHALENÍ*\** |   ONSET   |  EFEKT*\** (U)  |    EFEKT (N)    |
-| :--: | :-------: | :-------: | :----------: | :-------: | :-------------: | :-------------: |
-|  I   |    10     |    +6     |     80%      |  2d4 kol  | 5 hp poškození  | 10 hp poškození |
-|  II  |    75     |    +5     |     65%      | 1d4+1 kol | 10 hp poškození | 20 hp poškození |
-| III  |    300    |    +4     |     40%      |  1d2 kol  | 15 hp poškození | 30 hp poškození |
-|  IV  |    800    |    +3     |     15%      |   Ihned   | 20 hp poškození | 40 hp poškození |
-|  V   |   1 300   |    +2     |      0%      |   Ihned   | 25 hp poškození | 50 hp poškození |
+| TYP  |   CENA   | SAVE MOD. | ODHALENÍ*\** |   ONSET   |  EFEKT*\** (U)  |    EFEKT (N)    |
+| :--: | :------: | :-------: | :----------: | :-------: | :-------------: | :-------------: |
+|  I   |  10 st   |    +6     |     80%      |  2d4 kol  | 5 hp poškození  | 10 hp poškození |
+|  II  |  75 st   |    +5     |     65%      | 1d4+1 kol | 10 hp poškození | 20 hp poškození |
+| III  |  300 st  |    +4     |     40%      |  1d2 kol  | 15 hp poškození | 30 hp poškození |
+|  IV  |  800 st  |    +3     |     15%      |   Ihned   | 20 hp poškození | 40 hp poškození |
+|  V   | 1 300 st |    +2     |      0%      |   Ihned   | 25 hp poškození | 50 hp poškození |
 
 *\*Platí jen při konzumaci*
 
@@ -293,7 +298,7 @@ Domestikované plemeno vybírané především pro svou inteligenci a stopovací
 - *Stopování:* Čichem. Jakmile začne stopovat, je velmi obtížné jej svést z cesty. 
 - *Na příkaz:* Trénovaný, aby útočil na příkaz majitele.
 
-**Cena:** 17 zl
+**Cena:** 17 st
 
 ---
 
@@ -310,7 +315,7 @@ Velké domestikované plemeno. Vybrané především pro svou velikost a svou di
 - *Brnění:* Trénován aby nosil brnění. (Lze dokoupit za *25 zl*. Poskytuje extra *+2 OČ*) 
 - *Na příkaz:* Trénovaný, aby útočil na příkaz majitele. 
 
-**Cena:** 25 zl
+**Cena:** 25 st
 
 ---
 
@@ -328,7 +333,7 @@ Tvrdohlavý kříženec koně a osla.
 - *Defenzivní:* Může zaútočit pokud ohrožen, nemůže však být vycvičen k útoku.
 - *Nosnost:* 20 Slotů
 
-**Cena:** 30 zl
+**Cena:** 30 st
 
 ---
 
@@ -346,7 +351,7 @@ Lehce stavěný kůň určený pro rychlou jízdu.
 - *Nenáročný:* Může přežít čistě na zeleni, tam kde je dostupná. 
 - *Nosnost:* 30 Slotů
 
-**Cena:** 75 zl
+**Cena:** 75 st
 
 ---
 
@@ -363,7 +368,7 @@ Vyšlechtěný kůň k tažení velké zátěže.
 - *Bojácný:* Pokud je napaden, tak uteče. 
 - *Nosnost:* 45 Slotů
 
-**Cena:** 40 zl
+**Cena:** 40 st
 
 ---
 
@@ -380,7 +385,7 @@ Vyšlechtěný kůň k síle a odvaze v boji. Vhodný pro krátké rychlé náje
 - *Boj z blízka:* Při boji z blízka mohou jak jezdec tak kůň útočit naráz.
 - *Nosnost:* 40 Slotů
 
-**Cena:** 250 zl
+**Cena:** 250 st
 
 ---
 
@@ -395,7 +400,7 @@ Dvoukolá kárka s velkou kapacitou.
 - *Max nosnost:* (40) 80 Slotů (v závorce nosnost s minimem zvířat) 
 - *Obtížný terén:* Tento typ vozidla muže cestovat pouze po udržovaných cestách.
 
-**Cena:** 100 zl
+**Cena:** 100 st
 
 !!! note "SP: Životy struktur"
 	Struktury nelze poškodit běžnými zbraněmi (meče, luky, sekery atd..). Avšak velká stvoření, kouzla a obléhací zbraně je poškodit mohou. Za každých *5 poškození*, které útokem způsobí obléhací zbraň, kouzlo nebo velká nestvůra. *Obdrží struktura 1 bod poškození*.

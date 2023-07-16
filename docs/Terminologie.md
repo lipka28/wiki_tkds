@@ -65,9 +65,12 @@ K měření času se používají standardní jednotky času (sekundy, minuty, h
 
 Peníze jsou základním platidlem a odměnou za dobře odvedenou práci. Peníze existují ve čtyřech nominálních hodnotách a to *platinové* (pl), *zlaté* (zl), *stříbrné* (st) a *měděné* (md). Základní převod je následující:
 
-- **1 pl = 10 zl**
-- **1 zl = 10 st**
+- **1 pl = 100 zl = 10 000 st = 100 000 md**
+- **1 zl = 100 st = 1000 md**
 - **1 st = 10 md**
+
+!!! Note "Škála a význam peněz"
+    Pro lepší představu 1 stříbrný, je obnos, který si přibližně vydělá nevzdělaný rolník za 1 den své práce. Běžní strážní si pak vydělají kolem 2 stříbrných za den. Stříbro se pak používá převážně mezi běžnými obchodníky, zatímco šlechta preferuje zlato. Platinové mince pak neexistují jako takové, ale používá se čistě pro účely účetnictví. 
 
 ## Herní statistiky
 

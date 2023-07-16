@@ -41,7 +41,7 @@ Zaznač si všechny zvláštní schopnosti, které tvá postava získala výběr
 
 ## 8. Nakup si výbavu
 
-Tvá postava (pokud nic nezdědila) začíná s bohatstvím ve výši *3d6 * 10 zlatých*. Za které si může nakoupit libovolnou výbavu z tabulek v kapitole [Vybavení a nosnost](/Gear/#vybaveni-a-nosnost).
+Tvá postava (pokud nic nezdědila) začíná s bohatstvím ve výši *3d6 * 10 stříbrných*. Za které si může nakoupit libovolnou výbavu z tabulek v kapitole [Vybavení a nosnost](/Gear/#vybaveni-a-nosnost).
 
 !!! warning "Pozor: Omezení na výbavu"
 	Tvé povolání může mít omezení vztahující se k výbavě, kterou můžeš používat.
