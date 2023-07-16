@@ -9,15 +9,15 @@
 | ÚROVEŇ |       HP       | ODEMYKÁ                                                     |
 | :----: | :------------: | :---------------------------------------------------------- |
 |   1    | +1d6+MOD Výdrž | Přepadení; Tulácký um; Bonus k zásahu +0; Záchranný hod: 16 |
-|   2    | +1d6+MOD Výdrž | Expertíza                                                   |
+|   2    | +1d6+MOD Výdrž | Špinavý trik                                                |
 |   3    | +1d6+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                       |
-|   4    | +1d6+MOD Výdrž | Talent                                                      |
+|   4    | +1d6+MOD Výdrž | Perk                                                        |
 |   5    | +1d6+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 12                       |
-|   6    | +1d6+MOD Výdrž | Špinavý trik; +2 body expertízy                             |
+|   6    | +1d6+MOD Výdrž | Expertíza                                                   |
 |   7    | +1d6+MOD Výdrž | Bonus k zásahu: +5; Záchranný hod: 10                       |
-|   8    | +1d6+MOD Výdrž | Talent                                                      |
+|   8    | +1d6+MOD Výdrž | Perk                                                        |
 |   9    | +1d6+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 8                        |
-|   10   | +1d6+MOD Výdrž | Dokonalý úhyb; +2 body expertízy                            |
+|   10   | +1d6+MOD Výdrž | Úhyb                                                        |
 |  10+   |       +1       | ---                                                         |
 
 ## Schopnosti povolání
