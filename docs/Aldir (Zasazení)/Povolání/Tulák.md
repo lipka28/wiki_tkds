@@ -30,51 +30,32 @@
 
 ### Úroveň 1 - Přepadení
 
-Pokud tulák útočí malou nebo střední zbraní na někoho, kdo je překvapen nebo neví o jeho přítomnosti, útočí s výhodou. Udělené poškození je při zásahu dvojnásobné. 
+Pokud tulák útočí malou nebo střední zbraní na někoho zezadu, někoho kdo je překvapen nebo neví o tulákovi přítomnosti, útočí s výhodou.
 
-- *Malá zbraň na blízko* - Poškození je čtyřnásobné.
+- *Dobrá příležitost* - Pokud tulák útočí s výhodou tak udělí dvojnásobné poškození. Pokud je to navíc útok na blízko a malou zbraní, tak útok působí čtyřnásobné poškození. 
 
 ### Úroveň 1 - Tulácký um
 
-Tulák má bonus ve výši své úrovně, ke všem ověření dovedností při odemykání zámků, schovávání se ve stínech, plížení, vybírání kapes a dalších aktivitách ve kterých by tulák měl vynikat.
+Tulák má bonus ve výši své úrovně, ke všem ověření dovedností týkající se aktivit, ve kterých by měl logicky tulák vynikat.
 
-### Úroveň 2 - Expertíza
+!!! Note "Příklady tuláckých aktivit"
+    Tulák by měl získat bonus minimálně v následujících aktivitách: Šplhání po rovných površích, Plížení se, Vybírání kapes, Odemykání zámků, Lhaní, Zachycení se při pádech z výšky, Manipulace s mechanickými zařízeními... Pj může povolit další využití.
 
-Dvakrát denně můžeš použít svou expertízu aby si opravil neúspěšné ověření dovednosti týkající se nějaké tulácké aktivity (jak popsáno v *"Tulácký um"* výše) 
+### Úroveň 2 - Špinavý trik
 
-- *Úhyb* - Alternativně můžeš použít expertízu v kombinaci s instantní akci k zredukování obdrženého poškození na polovinu. 
-- *Extra použití* - Na 6. a 10. úrovni získáš extra 2 použití.
+V boji se můžeš pokusit ukrást, umístit nebo sabotovat předmět na cíli v dosahu (platí bonusy z *"Tulácký um"*). Předmět pro ukradení / umístění nesmí být větší než *30 centimetrů* a zabírat 1 slot. Pokud chceš ukrást předmět co dotyčný cíl drží v ruce nebo je jinak součástí aktivně požívané výbavy jedince, házíš ověření dovednosti s nevýhodou.
 
-### Úroveň 4, 8, 12... - Talent
+### Úroveň 4, 8, 12... - Perk
 
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
-- Zvýšit si libovolnou dovednost o 1 bod
-- Vybrat si 1 talent z existujících talentů pro tvé povolání. Nebo si nějaký talent ve spolupráci s DM vymyslet.
-- Vylepšit si nějaký svůj již existující talent na vyšší úroveň (Od 8. úrovně)
+- Rozdělit si 2 body mezi libovolné dovednosti.
+- Vybrat si 1 perk z existujících perků, pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s DM vymyslet.
 
-### Úroveň 6 - Špinavý trik
+### Úroveň 6 - Expertíza
 
-V boji můžeš použít svou instantní akci k následujícím aktivitám. 
+Vyber si 1 aktivitu pokrytou v [Tulácký um](/Aldir%20%28Zasazení%29/Povolání/Tulák/#uroven-1-tulacky-um). Ve vykonávání této aktivity vždy uspěješ, bez potřeby házet na ověření dovednosti.
 
-- *Pohyb* - Pohnout se extra 2 metry a tím se zároveň vyvázat z boje na blízko. 
-- *Ukrást či umístit předmět* - Můžeš se pokusit ukrást nebo umístit malý předmět na cíl v dosahu (platí bonusy z *"Tulácký um"*). Předmět nesmí být větší než *30 centimetrů*. Pokud chceš ukrást předmět co dotyčný cíl drží v ruce nebo je jinak součástí aktivně požívané výbavy jedince, házíš ověření s nevýhodou.
+### Úroveň 10 - Úhyb
 
-### Úroveň 10 - Dokonalý úhyb
-
-Tvůj úhyb zredukuje všechno obdržené poškození.
-
-
-
----
-
-![Image title](/assets/talent_banners/rogue.webp)
-
----
-
-## Talenty
-
-wip
-
----
-
+Když obdržíš poškození, tak můžeš použít instantní akci aby si jej zredukoval na polovinu.

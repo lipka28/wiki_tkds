@@ -399,6 +399,8 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus +1 do zásahu, poškození a OČ. 
 
+**Bojové manévry:** Stvoření si může na místo poškození svou zbraní vybrat, že provede bojový manévry. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci.
+
 **Netrénovaná brnění:** Netrénovaná brnění poskytují jen poloviční bonus k OČ a mohou mít další postihy u některých povolání.
 
 **Netrénované štíty:** Postavy netrénované se štítem. Nezískávají jen poloviční bonus do OČ ze štítu a také ním nemohou reflexivně blokovat. 

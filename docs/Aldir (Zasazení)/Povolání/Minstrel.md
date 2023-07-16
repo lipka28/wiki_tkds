@@ -8,16 +8,16 @@
 
 | ÚROVEŇ |       HP       | ODEMYKÁ                                                      |
 | :----: | :------------: | :----------------------------------------------------------- |
-|   1    | +1d6+MOD Výdrž | Dobrá společnost; Potížista; Bonus k zásahu +0; Záchranný hod: 16 |
-|   2    | +1d6+MOD Výdrž | Inspirace                                                    |
+|   1    | +1d6+MOD Výdrž | Dobrá společnost; Talentovaný potížista; Bonus k zásahu +0; Záchranný hod: 16 |
+|   2    | +1d6+MOD Výdrž | Bojová píseň                                                 |
 |   3    | +1d6+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                        |
-|   4    | +1d6+MOD Výdrž | Talent                                                       |
+|   4    | +1d6+MOD Výdrž | Perk                                                         |
 |   5    | +1d6+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 12                        |
-|   6    | +1d6+MOD Výdrž | Bloudivá mysl; +2 Inspirace                                  |
+|   6    | +1d6+MOD Výdrž | Bloudivá mysl                                                |
 |   7    | +1d6+MOD Výdrž | Bonus k zásahu: +5; Záchranný hod: 10                        |
-|   8    | +1d6+MOD Výdrž | Talent                                                       |
+|   8    | +1d6+MOD Výdrž | Perk                                                         |
 |   9    | +1d6+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 8                         |
-|   10   | +1d6+MOD Výdrž | Světoznámý; +2 Inspirace                                     |
+|   10   | +1d6+MOD Výdrž | Výjimečná společnost                                         |
 |  10+   |       +1       | ---                                                          |
 
 ## Schopnosti povolání
@@ -37,46 +37,35 @@ Minstrel je vždy dobrou společností při toulkách po světě. Pokud skupina 
 !!! warning "Únava"
     Tento efekt nemá žádný dopad na únavu.
 
-### Úroveň 1: Potížista
+### Úroveň 1: Talentovaný potížista
 
-Minstrel má bonus ve výši své úrovně k hodům na ověření v případech, že se pokusí neslyšně plížit nebo někomu vybrat kapsy. Stejný bonus, lze také aplikovat na ostatní aktivity, ve kterých by Minstrel měl vynikat 
+Minstrel má bonus ve výši své úrovně, ke všem ověření dovedností týkající se aktivit, ve kterých by měl logicky minstrel vynikat.
 
-- *Svitky* - Minstrelovo lingvistické nadání mu také umožňuje sesílat kouzla z magických svitků se stejným bonusem na úspěch.
+- *Svitky* - Minstrelovo lingvistické nadání mu také umožňuje sesílat kouzla z magických svitků.
 
-### Úroveň 2 - Inspirace
+!!! Note "Příklady minstrelských aktivit"
+    Minstrel by měl získat bonus minimálně v následujících aktivitách: Plížení se, Vybírání kapes, Vystupování před lidmi, Impersonace, Lhaní, Různé kejklířské kousky... Pj může povolit další využití.
 
-Minstrelova slova a melodie působí až nadpřirozenou mocí. Dvakrát denně můžeš jednomu blízkému stvoření (do 5-ti metrů) poskytnout výhodu na libovolné ověření dovednosti (včetně útoků). Inspirace musí být poskytnuta před provedením akce, a daný hod kostkou se pak musí odehrát během jedné směny. 
+### Úroveň 2 - Bojová píseň
 
-- *V boji* - Poskytnutí inspirace v boji je považováno za útočnou akci. 
-- *Extra inspirace* - Na 6. a 10. úrovni získáš extra použití.
+Minstrel můžě obětovat svou akci v daném kole a hrát bojovou píseň pro všechny spojence poblíž (do 25 metrů). Hraní písně se pro účely boje počítá jako sesílání kouzla avšak lze se při něm pohybovat.
 
-### Úroveň 4, 8, 12... - Talent
+- *Efekt písně* - Pokud píseň zní, tak spojenci mají bonus +1 k zásahu, poškození, OČ, záchranným hodům a všechno poškození, které spojenci obdrží je sníženo o 1 za každou kostku poškození v daném útoku.
+- *Rozptýlit* - Pokud píseň zní, může minstrel použít instantní akci aby rozptýlil jednoho nepřítele poblíž (do 25 metrů), krátkou rýmovačkou na jeho zesměšnění. Cíl rozptýlení má 50% šanci, že zapomene co chtěl zrovna dělat bude své soustředění nově upírat na minstrela. 
+
+### Úroveň 4, 8, 12... - Perk
 
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
-- Zvýšit si libovolnou dovednost o 1 bod
-- Vybrat si 1 talent z existujících talentů pro tvé povolání. Nebo si nějaký talent ve spolupráci s DM vymyslet.
-- Vylepšit si nějaký svůj již existující talent na vyšší úroveň (Od 8. úrovně)
+- Rozdělit si 2 body mezi libovolné dovednosti.
+- Vybrat si 1 perk z existujících perků, pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s DM vymyslet.
 
 ### Úroveň 6 - Bloudivá mysl
 
 Minstrel má výhodu na všechny záchranné hody proti efektům ovlivňující mysl.
 
-### Úroveň 10 - Světoznámý
+### Úroveň 10 - Výjimečná společnost
 
-Všude v civilizovaném světě si vítán. To ti může otevřít dveře na spoustu míst. Také jsou ti všechny služby a zboží poskytovány buď zdarma nebo s 50%-ní slevou.
+Schopnost [Dobrá společnost](/Aldir%20%28Zasazení%29/Povolání/Minstrel/#uroven-1-dobra-spolecnost) léčí dvojnásobné množství životů, léčí únavu jako by všichni přenocovali v civilizaci a poskytne všem zúčastněným (včetně minstrela) 1 Bod naděje.
 
-
-
----
-
-![Image title](/assets/talent_banners/bard.webp)
-
----
-
-## Talenty
-
-wip
-
----
-
+- *Bod naděje* - Hráč může využít bod naděje aby opravil některý ze svých D20 hodů (nepočítá se jako výhoda). Hráč může mít v jednu chvíli maximálně 1 bod naděje.

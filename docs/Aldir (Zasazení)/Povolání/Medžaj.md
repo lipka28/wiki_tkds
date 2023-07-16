@@ -8,14 +8,14 @@
 
 | ÚROVEŇ |       HP       | ODEMYKÁ                                                      |
 | :----: | :------------: | :----------------------------------------------------------- |
-|   1    | +1d4+MOD Výdrž | Magie a kouzla; Rozpoznej magii; Magická střela; Bonus k zásahu +0; Záchranný hod: 16 |
+|   1    | +1d4+MOD Výdrž | Magie a kouzla; Vyciť magii; Magická střela; Bonus k zásahu +0; Záchranný hod: 16 |
 |   2    | +1d4+MOD Výdrž | Magická odolnost; +1 kouzlo                                  |
 |   3    | +1d4+MOD Výdrž | Bonus k zásahu: +1; Záchranný hod: 14; +1 kouzlo             |
-|   4    | +1d4+MOD Výdrž | Talent; +1 kouzlo                                            |
+|   4    | +1d4+MOD Výdrž | Perk; +1 kouzlo                                              |
 |   5    | +1d4+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 12; +1 kouzlo; +1 Magická střela |
 |   6    | +1d4+MOD Výdrž | Tiché sesílání; +1 kouzlo                                    |
 |   7    | +1d4+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 10; +1 kouzlo             |
-|   8    | +1d4+MOD Výdrž | Talent; +1 kouzlo                                            |
+|   8    | +1d4+MOD Výdrž | Perk; +1 kouzlo                                              |
 |   9    | +1d4+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 8; +1 kouzlo              |
 |   10   | +1d4+MOD Výdrž | Umocni magii; +1 kouzlo; +1 Magická střela                   |
 |  10+   |       +1       | +1 kouzlo                                                    |
@@ -35,9 +35,9 @@ Disponuješ schopností používat magii. To znamená, že umíš aktivovat magi
 - *Učení se nových kouzel* - Hru začínáš s dvěma kouzly dle tvého výběru. Vybírat můžeš ze [seznamu kouzel](/Aldir%20%28Zasazení%29/magic/#kouzla). Další 1 kouzlo získáváš z každou novou úrovní.  
 - *Maximum kouzel* - Počet kouzel, které se můžeš naučit, odpovídá hodnotě tvé dovednosti rozum. Pokud bys získal kouzlo a překročil tuhle hodnotu, musíš některé naučené kouzlo zapomenout.
 
-### Úroveň 1 - Rozpoznej magii
+### Úroveň 1 - Vyciť magii
 
-Máš schopnost dotykem rozpoznat, zda je stvoření, předmět nebo objekt magický. U takhle identifikovaných subjektů se můžeš pokusit o ověření rozumu a dozvědět se, o jaký druh magie se jedná.
+Máš schopnost vycítit magii do vzdálenosti až *25 metrů* (Poblíž). Můžeš dokonce i částečně rozpoznat o jaký typ magie se jedná. Pokud dané kouzlo ovládáš dokážeš ho i přesně identifikovat.
 
 ### Úroveň 1 - Magická střela
 
@@ -54,19 +54,18 @@ Magická střela je základní kouzlo, které se pro sebeobranu naučí každý 
 
 ### Úroveň 2 - Magická odolnost
 
-Tvůj blízký vztah k magii ti dává bonus *+2*, ke všem záchranným hodům proti magii. Navíc pokud při záchraně proti magii hodíš výsledek *20* nebo více (včetně bonusů) můžeš efekt kouzla ignorovat.
+Tvůj blízký vztah k magii ti dává bonus *+2*, ke všem záchranným hodům proti magii.
 
-### Úroveň 4, 8, 12... - Talent
+### Úroveň 4, 8, 12... - Perk
 
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
-- Zvýšit si libovolnou dovednost o 1 bod
-- Vybrat si 1 talent z existujících talentů pro tvé povolání. Nebo si nějaký talent ve spolupráci s DM vymyslet.
-- Vylepšit si nějaký svůj již existující talent na vyšší úroveň (Od 8. úrovně)
+- Rozdělit si 2 body mezi libovolné dovednosti.
+- Vybrat si 1 perk z existujících perků, pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s DM vymyslet.
 
 ### Úroveň 6 - Tiché sesílání
 
-Naučil si se sesílat kouzla tak dobře, že již nepotřebuješ říkat magické formule. Můžeš sesílat kouzla pouhými gesty.
+Naučil si se sesílat kouzla tak dobře, že již nepotřebuješ říkat magické formule. Můžeš sesílat kouzla pouhými gesty. To ti navíc umožňuje sesílat kouzla bez šance na selhání i pokud si vázaný v boji na blízko.
 
 ### Úroveň 10 - Umocni magii
 
@@ -80,18 +79,3 @@ Způsoby lze i kombinovat avšak cena kouzla se pak vždy násobí dvěma.
 
 !!! example "Příklad: Umocněné kouzlo"
     Medžaj 10. úrovně může za den seslat 10 kouzel. Rozhodne-li se seslat Ohnivou explozi, zvýšit její rozsah na dvojnásobek (10 metrů místo 5), zdvojnásobit její poškození (20d6 na místo 10d6) a dát všem zasaženým nevýhodu na záchranný hod. Tak se vyčarování kouzla bude počítat jako by vyčaroval 8 kouzel. 1x základ, x2 za rozsah, x2 za poškození a x2 za nevýhodu na záchranu.
-
-
-
----
-
-![Image title](/assets/talent_banners/medz.webp)
-
----
-
-## Talenty
-
-wip
-
----
-

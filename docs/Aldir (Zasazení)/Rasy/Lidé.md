@@ -16,7 +16,7 @@
 
 **Speciální vlastnosti:**
 
-- *Nadaný* - Člověk získává 2 extra dovednostní body do dovedností vlastního výběru. Výsledkem nesmí být dovednosti vyšší jak 18 bodů.
+- *Nadaný* - Člověk získává 2 extra dovednostní body do dovedností vlastního výběru. Výsledkem nesmí být dovednosti vyšší jak 18 bodů. Nebo si může na místo dovednostních bodů vybrat perk, pro který splňuje požadavky.
 
 ---
 
