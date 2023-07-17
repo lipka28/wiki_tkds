@@ -74,19 +74,20 @@ Rozum představuje schopnost učit se, paměť, rozum a sílu vůle. Rozumu urč
 
 ## Osobnost
 
-Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopnost vést. Modifikátor osobnosti ovlivňuje především to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě.
+Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopnost vést. Modifikátor osobnosti ovlivňuje to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě, kolik můžeš mít nehráčských společníků a to jak jsou mu daní společnící loajalní.
 
-| Osobnost | Modifikátor |
-| :------: | :---------: |
-|    3     |     -3      |
-|  4 - 5   |     -2      |
-|  6 - 8   |     -1      |
-|  9 - 12  |      0      |
-| 13 - 15  |     +1      |
-| 16 - 17  |     +2      |
-| 18 - 20  |     +3      |
-| 21 - 24  |     +4      |
-| 25 - 30  |     +5      |
+| Osobnost | Modifikátor | MAx Počet společníků |   Loajalita   |
+| :------: | :---------: | :------------------: | :-----------: |
+|    3     |     -3      |          0           |       0       |
+|  4 - 5   |     -2      |          0           |       0       |
+|  6 - 8   |     -1      |          1           |       6       |
+|  9 - 12  |      0      |          2           |       7       |
+| 13 - 15  |     +1      |          3           |       8       |
+| 16 - 17  |     +2      |          4           |       9       |
+| 18 - 20  |     +3      |          5           |      10       |
+| 21 - 24  |     +4      |          6           |      11       |
+| 25 - 30  |     +5      |          7           | 12 (bezmezná) |
 
----
+!!! Note "Společníci"
+    Za společníka může být považován jak placený žoldák, tak zvíře nebo třeba nějaký vázaný démon.
 
