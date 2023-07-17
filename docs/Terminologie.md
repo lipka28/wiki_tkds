@@ -70,7 +70,7 @@ Peníze jsou základním platidlem a odměnou za dobře odvedenou práci. Peníz
 - **1 st = 10 md**
 
 !!! Note "Škála a význam peněz"
-    Pro lepší představu 1 stříbrný, je obnos, který si přibližně vydělá nevzdělaný rolník za 1 den své práce. Běžní strážní si pak vydělají kolem 2 stříbrných za den. Stříbro se pak používá převážně mezi běžnými obchodníky, zatímco šlechta preferuje zlato. Platinové mince pak neexistují jako takové, ale používá se čistě pro účely účetnictví. 
+    Pro lepší představu 1 stříbrný, je obnos, který si přibližně vydělá nevzdělaný rolník za 1 den své práce. Běžní strážní si pak vydělají kolem 2 až 3 stříbrných za den. Stříbro se pak používá převážně mezi běžnými obchodníky, zatímco šlechta preferuje zlato. Platinové mince pak neexistují jako takové, ale používá se čistě pro účely účetnictví. 
 
 ## Herní statistiky
 

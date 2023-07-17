@@ -112,8 +112,8 @@ I střelné zbraně jsou řazeny do stejných kategorií jako zbraně na blízku
 
 | MUNICE                         | VÁHA | CENA  |
 | :----------------------------- | :--: | :---: |
-| Munice (20 ks)                 |  1   | 10 zl |
-| Munice a střelný prach (10 ks) |  1   | 30 zl |
+| Munice (20 ks)                 |  1   | 10 st |
+| Munice a střelný prach (10 ks) |  1   | 30 st |
 
 ## Výbava dobrodruha
 

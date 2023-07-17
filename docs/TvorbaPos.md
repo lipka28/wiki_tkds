@@ -8,6 +8,9 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 Jdi dovednost po dovednosti, v pořadí jakém si usmyslíš. Na každou dovednost si hoď *4d6*, zahoď nejnižší a výsledek si zaznač.
 
+!!! Note "Doporučené pořadí házení dovedností"
+    Síla, Zručnost, Výdrž, Rozum, Osobnost
+
 ## 2. Vyber si rasu a povolání
 
 Vyber si jednu z ras a jedno povolání dobrodruha a zaznač si jejich název do svého deníku postavy. Mysli na to, že některé rasy mají minimální požadavek na specifické dovednosti aby sis je mohl vybrat.
