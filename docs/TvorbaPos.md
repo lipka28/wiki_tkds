@@ -28,16 +28,16 @@ Zaznač si útočné číslo a záchranný hod dle svého povolání. Případn�
 Stanov životy tvé postavy hodem kostkou zdraví uvedenou v tabulce postupu tvého povolání a aplikuj modifikátor za výdrž. Každá postava začíná minimálně s 1 životem.
 
 !!! example "Volitelné pravidlo: Maximum na 1. úrovni"
-	Dle uvážení DM, je možnost na první úrovni neházet na životy vůbec a jen si zapsat nejvyšší možnou hodnotu na kostce modifikovanou tvou výdrži. 
+	Dle uvážení PJ, je možnost na první úrovni neházet na životy vůbec a jen si zapsat nejvyšší možnou hodnotu na kostce modifikovanou tvou výdrži. 
 
 !!! example "Volitelné pravidlo: Přehození 1"
-	Pokud ti padne 1, může ti DM dovolit házet znovu.
+	Pokud ti padne 1, může ti PJ dovolit házet znovu.
 
 ## 6. Zaznač si schopnosti tvého povolání a rasy
 
 Zaznač si všechny zvláštní schopnosti, které tvá postava získala výběrem rasy a povolání. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na hybnost danou tvou rasou.
 
-**Jazyky:** Poznač si také jazyky získané výběrem rasy a povolání. Případně, že má tvá postava vysokou hodnotu dovednosti rozum, požádej DM o další jazyky.
+**Jazyky:** Poznač si také jazyky získané výběrem rasy a povolání. Případně, že má tvá postava vysokou hodnotu dovednosti rozum, požádej PJ o další jazyky.
 
 !!! note "Jazyky Aldiru"
     Pokud se vaše dobrodružství odehrává v Aldiru. Najdete dostupné jazyky [zde](/Aldir%20%28Zasazení%29/about/#jazyky-aldiru).
@@ -71,7 +71,7 @@ A konečně, vyber jméno pro svou postavu. Hurá! Nyní si připraven/a na dobr
 
 Někteří hráči mohou chtít o svých postavách vědět něco víc než jen jakou mají sílu a odolnost a zda se umí ohánět mečem nebo sekerou. Takoví hráči si mohou vytvořit krátký příběh o původu své postavy. Tento příběh by měl ale splňovat následující body.:
 
-- **Hratelný:** Tvůj příběh by měl být tzv. "hratelný". Nezapomeň do něj zakomponovat věci, které si myslíš že by mohli být relevantní pro aktuální kampaň a které by DM mohl použít. Dobré je třeba propojit svůj příběh s herním světem. Například, že se tvá postava zná s nějakým relevantním NPC nebo že třeba byl/je členem nějaké významné frakce. 
+- **Hratelný:** Tvůj příběh by měl být tzv. "hratelný". Nezapomeň do něj zakomponovat věci, které si myslíš že by mohli být relevantní pro aktuální kampaň a které by PJ mohl použít. Dobré je třeba propojit svůj příběh s herním světem. Například, že se tvá postava zná s nějakým relevantním NPC nebo že třeba byl/je členem nějaké významné frakce. 
 - **Krátký a k věci:** Tvůj příběh by měl být krátký a k věci. Odstavec, maximálně 2 jsou více jak dostačující. Úplně nejlepší je prezentovat svůj příběh formou odrážek. Nikdo nebude číst několika stránkové stěny textu. 
 - **Ne-heroický:** Hrdinou se člověk nenarodí, ale stane. Hrdinství je něco, co si tvá postava musí zasloužit během hry. Nedává tedy smysl, aby příběh o původu tvé postavy byl plný velkých činů a slávy.
 

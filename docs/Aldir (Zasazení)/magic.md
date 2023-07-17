@@ -8,7 +8,7 @@ I navzdory tomu, že v Aldiru bylo kolem roku 530 AE, po velkém kolapsu magick�
 
 Většina povolání ovládajících magii se také mohou ponořit do výzkumu nových kouzel, rituálů, magických předmětů a ostatních věcí které souvisí s magií. Takový výzkum vyžaduje čas, peníze a někdy dokonce i neobvyklé ingredience a jeho výsledek rozhodně není garantovaný. 
 
-**Objevování nových kouzel a magických předmětů:** Hráč popíše DM jaké kouzlo či předmět by chtěl vytvořit. DM rozhodne zda je to možné a jaké materiály a obnos peněz bude na něj potřeba.  
+**Objevování nových kouzel a magických předmětů:** Hráč popíše PJ jaké kouzlo či předmět by chtěl vytvořit. PJ rozhodne zda je to možné a jaké materiály a obnos peněz bude na něj potřeba.  
 
 - *Cena a čas* - Cena se může pohybovat od 500 stříbrných a jednoho týdne za drobné kouzelné efekty až po několik stovek tisíc stříbrných a 1 rok pro předměty a kouzla s trvalejším či rozsáhlejším efektem. 
 - *Ostatní* - Do magického výzkumu však spadají i jiné věci než předměty a kouzla. Věci jako vysvěcení místa, seslání trvalého ochranného kouzla, vytvoření magického konstruktu a další.

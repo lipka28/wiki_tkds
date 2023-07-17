@@ -58,7 +58,7 @@ Minstrel můžě obětovat svou akci v daném kole a hrát bojovou píseň pro v
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 - Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z existujících perků, pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s DM vymyslet.
+- Vybrat si 1 perk z [existujících perků](/Aldir%20%28Zasazení%29/perks/#perky), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
 
 ### Úroveň 6 - Bloudivá mysl
 

@@ -68,7 +68,7 @@ Pokud máš volnou ruku, tak můžeš provést neozbrojený útok jako instantn�
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 - Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z existujících perků, pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s DM vymyslet.
+- Vybrat si 1 perk z [existujících perků](/Aldir%20%28Zasazení%29/perks/#perky), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
 
 ### Úroveň 6 - Přesměruj magii
 
@@ -107,7 +107,7 @@ Extra předměty, ke kterým má přístup lamač kouzel při tvorbě postavy ne
 
 **Inkoust z černého lotosu:** Speciální inkoust, kterým lze na stěnu nakreslit ochranné runy, které znají jen lamači kouzel. Do místnosti chráněné značkou nemůže pak vstoupit, žádné magické či magii užívající stvoření, bez toho aby obdrželo *3d6* poškození (bez záchranného hodu).
 
-- *Rozsah* - Efekt značky pokryje maximálně místnost o rozloze *100 m^2*
+- *Rozsah* - Efekt značky pokryje maximálně místnost o rozloze *100 m^2*.
 - *Trvání* - Značka ztratí svou moc po 24 hodinách nebo pokud je zničena.
 
 **Jed z černého lotosu:** 

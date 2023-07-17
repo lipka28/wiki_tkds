@@ -16,7 +16,7 @@
 
 **Speciální vlastnosti:**
 
-- *Vrozená schopnost* - Každý velkomocný má vrozenou schopnost. Domluv se s DM jakou by sis přál vrozenou schopnost. DM stanoví její účinky, doby trvání a jak často tuhle schopnost můžeš používat. Tato schopnost je unikátní pro tvého konkrétního velkomocného. Ve stejnou chvíli nemůže existovat více velkomocných se stejnou schopností. 
+- *Vrozená schopnost* - Každý velkomocný má vrozenou schopnost. Domluv se s PJ jakou by sis přál vrozenou schopnost. PJ stanoví její účinky, doby trvání a jak často tuhle schopnost můžeš používat. Tato schopnost je unikátní pro tvého konkrétního velkomocného. Ve stejnou chvíli nemůže existovat více velkomocných se stejnou schopností. 
 - *Vidění ve tmě* - Velkomocní mají schopnost vidět ve tmě stejně dobře jako ve dne.
 - *Imunní vůči nemocem* - Velkomocní nemohou běžnými způsoby onemocnět. Tato imunita se však nevztahuje na jedy, kouzla a kletby.
 

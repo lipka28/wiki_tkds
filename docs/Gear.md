@@ -68,7 +68,7 @@ Zbraně se dělí do 3 základních kategorií. Kategorie jsou přibližně rozd
 Tato kategorizace je také důležitá v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky instantní akci). Celkové pořadí priority při vzájemném útoku je: **malá** < **střední** < **velká** < **velká dlouhá** < **hozená** < **střelná** (u střelných zbraní pak mají přednost zbraně využívající střelný prach)
 
 !!! note "Nezáleží jakou zbraň máš ale jak ji využiješ"
-	Za kreativní popisy využití svých zbraní, může DM poskytnout různé bonusy a výhody nebo dokonce umožnit speciální akci s danou zbraní. Záleží jen na hráčově kreativitě.
+	Za kreativní popisy využití svých zbraní, může PJ poskytnout různé bonusy a výhody nebo dokonce umožnit speciální akci s danou zbraní. Záleží jen na hráčově kreativitě.
 
 ### Zbraně na blízku
 
@@ -166,7 +166,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Zlodějské náčiní - náhradní nástroje (+10 použití)       |       1        | 15 st |
 | Zrcátko                                                  |       L        | 5 st  |
 | Zvonek                                                   |       L        | 1 st  |
-| A další... (Zeptej se DM)                                |       ??       |  ??   |
+| A další... (Zeptej se PJ)                                |       ??       |  ??   |
 
 **Kontejner (Kon.):** Obsazené předměty s tímto označením zabírají místo v inventáři pouze pokud, jsou-li v něm uschované. Při běžném použití žádné místo nezabírají. (Místo je zabíráno pouze předměty uschovanými uvnitř)
 

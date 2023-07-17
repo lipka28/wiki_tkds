@@ -8,7 +8,7 @@
 
 ## Ověření dovedností (Skill check)
 
-Nejasné situace může DM řešit tím, že požádá hráče o hod na ověření dovednosti. DM stanoví obtížnost aktivity, dle tabulky níže, hráč hodí kostkou a následně DM vyhodnotí výsledek. Obtížnost by měla být stanovena v souvislosti se schopnostmi běžného člověka s dovednostmi potřebnými pro danou aktivitu. Pokud se u postavy taková dovednost nedá předpokládat, ale aktivita je stále proveditelná (například jedná-li se o aktivitu ve které vyniká jen jiné specifické povolání). Tak je obtížnost vždy velmi těžká (Poznámka pod čarou: Good practice, řekni hráčům DC)
+Nejasné situace může PJ řešit tím, že požádá hráče o hod na ověření dovednosti. PJ stanoví obtížnost aktivity, dle tabulky níže, hráč hodí kostkou a následně PJ vyhodnotí výsledek. Obtížnost by měla být stanovena v souvislosti se schopnostmi běžného člověka s dovednostmi potřebnými pro danou aktivitu. Pokud se u postavy taková dovednost nedá předpokládat, ale aktivita je stále proveditelná (například jedná-li se o aktivitu ve které vyniká jen jiné specifické povolání). Tak je obtížnost vždy velmi těžká (Poznámka pod čarou: Good practice, řekni hráčům DC)
 
 |     OBTÍŽNOST     | HODNOTA |
 | :---------------: | :-----: |
@@ -29,7 +29,7 @@ Nejasné situace může DM řešit tím, že požádá hráče o hod na ověřen
 - *Větší rovno:* Pokud je výsledek větší nebo roven obtížnosti, tak je hod úspěšný. 
 - *Nižší:* V případě nižších výsledků se jedná o neúspěch. 
 - *NAT1 a NAT20:* V případě přirozené 1 se jedná o kritický neúspěch  a v případě přirozených 20 se jedná o kritický úspěch.  
-- *Výhoda a nevýhoda:* DM může také na takový hod uvalit výhodu, nevýhodu nebo jiné bonusy a postihy, dle dané situace.
+- *Výhoda a nevýhoda:* PJ může také na takový hod uvalit výhodu, nevýhodu nebo jiné bonusy a postihy, dle dané situace.
 
 !!! tip "Rada pro PJ: Se skill checky to nepřehánět."
     Přílišné spoléhání na skill checky může mít neblahý efekt na průběh a zábavnost hry. Pokud se většina situací ve hře dá zredukovat na řešení za pomocí hodu kostkou můžete se rychle začít nudit. Hráči by měli být motivováni interagovat ze světem a hledat řešení v něm. To se ze strany PJ dá podpořit například tím, že pokud hráči přijdou s rozumným proveditelným plánem, jak vyřešit situaci. PJ by měl nechat plán proběhnout bez zbytečných skill checků.
@@ -51,7 +51,7 @@ Všechny postavy a monstra mohou podstoupit záchranný hod aby se vyhnuli plné
 - *Záchranný hod proti smrti (a jedům):* Je modifikovaný výdrží.
 
 !!! Note "Jiné modifikátory"
-    Tyto modifikátory jsou nejpoužívanější avšak DM si může vyžádat i záchranný hod modifikovaný jinou dovedností. Například záchranný hod modifikovaný zručností může být požadován pokud se postavu někdo pokusí odzbrojit. Nebo modifikace osobností může být vhodná při záchranně proti strachu.
+    Tyto modifikátory jsou nejpoužívanější avšak PJ si může vyžádat i záchranný hod modifikovaný jinou dovedností. Například záchranný hod modifikovaný zručností může být požadován pokud se postavu někdo pokusí odzbrojit. Nebo modifikace osobností může být vhodná při záchranně proti strachu.
 
 **Hod záchranného hodu:** Když je postava ovlivněna efektem, který vyžaduje záchranný hod tak si hodí D20, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako univerzální hod. 
 
@@ -87,7 +87,7 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro jejich řešení.
 
-**Šplhání:** Šplhat lze polovinou své hybnosti po površích, které mají aspoň nějaké úchyty. Pokud postava šplhá v obtížné nebo napjaté situaci (jako třeba boj), DM muže vyžadovat nějaký hod kostkou. Například ověření síly.
+**Šplhání:** Šplhat lze polovinou své hybnosti po površích, které mají aspoň nějaké úchyty. Pokud postava šplhá v obtížné nebo napjaté situaci (jako třeba boj), PJ muže vyžadovat nějaký hod kostkou. Například ověření síly.
 
 **Tma:** Pokud se postavy chystají na výpravu do podzemí (nebo jiných tmavých prostorů) doporučuje se vzít si sebou zdroj světla. Postavy ve tmě jsou považovány za slepé.
 
@@ -117,7 +117,7 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 
 **Používání únavy:** Únava je perzistentní a kumulativní negativní efekt vznikající hladem, žízní, zraněním nebo prostě nedostatkem spánku. Jako mechanika přidává určitý stupeň nebezpečí mimo standardní boje. A také funguje jako určitá forma vyměřeného času, který mohou hrdinové strávit mimo civilizaci. 
 
-**Důvody k získání únavy:** DM může hráči přidělit bod únavy kdykoliv uzná za vhodné. Doporučuje se to a však minimálně v těchto případech:
+**Důvody k získání únavy:** PJ může hráči přidělit bod únavy kdykoliv uzná za vhodné. Doporučuje se to a však minimálně v těchto případech:
 
 - Den a noc bez spánku
 - Den a noc bez jídla či vody
@@ -149,7 +149,7 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 **Pokus o utáboření:** Při pokusu o utáboření musí postavy obstarat 3 základní potřeby k přežití: *jídlo, vodu a útočiště*. To udělají tak, že kolektivně hodí *3d6*. Kde každá d6 představuje jednu z těchto potřeb. 
 
 - *Speciální schopnosti:* Každá postava cestující s družinou, která disponuje schopnostmi pro přežití v divočině. (Např. hraničář). Může poskytnou *+1* bonus k jednomu z hodů. Musí tak však deklarovat předem. 
-- *Kouzla:* Některé kouzla mohou úplně nahradit potřebu pro některý hod. V těchto případech může DM hod prominout.  
+- *Kouzla:* Některé kouzla mohou úplně nahradit potřebu pro některý hod. V těchto případech může PJ hod prominout.  
 - *Hlídka a náhodná setkání:* Při táboření může v průběhu noci dojít k náhodným setkáním. Také se automaticky předpokládá, že se postavy střídají na hlídce.
 
 **Vyhodnocení:** Výsledek *4 nebo více* na *d6* je považován za úspěšné obstarání dané potřeby. V opačném případě se jedná o neúspěch.
@@ -165,10 +165,10 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 | HERNÍ SEKVENCE PRO KAŽDÝ DEN CESTOVÁNÍ                       |
 | :----------------------------------------------------------- |
 | *1. Výběr směru* - Hráči se rozhodnou kam, nebo jakým směrem chtějí cestovat. |
-| *2. Ztráta směru* - DM Rozhodne zda se hráči po cestě ztratí. |
-| *3. Náhodná setkání* - DM hodí aplikovatelné hody, aby rozhodl zda se během cesty něco přihodí. |
-| *4. Popis* - DM hráčům popíše cestu a všechny události co se během ní staly. |
-| *5. Konec dne* - DM aktualizuje časové záznamy a upraví dobu trvání kouzel. Hráči si také musí odpočinout po dni cesty. (viz. [Přenocování v divočině](/rules/#prenocovani-v-divocine)) |
+| *2. Ztráta směru* - PJ Rozhodne zda se hráči po cestě ztratí. |
+| *3. Náhodná setkání* - PJ hodí aplikovatelné hody, aby rozhodl zda se během cesty něco přihodí. |
+| *4. Popis* - PJ hráčům popíše cestu a všechny události co se během ní staly. |
+| *5. Konec dne* - PJ aktualizuje časové záznamy a upraví dobu trvání kouzel. Hráči si také musí odpočinout po dni cesty. (viz. [Přenocování v divočině](/rules/#prenocovani-v-divocine)) |
 
 **Výběr směru:** Hráči si na základě orientačních bodů, cesty nebo dle světových stran, určí jakým směrem chtějí cestovat.
 
@@ -206,21 +206,21 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 
 Alternativní metodou jak řešit cestování, je "rychlé cestování". Vhodné obzvlášť pokud hráči cestují někam kde už byli nebo prostě někam kam znají cestu.  
 
-- *Doba cesty:* Cesta se s touhle metodou neměří na kilometry ale na dny. Dm stanoví kolik dní bude cesta trvat. 
+- *Doba cesty:* Cesta se s touhle metodou neměří na kilometry ale na dny. PJ stanoví kolik dní bude cesta trvat. 
 - *Souhrnné poškození:* Během rychlého cestování se postihy kumulují jako souhrnné poškození, které si na konci cesty mezi sebou hráči rozdělí. 
 - *Zásoby:* Hráči zaplatí počet zásob odpovídající počtu cestujících "hladových krků" za každý den cesty.
 - *Nedostatek zásob:* Za každou zásobu, kterou hráči nemohou zaplatit se přičte 1 bod souhrnného poškození. 
-- *Náhodná setkání:* Pokud hráči cestují delší dobu než 5 dní, DM hodí 1d4 na určení počtu setkání. Na kratší vzdálenost je setkání většinou 1. 
+- *Náhodná setkání:* Pokud hráči cestují delší dobu než 5 dní, PJ hodí 1d4 na určení počtu setkání. Na kratší vzdálenost je setkání většinou 1. 
 - *Rozdělení poškození:* Na konci cesty si hráči mohou rozdělit nashromážděné souhrnné poškození v libovolném poměru mezi sebou. Pokud životy některého z nich klesne na 0, tak byl dotyčný po cestě zabit. Alternativně může hráč, za každé poškození co by ho posunulo na 0 životů, přijmout bod únavy.
 
 ## Průzkum kobek
 
 | POSTUP PŘI PRŮZKUMU KOBEK                                    |
 | :----------------------------------------------------------- |
-| *1. Putující monstra* - DM vyhodnotí, zda dojde k náhodnému setkání. |
+| *1. Putující monstra* - PJ vyhodnotí, zda dojde k náhodnému setkání. |
 | *2. Akce* - Hráči deklarují co chtějí dělat. (Např.: Přesunout se jinam, prohledat šuplíky, Prozkoumat nápis na zdi atd.) |
-| *3. Popis* - DM hráčům popíše co se stalo a jaký efekt měli jejich akce. |
-| *4. Konec směny* - DM aktualizuje časové záznamy a upraví dobu trvání kouzel či zdrojů světla. |
+| *3. Popis* - PJ hráčům popíše co se stalo a jaký efekt měli jejich akce. |
+| *4. Konec směny* - PJ aktualizuje časové záznamy a upraví dobu trvání kouzel či zdrojů světla. |
 
 **Putující monstra:** V kobkách se hráči mohou často setkat s putujícími monstry. Ve výsledku je to mechanismus omezující kolik času jsou hráči schopni vydržet v kobce než se budou muset stáhnout.  
 
@@ -232,7 +232,7 @@ Alternativní metodou jak řešit cestování, je "rychlé cestování". Vhodné
 
 Když se hráči rozhodují co budou dělat mají na výběr v podstatě z nekonečno možností. Nejčastěji se však rozhodnou buď pro pohyb, prozkoumávání nebo odpočinek.
 
-**Průzkum:** Kobky obsahují spoustu ukrytých prvků. Jako jsou pasti, tajné dveře či ukryté poklady. Hráči mohou tyto ukryté prvky odhalit průzkumem. Hráč popíše svůj postup průzkumu a případné nástroje a jejich využití DM. DM vyhodnotí zda by hráčův postup skrytý prvek odhalil a sdělí hráči výsledek.
+**Průzkum:** Kobky obsahují spoustu ukrytých prvků. Jako jsou pasti, tajné dveře či ukryté poklady. Hráči mohou tyto ukryté prvky odhalit průzkumem. Hráč popíše svůj postup průzkumu a případné nástroje a jejich využití PJ. PJ vyhodnotí zda by hráčův postup skrytý prvek odhalil a sdělí hráči výsledek.
 
 **Odpočinek:** Odpočívat lze maximálně jednou za 8 hodin průzkumu. Odpočinek trvá 8 - 12 hodin. Pokud postavy v posledních 24 hodinách neodpočívali, utrpí *1 bod únavy*.  Během odpočinku si postavy mohou udělat své každodenní přípravy a čarujícím postavám se doplní magická energie. 
 
@@ -247,7 +247,7 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Zamčené dveře:** Zamčené dveře mohou být odemčeny klíčem, který se pravděpodobně skrývá někde v kobce. Alternativně mohou být odemčeny postavu se schopností odemykat zámky. Samozřejmě vždycky existuje varianta dveře rozmlátit, avšak způsobený hluk může vyvolat nechtěnou pozornost.
 
-**Pasti:** Pasti jsou další nepostradatelnou součástí kobek. Existují 2 kategorie pastí. Skryté a nápadné. Pasti jsou postavami buď automaticky sponzorovány a nebo by DM měl poskytnout hráčům dostatek vodítek, že se v dané lokalitě vyskytuje past. Takovou pastí může být třeba díra s bodci uprostřed chodby, podezřelé pravidelně rozmístěné otvory ve stěnách místnosti nebo velké kladivo visící nad dveřmi. 
+**Pasti:** Pasti jsou další nepostradatelnou součástí kobek. Existují 2 kategorie pastí. Skryté a nápadné. Pasti jsou postavami buď automaticky sponzorovány a nebo by PJ měl poskytnout hráčům dostatek vodítek, že se v dané lokalitě vyskytuje past. Takovou pastí může být třeba díra s bodci uprostřed chodby, podezřelé pravidelně rozmístěné otvory ve stěnách místnosti nebo velké kladivo visící nad dveřmi. 
 
 - *Spouštěcí mechanizmus:* Každá past má svůj spouštěcí mechanizmus. (Jako otevření dveří, přejití přes určitou oblast či narušení magických run. atd...) 
 - *Šance na spuštění:* Převážná většina pastí má šanci na spuštění *2 z 6-ti*.
@@ -259,13 +259,13 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 | POSTUP PŘI NÁHODNÉM SETKÁNÍ                                  |
 | :----------------------------------------------------------- |
-| *1. Překvapení:* DM Hodí na překvapení (pokud aplikovatelné) |
-| *2. Vzdálenost setkání:* DM rozhodne jak daleko jsou od sebe hráči a monstrum |
+| *1. Překvapení:* PJ Hodí na překvapení (pokud aplikovatelné) |
+| *2. Vzdálenost setkání:* PJ rozhodne jak daleko jsou od sebe hráči a monstrum |
 | *3. Iniciativa:* Každá strana, která není překvapená hodí iniciativu |
 | *4. Akce:* Každá strana, která není překvapená se rozhodne jak bude na setkání reagovat a setkání se odehraje |
 | *5. Závěr:* Uběhne 1 kolo                                    |
 
-**Hod na překvapení:** Pokud to není jasné ze vzniklé situace DM si může vyžádat hod na překvapení. Ten probíhá tak, že obě strany hodí *1d6*. Výsledek *1* nebo *2* znamená, že daná strana je překvapená. (Výsledky mohou být také ovlivněny schopnostmi postav či monster.) 
+**Hod na překvapení:** Pokud to není jasné ze vzniklé situace PJ si může vyžádat hod na překvapení. Ten probíhá tak, že obě strany hodí *1d6*. Výsledek *1* nebo *2* znamená, že daná strana je překvapená. (Výsledky mohou být také ovlivněny schopnostmi postav či monster.) 
 
 - *Jen jedna ze stran je překvapená* - Pokud je jen některá ze stran překvapená tak překvapená strana 1 kolo vynechá.
 - *Obě strany jsou překvapené* - Pokud jsou obě strany překvapené dojde jen k chvilkovému zaváhání na obou stranách a žádná strana nemá výhodu. 
@@ -341,7 +341,7 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 - *Poblíž* (6 - 25 metrů) - Přesun k cíli je možný během pár kol (až 5). Na cíle poblíž jsou možné útoky jen hozenými zbraněmi a všemi typy střelných zbraní.
 - *Daleko* (26 - 50 metrů) - Přesun k cíli je možný břehem několika kol (až 10). Na cíle daleko jsou možné pouze útoky střelnými zbraněmi. S tím, že malé střelné zbraně útočí s nevýhodou.
 - *Velmi daleko* (51 - 100 metrů) - Přesun k cíli je možný během několika kol (až 20). Na cíle velmi daleko jsou možné pouze útoky středními a velkými střelnými zbraněmi. S tím, že střední střelné zbraně útočí s nevýhodou
-- *Extrémně daleko* (101+ metrů) - Přesun k cíli může trvat desítky až stovky kol nebo dokonce nemusí být možný. Pokud DM uváží může povolit útok velkou střelnou zbraní avšak pouze s nevýhodou. 
+- *Extrémně daleko* (101+ metrů) - Přesun k cíli může trvat desítky až stovky kol nebo dokonce nemusí být možný. Pokud PJ uváží může povolit útok velkou střelnou zbraní avšak pouze s nevýhodou. 
 
 **Cíl v úkrytu** **Kompletní krytí:** Cíle co jsou kompletně schované v úkrytu není možné trefit střelnou zbraní. Cíle co jsou v částečném úkrytu mohou mít bonus do OČ, proti střelným zbraním, v rozsahu +1 až +4 dle uvážení. (malý stůl může být +1, zatímco hustý les může být +4)
 
@@ -375,7 +375,7 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 !!! note "Minimální poškození"
     Úspěšný zásah vždy udělí aspoň 1 poškození. (Pokud cíl není imunní)
 
-**Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na DM aby tyto případné odolnosti a slabosti vyhodnotil. 
+**Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. 
 
 !!! note "Příklad: Ohnivý elementál"
     Ohnivému elementálovi, by zásah ohnivou koulí asi nic moc neudělal. Avšak smetením vodním proudem by mělo devastující účinky. 
