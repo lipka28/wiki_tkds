@@ -313,7 +313,7 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 - Během kola se může postava pohnout maximálně do vzdálenosti své hybnosti. 
 - Vybavenou zbraní může postava zaútočit jen jednou za kolo. (Monstra používající více končetin mohou mít útoků více. Případně postavy mohou mít speciální schopnosti umožňující více útoků.)
 - Zbraň nemůže být použita to kolo, které byla vytasena. (mimo malých zbraní)
-- Jiné předměty mohou být vytaseny a použity v jednom tahu na místo útoku, pokud jsou mezi vybavenými předměty.
+- Jiné předměty mohou být vytaseny a použity v jednom tahu na místo útoků, pokud jsou mezi vybavenými předměty.
 
 !!! note "Uschované předměty"
     Vytažení předmětu z batohu zabírá celé kolo včetně pohybu. Takto vytažený předmět lze použít až v dalším kole.
@@ -366,7 +366,7 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 | HODY NA ÚTOK                                                 |
 | :----------------------------------------------------------- |
 | *1. Hoď 1d20*                                                |
-| *2. Připočti modifikátory:* Síly při boji zblízka a Zručnosti při boji na dálku. Nezapomeň také na krytí. Monstra mají modifikátory útoku ve svém stat-bloku. |
+| *2. Připočti modifikátory:* Bonus z povolání. Modifikátor síly při boji zblízka a zručnosti při boji na dálku. Nezapomeň také na krytí. Monstra mají modifikátory útoku ve svém stat-bloku. |
 | *3. Stanov OČ:* Postavy i monstra mají OČ napsané ve svém stat-bloku. |
 | *4. Výsledek:* Pokud je výsledek útoku stejný nebo vyšší než OČ cíle útok byl úspěšný, můžeš házet na poškození. |
 
