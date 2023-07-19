@@ -5,13 +5,13 @@
 Perky jsou zvláštní schopnosti, které může hráčova postava získat během hry. Ať už postupem na vyšší úroveň, tak rozhodnutími učiněnými při hře samotné. Pokud není stanoveno jinak každý perk lze mít pouze jednou.
 
 - **Vlastní perky** - Hráč by měl být motivován si pod dozorem PJ vymýšlet vlastní perky a tím si rozvíjet postavu dle vlastních představ. 
-- **Získání perku mimo potřebnou úroveň** - Perky se dají získat i mimo postup na potřebnou úroveň. Většinou však yžadují specifické akce při hře. Jako je nalezení potřebné osoby a investice velkého obnosu peněz, materiálů a času.
-- **Přidělení PJ-em** - Perky mohou být také přiděleny PJ-em na základě akcí ve hře. Například pokousání vlkodlakem, může hráči přinést nějké nové schopnosti.
+- **Získání perku mimo potřebnou úroveň** - Perky se dají získat i mimo postup na potřebnou úroveň. Většinou však vyžadují specifické akce při hře. Jako je nalezení potřebné osoby a investice velkého obnosu peněz, materiálů a času.
+- **Přidělení PJ-em** - Perky mohou být také přiděleny PJ-em na základě akcí ve hře. Například pokousání vlkodlakem, může hráči přinést nějaké nové schopnosti.
 
 !!! tip "Rada pro PJ: Limit"
-    Hráč by neměl mít více perků než je polovina jeho úrovně (zaokrouhledna nahoru).
+    Hráč by neměl mít více perků než je polovina jeho úrovně (zaokrouhlena nahoru).
 
-Pokud není čas zaobírat se tvorbou vlastních perků, lze využít jeden z perků níže. Perky jsou zde rozděleny dle dovedností, které jsou požadovány pro jejich výber. V kategorii ostatní jsou pak perky s více požadavky.
+Pokud není čas zaobírat se tvorbou vlastních perků, lze využít jeden z perků níže. Perky jsou zde rozděleny dle dovedností, které jsou požadovány pro jejich výběr. V kategorii ostatní jsou pak perky s více požadavky.
 
 ## Síla
 
@@ -19,7 +19,7 @@ Pokud není čas zaobírat se tvorbou vlastních perků, lze využít jeden z pe
 
 **Požadavky:** Síla >= *9*
 
-**Efekt:** Vytrénuj se v používání specifického typu zbraní, štítů nebo dalšího stupně zbroje. Alternativně můžeš zvednout šanci na zásah zbraní, kterou už ovládaš o +1.
+**Efekt:** Vytrénuj se v používání specifického typu zbraní, štítů nebo dalšího stupně zbroje. Alternativně můžeš zvednout šanci na zásah zbraní, kterou už ovládáš o +1.
 
 ### Těžkooděnec
 
@@ -31,12 +31,12 @@ Pokud není čas zaobírat se tvorbou vlastních perků, lze využít jeden z pe
 
 **Požadavky:** Síla >= *16*
 
-**Efekt:** Ve cvhíli kdy obdržíš poškození a jsi při smyslech nebo zrvona neběsníš, můžeš použít svou instantní akci, aby sis vyléčil *1/2* obdrženého poškození a začal na *5* kol *běsnit*. Během *běsnění* platí následující:
+**Efekt:** Ve chvíli kdy obdržíš poškození a jsi při smyslech nebo zrovna neběsníš, můžeš použít svou instantní akci, aby sis vyléčil *1/2* obdrženého poškození a začal na *5* kol *běsnit*. Během *běsnění* platí následující:
 
 - Tvé základní OČ je o 2 nižší.
 - Nemůžeš sesílat kouzla, používat předměty nebo střelné zbraně (Obecně cokoliv co vyžaduje míru soustředění).
 - Máš extrémní sílu - Všechny tvé útoky dávají aspoň 1d6 poškození, všechno tebou udělené poškození se hází s výhodou a tvůj bonus ze síly ke všemu aplikovatelnému je dvojnásobný (ověřování dovedností, zásah, poškození atd...).
-- Neplatí pro tebe postihy za improvizované zbraně, neozrbojený boj a únavu.
+- Neplatí pro tebe postihy za improvizované zbraně, neozbrojený boj a únavu.
 
 Po skončení běsnění obdržíš 1 bod únavy.
 
@@ -44,13 +44,13 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** *Zuřivost*
 
-**Efekt:** Tvé běsnění trvá *10 kol* a nemůžeš během něj zemřít. Výmaje efektů instantního uabití a poškození, které je stejné nebo větší jako dovjnásobek tvého maximálního zdraví. Pokud máš 0 životů na konci svého běsnění upadneš do bezvědomí na *1d4* směn.
+**Efekt:** Tvé běsnění trvá *10 kol* a nemůžeš během něj zemřít. Výmaje efektů instantního zabití a poškození, které je stejné nebo větší jako dvojnásobek tvého maximálního zdraví. Pokud máš 0 životů na konci svého běsnění upadneš do bezvědomí na *1d4* směn.
 
 ### Obrovská síla
 
 **Požadavky:** Síla >= *21*
 
-**Efekt:** Můžeš používat bežné obouruční zbraně jako by byli jednoruční. Případně efektivně bojovat i obřími zbraněmi (Například masivní obouruční meč).
+**Efekt:** Můžeš používat běžné obouruční zbraně jako by byli jednoruční. Případně efektivně bojovat i obřími zbraněmi (Například masivní obouruční meč).
 
 ## Zručnost 
 
@@ -70,34 +70,34 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** *Rychlé tasení*
 
-**Efekt:** Můžeš zaútočit malou zbraní jako instantní akci. Útok probíhá s nevýhodou a amximálně na efektivní vzdálenost zbraně.
+**Efekt:** Můžeš zaútočit malou zbraní jako instantní akci. Útok probíhá s nevýhodou a maximálně na efektivní vzdálenost zbraně.
 
 ### Šerm
 
 **Požadavky:** Zručnost >= *16*
 
-**Efekt:** Pkud nemáš vybaven štít a nebo těžkou nebo těžší zbroj, můžeš obětovat své útočné akce v daném kolem a zaujmout *defenzivní postavení*. 
+**Efekt:** Pokud nemáš vybaven štít a nebo těžkou nebo těžší zbroj, můžeš obětovat své útočné akce v daném kolem a zaujmout *defenzivní postavení*. 
 
 - *Defenzivní postavení* - Pokud je na tebe zaútočeno útokem na blízku, můžeš si vybrat krýt se za pomocí svého OČ nebo hodem na zásah svou zbraní na blízku. Pokud si vybereš hod na zásah, použij modifikátor obratnosti na místo síly. Pokud je tvůj výsledný hod na zásah vyšší než hod na zásah nepřítele, úspěšně si provedl *parry* a tím útok vykryl.
-- *Reakce* -  Po úspěšném *parry* můžeš pokusit o bojvý manévr (odzbrojení, shození na zem, odšduchnutí, atd...) jako instantní akci. 
+- *Reakce* -  Po úspěšném *parry* můžeš pokusit o bojový manévr (odzbrojení, shození na zem, odšduchnutí, atd...) jako instantní akci. 
 
 ### Mistr šermu
 
 **Požadavky:** *Šerm*
 
-**Efekt:** Tvé *defenzivní postavení* je již autoamtické, nemusíš tedy obětovat své útoky. Navíc můžeš *parriovat* i útoky šípy a hozenými zbraněmi nepůsobící víc než 1 kostu poškození (Na útoky na dálku logicky nelze navázat *reakcí*).
+**Efekt:** Tvé *defenzivní postavení* je již automatické, nemusíš tedy obětovat své útoky. Navíc můžeš *parriovat* i útoky šípy a hozenými zbraněmi nepůsobící víc než 1 kostku poškození (Na útoky na dálku logicky nelze navázat *reakcí*).
 
 ### Zacházení se štítem
 
 **Požadavky:** Zručnost >= *16*
 
-**Efekt:** Při *relfexivním blokování štítem* existuje šance pouze *50 %*, že se tvůj štít poškodí. Navíc můžeš *reflexivně blokovat* ve prospěch spojence sotjícího vedle tebe nebo za tebou.
+**Efekt:** Při *reflexním blokování štítem* existuje šance pouze *50 %*, že se tvůj štít poškodí. Navíc můžeš *reflexivně blokovat* ve prospěch spojence stojícího vedle tebe nebo za tebou.
 
 ### Na všechny 4
 
 **Požadavky:** Zručnost >= *18*
 
-**Efekt:** Pkud nemáš na sobě těžší jak lehkou zbroj. Poškození působené pádem z výšky nebo nuceným pohybem (například když tě něco odhodí proti zdi) je polovčiní.
+**Efekt:** Pokud nemáš na sobě těžší jak lehkou zbroj. Poškození působené pádem z výšky nebo nuceným pohybem (například když tě něco odhodí proti zdi) je poloviční.
 
 ### Chyť šíp
 
@@ -109,7 +109,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Zručnost >= *21*
 
-**Efekt:** Pkud nemáš těžší jak lehkou zbroj. Můžeš běhat po stěnách svou plnou hybností. Pokud na konci běhu se nemáš čeho za chytit nebo kde stoupnout tak spadneš.
+**Efekt:** Pokud nemáš těžší jak lehkou zbroj. Můžeš běhat po stěnách svou plnou hybností. Pokud na konci běhu se nemáš čeho za chytit nebo kde stoupnout tak spadneš.
 
 ## Výdrž 
 
@@ -123,7 +123,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Výdrž >= *13*
 
-**Efekt:** Tvá rychlost palvání je o *2* vyšší a navíc vydržíš držet dech dovjnásobnou dobu (hodnota výdže x 2).
+**Efekt:** Tvá rychlost plavání je o *2* vyšší a navíc vydržíš držet dech dvojnásobnou dobu (hodnota výdrže x 2).
 
 ### Houževnatost
 
@@ -141,13 +141,13 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Výdrž >= *18*
 
-**Efekt:** Můžeš spát hladovějící i v té nejtvrdší zbroji uprostřed drašího doupěte a i přesto se vyspíš jako v nejlepším hostinci ve hlavním městě. Přenocování v divočině je pro tebe stejné jako přenocování v civilzaci (tzn. probíhá přirozené léčení a léčení únavy). 
+**Efekt:** Můžeš spát hladovějící i v té nejtvrdší zbroji uprostřed dračího doupěte a i přesto se vyspíš jako v nejlepším hostinci ve hlavním městě. Přenocování v divočině je pro tebe stejné jako přenocování v civilizaci (tzn. probíhá přirozené léčení a léčení únavy). 
 
 ### Odolný
 
 **Požadavky:** Výdrž >= *21*
 
-**Efekt:** Tvúj tabulkový *záchraný hod* je o *2* nižší a tvé základní *OČ* o *1* vyšší.
+**Efekt:** Tvůj tabulkový *záchranný hod* je o *2* nižší a tvé základní *OČ* o *1* vyšší.
 
 ## Rozum
 
@@ -155,7 +155,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Rozum >= *9*
 
-**Efekt:** Když používáš lékařské nástroje, vzládneš vyléčit *3 životy* na místo 2. Můžeš také léčit jako akci během boje (lékařské nástroje musíš mít mezi vybavenými předměty). Limit pro počet léčení lékařskými nástroji stále platí.
+**Efekt:** Když používáš lékařské nástroje, zvládneš vyléčit *3 životy* na místo 2. Můžeš také léčit jako akci během boje (lékařské nástroje musíš mít mezi vybavenými předměty). Limit pro počet léčení lékařskými nástroji stále platí.
 
 ### Používání svitků
 
@@ -167,17 +167,17 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Rozum >= *16*
 
-**Efekt:** Naučil si se *1* kouzlo, které můžeš seslat jako sesialtel *1. úrvoně*, *1x denně*.
+**Efekt:** Naučil si se *1* kouzlo, které můžeš seslat jako sesilatel *1. úrovně*, *1x denně*.
 
 ### Magický trénink
 
 **Požadavky:** *Magický trik*
 
-**Efekt:** Naučené kouzlo z *magického triku* můžeš seslat až *3x denně* jako sesilatel *1/4* tvé aktuální úrvoně (zaokrouhleno nahoru). 
+**Efekt:** Naučené kouzlo z *magického triku* můžeš seslat až *3x denně* jako sesilatel *1/4* tvé aktuální úrovně (zaokrouhleno nahoru). 
 
 ### Do hlubin magie
 
-**Požadavky:** Rozum >= *18* a postava umí sesílat nějké kouzla
+**Požadavky:** Rozum >= *18* a postava umí sesílat nějaké kouzla
 
 **Speciální:** Tento perk si lze vzít opakovaně až *3x*.
 
@@ -187,7 +187,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Rozum >= *21* nebo *do hlubin magie 3x*
 
-**Efekt:** Můžeš 1x seslat mocné kouzlo, které udělá cokoliv si zamaneš. Použitím tohoto kouzla pernamentě ztratíš polovinu svých maximálních žvotů a schopnost používat magii.
+**Efekt:** Můžeš 1x seslat mocné kouzlo, které udělá cokoliv si zamaneš. Použitím tohoto kouzla permanentně ztratíš polovinu svých maximálních životů a schopnost používat magii.
 
 !!! Note "Rozsah posledního přání"
     Na uvážení PJ
@@ -200,25 +200,25 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Speciální:** Lze vybrat 2x.
 
-**Efekt:** Vyber si jedoho ze svých společníků, ten se ti stane neochvějně loajalním. (Loajalita 12)
+**Efekt:** Vyber si jednoho ze svých společníků, ten se ti stane neochvějně loajálním. (Loajalita 12)
 
 ### Ne neuposlechnutelný rozkaz
 
 **Požadavky:** Osobnost >= *13*
 
-**Efekt:** Můžeš svému společníkovi dát rozkaz, který nemůže odmítnout navzdory svém přesvědčení (mimo přímo nebezpečných rozkazů ala "zabíj se"). Pokud se mu však při vykonávání takového rozkazu něco zlého stane, už nikdy další takový rozkas neuposlechne. 
+**Efekt:** Můžeš svému společníkovi dát rozkaz, který nemůže odmítnout navzdory svém přesvědčení (mimo přímo nebezpečných rozkazů typu "zabij se"). Pokud se mu však při vykonávání takového rozkazu něco zlého stane, už nikdy další takový rozkaz neuposlechne. 
 
 ### Síla vůle
 
 **Požadavky:** Osobnost >= *16*
 
-**Efekt:** Máš bonus +2 do zcáhraných hodů proti všem efektům ovlivňující mysl.
+**Efekt:** Máš bonus +2 do záchranných hodů proti všem efektům ovlivňující mysl.
 
 ### Založit cech (se slevou)
 
 **Požadavky:** Osobnost >= *18*
 
-**Efekt:** Můžeš si založit cech nebo jinou podobnou organizaci a stát se jejím pánem. Vybudování cechu se základním zázemím a *2d6+modifikátor osobnosti* následovníků, tě výjde na *8000 stříbrných* (80 zlatých).
+**Efekt:** Můžeš si založit cech nebo jinou podobnou organizaci a stát se jejím pánem. Vybudování cechu se základním zázemím a *2d6+modifikátor osobnosti* následovníků, tě vyjde na *8000 stříbrných* (80 zlatých).
 
 !!! Note "Cech"
     Vybudovat cech nebo například školu kouzel či dílnu, lze i bez tohoto perku avšak příchod následovníků není garantovaný a cena vybudování je při nejmenším 16 000 stříbrných (160 zlatých).
