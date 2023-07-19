@@ -183,7 +183,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Efekt:** Získáš *2* extra sesílání kouzel a můžeš se naučit *1* extra kouzlo.
 
-### Poslední prřání
+### Poslední přání
 
 **Požadavky:** Rozum >= *21* nebo *do hlubin magie 3x*
 
