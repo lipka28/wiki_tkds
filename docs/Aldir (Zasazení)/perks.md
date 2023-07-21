@@ -235,5 +235,5 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Síla a Zručnost >= *13*
 
-**Efekt:** Tvá druhá zbraň poskytuje bonus k zásahu poškození a OČ ve výší *+2* na místo +1. Alternativně se můžeš tohoto bonusu v daném kole vzdát a zaútočit zvlášť každou zbraní.
+**Efekt:** Tvá druhá zbraň poskytuje bonus k zásahu poškození a OČ ve výší *+2* na místo +1. Alternativně se můžeš tohoto bonusu do začátku svého příštího tahu vzdát a zaútočit každou zbraní zvlášť.
 
