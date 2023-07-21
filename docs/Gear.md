@@ -312,7 +312,7 @@ Velké domestikované plemeno. Vybrané především pro svou velikost a svou di
 
 **Speciální schopnosti:**
 
-- *Brnění:* Trénován aby nosil brnění. (Lze dokoupit za *25 zl*. Poskytuje extra *+2 OČ*) 
+- *Brnění:* Trénován aby nosil brnění. (Lze dokoupit za *25 st*. Poskytuje extra *+2 OČ*) 
 - *Na příkaz:* Trénovaný, aby útočil na příkaz majitele. 
 
 **Cena:** 25 st
