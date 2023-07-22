@@ -237,3 +237,9 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Efekt:** Tvá druhá zbraň poskytuje bonus k zásahu poškození a OČ ve výší *+2* na místo +1. Alternativně se můžeš tohoto bonusu do začátku svého příštího tahu vzdát a zaútočit každou zbraní zvlášť.
 
+### Přírodní medicína 
+
+**Požadavky:** Hraničář nebo kdokoliv s dostatečnou znalostí bylin
+
+**Efekt:** Hraničář může strávit 1 směnu v divočině hledáním bylin aby vyléčil sebe nebo další stvoření. Léčení poskytne extra záchranný hod na otravu, paralýzu, či jiný negativní (nemagický) efekt nebo vyléčí *1d4* životů (vždy pouze jeden z daných efektů). V běžných podmínkách (zdravý les) je šance na nalezení bylin stejná jako na sběr jídla. Schopnost se dá použít na dané stvoření jen 1x denně.
+
