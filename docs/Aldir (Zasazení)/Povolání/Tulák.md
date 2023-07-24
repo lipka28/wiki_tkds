@@ -54,7 +54,7 @@ Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 ### Úroveň 6 - Expertíza
 
-Vyber si 1 aktivitu pokrytou v [Tulácký um](/Aldir%20%28Zasazení%29/Povolání/Tulák/#uroven-1-tulacky-um). Ve vykonávání této aktivity vždy uspěješ, bez potřeby házet na ověření dovednosti.
+Vyber si 2 aktivity pokryté v [Tulácký um](/Aldir%20%28Zasazení%29/Povolání/Tulák/#uroven-1-tulacky-um). Při vykonávání těchto aktivit máš vždy výhodu.
 
 ### Úroveň 10 - Úhyb
 
