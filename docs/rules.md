@@ -391,9 +391,12 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Hození zbraně:** Postava může zaútočit hozením zbraně (u které to dává smysl), do efektivní vzdálenosti danou její hodnotou síly (Poblíž). K poškození se navíc pak připočítává její modifikátor síly.
 
-**Neozbrojený boj:** Neozbrojený útok má vždy poškození 1d4 (+ modifikátory za sílu) a však poškození se vždy hází s nevýhodou. Navíc útoky na blízko proti neozbrojenému cíli jsou vždy s výhodou.
+**Neozbrojený boj:** Neozbrojený útok má vždy poškození 1+modifikátor síly. Navíc útoky na blízko proti neozbrojenému cíli jsou vždy s výhodou.
 
 **Improvizované zbraně:** Při útoku improvizovanou zbraní se poškození hází s nevýhodou. 
+
+!!! note "Improvizované použití zbraně"
+    Stejná pravidla platí i pro improvizovaná použití zbraní. Jako například bodnutí šípem čí útok rukojetí meče.
 
 **Netrénované zbraně:** Jsou považovány za improvizované.
 
