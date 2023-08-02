@@ -322,7 +322,9 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Pohyb:** Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Pohyb obtížným terénem stojí dvojnásobek hybnosti. Například plavání, brodění se, šplhání a podobné. Pohyb je také možné kombinovat s dalšími akcemi.
 
-**Vázání v boji na blízko:** Stvoření, které zaútočilo nebo bylo napadeno jiným stvořením útokem na blízku (třeba i neúspěšným) je vázán v boji na blízko. Pro stvoření vázané v boji na blízko platí následující omezení:
+**Vázání v boji na blízko:** Stvoření, které zaútočilo nebo může být na začátku svého kola napadeno útokem na blízku, je vázán v boji na blízko. Pro stvoření vázané v boji na blízko platí následující omezení:
+
+
 
 - *Útoky na dálku* - Mají *50%* šanci na selhání (Automaticky mine)
 - *Používání nebo manipulace s předměty* - Mají *50%* šanci že předmět se nepoužije a upadne na zem (některé předměty se mohou rozbít)
