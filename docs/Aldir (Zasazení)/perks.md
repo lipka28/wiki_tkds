@@ -60,15 +60,9 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Efekt:** Pokud máš zbraň vyžadující přebíjení a to přebíjení netrvá více než 1 kolo, můžeš se během přebíjení pohybovat.
 
-### Rychlé tasení
-
-**Požadavky:** Zručnost >= *13*
-
-**Efekt:** Můžeš zaútočit libovolnou zbraní již při jejím tasení jako součást 1 akce. Pokud jsi tak učinil před hodem na iniciativu, všichni kromě tebe mají šanci *4 z 6-ti* být překvapen.
-
 ### Rychlý útok
 
-**Požadavky:** *Rychlé tasení*
+**Požadavky:** Zručnost >= *13*
 
 **Efekt:** Můžeš zaútočit malou zbraní jako instantní akci. Útok probíhá s nevýhodou a maximálně na efektivní vzdálenost zbraně.
 

@@ -12,12 +12,12 @@
 |   2    | +1d4+MOD Výdrž | Magická odolnost; +1 kouzlo                                  |
 |   3    | +1d4+MOD Výdrž | Bonus k zásahu: +1; Záchranný hod: 14; +1 kouzlo             |
 |   4    | +1d4+MOD Výdrž | Perk; +1 kouzlo                                              |
-|   5    | +1d4+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 12; +1 kouzlo; +1 Magická střela |
+|   5    | +1d4+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 12; +1 kouzlo             |
 |   6    | +1d4+MOD Výdrž | Tiché sesílání; +1 kouzlo                                    |
 |   7    | +1d4+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 10; +1 kouzlo             |
 |   8    | +1d4+MOD Výdrž | Perk; +1 kouzlo                                              |
 |   9    | +1d4+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 8; +1 kouzlo              |
-|   10   | +1d4+MOD Výdrž | Umocni magii; +1 kouzlo; +1 Magická střela                   |
+|   10   | +1d4+MOD Výdrž | Umocni magii; +1 kouzlo                                      |
 |  10+   |       +1       | +1 kouzlo                                                    |
 
 ## Schopnosti povolání
@@ -43,18 +43,16 @@ Máš schopnost vycítit magii do vzdálenosti až *25 metrů* (Poblíž). Můž
 
 Magická střela je základní kouzlo, které se pro sebeobranu naučí každý medžaj. Pro všechny účely se jedná o obyčejné kouzlo pro které platí stejná pravidla jako pro ostatní kouzla. 
 
-- *Efekt* - Kouzlo vytvoří magickou střelu, která vyletí směrem k cíli v dosahu. Hoď na útok na dálku modifikovaný tvým rozumem na místo zručnosti. Pokud zasáhneš způsobíš *1d4+1* magického poškození. 
+- *Efekt* - Kouzlo vytvoří **L** magických střel, které vyletí směrem k tebou vybraným cílům. Pokud není v cestě překážka, tak každá střela trefí cíl za **1** poškození. 
 - *Neomezené použití* - Tohle kouzlo se nepočítá vůči limitu kouzel, které můžeš během dne seslat. 
-- *Záchranný hod* - Cíl nemá nárok na záchranný hod.  
-- *Kritický zásah* - Tento útok nemůže kriticky zasáhnout. 
-- *Vylepšení* - Z každou 5. úrovní kouzlo vystřelí extra střelu. 
+- *Záchranný hod* - Cíl nemá nárok na záchranný hod.
 
 !!! note "Střelba do více cílů"
     Pokud magické střely míří do více cílů, je třeba hodit na zásah za každý cíl.
 
 ### Úroveň 2 - Magická odolnost
 
-Tvůj blízký vztah k magii ti dává bonus *+2*, ke všem záchranným hodům proti magii.
+Tvůj blízký vztah k magii ti dává bonus *+3*, ke všem záchranným hodům proti magii.
 
 ### Úroveň 4, 8, 12... - Perk
 

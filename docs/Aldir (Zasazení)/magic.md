@@ -94,7 +94,7 @@ Kouzla z tohohle seznamu, jsou dostupná všem povoláními užívající magii.
 Následuje podrobný popis efektů dříve zmíněných kouzel. Pokud není specifikováno jinak platí tato pravidla a vysvětlivky: 
 
 - *L* - Je proměnná představující úroveň sesilatele.  
-- *Sesílání* - Sesílání kouzla trvá běžně celé kolo a nelze se při něm hýbat.
+- *Sesílání* - Sesílání kouzla trvá 1 akci.
 - *Dosah* - Dosah kouzla je *daleko* (až 50 metrů) 
 - *Trvání* - Pokud má kouzlo delší efekt, tak jeho délka je *L* směn. 
 - *Prodloužení kouzla* Probíhající kouzlo můžeš kdykoliv prodloužit za cenu sesílání bez nutnosti opakování kouzla. 
@@ -338,7 +338,7 @@ Ihned vyruší právě probíhající čarování kouzla jiného sesilatele pobl
 
 - *Instantní* - Tohle kouzlo lze použít pouze jako instantní akci. 
 - *Rozdíl úrovní* - Lze vyrušit čarování jen u sesilatelů stejné nebo nižší úrovně. 
-- *Porovnání* - O úspěchu proti-kouzla rozhoduje porovnání hodů na osobní iniciativu modifikovanou zručností obou čarujících. 
+- *Porovnání* - O úspěchu proti-kouzla rozhoduje ověření zručnosti obou čarujících.
 - *Úspěch* - Sesílané kouzlo cíle je ztraceno včetně ceny za seslání. Cíl také nemůže *L* kol čarovat. Bez nároku na záchranný hod.
 
 ---

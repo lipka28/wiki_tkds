@@ -311,12 +311,10 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 **Odehrání tahu:** Postavy v dané skupině odehrávají svůj tah naráz. Pokud jsou to hráči mohou se mezi sebou domlouvat a vymýšlet strategie. Postava může během svého tahu udělat takřka cokoliv co by se vešlo do 6-ti vteřin reálného času. Musí však dodržet následující *omezení:*
 
 - Během kola se může postava pohnout maximálně do vzdálenosti své hybnosti. 
-- Vybavenou zbraní může postava zaútočit jen jednou za kolo. (Monstra používající více končetin mohou mít útoků více. Případně postavy mohou mít speciální schopnosti umožňující více útoků.)
-- Zbraň nemůže být použita to kolo, které byla vytasena. (mimo malých zbraní)
-- Jiné předměty mohou být vytaseny a použity v jednom tahu na místo útoků, pokud jsou mezi vybavenými předměty.
+- Provést pouze 1 akci.
 
-!!! note "Uschované předměty"
-    Vytažení předmětu z batohu zabírá celé kolo včetně pohybu. Takto vytažený předmět lze použít až v dalším kole.
+!!! note "Co se počítá jako akce?"
+    Jako akce se počítají jakákoliv mechanicky významná aktivita.  Nejčastějšími akcemi jsou: útok (ve zvláštních případech i více útoků), sesílání kouzla a manipulace předmětů (výměna zbraní, přebití, použití svitku, zvednutí zbraně se země atd.). 
 
 **Instantní akce:** Některé postavy disponují schopnostmi, které se dají použít jako instantní akce. Tyto speciální akce se dají použít kdykoliv během kola a to i včetně tahu soupeře. Jejich použití je však omezeno na *1x za kolo*. Příkladem takové akce je třeba *"Reflexivní blokování štítem"* (Více v [Ostatní bojové situace](/rules/#ostatni-bojove-situace)). Instantní akce nelze použít pokud je postava překvapená.
 

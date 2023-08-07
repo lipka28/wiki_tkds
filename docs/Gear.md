@@ -13,7 +13,9 @@ Postava může mít maximálně *8+Modifikátor Síly* slotů vybavených předm
 
 **Lehké předměty:** Předměty co mají váhu označenou jako *L* nezabírají žádné místo v inventáři, dokud není součet všech *L* předmětů v inventáři 10. Tyto předměty se pak počítají jako 1 slot.
 
-**Vybavené a uschované předměty:**  Vzhledem k tomu, že použití vybavených a uschovaných předmětů, trvá různou dobu. Vybavené předměty lze použít takřka ihned. Zatímco uschované předměty trvá celé kolo vytáhnout z batohu.
+**Vybavené předměty:** Za vybavené předměty jsou považovány ty předměty, které má postava oblečené na sobě, nebo je chce mít v boji po ruce. Vybavené předměty lze v boji vzít a použít jako součást 1 akce. (Například: Tasit meč a zaútočit, nebo, vzít si lektvar z opasku a vypít ho atd...)
+
+**Uschované předměty:** Uschované předměty jsou ty, které má dobrodruh v "batohu". Předmět je nutné před použitím z batohu vyndat. Vyndání předmětu zabírá celé kolo (včetně pohybu).
 
 ### Váha běžných pokladů
 
@@ -61,7 +63,7 @@ Pokud stvoření používající magii má na sobě kovovou zbroj (většinou st
 
 Zbraně se dělí do 3 základních kategorií. Kategorie jsou přibližně rozděleny podle velikosti zbraně a efektivního dosahu. Kategorie jsou následující:
 
-- **Malá** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Navíc lze s nimi útočit ve stejném kole kdy jsou taseny. 
+- **Malá** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Obecně je tento typ zbraní velmi nenápadný.
 - **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Některé lze také použít i jako obouruční s vyšší kostkou poškození (1d6 -> 1d8). V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
 - **Velká** - Tyto zbraně jsou buď dlouhé a mají tedy vyšší dosah ale nižší kostku poškození (1d10) nebo jsou ohromně silné s normálním dosahem (1d12). Tyto zbraně jsou vždy obouruční.
 
