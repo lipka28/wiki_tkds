@@ -43,7 +43,7 @@ Máš schopnost vycítit magii do vzdálenosti až *25 metrů* (Poblíž). Můž
 
 Magická střela je základní kouzlo, které se pro sebeobranu naučí každý medžaj. Pro všechny účely se jedná o obyčejné kouzlo pro které platí stejná pravidla jako pro ostatní kouzla. 
 
-- *Efekt* - Kouzlo vytvoří **L** magických střel, které vyletí směrem k tebou vybraným cílům. Pokud není v cestě překážka, tak každá střela trefí cíl za **1** poškození. 
+- *Efekt* - Kouzlo vytvoří **L + Modifikátor Rozumu** magických střel, které vyletí směrem k tebou vybraným cílům. Pokud není v cestě překážka, tak každá střela trefí cíl za **1** poškození. 
 - *Neomezené použití* - Tohle kouzlo se nepočítá vůči limitu kouzel, které můžeš během dne seslat. 
 - *Záchranný hod* - Cíl nemá nárok na záchranný hod.
 
