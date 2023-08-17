@@ -68,4 +68,4 @@ Minstrel má výhodu na všechny záchranné hody proti efektům ovlivňující 
 
 Schopnost [Dobrá společnost](/Aldir%20%28Zasazení%29/Povolání/Minstrel/#uroven-1-dobra-spolecnost) léčí dvojnásobné množství životů, léčí únavu jako by všichni přenocovali v civilizaci a poskytne všem zúčastněným (včetně minstrela) 1 Bod naděje.
 
-- *Bod naděje* - Hráč může využít bod naděje aby opravil některý ze svých D20 hodů (nepočítá se jako výhoda). Hráč může mít v jednu chvíli maximálně 1 bod naděje.
+- *Bod naděje* - Hráč může využít bod naděje aby přehodil některý ze svých D20 hodů (nepočítá se jako výhoda). Hráč může mít v jednu chvíli maximálně 1 bod naděje.

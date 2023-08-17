@@ -54,11 +54,12 @@ Lamači kouzel, během svého výcviku, projdou i pár alchymistickými modifika
 
 ### Úroveň 2 - Zlom magii
 
-Pokud máš volnou ruku, tak můžeš provést neozbrojený útok jako instantní akci. Tento útok nepůsobí poškození, avšak stvoření zasažené tímto útokem ztrácí schopnost ovládat magii na 1d4+L kol (Stále může používat svitky a magické předměty). 
+Pokud máš volnou ruku, tak můžeš provést neozbrojený útok, který nepůsobí poškození, avšak stvoření zasažené tímto útokem ztrácí schopnost ovládat magii na 1d4+L kol (Stále může používat svitky a magické předměty). 
 
 - *Nat 20* - Při kritickém zásahu je doba prodloužena na 1 směnu.  
 - *Čarující cíl* - Pokud stvoření zrovna čarovalo, kouzlo je okamžitě ztraceno. 
 - *Mimo boj* - Tato schopnost se dá použít i na zrušení trvajícího magického efektu. Ať už na předmětu či stvoření. 
+- *Instantní akce* - Tento útok lze použít i jako instantní akci. Avšak na zásah se pak hází s nevýhodou. 
 
 !!! note "Permanentní magické předměty"
     Pokud je cílem *Zlom magii* permanentní magický předmět. Jako například +2 meč či nějaké prokletí. Je odstranění magického efektu jen dočasné (1 směna).
@@ -98,6 +99,7 @@ Extra předměty, ke kterým má přístup lamač kouzel při tvorbě postavy ne
 | Lamačský obouruční meč                            |     3      |   3000 st    |
 | Léčivý lektvar (slabý alchymistický)              |     1      |    50 st     |
 | Léčivý lektvar (alchymistický)                    |     1      |    250 st    |
+| Řetízek ochrany (10 zásahů)                       |     L      |    125 st    |
 | Stříbrná munice (1 ks)                            |     L      | dle typu x 2 |
 | Stříbrná zbraň (Na blízko)                        | dle zbraně | dle typu x 2 |
 | Vázací mast (1 použití)                           |     1      |    25 st     |
@@ -126,6 +128,8 @@ Pro většinu stvoření se jedné o neškodnou látku a však pro magicky nadan
 
 - *Slabý* - Vyléčí *1d4+1* poškození.
 - *Normální* -Vyléčí *2d6+2* poškození.
+
+**Řetízek ochrany:** Ochranný řetízek vyroben ze skořápky ulity cepového hlemíždě. Díky svým anti-magickým vlastnostem ochraňuje nositele proti *10-ti* zásahům *Magické střely*. Po vyčerpání ochrany se nenávratně rozbije.
 
 **Stříbrné zbraně a munice:** Postříbřené zbraně a munice. Tato úprava zbraně obchází odolnosti a imunity některých vybraných monster. (Například vlkodlaků)
 

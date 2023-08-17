@@ -2,7 +2,7 @@
 
 ![Image title](/assets/classes/ranger.webp)
 
-*Hraničáři jsou nepřekonatelní průvodci divočinou. Díky svým znalostem přírody a stopovacím schopnostem. Jsou nepostradatelní v každá skupině dobrodruhů. Hraničáři často žijí na okraji civilizace. Většina jich věří, že civilizace musí být chráněna před divočinou. Najdou se však i takoví, kteří trvají na tom, že divočina musí být chráněna před civilizací. Povolání hraničáře je vhodné pro kohokoliv kdo má blízko k přírodě a rád zneškodňuje nepřátele dřív, než se k němu dostanou.*
+*Hraničáři jsou nepřekonatelní průvodci divočinou. Díky svým znalostem přírody a stopovacím schopnostem. Jsou nepostradatelní v každé skupině dobrodruhů. Hraničáři často žijí na okraji civilizace. Většina jich věří, že civilizace musí být chráněna před divočinou. Najdou se však i takoví, kteří trvají na tom, že divočina musí být chráněna před civilizací. Povolání hraničáře je vhodné pro kohokoliv kdo má blízko k přírodě a rád zneškodňuje nepřátele dřív, než se k němu dostanou.*
 
 ## Tabulka postupu
 
@@ -62,4 +62,4 @@ Hraničář může strávit 1 směnu tím, že si ze zabitého stvoření vytvo�
 
 ### Úroveň 10 - Jako vítr
 
-Hraničář není nikdy vázán v boji na blízko.
+Hraničář není nikdy vázán v boji na blízko a jeho hybnost je vyšší o 2 metry.

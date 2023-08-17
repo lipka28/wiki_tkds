@@ -40,6 +40,7 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 - **Těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit. 
 - **Velmi těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit a snižuje hybnost o 2 metry. 
 - **Štít** - Zvyšuje OČ nositele, většinou držen v jedné ruce.
+- **Slabý štít** - Nezávisle na OČ je zničen při použití *reflexního blokování*.
 
 | ZBROJE                     |     TYP     | VÁHA |  OČ  | POTŘEBNÁ SÍLA |   CENA   |
 | :------------------------- | :---------: | :--: | :--: | :-----------: | :------: |
@@ -49,7 +50,8 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 | Šupinová / kroužková zbroj |   Střední   |  2   |  +4  |      10       |  40 st   |
 | Půl plát s kyrysem         |    Těžká    |  3   |  +6  |      12       |  160 st  |
 | Plná plátová zbroj         | Velmi těžká |  4   |  +8  |      14       |  320 st  |
-| Štít                       |    Štít     |  2   |  +2  |      10       |  25 st   |
+| Kovový Štít                |    Štít     |  2   |  +2  |      10       |  25 st   |
+| Dřevěný štít               | Slabý Štít  |  2   |  +2  |      10       |  15 st   |
 
 **OČ:** Bonus k obrannému číslu. 
 

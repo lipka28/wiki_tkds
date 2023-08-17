@@ -18,7 +18,7 @@
 |   8    | +1d4+MOD Výdrž | Perk; +1 kouzlo                                              |
 |   9    | +1d4+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 8; +1 kouzlo              |
 |   10   | +1d4+MOD Výdrž | Umocni magii; +1 kouzlo                                      |
-|  10+   |       +1       | +1 kouzlo                                                    |
+|  10+   |       +1       | ---                                                          |
 
 ## Schopnosti povolání
 
@@ -32,7 +32,7 @@ Disponuješ schopností používat magii. To znamená, že umíš aktivovat magi
 
 - *Magický výzkum* - Ve volná chvíli se můžeš zabývat magickým výzkumem. Ten se může týkat čehokoliv magického. Přes objevování nových kouzel a magických rituálů až po výrobu magických předmětů. 
 - *Sesílání kouzel* - Každý den můžeš seslat stejný počet naučených kouzel jako je tvá úroveň. Aby si znovu nabral síly musíš mít možnost si odpočinout do dalšího dne (aspoň 8 hodin spánku). Detailní pravidla o kouzlení najdeš v [zde](/Aldir%20%28Zasazení%29/magic). 
-- *Učení se nových kouzel* - Hru začínáš s dvěma kouzly dle tvého výběru. Vybírat můžeš ze [seznamu kouzel](/Aldir%20%28Zasazení%29/magic/#kouzla). Další 1 kouzlo získáváš z každou novou úrovní.  
+- *Učení se nových kouzel* - Hru začínáš s dvěma kouzly dle tvého výběru. Vybírat můžeš ze [seznamu kouzel](/Aldir%20%28Zasazení%29/magic/#kouzla). Další 1 kouzlo získáváš z každou novou úrovní dokud nedosáhneš 10. úrovně. 
 - *Maximum kouzel* - Počet kouzel, které se můžeš naučit, odpovídá hodnotě tvé dovednosti rozum. Pokud bys získal kouzlo a překročil tuhle hodnotu, musíš některé naučené kouzlo zapomenout.
 
 ### Úroveň 1 - Vyciť magii
@@ -63,15 +63,15 @@ Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 ### Úroveň 6 - Tiché sesílání
 
-Naučil si se sesílat kouzla tak dobře, že již nepotřebuješ říkat magické formule. Můžeš sesílat kouzla pouhými gesty. To ti navíc umožňuje sesílat kouzla bez šance na selhání i pokud si vázaný v boji na blízko.
+Naučil si se sesílat kouzla tak dobře, že již nepotřebuješ říkat magické formule nebo složitě mávat rukama. Stačí pouhé gesto jedné rukou. To ti navíc umožňuje sesílat kouzla bez šance na selhání i pokud si vázaný v boji na blízko.
 
 ### Úroveň 10 - Umocni magii
 
 Můžeš zdvojnásobit cenu sesílání svého naučeného kouzla aby si umocnil jeho efekt jedním z následujících způsobů:
 
 - **Zdvojnásob aspekt** - Můžeš zdvojnásobit libovolný aspekt tvého kouzla (Dosah, rozsah, počet cílů, trvání, poškození atd...).
-- **Instantní kouzlo** - Seslat normální kouzlo jako instantní.
 - **Posílit** - Cíl(e) kouzla hází na záchranu s nevýhodou.
+- **Instantní kouzlo (Zvedne cenu kouzla 4x)** - Seslat normální kouzlo jako instantní.
 
 Způsoby lze i kombinovat avšak cena kouzla se pak vždy násobí dvěma. 
 

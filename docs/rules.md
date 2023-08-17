@@ -75,6 +75,7 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 - *Opakovaná smrt:* Tuto záchranu je možné opakovat jen tehdy, pokud byla postava někdy po své smrti vyléčena na maximum svých životů. 
 - *Zničení těla:* V tomhle případě tělo nezle zkontrolovat a postava automaticky umírá.
+- *Ale já chci žít:* PJ může dovolit umírající postavě vzdát se 5-ti náhodných dovednostních bodů a žít.
 
 **Zničení předmětů:** Pokud byla postava zabita destruktivním kouzlem nebo speciálním efektem (jako je úder blesku, dračí oheň a podobné), její výbava je považována za zničenou.
 
