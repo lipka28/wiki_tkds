@@ -71,10 +71,11 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 **Smrt:** Monstrum nebo hráč jehož životy jsou zredukovány na *0* nebo méně, je považováno za mrtvé.
 
-**Mírnější systém smrti pro heroická dobrodružství (Optional):** Hráčova postava zredukovaná na 0 nebo méně životů upadne do bezvědomí. Pokud je tělo postavy následně do *24 hodin* zkontrolováno nebo vyléčeno. Může se postava pokusit o záchranný hod proti smrti. Pokud uspěje tak je na živu s jedním životem a v bezvědomí po dobu *1d4 směn*. V případě vyléčení postava přijde k sobě okamžitě s vyléčeným množstvím.
+**Mírnější systém smrti pro heroická dobrodružství (Optional):** Hráčova postava zredukovaná na 0 nebo méně životů upadne do bezvědomí. Pokud je tělo postavy následně do *24 hodin* zkontrolováno nebo vyléčeno. Má 50% (3 z 6-ti) šanci přežít. Pokud uspěje tak je na živu s jedním životem a v bezvědomí po dobu *1d4 směn*. V případě vyléčení postava přijde k sobě okamžitě s vyléčeným množstvím.
 
 - *Opakovaná smrt:* Tuto záchranu je možné opakovat jen tehdy, pokud byla postava někdy po své smrti vyléčena na maximum svých životů. 
 - *Zničení těla:* V tomhle případě tělo nezle zkontrolovat a postava automaticky umírá.
+- *Jedy:* Postava automaticky umírá bez možnosti záchrany.
 - *Ale já chci žít:* PJ může dovolit umírající postavě vzdát se 5-ti náhodných dovednostních bodů a žít.
 
 **Zničení předmětů:** Pokud byla postava zabita destruktivním kouzlem nebo speciálním efektem (jako je úder blesku, dračí oheň a podobné), její výbava je považována za zničenou.

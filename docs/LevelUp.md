@@ -25,7 +25,7 @@ Zkušenosti jsou postavám přiděleny na základě všelijakých aktivit ve hř
 Když postava získá dostatečné množství zkušenostní, aby dosáhla na novou úroveň svého povolání. Postoupí na novou úroveň. Hráč by si měl překontrolovat informace ke svému povolání zda neobdržel nějaké nové bonusy a schopnosti.
 
 !!! example "Volitelné pravidlo: Vyšší jak maximální úroveň"
-	Dosáhne-li postava maximální (10.) úrovně. Může i nadále pokračovat v získávání zkušeností a nových úrovní.
+	Dosáhne-li postava maximální (10.) úrovně. Může i nadále pokračovat v získávání zkušeností a nových úrovní. Avšak všechny schopnosti, které se nějakým způsobem vylepšují s postupem na novou úroveň, končí 10. úrovní. Výjimkou je získávání perků.
 
 ## Tabulka postupu na další úroveň
 
