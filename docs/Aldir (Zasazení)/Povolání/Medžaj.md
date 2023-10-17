@@ -47,9 +47,6 @@ Magická střela je základní kouzlo, které se pro sebeobranu naučí každý 
 - *Neomezené použití* - Tohle kouzlo se nepočítá vůči limitu kouzel, které můžeš během dne seslat. 
 - *Záchranný hod* - Cíl nemá nárok na záchranný hod.
 
-!!! note "Střelba do více cílů"
-    Pokud magické střely míří do více cílů, je třeba hodit na zásah za každý cíl.
-
 ### Úroveň 2 - Magická odolnost
 
 Tvůj blízký vztah k magii ti dává bonus *+3*, ke všem záchranným hodům proti magii.
