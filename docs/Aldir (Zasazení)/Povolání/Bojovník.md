@@ -6,19 +6,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |       HP        | ODEMYKÁ                                              |
-| :----: | :-------------: | :--------------------------------------------------- |
-|   1    | +1d10+MOD Výdrž | Oblíbená zbraň; Bonus k zásahu +0; Záchranný hod: 16 |
-|   2    | +1d10+MOD Výdrž | Extra manévr                                         |
-|   3    | +1d10+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                |
-|   4    | +1d10+MOD Výdrž | Perk                                                 |
-|   5    | +1d10+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 12                |
-|   6    | +1d10+MOD Výdrž | Druhý dech                                           |
-|   7    | +1d10+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 10                |
-|   8    | +1d10+MOD Výdrž | Perk                                                 |
-|   9    | +1d10+MOD Výdrž | Bonus k zásahu: +8; Záchranný hod: 8                 |
-|   10   | +1d10+MOD Výdrž | Extra útok                                           |
-|  10+   |       +1        | ---                                                  |
+| ÚROVEŇ |       HP        | ODEMYKÁ                                            |
+| :----: | :-------------: | :------------------------------------------------- |
+|   1    | +1d10+MOD Výdrž | Extra manévr; Bonus k zásahu +0; Záchranný hod: 16 |
+|   2    | +1d10+MOD Výdrž | Oblíbená zbraň                                     |
+|   3    | +1d10+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14              |
+|   4    | +1d10+MOD Výdrž | Perk                                               |
+|   5    | +1d10+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 12              |
+|   6    | +1d10+MOD Výdrž | Druhý dech                                         |
+|   7    | +1d10+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 10              |
+|   8    | +1d10+MOD Výdrž | Perk                                               |
+|   9    | +1d10+MOD Výdrž | Bonus k zásahu: +8; Záchranný hod: 8               |
+|   10   | +1d10+MOD Výdrž | Extra útok                                         |
+|  10+   |       +1        | ---                                                |
 
 ## Schopnosti povolání
 
@@ -26,18 +26,18 @@
 
 **Trénovaná brnění:** Všechny včetně štítů.
 
-### Úroveň 1 - Oblíbená zbraň
+### Úroveň 1 - Extra manévr
+
+Během svého kola můžeš provést extra útok svou zbraní, který nepůsobí poškození. Můžeš se ním však pokusit o bojový manévr jako je odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci.
+
+- *Volná ruka* - Pokud má bojovník používající manévr aspoň 1 ruku volnou získá bonus +2 na zásah bojovým manévrem.
+
+### Úroveň 2 - Oblíbená zbraň
 
 Vyber si nějakou zbraň co máš u sebe a pojmenuj ji. Tím se tato zbraň stává magickou a získává bonus k zásahu a poškození ve výši poloviny tvé úrovně (zaokrouhleno dolů, max. +5).  
 
 - *Změna zbraně* - Týden používání nové zbraně umožňuje přesun tohoto efektu. 
 - *Magické zbraně* - U zbraní, které již poskytují nějaký bonus k zásahu nebo poškození, platí vyšší hodnota.
-
-### Úroveň 2 - Extra manévr
-
-Během svého kola můžeš provést extra útok svou zbraní, který nepůsobí poškození. Můžeš se ním však pokusit o bojový manévr jako je odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci.
-
-- *Volná ruka* - Pokud má bojovník používající manévr aspoň 1 ruku volnou získá bonus +2 na zásah bojovým manévrem.
 
 ### Úroveň 4, 8, 12... - Perk
 
