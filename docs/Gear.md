@@ -35,23 +35,23 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 
 ### Typy zbrojí:
 
+- **Oblečení** - Plní funkci běžného oblečení. Nevyžaduje trénink.
 - **Lehká** - Flexibilní, lze v ní spát a neomezuje v pohybu. 
 - **Střední** - Omezuje v pohybu, nedá se v ní spát. 
-- **Těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit. 
-- **Velmi těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit a snižuje hybnost o 2 metry. 
+- **Těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit a *snižuje hybnost o 1 metr*.
+- **Velmi těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit a *snižuje hybnost o 2 metry*. 
 - **Štít** - Zvyšuje OČ nositele, většinou držen v jedné ruce.
-- **Slabý štít** - Nezávisle na OČ je zničen při použití *reflexního blokování*.
 
 | ZBROJE                     |     TYP     | VÁHA |  OČ  | POTŘEBNÁ SÍLA |   CENA   |
 | :------------------------- | :---------: | :--: | :--: | :-----------: | :------: |
-| Obyčejné oblečení          |      -      |  1   |  +0  |       -       | - (1 st) |
-| Noblesní oblečení          |      -      |  1   |  +0  |       -       |  100 st  |
+| Obyčejné oblečení          |  Oblečení   |  1   |  +0  |       -       | - (1 st) |
+| Noblesní oblečení          |  Oblečení   |  1   |  +0  |       -       |  100 st  |
+| Oblečení dobrodruha        |  Oblečení   |  1   |  +1  |       -       |  15 st   |
 | Vycpávaná / kožená zbroj   |    Lehká    |  1   |  +2  |       -       |  20 st   |
 | Šupinová / kroužková zbroj |   Střední   |  2   |  +4  |      10       |  40 st   |
 | Půl plát s kyrysem         |    Těžká    |  3   |  +6  |      12       |  160 st  |
 | Plná plátová zbroj         | Velmi těžká |  4   |  +8  |      14       |  320 st  |
-| Kovový Štít                |    Štít     |  2   |  +2  |      10       |  25 st   |
-| Dřevěný štít               | Slabý Štít  |  2   |  +2  |      10       |  15 st   |
+| Štít                       |    Štít     |  2   |  +2  |      10       |  15 st   |
 
 **OČ:** Bonus k obrannému číslu. 
 
@@ -69,7 +69,7 @@ Zbraně se dělí do 3 základních kategorií. Kategorie jsou přibližně rozd
 - **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Některé lze také použít i jako obouruční s vyšší kostkou poškození (1d6 -> 1d8). V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
 - **Velká** - Tyto zbraně jsou buď dlouhé a mají tedy vyšší dosah ale nižší kostku poškození (1d10) nebo jsou ohromně silné s normálním dosahem (1d12). Tyto zbraně jsou vždy obouruční.
 
-Tato kategorizace je také důležitá v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky instantní akci). Celkové pořadí priority při vzájemném útoku je: **malá** < **střední** < **velká** < **velká dlouhá** < **hozená** < **střelná** (u střelných zbraní pak mají přednost zbraně využívající střelný prach)
+Tato kategorizace je také důležitá v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: **malá** < **střední** < **velká** < **velká dlouhá** < **hozená** < **střelná** (u střelných zbraní pak mají přednost zbraně využívající střelný prach)
 
 !!! note "Nezáleží jakou zbraň máš ale jak ji využiješ"
 	Za kreativní popisy využití svých zbraní, může PJ poskytnout různé bonusy a výhody nebo dokonce umožnit speciální akci s danou zbraní. Záleží jen na hráčově kreativitě.
@@ -90,27 +90,28 @@ I střelné zbraně jsou řazeny do stejných kategorií jako zbraně na blízku
 - **Střední střelná** - má efektivní dostřel na vzdálenost do *50 metrů* (Daleko) 
 - **Velká střelná** - má efektivní dostřel na vzdálenost do *100 metrů* (Velmi daleko)
 
-**Neefektivní dostřel:** S každou střelnou zbraní lze útočit i na tak zvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu (Nebo o stupeň výš toho abstraktního. Např.: Daleko -> Velmi daleko). Takový útok však probíhá *s nevýhodou*.
+**Neefektivní dostřel:** S každou střelnou zbraní lze střílet balistickým obloukem i na tak zvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu (Nebo o stupeň výš toho abstraktního. Např.: Daleko -> Velmi daleko). Takový útok však probíhá *s nevýhodou*.
 
-**Nabíjecí zbraně:** Některé zbraně, jako například kuše či muškety, mohou vyžadovat přebíjení. Přebíjení zabírá celé kolo a nelze se při něm hýbat či útočit, stále je však možné používat instantní akce. Nabíjecí zbraně mívají vyšší kostku poškození, než jejich stejně velký nenabíjecí ekvivalent.
+**Nabíjecí zbraně:** Některé zbraně, jako například kuše či muškety, mohou vyžadovat přebíjení. Přebíjení zabírá celé kolo a nelze se při něm hýbat či útočit. Nabíjecí zbraně mívají vyšší kostku poškození, než jejich stejně velký nenabíjecí ekvivalent.
 
-**Střelný prach**: Kampaně zasazené v novodobém Aldiru, předpokládají existenci křesadlových střelných zbraní. 
+**Střelný prach**: Některé kampaně mohou předpokládat existenci křesadlových střelných zbraní. Pro ty platí následující pravidla:
 
-- **Vlastnosti křesadlových zbraní:** Křesadlové zbraně vždy hází poškození s výhodou. Jsou však velmi náchylné na vlhkost. 
+- **Poškození:** Křesadlové zbraně jsou nejsilnější z nabíjecích zbraní.
+- **Náchylnost na vlhkost:** Jsou náchylné na vlhkost a nevhodné podmínky mohou zvýšit jejich šanci na selhání.
+- **Dostřel:** Křesadlové zbraně jsou velmi nepřesné na větší vzdálenosti. Nelze s nimi střílet na větší jak efektivní vzdálenost.
 - **Selhání:** Při hodu *NAT 1 až 3* na zásah křesadlová zbraň selže. Takovou zbraň je třeba 1 směnu čistit čistící sadou, aby byla znovu použitelná. 
-- **Magické pistole:** Je v podstatě nemožné nalézt pistole a pušky s magickým očarováním, jelikož tento styl zbraní se začal  v Aldiru vyrábět až po plošném zákazu magie. Magické pušky nebo magická munice jsou tedy extrémně vzácné.
 
 !!! Warning "Selhání s výhodou a nevýhodou"
-    Výhoda a nevýhoda má nežádoucí vliv na pravděpodobnost selhání křesadlové zbraně. V případě, že je tedy křesadlová zbraň použita s výhodou nebo nevýhodou, je třeba na selhání házet zvlášť, mimo hod na zásah.
+    Výhoda a nevýhoda má nežádoucí vliv na pravděpodobnost selhání křesadlové zbraně. V případě, že je tedy křesadlová zbraň použita s výhodou nebo nevýhodou, je třeba na selhání brát v potaz jen první hozenou kostku.
 
 | ZBRAŇ                            |  CENA  | VÁHA | POŠKOZENÍ  | PŘÍKLADY ZBRANÍ                 |
 | :------------------------------- | :----: | :--: | :--------: | :------------------------------ |
-| Malá střelná                     | 20 st  |  1   | 1d4 - 1d6  | praky, příruční kuše, šipky...  |
-| Malá střelná na střelný prach    | 80 st  |  1   |    1d6     | bambitky...                     |
+| Malá střelná                     | 20 st  |  1   | 1d4 - 1d6  | praky, příruční kuše...         |
+| Malá střelná na střelný prach    | 80 st  |  1   |    1d8     | bambitky...                     |
 | Střední střelná                  | 40 st  |  2   | 1d6 - 1d8  | kuše, luky...                   |
-| Střední střelná na střelný prach | 120 st |  2   |    1d8     | houfnice, muškety...            |
+| Střední střelná na střelný prach | 120 st |  2   |    1d10    | houfnice, muškety...            |
 | Velká střelná                    | 80 st  |  3   | 1d8 - 1d10 | dalekonosné luky, těžké kuše... |
-| Velká střelná na střelný prach   | 160 st |  3   |    1d10    | těžké muškety...                |
+| Velká střelná na střelný prach   | 160 st |  3   |    1d12    | těžké muškety...                |
 
 ### Munice
 
@@ -133,7 +134,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Hák                                                      |       1        | 25 st |
 | Hlavička Česneku                                         |       L        | 1 md  |
 | Hudební nástroj                                          |     1 - 2      | 25 st |
-| Kniha (Kapacita 100 stránek / 20 receptů / 10 kouzel)    |       1        | 15 st |
+| Kniha (100 stránek)                                      |       1        | 15 st |
 | Kovová pouta                                             |       1        | 15 st |
 | Kovový hřeb                                              |       L        | 5 st  |
 | Koňské sedlo a otěže                                     | 3 (0 nasazeno) | 25 st |
@@ -148,11 +149,11 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Motouz (25 metrů)                                        |       1        | 1 st  |
 | Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo atd...) |       1        | 5 st  |
 | Píšťalka                                                 |       L        | 1 st  |
-| Psací potřeby - extra inkoust a pergamen (+10 použití)   |       1        | 15 st |
 | Pochodeň (5 kusů)                                        |       5L       | 1 st  |
 | Protijed (slabý)                                         |       L        | 30 st |
 | Provaz (10 metrů)                                        |       1        | 1 st  |
 | Psací potřeby (10 použití)                               |       1        | 20 st |
+| Psací potřeby - extra inkoust a pergamen (+10 použití)   |       1        | 15 st |
 | Pytel kovových ježků (5 použití)                         |       1        | 10 st |
 | Rybářské náčiní                                          |       1        | 5 st  |
 | Řetěz (2 metry)                                          |       1        | 5 st  |
@@ -170,7 +171,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Zlodějské náčiní - náhradní nástroje (+10 použití)       |       1        | 15 st |
 | Zrcátko                                                  |       L        | 5 st  |
 | Zvonek                                                   |       L        | 1 st  |
-| A další... (Zeptej se PJ)                                |       ??       |  ??   |
+| A další... (Řekni PJ co potřebuješ)                      |       ??       |  ??   |
 
 **Kontejner (Kon.):** Obsazené předměty s tímto označením zabírají místo v inventáři pouze pokud, jsou-li v něm uschované. Při běžném použití žádné místo nezabírají. (Místo je zabíráno pouze předměty uschovanými uvnitř)
 
@@ -210,7 +211,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Nástroj:** Věci jako lopaty, vidle, krumpáče a jim podobné.
 
-**Pochodeň:** Poskytuje světlo v okolí *8 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zaútočeno a nebo je pochodeň upuštěna na zem, existuje šance 50% že se zničí a zhasne. 
+**Pochodeň:** Poskytuje světlo v okolí *8 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zaútočeno a nebo je pochodeň upuštěna na zem, existuje šance 3 z 6-ti že se zničí a zhasne. 
 
 **Protijed (slabý):**  Slabý protijed ihned vyléčí slabou otravu. 
 
@@ -222,9 +223,10 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Pytel kovových ježků:** Malé kovové bodce, které mohou být rozhozeny po zemi (1 x 1 metr plocha). Stvoření pohybující se postiženou oblastí má *2 z 6-ti* šanci, že obdrží 1 poškození a jeho rychlost pohybu bude snížena na polovinu po dobu 24 hodin nebo dokud neobdrží magické léčení.
 
-**Sedlová brašna / Pytel**: Vhodná pro uložení předmětu na koni či jiném stvoření. Kapacita 5 Slotů 
+**Sedlová brašna / Pytel**: Vhodná pro uložení předmětu na koni či jiném stvoření. Kapacita 6 Slotů.
 
-- *Pytel:* Pokud používáno jako pytel, umožňuje nést větší množství předmětů v jedné ruce a tím navýšit nosnost jedince.  
+- *Pytel:* Pokud používáno jako pytel, umožňuje nést větší množství předmětů v rukách a tím navýšit nosnost jedince.  
+- *Sedlová brašna:* Osedlané stvoření lze vybavit maximálně dvěmi sedlovými brašnami. 
 
 !!! note "Je to v pytli"
 	Předměty v pytli nebo sedlové brašně jsou považovány za uschované předměty.
@@ -271,7 +273,7 @@ Aplikace na zbraň trvá 1 směnu. Jednou lahvičkou jedu lze pokrýt *jednu vel
 
 *\*Platí jen při konzumaci*
 
-**Typ** - Alchymisté si většinou své receptury drží v tajnosti, proto se místo názvu jedu při prodeji koncovému zákazníkovi udává pouze číselný indikátor typu. Vyšší typ značí silnější a dražší jed. 
+**Typ** - Číselný indikátor typu jedu. Vyšší typ značí silnější a dražší jed. 
 
 **Save mod.** - Modifikátor k záchrannému hodu oběti. 
 

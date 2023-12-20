@@ -6,14 +6,17 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Naházej si dovednosti
 
-Jdi dovednost po dovednosti, v pořadí jakém si usmyslíš. Na každou dovednost si hoď *4d6*, zahoď nejnižší a výsledek si zaznač.
+Jdi dovednost po dovednosti, v pořadí jakém si usmyslíš. Na každou dovednost si hoď *3d6* a výsledek si zaznač.
 
 !!! Note "Doporučené pořadí házení dovedností"
     Síla, Zručnost, Výdrž, Rozum, Osobnost
 
 ## 2. Vyber si rasu a povolání
 
-Vyber si jednu z ras a jedno povolání dobrodruha a zaznač si jejich název do svého deníku postavy. Mysli na to, že některé rasy mají minimální požadavek na specifické dovednosti aby sis je mohl vybrat.
+Vyber si jednu z ras a jedno povolání dobrodruha a zaznač si jejich název do svého deníku postavy. Mysli na to, že některé rasy mají minimální požadavek na specifické dovednosti aby sis je mohl vybrat a některá povolání jsou přístupná jen některým rasám.
+
+!!! note "Speciální rasy ve Starém světě"
+    Speciální rasy Starého světa si mohou vybrat pouze hráči, kterým jejich první postava v aktuální kampani zemřela. Každá hráč dostane tuhle příležitost jen 1x za kampaň. Ve skupině nesmí být více členů ze stejnou speciální rasou.
 
 ## 3. Uprav dovednostní body a zaznač si modifikátory dovedností a gramotnost.
 
@@ -27,9 +30,6 @@ Zaznač si útočné číslo a záchranný hod dle svého povolání. Případn�
 
 Stanov životy tvé postavy hodem kostkou zdraví uvedenou v tabulce postupu tvého povolání a aplikuj modifikátor za výdrž. Každá postava začíná minimálně s 1 životem.
 
-!!! example "Volitelné pravidlo: Maximum na 1. úrovni"
-	Dle uvážení PJ, je možnost na první úrovni neházet na životy vůbec a jen si zapsat nejvyšší možnou hodnotu na kostce modifikovanou tvou výdrži. 
-
 !!! example "Volitelné pravidlo: Přehození 1"
 	Pokud ti padne 1, může ti PJ dovolit házet znovu.
 
@@ -37,10 +37,7 @@ Stanov životy tvé postavy hodem kostkou zdraví uvedenou v tabulce postupu tv�
 
 Zaznač si všechny zvláštní schopnosti, které tvá postava získala výběrem rasy a povolání. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na hybnost danou tvou rasou.
 
-**Jazyky:** Poznač si také jazyky získané výběrem rasy a povolání. Případně, že má tvá postava vysokou hodnotu dovednosti rozum, požádej PJ o další jazyky.
-
-!!! note "Jazyky Aldiru"
-    Pokud se vaše dobrodružství odehrává v Aldiru. Najdete dostupné jazyky [zde](/Aldir%20%28Zasazení%29/about/#jazyky-aldiru).
+**Jazyky:** Poznač si také jazyky získané výběrem rasy a povolání.
 
 ## 8. Nakup si výbavu
 
@@ -74,6 +71,9 @@ Někteří hráči mohou chtít o svých postavách vědět něco víc než jen 
 - **Hratelný:** Tvůj příběh by měl být tzv. "hratelný". Nezapomeň do něj zakomponovat věci, které si myslíš že by mohli být relevantní pro aktuální kampaň a které by PJ mohl použít. Dobré je třeba propojit svůj příběh s herním světem. Například, že se tvá postava zná s nějakým relevantním NPC nebo že třeba byl/je členem nějaké významné frakce. 
 - **Krátký a k věci:** Tvůj příběh by měl být krátký a k věci. Odstavec, maximálně 2 jsou více jak dostačující. Úplně nejlepší je prezentovat svůj příběh formou odrážek. Nikdo nebude číst několika stránkové stěny textu. 
 - **Ne-heroický:** Hrdinou se člověk nenarodí, ale stane. Hrdinství je něco, co si tvá postava musí zasloužit během hry. Nedává tedy smysl, aby příběh o původu tvé postavy byl plný velkých činů a slávy.
+
+!!! note "Bonusy za původ"
+    PJ může postavě poskytnout extra výbavu či speciální schopnosti v závislosti na popsaném původu.
 
 ---
 

@@ -70,7 +70,7 @@ Peníze jsou základním platidlem a odměnou za dobře odvedenou práci. Peníz
 - **1 st = 10 md**
 
 !!! Note "Škála a význam peněz"
-    Pro lepší představu 1 stříbrný, je obnos, který si přibližně vydělá nevzdělaný rolník za 1 den své práce. Běžní strážní si pak vydělají kolem 2 až 3 stříbrných za den. Stříbro se pak používá převážně mezi běžnými obchodníky, zatímco šlechta preferuje zlato. Platinové mince pak neexistují jako takové, ale používá se čistě pro účely účetnictví. 
+    Pro lepší představu 1 stříbrný, je obnos, který si přibližně vydělá nevzdělaný rolník za 1 den své práce. Běžní strážní si pak vydělají kolem 2 až 3 stříbrných za den. Stříbro se pak používá převážně mezi běžnými obchodníky, zatímco vyšší společnost preferuje zlato. Platinové mince jako takové neexistují, ale používají se čistě pro účely účetnictví. 
 
 ## Herní statistiky
 
@@ -105,7 +105,7 @@ Postup postavy ve hře je reprezentován kumulací zkušenostních bodů. Když 
 Určuje schopnost postavy vyhnout se nebo vykrýt útoky či jiné bojové manévry. Obranné číslo je modifikováno zručností postavy a typem zbroje, kterou postava nosí. Čím větší obranné číslo, tím hůře lze postavu zasáhnout.
 
 !!! warning "Přepočet descending AC"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na AC (OČ), které se s vylepšováním snižuje na místo zvyšování. Pro přepočet na OČ *odečtete* hodnotu psanou v materiálu *od 19-ti*. Například zbroj poskytující *5 DAC* přepočítáte na OČ následovně: *19 - 5 = 14 OČ*.
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na AC (OČ), které se s vylepšováním snižuje na místo zvyšování. Pro přepočet na OČ *odečtěte* hodnotu psanou v materiálu *od 19-ti*. Například zbroj poskytující *5 DAC* přepočítáte na OČ následovně: *19 - 5 = 14 OČ*.
 
 ### Záchranný hod
 Určuje schopnost postavy vyhnout se některým nebezpečným či dokonce smrtelným efektům.
@@ -124,7 +124,7 @@ Hybnost představuje základní rychlost s jakou se postava zvládá pohybovat z
 
 ### Gramotnost a jazyky
 
-Gramotnost a počet jazyků, které postava ovládá (nebo se může naučit). Je dána rozumem postavy. Které jazyky si může postava vybrat stanovuje PJ.
+Gramotnost a počet jazyků, které postava ovládá (nebo se může naučit). Je dána rozumem postavy.
 
 ### Schopnosti
 Jsou sadou výjimečných schopností, které postava získá na základě volby rasy a povolání nebo na základě voleb, které učiní při různých dobrodružství.

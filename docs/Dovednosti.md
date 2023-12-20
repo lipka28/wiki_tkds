@@ -16,9 +16,7 @@ Svaly a fyzická síla. Hlavní využití síly je v boji a při nošení těžk
 | 9 - 12  |      0      |
 | 13 - 15 |     +1      |
 | 16 - 17 |     +2      |
-| 18 - 20 |     +3      |
-| 21 - 24 |     +4      |
-| 25 - 30 |     +5      |
+|   18    |     +3      |
 
 ## Zručnost
 
@@ -32,9 +30,7 @@ Zručnost, reflexy a rovnováha. Modifikátor zručnosti ovlivňuje především
 |  9 - 12  |      0      |
 | 13 - 15  |     +1      |
 | 16 - 17  |     +2      |
-| 18 - 20  |     +3      |
-| 21 - 24  |     +4      |
-| 25 - 30  |     +5      |
+|    18    |     +3      |
 
 ## Výdrž
 
@@ -48,25 +44,21 @@ Výdrž představuje zdraví, výdrž a vytrvalost. Modifikátor výdrže ovliv�
 | 9 - 12  |      0      |
 | 13 - 15 |     +1      |
 | 16 - 17 |     +2      |
-| 18 - 20 |     +3      |
-| 21 - 24 |     +4      |
-| 25 - 30 |     +5      |
+|   18    |     +3      |
 
 ## Rozum
 
-Rozum představuje schopnost učit se, paměť, rozum a sílu vůle. Rozumu určuje gramotnost hráčovi postavy a kolik jazyků může postava ovládat a modifikátor rozumu se připočítává k záchranným hodům proti magii. Tato dovednost je také velmi důležitá pro jedince užívající magii. 
+Rozum představuje schopnost učit se, paměť, rozum a sílu vůle. Rozumu určuje gramotnost hráčovi postavy a kolik jazyků se může postava pokusit naučit. Modifikátor rozumu se připočítává k záchranným hodům proti magii.
 
-|  Rozum  | Modifikátor |  Gramotnost  |       Ovládané jazyky       |
-| :-----: | :---------: | :----------: | :-------------------------: |
-|    3    |     -3      |  Negramotný  | Pouze 1 rozený jazyk lámaně |
-|  4 - 5  |     -2      |  Negramotný  |    Pouze 1 rozený jazyk     |
-|  6 - 8  |     -1      | Základní*\** |    1 rozený jazyk*\*\**     |
-| 9 - 12  |      0      |   Gramotný   |           Rozený            |
-| 13 - 15 |     +1      |   Gramotný   |          Rozený +1          |
-| 16 - 17 |     +2      |   Gramotný   |          Rozený +2          |
-| 18 - 20 |     +3      |   Gramotný   |          Rozený +3          |
-| 21 - 24 |     +4      |   Gramotný   |          Rozený +4          |
-| 25 - 30 |     +5      |   Gramotný   |          Rozený +5          |
+|  Rozum  | Modifikátor |  Gramotnost  |       Kapacita pro jazyky       |
+| :-----: | :---------: | :----------: | :-----------------------------: |
+|    3    |     -3      |  Negramotný  | Pouze 1 rozený jazyk lámaně\*\* |
+|  4 - 5  |     -2      |  Negramotný  |    Pouze 1 rozený jazyk\*\*     |
+|  6 - 8  |     -1      | Základní*\** |    Pouze 1 rozený jazyk\*\*     |
+| 9 - 12  |      0      |   Gramotný   |             Rozený              |
+| 13 - 15 |     +1      |   Gramotný   |            Rozený +1            |
+| 16 - 17 |     +2      |   Gramotný   |            Rozený +2            |
+|   18    |     +3      |   Gramotný   |            Rozený +3            |
 
 *\*Postava se zvládne alespoň podepsat, Zvládá jednoduchou matematiku (jako třeba počítat do 20-ti) a čtení čehokoliv jí trvá velmi dlouho s minimálním pochopením pro čtený text.*
 
@@ -74,19 +66,17 @@ Rozum představuje schopnost učit se, paměť, rozum a sílu vůle. Rozumu urč
 
 ## Osobnost
 
-Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopnost vést. Modifikátor osobnosti ovlivňuje to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě, kolik můžeš mít nehráčských společníků a to jak jsou mu daní společnící loajalní.
+Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopnost vést. Modifikátor osobnosti ovlivňuje to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě, kolik můžeš mít nehráčských společníků a to jak jsou mu daní společníci loajální.
 
-| Osobnost | Modifikátor | MAx Počet společníků |   Loajalita   |
-| :------: | :---------: | :------------------: | :-----------: |
-|    3     |     -3      |          0           |       0       |
-|  4 - 5   |     -2      |          0           |       0       |
-|  6 - 8   |     -1      |          1           |       6       |
-|  9 - 12  |      0      |          2           |       7       |
-| 13 - 15  |     +1      |          3           |       8       |
-| 16 - 17  |     +2      |          4           |       9       |
-| 18 - 20  |     +3      |          5           |      10       |
-| 21 - 24  |     +4      |          6           |      11       |
-| 25 - 30  |     +5      |          7           | 12 (bezmezná) |
+| Osobnost | Modifikátor |         MAx Počet společníků         | Loajalita |
+| :------: | :---------: | :----------------------------------: | :-------: |
+|    3     |     -3      |                  0                   |     0     |
+|  4 - 5   |     -2      | 1 (Pouze stvoření nízké inteligence) |     0     |
+|  6 - 8   |     -1      |                  1                   |     6     |
+|  9 - 12  |      0      |                  2                   |     7     |
+| 13 - 15  |     +1      |                  3                   |     8     |
+| 16 - 17  |     +2      |                  4                   |     9     |
+|    18    |     +3      |                  5                   |    10     |
 
 !!! Note "Společníci"
     Za společníka může být považován jak placený žoldák, tak zvíře nebo třeba nějaký vázaný démon.
