@@ -52,7 +52,7 @@ Sesílání takových kouzel funguje na principu handlování mezi hráčem ses�
 - Vytvoření jednorázového předmětu s efektem kouzla (zdvojnásobí cenu kouzla).
 - Vytvoření permanentního předmětu s efektem kouzla (zdvojnásobí cenu kouzla a platí se permanentní ztrátou životů).
 
-**Snížení ceny (většinou -1 ):**
+**Snížení ceny (většinou -1):**
 
 - Kouzlo přesně odpovídá znění kouzla a specializaci sesilatele (pokud není kouzlo jednoslovné).
 - K sesílání je použita vzácná, cenná nebo obzvlášť relevantní komponenta (ta je v procesu sesílání zničena).
