@@ -16,7 +16,7 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 Výchozí parametry všech kouzel (před zvýšením za pomocí handlování s PJ) jsou následující:
 
 - *Doba sesílání* - 1 kolo
-- *Dosah* - 5 metrů (*Blízko*)
+- *Dosah* - 5 metrů (Blízko)
 - *Rozsah* - 1 stvoření
 - *Trvání* - 1 kolo / směna nebo okamžité (v závislosti na ráznosti efektu)
 - *Poškození* - 1d6 nebo *léčení* 1 HP
@@ -100,7 +100,7 @@ Sesílání kouzel za životy většinou nezpůsobuje skutečná zranění na t�
 - **Geomancie** - Magie zemin a kamení
 - **Hydromancie** - Magie vody
 - **Aeormancie** - Magie vzduchu a nebe
-- **Drudismus** - Magie přírody
+- **Drudismus** - Magie fauny a flóry
 - **Demonologie** - Magie démonů
 - **Nekromancie** - Magie manipulace živého i neživého
 - **Transmutace** - Magie přeměn
