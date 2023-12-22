@@ -1,6 +1,6 @@
 # Zapomenutý
 
-![Image title](/assets/races/Forgoten.png)
+![Image title](/assets/races/Forgoten.jpeg)
 
 **Požadavky:** Tvá první postava v právě probíhající kampani zemřela.  
 
