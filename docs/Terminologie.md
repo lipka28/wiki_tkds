@@ -41,10 +41,9 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 !!! info "Příklad: Procentní hod"
 	Například čaroděj, sesílajíc kouzlo z posledních sil může mít šanci 75%, že kouzlo uspěje. Hráč tedy hodí *k100* a pokud je jeho výsledek větší jak nižší nebo stejný jako 75, tak uspěl. 
 
-**X ze Y**: Je dalším způsobem vyhodnocení akcí, se kterým se setkáte. Hráč musí hodit X nebo méně kostkou Y. Například *2 z 6-ti*.
+**Hod s hranicí úspěchu X (HU)**: Je jedním z běžných způsobů vyhodnocení akcí, se kterým se setkáte. Hráč musí hodit X nebo více na k6. Případně jiné specifikované kostce.
 
-!!! info "Příklad: Hod 2 z 6-ti"
-	Pro úspěšné ověření s šancí *2 z 6-ti* je třeba hodit na *k6* číslo 2 nebo méně.
+**X ze Y**: Je obrácenou variantou na *Hod s hranicí úspěchu X*. Často používaný v předepsaných dobrodružstvích Hráč musí hodit X nebo méně kostkou Y. Například *2 z 6-ti*.
 
 ## Jednotky a peníze
 

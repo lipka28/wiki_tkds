@@ -8,9 +8,9 @@
 
 ## Ověření dovednosti (Ability check)
 
-Nejasné situace může PJ řešit tím, že požádá hráče o hod na ověření dovednosti. Hod probíhá následovně: Hráč hodí 1d6 a přičte relevantní modifikátory, které lze na takovou aktivitu aplikovat. 
+Nejasné situace může PJ řešit tím, že požádá hráče o hod na ověření dovednosti. Hod probíhá následovně: Hráč hodí 1k6 a přičte relevantní modifikátory, které lze na takovou aktivitu aplikovat. 
 
-- *Větší rovno 4:* Pokud je výsledek větší nebo roven *4 (Hranice úspěchu)*, tak je hod úspěšný. 
+- *Větší rovno 4:* Pokud je výsledek větší nebo roven *4 (Hranice úspěchu - HU)*, tak je hod úspěšný. 
 - *Nižší než 4:* V případě nižších výsledků se jedná o neúspěch. 
 - *NAT 1 a NAT 6:* V případě přirozené *1* se vždy jedná o neúspěch  a v případě přirozených *6* se vždy jedná o úspěch.  
 - *Výhod a nevýhoda:* PJ může také na takový hod uvalit výhodu, nevýhodu nebo jiné bonusy čí postihy, dle dané situace.
@@ -46,7 +46,7 @@ Všichni dobrodruzi disponují 4-mi základními schopnostmi. Výchozí hranice 
     - **Tajný hod:** Na tuhle schopnost háže PJ potají, aby hráč neviděl výsledek hodu.
     - **Efekt úspěchu:** Hráči objeví jeden z ukrytých prvků v dané oblasti.
 - *Sběr* - Během cestování se mohou postavy pokusit o sběr bylin, plodů a jiných zásob. Tato aktivita nijak neovlivní rychlost pohybu a umožní cestující skupině najít nějaké ty zásoby.
-    - **Efekt úspěchu:** Skupina najde *1d6* čerstvých zásob (speciální typ zásob, který se za 3 dny zkazí).
+    - **Efekt úspěchu:** Skupina najde *1k6* čerstvých zásob (speciální typ zásob, který se za 3 dny zkazí).
 
 ## Záchranné hody
 
@@ -72,13 +72,13 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 ### Léčení
 
- **Přirozené léčení:** Za každou nerušenou noc odpočinku postava nebo monstrum zregeneruje *2 životy*. Přenocování v nebezpečí divočiny nebo kobce neumožňuje přirozené léčení.  
+**Přirozené léčení:** Za každý den nerušeného stvoření zregeneruje *2 životy*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy.
 
 **Magické léčení:** Léčit lze také pomocí lektvarů, nebo kouzel. Tato forma léčení je většinou instantní. Magické a přirozené léčení lze kombinovat.
 
 **Smrt:** Monstrum nebo hráč jehož životy jsou zredukovány na *0* nebo méně, je považováno za mrtvé.
 
-**Mírnější systém smrti pro heroická dobrodružství (Optional):** Hráčova postava zredukovaná na 0 nebo méně životů upadne do bezvědomí. Pokud je tělo postavy následně do *24 hodin* zkontrolováno nebo vyléčeno. Má 3 z 6-ti šanci přežít. Pokud uspěje tak je na živu s *1 životem* a v bezvědomí po dobu *1d4 směn*. V případě vyléčení postava přijde k sobě okamžitě s vyléčeným množstvím.
+**Mírnější systém smrti pro heroická dobrodružství (Optional):** Hráčova postava zredukovaná na 0 nebo méně životů upadne do bezvědomí. Pokud je tělo postavy následně do *24 hodin* zkontrolováno nebo vyléčeno. Má *50%* šanci (hod s HU 4) přežít. Pokud uspěje tak je na živu s *1 životem* a v bezvědomí po dobu *1k4 směn*. V případě vyléčení postava přijde k sobě okamžitě s vyléčeným množstvím.
 
 - *Opakovaná smrt:* Tuto záchranu je možné opakovat jen tehdy, pokud byla postava někdy po své smrti vyléčena na maximum svých životů. 
 - *Zničení těla:* V tomhle případě tělo nezle zkontrolovat a postava automaticky umírá.
@@ -109,7 +109,7 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 **Světlo a překvapení:** Postavy nebo monstra, která mají sebou zdroj světla, nemůžou překvapit své nepřátele. Světlo totiž prozrazuje jejich přítomnost.
 
-**Pád z výšky:** Pád z výšky na tvrdý povrch působí *1d6* poškození za každé započaté 2 metry pádu. První 2 metry pádu se do tohohle poškození nepočítají. Padající postava se může pokusit při pádu zachytit ověřením zručnosti proti *hranici úspěchu 5*. I zachycená postava však obdrží poškození za vzdálenost, kterou již spadla.
+**Pád z výšky:** Pád z výšky na tvrdý povrch působí *1k6* poškození za každé započaté 2 metry pádu. První 2 metry pádu se do tohohle poškození nepočítají. Padající postava se může pokusit při pádu zachytit ověřením zručnosti proti *HU 5*. I zachycená postava však obdrží poškození za vzdálenost, kterou již spadla.
 
 !!! note "Rychlost pádu"
     Pokud postava padá volným pádem, předpokládá se, že padá rychlostí *25 metrů* za vteřinu. (150 metrů za kolo)
@@ -145,7 +145,7 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 
 **Smrt na únavu:** Pokud postava dosáhne únavy o hodnotě 7 nebo více musí podstoupit záchranný hod proti smrti nebo zemřít.
 
-**Zbavení se únavy:** Zbavení se únavy v divočině je ve směs nemožné. Je vyžadována buď pomoc magie, strávit noc v civilizaci nebo alespoň v bezpečném stavení. Za každý den strávený v bezpečí civilizace je vyléčen 1 stupeň únavy. Při odpočinku v civilizaci nelze na únavu zemřít.
+**Zbavení se únavy:** Zbavení se únavy v divočině je ve směs nemožné. Je vyžadována buď pomoc magie a nebo strávit čas v civilizaci. Za každý den strávený v bezpečí civilizace je vyléčen 1 stupeň únavy. Při odpočinku v civilizaci nelze na únavu zemřít.
 
 ## Přenocování v divočině
 
@@ -155,9 +155,9 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 2. Vyhodnocení 
 3. Přičtení únavy či odečet zásob
 
-**Pokus o utáboření:** Při pokusu o utáboření musí postavy obstarat 3 základní potřeby k přežití: *jídlo, vodu a útočiště*. To udělají tak, že kolektivně hodí *3d6*. Kde každá d6 představuje jednu z těchto potřeb. 
+**Pokus o utáboření:** Při pokusu o utáboření musí postavy obstarat 3 základní potřeby k přežití: *jídlo, vodu a útočiště*. To udělají tak, že kolektivně hodí *3k6*. Kde každá d6 představuje jednu z těchto potřeb. 
 
-- *Speciální schopnosti:* Každá postava cestující s družinou, která disponuje schopnostmi pro přežití v divočině. (Např. hraničář). Může poskytnou *+1* bonus k jednomu z hodů. Musí tak však deklarovat předem. 
+- *Speciální schopnosti:* Každá postava cestující s družinou, která disponuje speciálními schopnostmi pro přežití v divočině (napříkald stopování). Může poskytnou *+1* bonus k jednomu z hodů. Musí tak však deklarovat předem. 
 - *Kouzla:* Některé kouzla mohou úplně nahradit potřebu pro některý hod. V těchto případech může PJ hod prominout.  
 - *Hlídka a náhodná setkání:* Při táboření může v průběhu noci dojít k náhodným setkáním. Také se automaticky předpokládá, že se postavy střídají na hlídce.
 
@@ -201,7 +201,7 @@ Alternativní metodou jak řešit cestování, je "rychlé cestování". Vhodné
 - *Souhrnné poškození:* Během rychlého cestování se postihy kumulují jako souhrnné poškození, které si na konci cesty mezi sebou hráči rozdělí. 
 - *Zásoby:* Hráči zaplatí počet zásob odpovídající počtu cestujících "hladových krků" za každý den cesty.
 - *Nedostatek zásob:* Za každou zásobu, kterou hráči nemohou zaplatit se přičte 1 bod souhrnného poškození. 
-- *Náhodná setkání:* Pokud hráči cestují delší dobu než 5 dní, PJ hodí 1d4 na určení počtu setkání. Na kratší vzdálenost je setkání většinou 1. 
+- *Náhodná setkání:* Pokud hráči cestují delší dobu než 5 dní, PJ hodí 1k4 na určení počtu setkání. Na kratší vzdálenost je setkání většinou 1. 
 - *Rozdělení poškození:* Na konci cesty si hráči mohou rozdělit nashromážděné souhrnné poškození v libovolném poměru mezi sebou. Pokud životy některého z nich klesne na 0, tak byl dotyčný po cestě zabit. Alternativně může hráč, za každé poškození co by ho posunulo na 0 životů, přijmout bod únavy.
 
 ## Průzkum kobek
@@ -256,21 +256,21 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 | *4. Akce:* Každá strana, která není překvapená se rozhodne jak bude na setkání reagovat a setkání se odehraje |
 | *5. Závěr:* Uběhne 1 kolo                                    |
 
-**Hod na překvapení:** Pokud to není jasné ze vzniklé situace PJ si může vyžádat hod na překvapení. Ten probíhá tak, že obě strany hodí *1d6*. Výsledek *1* nebo *2* znamená, že daná strana je překvapená. (Výsledky mohou být také ovlivněny schopnostmi postav či monster nebo situačními modifikátory.) 
+**Hod na překvapení:** Pokud to není jasné ze vzniklé situace PJ si může vyžádat hod na překvapení. Ten probíhá tak, že obě strany hodí *1k6*. Výsledek *1* nebo *2* znamená, že daná strana je překvapená. (Výsledky mohou být také ovlivněny schopnostmi postav či monster nebo situačními modifikátory.) 
 
 - *Jen jedna ze stran je překvapená* - Pokud je jen některá ze stran překvapená tak překvapená strana 1 kolo vynechá.
 - *Obě strany jsou překvapené* - Pokud jsou obě strany překvapené dojde jen k chvilkovému zaváhání na obou stranách a žádná strana nemá výhodu. 
 
 **Vzdálenost setkání:** Situace při které k setkání dojde většinou určuje vzdálenost mezi účastníky. Pokud však není na první pohled jasné jak jsou účastníci daleko od sebe, je možné určit vzdálenost náhodným hodem dle místa setkání:
 
-- *Vnitřní prostory:* *4d6* metrů (Polovina při překvapení)
-- *Divočina, moře nebo vzduch:* *4d6 x 10* metrů (nebo *1d4 x 10* metrů pokud je některá ze stran překvapená)
+- *Vnitřní prostory:* *4k6* metrů (Polovina při překvapení)
+- *Divočina, moře nebo vzduch:* *4k6 x 10* metrů (nebo *1k4 x 10* metrů pokud je některá ze stran překvapená)
 
 **Akce** **Hráčů:** Hráči si rozhodnou co chtějí dělat 
 
 **Akce monster:** Pokud ze situace není jasné jak by monstrum reagovalo. Lze to rozhodnout pomocí hodu na reakci dle tabulky níže.
 
-| 2D6         | VÝSLEDEK                   |  REAKCE NA JINÉ NPC INTERAKCE  |
+| 2k6         | VÝSLEDEK                   |  REAKCE NA JINÉ NPC INTERAKCE  |
 | :---------- | :------------------------- | :----------------------------: |
 | 2 nebo méně | Nepřátelský, zaútočí       |           Negativní            |
 | 3 - 5       | Nepřátelský, může zaútočit | Neutrální, příklon k negativní |

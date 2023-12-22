@@ -4,17 +4,17 @@
 
 | BOJOVÁ SEKVENCE KAŽDÉ KOLO                                   |
 | :----------------------------------------------------------- |
-| *0. Iniciativa:* Každá strana hodí *1d10*. (remíza jde ve prospěch hráčů) |
+| *0. Iniciativa:* Každá strana hodí *1k10*. (remíza jde ve prospěch hráčů) |
 | *1. Vítězná strana je na řadě:*<br /> a. Kontrola morálky monster (je-li třeba)<br /> b. Odehrání tahu |
 | *2. Ostatní strany jsou na řadě:* V pořadí iniciativy        |
 | *3. Zpět na krok 1 dokud není souboj ukončen.*               |
 
-**Iniciativa:** Hoď *1d10* Za každou účastnící se stranu. 
+**Iniciativa:** Hoď *1k10* Za každou účastnící se stranu. 
 
 - *Vítěz:* Strana s nejvyšším hodem táhne první, ostatní táhnou v pořadí od nejvyššího hodu po nejnižší.  
 - *Remíza:* Remíza jde ve prospěch hráčů. 
 
-**Morálka:** Monstra mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se dát na ústup nebo se vzdát. Ověření morálky probíhá hodem *2d6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. V případě neúspěchu stvoření většinou uteče nebo se vzdá. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti. 
+**Morálka:** Monstra mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se dát na ústup nebo se vzdát. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. V případě neúspěchu stvoření většinou uteče nebo se vzdá. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti. 
 
 !!! note "Příklad: Zvraty v boji"
     Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
@@ -31,9 +31,9 @@
 
 **Vzájemné ohrožení:** Stvoření, které provedlo nebo na které byla provedena útočná akce na blízku. Je ve s daným stvořením ve vzájemném ohrožení. Pro všechna stvoření ve vzájemném ohrožení platí následující omezení:
 
-- *Útoky na dálku* - Mají *3 z 6-ti* šanci na selhání (Automaticky mine)
-- *Používání nebo manipulace s předměty* - Mají *3 z 6-ti* šanci že předmět se nepoužije a upadne na zem (některé předměty se mohou rozbít)
-- *Čarování kouzel* - Má *3 z 6-ti* šanci, že kouzlo bude ztraceno 
+- *Útoky na dálku* - Vyžadují hod s *HU 4* jinak selžou (Automaticky mine)
+- *Používání nebo manipulace s předměty* - Vyžadují hod s *HU 4* jinak se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
+- *Čarování kouzel* - Vyžaduje hod s *HU 4*, aby se kouzlo povedlo seslat.
 - *Strategický pohyb* - Stvoření se může pohnout pouze po obvodu svých soupeřů. Nesmí se však od žádného z nich vzdálit.
 - *Útěk* - Stvoření se může vyvázat z boje na blízku tím, že obětuje v daném kole svou akci. Může se pak pohybovat svou plnou rychlostí mimo dosah nepřítele.
 
@@ -63,7 +63,7 @@
 
 | HODY NA ÚTOK                                                 |
 | :----------------------------------------------------------- |
-| *1. Hoď 1d20*                                                |
+| *1. Hoď 1k20*                                                |
 | *2. Připočti modifikátory:* Bonus z povolání. Modifikátor síly při boji zblízka a zručnosti při boji na dálku. Nezapomeň také na krytí. Monstra mají modifikátory útoku ve svém stat-bloku. |
 | *3. Stanov OČ:* Postavy i monstra mají OČ napsané ve svém stat-bloku. |
 | *4. Výsledek:* Pokud je výsledek útoku stejný nebo vyšší než OČ cíle útok byl úspěšný, můžeš házet na poškození. |
@@ -81,7 +81,7 @@
 **Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny.
 
 !!! note "Příklad: Hořící nestvůra"
-    Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1d8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
+    Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
 
 ## Ostatní bojové situace
 
@@ -89,14 +89,7 @@
 
 **Hození zbraně:** Postava může zaútočit hozením zbraně (u které to dává smysl), do efektivní vzdálenosti danou její hodnotou síly (Poblíž). K poškození se navíc pak připočítává její modifikátor síly.
 
-**Neozbrojený boj:** Neozbrojený útok má vždy poškození 1+modifikátor síly. Navíc ozbrojené útoky na blízko proti neozbrojenému cíli jsou vždy s výhodou.
-
-**Improvizované zbraně:** Při útoku improvizovanou zbraní se poškození hází s nevýhodou.
-
-!!! note "Improvizované použití zbraně"
-    Stejná pravidla platí i pro improvizovaná použití zbraní. Jako například bodnutí šípem čí útok rukojetí meče.
-
-**Netrénované zbraně:** Jsou považovány za improvizované.
+**Improvizované zbraně:** Použití improvizované zbraně působí stejné poškození jako neozbrojený útok (1k2). Avšak neuděluje postih za boj beze zbraně.
 
 **Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus +1 do zásahu, poškození a OČ. 
 
@@ -132,7 +125,7 @@
 **Nestabilní povrchy:** Pokud postavy bojují na nestabilním povrchu, jako jsou lodě na rozbouřeném moři nebo třeba když letí na hřbetu jiného stvoření. Tak jsou ovlivněni následujícími omezeními:
 
 - *Útoky na dálku:* Probíhají s nevýhodou.
-- *Kouzla*: Mají 3 z 6-ti šanci na selhání.
+- *Kouzla*: Vyžadují hod s *HU 4*, aby se kouzlo povedlo seslat.
 - *Magické předměty*: Mohou být používány normálně.
 
 !!! note "Magické létání"

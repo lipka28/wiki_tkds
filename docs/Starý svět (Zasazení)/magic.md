@@ -4,9 +4,9 @@
 
 Základní pravidla a definice platící pro všechny kouzla ve hře.
 
-- _Sesílání_ - Sesílání kouzla zabírá mezi 1 kolem až několika směnami a vyžaduje hlasité zaříkávání, excentrické pohyby rukou a případně i další komponenty. Během sesílání se nelze volně pohybovat. Je li kouzelník zasažen během sesílání kouzla, existuje 50% šance, že kouzlo bude ztraceno.
+- _Sesílání_ - Sesílání kouzla zabírá mezi 1 kolem až několika směnami a vyžaduje hlasité zaříkávání, excentrické pohyby rukou a případně i další komponenty. Během sesílání se nelze volně pohybovat. Je li kouzelník zasažen během sesílání kouzla, existuje *50%* šance (hod s HU 4), že kouzlo bude ztraceno.
 - _Odvolání_ - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal. (pokud nebylo odraženo)
-- *Koncentrace* - Některá kouzla mohou být udržována za pomocí koncentrace. Koncentrace nijak neomezuje fungování čaroděje. Avšak pokud je čaroděj zasažen útokem, neuspěje v záchranném hodu proti kouzlu existuje 3 z 6-ti šance, že koncentraci ztratí a tím kouzlo ukončí. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí. V jednu chvíli může být aktivní jen jedno kouzlo vyžadující koncentraci.
+- *Koncentrace* - Některá kouzla mohou být udržována za pomocí koncentrace. Koncentrace nijak neomezuje fungování čaroděje. Avšak pokud je čaroděj zasažen útokem, neuspěje v záchranném hodu proti kouzlu, existuje *50%* šance (hod s HU 4), že koncentraci ztratí a tím kouzlo ukončí. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí. V jednu chvíli může být aktivní jen jedno kouzlo vyžadující koncentraci.
 - _Záchranný hod_ - Cíl většiny kouzel může podstoupit záchranný hod a tím se vyvarovat jeho efektu. U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Tohle platí i pokud je cílem kouzla předmět, který je součástí výbavy cíle.
 - _Kombinace efektů_ - Více souběžných kouzel, nemůže být použito k navýšení té samé dovednosti (Síla, Zručnost, OČ, Životy a podobně...).
 - *Formulace kouzla* - Je přesný název kouzla (například: *"Ohnivá koule"*) Od kterého se odvozí možný efekt a cena kouzla. 
@@ -19,7 +19,7 @@ Výchozí parametry všech kouzel (před zvýšením za pomocí handlování s P
 - *Dosah* - 5 metrů (Blízko)
 - *Rozsah* - 1 stvoření
 - *Trvání* - 1 kolo / směna nebo okamžité (v závislosti na ráznosti efektu)
-- *Poškození* - 1d6 nebo *léčení* 1 HP
+- *Poškození* - 1k6 nebo *léčení* 1 HP
 - *Záchranný hod* - Při úspěchu poloviční poškození či negace jiného efektu.
 
 ## Druhy magie
@@ -39,10 +39,10 @@ Sesílání takových kouzel funguje na principu handlování mezi hráčem ses�
 | Cena v HP | Rozsah                                                     | Příklady efektů                                              |
 | :-------: | :--------------------------------------------------------- | ------------------------------------------------------------ |
 |     0     | Nepodstatný nebo výrazně zlevněný efekt                    | Závan větru, Světélkující oči, Ohřání čaje                   |
-|     1     | Lze dosáhnout bez magie                                    | Malé poškození (1d6), slabé léčení, zapálení pochodně, odemknutí zámku |
+|     1     | Lze dosáhnout bez magie                                    | Malé poškození (1k6), slabé léčení, zapálení pochodně, odemknutí zámku |
 |     2     | Těsně za hranicí možného (možné s moderními technologiemi) | Dýchání pod vodou, slabá telekineze, kamufláž, energetický štít |
-|    1d6    | Zásadní porušení přírodních zákonů                         | Teleportace, Rozpohybování kostlivce, lokalizace předmětů či osobo, odstranění kouzla, zahojení vážného zranění |
-|    2d6    | Masivní manipulace energií na úrovni bohů                  | Oživení mrtvého, zastavení času, klonování, Trvalé negativní efekty (př.: zkamenění), Změna počasí |
+|    1k6    | Zásadní porušení přírodních zákonů                         | Teleportace, Rozpohybování kostlivce, lokalizace předmětů či osobo, odstranění kouzla, zahojení vážného zranění |
+|    2k6    | Masivní manipulace energií na úrovni bohů                  | Oživení mrtvého, zastavení času, klonování, Trvalé negativní efekty (př.: zkamenění), Změna počasí |
 
 **Navýšení ceny (většinou +1):**
 
@@ -90,7 +90,7 @@ Sesílání kouzel za životy většinou nezpůsobuje skutečná zranění na t�
 > *PJ:* Vzplanutí rubínu vydalo jasné světlo, které odhalilo....
 
 !!! note "Co když si nepamatuji kolik kouzlo stálo posledně?"
-    To ničemu nevadí. Kouzlo může jedno ustát 2 životy jindy 1d6. Přijde vám, že hráči určitého kouzla zneužívají? Je čas jej zdražit. Hráči se vyhýbají sesílání kouzel jak čert kříži? Možná by jste měli polevit na svých cenách.  Záleží jen na to co vám a vašim hráčům přijde správné. Je lepší začít nízko a pokud vám přijde, že se hráči spoléhají na magii příliš, tak zdražit.
+    To ničemu nevadí. Kouzlo může jedno ustát 2 životy jindy 1k6. Přijde vám, že hráči určitého kouzla zneužívají? Je čas jej zdražit. Hráči se vyhýbají sesílání kouzel jak čert kříži? Možná by jste měli polevit na svých cenách.  Záleží jen na to co vám a vašim hráčům přijde správné. Je lepší začít nízko a pokud vám přijde, že se hráči spoléhají na magii příliš, tak zdražit.
 
 #### Běžné specializace
 

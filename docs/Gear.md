@@ -65,22 +65,26 @@ Pokud stvoření používající magii má na sobě kovovou zbroj (většinou st
 
 Zbraně se dělí do 3 základních kategorií. Kategorie jsou přibližně rozděleny podle velikosti zbraně a efektivního dosahu. Kategorie jsou následující:
 
+- **Neozbrojený ** Ozbrojené útoky na blízko proti neozbrojenému cíli jsou vždy s výhodou. Neplatí pro postavy, které jsou výslovně trénované v neozbrojeném boji.
 - **Malá** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Obecně je tento typ zbraní velmi nenápadný.
-- **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Některé lze také použít i jako obouruční s vyšší kostkou poškození (1d6 -> 1d8). V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
-- **Velká** - Tyto zbraně jsou buď dlouhé a mají tedy vyšší dosah ale nižší kostku poškození (1d10) nebo jsou ohromně silné s normálním dosahem (1d12). Tyto zbraně jsou vždy obouruční.
+- **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Některé lze také použít i jako obouruční s vyšší kostkou poškození (1k6 -> 1k8). V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
+- **Velká dlouhá** - Tyto zbraně jsou dlouhé a mají tedy vyšší dosah ale nižší kostku poškození než jiné velké zbraně. Dosah je o 1 metr větší než u normálních zbraní. Tyto zbraně jsou vždy obouruční.
+- **Velká** -  Nejničivější typ zbraní. Tyto zbraně jsou vždy obouruční.
 
-Tato kategorizace je také důležitá v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: **malá** < **střední** < **velká** < **velká dlouhá** < **hozená** < **střelná** (u střelných zbraní pak mají přednost zbraně využívající střelný prach)
+Tato kategorizace je také důležitá v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: **neozbrojený** <**malá** < **střední** < **velká** < **velká dlouhá** < **hozená** < **střelná** (u střelných zbraní pak mají přednost zbraně využívající střelný prach)
 
 !!! note "Nezáleží jakou zbraň máš ale jak ji využiješ"
 	Za kreativní popisy využití svých zbraní, může PJ poskytnout různé bonusy a výhody nebo dokonce umožnit speciální akci s danou zbraní. Záleží jen na hráčově kreativitě.
 
 ### Zbraně na blízku
 
-| ZBRAŇ   | CENA  | VÁHA |  POŠKOZENÍ  | PŘÍKLADY ZBRANÍ                                              |
-| :------ | :---: | :--: | :---------: | :----------------------------------------------------------- |
-| Malá    | 5 st  |  1   |     1d4     | bajonety, boxery, nože...                                    |
-| Střední | 15 st |  2   | 1d6 - (1d8) | bojové hole, meče, oštěpy, palice, palcáty, sekery...        |
-| Velká   | 30 st |  3   | 1d10 - 1d12 | halapartny, kopí, obouruční meče a sekery, válečná kladiva... |
+| ZBRAŇ        | CENA  | VÁHA |  POŠKOZENÍ  | PŘÍKLADY ZBRANÍ                                       |
+| :----------- | :---: | :--: | :---------: | :---------------------------------------------------- |
+| Neozbrojený  |   -   |  -   |     1k2     | Údery pěstí, kopance a jiné                           |
+| Malá         | 5 st  |  1   |     1k4     | bajonety, boxery, nože...                             |
+| Střední      | 15 st |  2   | 1k6 - (1k8) | bojové hole, meče, oštěpy, palice, palcáty, sekery... |
+| Velká dlouhá | 25 st |  4   |    1k10     | halapartny, kopí, trojzubce...                        |
+| Velká        | 35 st |  3   |    1k12     | obouruční meče a sekery, válečná kladiva...           |
 
 ### Střelné zbraně
 
@@ -106,12 +110,12 @@ I střelné zbraně jsou řazeny do stejných kategorií jako zbraně na blízku
 
 | ZBRAŇ                            |  CENA  | VÁHA | POŠKOZENÍ  | PŘÍKLADY ZBRANÍ                 |
 | :------------------------------- | :----: | :--: | :--------: | :------------------------------ |
-| Malá střelná                     | 20 st  |  1   | 1d4 - 1d6  | praky, příruční kuše...         |
-| Malá střelná na střelný prach    | 80 st  |  1   |    1d8     | bambitky...                     |
-| Střední střelná                  | 40 st  |  2   | 1d6 - 1d8  | kuše, luky...                   |
-| Střední střelná na střelný prach | 120 st |  2   |    1d10    | houfnice, muškety...            |
-| Velká střelná                    | 80 st  |  3   | 1d8 - 1d10 | dalekonosné luky, těžké kuše... |
-| Velká střelná na střelný prach   | 160 st |  3   |    1d12    | těžké muškety...                |
+| Malá střelná                     | 20 st  |  1   | 1k4 - 1k6  | praky, příruční kuše...         |
+| Malá střelná na střelný prach    | 80 st  |  1   |    1k8     | bambitky...                     |
+| Střední střelná                  | 40 st  |  2   | 1k6 - 1k8  | kuše, luky...                   |
+| Střední střelná na střelný prach | 120 st |  2   |    1k10    | houfnice, muškety...            |
+| Velká střelná                    | 80 st  |  3   | 1k8 - 1k10 | dalekonosné luky, těžké kuše... |
+| Velká střelná na střelný prach   | 160 st |  3   |    1k12    | těžké muškety...                |
 
 ### Munice
 
@@ -177,7 +181,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Dalekohled:** Umožňuje vidět věci v dálce jako by byly blíž.
 
-**Dřevěná hůl:** Dřevěná přibližně 1,5 metru dlouhá hůl. Všestranného využití. Lze použít jako střední zbraň avšak s *1d4* poškození. Nevyžaduje trénink.
+**Dřevěná hůl:** Dřevěná přibližně 1,5 metru dlouhá hůl. Všestranného využití. Lze použít jako střední zbraň avšak s *1k4* poškození. Nevyžaduje trénink.
 
 **Dřevěný kabinet na lektvary:** Malý dřevěný kabinet do kterého se dá efektivně uschovat 10 lahviček s libovolným obsahem. 
 
@@ -192,16 +196,16 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Kovový hřeb:** Kus kovu, který pokud zatlučen do libovolného mechanizmu, může značně narušit jeho fungování. Vhodné také k zasekávání dveří. Odborná instalace vyžaduje kladivo.
 
-**Křesadlo:** Užitečné k zapalování ohňů a pochodní. Použití křesadla při vypjatých situacích (například v boji) má šanci 1 z 6-ti k úspěšnému zapálení.
+**Křesadlo:** Užitečné k zapalování ohňů a pochodní. Použití křesadla při vypjatých situacích (například v boji) vyžaduje hod s *HU 6* k úspěšnému zapálení.
 
 **Lahvička kyseliny:** Lahvička plná žíravé substance. Vhodná pro boj, nebo na rozpouštění drobných předmětů.  
 
 - *Efekt:* Kyselina se prožere pěti centimetry organického materiálu nebo jedním centimetrem běžného kovu. 
-- *Bojové užití:* Cíl pokrytý žíravou látkou obdrží *1d6* poškození za kolo po dobu *2 kol*. 
+- *Bojové užití:* Cíl pokrytý žíravou látkou obdrží *1k6* poškození za kolo po dobu *2 kol*. 
 
 **Lahvička oleje:** Lahvička plná kluzké a hořlavé substance. Vhodná pro boj, nebo jako palivo do lucerny na 4 hodiny (24 směn) 
 
-- *Bojové užití:* Cíl pokrytý hořícím olejem obdrží *1d8* poškození za kolo po dobu *2 kol* nebo dokud není uhašen. 
+- *Bojové užití:* Cíl pokrytý hořícím olejem obdrží *1k8* poškození za kolo po dobu *2 kol* nebo dokud není uhašen. 
 
 **Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. 
 
@@ -211,7 +215,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Nástroj:** Věci jako lopaty, vidle, krumpáče a jim podobné.
 
-**Pochodeň:** Poskytuje světlo v okolí *8 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zaútočeno a nebo je pochodeň upuštěna na zem, existuje šance 3 z 6-ti že se zničí a zhasne. 
+**Pochodeň:** Poskytuje světlo v okolí *8 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zaútočeno a nebo je pochodeň upuštěna na zem, existuje existuje *50%* šance (hod s HU 4), že se zničí a zhasne. 
 
 **Protijed (slabý):**  Slabý protijed ihned vyléčí slabou otravu. 
 
@@ -221,7 +225,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Psací potřeby:** Sada psacích per, inkoustů, pečetního vosku a listů pergamenu pro běžné poznámky, nákresy či korespondenční účely. 
 
-**Pytel kovových ježků:** Malé kovové bodce, které mohou být rozhozeny po zemi (1 x 1 metr plocha). Stvoření pohybující se postiženou oblastí má *2 z 6-ti* šanci, že obdrží 1 poškození a jeho rychlost pohybu bude snížena na polovinu po dobu 24 hodin nebo dokud neobdrží magické léčení.
+**Pytel kovových ježků:** Malé kovové bodce, které mohou být rozhozeny po zemi (1 x 1 metr plocha). Stvoření pohybující se postiženou oblastí musí podstoupit hod s *HU 5*. Při neúspěchu obdrží 1 poškození a jeho rychlost pohybu bude snížena na polovinu po dobu 24 hodin nebo dokud neobdrží magické léčení.
 
 **Sedlová brašna / Pytel**: Vhodná pro uložení předmětu na koni či jiném stvoření. Kapacita 6 Slotů.
 
@@ -235,7 +239,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Stan:** Pro ty které již nebaví spát pod širákem nebo nechtějí zmoknout.
 
-**Zápalky:** Užitečné k zapalování ohňů a pochodní. Použití při vypjatých situacích (například v boji) má šanci *5 z 6-ti* k úspěšnému zapálení.
+**Zápalky:** Užitečné k zapalování ohňů a pochodní. Použití při vypjatých situacích (například v boji) vyžaduje hod s *HU 2* k úspěšnému zapálení.
 
 **Zásoby:** Zásoby reprezentují univerzální potřeby k přežití v divočině. 1 Kus zásob může představovat:  Příděl jídla pro 1 osobu na 1 den. Příděl vody pro 1 osobu na den. Příděl dřeva na oheň pro 1 osobu na den.
 
@@ -265,9 +269,9 @@ Aplikace na zbraň trvá 1 směnu. Jednou lahvičkou jedu lze pokrýt *jednu vel
 
 | TYP  |   CENA   | SAVE MOD. | ODHALENÍ*\** |   ONSET   |  EFEKT*\** (U)  |    EFEKT (N)    |
 | :--: | :------: | :-------: | :----------: | :-------: | :-------------: | :-------------: |
-|  I   |  10 st   |    +6     |     80%      |  2d4 kol  | 5 hp poškození  | 10 hp poškození |
-|  II  |  75 st   |    +5     |     65%      | 1d4+1 kol | 10 hp poškození | 20 hp poškození |
-| III  |  300 st  |    +4     |     40%      |  1d2 kol  | 15 hp poškození | 30 hp poškození |
+|  I   |  10 st   |    +6     |     80%      |  2k4 kol  | 5 hp poškození  | 10 hp poškození |
+|  II  |  75 st   |    +5     |     65%      | 1k4+1 kol | 10 hp poškození | 20 hp poškození |
+| III  |  300 st  |    +4     |     40%      |  1k2 kol  | 15 hp poškození | 30 hp poškození |
 |  IV  |  800 st  |    +3     |     15%      |   Ihned   | 20 hp poškození | 40 hp poškození |
 |  V   | 1 300 st |    +2     |      0%      |   Ihned   | 25 hp poškození | 50 hp poškození |
 
@@ -297,7 +301,7 @@ Domestikované plemeno vybírané především pro svou inteligenci a stopovací
 
 **Lvl:** 1, **HP:** 6, **OČ:** 12, **ToHIT:** +1,  **Hybnost:** 12, **Z.Hod:** 14, **Morálka:** 10
 
-**Útoky:** 1x Kousnutí *1d6*
+**Útoky:** 1x Kousnutí *1k6*
 
 **Speciální schopnosti:**
 
@@ -314,7 +318,7 @@ Velké domestikované plemeno. Vybrané především pro svou velikost a svou di
 
 **Lvl:** 2, **HP:** 11, **OČ:** 11, **ToHIT:** +2,  **Hybnost:** 8, **Z.Hod:** 14, **Morálka:** 11
 
-**Útoky:** 1x Kousnutí *2d4*
+**Útoky:** 1x Kousnutí *2k4*
 
 **Speciální schopnosti:**
 
@@ -331,7 +335,7 @@ Tvrdohlavý kříženec koně a osla.
 
 **Lvl:** 2, **HP:** 9, **OČ:** 12, **ToHIT:** +1,  **Hybnost:** 8, **Z.Hod:** 16, **Morálka:** 9
 
-**Útoky:** 1x Kopanec *1d4* nebo 1x Kousnutí *1d3*
+**Útoky:** 1x Kopanec *1k4* nebo 1x Kousnutí *1k3*
 
 **Speciální schopnosti:**
 
@@ -349,7 +353,7 @@ Lehce stavěný kůň určený pro rychlou jízdu.
 
 **Lvl:** 2, **HP:** 9, **OČ:** 12, **ToHIT:** +1,  **Hybnost:** 16, **Z.Hod:** 14, **Morálka:** 7
 
-**Útoky:** 2x Kopanec *1d4*
+**Útoky:** 2x Kopanec *1k4*
 
 **Speciální schopnosti:**
 
@@ -367,7 +371,7 @@ Vyšlechtěný kůň k tažení velké zátěže.
 
 **Lvl:** 3, **HP:** 13, **OČ:** 12, **ToHIT:** +2,  **Hybnost:** 6, **Z.Hod:** 14, **Morálka:** 6
 
-**Útoky:** 1x Kopanec *1d4* nebo 1x Kousnutí *1d3*
+**Útoky:** 1x Kopanec *1k4* nebo 1x Kousnutí *1k3*
 
 **Speciální schopnosti:**
 
@@ -384,7 +388,7 @@ Vyšlechtěný kůň k síle a odvaze v boji. Vhodný pro krátké rychlé náje
 
 **Lvl:** 3, **HP:** 13, **OČ:** 12, **ToHIT:** +2,  **Hybnost:** 8, **Z.Hod:** 14, **Morálka:** 9
 
-**Útoky:** 2x Kopanec *1d6*
+**Útoky:** 2x Kopanec *1k6*
 
 **Speciální schopnosti:**
 

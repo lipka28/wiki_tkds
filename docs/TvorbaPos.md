@@ -6,7 +6,7 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Naházej si dovednosti
 
-Jdi dovednost po dovednosti, v pořadí jakém si usmyslíš. Na každou dovednost si hoď *3d6* a výsledek si zaznač.
+Jdi dovednost po dovednosti, v pořadí jakém si usmyslíš. Na každou dovednost si hoď *3k6* a výsledek si zaznač.
 
 !!! Note "Doporučené pořadí házení dovedností"
     Síla, Zručnost, Výdrž, Rozum, Osobnost
@@ -18,9 +18,9 @@ Vyber si jednu z ras a jedno povolání dobrodruha a zaznač si jejich název do
 !!! note "Speciální rasy ve Starém světě"
     Speciální rasy Starého světa si mohou vybrat pouze hráči, kterým jejich první postava v aktuální kampani zemřela. Každá hráč dostane tuhle příležitost jen 1x za kampaň. Ve skupině nesmí být více členů ze stejnou speciální rasou.
 
-## 3. Uprav dovednostní body a zaznač si modifikátory dovedností a gramotnost.
+## 3. Zaznač si modifikátory dovedností a gramotnost.
 
-Pokud si přeješ, můžeš jedenkrát prohodit hodnoty 2 libovolných dovedností. Když jsou tvé dovednostní body pevně dané, zaznač si jejich modifikátory (více v kapitole [Dovednosti](Dovednosti.md)). Také si nezapomeň zapsat gramotnost danou tvým rozumem.
+Zaznač si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.md)). Také si nezapomeň zapsat gramotnost danou tvým rozumem.
 
 ## 4. Zaznač si útočné číslo, záchranný hod a nosnost
 
@@ -28,10 +28,10 @@ Zaznač si útočné číslo a záchranný hod dle svého povolání. Případn�
 
 ## 5. Naházej si životy
 
-Stanov životy tvé postavy hodem kostkou zdraví uvedenou v tabulce postupu tvého povolání a aplikuj modifikátor za výdrž. Každá postava začíná minimálně s 1 životem.
+Hoď *1k4+1k6* a aplikuj modifikátor za výdrž. To jsou tvé životy. Každá postava začíná minimálně s 1 životem.
 
-!!! example "Volitelné pravidlo: Přehození 1"
-	Pokud ti padne 1, může ti PJ dovolit házet znovu.
+!!! note "Proč 1k4+1k6?"
+    1k4 reprezentuje zdraví běžného humanoida a 1k6 představuje schopnost dobrodruha 1. úrovně přežít.
 
 ## 6. Zaznač si schopnosti tvého povolání a rasy
 
@@ -41,7 +41,7 @@ Zaznač si všechny zvláštní schopnosti, které tvá postava získala výběr
 
 ## 8. Nakup si výbavu
 
-Tvá postava (pokud nic nezdědila) začíná s bohatstvím ve výši *3d6 * 10 stříbrných*. Za které si může nakoupit libovolnou výbavu z tabulek v kapitole [Vybavení a nosnost](/Gear/#vybaveni-a-nosnost).
+Tvá postava (pokud nic nezdědila) začíná s bohatstvím ve výši *3k6 * 10 stříbrných*. Za které si může nakoupit libovolnou výbavu z tabulek v kapitole [Vybavení a nosnost](/Gear/#vybaveni-a-nosnost).
 
 !!! warning "Pozor: Omezení na výbavu"
 	Tvé povolání může mít omezení vztahující se k výbavě, kterou můžeš používat.
@@ -65,6 +65,8 @@ Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1*, *0 zkušeno
 A konečně, vyber jméno pro svou postavu. Hurá! Nyní si připraven/a na dobrodružství!
 
 ## 12. Vymysli si původ (Optional)
+
+==přepsat na bond systém podobný 5e==
 
 Někteří hráči mohou chtít o svých postavách vědět něco víc než jen jakou mají sílu a odolnost a zda se umí ohánět mečem nebo sekerou. Takoví hráči si mohou vytvořit krátký příběh o původu své postavy. Tento příběh by měl ale splňovat následující body.:
 
