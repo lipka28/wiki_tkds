@@ -37,21 +37,17 @@ Zabiják disponuje sadou výjimečných schopností do kterých se může specia
 - **Eskamotáž** - Zabiják se může pokusit ukrást malý předmět (max. velikost 1) ve výbavě cíle nebo se pokusit o jiný eskamotérský trik. Jako nechat zmizet předmět v ruce nebo nenápadně podsunout jed do pití.
     - **Modifikace obtížnosti:** Každé *2 úrovně* cíle (případně pozorovatele) udělují kumulativní postih *-1* k hodu na úspěch. Například cíl 6 úrovně se okrádá s postihem -3.
     - **Přirozená 1:** Zabiják neuspěje a musí uspět v záchranném hodu proti pastím (modifikován zručností) nebo být odhalen.
+
 - **Odezírání ze rtů** - Zabiják se může pokusit o odezírání ze rtů cíle, kterému dobře vidí na ústa (Většinou ne dál než 10 metrů).
     - **Úspěch:** Zabiják se přesně dozví o čem dotyčný mluvil.
-
     - **Neúspěch:** Zabiják se dozví jen přibližná témata o kterých se cíl bavil.
-
     - **Opakování hodu:** Hod je možné (a nutné) opakovat jen při výrazné změně situace. Například cíl si přesedne do jiné části lokálu.
 - **Plížení ve stínech** - Zabiják se může pokusit ukrýt v místech kde jediný úkryt je stín a také se může nenápadně pohybovat.
     - **Nenápadný pohyb:** Při neúspěšném hodu na překvapení (při plížení), se zabiják může pokusit o ověření této schopnosti aby zůstal skryt.
 - **Šaráda** - Zabiják se může pokusit napodobit libovolného představitele své rasy (i opačného pohlaví) a to včetně dokonalého napodobení hlasu a nuancí.
     - **Cíl napodobení:** Zabiják musí znát chování, vzhled a hlas cíle, za který se chce vydávat.  Případně jen jeden z těchto požadavků pokud stačí pro danou situaci (Například hlas přes zavřené dveře).
-
-    - **Převlek:** Připravení převleku trvá hodinu a vyžaduje *Sada převleků a líčení*
-
-    - **Neúspěch:** Pokud zabiják neuspěje, tak je někdy v průběhu své šarády odhalen. 
-
+    - **Převlek:** Připravení převleku trvá hodinu a vyžaduje *Sada převleků a líčení**
+    - ***Neúspěch:** Pokud zabiják neuspěje, tak je někdy v průběhu své šarády odhalen. 
     - **Opakování hodu:** V případě, že je zamaskovaný zabiják důkladně prověřen někým kdo cíl šarády zná. Musí zabiják opakovat hod na ověření úspěchu (Například muž políbí manželku, která je ve skutečnosti zabiják v přestrojení).
 - **Šplhání po stěnách** - Zabiják se může pokusit šplhat po stěnách bez očividných záchytů rychlostí *25 metrů za směnu*.
     - **Delší šplhání:** Ověřovací hod je potřeba za každých šplhaných 25 metrů.
@@ -61,6 +57,5 @@ Zabiják disponuje sadou výjimečných schopností do kterých se může specia
     - **Modifikace obtížnosti:** Každé *3 úrovně* cíle udělují kumulativní postih *-1* k hodu na úspěch. Například cíl 6 úrovně se vraždí s postihem -2.
     - **Cíl:** Cílem musí být člověku podobný humanoid a nesmí být nemrtvý nebo neživý. V opačném případě pokus automaticky selže.
     - **Neúspěch:** Při neúspěšném pokusu o zabití cíl obdrží dvojnásobek poškození použitou zbraní.
-
 
 **Vylepšení:** S každou další dosaženou úrovní získá zabiják *2 expertní body*. Na *10. úrovni* pak získá poslední *4 expertní body*.
