@@ -4,7 +4,7 @@
 
 **Požadavky:** -  
 
-**Vrozené jazyky:** Obecná řeč 
+**Vrozené jazyky:** Jazyk společenství
 
 **Hybnost:** 6 metrů 
 
@@ -14,7 +14,7 @@
 
 **Lidská jména:** Běžná jména, která znáš.
 
-**Dostupná povolání:** Akolyta, Alchymista, Lovec, Mág, Vrah, Válečník, Zloděj
+**Dostupná povolání:** Akolyta, Alchymista, Lovec, Mág, Válečník, Zabiják, Zloděj
 
 **Speciální vlastnosti:**
 

@@ -45,6 +45,8 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **X ze Y**: Je obrácenou variantou na *Hod s hranicí úspěchu X*. Často používaný v předepsaných dobrodružstvích Hráč musí hodit X nebo méně kostkou Y. Například *2 z 6-ti*.
 
+**Tajný hod**: Je druh hodu, který hází DM a hráč nevidí přímý výsledek hodu kostky. Tajný hod se používá například při prozkoumávání oblastí, kdy hráč neví jestli nic nenašel protože v dané oblasti nic není nebo proto, že výsledek ověřovacího hodu byl příliš nízký.
+
 ## Jednotky a peníze
 
 Vysvětlivky speciálních jednotek používaných při hře.

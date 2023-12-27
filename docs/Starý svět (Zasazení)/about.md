@@ -1,12 +1,14 @@
 # Starý svět a jeho jazyky
 
+<img src="/assets/ow.jpg" style="zoom:100%;" />
+
 ## Starý svět
 
 ==asd==
 
 ## Jazyk
 
-Všechny inteligentní rasy a stvoření Starého světa mluví nějakou formou vlastního jazyka. Včetně různých nářečí a nuancí existující v různých částech světa. Lesní elfové nemluví stejnou elfštinou jako vznešení elfové a lidé z Andi nemluví stejným jazykem jako lidé ze Severního Slavska. Většina však do jisté míry ovládá *Jazyk společenství*. Společný jazyk, který byl vytvořen za účelem komunikace všech lidí, elfů a trpaslíků.
+Všechny inteligentní rasy a stvoření Starého světa mluví nějakou formou vlastního jazyka. Včetně různých nářečí a nuancí existující v různých částech světa. Lesní elfové nemluví stejnou elfštinou jako vznešení elfové a lidé z Andi nemluví stejným jazykem jako lidé ze Severního Slavska. Spousta inteligentních stvoření však do jisté míry ovládá *Jazyk společenství*. Společný jazyk, vytvořen na základě lidské řeči, který byl vytvořen za účelem komunikace všech lidí, elfů a trpaslíků.
 
 ### Vrozené jazyky
 

@@ -4,7 +4,7 @@
 
 **Požadavky:** Tvá první postava v právě probíhající kampani zemřela.  
 
-**Vrozené jazyky:** Rozumí elfštině ale nemluví.
+**Vrozené jazyky:** Rozumí sylvani a jazyku společenství ale nemluví.
 
 **Hybnost:** 6 metrů 
 

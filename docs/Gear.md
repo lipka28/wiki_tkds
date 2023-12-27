@@ -1,6 +1,6 @@
 # Vybavení a nosnost
 
-<img src="/assets/armory.webp" style="zoom:100%;" />
+<img src="/assets/armory.jpg" style="zoom:100%;" />
 
 ## Nosnost
 
@@ -39,19 +39,21 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 - **Lehká** - Flexibilní, lze v ní spát a neomezuje v pohybu. 
 - **Střední** - Omezuje v pohybu, nedá se v ní spát. 
 - **Těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit a *snižuje hybnost o 1 metr*.
-- **Velmi těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit a *snižuje hybnost o 2 metry*. 
+- **Velmi těžká** - Omezuje v pohybu, nedá se v ní spát ani plížit a *snižuje hybnost o 2 metry*. Tento typ zbroje je také velmi často vyráběn na míru nositele. Jeho cena je tedy nesrovnatelně vyšší než u ostatních typů zbrojí.
 - **Štít** - Zvyšuje OČ nositele, většinou držen v jedné ruce.
 
-| ZBROJE                     |     TYP     | VÁHA |  OČ  | POTŘEBNÁ SÍLA |   CENA   |
-| :------------------------- | :---------: | :--: | :--: | :-----------: | :------: |
-| Obyčejné oblečení          |  Oblečení   |  1   |  +0  |       -       | - (1 st) |
-| Noblesní oblečení          |  Oblečení   |  1   |  +0  |       -       |  100 st  |
-| Oblečení dobrodruha        |  Oblečení   |  1   |  +1  |       -       |  15 st   |
-| Vycpávaná / kožená zbroj   |    Lehká    |  1   |  +2  |       -       |  20 st   |
-| Šupinová / kroužková zbroj |   Střední   |  2   |  +4  |      10       |  40 st   |
-| Půl plát s kyrysem         |    Těžká    |  3   |  +6  |      12       |  160 st  |
-| Plná plátová zbroj         | Velmi těžká |  4   |  +8  |      14       |  320 st  |
-| Štít                       |    Štít     |  2   |  +2  |      10       |  15 st   |
+| ZBROJE                     |     TYP     | VÁHA  |  OČ  | POTŘEBNÁ SÍLA |   CENA   |
+| :------------------------- | :---------: | :---: | :--: | :-----------: | :------: |
+| Obyčejné oblečení          |  Oblečení   | 1 (2) |  +0  |       -       | - (1 st) |
+| Noblesní oblečení          |  Oblečení   | 1 (2) |  +0  |       -       |  100 st  |
+| Oblečení dobrodruha        |  Oblečení   | 1 (2) |  +1  |       -       |  15 st   |
+| Vycpávaná / kožená zbroj   |    Lehká    | 1 (2) |  +2  |       -       |  20 st   |
+| Šupinová / kroužková zbroj |   Střední   | 2 (4) |  +4  |      10       |  40 st   |
+| Půl plát s kyrysem         |    Těžká    | 3 (6) |  +6  |      12       |  160 st  |
+| Plná plátová zbroj         | Velmi těžká | 4 (8) |  +7  |      14       | 1000 st  |
+| Štít                       |    Štít     | 2 (2) |  +2  |      10       |  20 st   |
+
+**Váha:** Váha nošené zbroje (V závorce váha jako uschovaný předmět) .
 
 **OČ:** Bonus k obrannému číslu. 
 
@@ -84,7 +86,7 @@ Tato kategorizace je také důležitá v situacích kdy záleží na prioritě z
 | Malá         | 5 st  |  1   |     1k4     | bajonety, boxery, nože...                             |
 | Střední      | 15 st |  2   | 1k6 - (1k8) | bojové hole, meče, oštěpy, palice, palcáty, sekery... |
 | Velká dlouhá | 25 st |  4   |    1k10     | halapartny, kopí, trojzubce...                        |
-| Velká        | 35 st |  3   |    1k12     | obouruční meče a sekery, válečná kladiva...           |
+| Velká        | 40 st |  3   |    1k12     | obouruční meče a sekery, válečná kladiva...           |
 
 ### Střelné zbraně
 
@@ -98,15 +100,18 @@ I střelné zbraně jsou řazeny do stejných kategorií jako zbraně na blízku
 
 **Nabíjecí zbraně:** Některé zbraně, jako například kuše či muškety, mohou vyžadovat přebíjení. Přebíjení zabírá celé kolo a nelze se při něm hýbat či útočit. Nabíjecí zbraně mívají vyšší kostku poškození, než jejich stejně velký nenabíjecí ekvivalent.
 
-**Střelný prach**: Některé kampaně mohou předpokládat existenci křesadlových střelných zbraní. Pro ty platí následující pravidla:
+**Střelný prach**: Některé kampaně mohou předpokládat existenci křesadlových střelných zbraní. Ve starém světě jsou střelné zbraně dostupné pouze lidem a trpaslíkům. Pro střelné zbraně platí následující pravidla:
 
 - **Poškození:** Křesadlové zbraně jsou nejsilnější z nabíjecích zbraní.
 - **Náchylnost na vlhkost:** Jsou náchylné na vlhkost a nevhodné podmínky mohou zvýšit jejich šanci na selhání.
-- **Dostřel:** Křesadlové zbraně jsou velmi nepřesné na větší vzdálenosti. Nelze s nimi střílet na větší jak efektivní vzdálenost.
+- **Dostřel:** Křesadlové zbraně jsou velmi nepřesné na větší vzdálenosti. Nelze se s nimi trefit na větší jak efektivní vzdálenost.
 - **Selhání:** Při hodu *NAT 1 až 3* na zásah křesadlová zbraň selže. Takovou zbraň je třeba 1 směnu čistit čistící sadou, aby byla znovu použitelná. 
 
 !!! Warning "Selhání s výhodou a nevýhodou"
     Výhoda a nevýhoda má nežádoucí vliv na pravděpodobnost selhání křesadlové zbraně. V případě, že je tedy křesadlová zbraň použita s výhodou nebo nevýhodou, je třeba na selhání brát v potaz jen první hozenou kostku.
+
+!!! warning "Pozor: Omezení na střelný prach"
+	Ve starém světě mají ke střelným zbraním na střelný prach přístup pouze lidé a trpaslíci.
 
 | ZBRAŇ                            |  CENA  | VÁHA | POŠKOZENÍ  | PŘÍKLADY ZBRANÍ                 |
 | :------------------------------- | :----: | :--: | :--------: | :------------------------------ |

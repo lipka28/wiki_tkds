@@ -95,11 +95,7 @@
 
 **Bojové manévry:** Stvoření si může na místo poškození svou zbraní vybrat, že provede bojový manévry. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci. Hráč musí deklarovat použití manévru na místo útoku předem. *Útočník i obránce* provedou *hod na zásah* včetně aplikovatelných modifikátorů. Ten kdo *přehodí výsledek soupeře aspoň o 5*, obdrží výsledný efekt manévru.
 
-**Netrénovaná brnění:** Netrénovaná brnění poskytují jen poloviční bonus k OČ a mohou mít další postihy u některých povolání.
-
-**Netrénované štíty:** Postavy netrénované se štítem. Nezískávají jen poloviční bonus do OČ ze štítu a také ním nemohou reflexivně blokovat. 
-
-**Reflexivní blokování štítem:** Postavy trénované se štítem, mohou při obdržení poškození zničit svůj štít a tím zredukovat dané poškození o *OČ štítu\*6*.
+**Reflexivní blokování štítem: ==Move to fighter exclusive==** asd
 
 **Obklíčení:** Pokud je jedinec v boji na blízko aspoň se 3-mi nepřáteli. Všichni tito nepřátelé mají bonus +1 na zásah.
 

@@ -1,4 +1,4 @@
-# Hraničář
+# Lovec
 
 ![Image title](/assets/classes/ranger.webp)
 

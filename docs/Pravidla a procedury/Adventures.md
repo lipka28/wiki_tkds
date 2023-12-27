@@ -33,7 +33,7 @@ Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tí
 
 ### Základní schopnosti
 
-Všichni dobrodruzi disponují 4-mi základními schopnostmi. Výchozí hranice úspěchu pro tyto schopnosti je *6*. Tyto schopnosti jsou:
+Všichni dobrodruzi disponují 4-mi základními schopnostmi. Výchozí HU pro tyto schopnosti je *6*. Tyto schopnosti jsou:
 
 - *Lov* - Lov umožňuje získat větší množství čerstvých zásob (speciální typ zásob, který se za 3 dny zkazí). Avšak tahle aktivita zabere postavám celý den. Takže den kdy se rozhodnou lovit nemohou cestovat. Do lovu se počítají i aktivity jako jsou rybaření.
     - **Efekt úspěchu:** Postavy naleznou lovnou zvěř, která je vhodná k jídlu. Ještě ji však musí ulovit. 
@@ -42,6 +42,7 @@ Všichni dobrodruzi disponují 4-mi základními schopnostmi. Výchozí hranice 
     - **Efekt úspěchu:** Pokud jsou nepřátelé překvapeni. Znamená to, že se postavy mohou bez problému proplížit okolo. (Pokud to rozložení terénu umožňuje) Tento hod je třeba opakovat každé kolo co se postavy plíží.
 - *Průzkum* -  Během průzkumu postavy prohledají specifickou oblast.
     - **Vnitřní průzkum:** Postava prozkoumá 2 metry čtverečné prostoru, během 1 směny.
+        - *Průzkum popisem:* Odhalil by hráčův popis metody průzkumu skrytý subjekt v dané oblasti. Průzkum je automaticky úspěšný i bez hodu na ověření.
     - **Venkovní průzkum:** Postavy prozkoumají oblast v okruhu 5 kilometrů v rámci 1 dne.
     - **Tajný hod:** Na tuhle schopnost háže PJ potají, aby hráč neviděl výsledek hodu.
     - **Efekt úspěchu:** Hráči objeví jeden z ukrytých prvků v dané oblasti.

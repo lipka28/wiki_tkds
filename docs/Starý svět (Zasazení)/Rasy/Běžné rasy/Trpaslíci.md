@@ -6,7 +6,7 @@
 
 **Modifikace dovedností:** Výdrž +2; Osobnost -1; Rozum -1;
 
-**Vrozené jazyky:** Trpasličtina + Obecná řeč 
+**Vrozené jazyky:** Trpasličtina + Jazyk společenství
 
 **Hybnost:** 5 metrů 
 
@@ -16,7 +16,7 @@
 
 **Trpasličí jména:** Barab Bouřlivák, Aradun Bronzovous, Thorin Kladivoun, Helge Kovostřep, Ferya Tlustá, Furga Kovoštěp
 
-**Dostupná povolání:** Akolyta (Durnaka), Alchymista, Lovec, Válečník, Zuřivec
+**Dostupná povolání:** Akolyta (Durnaka), Alchymista, Bíjec, Lovec, Válečník
 
 **Speciální vlastnosti:**
 

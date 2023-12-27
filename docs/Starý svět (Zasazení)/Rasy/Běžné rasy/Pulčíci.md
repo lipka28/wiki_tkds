@@ -6,7 +6,7 @@
 
 **Modifikace dovedností:** Zručnost +1; Síla -1
 
-**Vrozené jazyky:** Pulčický hantec + Obecná řeč
+**Vrozené jazyky:** Pulčický hantec + Jazyk společenství
 
 **Hybnost:** 5 metrů 
 
@@ -16,7 +16,7 @@
 
 **Jména pulčíků:** ==Dodělat jména nebo jejich stavbu==
 
-**Dostupná povolání:** Akolyta (Kuse), Lovec, Válečník, Vrah, Zloděj
+**Dostupná povolání:** Akolyta (Kuse), Lovec, Válečník, Zabiják, Zloděj
 
 **Speciální vlastnosti:**
 

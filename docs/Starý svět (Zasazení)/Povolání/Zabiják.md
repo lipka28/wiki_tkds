@@ -1,4 +1,4 @@
-# Tulák
+# Zabiják
 
 ![Image title](/assets/classes/rogue.webp)
 

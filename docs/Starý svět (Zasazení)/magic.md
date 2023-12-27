@@ -24,7 +24,7 @@ Výchozí parametry všech kouzel (před zvýšením za pomocí handlování s P
 
 ## Druhy magie
 
-Ve starém světě existují dva hlavní druhy magie. Magie chaosu, kterou se pomalu učí zacházet smrtelníci a Pravá magie, kterou ovládají magické bytosti.
+Ve starém světě existují dva hlavní druhy magie. Magie chaosu, kterou se pomalu učí zacházet smrtelníci a Magie Nesmrtelných, kterou ovládají povznesené bytosti. Ještě existuje pravá magie, kterou však ovládají jen přirozeně magická stvoření.
 
 ### Magie chaosu
 
@@ -120,6 +120,10 @@ Pokud si hráč neví rady s formulací vlastních kouzel může se inspirovat v
 
 !!! warning "Pozor: Jednoslovná kouzla"
     Při výběru a formulace kouzla myslete na to, že jednoslovná kouzla nikdy nedosáhnou na snížení ceny za přesné znění kouzla ale umožňují daleko větší rozsah efektů.
+
+### Magie Nesmrtelných
+
+Magie Nesmrtelných se svým fungováním nijak výrazně neliší od magie chaosu. S tím rozdílem že svěřencům poskytována s přímým zásahem povznesených bytostí z vyšších sfér. 
 
 ### Pravá magie
 

@@ -6,7 +6,7 @@
 
 **Modifikace dovedností:** Zručnost +1; Osobnost -1
 
-**Vrozené jazyky:** Elfština
+**Vrozené jazyky:** Sylvani
 
 **Hybnost:** 7 metrů 
 
@@ -18,7 +18,7 @@
 
 *==Možná dát systém stavění jmen na místo seznamu.==*
 
-**Dostupná povolání:** Akolyta (Všematky), Krvavá druidka, Lovec, Válečník, Vrah
+**Dostupná povolání:** Akolyta (Všematky), Krvavá druidka, Lovec, Válečník, Zabiják
 
 **Speciální vlastnosti:**
 

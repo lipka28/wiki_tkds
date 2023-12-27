@@ -4,7 +4,7 @@
 
 **Požadavky:** Tvá první postava v právě probíhající kampani zemřela.  
 
-**Vrozené jazyky:** Jazyk vzdálené a zapomenuté civilizace + Archaická verze obecné řeči 
+**Vrozené jazyky:** Jazyk vzdálené a zapomenuté civilizace + Archaická verze jazyka společenství
 
 **Hybnost:** 6 metrů 
 
