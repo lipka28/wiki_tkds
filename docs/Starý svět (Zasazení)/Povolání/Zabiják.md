@@ -1,61 +1,66 @@
 # Zabiják
 
-![Image title](/assets/classes/rogue.webp)
+![Image title](/assets/classes/Assassin.jpeg)
 
-*Tuláci jsou nepředvídatelní oportunisti žijící na okraji společnosti. Za pomocí svých šikovných rukou a hbitých reflexů, dosáhnou všeho čeho si zamanou. Žádná špinavá práce jim není cizí. Potřebujete někoho odpravit? Něco ukrást? Není problém! Tuláci zvládnou vše a bez zanechání stop. A co zákony? Pro tuláky jsou to spíš taková neohrabaná doporučení. Povolání tuláka je vhodné pro každého kdo má rád všechny své akce důkladně promyšlené a nechce se zbytečně omezovat pravidly.*
+*Tuláci jsou nepředvídatelní oportunisti žijící na okraji společnosti. Za pomocí svých šikovných rukou a hbitých reflexů, dosáhnou všeho čeho si zamanou. Žádná špinavá práce jim není cizí. Potřebujete někoho odpravit? Něco ukrást? Není problém! Tuláci zvládnou vše a bez zanechání stop. A co zákony? Pro tuláky jsou to spíš taková neohrabaná doporučení. Povolání tuláka je vhodné pro každého kdo má rád všechny své akce důkladně promyšlené a nechce se zbytečně omezovat pravidly.* ==upravit==
 
-## Tabulka postupu
+## Základní informace
 
-| ÚROVEŇ |       HP       | ODEMYKÁ                                                     |
-| :----: | :------------: | :---------------------------------------------------------- |
-|   1    | +1d6+MOD Výdrž | Přepadení; Tulácký um; Bonus k zásahu +0; Záchranný hod: 16 |
-|   2    | +1d6+MOD Výdrž | Špinavý trik                                                |
-|   3    | +1d6+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                       |
-|   4    | +1d6+MOD Výdrž | Perk                                                        |
-|   5    | +1d6+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 12                       |
-|   6    | +1d6+MOD Výdrž | Expertíza                                                   |
-|   7    | +1d6+MOD Výdrž | Bonus k zásahu: +5; Záchranný hod: 10                       |
-|   8    | +1d6+MOD Výdrž | Perk                                                        |
-|   9    | +1d6+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 8                        |
-|   10   | +1d6+MOD Výdrž | Úhyb                                                        |
-|  10+   |       +1       | ---                                                         |
+**Životy:** S dosažení každé nové úrovně se zabijákovo zdraví zvýší o *1k6*+Modifikátor výdrže.
+
+**Hod na zásah:** *+0* na 3. a 7. úrovni se zvedne o 2 a na 5. a 9. úrovni se zvedne o 1
+
+**Záchranný hod:** *16* na 3., 5., 7. a 9. úrovni se sníží o 2
+
+**Ovládané zbraně:** Malé, střední a velké střelné
+
+**Ovládaná brnění:** Lehké
+
+**Odolnosti:** Bonus *+2* ke všem záchranným hodům proti pastím. Případně bonus *+2* k OČ proti pastím, pokud past funguje na principu zásahu OČ.
+
+**Speciální výbava:** Sada převleků a líčení (Váha: 3, použití 3)
 
 ## Schopnosti povolání
 
-**Trénované zbraně:** Všechny jednoruční a střelné zbraně 
+### Tulácké značky
 
-**Trénovaná brnění:** Lehké zbroje. 
+Zabiják zná tulácké značky, které používají vrazi a zloději k předání informací o různých místech.
 
-**Extra jazyk:** Zlodějský hantec
+### Práce s jedy
 
-### Úroveň 1 - Přepadení
+Zabiják je velmi efektivní při práci s jedy. Jednu dávku jedu dokáže využít tak, jako by to byly dávky dvě.
 
-Pokud tulák útočí malou nebo střední zbraní na někoho zezadu, někoho kdo je překvapen nebo neví o tulákovi přítomnosti, útočí s výhodou.
+### Zabijákovi schopnosti
 
-- *Dobrá příležitost* - Pokud tulák útočí s výhodou tak udělí dvojnásobné poškození. Pokud je to navíc útok na blízko a malou zbraní, tak útok působí čtyřnásobné poškození. 
+Zabiják disponuje sadou výjimečných schopností do kterých se může specializovat. Všechny tyto schopnosti začínají s *HU 6* a postupně mohou být vylepšeny *expertními body*. Zabiják začíná hru s *4-mi expertními body*, které si může dle libosti rozdělit mezi své schopnosti. Žádná schopnost nemůže mít nižší hranici úspěchu než 2.
 
-### Úroveň 1 - Tulácký um
+- **Eskamotáž** - Zabiják se může pokusit ukrást malý předmět (max. velikost 1) ve výbavě cíle nebo se pokusit o jiný eskamotérský trik. Jako nechat zmizet předmět v ruce nebo nenápadně podsunout jed do pití.
+    - **Modifikace obtížnosti:** Každé *2 úrovně* cíle (případně pozorovatele) udělují kumulativní postih *-1* k hodu na úspěch. Například cíl 6 úrovně se okrádá s postihem -3.
+    - **Přirozená 1:** Zabiják neuspěje a musí uspět v záchranném hodu proti pastím (modifikován zručností) nebo být odhalen.
+- **Odezírání ze rtů** - Zabiják se může pokusit o odezírání ze rtů cíle, kterému dobře vidí na ústa (Většinou ne dál než 10 metrů).
+    - **Úspěch:** Zabiják se přesně dozví o čem dotyčný mluvil.
 
-Tulák má bonus ve výši své úrovně, ke všem ověření dovedností týkající se aktivit, ve kterých by měl logicky tulák vynikat.
+    - **Neúspěch:** Zabiják se dozví jen přibližná témata o kterých se cíl bavil.
 
-!!! Note "Příklady tuláckých aktivit"
-    Tulák by měl získat bonus minimálně v následujících aktivitách: Šplhání po rovných površích, Plížení se, Vybírání kapes, Odemykání zámků, Lhaní, Zachycení se při pádech z výšky, Manipulace s mechanickými zařízeními... Pj může povolit další využití.
+    - **Opakování hodu:** Hod je možné (a nutné) opakovat jen při výrazné změně situace. Například cíl si přesedne do jiné části lokálu.
+- **Plížení ve stínech** - Zabiják se může pokusit ukrýt v místech kde jediný úkryt je stín a také se může nenápadně pohybovat.
+    - **Nenápadný pohyb:** Při neúspěšném hodu na překvapení (při plížení), se zabiják může pokusit o ověření této schopnosti aby zůstal skryt.
+- **Šaráda** - Zabiják se může pokusit napodobit libovolného představitele své rasy (i opačného pohlaví) a to včetně dokonalého napodobení hlasu a nuancí.
+    - **Cíl napodobení:** Zabiják musí znát chování, vzhled a hlas cíle, za který se chce vydávat.  Případně jen jeden z těchto požadavků pokud stačí pro danou situaci (Například hlas přes zavřené dveře).
 
-### Úroveň 2 - Špinavý trik
+    - **Převlek:** Připravení převleku trvá hodinu a vyžaduje *Sada převleků a líčení*
 
-V boji se můžeš pokusit ukrást (vyžaduje volnou ruku) nebo umístit předmět na cíli v dosahu (platí bonusy z *"Tulácký um"*) jako instantní akci. Předmět pro ukradení / umístění nesmí zabírat víc jak 1 slot. Pokud chceš ukrást předmět co dotyčný cíl drží v ruce, házíš ověření dovednosti s nevýhodou.
+    - **Neúspěch:** Pokud zabiják neuspěje, tak je někdy v průběhu své šarády odhalen. 
 
-### Úroveň 4, 8, 12... - Perk
+    - **Opakování hodu:** V případě, že je zamaskovaný zabiják důkladně prověřen někým kdo cíl šarády zná. Musí zabiják opakovat hod na ověření úspěchu (Například muž políbí manželku, která je ve skutečnosti zabiják v přestrojení).
+- **Šplhání po stěnách** - Zabiják se může pokusit šplhat po stěnách bez očividných záchytů rychlostí *25 metrů za směnu*.
+    - **Delší šplhání:** Ověřovací hod je potřeba za každých šplhaných 25 metrů.
+    - **Neúspěch:** Neúspěch znamená, že tuhle směnu nenašel zabiják žádné vhodné úchyty a zůstal tedy na místě.
+    - **Přirozená 1:**  Zabiják musí uspět v záchranném hodu proti pastím (modifikován zručností) nebo spadnout.
+- **Zavraždit** - Zabiják útočící na cíl, který si není vědom jeho přítomnosti, útočí s *výhodou*. Při úspěšném zásahu podstoupí zabiják ověření dovednosti a pokud uspěje, cíl je okamžitě zabit.
+    - **Modifikace obtížnosti:** Každé *3 úrovně* cíle udělují kumulativní postih *-1* k hodu na úspěch. Například cíl 6 úrovně se vraždí s postihem -2.
+    - **Cíl:** Cílem musí být člověku podobný humanoid a nesmí být nemrtvý nebo neživý. V opačném případě pokus automaticky selže.
+    - **Neúspěch:** Při neúspěšném pokusu o zabití cíl obdrží dvojnásobek poškození použitou zbraní.
 
-Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
-- Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z [existujících perků](/Aldir%20%28Zasazení%29/perks/#perky), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
-
-### Úroveň 6 - Expertíza
-
-Vyber si 2 aktivity pokryté v [Tulácký um](/Aldir%20%28Zasazení%29/Povolání/Tulák/#uroven-1-tulacky-um). Při vykonávání těchto aktivit máš vždy výhodu.
-
-### Úroveň 10 - Úhyb
-
-Když obdržíš poškození, tak můžeš použít instantní akci aby si jej zredukoval na polovinu.
+**Vylepšení:** S každou další dosaženou úrovní získá zabiják *2 expertní body*. Na *10. úrovni* pak získá poslední *4 expertní body*.

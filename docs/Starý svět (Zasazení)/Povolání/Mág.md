@@ -30,9 +30,9 @@ Mágovo tělo je nasáto magií. To způsobuje, že mág má nadpřirozenou scho
 
 ### Vyciť magii
 
-Mág dotýkající se subjektu může podstoupit nerušený 10-ti minutový rituál (1 směna), který mu s *HU 6* prozradí. Zda je subjekt magický nebo očarovaný a jaká je nátura působící magie. Rituál lze neomezeně opakovat.
+Mág dotýkající se subjektu může podstoupit nerušený 10-ti minutový rituál (*1 směna*), který mu s *HU 6* prozradí. Zda je subjekt magický nebo očarovaný a jaká je nátura působící magie. Rituál lze neomezeně opakovat.
 
-**Hodinový rituál:** Mág může alternativně vykonat nerušený hodinový rituál (6 směn). Po dokončení automaticky uspěje ve vycítění magie.
+**Hodinový rituál:** Mág může alternativně vykonat nerušený hodinový rituál (*6 směn*). Po dokončení automaticky uspěje ve vycítění magie.
 
 **Vylepšení HU:** Na 3., 6. a 9. úrovni klesne požadovaná HU o *1*.
 

@@ -18,21 +18,27 @@
 
 **Odolnosti:** Bonus *+2* ke všem záchranným hodům proti pastím. Případně bonus *+2* k OČ proti pastím, pokud past funguje na principu zásahu OČ.
 
+**Speciální výbava:** Zlodějské náčiní (Váha: 1, 10 použití)
+
 ## Schopnosti povolání
+
+### Tulácké značky
+
+Zloděj zná tulácké značky, které používají vrazi a zloději k předání informací o různých místech.
 
 ### Přepadení
 
 Zloděj umí udělit extra poškození při útocích nožem (nebo jinou malou zbraní na blízku) zezadu. Při splnění podmínek níže. Může zloděj útočit na cíl s *výhodou* a při úspěšném zásahu je poškození navýšeno o *2k4*.
 
-**Podmínky:** Zloděj musí přijít k nepříteli zezadu a nepřítel si nesmí být vědom zlodějovi přítomnosti (Hod na ověření plížení či překvapení může být požadováno). Cíl nesmí být více jak 2x větší než je velikost zloděje.
+**Podmínky:** Zloděj musí přijít k nepříteli zezadu a nepřítel si nesmí být vědom zlodějovi přítomnosti (Hod na ověření plížení či překvapení může být požadováno). Cíl musí být člověku podobný humanoid.
 
 ### Zlodějovy schopnosti
 
-Zloděj disponuje sadou výjimečných schopností do kterých se může specializovat. Všechny tyto schopnosti začínají s *HU 6* a postupně mohou být vylepšeny *expertními body*. Zloděj začíná hru s *4-mi expertními body*, které si může dle libosti rozdělit mezi své schopnosti. 
+Zloděj disponuje sadou výjimečných schopností do kterých se může specializovat. Všechny tyto schopnosti začínají s *HU 6* a postupně mohou být vylepšeny *expertními body*. Zloděj začíná hru s *4-mi expertními body*, které si může dle libosti rozdělit mezi své schopnosti. Žádná schopnost nemůže mít nižší hranici úspěchu než 2.
 
 - **Eskamotáž** - Zloděj se může pokusit ukrást malý předmět (max. velikost 1) ve výbavě cíle nebo se pokusit o jiný eskamotérský trik. Jako nechat zmizet předmět v ruce nebo nenápadně podsunout jed do pití.
-    - **Modifikace obtížnosti:** Za každé *3 úrovně* cíle (případně pozorovatelem) uděluje kumulativní postih *-1* k hodu na úspěch. Například cíl 6 úrovně se okrádá s postihem -2.
-    - **Přirozená 1:** Zloděj musí uspět v záchranném hodu proti pastím (modifikován zručností) nebo být odhalen.
+    - **Modifikace obtížnosti:** Každé *3 úrovně* cíle (případně pozorovatele) udělují kumulativní postih *-1* k hodu na úspěch. Například cíl 6 úrovně se okrádá s postihem -2.
+    - **Přirozená 1:** Zloděj neuspěje a musí uspět v záchranném hodu proti pastím (modifikován zručností) nebo být odhalen.
 
 - **Manipuluj mechanizmus** - Zloděj se může pokusit odemknout zámek nebo zneškodnit malou mechanickou past (např. v zámku nebo poklopu). 
     - **Opakování:** Manipulace mechanizmu trvá 1 směnu a vyžaduje zlodějské náčiní.

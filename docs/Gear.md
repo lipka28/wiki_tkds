@@ -71,7 +71,7 @@ Zbraně se dělí do 3 základních kategorií. Kategorie jsou přibližně rozd
 - **Malá** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Obecně je tento typ zbraní velmi nenápadný.
 - **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Některé lze také použít i jako obouruční s vyšší kostkou poškození (1k6 -> 1k8). V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
 - **Velká dlouhá** - Tyto zbraně jsou dlouhé a mají tedy vyšší dosah ale nižší kostku poškození než jiné velké zbraně. Dosah je o 1 metr větší než u normálních zbraní. Tyto zbraně jsou vždy obouruční.
-- **Velká** -  Nejničivější typ zbraní. Tyto zbraně jsou vždy obouruční.
+- **Velká** -  Nejničivější typ zbraní. Tyto zbraně jsou vždy obouruční. Použití v úzkých prostorech může způsobovat postihy nebo nemusí být vůbec možné.
 
 Tato kategorizace je také důležitá v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: **neozbrojený** <**malá** < **střední** < **velká** < **velká dlouhá** < **hozená** < **střelná** (u střelných zbraní pak mají přednost zbraně využívající střelný prach)
 
@@ -151,6 +151,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Křída (10)                                               |     1(10L)     | 1 st  |
 | Lahvička kyseliny                                        |       1        | 20 st |
 | Lahvička oleje                                           |       1        | 4 st  |
+| Lahvička svěcené vody                                    |       1        | 25 st |
 | Lahvička s korkovou zátkou                               |       1        | 1 st  |
 | Lékárnička (10 použití)                                  |       1        | 50 st |
 | Lékárnička - zásoby (+10 použití)                        |       1        | 40 st |
@@ -167,6 +168,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Rybářské náčiní                                          |       1        | 5 st  |
 | Řetěz (2 metry)                                          |       1        | 5 st  |
 | Sada na čištění křesadlových zbraní (10 použití)         |       1        | 25 st |
+| Sada převleků a líčení (3 použití)                       |       3        | 15 st |
 | Sedlová brašna / Pytel                                   |    1 (Kon.)    | 5 st  |
 | Spacák                                                   |       1        | 2 st  |
 | Stan (pro 1)                                             |       1        | 5 st  |
@@ -212,6 +214,10 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 - *Bojové užití:* Cíl pokrytý hořícím olejem obdrží *1k8* poškození za kolo po dobu *2 kol* nebo dokud není uhašen. 
 
+**Lahvička svěcené vody:** Lahvi svěcené vody vysvěcena ve jménu nějakého Nesmrtelného. Často používána pro různé rituály.
+
+- *Bojové užití:* Nemrtvý nebo démon zasažen lahvičkou obdrží *1k8* poškození za kolo po dobu *2 kol*. 
+
 **Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. 
 
 - *Léčení:* 1 použití umožňuje vyléčit 2 životy denně. (1 použití / cíl)
@@ -231,6 +237,10 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 **Psací potřeby:** Sada psacích per, inkoustů, pečetního vosku a listů pergamenu pro běžné poznámky, nákresy či korespondenční účely. 
 
 **Pytel kovových ježků:** Malé kovové bodce, které mohou být rozhozeny po zemi (1 x 1 metr plocha). Stvoření pohybující se postiženou oblastí musí podstoupit hod s *HU 5*. Při neúspěchu obdrží 1 poškození a jeho rychlost pohybu bude snížena na polovinu po dobu 24 hodin nebo dokud neobdrží magické léčení.
+
+**Sada na čištění křesadlových zbraní:** Používá se na odseknutí ucpaných křesadlových zbraní. Pročištění zbraně trvá *1 směnu*.
+
+**Sada převleků a líčení:** Sada nejrůznějších kostýmů a líčidel, vhodné pro zapadnutí do kterékoliv společnosti. Kompletní nasazení převleku trvá *1 hodinu*.
 
 **Sedlová brašna / Pytel**: Vhodná pro uložení předmětu na koni či jiném stvoření. Kapacita 6 Slotů.
 

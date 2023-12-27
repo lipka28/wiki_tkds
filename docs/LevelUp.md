@@ -18,6 +18,8 @@ Zkušenosti jsou postavám přiděleny na základě všelijakých aktivit ve hř
 
 **Extra odměna:** PJ může odměnit specifické hráče extra zkušenostními body, aby odměnil určitá chování při hře. 
 
+**Maximální zkušenosti za sezení:** Postava nemůže za jedno sezení získat více než 1 úroveň. Pokud by měla obdržet více zkušeností. Dostane maximálně o 1 zkušenost méně, než je potřeba k dosažení další (druhé) úrovně. Zbytek zkušeností je ztracen.
+
 ### Dosažení nové úrovně 
 
 Když postava získá dostatečné množství zkušenostní, aby dosáhla na novou úroveň svého povolání. Hráč, po dosažení nové úrovně, by si měl překontrolovat informace ke svému povolání zda neobdržel nějaké nové bonusy nebo schopnosti.
