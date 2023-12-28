@@ -6,7 +6,7 @@ Dovednostní body určují zda má hráčova postava nějaké bonusy či penaliz
 
 ## Síla 
 
-Svaly a fyzická síla. Hlavní využití síly je v boji a při nošení těžkých břemen. Síla poskytuje modifikátor k útoku a poškození zbraněmi na blízku a také modifikuje tvou nosnost.
+Svaly a fyzická síla. Hlavní využití síly je v boji a při nošení těžkých břemen. Síla poskytuje modifikátor k útoku a poškození zbraněmi na blízku a také modifikuje tvou nosnost. Připočítává k záchranným hodům proti síle.
 
 |  Síla   | Modifikátor |
 | :-----: | :---------: |
@@ -20,7 +20,7 @@ Svaly a fyzická síla. Hlavní využití síly je v boji a při nošení těžk
 
 ## Zručnost
 
-Zručnost, reflexy a rovnováha. Modifikátor zručnosti ovlivňuje především schopnost vyhýbat se útokům (OČ) a zasáhnout cíl střelnými či házecími zbraněmi. Do poškození se však nepřičítá. 
+Zručnost, reflexy a rovnováha. Modifikátor zručnosti ovlivňuje především schopnost vyhýbat se útokům (OČ) a zasáhnout cíl střelnými či házecími zbraněmi. Do poškození se však nepřičítá. Připočítává k záchranným hodům na úhyb.
 
 | Zručnost | Modifikátor |
 | :------: | :---------: |
@@ -34,7 +34,7 @@ Zručnost, reflexy a rovnováha. Modifikátor zručnosti ovlivňuje především
 
 ## Výdrž
 
-Výdrž představuje zdraví, výdrž a vytrvalost. Modifikátor výdrže ovlivňuje hlavně zdraví a také se připočítává k záchranným hodům proti jedům a okamžité smrti.
+Výdrž představuje zdraví, výdrž a vytrvalost. Modifikátor výdrže ovlivňuje hlavně zdraví a také se připočítává k záchranným hodům proti smrti.
 
 |  Výdrž  | Modifikátor |
 | :-----: | :---------: |
@@ -48,7 +48,7 @@ Výdrž představuje zdraví, výdrž a vytrvalost. Modifikátor výdrže ovliv�
 
 ## Rozum
 
-Rozum představuje schopnost učit se, paměť, rozum a sílu vůle. Rozumu určuje gramotnost hráčovi postavy a kolik jazyků se může postava pokusit naučit. Modifikátor rozumu se připočítává k záchranným hodům proti magii.
+Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnost hráčovi postavy a kolik jazyků se může postava pokusit naučit. Modifikátor rozumu se připočítává k záchranným hodům proti magii.
 
 |  Rozum  | Modifikátor |  Gramotnost  |       Kapacita pro jazyky       |
 | :-----: | :---------: | :----------: | :-----------------------------: |
@@ -66,7 +66,7 @@ Rozum představuje schopnost učit se, paměť, rozum a sílu vůle. Rozumu urč
 
 ## Osobnost
 
-Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopnost vést. Modifikátor osobnosti ovlivňuje to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě, kolik můžeš mít nehráčských společníků a to jak jsou mu daní společníci loajální.
+Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopnost vést. Modifikátor osobnosti ovlivňuje to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě, kolik můžeš mít nehráčských společníků a to jak jsou mu daní společníci loajální. Připočítává k záchranným hodům proti ovlivnění mysli.
 
 | Osobnost | Modifikátor |         MAx Počet společníků         | Loajalita |
 | :------: | :---------: | :----------------------------------: | :-------: |

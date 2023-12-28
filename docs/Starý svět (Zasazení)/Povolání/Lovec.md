@@ -1,65 +1,82 @@
 # Lovec
 
-![Image title](/assets/classes/ranger.webp)
+![Image title](/assets/classes/Hunter.jpeg)
 
-*Hraničáři jsou nepřekonatelní průvodci divočinou. Díky svým znalostem přírody a stopovacím schopnostem. Jsou nepostradatelní v každé skupině dobrodruhů. Hraničáři často žijí na okraji civilizace. Většina jich věří, že civilizace musí být chráněna před divočinou. Najdou se však i takoví, kteří trvají na tom, že divočina musí být chráněna před civilizací. Povolání hraničáře je vhodné pro kohokoliv kdo má blízko k přírodě a rád zneškodňuje nepřátele dřív, než se k němu dostanou.*
+*asd* ==upravit==
 
-## Tabulka postupu
+## Základní informace
 
-| ÚROVEŇ |       HP       | ODEMYKÁ                                                      |
-| :----: | :------------: | :----------------------------------------------------------- |
-|   1    | +1d8+MOD Výdrž | Hraničářský um; Blízko k přírodě; Bonus k zásahu +0; Záchranný hod: 16 |
-|   2    | +1d8+MOD Výdrž | Lovecká značka                                               |
-|   3    | +1d8+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                        |
-|   4    | +1d8+MOD Výdrž | Perk                                                         |
-|   5    | +1d8+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 12                        |
-|   6    | +1d8+MOD Výdrž | Vášnivý lovec; +1 Lovecká značka                             |
-|   7    | +1d8+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 10                        |
-|   8    | +1d8+MOD Výdrž | Perk                                                         |
-|   9    | +1d8+MOD Výdrž | Bonus k zásahu: +8; Záchranný hod: 8                         |
-|   10   | +1d8+MOD Výdrž | Jako vítr; +1 Lovecká značka                                 |
-|  10+   |       +1       | ---                                                          |
+**Životy:** S dosažení každé nové úrovně se zlodějovo zdraví zvýší o *1k6*+Modifikátor výdrže.
+
+**Hod na zásah:** *+0* na 3. a 7. úrovni se zvedne o 2 a na 5. a 9. úrovni se zvedne o 1
+
+**Záchranný hod:** *16* na 3., 5., 7. a 9. úrovni se sníží o 2
+
+**Ovládané zbraně:** Všechny
+
+**Ovládaná brnění:** Lehké + štíty
+
+**Odolnosti:** Bonus *+2* k záchranným hodům proti síle
 
 ## Schopnosti povolání
 
-**Trénované zbraně:** Všechny jednoruční a střelné zbraně. 
+### Zvířecí společník
 
-**Trénovaná brnění:** Lehké a střední zbroje.
+Lovec může navázat vztah s jedním zvířetem. To zvíře se stane lovcovým oddaným společníkem. 
 
-### Úroveň 1 - Hraničářský um
+**Omezení:** Lovec může mít v jednu chvíli jen jednoho zvířecího společníka stejné nebo nižší úrovně. Ten může být libovolné zvíře. Obří verze zvířat a magická zvířata jsou ochočitelná jen se souhlasem PJ (Jejich proces ochočení by měl být také výrazně komplikovanější.) Zvířatům podobná stvoření s lidskou nebo vyšší inteligencí není možné ochočit.
 
-Hraničář má bonus ve výši své úrovně, ke všem ověření dovedností týkající se aktivit, ve kterých by měl logicky hraničář vynikat.
+**Navázání vztahu:** Lovec se musí ke zvířeti přiblížit a mírumilovně s ním interagovat po dobu *1 směny*. Během kterého musí lovec podstoupit ověření *osobnosti*. Pokud uspěje, zvíře bude lovce týden následovat ale nebude se nijak zapojovat do lovcových aktivit. Během tohohle týdne musí lovec začít *základní výcvik* nebo ho po týdnu zvíře opustí.
 
-- *Přenocování* - Hraničář také poskytuje bonus *+1* k jedné z příprav na přenocování.
-- *Jiné průzkumné aktivity* - Stejný bonus (+1) lze také přidat k dalším průzkumným aktivitám jako popsáno v [Cestování po světě / Ostatní aktivity](/rules/#cestovani-po-svete) 
+**Základní výcvik:** Lovec může strávit týden a naučit zvíře základní příkazy potřebné pro dobrodružství. Zvíře, které prošlo základním výcvikem bude následovat a *chránit lovce* a nikdy *nemusí ověřovat morálku*. Dále se naučí *4* základní příkazy:
 
-!!! Note "Příklady hraničářských aktivit"
-    Hraničář by měl získat bonus minimálně v následujících aktivitách: Šplhání, Plížení se, Stopování, Zpracování zvířecího materiálu, Identifikace nemagických monster, Příprava pastí, Zachycení se při pádech z výšky, Komunikace a manipulace se zvířaty... Pj může povolit další využití.
+- *"Zůstaň!"* - Zvíře zůstane na místě dokud nedostane jiný příkaz nebo dokud není lovec v dohledu napaden.
+- *"Následuj"* - Zvíře následuje lovce.
+- *"Ke mě!"* - Zvíře přiběhne k lovci nebo mu přiběhne na pomoc.
+- *"Zaútoč!"* - Zvíře zaútočí na první neznámé stvoření ve směru, kterým lovec udá příkaz.
 
-### Úroveň 1 - Blízko k přírodě
+Nezávisle na obdrženém příkazu, zvíře bude vždy prioritizovat ochranu lovce.
 
-- *Orientace* - Skupina, která má sebou hraničáře šanci pouze *1 z 6-ti*, že se ztratí. při putování divočinou 
-- *Identifikace* - Hraničář zvládne zaručeně identifikovat obecně rozšířenou faunu a flóru a vybavit si o ní nějaké informace. Hraničář také zvládne zaručeně identifikovat zdroj pitné vody v divočině.
+**Pokročilý výcvik:** Každý zvířecí společník se může naučit extra *1k6* dalších pokynů (dle inteligence zvířete). Naučení pokynu trvá týden a vyžaduje lovcovo úspěšné ověření na použití schopnosti *znalost příšer*.
 
-### Úroveň 2 - Lovecká značka
+**Chování zvířete:** Zvíře nikdy není pod plnou kontrolou lovce. O jeho chování jak v boji tak mimo něj rozhoduje PJ. Lovec může zvíře ovládat pouze naučenými příkazy. 
 
-Hraničář může dotykem nebo zásahem některým ze svých útoků, umístit mentální loveckou značku na stvoření, místo nebo předmět. Hraničář má vždy přibližnou představu, kde dotyčné stvoření, předmět nebo místo je, relativně ke své poloze. Za předpokladu, že se nachází ve stejném světě. 
+!!! Note "Zvíře do začátku"
+    Pokud si lovec při tvorbě postavy ubere 1 kostku na házení zlata, může si vybrat jedno zvíře první úrovně do začátku (zvíře již má základní výcvik).
 
-- *Označené stvoření* - Označená stvoření dokáže hraničář stopovat s výhodou. Při útoku na označené stvoření zbraní na dálku má hraničář bonus *+2* k zásahu a navíc neplatí postih za neefektivní vzdálenost.
-- *Limit* - Hraničář v 1 chvíli udrží jen 1 mentální loveckou značku. 
-- *Extra značky* - Na 6. a 10. úrovni udržíš o 1 mentální značku naráz více.
+### Střelecká specializace
 
-### Úroveň 4, 8, 12... - Perk
+Lovec má bonus *+1* k zásahu útoky na dálku.
 
-Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
+**Od 6. úrovně:** Lovcovo přebíjení kuší, mušket a podobných zbraní netrvá celé kolo. Přebití jej stojí pouze útočnou akci nebo celý pohyb v daném tahu.
 
-- Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z [existujících perků](/Aldir%20%28Zasazení%29/perks/#perky), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
+### Orientace v divočině
 
-### Úroveň 6 - Vášnivý lovec
+Pokud lovec a jeho skupina ztratí v divočině. Lovec se může s *HU 4* pokusit najít správnou cestu.
 
-Hraničář může strávit 1 směnu tím, že si ze zabitého stvoření vytvoří trofej. Taková trofej váží L a pokud má tyto trofeje hraničář mezi vybavenými předměty poskytují mu bonus *+1* (za každou trofej) k poškození proti druhu stvoření, ze kterého daná trofej pochází (max *+5*).
+### Lovcovy schopnosti
 
-### Úroveň 10 - Jako vítr
+Lovec disponuje sadou výjimečných schopností do kterých se může specializovat. Všechny tyto schopnosti začínají s *HU 6* a postupně mohou být vylepšeny *expertními body*. Lovec začíná hru s *4-mi expertními body*, které si může dle libosti rozdělit mezi své schopnosti. Žádná schopnost nemůže mít nižší hranici úspěchu než 2.
 
-Hraničář není nikdy vázán v boji na blízko a jeho hybnost je vyšší o 2 metry.
+- **Ostražitost** - Pokud je lovcova skupina překvapena, lovec si může hodit na ověření této schopnosti. Pokud uspěje. Není překvapen.
+- **Plížení v porostu** - Lovec se může pokusit ukrýt v místech kde jediný úkryt je jen lehký porost a také se může nenápadně pohybovat.
+    - **Nenápadný pohyb:** Při neúspěšném hodu na překvapení (při plížení), se lovec může pokusit o ověření této schopnosti aby zůstal skryt.
+
+- **Prohledat oblast** - Funguje jako venkovní průzkum popsán v [základních schopnostech](/Pravidla%20a%20procedury/Adventures/#zakladni-schopnosti).
+- **Přežití** - Funguje jako přežití popsáno v [základních schopnostech](/Pravidla%20a%20procedury/Adventures/#zakladni-schopnosti). Navíc při přenocování v divočině si může lovec vybrat 1 potřebu, kterou obstará. Pokud pak uspěje v ověření této schopnosti, potřeba je úspěšně obstarána.
+- **Stopování** - Lovec se může pokusit identifikovat a následovat stopy.
+    - **Obtížnost:** Obtížnost může být modifikována různými okolnostmi. Jako je třeba tvrdost země, sníh, déšť a podobné.
+
+- **Znalost příšer** - Lovec se může pokusit vybavit si informace o zvířeti nebo jiném přirozeně se vyskytujícímu monstru které vidí. Při úspěšném ověření schopnosti se může Lovec dotázat na libovolnou vlastnost či statistiku monstra a PJ popravdě odpoví. 
+    - **Trénink a interakce:** Alternativně se tato schopnost dá použít pro trénink zvířat a různé interakce s monstry (Například létání na divoké vyverně).
+    - **Neúspěch:** Lovec se nemůže znovu pokusit vybavit více informací o daném druhu monstra, dokud nestráví 10 minut (1 směnu) jeho důkladným nerušeným studiem.
+
+
+
+**Vylepšení:** S každou další dosaženou úrovní získá lovec *2 expertní body*. Na *10. úrovni* pak získá poslední *4 expertní body*.
+
+### Trofeje
+
+Lovec si může z mrtvého monstra vypreparovat trofej na památku. Trofejí může být cokoliv od hlavy přes paroží až zub draka. Minimální váha trofeje musí být *1 slot*. Pokud má pak lovec trofej jako součást výbavy, na svém koni nebo třeba vyvěšenou u sebe doma. Funguje trofej jako takový talisman, který dává bonus +1 na zásah a záchrané hody proti speciálním útokům monster stejného druhu. 
+
+**Od 4. úrovně:** Pokud má lovec trofej jako součást svých vybavených předmětů. Bonus trofeje je poskytován i spojencům okruhu 5-ti metrů od lovce.

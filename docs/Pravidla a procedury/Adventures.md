@@ -33,10 +33,8 @@ Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tí
 
 ### Základní schopnosti
 
-Všichni dobrodruzi disponují 4-mi základními schopnostmi. Výchozí HU pro tyto schopnosti je *6*. Tyto schopnosti jsou:
+Všichni dobrodruzi disponují 3-mi základními schopnostmi. Výchozí HU pro tyto schopnosti je *6*. Tyto schopnosti jsou:
 
-- *Lov* - Lov umožňuje získat větší množství čerstvých zásob (speciální typ zásob, který se za 3 dny zkazí). Avšak tahle aktivita zabere postavám celý den. Takže den kdy se rozhodnou lovit nemohou cestovat. Do lovu se počítají i aktivity jako jsou rybaření.
-    - **Efekt úspěchu:** Postavy naleznou lovnou zvěř, která je vhodná k jídlu. Ještě ji však musí ulovit. 
 - *Plížení* -  Postavy se mohou nenápadně proplížit kolem skupiny nepřátel.
     - **Překvapení:** Na rozdíl od ostatních základních schopností, je úspěch určen hodem na překvapení. (viz. [Hod na překvapení v Náhlých setkání](/rules/#nahla-setkani)). 
     - **Efekt úspěchu:** Pokud jsou nepřátelé překvapeni. Znamená to, že se postavy mohou bez problému proplížit okolo. (Pokud to rozložení terénu umožňuje) Tento hod je třeba opakovat každé kolo co se postavy plíží.
@@ -46,20 +44,25 @@ Všichni dobrodruzi disponují 4-mi základními schopnostmi. Výchozí HU pro t
     - **Venkovní průzkum:** Postavy prozkoumají oblast v okruhu 5 kilometrů v rámci 1 dne.
     - **Tajný hod:** Na tuhle schopnost háže PJ potají, aby hráč neviděl výsledek hodu.
     - **Efekt úspěchu:** Hráči objeví jeden z ukrytých prvků v dané oblasti.
-- *Sběr* - Během cestování se mohou postavy pokusit o sběr bylin, plodů a jiných zásob. Tato aktivita nijak neovlivní rychlost pohybu a umožní cestující skupině najít nějaké ty zásoby.
+- *Přežití* - Během cestování se mohou postavy pokusit o sběr plodů, lov malých zvířat a opatření jiných zásob. Tato aktivita nijak neovlivní rychlost pohybu a umožní cestující skupině najít nějaké ty zásoby.
     - **Efekt úspěchu:** Skupina najde *1k6* čerstvých zásob (speciální typ zásob, který se za 3 dny zkazí).
 
 ## Záchranné hody
 
 Všechny postavy a monstra mohou podstoupit záchranný hod aby se vyhnuli plnému efektu kouzel, pastí a jiných speciálních útoků.
 
-**Typ záchranných hodů:** V této hře existuje pouze jeden univerzální záchranný hod. Ten se však může házet s různými modifikátory na základě toho proti čemu se postava snaží zachránit. Tyto modifikátory se dají získat různou výbavou, výběrem rasy, povolání či ze specifických dovedností.
+**Typ záchranných hodů:** Každá postava má jednu univerzální hodnotu, která funguje jako hranice úspěchu záchranného hodu. Hod samotný je pak modifikován dovednostmi postavy v závislosti na efektu, který na postavu působí. Možné kategorie jsou následující:
 
-- *Záchranný hod proti magii:* Je modifikovaný rozumem. 
-- *Záchranný hod proti smrti (a jedům):* Je modifikovaný výdrží.
+| Dovednost    | Název                     | záchrana proti efektům                                       |
+| ------------ | :------------------------ | :----------------------------------------------------------- |
+| **Síla**     | **Proti síle**            | *Působení externí síly, nucený pohyb, držení na místě, silný náraz atd..* |
+| **Zručnost** | **Na úhyb**               | *Spuštění pasti, exploze, záchyt při pádu z výšky, dračí oheň, paprsek atd...* |
+| **Výdrž**    | **Proti smrti**           | *Okamžitá smrt, působení jedů, okamžité zničení atd...*      |
+| **Rozum**    | **Proti magii**           | *Zásah magií, působení magických efektů atd...*              |
+| **Osobnost** | **Proti ovlivnění mysli** | *Strach, šílenství, magie ovlivňující mysl atd...*           |
 
-!!! Note "Jiné modifikátory"
-    Tyto modifikátory jsou nejpoužívanější avšak PJ si může vyžádat i záchranný hod modifikovaný jinou dovedností. Například záchranný hod modifikovaný zručností může být požadován pokud se postavu někdo pokusí odzbrojit. Nebo modifikace osobností může být vhodná při záchranně proti strachu.
+!!! warning "Mapování B/X záchranných hodů"
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na výčet jiných záchranných hodů. Ty se mapují následovně: *Paralýza* = Proti síle, *Dech* / *Hůlky* = Na úhyb, *Smrt* / *Jed* = Proti smrti, *Kouzla* / *Hole* = Proti magii. Záchranný hod proti ovlivnění mysli přímo nezapadá do žádné B/X kategorie. PJ však může dle vlastního uvážení požadovat tento záchranný hod na efekty ovlivňující mysl.   
 
 **Hod záchranného hodu:** Když je postava ovlivněna efektem, který vyžaduje záchranný hod tak si hodí D20, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako univerzální hod. 
 
@@ -73,18 +76,11 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 ### Léčení
 
-**Přirozené léčení:** Za každý den nerušeného stvoření zregeneruje *2 životy*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy.
+**Přirozené léčení:** Za každý den nerušeného odpočinku stvoření zregeneruje *2 životy*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy.
 
 **Magické léčení:** Léčit lze také pomocí lektvarů, nebo kouzel. Tato forma léčení je většinou instantní. Magické a přirozené léčení lze kombinovat.
 
 **Smrt:** Monstrum nebo hráč jehož životy jsou zredukovány na *0* nebo méně, je považováno za mrtvé.
-
-**Mírnější systém smrti pro heroická dobrodružství (Optional):** Hráčova postava zredukovaná na 0 nebo méně životů upadne do bezvědomí. Pokud je tělo postavy následně do *24 hodin* zkontrolováno nebo vyléčeno. Má *50%* šanci (hod s HU 4) přežít. Pokud uspěje tak je na živu s *1 životem* a v bezvědomí po dobu *1k4 směn*. V případě vyléčení postava přijde k sobě okamžitě s vyléčeným množstvím.
-
-- *Opakovaná smrt:* Tuto záchranu je možné opakovat jen tehdy, pokud byla postava někdy po své smrti vyléčena na maximum svých životů. 
-- *Zničení těla:* V tomhle případě tělo nezle zkontrolovat a postava automaticky umírá.
-- *Jedy:* Postava automaticky umírá bez možnosti záchrany.
-- *Ale já chci žít:* PJ může dovolit umírající postavě vzdát se 5-ti náhodných dovednostních bodů a žít.
 
 **Zničení předmětů:** Pokud byla postava zabita destruktivním kouzlem nebo speciálním efektem (jako je úder blesku, dračí oheň a podobné), její výbava je považována za zničenou.
 

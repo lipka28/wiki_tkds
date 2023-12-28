@@ -22,7 +22,7 @@
 
 - *Termovize* - Trpaslíci disponují termovizí (černobílá) na vzdálenost až *12 metrů*. 
 - *Vynálezci střelného prachu* - Trpaslíci jako vynálezci střelného prachu mají excelentní porozumění jeho fungování. To jim dává bonus *+1* k zásahu zbraněmi využívající střelný prach.
-- *Houževnatost* - Trpaslíci mají bonus *+2* k záchranným hodům proti srmti a otravě. Pokud je používán mírnější sytém smrti, tak trpaslíkova šance na přežit ztráty všech životů má *HU 3*.
+- *Houževnatost* - Trpaslíci mají bonus *+2* k záchranným hodům proti smrti.
 
 ---
 

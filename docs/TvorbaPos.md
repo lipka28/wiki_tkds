@@ -24,7 +24,7 @@ Zaznač si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.m
 
 ## 4. Zaznač si útočné číslo, záchranný hod a nosnost
 
-Zaznač si útočné číslo a záchranný hod dle svého povolání. Případně si zaznač i bonusy pro útok na blízko (modifikátor síly) a na dálku (modifikátor zručnosti). Dále si zaznačit svou nosnost.
+Zaznač si útočné číslo (0) a záchranný (16). Případně si zaznač i bonusy pro útok na blízko (modifikátor síly) a na dálku (modifikátor zručnosti). Dále si zaznačit svou nosnost (8 + modifikátor síly pro vybavené předměty a 15 + modifikátor síly pro uschované předměty).
 
 ## 5. Naházej si životy
 

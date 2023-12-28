@@ -16,9 +16,9 @@
 
 **Ovládaná brnění:** Lehké a střední + štít (pokud preferovaná zbraň patrona zmiňuje štít)
 
-**Odolnosti:** Bonus *+2* ke všem záchranným hodům proti strachu a kouzlům ovlivňujícím mysl.
+**Odolnosti:** Bonus *+2* k záchranným hodům proti ovlivnění mysli
 
-**Speciální výbava:** Svatý symbol patrona (Váha 1) a 1 lahvička svěcené vody (Váha 1)
+**Speciální výbava:** Svatý symbol patrona (Váha 1)
 
 ## Schopnosti povolání
 
@@ -60,7 +60,7 @@ Akolyta může za pomocí *svěcené vody* a svého dotyku vyléčit 1d4+1 živo
 
 Akolyty 2. a vyšší úrovně disponují schopností sesílat zázraky za pomoci Nesmrtelných patronů. Sesílání zázraků funguje ve směs stejně jako používání magie chaosu. Detaily fungování magie chaosu najdete v kapitole o [magii](/Starý%20svět%20%28Zasazení%29/magic/). S tím rozdílem, že akolyty sesílají své kouzla pouze na základě *specializace*, která je dána *sférami vlivu* jejich patrona. 
 
-**Ticho patrona:** Po seslání každého zázraku musí akolyta uspět v záchranném hodu proti strachu (modifikováno osobností). Pokud neuspěje znamená to, že patronovi se nelíbí zneužití jeho moci akolytou a akolyta ztrácí schopnost sesílat zázraky dokud svůj prohřešek nějak neodčiní (ať už formou pokání, proti služby, oběti či jiné). Závažnost tohohle prohřešku by měla škálovat dle ceny seslaného kouzla.
+**Ticho patrona:** Po seslání každého zázraku musí akolyta uspět v záchranném hodu proti ovlivnění mysli. Pokud neuspěje znamená to, že patronovi se nelíbí zneužití jeho moci akolytou a akolyta ztrácí schopnost sesílat zázraky dokud svůj prohřešek nějak neodčiní (ať už formou pokání, proti služby, oběti či jiné). Závažnost tohohle prohřešku by měla škálovat dle ceny seslaného kouzla.
 
 ### Očistný rituál (Level 4)
 

@@ -44,9 +44,8 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 
 | ZBROJE                     |     TYP     | VÁHA  |  OČ  | POTŘEBNÁ SÍLA |   CENA   |
 | :------------------------- | :---------: | :---: | :--: | :-----------: | :------: |
-| Obyčejné oblečení          |  Oblečení   | 1 (2) |  +0  |       -       | - (1 st) |
-| Noblesní oblečení          |  Oblečení   | 1 (2) |  +0  |       -       |  100 st  |
-| Oblečení dobrodruha        |  Oblečení   | 1 (2) |  +1  |       -       |  15 st   |
+| Obyčejné oblečení          |  Oblečení   | 1 (1) |  +0  |       -       | - (1 st) |
+| Noblesní oblečení          |  Oblečení   | 1 (1) |  +0  |       -       |  100 st  |
 | Vycpávaná / kožená zbroj   |    Lehká    | 1 (2) |  +2  |       -       |  20 st   |
 | Šupinová / kroužková zbroj |   Střední   | 2 (4) |  +4  |      10       |  40 st   |
 | Půl plát s kyrysem         |    Těžká    | 3 (6) |  +6  |      12       |  160 st  |
@@ -58,10 +57,6 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 **OČ:** Bonus k obrannému číslu. 
 
 **Potřebná síla:** Požadavek na sílu pro nošení zbroje.
-
-### Kovové zbroje a magie:
-
-Pokud stvoření používající magii má na sobě kovovou zbroj (většinou střední nebo těžší). Jeho sesílání kouzel má šanci selhat. Tahle šance je rovna *10 x OČ bonus zbroje %*.
 
 ## Zbraně
 

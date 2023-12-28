@@ -2,7 +2,7 @@
 
 ![Image title](/assets/classes/Assassin.jpeg)
 
-*Tuláci jsou nepředvídatelní oportunisti žijící na okraji společnosti. Za pomocí svých šikovných rukou a hbitých reflexů, dosáhnou všeho čeho si zamanou. Žádná špinavá práce jim není cizí. Potřebujete někoho odpravit? Něco ukrást? Není problém! Tuláci zvládnou vše a bez zanechání stop. A co zákony? Pro tuláky jsou to spíš taková neohrabaná doporučení. Povolání tuláka je vhodné pro každého kdo má rád všechny své akce důkladně promyšlené a nechce se zbytečně omezovat pravidly.* ==upravit==
+*asd* ==upravit==
 
 ## Základní informace
 
@@ -16,7 +16,7 @@
 
 **Ovládaná brnění:** Lehké
 
-**Odolnosti:** Bonus *+2* ke všem záchranným hodům proti pastím. Případně bonus *+2* k OČ proti pastím, pokud past funguje na principu zásahu OČ.
+**Odolnosti:** Bonus *+2* k záchranným hodům na ú. Případně bonus *+2* k OČ proti pastím, pokud past funguje na principu zásahu OČ.
 
 **Speciální výbava:** Sada převleků a líčení (Váha: 3, použití 3)
 
@@ -36,7 +36,7 @@ Zabiják disponuje sadou výjimečných schopností do kterých se může specia
 
 - **Eskamotáž** - Zabiják se může pokusit ukrást malý předmět (max. velikost 1) ve výbavě cíle nebo se pokusit o jiný eskamotérský trik. Jako nechat zmizet předmět v ruce nebo nenápadně podsunout jed do pití.
     - **Modifikace obtížnosti:** Každé *2 úrovně* cíle (případně pozorovatele) udělují kumulativní postih *-1* k hodu na úspěch. Například cíl 6 úrovně se okrádá s postihem -3.
-    - **Přirozená 1:** Zabiják neuspěje a musí uspět v záchranném hodu proti pastím (modifikován zručností) nebo být odhalen.
+    - **Přirozená 1:** Zabiják neuspěje a musí uspět v záchranném hodu na úhyb nebo být odhalen.
 
 - **Odezírání ze rtů** - Zabiják se může pokusit o odezírání ze rtů cíle, kterému dobře vidí na ústa (Většinou ne dál než 10 metrů).
     - **Úspěch:** Zabiják se přesně dozví o čem dotyčný mluvil.
@@ -46,13 +46,13 @@ Zabiják disponuje sadou výjimečných schopností do kterých se může specia
     - **Nenápadný pohyb:** Při neúspěšném hodu na překvapení (při plížení), se zabiják může pokusit o ověření této schopnosti aby zůstal skryt.
 - **Šaráda** - Zabiják se může pokusit napodobit libovolného představitele své rasy (i opačného pohlaví) a to včetně dokonalého napodobení hlasu a nuancí.
     - **Cíl napodobení:** Zabiják musí znát chování, vzhled a hlas cíle, za který se chce vydávat.  Případně jen jeden z těchto požadavků pokud stačí pro danou situaci (Například hlas přes zavřené dveře).
-    - **Převlek:** Připravení převleku trvá hodinu a vyžaduje *Sada převleků a líčení**
-    - ***Neúspěch:** Pokud zabiják neuspěje, tak je někdy v průběhu své šarády odhalen. 
+    - **Převlek:** Připravení převleku trvá hodinu a vyžaduje *Sada převleků a líčení*
+    - **Neúspěch:** Pokud zabiják neuspěje, tak je někdy v průběhu své šarády odhalen.
     - **Opakování hodu:** V případě, že je zamaskovaný zabiják důkladně prověřen někým kdo cíl šarády zná. Musí zabiják opakovat hod na ověření úspěchu (Například muž políbí manželku, která je ve skutečnosti zabiják v přestrojení).
 - **Šplhání po stěnách** - Zabiják se může pokusit šplhat po stěnách bez očividných záchytů rychlostí *25 metrů za směnu*.
     - **Delší šplhání:** Ověřovací hod je potřeba za každých šplhaných 25 metrů.
     - **Neúspěch:** Neúspěch znamená, že tuhle směnu nenašel zabiják žádné vhodné úchyty a zůstal tedy na místě.
-    - **Přirozená 1:**  Zabiják musí uspět v záchranném hodu proti pastím (modifikován zručností) nebo spadnout.
+    - **Přirozená 1:**  Zabiják musí uspět v záchranném hodu na úhyb nebo spadnout.
 - **Zavraždit** - Zabiják útočící na cíl, který si není vědom jeho přítomnosti, útočí s *výhodou*. Při úspěšném zásahu podstoupí zabiják ověření dovednosti a pokud uspěje, cíl je okamžitě zabit.
     - **Modifikace obtížnosti:** Každé *3 úrovně* cíle udělují kumulativní postih *-1* k hodu na úspěch. Například cíl 6 úrovně se vraždí s postihem -2.
     - **Cíl:** Cílem musí být člověku podobný humanoid a nesmí být nemrtvý nebo neživý. V opačném případě pokus automaticky selže.

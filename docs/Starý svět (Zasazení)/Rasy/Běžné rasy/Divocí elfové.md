@@ -22,7 +22,7 @@
 
 **Speciální vlastnosti:**
 
-- *Odolnost vůči paralýze* - Divocí elfové mají výhodu na záchranné hody proti spánku a paralýze. Neplatí na efekty způsobené magií.
+- *Imunita vůči paralýze* - Divocí elfové mají imunitu proti nemagické paralýze (včetně uspání).
 - *Divoký bojovník* - Všichni divocí elfové jsou od malička trénovaní pro neozbrojený boj. Divokých elfů se netýká postih za boj beze zbraně a jejich ostré zuby, působící *1k4* poškození, z nich dělají nebezpečné protivníky. 
 - *Ostražitý* - Divocí elfové jsou překvapeni pouze tehdy, padne-li na kostce překvapení *1*.
 

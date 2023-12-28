@@ -16,7 +16,7 @@
 
 **Ovládaná brnění:** Žádné
 
-**Odolnosti:** Bonus *+2* ke všem záchranným hodům proti magii.
+**Odolnosti:** Bonus *+2* k záchranným hodům proti magii.
 
 **Speciální výbava:** Grimoár kouzel (Váha: 1, kapacita: 10 kouzel)
 

@@ -20,7 +20,7 @@
 
 **Speciální vlastnosti:**
 
-- *Odolnost vůči paralýze* - Vznešení elfové mají výhodu na záchranné hody proti spánku a paralýze. Neplatí na efekty způsobené magií.
+- *Imunita vůči paralýze* - Vznešení elfové mají imunitu proti nemagické paralýze (včetně uspání).
 - *Praotci magie* - Vznešení elfové byla jedna z prvních ras, která se naučila ovládat magii. Tyto znalosti jim poskytují bonus *+2* ke všem záchranným hodům proti magii a také přístup k povolání mága. Také pokud umí vznešený elf sesílat kouzla, tak ho sesílání stojí vždy *o 1 život méně*. Tato redukce nemůže snížit cenu kouzla na 0.
 
 ---

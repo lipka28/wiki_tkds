@@ -4,6 +4,8 @@ asd Možnost se usadit here
 
 Aktivity na které se podívat:
 
+Najmout pomoc
+
 Carousing
 
 Rumors/info
@@ -14,7 +16,7 @@ Learning talents / skills ?
 
 Training a skill or weapon mastery?
 
-Professional incom
+Professional income
 
 Crafting items
 

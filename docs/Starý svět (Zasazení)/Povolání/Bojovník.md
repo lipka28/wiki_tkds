@@ -16,7 +16,7 @@
 
 **Ovládaná brnění:** Všechny včetně štítů.
 
-**Odolnosti:** Bonus *+2* ke všem záchranným hodům proti smrti a jedům.
+**Odolnosti:** Bonus *+2* k záchranným hodům proti smrti.
 
 ## Schopnosti povolání
 
@@ -28,7 +28,7 @@ Bojovníkovo neustále vystavení boji, mu umožňuje objevovat nové způsoby j
 2. **Rozmetat** - Pokud bojovník, nacházející se v blízkém boji s několika nepřáteli, zabije nepřítele. Může ihned opakovat svůj útok do dalšího cíle poblíž. Tento nový útok probíhá s postihem *-2* na zásah. Tento efekt se může opakovat až 2x za bojovníkův tah a postih na zásah je kumulativní.
 3. **Ochránce** - Stvoření, které je v blízkém boji s bojovníkem, má postih *-2* na zásah ke všem útokům, které směřují na někoho jiného než bojovníka.
 4. **Poslední vzdor** - Jsou-li bojovníkovi životy zredukovány na *0*. Bojovník může podobu *5-ti kol* nadále bojovat. Pokud během těchto kol obdrží bojovník další poškození. Musí uspět v *záchranném hodu proti smrti* nebo zemřít. (Platí standardní pravidla pro smrt)
-5. **Vůdce** - Spolubojovníci pod bojovníkovým vedením v okruhu *12 metrů* mají bonus *+1* k morálce a *+2* ke všem *záchranným hodům proti strachu*. 
+5. **Vůdce** - Spolubojovníci pod bojovníkovým vedením v okruhu *12 metrů* mají bonus *+1* k morálce a *+2* ke všem *záchranným hodům proti ovlivnění mysli*. 
 6. **Boj se dvěma zbraněmi** - Bojovníkův bonus do OČ, zásahu a poškození za použití dvou zbraní na blízko je *+2* na místo +1. Bojovník se navíc může tohoto bonusu vzdát do začátku svého příštího tahu a útočit oběma zbraněmi zvlášť. Útok druhou zbraní však probíhá s postihem *-4*.
 7. **Brutální manévry** - Bojovníkovi bojové manévry působí stejné poškození jako jeho neozbrojené útoky.
 8. **Zbraňová specializace** - Bojovník má bonus *+1* k zásahu a poškození se specifickým typem zbraní, který si vybere (Například: Obou-ruční sekera, mušketa, nůž atd...). Tento talent si lze vzít opakovaně pro různé typy zbraní.
