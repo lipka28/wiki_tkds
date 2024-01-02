@@ -13,7 +13,7 @@ Jdi dovednost po dovednosti, v pořadí jakém si usmyslíš. Na každou dovedno
 
 ## 2. Vyber si rasu a povolání
 
-Vyber si jednu z ras a jedno povolání dobrodruha a zaznač si jejich název do svého deníku postavy. Mysli na to, že některé rasy mají minimální požadavek na specifické dovednosti aby sis je mohl vybrat a některá povolání jsou přístupná jen některým rasám.
+Vyber si jednu z ras a jedno povolání dobrodruha a zaznač si jejich název do svého deníku postavy. Mysli na to, že některé rasy mají minimální požadavek na specifické dovednosti aby sis je mohl vybrat a některá povolání jsou přístupná jen některým rasám. Pokud ti vybraná rasa nějak modifikuje tvoje dovednostní body, zaznač si tyto modifikace.
 
 !!! note "Speciální rasy ve Starém světě"
     Speciální rasy Starého světa si mohou vybrat pouze hráči, kterým jejich první postava v aktuální kampani zemřela. Každá hráč dostane tuhle příležitost jen 1x za kampaň. Ve skupině nesmí být více členů ze stejnou speciální rasou.
@@ -22,60 +22,53 @@ Vyber si jednu z ras a jedno povolání dobrodruha a zaznač si jejich název do
 
 Zaznač si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.md)). Také si nezapomeň zapsat gramotnost danou tvým rozumem.
 
-## 4. Zaznač si útočné číslo, záchranný hod a nosnost
+## 4. Zaznač si modifikátor zásahu, záchranný hod a nosnost
 
-Zaznač si útočné číslo (0) a záchranný (16). Případně si zaznač i bonusy pro útok na blízko (modifikátor síly) a na dálku (modifikátor zručnosti). Dále si zaznačit svou nosnost (8 + modifikátor síly pro vybavené předměty a 15 + modifikátor síly pro uschované předměty).
+Zaznač si modifikátor zásahu (*0*) a záchranný hod (*16*). Případně si zaznač i bonusy pro útok na blízko (modifikátor síly) a na dálku (modifikátor zručnosti). Dále si zaznačit svou nosnost (*10 + modifikátor síly* pro *vybavené* předměty a *18 + modifikátor síly* pro *uschované* předměty).
 
 ## 5. Naházej si životy
 
-Hoď *1k4+1k6* a aplikuj modifikátor za výdrž. To jsou tvé životy. Každá postava začíná minimálně s 1 životem.
+Hoď *1k4+1k6* a přičti modifikátor výdrže. To jsou tvé životy. Každá postava začíná minimálně s *1* životem.
 
 !!! note "Proč 1k4+1k6?"
-    1k4 reprezentuje zdraví běžného humanoida a 1k6 představuje schopnost dobrodruha 1. úrovně přežít.
+    *1k4* reprezentuje zdraví běžného netrénovaného humanoida a *1k6* představuje schopnost přežít dobrodruha 1. úrovně.
 
 ## 6. Zaznač si schopnosti tvého povolání a rasy
 
-Zaznač si všechny zvláštní schopnosti, které tvá postava získala výběrem rasy a povolání. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na hybnost danou tvou rasou.
-
-**Jazyky:** Poznač si také jazyky získané výběrem rasy a povolání.
+Zaznač si všechny zvláštní schopnosti, které tvá postava získala výběrem rasy a povolání. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na jazyky a hybnost danou tvou rasou.
 
 ## 8. Nakup si výbavu
 
-Tvá postava (pokud nic nezdědila) začíná s bohatstvím ve výši *3k6 * 10 stříbrných*. Za které si může nakoupit libovolnou výbavu z tabulek v kapitole [Vybavení a nosnost](/Gear/#vybaveni-a-nosnost).
-
-!!! warning "Pozor: Omezení na výbavu"
-	Tvé povolání může mít omezení vztahující se k výbavě, kterou můžeš používat.
+Tvá postava (pokud nic nezdědila) začíná s bohatstvím ve výši *3k6 * 10 stříbrných*. Za které si může nakoupit libovolnou výbavu z tabulek v kapitole [Vybavení a nosnost](/Gear/#vybaveni-a-nosnost). Pozor na tvé povolání a rasu, které mohou uvalovat restrikce na výbavu, kterou můžeš koupit nebo používat.
 
 !!! warning "Pozor: Rozdělení předmětů"
-	Dbej na rozdělení předmětů na vybavené a uschované pokud je to třeba.
+	Dbej na rozdělení předmětů na vybavené a uschované.
 
 ## 9. Poznač si obranné číslo
 
-Obranné číslo tvé postavy je stanoveno dvěma faktory. A to *brněním*, které sis vybral v předchozím kroku a modifikátorem *zručnost*.
+Obranné číslo tvé postavy je stanoveno dvěma faktory. A to *brněním*, které sis vybral v předchozím kroku a modifikátorem *zručnosti*.
 
 **Obranné číslo bez brnění**
 Pokud tvá postava nemá žádné brnění, její základní *OČ* je *10* (Před modifikací zručností)
 
-## 10. Poznač si úroveň a zkušenostní body
+## 10. Poznač si úroveň, zkušenostní body a pojmenuj svou postavu
 
-Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1*, *0 zkušenostními body* a cílem *10 zkušenostních bodů* do další úrovně.
+Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1* s *0 zkušenostními body* a cílem *10 zkušenostních bodů* do další úrovně. Když máš vše hotové dej své postavě jméno.
 
-## 11. Pojmenuj svou postavu
+## 11. Myšlenky a historické vazby
 
-A konečně, vyber jméno pro svou postavu. Hurá! Nyní si připraven/a na dobrodružství!
+Každá postavy by měla mít myšlenky, které ji definují a historické vazby, které ji kotví do společného světa.
 
-## 12. Vymysli si původ (Optional)
+### Myšlenky
 
-==přepsat na bond systém podobný 5e==
+Hráč by si pro svou postavu měl definovat *1 až 2* významné myšlenky, které *zastává* a také *1 až 2* významné myšlenky, kterými *opovrhuje*. Tyto myšlenky je dobré definovat již při tvorbě postavy avšak lze je průběhu kampaně měnit v závislosti na událostech ve hře. 
 
-Někteří hráči mohou chtít o svých postavách vědět něco víc než jen jakou mají sílu a odolnost a zda se umí ohánět mečem nebo sekerou. Takoví hráči si mohou vytvořit krátký příběh o původu své postavy. Tento příběh by měl ale splňovat následující body.:
+### Vazby
 
-- **Hratelný:** Tvůj příběh by měl být tzv. "hratelný". Nezapomeň do něj zakomponovat věci, které si myslíš že by mohli být relevantní pro aktuální kampaň a které by PJ mohl použít. Dobré je třeba propojit svůj příběh s herním světem. Například, že se tvá postava zná s nějakým relevantním NPC nebo že třeba byl/je členem nějaké významné frakce. 
-- **Krátký a k věci:** Tvůj příběh by měl být krátký a k věci. Odstavec, maximálně 2 jsou více jak dostačující. Úplně nejlepší je prezentovat svůj příběh formou odrážek. Nikdo nebude číst několika stránkové stěny textu. 
-- **Ne-heroický:** Hrdinou se člověk nenarodí, ale stane. Hrdinství je něco, co si tvá postava musí zasloužit během hry. Nedává tedy smysl, aby příběh o původu tvé postavy byl plný velkých činů a slávy.
+Hráčova postava by také měla mít *3* historické vazby na svět ve kterém se dobrodružství odehrává. Vazba může být na *místo*, *postavu* (klidně i jiného hráče) či *událost*. Mimo vazby samotné je třeba však i definovat náturu vazby. Například: "Znám alchymistu co bydlí tady kousek, ale dlužím mu peníze." Vazby lze ve spolupráci s PJ definovat předem nebo jejich existenci definovat při hře samotné.
 
-!!! note "Bonusy za původ"
-    PJ může postavě poskytnout extra výbavu či speciální schopnosti v závislosti na popsaném původu.
+!!! note "PJ a historické vazby"
+    PJ má plnou pravomoc kteroukoliv vazbu zamítnout nebo dokonce vyžadovat definici vazeb předem. Pokud se necítí komfortně s takovým stupněm improvizace.
 
----
-
+!!! note "Bonusové zkušenosti za původ a vazby"
+    PJ může hráčům rozdávat extra zkušenostní body za zajímavé situace vzniklé příčinou myšlenek nebo historických vazeb postav.

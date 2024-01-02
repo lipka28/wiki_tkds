@@ -17,7 +17,7 @@
 **Vyhodnocení trvajících efektů:** Pokud má na sobě stvoření nějaký efekt, který má specifikované trvání, tak se efekt chová následovně. Pokud má efekt trvání 1 kolo nebo delší, tak aplikuje svůj efekt a sníží své trvání o 1 kolo. 
 
 !!! note "Příklad: Hoří!"
-    Cíl, který hoří 2 kola jako následek zásahu hořící lahvičkou oleje. Obdrží na začátku svého prvního tahu *1k8* poškození a trvání efektu se sníží ze *2* na *1*. Na začátku svého druhého tahu obdrží opět *1k8* poškození a trvání efektu se sníží na *0*.
+    Cíl, který hoří 2 kola jako následek zásahu hořící lahvičkou oleje. Obdrží na začátku svého prvního tahu *1k8* poškození a trvání efektu se sníží ze *2* na *1*. Na začátku svého druhého tahu obdrží opět *1k8* poškození a trvání efektu se sníží na *0*. Tím efekt končí.
 
 **Morálka:** Stvoření mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se dát na ústup nebo se vzdát. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. V případě neúspěchu stvoření většinou uteče nebo se vzdá. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti. 
 

@@ -10,11 +10,11 @@ Zkušenosti , společně s úrovní, jsou hlavní reprezentací rozvoje postavy 
 
 Zkušenosti jsou postavám přiděleny na základě všelijakých aktivit ve hře. Většinou v rozsahu *1 - 3 zk* za aktivitu. Zkušenosti mohou být přiděleny buď na konci sezení nebo v průběhu. Příklady takových aktivit jsou: 
 
-- *1 zk* -  prozkoumání místnosti v kobce; objevení zajímavé lokace; za každých 1000 st získaného pokladu; vyřešení hádanky, pasti nebo krátkého či jednoduchého úkolu; potyčka adekvátní obtížnosti (úrovně stran jsou vyrovnány) atd.. 
+- *1 zk* -  objevení zajímavé lokace; za každých 1000 st získaného pokladu; vyřešení hádanky, pasti nebo krátkého či jednoduchého úkolu; potyčka adekvátní obtížnosti (úrovně stran jsou vyrovnány) atd.. 
 - *2 zk* - získání magického předmětu; dokončení úkolu; obtížný souboj (úroveň skupiny nepřátel > úroveň postav). 
 - *3+ zk* - dokončení rozsáhlého úkolu; souboj s velmi silným monstrem (úroveň skupiny nepřátel >>> úroveň postav).
 
-**Dělení zkušeností:** Zkušenosti se mezi postavami nijak nedělí. Všichni kdo se zúčastnili daného sezení obdrží plný obnos zkušeností. 
+**Dělení zkušeností:** Zkušenosti ze získaného pokladu se dělí rovným dílem mezi všechny hráčské postavy, účastnících se jeho získání. Ostatní zkušenostní body se nedělí. Každý hráč obdrží plný obnos.
 
 **Extra odměna:** PJ může odměnit specifické hráče extra zkušenostními body, aby odměnil určitá chování při hře. 
 
@@ -22,10 +22,10 @@ Zkušenosti jsou postavám přiděleny na základě všelijakých aktivit ve hř
 
 ### Dosažení nové úrovně 
 
-Když postava získá dostatečné množství zkušenostní, aby dosáhla na novou úroveň svého povolání. Hráč, po dosažení nové úrovně, by si měl překontrolovat informace ke svému povolání zda neobdržel nějaké nové bonusy nebo schopnosti.
+Když postava získá dostatečné množství zkušenostní, aby dosáhla na novou úroveň svého povolání. Hráč by si měl překontrolovat informace ke svému povolání zda neobdržel nějaké nové bonusy nebo schopnosti.
 
 !!! example "Volitelné pravidlo: Vyšší jak maximální úroveň"
-	Dosáhne-li postava maximální (10.) úrovně. Může i nadále pokračovat v získávání zkušeností a nových úrovní. Avšak všechny schopnosti, které se nějakým způsobem vylepšují s postupem na novou úroveň, končí 10. úrovní. Výjimkou jsou životy, které i na dále rostou rychlostí +1 za každou dosaženou úroveň nad 10 (nemodifikuje se výdrží). 
+	Dosáhne-li postava maximální (10.) úrovně. Může i nadále pokračovat v získávání zkušeností a nových úrovní. Avšak všechny schopnosti, které se nějakým způsobem vylepšují s postupem na novou úroveň, končí 10. úrovní. Výjimkou jsou životy, které i na dále rostou rychlostí *+1* za každou dosaženou úroveň nad 10 (nemodifikuje se výdrží). 
 
 ## Tabulka postupu na další úroveň
 
@@ -41,4 +41,4 @@ Když postava získá dostatečné množství zkušenostní, aby dosáhla na nov
 |        8        |        1200         |
 |        9        |        1800         |
 |       10        |        3000         |
-| 10+ (Volitelné) |        +1000        |
+| 10+ (Volitelné) |        +1200        |
