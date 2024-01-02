@@ -272,7 +272,11 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 | 2 nebo méně | Nepřátelský, zaútočí       |           Negativní            |
 | 3 - 5       | Nepřátelský, může zaútočit | Neutrální, příklon k negativní |
 | 6 - 8       | Neutrální, nejistý         |     Neutrální (zkus znovu)     |
-| 9 - 11      | Lhostejný                  | Neutrální, příklon k pozitivní |
+| 9 - 11      | Lhostejný, může vyjednávat | Neutrální, příklon k pozitivní |
 | 12 +        | Přátelský, nápomocný       |           Pozitivní            |
 
 **Konec setkání:** Předpokládá se, že náhlá setkání (včetně bojů) trvají nejméně *1 směnu* a zaokrouhlují se k nejbližší směně nahoru. Je brán v potaz čas na odpočinek po boji, čištění výzbroje, obvázání ran a podobných aktivit.
+
+## ==Únika pronásledová==
+
+Dopsat pravidla úniku dle ose nebo dolmenwoodu (str 165).

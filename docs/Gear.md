@@ -60,28 +60,62 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 
 ## Zbraně
 
-Zbraně se dělí do 3 základních kategorií. Kategorie jsou přibližně rozděleny podle velikosti zbraně a efektivního dosahu. Kategorie jsou následující:
+Zbraně se dělí do 2 základních kategorií. Zbraně na blízku a zbraně na dálku. Zbraně na blízku umožňují boj s nepřáteli vzdálených ne více než 1 metr a zbraně na dálku umožňují zasáhnou nepřátele ve vzdálenosti 2 metry a více. Tyto 2 kategorie jsou dále děleny dle velikosti a u zbraní na dálku také dle dostřelu.
 
-- **Neozbrojený ** Ozbrojené útoky na blízko proti neozbrojenému cíli jsou vždy s výhodou. Neplatí pro postavy, které jsou výslovně trénované v neozbrojeném boji.
+### Velikost
+
 - **Malá** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Obecně je tento typ zbraní velmi nenápadný.
-- **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní. Některé lze také použít i jako obouruční s vyšší kostkou poškození (1k6 -> 1k8). V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
-- **Velká dlouhá** - Tyto zbraně jsou dlouhé a mají tedy vyšší dosah ale nižší kostku poškození než jiné velké zbraně. Dosah je o 1 metr větší než u normálních zbraní. Tyto zbraně jsou vždy obouruční.
-- **Velká** -  Nejničivější typ zbraní. Tyto zbraně jsou vždy obouruční. Použití v úzkých prostorech může způsobovat postihy nebo nemusí být vůbec možné.
+- **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou zbraní. Některé střední zbraně na blízku lze také použít jako obouruční s vyšší kostkou poškození a bonusem +1. V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
+- **Velká** -  Nejničivější nebo typ zbraní. Tyto zbraně jsou vždy obouruční a jejich verze na blízku mají bonus +1 k poškození. Použití v malých prostorech může způsobovat postihy nebo nemusí být vůbec možné.
+- **Dlouhá** - Tato kategorie se týká pouze zbraní na blízku. Tyto zbraně jsou jako velké zbraně obouruční a poskytují bonus +1 k poškození. Dlouhé zbraně umožňují zasáhnout nepřítele až na 2 metry.
 
-Tato kategorizace je také důležitá v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: **neozbrojený** <**malá** < **střední** < **velká** < **velká dlouhá** < **hozená** < **střelná** (u střelných zbraní pak mají přednost zbraně využívající střelný prach)
+Tato kategorizace je také důležitá v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: **neozbrojený** < **malá** < **střední** < **velká** < **dlouhá** < **hozená** < **střelná** (u střelných zbraní pak mají přednost zbraně využívající střelný prach)
 
-!!! note "Nezáleží jakou zbraň máš ale jak ji využiješ"
+!!! note "Důležité je využití zbraně"
 	Za kreativní popisy využití svých zbraní, může PJ poskytnout různé bonusy a výhody nebo dokonce umožnit speciální akci s danou zbraní. Záleží jen na hráčově kreativitě.
+
+### Dostřel
+
+==dostřel==
+
+**Hození zbraně:** Postava může zaútočit hozením zbraně (u které to dává smysl), do efektivní vzdálenosti danou její hodnotou síly (Poblíž). K poškození se navíc pak připočítává její modifikátor síly.
+
+### Střelný prach
+
+==asd==
+
+
 
 ### Zbraně na blízku
 
-| ZBRAŇ        | CENA  | VÁHA |  POŠKOZENÍ  | PŘÍKLADY ZBRANÍ                                       |
-| :----------- | :---: | :--: | :---------: | :---------------------------------------------------- |
-| Neozbrojený  |   -   |  -   |     1k2     | Údery pěstí, kopance a jiné                           |
-| Malá         | 5 st  |  1   |     1k4     | bajonety, boxery, nože...                             |
-| Střední      | 15 st |  2   | 1k6 - (1k8) | bojové hole, meče, oštěpy, palice, palcáty, sekery... |
-| Velká dlouhá | 25 st |  4   |    1k10     | halapartny, kopí, trojzubce...                        |
-| Velká        | 40 st |  3   |    1k12     | obouruční meče a sekery, válečná kladiva...           |
+| Název zbraně        | Typ zbraně |  Poškození   | Váha  | Cena  |
+| :------------------ | :--------: | :----------: | :---: | :---: |
+| Bajonet             |    Malá    |    1k4+1     | 1 (0) | 10 st |
+| Bič                 |    Malá    |     1k2      |   1   | 5 st  |
+| Bojová hůl          |  Střední   |    1k6+1     |   2   | 10 st |
+| Cep (ignore shield) |  Střední   |     1k6      |   2   | 15 st |
+| Dlouhý meč          |  Střední   |  1k6/1k8+1   |   2   | 25 st |
+| Halapartna          |   Dlouhá   |    1k8+1     |   3   | 20 st |
+| Hůl                 |  Střední   |    1k4+1     |   2   | 1 st  |
+| Kopí                |   Dlouhá   |    1k8+1     |   3   | 12 st |
+| Kosa                |   Velká    | 1k10+1 (nev) |   3   | 5 st  |
+| Krátké kopí         |  Střední   |     1k6      |   2   | 2 st  |
+| Krátký meč          |    Malá    |     1k6      |   1   | 15 st |
+| Nůž                 |    Malá    |     1k4      |   1   | 3 st  |
+| Obou-ruční meč      |   Velká    |    1k10+1    |   3   | 30 st |
+| Obušek              |    Malá    |     1k2      |   1   | 5 st  |
+| Palcát              |  Střední   |  1k6/1k8+1   |   2   | 15 st |
+| Palice              |    Malá    |     1k4      |   1   | 3 st  |
+| Sekyra              |  Střední   |  1k6/1k8+1   |   2   | 12 st |
+| Sekyrka             |    Malá    |     1k4      |   1   | 4 st  |
+| Síť                 |  Střední   |      0       |   2   | 5 st  |
+| Stříbrný nůž        |    Malá    |     1k4      |   1   | 30 st |
+| Šakram              |    Malá    |     1k4      |   1   | 10 st |
+| Škrtící drát        |    Malá    |     1k4      |   1   | 1 st  |
+| Válečná sekera      |   Velká    |    1k10+1    |   3   | 30 st |
+| Válečné kladivo     |   Velká    |    1k10+1    |   3   | 30 st |
+
+==dopsat speciální efekty==
 
 ### Střelné zbraně
 
@@ -95,34 +129,51 @@ I střelné zbraně jsou řazeny do stejných kategorií jako zbraně na blízku
 
 **Nabíjecí zbraně:** Některé zbraně, jako například kuše či muškety, mohou vyžadovat přebíjení. Přebíjení zabírá celé kolo a nelze se při něm hýbat či útočit. Nabíjecí zbraně mívají vyšší kostku poškození, než jejich stejně velký nenabíjecí ekvivalent.
 
-**Střelný prach**: Některé kampaně mohou předpokládat existenci křesadlových střelných zbraní. Ve starém světě jsou střelné zbraně dostupné pouze lidem a trpaslíkům. Pro střelné zbraně platí následující pravidla:
-
-- **Poškození:** Křesadlové zbraně jsou nejsilnější z nabíjecích zbraní.
-- **Náchylnost na vlhkost:** Jsou náchylné na vlhkost a nevhodné podmínky mohou zvýšit jejich šanci na selhání.
-- **Dostřel:** Křesadlové zbraně jsou velmi nepřesné na větší vzdálenosti. Nelze se s nimi trefit na větší jak efektivní vzdálenost.
-- **Selhání:** Při hodu *NAT 1 až 3* na zásah křesadlová zbraň selže. Takovou zbraň je třeba 1 směnu čistit čistící sadou, aby byla znovu použitelná. 
-
 !!! Warning "Selhání s výhodou a nevýhodou"
     Výhoda a nevýhoda má nežádoucí vliv na pravděpodobnost selhání křesadlové zbraně. V případě, že je tedy křesadlová zbraň použita s výhodou nebo nevýhodou, je třeba na selhání brát v potaz jen první hozenou kostku.
 
 !!! warning "Pozor: Omezení na střelný prach"
 	Ve starém světě mají ke střelným zbraním na střelný prach přístup pouze lidé a trpaslíci.
 
-| ZBRAŇ                            |  CENA  | VÁHA | POŠKOZENÍ  | PŘÍKLADY ZBRANÍ                 |
-| :------------------------------- | :----: | :--: | :--------: | :------------------------------ |
-| Malá střelná                     | 20 st  |  1   | 1k4 - 1k6  | praky, příruční kuše...         |
-| Malá střelná na střelný prach    | 80 st  |  1   |    1k8     | bambitky...                     |
-| Střední střelná                  | 40 st  |  2   | 1k6 - 1k8  | kuše, luky...                   |
-| Střední střelná na střelný prach | 120 st |  2   |    1k10    | houfnice, muškety...            |
-| Velká střelná                    | 80 st  |  3   | 1k8 - 1k10 | dalekonosné luky, těžké kuše... |
-| Velká střelná na střelný prach   | 160 st |  3   |    1k12    | těžké muškety...                |
+| Název zbraně          | Typ zbraně | Dostřel  | Poškození     | Váha | Cena   |
+| --------------------- | ---------- | -------- | ------------- | ---- | ------ |
+| Bambitka              | Malá       | Krátký!  | 1k6+1         | 1    | 80 st  |
+| Bola                  | Malá       | Hozený   | 1k2           | 1    | 3 st   |
+| Dalekonosný luk       | Velká      | Daleký   | 1k8           | 3    | 40 st  |
+| Dvouhlavňová bambitka | Malá       | Krátký!  | 1d6+1 (výh)   | 1    | 100 st |
+| Flusačka              | Malá       | Hozený   | 0             | 1    | 5 st   |
+| Houfnice              | Střední    | Krátký!  | 1k6+1 rozptyl | 2    | 140 st |
+| Kuše                  | Střední    | Střední  | 1k6+1         | 2    | 40 st  |
+| Luk                   | Střední    | Střední  | 1k6           | 2    | 20 st  |
+| Mušketa               | Střední    | Střední! | 1k8+1         | 2    | 120 st |
+| Prak                  | Malá       | Krátký   | 1k2           | 1    | 2 st   |
+| Příruční kuše         | Malá       | Krátký   | 1k4+1         | 1    | 20 st  |
+| Těžká kuše            | Velká      | Daleký   | 1k8+1         | 3    | 60 st  |
+| Těžká mušketa         | Velká      | Daleký!  | 1k10+1        | 3    | 160 st |
+| Zápalný granát        | Malá       | Hozený   | 2d6 oblast    | 1    | 50 st  |
+
+==dopsat speciální efekty==
 
 ### Munice
 
-| MUNICE                         | VÁHA | CENA  |
-| :----------------------------- | :--: | :---: |
-| Munice (20 ks)                 |  1   | 10 st |
-| Munice a střelný prach (10 ks) |  1   | 30 st |
+| Název munice                         | Váha  | Cena            |
+| ------------------------------------ | ----- | --------------- |
+| Kámen do praku (1)                   | L     | Zdarma          |
+| Náboje (Pytlík s 10-ti kuličkami)    | 1     | 10 st (1 st/ks) |
+| Postříbřený šíp / šípka / náboj      | L (0) | 5 st            |
+| Roh munice do houfnice (5 použití)   | 1     | 20 st           |
+| Roh střelného prachu (5 použití)     | 1     | 10 st           |
+| Soudek střelného prachu (50 použití) | 3     | 100 st          |
+| Šíp "Kladivoun"                      | L (0) | 2 md / ks       |
+| Šíp "Otvírák"                        | L (0) | 1 st / ks       |
+| Šíp s lankem                         | 1     | 5 st / ks       |
+| Šíp s loveckým hrotem                | L (0) | 1 st / ks       |
+| Šipky do kuše (Pouzdro 20-ti šipek)  | 1     | 10 st (5 md/ks) |
+| Šípy (Toulec 20-ti šípů)             | 1     | 4 st (2 md/ks)  |
+| Výbušný šíp                          | 1     | 150 st / ks     |
+| Zápalný šíp                          | 1     | 5 md / ks       |
+
+==dopsat speciální efekty==
 
 ## Výbava dobrodruha
 

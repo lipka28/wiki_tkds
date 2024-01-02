@@ -1,11 +1,11 @@
 # Pravidla boje
 
-## Souboje
+## Souboje 
 
 | BOJOVÁ SEKVENCE KAŽDÉ KOLO                                   |
 | :----------------------------------------------------------- |
 | *0. Iniciativa:* Každá strana hodí *1k10*. (remíza jde ve prospěch hráčů) |
-| *1. Vítězná strana je na řadě:*<br /> a. Kontrola morálky monster (je-li třeba)<br /> b. Odehrání tahu |
+| *1. Vítězná strana je na řadě:*<br /> a. Vyhodnocení dlouho trvajících efektů a Morálky (je-li třeba)<br /> b. Odehrání tahu <br /> - b1. Dlouhé akce<br /> - b2. Pohyb<br /> - b3. Běžné akce |
 | *2. Ostatní strany jsou na řadě:* V pořadí iniciativy        |
 | *3. Zpět na krok 1 dokud není souboj ukončen.*               |
 
@@ -14,28 +14,38 @@
 - *Vítěz:* Strana s nejvyšším hodem táhne první, ostatní táhnou v pořadí od nejvyššího hodu po nejnižší.  
 - *Remíza:* Remíza jde ve prospěch hráčů. 
 
-**Morálka:** Monstra mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se dát na ústup nebo se vzdát. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. V případě neúspěchu stvoření většinou uteče nebo se vzdá. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti. 
+**Vyhodnocení trvajících efektů:** Pokud má na sobě stvoření nějaký efekt, který má specifikované trvání, tak se efekt chová následovně. Pokud má efekt trvání 1 kolo nebo delší, tak aplikuje svůj efekt a sníží své trvání o 1 kolo. 
+
+!!! note "Příklad: Hoří!"
+    Cíl, který hoří 2 kola jako následek zásahu hořící lahvičkou oleje. Obdrží na začátku svého prvního tahu *1k8* poškození a trvání efektu se sníží ze *2* na *1*. Na začátku svého druhého tahu obdrží opět *1k8* poškození a trvání efektu se sníží na *0*.
+
+**Morálka:** Stvoření mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se dát na ústup nebo se vzdát. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. V případě neúspěchu stvoření většinou uteče nebo se vzdá. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti. 
 
 !!! note "Příklad: Zvraty v boji"
     Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
 
-**Odehrání tahu:** Postavy v dané skupině odehrávají svůj tah naráz. Pokud jsou to hráči mohou se mezi sebou domlouvat a vymýšlet strategie. Postava může během svého tahu udělat takřka cokoliv co by se vešlo do 6-ti vteřin reálného času. Musí však dodržet následující *omezení:*
+**Odehrání tahu:** Stvoření v dané skupině odehrávají svůj tah naráz. Rozdělen do 3 fází. Každý v dané skupině musí odehrát nebo přeskočit danou fázi, aby se mohla začít vyhodnocovat fáze další. Fáze jsou následující:
 
-- Během kola se může postava pohnout maximálně do vzdálenosti své hybnosti. 
-- Provést pouze 1 akci.
+- **Dlouhá akce:** Stvoření ve skupině mohou začít provádět svou dlouhou akci. Za dlouhé akce se považují akce, které zabírají celé kolo. Například sesílání kouzla, či vybavení předmětu z inventáře. Alternativně stvoření, které chtějí provést svou běžnou akci před pohybem, mohou tak udělat.
+- **Pohyb:** Stvoření neprovádějící dlouhou akci se může pohnout až o svou hybnost. (Mimo stvoření, která jsou ve vzájemném ohrožení.)
+- **Běžná akce:** Stvoření, která ještě tak neučinili, mohou provést své běžné akce. Za běžnou akci je považován například útok, či použití vybaveného předmětu.
 
-!!! note "Co se počítá jako akce?"
-    Jako akce se počítají jakákoliv mechanicky významná aktivita.  Nejčastějšími akcemi jsou: útok (ve zvláštních případech i více útoků), sesílání kouzla a manipulace předmětů (výměna zbraní, přebití, použití svitku atd.). 
+!!! Example "Varianta pravidla: Popořadě"
+    Ve hrách, kde mají hráči omezenou schopnost komunikovat (Například při hraní v chatu přes Discord). Je v zájmu zrychlení boje vhodné, aby si hráč odehrál všechny své fáze. Než se dostane na tah další hráč.
 
-**Pohyb:** Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Pohyb obtížným terénem stojí dvojnásobek hybnosti. Například plavání, brodění se, šplhání a podobné. Pohyb je také možné kombinovat s dalšími akcemi.
+**Pohyb:** Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Včetně drobných manipulací prostředí, jako je otevření dveří či převrácení stolu pro krytí. Některé druhy pohybu či pohyb na specifickém terénu, může aplikovat postihy hybnosti.
 
-**Vzájemné ohrožení:** Stvoření, které provedlo nebo na které byla provedena útočná akce na blízku. Je ve s daným stvořením ve vzájemném ohrožení. Pro všechna stvoření ve vzájemném ohrožení platí následující omezení:
+**Vzájemné ohrožení:** Stvoření, které provedlo nebo na které byla provedena útočná akce na blízku. Je s daným stvořením ve vzájemném ohrožení. Pro všechna stvoření ve vzájemném ohrožení platí následující omezení:
 
-- *Útoky na dálku* - Vyžadují hod s *HU 4* jinak selžou (Automaticky mine)
-- *Používání nebo manipulace s předměty* - Vyžadují hod s *HU 4* jinak se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
-- *Čarování kouzel* - Vyžaduje hod s *HU 4*, aby se kouzlo povedlo seslat.
-- *Strategický pohyb* - Stvoření se může pohnout pouze po obvodu svých soupeřů. Nesmí se však od žádného z nich vzdálit.
-- *Útěk* - Stvoření se může vyvázat z boje na blízku tím, že obětuje v daném kole svou akci. Může se pak pohybovat svou plnou rychlostí mimo dosah nepřítele.
+- *Útoky na dálku* - Mají šanci 3 z 6-ti že automaticky minou.
+- *Používání nebo manipulace s předměty* - Mají šanci 3 z 6-ti že se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
+- *Čarování kouzel* - Má šanci 3 z 6-ti že se kouzlo povedlo seslat.
+- *Strategický pohyb* - Stvoření se může pohnout polovinou své maximální hybnosti. Lze se tak vyvázat ze vzájemného ohrožení. 
+- *Útěk* - Stvoření se vzdá své akce a může se pohybovat svou plnou rychlostí. Do začátku příštího tahu stvoření probíhají všechny útoky proti stvoření s bonusem +2 na zásah. Pokud má stvoření štít, tak jeho bonus do OČ se na tyto útoky nevztahuje.
+- *Obklíčení* - Pokud je stvoření ve vzájemném ohrožení se *3-mi* nebo více nepřáteli. tito nepřátelé mají bonus *+1* na zásah stvoření. Neplatí u výrazně větších stvoření. 
+
+!!! Example "Varianta pravidla: Flanking"
+    Pokud se k odehrání bojů používá strategická čtvercová síť. Lze nahradit pravidlo *obklíčení* variantou *flanking*. Ke *flanku* dochází stojí-li nepřítel mezi dvěma naproti sobě stojícím spojencům, kteří ně něj útočí z blízka. Přesně řečeno. Pokud nakreslená linka vedoucí ze středu dvou tokenů spojenců. Protíná dva protilehlé rohy čtverců nebo dvě protilehlé stěny čtverců, na kterém stojí token nepřítele. Mají tito dva spojenci bonus +2 k zásahu nepřítele. Opět neplatí pro výrazně větší nepřátele.
 
 **Dosah útoků:** Dosah útoku je dán velikostí zbraně. U zbraní na blízku u kterých dává smysl házení je maximální vzdálenost hodu dána sílou nositele.
 
@@ -59,7 +69,7 @@
 
 **Kritický neúspěch (Optional):**  PJ může při hodu přirozené *1* počastovat postavu adekvátním avšak ne příliš zdrcujícím trestem. Pokud se nic nedaří vymyslet. Při útoku na blízko lze ke zbrani útočníka přičíst *"rýhu"*. Pokud zbraň nasbírá *3 rýhy*. *Zbraň se rozbije*. Při střelbě pak postava může zasáhnout libovolný cíl v cestě (mimo původního cíle) a udělit mu poloviční poškození. Kritické neúspěchy se nemohou stát se zbraní kvality +2 a výše.
 
-**Nezranitelnost:** Některá stvoření jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje poškození. Monstra 5. a vyšší úrovně jsou imunní vůči nemagickému poškození. Mohou však být zraněna dalšími monstry 5. nebo vyšší úrovně.
+**Nezranitelnost:** Některá stvoření jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje poškození.
 
 | HODY NA ÚTOK                                                 |
 | :----------------------------------------------------------- |
@@ -87,20 +97,11 @@
 
 **Sprint:** Stvoření může v daném kole obětovat své akce a tím se pohybovat až dvojnásobkem své hybnosti.
 
-**Hození zbraně:** Postava může zaútočit hozením zbraně (u které to dává smysl), do efektivní vzdálenosti danou její hodnotou síly (Poblíž). K poškození se navíc pak připočítává její modifikátor síly.
-
 **Improvizované zbraně:** Použití improvizované zbraně působí stejné poškození jako neozbrojený útok (1k2). Avšak neuděluje postih za boj beze zbraně.
 
 **Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus +1 do zásahu, poškození a OČ. 
 
 **Bojové manévry:** Stvoření si může na místo poškození svou zbraní vybrat, že provede bojový manévry. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci. Hráč musí deklarovat použití manévru na místo útoku předem. *Útočník i obránce* provedou *hod na zásah* včetně aplikovatelných modifikátorů. Ten kdo *přehodí výsledek soupeře aspoň o 5*, obdrží výsledný efekt manévru.
-
-**Reflexivní blokování štítem: ==Move to fighter exclusive==** asd
-
-**Obklíčení:** Pokud je jedinec v boji na blízko aspoň se 3-mi nepřáteli. Všichni tito nepřátelé mají bonus +1 na zásah.
-
-!!! note "Velikost"
-    Obklíčení neplatí na výrazně větší jedince.
 
 **Shození na zem:** Je-li stvoření shozeno na zem, tak všechny útoky na blízku proti němu probíhají s výhodou. Pokud se shozené stvoření pokusí útočit tak jeho útoky probíhají s nevýhodou. Kdokoliv se může zdarma vyvázat z boje na blízku se shozeným stvořením. *Postavení se zpět na nohy*, stojí stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem platí do začátku dalšího tahu od chvíle, kdy se stvoření postavilo.
 
