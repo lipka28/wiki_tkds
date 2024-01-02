@@ -26,9 +26,9 @@
 
 **Odehrání tahu:** Stvoření v dané skupině odehrávají svůj tah naráz. Rozdělen do 3 fází. Každý v dané skupině musí odehrát nebo přeskočit danou fázi, aby se mohla začít vyhodnocovat fáze další. Fáze jsou následující:
 
-- **Dlouhá akce:** Stvoření ve skupině mohou začít provádět svou dlouhou akci. Za dlouhé akce se považují akce, které zabírají celé kolo. Například sesílání kouzla, či vybavení předmětu z inventáře. Alternativně stvoření, které chtějí provést svou běžnou akci před pohybem, mohou tak udělat.
-- **Pohyb:** Stvoření neprovádějící dlouhou akci se může pohnout až o svou hybnost. (Mimo stvoření, která jsou ve vzájemném ohrožení.)
-- **Běžná akce:** Stvoření, která ještě tak neučinili, mohou provést své běžné akce. Za běžnou akci je považován například útok, či použití vybaveného předmětu.
+- *Dlouhá akce:* Stvoření ve skupině mohou začít provádět svou dlouhou akci. Za dlouhé akce se považují akce, které zabírají celé kolo. Například sesílání kouzla, či vybavení předmětu z inventáře. Alternativně stvoření, které chtějí provést svou běžnou akci před pohybem, mohou tak udělat.
+- *Pohyb:* Stvoření neprovádějící dlouhou akci se může pohnout až o svou hybnost. (Mimo stvoření, která jsou ve vzájemném ohrožení.)
+- *Běžná akce:* Stvoření, která ještě tak neučinili, mohou provést své běžné akce. Za běžnou akci je považován například útok, či použití vybaveného předmětu.
 
 !!! Example "Varianta pravidla: Popořadě"
     Ve hrách, kde mají hráči omezenou schopnost komunikovat (Například při hraní v chatu přes Discord). Je v zájmu zrychlení boje vhodné, aby si hráč odehrál všechny své fáze. Než se dostane na tah další hráč.
