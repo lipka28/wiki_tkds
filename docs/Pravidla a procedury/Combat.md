@@ -45,7 +45,7 @@
 - *Obklíčení* - Pokud je stvoření ve vzájemném ohrožení se *3-mi* nebo více nepřáteli. tito nepřátelé mají bonus *+1* na zásah stvoření. Neplatí u výrazně větších stvoření. 
 
 !!! Example "Varianta pravidla: Flanking"
-    Pokud se k odehrání bojů používá strategická čtvercová síť. Lze nahradit pravidlo *obklíčení* variantou *flanking*. Ke *flanku* dochází stojí-li nepřítel mezi dvěma naproti sobě stojícím spojencům, kteří ně něj útočí z blízka. Přesně řečeno. Pokud nakreslená linka vedoucí ze středu dvou tokenů spojenců. Protíná dva protilehlé rohy čtverců nebo dvě protilehlé stěny čtverců, na kterém stojí token nepřítele. Mají tito dva spojenci bonus +2 k zásahu nepřítele. Opět neplatí pro výrazně větší nepřátele.
+    Pokud se k odehrání bojů používá strategická čtvercová síť. Lze nahradit pravidlo *obklíčení* variantou *flanking*. Ke *flanku* dochází stojí-li nepřítel mezi dvěma naproti sobě stojícím spojencům, kteří ně něj útočí z blízka. Přesně řečeno. Pokud nakreslená linka vedoucí ze středu dvou tokenů spojenců. Protíná dva protilehlé rohy čtverců nebo dvě protilehlé stěny čtverců, na kterém stojí token nepřítele. Mají tito dva spojenci bonus *+2* k zásahu nepřítele. Opět neplatí pro výrazně větší nepřátele.
 
 **Dosah útoků:** Dosah útoku je dán velikostí zbraně. U zbraní na blízku u kterých dává smysl házení je maximální vzdálenost hodu dána sílou nositele.
 
