@@ -4,18 +4,17 @@
 
 **Formace:** Před začátkem průzkumu by si hráči měli rozhodnout formaci, ve které budou postupovat. Například se hráči mohou rozhodnout, že budou postupovat ve formaci pyramidy. Obrněnec ve předu, čaroděj uprostřed  a 2 válečníci po stranách. Formaci lze kdykoliv změnit a dokonce lze definovat i různé formace pro různé situace. Jako třeba otevírání dveří, boj, průzkum atd.
 
-**Dělba pokladu a zkušeností:** Poklad z dobrodružství může být rozdělen mezi přeživší postavy v libovolném poměru na kterém se hráči domluví. Zkušenostmi jsou však vždy odměňováni všichni účastníci výpravy.
+**Dělba pokladu:** Poklad z dobrodružství může být rozdělen mezi přeživší postavy v libovolném poměru na kterém se hráči domluví. 
 
 ## Ověření dovednosti (Ability check)
 
-Nejasné situace může PJ řešit tím, že požádá hráče o hod na ověření dovednosti. Hod probíhá následovně: Hráč hodí 1k6 a přičte relevantní modifikátory, které lze na takovou aktivitu aplikovat. 
+Nejasné situace může PJ řešit tím, že požádá hráče o hod na ověření dovednosti. Hod probíhá následovně: Hráč hodí *1k6* a přičte relevantní modifikátory, které lze na takovou aktivitu aplikovat. 
 
 - *Větší rovno 4:* Pokud je výsledek větší nebo roven *4 (Hranice úspěchu - HU)*, tak je hod úspěšný. 
 - *Nižší než 4:* V případě nižších výsledků se jedná o neúspěch. 
 - *NAT 1 a NAT 6:* V případě přirozené *1* se vždy jedná o neúspěch  a v případě přirozených *6* se vždy jedná o úspěch.  
-- *Výhod a nevýhoda:* PJ může také na takový hod uvalit výhodu, nevýhodu nebo jiné bonusy čí postihy, dle dané situace.
+- *Bonusy a postihy:* PJ může také na takový hod uvalit výhodu, nevýhodu nebo jiné bonusy čí postihy, dle dané situace.
 - *Obtížnosti:* Obtížnost *4* je vhodná pro libovlné běžné situace s prvkem náhody. PJ však může usoudit, že je aktivita o kterou se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *5* a *6* pro těžkou a velmi těžkou aktivitu a *3* a *2* pro lehkou a velmi lehkou aktivitu. 
-- *Základní kompetence:* Pokud u postavy nelze předpokládat základní kompetenci a porozumění akce o kterou se pokouší a však i bez těchto znalostí je akce stále proveditelná. Obtížnost takové akce by měla být vždy *6* (háže se bez modifikování dovednostmi)
 
 ### Modifikátory
 
@@ -24,12 +23,14 @@ Na rozdíl od hodu 20 stěnou kostkou, kde se situační modifikátory pohybují
 !!! tip "Rada pro PJ: S ověřením dovednosti to nepřehánět."
     Přílišné spoléhání na ověření dovedností může mít neblahý efekt na průběh a zábavnost hry. Pokud se většina situací ve hře dá zredukovat na řešení za pomocí hodu kostkou můžete se rychle začít nudit. Hráči by měli být motivováni interagovat ze světem a hledat řešení v něm. To se ze strany PJ dá podpořit například tím, že pokud hráči přijdou s rozumným proveditelným plánem, jak vyřešit situaci. PJ by měl nechat plán proběhnout bez zbytečných hodů kostkou.
 
-!!! note "Základní kompetence"
+!!! note "Předpokládaná kompetence"
     Je dobré myslet na to, že hráčské postavy jsou především dobrodruzi. Měli by tedy zvládat základní věci, jako například nerušený šplh po laně nebo jízda na koni, bez zbytečných ověřovacích hodů. To samé platí pro základní kompetence vyplývající z jednotlivých povolání.
 
 ## Ověření schopnosti (Skill check)
 
-Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tím rozdílem, že nejsou vázána na žádnou dovednost a hranice úspěchu není 4, ale je stanovena zdrojem schopnosti (třeba povolání a úroveň postavy). Například tulákovo odemykání zámků. U spoustu schopností taktéž není možno předpokládat základní kompetence u postav, které nejsou v daném oboru trénované, takové postavy se o danou akci, vyžadující schopnost, pokusit.
+Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tím rozdílem, že nejsou vázána na žádnou dovednost a hranice úspěchu není 4, ale je stanovena zdrojem schopnosti (třeba povolání a úroveň postavy). Například zlodějova schopnost "manipuluj mechanizmus". U spousty schopností taktéž není možné předpokládat základní kompetence u postav, které nejsou v daném oboru trénované. Takové postavy se o danou akci většinou nemohou pokusit.
+
+**Základní kompetence:** Pokud u postavy nelze předpokládat základní kompetenci a porozumění akce o kterou se pokouší a však i bez těchto znalostí je akce stále proveditelná. Obtížnost takové akce by měla být vždy *6* (háže se bez modifikování dovednostmi)
 
 ### Základní schopnosti
 
@@ -49,7 +50,7 @@ Všichni dobrodruzi disponují 3-mi základními schopnostmi. Výchozí HU pro t
 
 ## Záchranné hody
 
-Všechny postavy a monstra mohou podstoupit záchranný hod aby se vyhnuli plnému efektu kouzel, pastí a jiných speciálních útoků.
+Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli plnému efektu kouzel, pastí a jiných speciálních efektů.
 
 **Typ záchranných hodů:** Každá postava má jednu univerzální hodnotu, která funguje jako hranice úspěchu záchranného hodu. Hod samotný je pak modifikován dovednostmi postavy v závislosti na efektu, který na postavu působí. Možné kategorie jsou následující:
 
@@ -64,7 +65,7 @@ Všechny postavy a monstra mohou podstoupit záchranný hod aby se vyhnuli plné
 !!! warning "Mapování B/X záchranných hodů"
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na výčet jiných záchranných hodů. Ty se mapují následovně: *Paralýza* = Proti síle, *Dech* / *Hůlky* = Na úhyb, *Smrt* / *Jed* = Proti smrti, *Kouzla* / *Hole* = Proti magii. Záchranný hod proti ovlivnění mysli přímo nezapadá do žádné B/X kategorie. PJ však může dle vlastního uvážení požadovat tento záchranný hod na efekty ovlivňující mysl.   
 
-**Hod záchranného hodu:** Když je postava ovlivněna efektem, který vyžaduje záchranný hod tak si hodí D20, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako univerzální hod. 
+**Hod záchranného hodu:** Když je postava ovlivněna efektem, který vyžaduje záchranný hod tak si hodí *1k20*, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako univerzální hod. 
 
 - *Větší rovno:* Pokud je výsledek větší nebo roven, zapsanému číslu tak je hod úspěšný. 
 - *Nižší:* V případě nižších výsledků se jedná o neúspěch. 
@@ -142,7 +143,7 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 
 **Smrt na únavu:** Pokud postava dosáhne únavy o hodnotě 7 nebo více musí podstoupit záchranný hod proti smrti nebo zemřít.
 
-**Zbavení se únavy:** Zbavení se únavy v divočině je ve směs nemožné. Je vyžadována buď pomoc magie a nebo strávit čas v civilizaci. Za každý den strávený v bezpečí civilizace je vyléčen 1 stupeň únavy. Při odpočinku v civilizaci nelze na únavu zemřít.
+**Zbavení se únavy:** Zbavení se únavy v divočině je ve směs nemožné. Je vyžadována buď pomoc magie a nebo strávit čas v civilizaci. Za každou noc strávenou v bezpečí civilizace je vyléčen 1 bod únavy. Při odpočinku v civilizaci nelze na únavu zemřít.
 
 ## Přenocování v divočině
 
@@ -154,7 +155,6 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 
 **Pokus o utáboření:** Při pokusu o utáboření musí postavy obstarat 3 základní potřeby k přežití: *jídlo, vodu a útočiště*. To udělají tak, že kolektivně hodí *3k6*. Kde každá d6 představuje jednu z těchto potřeb. 
 
-- *Speciální schopnosti:* Každá postava cestující s družinou, která disponuje speciálními schopnostmi pro přežití v divočině (napříkald stopování). Může poskytnou *+1* bonus k jednomu z hodů. Musí tak však deklarovat předem. 
 - *Kouzla:* Některé kouzla mohou úplně nahradit potřebu pro některý hod. V těchto případech může PJ hod prominout.  
 - *Hlídka a náhodná setkání:* Při táboření může v průběhu noci dojít k náhodným setkáním. Také se automaticky předpokládá, že se postavy střídají na hlídce.
 
@@ -183,7 +183,7 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 **Pohyb po světě:** Vzdálenost, kterou mohou postavy ujít za den, je dána pětinásobkem jejich hybnosti. Pro většinu postav je to tedy 30 kilometrů za den. A však rychlost skupiny je odvozena od nejpomalejšího člena skupiny. 
 
 - *Obtížný terén:* Pokud postavy cestují obtížným terénem, tak se pohybují o poloviční rychlostí. Takže například cestovat 10 mil bažinami je stojí 20 mil jejich hybnosti. 
-- *Cesty:* Cesty umožňuje pohyb i s vozem. 
+- *Cesty:* Cesta umožňuje pohyb i s vozem. 
 - *Cestování dnem i nocí:* Hráči se mohou rozhodnout, že chtějí cestovat dnem i nocí bez přestávky. To jim umožní, se během jednoho dne cestování posunout o polovinu vzdálenosti více. (např. 30 km -> 45 km). A však každá z postav obdrží 1 bod únavy. 
 
 **Ztráta směru:** Pokud hráči necestují po cestě nebo dle nějakého orientačního bodu. (Jako je třeba řeka, hora nebo podobné.) Existuje šance, že ztratí směr. Šance na ztrátu směru je *2 z 6-ti*. V *Obtížném terénu* pak *3 z 6-ti*. Postavy co ztratí směr se v průběhu dne cestování lehce odchýlí od svého směru putování.
@@ -195,11 +195,9 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 Alternativní metodou jak řešit cestování, je "rychlé cestování". Vhodné obzvlášť pokud hráči cestují někam kde už byli nebo prostě někam kam znají cestu.  
 
 - *Doba cesty:* Cesta se s touhle metodou neměří na kilometry ale na dny. PJ stanoví kolik dní bude cesta trvat. 
-- *Souhrnné poškození:* Během rychlého cestování se postihy kumulují jako souhrnné poškození, které si na konci cesty mezi sebou hráči rozdělí. 
 - *Zásoby:* Hráči zaplatí počet zásob odpovídající počtu cestujících "hladových krků" za každý den cesty.
 - *Nedostatek zásob:* Za každou zásobu, kterou hráči nemohou zaplatit se přičte 1 bod souhrnného poškození. 
-- *Náhodná setkání:* Pokud hráči cestují delší dobu než 5 dní, PJ hodí 1k4 na určení počtu setkání. Na kratší vzdálenost je setkání většinou 1. 
-- *Rozdělení poškození:* Na konci cesty si hráči mohou rozdělit nashromážděné souhrnné poškození v libovolném poměru mezi sebou. Pokud životy některého z nich klesne na 0, tak byl dotyčný po cestě zabit. Alternativně může hráč, za každé poškození co by ho posunulo na 0 životů, přijmout bod únavy.
+- *Náhodná setkání:* Pokud hráči cestují delší dobu než 5 dní, PJ hodí *1k4* na určení počtu setkání. Na kratší vzdálenost je setkání většinou 1. 
 
 ## Průzkum kobek
 
@@ -220,9 +218,9 @@ Alternativní metodou jak řešit cestování, je "rychlé cestování". Vhodné
 
 Když se hráči rozhodují co budou dělat mají na výběr v podstatě z nekonečno možností. Nejčastěji se však rozhodnou buď pro pohyb, prozkoumávání nebo odpočinek.
 
-**Průzkum:** Kobky obsahují spoustu ukrytých prvků. Jako jsou pasti, tajné dveře či ukryté poklady. Hráči mohou tyto ukryté prvky odhalit průzkumem. Hráč popíše svůj postup průzkumu a případné nástroje a jejich využití PJ. PJ vyhodnotí zda by hráčův postup skrytý prvek odhalil a sdělí hráči výsledek.
+**Průzkum:** Kobky obsahují spoustu ukrytých prvků. Jako jsou pasti, tajné dveře či ukryté poklady. Hráči mohou tyto ukryté prvky odhalit průzkumem. Hráč popíše svůj postup průzkumu a případné nástroje a jejich využití. PJ vyhodnotí zda by hráčův postup skrytý prvek odhalil a sdělí hráči výsledek.
 
-**Odpočinek:** Odpočívat lze maximálně jednou za 8 hodin průzkumu. Odpočinek trvá 8 - 12 hodin. Pokud postavy v posledních 24 hodinách neodpočívali, utrpí *1 bod únavy*.  Během odpočinku si postavy mohou udělat své každodenní přípravy a čarujícím postavám se doplní magická energie. 
+**Odpočinek:** Odpočívat lze maximálně jednou za 8 hodin průzkumu. Odpočinek trvá 8 - 12 hodin. Pokud postavy v posledních 24 hodinách neodpočívali, utrpí *1 bod únavy*.  Na konci odpočinku si postavy mohou udělat své každodenní přípravy.
 
 !!! note "Trvání akcí při průzkumu"
     Při průzkumu se předpokládá, že naprostá většina akcí zabere *1 směnu*.
@@ -277,6 +275,22 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Konec setkání:** Předpokládá se, že náhlá setkání (včetně bojů) trvají nejméně *1 směnu* a zaokrouhlují se k nejbližší směně nahoru. Je brán v potaz čas na odpočinek po boji, čištění výzbroje, obvázání ran a podobných aktivit.
 
-## ==Únika pronásledová==
+## Únik a pronásledování
 
-Dopsat pravidla úniku dle ose nebo dolmenwoodu (str 165).
+Pokud se hráči nebo monstrum nechce účastnit setkání nebo boje. Může se pokusit o únik.
+
+### Únik
+
+Rozhodne-li se stvoření uniknout ze setkání. Záleží na rozhodnutí protistrany zda chce pronásledovat. Pokud tak, například u NPC, není jasné ze situace. Může rozhodnutí proběhnout hodem na reakci.
+
+**Překvapení:** Pokud je protistrana překvapená. Únik automaticky uspěje.
+
+### Pronásledování
+
+Dojde-li na pronásledování, každá strana se pohybuje dvojnásobkem hybnosti v boji nejpomalejšího člena skupiny (pokud se nerozhodnou ho nechat napospas). Pj musí každé kolo pronásledování kontrolovat jaká je vzdálenost mezi pronásledovaným a pronásledovateli.
+
+**Konec pronásledování:** Pronásledování končí, pokud je pronásledovaný dohnán nebo když se pronásledovatel rozhodne to vzdát. U hloupějších monster stačí zmizet z dohledu.
+
+**Překážky a odvedení pozornosti:** Při útěku může provádět jednoduché akce. Jako je shazování polic, tahání za páky či odhazování předmětů co má dotyčný u sebe. Poklad (šance *3 z 6-ti*, že inteligentní monstrum přestane pronásledovat) a jídlo (šance *3 z 6-ti*, že hladové monstrum přestane pronásledovat) jsou pro tyto účely extra vhodné.
+
+ **Jiné akce:** Lze se pokusit o jiné akce. Jako třeba útok či sesílání kouzla. Avšak takové akce vyžadují zpomalení nebo úplné zastavení.

@@ -4,7 +4,7 @@
 
 **Požadavky:** -  
 
-**Vrozené jazyky:** Jazyk společenství
+**Vrozené jazyky:** Jazyk společenství + (Případný další jazyk pokud pochází z území mimo "objeveného" světa)
 
 **Hybnost:** 6 metrů 
 

@@ -54,21 +54,3 @@ Pokud tvá postava nemá žádné brnění, její základní *OČ* je *10* (Pře
 ## 10. Poznač si úroveň, zkušenostní body a pojmenuj svou postavu
 
 Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1* s *0 zkušenostními body* a cílem *10 zkušenostních bodů* do další úrovně. Když máš vše hotové dej své postavě jméno.
-
-## 11. Myšlenky a historické vazby
-
-Každá postavy by měla mít myšlenky, které ji definují a historické vazby, které ji kotví do společného světa.
-
-### Myšlenky
-
-Hráč by si pro svou postavu měl definovat *1 až 2* významné myšlenky, které *zastává* a také *1 až 2* významné myšlenky, kterými *opovrhuje*. Tyto myšlenky je dobré definovat již při tvorbě postavy avšak lze je průběhu kampaně měnit v závislosti na událostech ve hře. 
-
-### Vazby
-
-Hráčova postava by také měla mít *3* historické vazby na svět ve kterém se dobrodružství odehrává. Vazba může být na *místo*, *postavu* (klidně i jiného hráče) či *událost*. Mimo vazby samotné je třeba však i definovat náturu vazby. Například: "Znám alchymistu co bydlí tady kousek, ale dlužím mu peníze." Vazby lze ve spolupráci s PJ definovat předem nebo jejich existenci definovat při hře samotné.
-
-!!! note "PJ a historické vazby"
-    PJ má plnou pravomoc kteroukoliv vazbu zamítnout nebo dokonce vyžadovat definici vazeb předem. Pokud se necítí komfortně s takovým stupněm improvizace.
-
-!!! note "Bonusové zkušenosti za původ a vazby"
-    PJ může hráčům rozdávat extra zkušenostní body za zajímavé situace vzniklé příčinou myšlenek nebo historických vazeb postav.

@@ -4,6 +4,10 @@
 
 *asd* ==upravit==
 
+*Zloději jsou nepředvídatelní oportunisti žijící na okraji společnosti. Za pomocí svých šikovných rukou a hbitých reflexů, dosáhnou všeho čeho si zamanou. Žádná špinavá práce jim není cizí. Potřebujete někoho odpravit? Něco ukrást? Není problém! Tuláci zvládnou vše a bez zanechání stop. A co zákony? Pro tuláky jsou to spíš taková neohrabaná doporučení. Povolání tuláka je vhodné pro každého kdo má rád všechny své akce důkladně promyšlené a nechce se zbytečně omezovat pravidly.*
+
+asd
+
 ## Základní informace
 
 **Životy:** S dosažení každé nové úrovně se zlodějovo zdraví zvýší o *1k6*+Modifikátor výdrže.
@@ -12,7 +16,7 @@
 
 **Záchranný hod:** *16* na 3., 5., 7. a 9. úrovni se sníží o 2
 
-**Ovládané zbraně:** Malé a střední
+**Ovládané zbraně:** Základní zbraně + malé zbraně + 2 zbraně vlastního výběru
 
 **Ovládaná brnění:** Lehké
 

@@ -12,7 +12,7 @@
 
 **Záchranný hod:** *16* na 3., 5., 7. a 9. úrovni se sníží o 2
 
-**Ovládané zbraně:** Hole a nože
+**Ovládané zbraně:** Základní zbraně + nůž + 1 zbraň vlastního výběru
 
 **Ovládaná brnění:** Žádné
 
@@ -44,6 +44,10 @@ Mágové disponují nejmocnější schopností, která dokáže vyřešit každ�
 
 **Kouzla:** Mág začíná hru s magickým grimoárem, který obsahuje *1+Modifikátor rozumu* formulací kouzel (min 1). Hráč si může definovat vlastní formulace nebo si vybrat nějaké ze [vzorových formulací](/Starý%20svět%20%28Zasazení%29/magic/#formulace-kouzla).
 
-**Aktivní kouzla:** Mág si může každý den ze svých formulací kouzel v grimoáru vybrat určitý počet kouzel (roven své úrovni) jako aktivní kouzla. Tyto formulace může mág používat pro své čarování do příštích příprav. Nebo do nerušené hodiny strávené s grimoárem, kdy si může Mág své kouzla vyměnit.  
+**Aktivní kouzla:** Mág si může každý den vybrat ze svých formulací kouzel v grimoáru určitý počet kouzel (roven své úrovni) jako aktivní kouzla. Tyto formulace může mág používat pro své čarování do příštích příprav. Nebo do nerušené hodiny strávené s grimoárem, kdy si může Mág své kouzla vyměnit.  
 
 **Magické předměty:** Mágové mohou používat svitky a magické předměty vyžadující ovládání magie chaosu. Štítí se však magie Nesmrtelných.
+
+### Výroba magických předmětů
+
+Mág kterékoliv úrovně se může pokusit o výrobu magických předmětů ==domyslet při downtime a odkázat==

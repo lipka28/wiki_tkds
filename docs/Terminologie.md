@@ -32,7 +32,7 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Modifikátory:** Někdy může být třeba přičíst k hozeným kostkám nějaký bonus, nebo odečíst postih. Tyto modifikátory se připojují znaménkem "+" nebo "-" za hodnotu kostky. Například *3k6+2* znamená:  Sečti výsledek hodu tří šesti-stranných kostek a přičti 2.
 
-**Výhoda a Nevýhoda:** Pokud hráč hází s výhodou, znamená to že může hodit dvakrát a nechat si přívětivější výsledek. Pokud hráč hází s nevýhodou ze dvou hodů si nechá ten horší. Pokud má hráč z nějakého důvodu výhodu a nevýhodu najednou, efekty se vzájemně vyruší. Více efektů výhody či nevýhody se však nesčítají.
+**Výhoda a Nevýhoda:** Pokud hráč hází s výhodou, znamená to že může hodit dvakrát a nechat si přívětivější výsledek. Pokud hráč hází s nevýhodou ze dvou hodů si nechá ten horší. Pokud má hráč z nějakého důvodu výhodu a nevýhodu najednou, efekty se vzájemně vyruší. Více instancí výhody či nevýhody jsou kumulativní. Například 2 výhody pak znamená, že hráč hází 3 kostky, ze kterých platí nejvyšší výsledek.
 
 **Procentní hody:** Někdy může být třeba vyhodnotit akci s procentuální šancí na úspěch. K tomu slouží procentní hod, značen také *k%* nebo *k100*. Takový hod se hází za pomocí *2k10*, kdy si hráč předem určí, která kostka představuje desítky a která jednotky. Ve výsledném hodu pak dvě nuly reprezentují *100*. Pokud je výsledek na kostce nižší nebo stejný jako je stanovená šance, tak je hod úspěšný.
 
@@ -130,6 +130,3 @@ Gramotnost a počet jazyků, které se postava může naučit. Je dána rozumem 
 
 ### Schopnosti
 Jsou sadou výjimečných schopností, které postava získá na základě volby rasy a povolání nebo na základě voleb, které učiní při hře samotné.
-
----
-

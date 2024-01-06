@@ -1,11 +1,11 @@
 # Pravidla boje
 
-## Souboje 
+## Souboje
 
 | BOJOVÁ SEKVENCE KAŽDÉ KOLO                                   |
 | :----------------------------------------------------------- |
 | *0. Iniciativa:* Každá strana hodí *1k10*. (remíza jde ve prospěch hráčů) |
-| *1. Vítězná strana je na řadě:*<br /> a. Vyhodnocení dlouho trvajících efektů a Morálky (je-li třeba)<br /> b. Odehrání tahu <br /> - b1. Dlouhé akce<br /> - b2. Pohyb<br /> - b3. Běžné akce |
+| *1. Vítězná strana je na řadě:*<br /> a. Vyhodnocení dlouho trvajících efektů a Morálky (je-li třeba)<br /> b. Odehrání tahu <br /> c. Konec efektů |
 | *2. Ostatní strany jsou na řadě:* V pořadí iniciativy        |
 | *3. Zpět na krok 1 dokud není souboj ukončen.*               |
 
@@ -24,22 +24,18 @@
 !!! note "Příklad: Zvraty v boji"
     Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
 
-**Odehrání tahu:** Stvoření v dané skupině odehrávají svůj tah naráz. Rozdělen do 3 fází. Každý v dané skupině musí odehrát nebo přeskočit danou fázi, aby se mohla začít vyhodnocovat fáze další. Fáze jsou následující:
+**Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 6-ti vteřin. Čistě z mechanického hlediska pak hráč může provést buď *dlouhou akci* a nebo *pohyb* a *běžnou akci*. Hráč může také své kolo prokládat *volnými akcemi*. Jednotlivé akce fungují následovně.:
 
-- *Dlouhá akce:* Stvoření ve skupině mohou začít provádět svou dlouhou akci. Za dlouhé akce se považují akce, které zabírají celé kolo. Například sesílání kouzla, či vybavení předmětu z inventáře. Alternativně stvoření, které chtějí provést svou běžnou akci před pohybem, mohou tak udělat.
-- *Pohyb:* Stvoření neprovádějící dlouhou akci se může pohnout až o svou hybnost. (Mimo stvoření, která jsou ve vzájemném ohrožení.)
-- *Běžná akce:* Stvoření, která ještě tak neučinili, mohou provést své běžné akce. Za běžnou akci je považován například útok, či použití vybaveného předmětu.
+- *Dlouhá akce:* Za dlouhé akce se považují akce, které zabírají celé kolo. Například sesílání kouzla, přebíjení zbraně a nebo vybavení předmětu z inventáře. 
+- *Pohyb:* Stvoření neprovádějící dlouhou akci se může pohnout až o svou hybnost (mimo stvoření, která jsou ve vzájemném ohrožení). Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně.
+- *Běžná akce:* Za běžnou akci je považován například útok, výměna zbraní a nebo použití vybaveného předmětu.
+- *Volné akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
 
-!!! Example "Varianta pravidla: Popořadě"
-    Ve hrách, kde mají hráči omezenou schopnost komunikovat (Například při hraní v chatu přes Discord). Je v zájmu zrychlení boje vhodné, aby si hráč odehrál všechny své fáze. Než se dostane na tah další hráč.
+**Vzájemné ohrožení:** Stvoření, které provedlo nebo na které byl proveden útok na blízku. Je s daným stvořením ve vzájemném ohrožení. Pro všechna stvoření ve vzájemném ohrožení platí následující omezení:
 
-**Pohyb:** Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Včetně drobných manipulací prostředí, jako je otevření dveří či převrácení stolu pro krytí. Některé druhy pohybu či pohyb na specifickém terénu, může aplikovat postihy hybnosti.
-
-**Vzájemné ohrožení:** Stvoření, které provedlo nebo na které byla provedena útočná akce na blízku. Je s daným stvořením ve vzájemném ohrožení. Pro všechna stvoření ve vzájemném ohrožení platí následující omezení:
-
-- *Útoky na dálku* - Mají šanci 3 z 6-ti že automaticky minou.
-- *Používání nebo manipulace s předměty* - Mají šanci 3 z 6-ti že se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
-- *Čarování kouzel* - Má šanci 3 z 6-ti že se kouzlo povedlo seslat.
+- *Útoky na dálku* - Mají šanci *50%* že automaticky minou.
+- *Používání nebo manipulace s předměty* - Mají šanci *50%* že se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
+- *Čarování kouzel* - Má šanci *50%* že se kouzlo povedlo seslat.
 - *Strategický pohyb* - Stvoření se může pohnout polovinou své maximální hybnosti. Lze se tak vyvázat ze vzájemného ohrožení. 
 - *Útěk* - Stvoření se vzdá své akce a může se pohybovat svou plnou rychlostí. Do začátku příštího tahu stvoření probíhají všechny útoky proti stvoření s bonusem +2 na zásah. Pokud má stvoření štít, tak jeho bonus do OČ se na tyto útoky nevztahuje.
 - *Obklíčení* - Pokud je stvoření ve vzájemném ohrožení se *3-mi* nebo více nepřáteli. tito nepřátelé mají bonus *+1* na zásah stvoření. Neplatí u výrazně větších stvoření. 
@@ -59,15 +55,17 @@
 
 **Cíl v úkrytu** **Kompletní krytí:** Cíle co jsou kompletně schované v úkrytu není možné trefit střelnou zbraní. Cíle co jsou v částečném úkrytu mohou mít bonus do OČ, proti střelným zbraním, v rozsahu +1 až +4 dle uvážení. (malý stůl může být +1, zatímco hustý les může být +4)
 
+**Střelba do šarvátky:** Pokusí-li se stvoření o útok na dálku proti nepříteli, které je v vzájemném ohrožení s jiným stvořením. Je útok na zásah modifikován postihem *-2*. Neplatí u výrazně větších cílů.
+
+**Konec efektů:** Konec jedno nebo více kolových efektů, kterým tenhle tah vypršela doba trvání.
+
 **Další na tahu:** Opakuj kroky 1a a 1b pro každou stranu konfliktu v pořadí iniciativy. 
 
 ## Útok obecně
 
-**NAT 1 a NAT 20:** Hody přirozené *1* jsou považovány za kritický neúspěch. Hod přirozené *20* je považován za kritický zásah. 
+**NAT 1 a NAT 20:** Hody přirozené *1* jsou považovány za neúspěch. Hod přirozené *20* je považován za kritický zásah. 
 
 **Kritické zásahy:** Uděluje maximální možné poškození (Určené maximální hodnotou na kostce poškození dané zbraně včetně bonusů). Pro účely vyhodnocování speciálních efektů jsou i běžné útoky za plné poškození považovány za kritické zásahy.
-
-**Kritický neúspěch (Optional):**  PJ může při hodu přirozené *1* počastovat postavu adekvátním avšak ne příliš zdrcujícím trestem. Pokud se nic nedaří vymyslet. Při útoku na blízko lze ke zbrani útočníka přičíst *"rýhu"*. Pokud zbraň nasbírá *3 rýhy*. *Zbraň se rozbije*. Při střelbě pak postava může zasáhnout libovolný cíl v cestě (mimo původního cíle) a udělit mu poloviční poškození. Kritické neúspěchy se nemohou stát se zbraní kvality +2 a výše.
 
 **Nezranitelnost:** Některá stvoření jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje poškození.
 
@@ -95,17 +93,15 @@
 
 ## Ostatní bojové situace
 
-**Sprint:** Stvoření může v daném kole obětovat své akce a tím se pohybovat až dvojnásobkem své hybnosti.
-
-**Improvizované zbraně:** Použití improvizované zbraně působí stejné poškození jako neozbrojený útok (1k2). Avšak neuděluje postih za boj beze zbraně.
+**Sprint:** Stvoření, které není ve vzájemném ohrožení s jiným stvořením, může v daném kole obětovat svou běžnou akci a tím se pohybovat až dvojnásobkem své hybnosti.
 
 **Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus +1 do zásahu, poškození a OČ. 
 
 **Bojové manévry:** Stvoření si může na místo poškození svou zbraní vybrat, že provede bojový manévry. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci. Hráč musí deklarovat použití manévru na místo útoku předem. *Útočník i obránce* provedou *hod na zásah* včetně aplikovatelných modifikátorů. Ten kdo *přehodí výsledek soupeře aspoň o 5*, obdrží výsledný efekt manévru.
 
-**Shození na zem:** Je-li stvoření shozeno na zem, tak všechny útoky na blízku proti němu probíhají s výhodou. Pokud se shozené stvoření pokusí útočit tak jeho útoky probíhají s nevýhodou. Kdokoliv se může zdarma vyvázat z boje na blízku se shozeným stvořením. *Postavení se zpět na nohy*, stojí stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem platí do začátku dalšího tahu od chvíle, kdy se stvoření postavilo.
+**Shození na zem:** Je-li stvoření shozeno na zem, tak všechny útoky na blízku proti němu probíhají s výhodou. Pokud se shozené stvoření pokusí útočit střední nebo větší zbraní, tak jeho útoky probíhají s nevýhodou. Kdokoliv se může volně vyvázat ze vzájemného ohrožení se shozeným stvořením. *Postavení se zpět na nohy* sebere stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem však platí i po zbytek kola.
 
-**Připravená akce:** Postava nebo stvoření může obětovat svou akci v daném tahu, a připravit si akci na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Připravenou akcí může být i selsání kouzla či použití předmětu.
+**Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit si běžnou akci na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. 
 
 !!! Note "Připravené akce a pohyb"
     Postava se může hýbat jak během tahu co akci připraví, tak během samotného použití připravené akce. Dohromady se však nemůže pohnout o víc než je hybnost dané postavy.
@@ -113,16 +109,16 @@
 !!! Warning "Souběh akcí"
     Připravené akce a kouzla probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
 
-**Slepota:** Slepé stvoření se pohybuje náhodným směrem a všechny útoky na blízku co na něj cílí jsou s výhodou. Sám na blízku útočí s nevýhodou. Útoky na dálku nejsou možné. Pokud se chce oslepený pohybovat specifickým směrem jeho maximální hybnost je 1 metr. Rychlejší pohyb je náhodný.
+**Slepota:** Slepé stvoření se pohybuje hybností maximálně 1 metr. Všechny útoky proti slepému stvoření jsou s výhodou. Sám na blízku útočí s nevýhodou. Útoky na dálku nejsou možné. Při rychlejším pohybu hrozí s pravděpodobností *50 %* zakopnutí.
 
-**Coup de grâce:** Bezmocní nepřátelé. Jako například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem bez potřeby házet na zásah. Lze tedy házet jen na poškození. PJ může povolit i automatický kritický zásah nebo okamžité zabití.
+**Coup de grâce:** Bezmocní nepřátelé. Jako například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
 
 **Přemožení:** Pokud chce postava útočit bez způsobení smrtelného poškození musí tak oznámit před útokem a použít zbraň kterou takový útok dává smysl. Pokud by životy stvoření klesly kvůli takovému útoku na 0 nebo měně. Stvoření upadne do bezvědomí nebo se vzdá (Záleží na PJ).
 
 **Nestabilní povrchy:** Pokud postavy bojují na nestabilním povrchu, jako jsou lodě na rozbouřeném moři nebo třeba když letí na hřbetu jiného stvoření. Tak jsou ovlivněni následujícími omezeními:
 
 - *Útoky na dálku:* Probíhají s nevýhodou.
-- *Kouzla*: Vyžadují hod s *HU 4*, aby se kouzlo povedlo seslat.
+- *Kouzla*: Sesílání selže s pravděpodobností *50%* seslat.
 - *Magické předměty*: Mohou být používány normálně.
 
 !!! note "Magické létání"
@@ -132,3 +128,7 @@
 
 - *Penalizace:* Všechny útoky na blízku mimo těch bodných jsou házeny s nevýhodou. Poškození udělená Tupými nebo sečnými zbraněmi jsou poloviční. 
 - *Útoky na dálku:* Útoky na dálku nejsou pod vodní hladinou většinou možné, pokud nejsou použity velmi specifické zbraně.
+
+==voda==
+
+Holding Breath: Characters can hold their breath for a number of rounds equal to their CON score. If their breath runs out, they begin to drown. A drowning character must be brought onto land and resuscitated within CON/3 rounds or die. Visibility: Submerged characters can see 100’ around them in the open ocean. Speed: Characters swim at half their normal movement speed. Armor and Encumbrance: Each turn, a character has a chance to sink based on their armor. • Leather: 20%. • Chain: 80%. • Plate: 100%. Overencumbered characters count as wearing chain. Magic armor does not apply these penalties. Weapons: Bludgeoning and missile weapons are useless. Cutting weapons attack at -4 and deal half damage on a hit. Spears and other thrusting weapons attack and damage as normal. Initiative: Unless the characters have an advantage, aquatic creatures always attack first in combat. Magic: Unless the caster can speak, they cannot use magic underwater. Additionally, spells that generate fire don’t work underwater—they just fizzle into hot bubbles.

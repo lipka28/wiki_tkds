@@ -12,13 +12,11 @@
 
 **Záchranný hod:** *16* na 3., 5., 7. a 9. úrovni se sníží o 2
 
-**Ovládané zbraně:** Malé, střední a velké střelné
+**Ovládané zbraně:** Všechny zbraně
 
-**Ovládaná brnění:** Lehké
+**Ovládaná brnění:** Lehké a štíty
 
 **Odolnosti:** Bonus *+2* k záchranným hodům na ú. Případně bonus *+2* k OČ proti pastím, pokud past funguje na principu zásahu OČ.
-
-**Speciální výbava:** Sada převleků a líčení (Váha: 3, použití 3)
 
 ## Schopnosti povolání
 

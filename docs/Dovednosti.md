@@ -48,21 +48,19 @@ Výdrž představuje zdraví, výdrž a vytrvalost. Modifikátor výdrže ovliv�
 
 ## Rozum
 
-Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnost hráčovi postavy a kolik jazyků se může postava pokusit naučit. Modifikátor rozumu se také připočítává k záchranným hodům proti magii.
+Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnost hráčovi postavy a kolik extra schopností se může postava pokusit naučit. Mezi schopnosti se řadí jak ovládání jazyků tak i například schopnosti jiných povolání nebo nějaké úplně nové kousky. Modifikátor rozumu se také připočítává k záchranným hodům proti magii.
 
-|  Rozum  | Modifikátor | Gramotnost |      Kapacita pro jazyky       |
-| :-----: | :---------: | :--------: | :----------------------------: |
-|    3    |     -3      | Negramotný | Pouze 1 rozený jazyk lámaně*\* |
-|  4 - 5  |     -2      | Negramotný |    Pouze 1 rozený jazyk\*\*    |
-|  6 - 8  |     -1      | Základní*  |    Pouze 1 rozený jazyk\*\*    |
-| 9 - 12  |      0      |  Gramotný  |             Rozený             |
-| 13 - 15 |     +1      |  Gramotný  |           Rozený +1            |
-| 16 - 17 |     +2      |  Gramotný  |           Rozený +2            |
-|   18    |     +3      |  Gramotný  |           Rozený +3            |
+|  Rozum  | Modifikátor | Gramotnost |                   Kapacita pro schopnosti                    |
+| :-----: | :---------: | :--------: | :----------------------------------------------------------: |
+|    3    |     -3      | Negramotný |                 Pouze jazyk své rasy lámaně                  |
+|  4 - 5  |     -2      | Negramotný |                     Pouze jazyk své rasy                     |
+|  6 - 8  |     -1      | Základní*  | Pouze jazyk své rasy + pokročilé ovládání jazyka společenství |
+| 9 - 12  |      0      |  Gramotný  |                          Rozený +1                           |
+| 13 - 15 |     +1      |  Gramotný  |                          Rozený +2                           |
+| 16 - 17 |     +2      |  Gramotný  |                          Rozený +4                           |
+|   18    |     +3      |  Gramotný  |                          Rozený +6                           |
 
 *\*Postava se zvládne alespoň podepsat, Zvládá jednoduchou matematiku (jako třeba počítat do 20-ti) a čtení čehokoliv jí trvá velmi dlouho s minimálním pochopením pro čtený text.*
-
-*\*\*Ne-lidé disponující více než jedním rozeným jazykem. Plně ovládají 1 ze svých rozených jazyků a druhý rozený jazyk ovládají pouze lámaně bez schopnosti jej číst.*
 
 ## Osobnost
 
@@ -80,4 +78,3 @@ Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopn
 
 !!! Note "Společníci"
     Za společníka může být považován jak placený žoldák, tak zvíře nebo třeba nějaký vázaný démon.
-

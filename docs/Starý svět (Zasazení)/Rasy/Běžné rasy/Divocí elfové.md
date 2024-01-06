@@ -1,4 +1,4 @@
-# Divocí elfové
+# Divocí elfové (Lionur)
 
 ![Image title](/assets/races/Wood-Elf.jpeg)
 
@@ -6,7 +6,7 @@
 
 **Modifikace dovedností:** Zručnost +1; Osobnost -1
 
-**Vrozené jazyky:** Sylvani
+**Vrozené jazyky:** Lionurština + Jazyk společenství
 
 **Hybnost:** 7 metrů 
 

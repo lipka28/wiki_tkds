@@ -12,7 +12,7 @@
 
 **Záchranný hod:** *16* na 3., 5., 7. a 9. úrovni se sníží o 2
 
-**Ovládané zbraně:** Hole + zbraň dle patrona
+**Ovládané zbraně:** Základní zbraně + zbraň dle patrona
 
 **Ovládaná brnění:** Lehké a střední + štít (pokud preferovaná zbraň patrona zmiňuje štít)
 
@@ -56,13 +56,13 @@ Akolyta může podstoupit nerušený 10-ti minutový rituál (*1 směna*), kter�
 
 Akolyta může za pomocí *svěcené vody* a svého dotyku vyléčit 1d4+1 životů zraněnému cíli.
 
-### Zázrak (Level 2)
+### Zázrak (Úroveň 2)
 
 Akolyty 2. a vyšší úrovně disponují schopností sesílat zázraky za pomoci Nesmrtelných patronů. Sesílání zázraků funguje ve směs stejně jako používání magie chaosu. Detaily fungování magie chaosu najdete v kapitole o [magii](/Starý%20svět%20%28Zasazení%29/magic/). S tím rozdílem, že akolyty sesílají své kouzla pouze na základě *specializace*, která je dána *sférami vlivu* jejich patrona. 
 
 **Ticho patrona:** Po seslání každého zázraku musí akolyta uspět v záchranném hodu proti ovlivnění mysli. Pokud neuspěje znamená to, že patronovi se nelíbí zneužití jeho moci akolytou a akolyta ztrácí schopnost sesílat zázraky dokud svůj prohřešek nějak neodčiní (ať už formou pokání, proti služby, oběti či jiné). Závažnost tohohle prohřešku by měla škálovat dle ceny seslaného kouzla.
 
-### Očistný rituál (Level 4)
+### Očistný rituál (Úroveň 4)
 
 Akolyta od 4. úrovně může podstoupit nerušený hodinový rituál (6 směn) a pokusit se odstranit permanentní prokletí nebo negativní magický efekt s *HU 6*. Rituál vyžaduje *lahvičku svěcené vody*.
 

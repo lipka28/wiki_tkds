@@ -4,18 +4,19 @@
 
 Základní pravidla a definice platící pro všechny kouzla ve hře.
 
-- _Sesílání_ - Sesílání kouzla zabírá mezi 1 kolem až několika směnami a vyžaduje hlasité zaříkávání, excentrické pohyby rukou a případně i další komponenty. Během sesílání se nelze volně pohybovat. Je li kouzelník zasažen během sesílání kouzla, existuje *50%* šance (hod s HU 4), že kouzlo bude ztraceno.
-- _Odvolání_ - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal. (pokud nebylo odraženo)
-- *Koncentrace* - Některá kouzla mohou být udržována za pomocí koncentrace. Koncentrace nijak neomezuje fungování čaroděje. Avšak pokud je čaroděj zasažen útokem, neuspěje v záchranném hodu proti kouzlu, existuje *50%* šance (hod s HU 4), že koncentraci ztratí a tím kouzlo ukončí. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí. V jednu chvíli může být aktivní jen jedno kouzlo vyžadující koncentraci.
-- _Záchranný hod_ - Cíl většiny kouzel může podstoupit záchranný hod a tím se vyvarovat jeho efektu. U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Tohle platí i pokud je cílem kouzla předmět, který je součástí výbavy cíle.
-- _Kombinace efektů_ - Více souběžných kouzel, nemůže být použito k navýšení té samé dovednosti (Síla, Zručnost, OČ, Životy a podobně...).
-- *Formulace kouzla* - Je přesný název kouzla (například: *"Ohnivá koule"*) Od kterého se odvozí možný efekt a cena kouzla. 
+- _Sesílání_ - Sesílání kouzla zabírá mezi 1 dlouhou akcí až několika směnami a vyžaduje hlasité zaříkávání, excentrické pohyby rukou a případně i další komponenty. Během sesílání se nelze volně pohybovat. Je-li kouzelník zasažen nebo neuspěje v záchranném hodu během sesílání kouzla, existuje *50%* šance, že kouzlo bude ztraceno.
+- _Odvolání_ - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal (pokud nebylo odraženo).
+- *Koncentrace* - Některá kouzla mohou být udržována za pomocí koncentrace. Koncentrace nijak neomezuje fungování čaroděje. Avšak pokud je čaroděj zasažen nebo neuspěje v záchranném hodu, existuje *50%* šance, že koncentraci ztratí a tím kouzlo ukončí. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí. V jednu chvíli může být aktivní jen jedno kouzlo vyžadující koncentraci.
+- *Držení kouzel* - Vyčarované kouzlo může být místo seslání zadrženo v ruce kouzelníka. Kouzlo může být následně sesláno jako běžná akce. S drženým kouzlem se lze volně pohybovat. Je-li kouzelník držící kouzlo zasažen nebo neuspěje v záchranném hodu, existuje *50%* šance, že kouzlo bude ztraceno. Seslání drženého kouzla není ovlivněno postihy za vzájemné ohrožení.
+- _Záchranný hod_ - Cíl většiny kouzel může podstoupit záchranný hod a tím se vyvarovat jeho efektu. U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě.
+- _Kombinace efektů_ - Více souběžných kouzel, nemůže být použito k ovlivnění té samé dovednosti (Síla, Zručnost, OČ, Životy a podobně...).
+- *Formulace kouzla* - Je přesný název kouzla (například: *"Ohnivá koule"*) Od kterého se odvodí možný efekt a výsledná cena kouzla.
 
 ### Výchozí parametry kouzel
 
 Výchozí parametry všech kouzel (před zvýšením za pomocí handlování s PJ) jsou následující:
 
-- *Doba sesílání* - 1 kolo
+- *Doba sesílání* - 1 dlouhá akce
 - *Dosah* - 5 metrů (Blízko)
 - *Rozsah* - 1 stvoření
 - *Trvání* - 1 kolo / směna nebo okamžité (v závislosti na ráznosti efektu)
@@ -71,7 +72,7 @@ Sesílání kouzel za životy většinou nezpůsobuje skutečná zranění na t�
 
 **Příklad sesílání kouzla Ohnivá koule:**
 
-> *PJ:* Ušli jsi pár kroků do jeskyně a pohltila tě černočerná tma. Co budeš dělat?
+> *PJ:* Ušel jsi pár kroků do jeskyně a pohltila tě černočerná tma. Co budeš dělat?
 >
 > *Čaroděj:* Chci vyčarovat malou ohnivou kouli co bude kolem mě levitovat a svítit na cestu jako pochodeň. Mám kouzlo "Ohnivá koule" a specializaci Pyromancer.
 >
@@ -94,7 +95,7 @@ Sesílání kouzel za životy většinou nezpůsobuje skutečná zranění na t�
 
 #### Běžné specializace
 
-Časté specializace, které jsou populární mezi kouzelníky. Pokud chce, hráč by měl mít možnost si vymyslet vlastní specializaci.
+Časté specializace, které jsou populární mezi kouzelníky. Pokud hráč chce, měl by mít možnost si vymyslet vlastní specializaci.
 
 - **Pyromancie** - Magie ohně
 - **Geomancie** - Magie zemin a kamení
@@ -109,7 +110,7 @@ Sesílání kouzel za životy většinou nezpůsobuje skutečná zranění na t�
 
 #### Formulace kouzla
 
-Pokud si hráč neví rady s formulací vlastních kouzel může se inspirovat v libovolném seznamu kouzel kterékoliv hry. Jelikož se používá pouze název kouzla, tak jsou kouzla ze všech her kompatibilní. I tak zde jsou nějaké příklady:
+Pokud si hráč neví rady s formulací vlastních kouzel může se inspirovat v libovolném seznamu kouzel kterékoliv hry. Jelikož se používá pouze název kouzla, tak jsou kouzla ze všech her kompatibilní. I tak jsou zde nějaké příklady:
 
 - **Ohnivá koule**
 - **Oslňující světlo**

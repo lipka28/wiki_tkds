@@ -8,7 +8,7 @@
 
 **Životy:** S dosažení každé nové úrovně se zlodějovo zdraví zvýší o *1k6*+Modifikátor výdrže.
 
-**Hod na zásah:** *+0* na 3. a 7. úrovni se zvedne o 2 a na 5. a 9. úrovni se zvedne o 1
+**Hod na zásah:** *+0* na 3., 5., 7. a 9. úrovni se zvedne o 2
 
 **Záchranný hod:** *16* na 3., 5., 7. a 9. úrovni se sníží o 2
 
@@ -22,20 +22,20 @@
 
 ### Zvířecí společník
 
-Lovec může navázat vztah s jedním zvířetem. To zvíře se stane lovcovým oddaným společníkem. 
+Lovec se může pokusit navázat pouto se zvířetem. Takové zvíře se stane lovcovým oddaným společníkem.
 
-**Omezení:** Lovec může mít v jednu chvíli jen jednoho zvířecího společníka stejné nebo nižší úrovně. Ten může být libovolné zvíře. Obří verze zvířat a magická zvířata jsou ochočitelná jen se souhlasem PJ (Jejich proces ochočení by měl být také výrazně komplikovanější.) Zvířatům podobná stvoření s lidskou nebo vyšší inteligencí není možné ochočit.
+**Omezení:** Lovec může mít v jednu chvíli jen tolik zvířecích společníků, jejichž součet úrovní nepřevýší úroveň lovce a kolik zvládne ukočírovat v závislosti na své dovednosti osobnost. Tato zvířata mohou být libovolného druhu. Obří verze zvířat a magická zvířata jsou ochočitelná jen se souhlasem PJ (Jejich proces ochočení by měl být také výrazně komplikovanější.) Zvířatům podobná stvoření s lidskou nebo vyšší inteligencí není možné ochočit.
 
-**Navázání vztahu:** Lovec se musí ke zvířeti přiblížit a mírumilovně s ním interagovat po dobu *1 směny*. Během kterého musí lovec podstoupit ověření *osobnosti*. Pokud uspěje, zvíře bude lovce týden následovat ale nebude se nijak zapojovat do lovcových aktivit. Během tohohle týdne musí lovec začít *základní výcvik* nebo ho po týdnu zvíře opustí.
+**Navázání vztahu:** Lovec se musí ke zvířeti přiblížit a mírumilovně s ním interagovat po dobu *1 směny*. Během kterého musí lovec podstoupit ověření *osobnosti*. Pokud uspěje, zvíře bude lovce následovat, tak dlouho dokud se o něj lovec bude starat. Nebude se ale nijak zapojovat do lovcových aktivit. Lovec může takové zvíře podrobit *základnímu výcvik* nebo ho prostě nechat jít. 
 
 **Základní výcvik:** Lovec může strávit týden a naučit zvíře základní příkazy potřebné pro dobrodružství. Zvíře, které prošlo základním výcvikem bude následovat a *chránit lovce* a nikdy *nemusí ověřovat morálku*. Dále se naučí *4* základní příkazy:
 
 - *"Zůstaň!"* - Zvíře zůstane na místě dokud nedostane jiný příkaz nebo dokud není lovec v dohledu napaden.
-- *"Následuj"* - Zvíře následuje lovce.
+- *"Za mnou!"* - Zvíře následuje lovce.
 - *"Ke mě!"* - Zvíře přiběhne k lovci nebo mu přiběhne na pomoc.
-- *"Zaútoč!"* - Zvíře zaútočí na první neznámé stvoření ve směru, kterým lovec udá příkaz.
+- *"Ber ho!"* - Zvíře zaútočí na první neznámé stvoření ve směru, kterým lovec udá příkaz.
 
-Nezávisle na obdrženém příkazu, zvíře bude vždy prioritizovat ochranu lovce.
+Nezávisle na obdrženém příkazu. Zvíře bude, vzhledem ke svému tréninku, vždy prioritizovat ochranu lovce. I před svým vlastním zdravím.
 
 **Pokročilý výcvik:** Každý zvířecí společník se může naučit extra *1k6* dalších pokynů (dle inteligence zvířete). Naučení pokynu trvá týden a vyžaduje lovcovo úspěšné ověření na použití schopnosti *znalost příšer*.
 
@@ -47,8 +47,6 @@ Nezávisle na obdrženém příkazu, zvíře bude vždy prioritizovat ochranu lo
 ### Střelecká specializace
 
 Lovec má bonus *+1* k zásahu útoky na dálku.
-
-**Od 6. úrovně:** Lovcovo přebíjení kuší, mušket a podobných zbraní netrvá celé kolo. Přebití jej stojí pouze útočnou akci nebo celý pohyb v daném tahu.
 
 ### Orientace v divočině
 
@@ -71,12 +69,10 @@ Lovec disponuje sadou výjimečných schopností do kterých se může specializ
     - **Trénink a interakce:** Alternativně se tato schopnost dá použít pro trénink zvířat a různé interakce s monstry (Například létání na divoké vyverně).
     - **Neúspěch:** Lovec se nemůže znovu pokusit vybavit více informací o daném druhu monstra, dokud nestráví 10 minut (1 směnu) jeho důkladným nerušeným studiem.
 
-
-
 **Vylepšení:** S každou další dosaženou úrovní získá lovec *2 expertní body*. Na *10. úrovni* pak získá poslední *4 expertní body*.
 
 ### Trofeje
 
-Lovec si může z mrtvého monstra vypreparovat trofej na památku. Trofejí může být cokoliv od hlavy přes paroží až zub draka. Minimální váha trofeje musí být *1 slot*. Pokud má pak lovec trofej jako součást výbavy, na svém koni nebo třeba vyvěšenou u sebe doma. Funguje trofej jako takový talisman, který dává bonus +1 na zásah a záchrané hody proti speciálním útokům monster stejného druhu. 
+Lovec si může z mrtvého monstra vypreparovat trofej na památku. Trofejí může být cokoliv od hlavy přes paroží až zub draka. Minimální váha trofeje musí být *1 slot*. Pokud má pak lovec trofej jako součást výbavy, na svém koni a nebo třeba vyvěšenou u sebe doma. Funguje trofej jako takový talisman, který dává bonus *+1* na zásah a záchranné hody proti speciálním útokům monster stejného druhu. 
 
-**Od 4. úrovně:** Pokud má lovec trofej jako součást svých vybavených předmětů. Bonus trofeje je poskytován i spojencům okruhu 5-ti metrů od lovce.
+**Od 6. úrovně:** Pokud má lovec trofej jako součást svých vybavených předmětů. Bonus trofeje je poskytován i spojencům okruhu 5-ti metrů od lovce.
