@@ -57,9 +57,9 @@
 
 **Střelba do šarvátky:** Pokusí-li se stvoření o útok na dálku proti nepříteli, které je v vzájemném ohrožení s jiným stvořením. Je útok na zásah modifikován postihem *-2*. Neplatí u výrazně větších cílů.
 
-**Konec efektů:** Konec jedno nebo více kolových efektů, kterým tenhle tah vypršela doba trvání.
+**Konec efektů:** Konec efektů, kterým tenhle tah vypršela doba trvání.
 
-**Další na tahu:** Opakuj kroky 1a a 1b pro každou stranu konfliktu v pořadí iniciativy. 
+**Další na tahu:** Opakuj kroky 1a až 1c pro každou stranu konfliktu v pořadí iniciativy. 
 
 ## Útok obecně
 

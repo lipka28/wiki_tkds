@@ -1,6 +1,6 @@
-# Krvavá druidka
+# Šaman
 
-![Image title](/assets/classes/Wild_Druid.jpeg)
+![Image title](/assets/classes/Shaman.jpeg)
 
 *==Upravit==*
 
