@@ -22,7 +22,7 @@
 
 ### Zvířecí společník
 
-Lovec se může pokusit navázat pouto se zvířetem. Takové zvíře se stane lovcovým oddaným společníkem.
+Lovec se může pokusit navázat pouto se zvířetem. Pokud se mu to povede. Takové zvíře se stane lovcovým oddaným společníkem.
 
 **Omezení:** Lovec může mít v jednu chvíli jen tolik zvířecích společníků, jejichž součet úrovní nepřevýší úroveň lovce a kolik zvládne ukočírovat v závislosti na své dovednosti osobnost. Tato zvířata mohou být libovolného druhu. Obří verze zvířat a magická zvířata jsou ochočitelná jen se souhlasem PJ (Jejich proces ochočení by měl být také výrazně komplikovanější.) Zvířatům podobná stvoření s lidskou nebo vyšší inteligencí není možné ochočit.
 
@@ -37,7 +37,7 @@ Lovec se může pokusit navázat pouto se zvířetem. Takové zvíře se stane l
 
 Nezávisle na obdrženém příkazu. Zvíře bude, vzhledem ke svému tréninku, vždy prioritizovat ochranu lovce. I před svým vlastním zdravím.
 
-**Pokročilý výcvik:** Každý zvířecí společník se může naučit extra *1k6* dalších pokynů (dle inteligence zvířete). Naučení pokynu trvá týden a vyžaduje lovcovo úspěšné ověření na použití schopnosti *znalost příšer*.
+**Pokročilý výcvik:** Každý zvířecí společník se může naučit extra *1k6* (dle inteligence zvířete) dalších triků. Naučení pokynu trvá týden a vyžaduje lovcovo úspěšné ověření na použití schopnosti *znalost příšer*.
 
 **Chování zvířete:** Zvíře nikdy není pod plnou kontrolou lovce. O jeho chování jak v boji tak mimo něj rozhoduje PJ. Lovec může zvíře ovládat pouze naučenými příkazy. 
 

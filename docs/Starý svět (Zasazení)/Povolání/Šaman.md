@@ -24,4 +24,12 @@
 
 ### Asd
 
-asd
+Mluvení s mrtvými
+
+Patroni divočiny (Zvířata)
+
+Familiar (Zrak a sluch přes familiara - respwaning)
+
+Totemy
+
+Rituální magie (Možná spojit s totemy)
