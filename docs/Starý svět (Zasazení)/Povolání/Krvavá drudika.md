@@ -6,7 +6,7 @@
 
 ## Základní informace
 
-**Životy:** S dosažení každé nové úrovně se zdraví akolyty zvýší o *1k6+Modifikátor výdrže.
+**Životy:** S dosažení každé úrovně, včetně té první, se zdraví krvavé druidky zvýší o *1k6*+Modifikátor výdrže.
 
 **Hod na zásah:** *+0* na 3. a 7. úrovni se zvedne o 2 a na 5. a 9. úrovni se zvedne o 1
 

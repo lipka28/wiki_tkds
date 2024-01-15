@@ -6,7 +6,7 @@
 
 ## Základní informace
 
-**Životy:** S dosažení každé nové úrovně se zabijákovo zdraví zvýší o *1k6*+Modifikátor výdrže.
+**Životy:** S dosažení každé úrovně, včetně té první, se zabijákovo zdraví zvýší o *1k6*+Modifikátor výdrže.
 
 **Hod na zásah:** *+0* na 3. a 7. úrovni se zvedne o 2 a na 5. a 9. úrovni se zvedne o 1
 
@@ -42,7 +42,7 @@ Zabiják disponuje sadou výjimečných schopností do kterých se může specia
     - **Opakování hodu:** Hod je možné (a nutné) opakovat jen při výrazné změně situace. Například cíl si přesedne do jiné části lokálu.
 - **Plížení ve stínech** - Zabiják se může pokusit ukrýt v místech kde jediný úkryt je stín a také se může nenápadně pohybovat.
     - **Nenápadný pohyb:** Při neúspěšném hodu na překvapení (při plížení), se zabiják může pokusit o ověření této schopnosti aby zůstal skryt.
-- **Šaráda** - Zabiják se může pokusit napodobit libovolného představitele své rasy (i opačného pohlaví) a to včetně dokonalého napodobení hlasu a nuancí.
+- **Šaráda** - Zabiják se může pokusit napodobit libovolného představitele své nebo podobné rasy (i opačného pohlaví) a to včetně dokonalého napodobení hlasu a nuancí.
     - **Cíl napodobení:** Zabiják musí znát chování, vzhled a hlas cíle, za který se chce vydávat.  Případně jen jeden z těchto požadavků pokud stačí pro danou situaci (Například hlas přes zavřené dveře).
     - **Převlek:** Připravení převleku trvá hodinu a vyžaduje *Sada převleků a líčení*
     - **Neúspěch:** Pokud zabiják neuspěje, tak je někdy v průběhu své šarády odhalen.

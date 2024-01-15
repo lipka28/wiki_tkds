@@ -55,6 +55,13 @@ Vysvětlivky speciálních jednotek používaných při hře.
 
 K měření váhy se používají standardní jednotky metrického systému (gramy, kilogramy, tuny atd..) Lze se však čistě z herního hlediska setkat s dalšími dvěma jednotkami a to *Sloty* a *L* (Více o těchto jednotkách [zde](/Gear/#nosnost)).
 
+### Vzdálenost
+
+Pro měření vzdáleností se používají standardní jednotky metrického systému.
+
+!!! warning "Přepočet imperiálních jednotek"
+	Většina vydávaných dobrodružství pro OSR používá pro měření vzdáleností imperiální jednotky. Často se lze setkat se stopami a občas i yardy. Pokud vám nezáleží na extrémní přesnosti, tak je možné tyto jednotky v hlavě rychle převést. Jednoduší jsou yardy, kdy *1 yard* odpovídá přibližně *1 metru*. Stopy je pak třeba *vydělit 10-ti* (posunout desetinou čárku o 1 doleva) a následně hodnotu *vynásobit 3-mi*. Výsledkem vám bude přibližná hodnota v metrech. Například *25 stop = 7.5 metrů*.
+
 ### Čas
 
 K měření času se používají standardní jednotky času (sekundy, minuty, hodiny atd..) Lze se však čistě z herního hlediska setkat s pojmy *kolo* a *směna*.

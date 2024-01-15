@@ -77,4 +77,4 @@ Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopn
 |    18    |     +3      |                  5                   |    10     |
 
 !!! Note "Společníci"
-    Za společníka může být považován jak placený žoldák, tak zvíře nebo třeba nějaký vázaný démon.
+    Za společníka může být považován jak placený družník, tak zvíře nebo třeba nějaký vázaný démon.

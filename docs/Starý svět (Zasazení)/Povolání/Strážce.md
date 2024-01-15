@@ -6,7 +6,7 @@
 
 ## Základní informace
 
-**Životy:** S dosažení každé nové úrovně se strážcovo zdraví zvýší o *1k8*+Modifikátor výdrže.
+**Životy:** S dosažení každé úrovně, včetně té první, se strážcovo zdraví zvýší o *1k8*+Modifikátor výdrže.
 
 **Hod na zásah:** *+0* na 3., 5., 7. a 9. úrovni se zvedne o 2
 

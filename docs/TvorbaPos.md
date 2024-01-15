@@ -28,10 +28,7 @@ Zaznač si modifikátor zásahu (*0*) a záchranný hod (*16*). Případně si z
 
 ## 5. Naházej si životy
 
-Hoď *1k4+1k6* a přičti modifikátor výdrže. To jsou tvé životy. Každá postava začíná minimálně s *1* životem.
-
-!!! note "Proč 1k4+1k6?"
-    *1k4* reprezentuje zdraví běžného netrénovaného humanoida a *1k6* představuje schopnost přežít dobrodruha 1. úrovně.
+Hoď si na *životy dle svého povolání a přičti 2*. To jsou tvé životy. Každá postava začíná minimálně s *1* životem.
 
 ## 6. Zaznač si schopnosti tvého povolání a rasy
 

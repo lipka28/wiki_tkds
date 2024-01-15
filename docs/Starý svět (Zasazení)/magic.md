@@ -17,7 +17,7 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 Výchozí parametry všech kouzel (před zvýšením za pomocí handlování s PJ) jsou následující:
 
 - *Doba sesílání* - 1 dlouhá akce
-- *Dosah* - 5 metrů (Blízko)
+- *Dosah* - 5 metrů
 - *Rozsah* - 1 stvoření
 - *Trvání* - 1 kolo / směna nebo okamžité (v závislosti na ráznosti efektu)
 - *Poškození* - 1k6 nebo *léčení* 1 HP
@@ -33,17 +33,17 @@ Tento typ magie pochází s vyšších sfér obývaných mocnými bytosti. Energ
 
 #### Sesílání magie chaosu
 
-Sesílání takových kouzel funguje na principu handlování mezi hráčem sesílajícím kouzlo a PJ. Hráč popíše svůj požadovaný kouzelný efekt (Dosah, rozsah, efek/poškození atd...), který založí buď na kouzlu, které jeho postava zná (např.: *Ohnivá koule*)  nebo nějaké formě "specializace"(např.: *Nekromancie*). Pj pak stanoví cenu v *životech*. Pokud hráč souhlasí, odečte si životy a sešle své kouzlo. Pokud hráč nesouhlasí navrhne modifikace kouzla aby cenu zlevnil (Kouzlo se bude déle sesílat, bude mít menší efekt, zničí se přitom nějaký vzácný předmět ve vlastnictví postavy atd...). Když se Hráč s PJ dohodnou, kouzlo může být sesláno.
+Sesílání takových kouzel funguje na principu handlování mezi hráčem sesílajícím kouzlo a PJ. Hráč popíše svůj požadovaný kouzelný efekt (Dosah, rozsah, efek/poškození atd...), který založí buď na kouzlu, které jeho postava zná (např.: *Ohnivá koule*)  nebo nějaké formě "specializace"(např.: *Nekromancie*). Pj pak stanoví cenu v *bodech únavy* (a ve finálním důsledku tedy v životech). Pokud hráč souhlasí, odečte přičte si body únavy a sešle své kouzlo. Pokud hráč nesouhlasí navrhne modifikace kouzla aby cenu zlevnil (Kouzlo se bude déle sesílat, bude mít menší efekt, zničí se přitom nějaký vzácný předmět ve vlastnictví postavy atd...). Když se Hráč s PJ dohodnou, kouzlo může být sesláno.
 
 #### Stanovení ceny kouzel (Reference)
 
-| Cena v HP | Rozsah                                                     | Příklady efektů                                              |
-| :-------: | :--------------------------------------------------------- | ------------------------------------------------------------ |
-|     0     | Nepodstatný nebo výrazně zlevněný efekt                    | Závan větru, Světélkující oči, Ohřání čaje                   |
-|     1     | Lze dosáhnout bez magie                                    | Malé poškození (1k6), slabé léčení, zapálení pochodně, odemknutí zámku |
-|     2     | Těsně za hranicí možného (možné s moderními technologiemi) | Dýchání pod vodou, slabá telekineze, kamufláž, energetický štít |
-|    1k6    | Zásadní porušení přírodních zákonů                         | Teleportace, Rozpohybování kostlivce, lokalizace předmětů či osobo, odstranění kouzla, zahojení vážného zranění |
-|    2k6    | Masivní manipulace energií na úrovni bohů                  | Oživení mrtvého, zastavení času, klonování, Trvalé negativní efekty (př.: zkamenění), Změna počasí |
+| Cena Únavy | Rozsah                                                     | Příklady efektů                                              |
+| :--------: | :--------------------------------------------------------- | ------------------------------------------------------------ |
+|     0      | Nepodstatný nebo výrazně zlevněný efekt                    | Závan větru, Světélkující oči, Ohřání čaje                   |
+|     1      | Lze dosáhnout bez magie                                    | Malé poškození (1k6), slabé léčení, zapálení pochodně, odemknutí zámku |
+|     2      | Těsně za hranicí možného (možné s moderními technologiemi) | Dýchání pod vodou, slabá telekineze, kamufláž, energetický štít |
+|    1k6     | Zásadní porušení přírodních zákonů                         | Teleportace, Rozpohybování kostlivce, lokalizace předmětů či osobo, odstranění kouzla, zahojení vážného zranění |
+|    2k6     | Masivní manipulace energií na úrovni bohů                  | Oživení mrtvého, zastavení času, klonování, Trvalé negativní efekty (př.: zkamenění), Změna počasí |
 
 **Navýšení ceny (většinou +1):**
 
@@ -51,7 +51,7 @@ Sesílání takových kouzel funguje na principu handlování mezi hráčem ses�
 - Extra trvání, dosah, oblast efektu, cíle, poškození.
 - Bez záchranného hodu či hodu na zásah (zdvojnásobí cenu kouzla).
 - Vytvoření jednorázového předmětu s efektem kouzla (zdvojnásobí cenu kouzla).
-- Vytvoření permanentního předmětu s efektem kouzla (zdvojnásobí cenu kouzla a platí se permanentní ztrátou životů).
+- Vytvoření permanentního předmětu s efektem kouzla (zdvojnásobí cenu kouzla a místo únavou se platí permanentní ztrátou maximálních životů).
 
 **Snížení ceny (většinou -1):**
 
@@ -64,11 +64,7 @@ Sesílání takových kouzel funguje na principu handlování mezi hráčem ses�
 
 **Ztráta všech životů při čarování:**
 
-Pokud čaroděj sesláním kouzla ztratí všechny své životy, musí podstoupit *záchranný hod proti smrti*. Úspěch znamená, že čaroděj ztratí vědomí. Neúspěch pak katastrofické selhání kouzla a smrt čaroděje (většinou rozmetáním na prach).
-
-**Léčení:**
-
-Sesílání kouzel za životy většinou nezpůsobuje skutečná zranění na těle kouzelníka a tedy životy, které byly použity pro sesílání kouzel nemohou být vyléčeny žádnou magií.
+Pokud čaroděj sesláním kouzla následkem únavy ztratí všechny své životy, musí podstoupit *záchranný hod proti smrti* s postihem *ve výši záporných životů*, které by sesláním kouzla obdržel. Úspěch znamená, že čaroděj má *1 život a ztratí vědomí na 1k6 směn*. Neúspěch pak katastrofické selhání kouzla a smrt čaroděje (většinou rozmetáním na prach).
 
 **Příklad sesílání kouzla Ohnivá koule:**
 
@@ -76,7 +72,7 @@ Sesílání kouzel za životy většinou nezpůsobuje skutečná zranění na t�
 >
 > *Čaroděj:* Chci vyčarovat malou ohnivou kouli co bude kolem mě levitovat a svítit na cestu jako pochodeň. Mám kouzlo "Ohnivá koule" a specializaci Pyromancer.
 >
-> *PJ:* Dobře základní cena by byla 2 životy nahrazuješ pochodeň za levitující kouli, jelikož tvá specializace a název kouzla sedí dostaneš slevu -1. Výsledná cena by tedy byla 1. Jak dlouho chceš aby ta koule svítila?
+> *PJ:* Dobře základní cena by byla 2 poškození únavou. Nahrazuješ pochodeň za levitující kouli, jelikož tvá specializace a název kouzla sedí dostaneš slevu -1. Výsledná cena by tedy byla 1. Jak dlouho chceš aby ta koule svítila?
 >
 > *Čaroděj:* No co nejdéle, třeba celý den?
 >

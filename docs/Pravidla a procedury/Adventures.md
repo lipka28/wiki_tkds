@@ -6,6 +6,15 @@
 
 **Dělba pokladu:** Poklad z dobrodružství může být rozdělen mezi přeživší postavy v libovolném poměru na kterém se hráči domluví. 
 
+### Speciální role (Optional)
+
+Pro některé skupiny může být zajímavé nebo dokonce nutné, rozdělit ve skupině určité role. Časté užitečné role jsou následující:
+
+- **Kartograf** - Pokud PJ neposkytne hráčům mapu oblasti nebo kobky ve které se nachází. Je dobrý nápad, aby jeden z hráčů kreslil vlastní mapu prozkoumaných oblastí. Skupina se pak může lépe orientovat a také identifikovat neprozkoumané oblasti.
+- **Vůdce** - V obzvlášť velkých skupinách je dobré zvolit vůdce skupiny. Který funguje jako takový most mezi hráči a PJ. Vůdce na základě diskuze se skupinou vyhodnotí co budou hráči jako skupina dělat a pak předá tyto informace PJ. Ten pak už jen vyhodnotí aktivity, které mu sděli vůdce.
+- **Zapisovatel** - Podobná role jako kartograf. Hráč zaznamenává zajímavé události během hry, aby si tímto záznamem mohli hráči v budoucnu připomenout co se vlastně ve hře dělo. 
+- **Zásobovač (Světlonoš)** - V neposlední řadě je dobré mít ve skupině někoho, kdo kontroluje stav zásob, má na starosti pochodně a společnou výbavu skupiny. Případně i nájemnou sílu.
+
 ## Ověření dovednosti (Ability check)
 
 Nejasné situace může PJ řešit tím, že požádá hráče o hod na ověření dovednosti. Hod probíhá následovně: Hráč hodí *1k6* a přičte relevantní modifikátory, které lze na takovou aktivitu aplikovat. 
@@ -77,7 +86,7 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 ### Léčení
 
-**Přirozené léčení:** Za každý den nerušeného odpočinku stvoření zregeneruje *2 životy*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy.
+**Přirozená regenerace:** Za každý den nerušeného odpočinku stvoření zregeneruje *2 životy*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy. Přirozená regenerace je jedním z mála způsobů jak léčit životy ztracené kvůli únavě.
 
 **Magické léčení:** Léčit lze také pomocí lektvarů, nebo kouzel. Tato forma léčení je většinou instantní. Magické a přirozené léčení lze kombinovat.
 
@@ -120,30 +129,18 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 ## Únava
 
-Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žízeň či neklidné noci v chladu. Neustále psychické a fyzické vypětí se může lehce podepsat na kdejakém dobrodruhovy. K tomuto účelu slouží měření únavy. 
+Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žízeň či neklidné noci v chladu. Neustále psychické a fyzické vypětí se může lehce podepsat na kdejakém dobrodruhovy.
 
-**Používání únavy:** Únava je perzistentní a kumulativní negativní efekt vznikající hladem, žízní, zraněním nebo prostě nedostatkem spánku. Jako mechanika přidává určitý stupeň nebezpečí mimo standardní boje. A také funguje jako určitá forma vyměřeného času, který mohou hrdinové strávit mimo civilizaci. 
-
-**Důvody k získání únavy:** PJ může hráči přidělit bod únavy kdykoliv uzná za vhodné. Doporučuje se to a však minimálně v těchto případech:
+**Důvody k získání únavy:** PJ může hráči udělit poškození únavou kdykoliv uzná za vhodné. Doporučuje se to a však minimálně v těchto případech:
 
 - Den a noc bez spánku
 - Den a noc bez jídla či vody
 - Onemocnění
 - Obdržení vážného zranění (Zlomenina, otřes mozku, amputace a podobné)
 - Přežití vlastní smrti
-- Podstoupení náročného magického rituálu
+- Magie
 
-**Efekty únavy:** Každý získaný stupeň únavy uděluje postih ve výši hodnoty únavy do: 
-
-- Hodu na zásah
-- Poškození modifikovaných sílou
-- Obranného čísla
-- Záchranných hodů
-- Ověření dovedností. 
-
-**Smrt na únavu:** Pokud postava dosáhne únavy o hodnotě 7 nebo více musí podstoupit záchranný hod proti smrti nebo zemřít.
-
-**Zbavení se únavy:** Zbavení se únavy v divočině je ve směs nemožné. Je vyžadována buď pomoc magie a nebo strávit čas v civilizaci. Za každou noc strávenou v bezpečí civilizace je vyléčen 1 bod únavy. Při odpočinku v civilizaci nelze na únavu zemřít.
+**Efekty únavy:** Hráč obdrží 1 poškození. Toto poškození může být vyléčeno ve většině případů pouze přirozenou regenerací.
 
 ## Přenocování v divočině
 
@@ -162,9 +159,7 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 
 **Přičtení únavy či odečet zásob:** Za každou neúspěšně opatřenou potřebu si pak hráči mohou vybrat. Buď utrpí 1 stupeň únavy a nebo spotřebují 1 zásobu. (Viz zásoby v kapitole *Výbava*)
 
-**Přenocování v kobce:** Kobky na rozdíl od divočiny většinou neposkytují pohodlný nocleh, čerstvou vodu, či zvěř k lovu. Rozhodnou-li se hráči tedy přenocovat v kobce automaticky se všechny pokus o obstarání potřeb považuje za neúspěch. (3 neúspěchy) 
-
-- *Alternativní zdroje:* Pokud však hráči najdou v kobce něco, co by jím obstarání dané potřeby umožnilo. Například podzemní řeka, pohodlná postel s nebesy či goblinní kuchyně plná masa neznámého původu. Může jim být některý neúspěch odpuštěn.
+**Přenocování v kobce:** ==Není možné pokud tam není safehaven DOPSAT!==
 
 ## Cestování po světě
 

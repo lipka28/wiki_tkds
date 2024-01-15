@@ -6,7 +6,7 @@
 
 ## Základní informace
 
-**Životy:** S dosažení každé nové úrovně se mágovo zdraví zvýší o *1k4*+Modifikátor výdrže.
+**Životy:** S dosažení každé úrovně, včetně té první, se mágovo zdraví zvýší o *1k4*+Modifikátor výdrže.
 
 **Hod na zásah:** *+0* na 3., 5., 7. a 9. úrovni se zvedne o 1
 
@@ -24,7 +24,7 @@
 
 ### Nadpřirozená regenerace
 
-Mágovo tělo je nasáto magií. To způsobuje, že mág má nadpřirozenou schopnost regenerace. Mág regeneruje *2 životy za den*. Regenerace se započítává po přenocování a sčítá se i s případnou přirozenou regenerací.
+Mágovo tělo je nasáto magií. To způsobuje, že mág má nadpřirozenou schopnost regenerace. Mág regeneruje *2 životy za den* i bez nutnosti celodenního odpočinku. Regenerace se započítává po přenocování a sčítá se i s případnou přirozenou regenerací. Tato regenerace je považována za *přirozenou regeneraci*.
 
 **Od 6. úrovně:** se regenerace zvýší na *4 životy za den*. 
 

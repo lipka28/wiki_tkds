@@ -6,7 +6,7 @@
 
 ## Základní informace
 
-**Životy:** S dosažení každé nové úrovně se zlodějovo zdraví zvýší o *1k6*+Modifikátor výdrže.
+**Životy:** S dosažení každé úrovně, včetně té první, se zlodějovo zdraví zvýší o *1k6*+Modifikátor výdrže.
 
 **Hod na zásah:** *+0* na 3., 5., 7. a 9. úrovni se zvedne o 2
 
@@ -20,11 +20,11 @@
 
 ## Schopnosti povolání
 
-### Zvířecí společník
+### Oddaný zvířecí společník
 
 Lovec se může pokusit navázat pouto se zvířetem. Pokud se mu to povede. Takové zvíře se stane lovcovým oddaným společníkem.
 
-**Omezení:** Lovec může mít v jednu chvíli jen tolik zvířecích společníků, jejichž součet úrovní nepřevýší úroveň lovce a kolik zvládne ukočírovat v závislosti na své dovednosti osobnost. Tato zvířata mohou být libovolného druhu. Obří verze zvířat a magická zvířata jsou ochočitelná jen se souhlasem PJ (Jejich proces ochočení by měl být také výrazně komplikovanější.) Zvířatům podobná stvoření s lidskou nebo vyšší inteligencí není možné ochočit.
+**Omezení:** Lovec může mít v jednu chvíli jen tolik oddaných zvířecích společníků, jejichž součet úrovní nepřevýší úroveň lovce a limit společníků dán lovcovou osobností. Tito společníci můžou být libovolného zvířecího druhu. Obří verze zvířat a magická zvířata jsou ochočitelná jen se souhlasem PJ (Jejich proces ochočení by měl být také výrazně komplikovanější.) Zvířatům podobná stvoření s lidskou nebo vyšší inteligencí není možné ochočit.
 
 **Navázání vztahu:** Lovec se musí ke zvířeti přiblížit a mírumilovně s ním interagovat po dobu *1 směny*. Během kterého musí lovec podstoupit ověření *osobnosti*. Pokud uspěje, zvíře bude lovce následovat, tak dlouho dokud se o něj lovec bude starat. Nebude se ale nijak zapojovat do lovcových aktivit. Lovec může takové zvíře podrobit *základnímu výcvik* nebo ho prostě nechat jít. 
 

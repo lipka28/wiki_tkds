@@ -41,20 +41,12 @@
 - *Čarování kouzel* - Má šanci *50%* že se kouzlo povedlo seslat.
 - *Strategický pohyb* - Stvoření se může pohnout polovinou své maximální hybnosti. Lze se tak vyvázat ze vzájemného ohrožení. 
 - *Útěk* - Stvoření se vzdá své akce a může se pohybovat svou plnou rychlostí. Do začátku příštího tahu stvoření probíhají všechny útoky proti stvoření s bonusem +2 na zásah. Pokud má stvoření štít, tak jeho bonus do OČ se na tyto útoky nevztahuje.
-- *Obklíčení* - Pokud je stvoření ve vzájemném ohrožení se *3-mi* nebo více nepřáteli. tito nepřátelé mají bonus *+1* na zásah stvoření. Neplatí u výrazně větších stvoření. 
+- *Obklíčení* - Pokud je stvoření ve vzájemném ohrožení se *4-mi* a více nepřáteli. tito nepřátelé mají bonus *+1* na zásah stvoření. Navíc se obklíčené stvoření nemůže volně pohybovat. Neplatí u výrazně větších stvoření.
 
-!!! Example "Varianta pravidla: Flanking"
-    Pokud se k odehrání bojů používá strategická čtvercová síť. Lze nahradit pravidlo *obklíčení* variantou *flanking*. Ke *flanku* dochází stojí-li nepřítel mezi dvěma naproti sobě stojícím spojencům, kteří ně něj útočí z blízka. Přesně řečeno. Pokud nakreslená linka vedoucí ze středu dvou tokenů spojenců. Protíná dva protilehlé rohy čtverců nebo dvě protilehlé stěny čtverců, na kterém stojí token nepřítele. Mají tito dva spojenci bonus *+2* k zásahu nepřítele. Opět neplatí pro výrazně větší nepřátele.
+!!! Note "asd"
+    asd ==obklíčení limit 8==
 
-**Dosah útoků:** Dosah útoku je dán velikostí zbraně. U zbraní na blízku u kterých dává smysl házení je maximální vzdálenost hodu dána sílou nositele.
-
-**Zóny dosahu (optional):** Některé skupiny mohou chtít využít abstraktnější metodu hlídání vzdáleností. Obzvlášť pokud preferují odehrávání soubojů v tzv. *"Theatre of mind"*, kde měření přesných vzdáleností je spíše na obtíž. Vzdálenosti mohou být rozděleny do těchto abstraktních skupin:
-
-- *Blízko* (0 - 5 metrů) - Přesun k cíli je možný během jednoho kola. Na cíle blízko jsou možné všechny druhy útoků avšak útoky na dálku mohou být penalizovány.
-- *Poblíž* (6 - 25 metrů) - Přesun k cíli je možný během pár kol (až 5). Na cíle poblíž jsou možné útoky jen hozenými zbraněmi a všemi typy střelných zbraní.
-- *Daleko* (26 - 50 metrů) - Přesun k cíli je možný břehem několika kol (až 10). Na cíle daleko jsou možné pouze útoky střelnými zbraněmi. S tím, že malé střelné zbraně útočí s nevýhodou.
-- *Velmi daleko* (51 - 100 metrů) - Přesun k cíli je možný během několika kol (až 20). Na cíle velmi daleko jsou možné pouze útoky středními a velkými střelnými zbraněmi. S tím, že střední střelné zbraně útočí s nevýhodou
-- *Extrémně daleko* (101+ metrů) - Přesun k cíli může trvat desítky až stovky kol nebo dokonce nemusí být možný. Pokud PJ uváží může povolit útok velkou střelnou zbraní avšak pouze s nevýhodou. 
+**Dosah útoků:** Dosah útoku je dán velikostí zbraně.
 
 **Cíl v úkrytu** **Kompletní krytí:** Cíle co jsou kompletně schované v úkrytu není možné trefit střelnou zbraní. Cíle co jsou v částečném úkrytu mohou mít bonus do OČ, proti střelným zbraním, v rozsahu +1 až +4 dle uvážení. (malý stůl může být +1, zatímco hustý les může být +4)
 
@@ -63,6 +55,14 @@
 **Konec efektů:** Konec efektů, kterým tenhle tah vypršela doba trvání.
 
 **Další na tahu:** Opakuj kroky 1a až 1c pro každou stranu konfliktu v pořadí iniciativy. 
+
+### Abstraktní vzdálenosti ==Upravit přeformulovat==
+
+Při soubojích, které nepoužívají taktickou mřížku. Je také možné se setkat s následujícími pojmy představující vzdálenost:
+
+- **Blízko** - Stvoření je ve stejné bojové zóně jako hráč. Na stvoření lze útočit snad všemi druhy útoků. Včetně nutného přesunu pro útok na blízku, i když je postava ve vzájemném ohrožení s jiným stvořením.
+- **Poblíž** - Stvoření je ve vedlejší bojové zóně připojené k zóně ve které, se nachází hráč. Hráč může používat útoky na dálku nebo se pohnout do nové zóny a použít útok na blízku. To vše během jednoho kola. 
+- **Daleko** - Stvoření mimo dosah běžných útoků hráče nebo ke kterému se nedá jednoduše dostat. Útoky některými zbraněmi na dálku mohou být stále možné.
 
 ## Útok obecně
 

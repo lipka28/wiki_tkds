@@ -6,7 +6,7 @@
 
 ## Základní informace
 
-**Životy:** S dosažení každé nové úrovně se zdraví akolyty zvýší o *1k4+Modifikátor výdrže.
+**Životy:** S dosažení každé úrovně, včetně té první, se zdraví akolyty zvýší o *1k4*+Modifikátor výdrže.
 
 **Hod na zásah:** *+0* na 3., 5., 7. a 9. úrovni se zvedne o 1
 

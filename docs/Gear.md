@@ -17,6 +17,10 @@ Postava může mít maximálně *10+Modifikátor Síly* slotů vybavených před
 
 **Uschované předměty:** Uschované předměty jsou ty, které má dobrodruh v "batohu". Předmět je nutné před použitím z batohu vyndat. Vyndání předmětu trvá *1 dlouhou akci*.
 
+### Mince a nosnost
+
+Každá hráčská postava má měšec s kapacitou *100 mincí* (libovolné hodnoty), který se nezapočítává do celkové nosnosti postavy. Předpokládá se, že měšec je součásti vybavených předmětů postavy. Postava, která si přeje u sebe nosit větší obnos peněz musí tak udělat na úkor své nosnosti. *100 mincí* zabírá *1 slot* a *10 mincí* zabírá *L*.
+
 ### Váha běžných pokladů
 
 | TYP POKLADU  | VÁHA |
@@ -76,13 +80,13 @@ Tato kategorizace je také důležitá v situacích kdy záleží na prioritě z
 
 ### Dostřel
 
-- **Hozený** - Zbraní, u které to dává smysl, lze hodit do efektivní vzdálenosti dané hodnotou síly postavy (Poblíž). K poškození se navíc pak připočítává její modifikátor síly.
-- **Krátký** - Zbraň má efektivní dostřel do vzdálenosti *25 metrů* (Poblíž)
-- **Střední** -  Zbraň má efektivní dostřel na vzdálenost do *50 metrů* (Daleko) 
-- **Daleký** - Zbraň má efektivní dostřel na vzdálenost do *100 metrů* (Velmi daleko)
+- **Hozený** - Zbraní, u které to dává smysl, lze hodit do efektivní vzdálenosti dané hodnotou síly postavy. K poškození se navíc pak připočítává její modifikátor síly.
+- **Krátký** - Zbraň má efektivní dostřel do vzdálenosti *25 metrů*
+- **Střední** -  Zbraň má efektivní dostřel na vzdálenost do *50 metrů*
+- **Daleký** - Zbraň má efektivní dostřel na vzdálenost do *100 metrů*
 - **!** - Pokud je u dostřelu znak vykřičníku. Znamená to, že zbraní lze útočit pouze na efektivní vzdálenost.
 
-**Neefektivní dostřel:** S každou střelnou a hozenou zbraní lze útočit i na tak zvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu (Nebo o stupeň výš toho abstraktního. Např.: Daleko -> Velmi daleko). Takový útok však probíhá *s nevýhodou* na zásah.
+**Neefektivní dostřel:** S každou střelnou a hozenou zbraní lze útočit i na tak zvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu. Takový útok však probíhá *s nevýhodou* na zásah.
 
 **Nabíjecí zbraně:** Některé střelné zbraně, jako například kuše či muškety, mohou vyžadovat přebíjení. Přebíjení trvá *dlouhou akci*. Nabíjecí zbraně mívají bonus *+1* k poškození.
 
@@ -158,7 +162,7 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 **Krátký meč:** Meč podobající se spíše většímu noži. Kombinuje praktickou přenosnost nože a nebezpečnost meče.
 
-**Nůž:** Nenápadné dobře uchopitelné malé ostří. Vhodná jako záložní zraň, když není nic lepšího po ruce. *Speciální:* Lze hodit(jen na efektivní vzdálenost)
+**Nůž:** Nenápadné dobře uchopitelné malé ostří. Vhodná jako záložní zraň, když není nic lepšího po ruce. *Speciální:* Lze hodit (jen na efektivní vzdálenost)
 
 **Obouruční meč:** Masivní meč jehož hlavní výhodou oproti jiným těžkým zbraním je jeho verzatilní využití. *Speciální:* Kritický zásah obouručním mečem shodí nepřítele na zem.
 
@@ -374,11 +378,11 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 - *Léčení:* 1 použití umožňuje vyléčit 2 životy denně. (1 použití / cíl)
 
-**Lucerna:** Poskytuje světlo v oblasti *8 metrů* a má posuvnou clonu, kterou lze světlo zakrýt nebo namířit jen jedním směrem. K fungování vyžaduje olej. 
+**Lucerna:** Poskytuje světlo v oblasti *9 metrů* a má posuvnou clonu, kterou lze světlo zakrýt nebo namířit jen jedním směrem. K fungování vyžaduje olej. 
 
 **Nástroj:** Věci jako lopaty, vidle, krumpáče a jim podobné.
 
-**Pochodeň:** Poskytuje světlo v okolí *8 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zaútočeno a nebo je pochodeň upuštěna na zem, existuje existuje *50%* šance, že se zničí a zhasne. 
+**Pochodeň:** Poskytuje světlo v okolí *9 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zaútočeno a nebo je pochodeň upuštěna na zem, existuje existuje *50%* šance, že se zničí a zhasne. 
 
 **Protijed (slabý):**  Slabý protijed ihned vyléčí slabou otravu. 
 

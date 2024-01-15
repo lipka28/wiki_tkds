@@ -6,7 +6,7 @@
 
 ## Základní informace
 
-**Životy:** S dosažení každé nové úrovně se bojovníkovo zdraví zvýší o *1k8*+Modifikátor výdrže.
+**Životy:** S dosažení každé úrovně, včetně té první, se bojovníkovo zdraví zvýší o *1k8*+Modifikátor výdrže.
 
 **Hod na zásah:** *+0* na 3., 5., 7. a 9. úrovni se zvedne o 2
 

@@ -1,12 +1,12 @@
 # Bijec
 
-![Image title](/assets/classes/fighter.webp)
+![Image title](/assets/classes/Slayer.jpeg)
 
 *asd* ==přepsat==
 
 ## Základní informace
 
-**Životy:** S dosažení každé nové úrovně se bojovníkovo zdraví zvýší o *1k10*+Modifikátor výdrže.
+**Životy:** S dosažení každé úrovně, včetně té první, se bojovníkovo zdraví zvýší o *1k10*+Modifikátor výdrže.
 
 **Hod na zásah:** *+0* na 3., 5., 7. a 9. úrovni se zvedne o 2
 
@@ -14,7 +14,7 @@
 
 **Ovládané zbraně:** Sekery + smrtoufnice
 
-**Ovládaná brnění:** Lehké
+**Ovládaná brnění:** Žádné (Polonahý)
 
 ## Schopnosti povolání
 
@@ -22,23 +22,21 @@
 
 asd
 
-### Zběsilí zabiják
+### Lhostejnost
 
 asd
 
-Rage, Cleave, charge
+### Zběsilí zabiják
+
+asd Cleave, charge, Crit progression
 
 ### Kůže z kamene
 
 asd Automatic armor progression / no armor
 
-### Legendární bijec
+### Thrill of the fight (Extra round) od 8. levelu
 
-asd Slayer type (vrah specifického druhu pasive bonus?)
-
-### Crit progression
-
-asd
+asd Výtězný boj ve kterém aspoň jedno monstrum bylo zabit seknutím smrtoufnice
 
 
 
