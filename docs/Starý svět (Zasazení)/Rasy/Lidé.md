@@ -14,13 +14,10 @@
 
 **Lidská jména:** Běžná jména, která znáš.
 
-**Dostupná povolání:** Akolyta, Alchymista, Lovec, Mág, Válečník, Zabiják, Zloděj
-
 **Speciální vlastnosti:**
 
-- *Nadaný* - Člověk získává *2 extra dovednostní body* do dovedností vlastního výběru. Výsledkem nesmí být dovednosti vyšší jak 18 bodů.
 - *Přístup ke střelnému prachu* - Lidé mají přístup ke zbraním používající střelný prach.
-- *Ovládnutí magie* - Lidé mají přístup k povolání mága.
 
----
+**Výchozí specializace:**
 
+Lidé si mohou vybrat jako výchozí specializaci *libovolnou specializaci* pro kterou splňují podmínky. Pokud se jedná o jinou specializaci než náboženství. Může si hráč, pokud chce, přidat i *1 stupeň specializace do náboženství*. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.

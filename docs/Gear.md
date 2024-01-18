@@ -184,7 +184,7 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 **Škrtící drát:** Pevný drát s dvěma rukojetěmi vhodný především pro škrcení nic netušících cílů. *Speciální:* Cíl překvapený zachycen škrtícím drátem zezadu ztrácí *1k4 životů* každé kolo. Škrcený může *útočit* na útočníka *s postihem -2*, pokud zasáhne, tak se vysvobodí. 
 
-**Válečná sekera:** Masivní obouruční sekera, které přetne takřka cokoliv. *Speciální:* Kritický zásah válečnou sekerou shodí nepřítele na zem; Lze obouručně hodit (jen na efektivní vzdálenost)
+**Válečná sekera:** Masivní obouruční sekera, které přetne takřka cokoliv. *Speciální:* Kritický zásah válečnou umožní opakovat útok na blízku do jiného cíle v dosahu; Lze obouručně hodit (jen na efektivní vzdálenost)
 
 **Válečné kladivo:** Kovová tyč s masivní hlavicí, která působí masivní drtivá poškození. *Speciální:* Kritický zásah válečným kladivem *odhodí nepřítele 1k4 mertrů* a shodí jej na zem.
 
@@ -293,6 +293,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 | PŘEDMĚT                                                  |      VÁHA      | CENA  |
 | :------------------------------------------------------- | :------------: | :---: |
+| Běžná sušená bylina (10 ks)                              |       1        | 5 st  |
 | Dalekohled                                               |       1        | 20 st |
 | Dřevěný kabinet na lektvary                              |       2        | 50 st |
 | Dřevěný kůl (5 ks)                                       |       5L       | 1 md  |
@@ -304,6 +305,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Kovová pouta                                             |       1        | 15 st |
 | Kovový hřeb                                              |       L        | 5 st  |
 | Koňské sedlo a otěže                                     | 3 (0 nasazeno) | 25 st |
+| Kotlík na vaření                                         |       4        | 5 st  |
 | Křesadlo                                                 |       1        | 15 st |
 | Křída (10)                                               |     1(10L)     | 1 st  |
 | Lahvička kyseliny                                        |       1        | 20 st |
@@ -311,7 +313,6 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Lahvička svěcené vody                                    |       1        | 25 st |
 | Lahvička s korkovou zátkou                               |       1        | 1 st  |
 | Lékárnička (10 použití)                                  |       1        | 50 st |
-| Lékárnička - zásoby (+10 použití)                        |       1        | 40 st |
 | Lucerna                                                  |       1        | 10 st |
 | Motouz (25 metrů)                                        |       1        | 1 st  |
 | Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo atd...) |       1        | 5 st  |
@@ -319,8 +320,8 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Pochodeň (5 kusů)                                        |       5L       | 1 st  |
 | Protijed (slabý)                                         |       L        | 30 st |
 | Provaz (10 metrů)                                        |       1        | 2 st  |
+| Přenosná alchymistická sada (10 použití)                 |       2        | 20 st |
 | Psací potřeby (10 použití)                               |       1        | 20 st |
-| Psací potřeby - extra inkoust a pergamen (+10 použití)   |       1        | 15 st |
 | Pytel kovových ježků (5 použití)                         |       1        | 10 st |
 | Rybářské náčiní                                          |       1        | 5 st  |
 | Řetěz (2 metry)                                          |       1        | 6 st  |
@@ -331,17 +332,19 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Stan (pro 1)                                             |       1        | 5 st  |
 | Stan (pro 2)                                             |       2        | 15 st |
 | Stan (pro 4)                                             |       3        | 40 st |
+| Svatý symbol                                             |       L        | 5 st  |
 | Víno (1 litr, obyčejné)                                  |       1        | 2 st  |
 | Víno (1 litr, Kvalitní)                                  |       1        | 25 st |
 | Zápalky (10 použití)                                     |       L        | 5 st  |
 | Zásoby                                                   |       L        | 1 st  |
 | Zlodějské náčiní (10 použití)                            |       1        | 25 st |
-| Zlodějské náčiní - náhradní nástroje (+10 použití)       |       1        | 15 st |
 | Zrcátko                                                  |       L        | 5 st  |
 | Zvonek                                                   |       L        | 1 st  |
 | A další... (Řekni PJ co potřebuješ)                      |       ??       |  ??   |
 
 **Kontejner (Kon.):** Obsazené předměty s tímto označením zabírají místo v inventáři pouze pokud, jsou-li v něm uschované. Při běžném použití žádné místo nezabírají. (Místo je zabíráno pouze předměty uschovanými uvnitř)
+
+**Běžná sušená bylina:** Užitečná především v alchymii.
 
 **Dalekohled:** Umožňuje vidět věci v dálce jako by byly blíž.
 
@@ -357,6 +360,8 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 **Kovová pouta:** Kovová pouta s řetězem. Vhodné na ruce i nohy.
 
 **Kovový hřeb:** Kus kovu, který pokud zatlučen do libovolného mechanizmu, může značně narušit jeho fungování. Vhodné také k zasekávání dveří. Odborná instalace vyžaduje kladivo.
+
+**Kotlík na vaření:** Odolný cestovní kotlík, který lze využít k alchymii a jinému vaření.
 
 **Křesadlo:** Užitečné k zapalování ohňů a pochodní. Použití křesadla při vypjatých situacích (například v boji) úspěšně podpálí s pravděpodobností *1 z 6-ti*.
 
@@ -376,7 +381,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. 
 
-- *Léčení:* 1 použití umožňuje vyléčit 2 životy denně. (1 použití / cíl)
+- *Léčení:* 1 použití trvá 1 směnu a umožňuje vyléčit 2 životy denně. (1 použití / cíl)
 
 **Lucerna:** Poskytuje světlo v oblasti *9 metrů* a má posuvnou clonu, kterou lze světlo zakrýt nebo namířit jen jedním směrem. K fungování vyžaduje olej. 
 
@@ -389,6 +394,8 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 - *Trvání:* 6 směn nebo do první otravy. (Co přijde dřív) 
 - *Slabé jedy:* Jedy typu I nebo II a jedy monster , které umožňují záchranný hod s bonusem k hodu jsou považovány za slabé. 
 - *Jiné jedy:* V případě silnějších jedů tento protijed nemá žádný účinek.
+
+**Přenosná alchymistická sada:** Vyžadována pro alchymistické rozbory.
 
 **Psací potřeby:** Sada psacích per, inkoustů, pečetního vosku a listů pergamenu pro běžné poznámky, nákresy či korespondenční účely. 
 
@@ -409,6 +416,8 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 **Spacák:** Nutný pro přenocování v divočině nebo v kobkách. Nepřítomnost spacáku automaticky způsobuje *1 bod únavy* nezávisle na úspěchu přenocování v divočině.
 
 **Stan:** Nutný pro přenocování ve špatných povětrnostních podmínkách. Nepřítomnost stanu automaticky způsobuje ve špatných podmínkách *1 bod únavy* nezávisle na úspěchu přenocování v divočině. V extrémně špatném počasí může znamenat i další postihy.
+
+**Svatý symbol:** Nutný pro vykonávání náboženských potřeb.
 
 **Zápalky:** Užitečné k zapalování ohňů a pochodní. Použití při vypjatých situacích (například v boji) k úspěšnému zapálení dojde s pravděpodobností *5 z 6-ti*.
 

@@ -43,9 +43,6 @@
 - *Útěk* - Stvoření se vzdá své akce a může se pohybovat svou plnou rychlostí. Do začátku příštího tahu stvoření probíhají všechny útoky proti stvoření s bonusem +2 na zásah. Pokud má stvoření štít, tak jeho bonus do OČ se na tyto útoky nevztahuje.
 - *Obklíčení* - Pokud je stvoření ve vzájemném ohrožení se *4-mi* a více nepřáteli. tito nepřátelé mají bonus *+1* na zásah stvoření. Navíc se obklíčené stvoření nemůže volně pohybovat. Neplatí u výrazně větších stvoření.
 
-!!! Note "asd"
-    asd ==obklíčení limit 8==
-
 **Dosah útoků:** Dosah útoku je dán velikostí zbraně.
 
 **Cíl v úkrytu** **Kompletní krytí:** Cíle co jsou kompletně schované v úkrytu není možné trefit střelnou zbraní. Cíle co jsou v částečném úkrytu mohou mít bonus do OČ, proti střelným zbraním, v rozsahu +1 až +4 dle uvážení. (malý stůl může být +1, zatímco hustý les může být +4)
@@ -56,9 +53,9 @@
 
 **Další na tahu:** Opakuj kroky 1a až 1c pro každou stranu konfliktu v pořadí iniciativy. 
 
-### Abstraktní vzdálenosti ==Upravit přeformulovat==
+## Abstraktní vzdálenosti (Optional)
 
-Při soubojích, které nepoužívají taktickou mřížku. Je také možné se setkat s následujícími pojmy představující vzdálenost:
+Při soubojích, které nepoužívají taktickou mřížku. Je možné se setkat s následujícími pojmy představující vzdálenost:
 
 - **Blízko** - Stvoření je ve stejné bojové zóně jako hráč. Na stvoření lze útočit snad všemi druhy útoků. Včetně nutného přesunu pro útok na blízku, i když je postava ve vzájemném ohrožení s jiným stvořením.
 - **Poblíž** - Stvoření je ve vedlejší bojové zóně připojené k zóně ve které, se nachází hráč. Hráč může používat útoky na dálku nebo se pohnout do nové zóny a použít útok na blízku. To vše během jednoho kola. 
@@ -75,7 +72,7 @@ Při soubojích, které nepoužívají taktickou mřížku. Je také možné se 
 | HODY NA ÚTOK                                                 |
 | :----------------------------------------------------------- |
 | *1. Hoď 1k20*                                                |
-| *2. Připočti modifikátory:* Bonus z povolání. Modifikátor síly při boji zblízka a zručnosti při boji na dálku. Nezapomeň také na krytí. Monstra mají modifikátory útoku ve svém stat-bloku. |
+| *2. Připočti modifikátory:* Bonus k útoku. Modifikátor síly při boji zblízka a zručnosti při boji na dálku. Nezapomeň také na krytí. Monstra mají modifikátory útoku ve svém stat-bloku. |
 | *3. Stanov OČ:* Postavy i monstra mají OČ napsané ve svém stat-bloku. |
 | *4. Výsledek:* Pokud je výsledek útoku stejný nebo vyšší než OČ cíle útok byl úspěšný, můžeš házet na poškození. |
 

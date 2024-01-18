@@ -33,11 +33,11 @@ Na rozdíl od hodu 20 stěnou kostkou, kde se situační modifikátory pohybují
     Přílišné spoléhání na ověření dovedností může mít neblahý efekt na průběh a zábavnost hry. Pokud se většina situací ve hře dá zredukovat na řešení za pomocí hodu kostkou můžete se rychle začít nudit. Hráči by měli být motivováni interagovat ze světem a hledat řešení v něm. To se ze strany PJ dá podpořit například tím, že pokud hráči přijdou s rozumným proveditelným plánem, jak vyřešit situaci. PJ by měl nechat plán proběhnout bez zbytečných hodů kostkou.
 
 !!! note "Předpokládaná kompetence"
-    Je dobré myslet na to, že hráčské postavy jsou především dobrodruzi. Měli by tedy zvládat základní věci, jako například nerušený šplh po laně nebo jízda na koni, bez zbytečných ověřovacích hodů. To samé platí pro základní kompetence vyplývající z jednotlivých povolání.
+    Je dobré myslet na to, že hráčské postavy jsou především dobrodruzi. Měli by tedy zvládat základní věci, jako například nerušený šplh po laně nebo jízda na koni, bez zbytečných ověřovacích hodů.
 
 ## Ověření schopnosti (Skill check)
 
-Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tím rozdílem, že nejsou vázána na žádnou dovednost a hranice úspěchu není 4, ale je stanovena zdrojem schopnosti (třeba povolání a úroveň postavy). Například zlodějova schopnost "manipuluj mechanizmus". U spousty schopností taktéž není možné předpokládat základní kompetence u postav, které nejsou v daném oboru trénované. Takové postavy se o danou akci většinou nemohou pokusit.
+Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tím rozdílem, že nejsou vázána na žádnou dovednost a hranice úspěchu není 4, ale je stanovena zdrojem schopnosti (třeba úrovní specializace). Například zlodějova schopnost "manipuluj mechanizmus". U spousty schopností taktéž není možné předpokládat základní kompetence u postav, které nejsou v daném oboru trénované. Takové postavy se o danou akci většinou nemohou pokusit.
 
 **Základní kompetence:** Pokud u postavy nelze předpokládat základní kompetenci a porozumění akce o kterou se pokouší a však i bez těchto znalostí je akce stále proveditelná. Obtížnost takové akce by měla být vždy *6* (háže se bez modifikování dovednostmi)
 
@@ -99,6 +99,14 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 - *Záchranný hod:* Záchranný hod je třeba udělat za každý magický předmět co měla postava u sebe. Počítají se také aplikovatelné bonusy(a postihy), kterými postava disponuje proti danému efektu.  
 - *Bonusy:* Magické předměty poskytující bonus pro boj (jako například zbraň dává +2 pro zásah a poškození, nebo zbroj dává +1 k OČ. ) mohou tento bonus také přičíst k záchrannému hodu.
 
+#### Na prahu smrti (Optional)
+
+Skupiny, které chtějí snížit smrtelnost hry mohou použít tohle volitelné pravidlo. Hráčská postavy, jejichž životy klesnou na 0, upadají do bezvědomí a objevují se *na prahu smrti*.
+
+**Efekt:** Postava na prahu smrti má na konci každého svého tahu šanci 3 z 6-ti na to, že zemře.
+
+**Vyléčení:** Okamžité léčení libovolného rozsahu. Přivede postavu zpět k vědomí s *1 životem*. Postava také návratem z prahu smrti permanentně ztratí *1 náhodný dovednostní bod*.
+
 ## Nebezpečí a nástrahy
 
 Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro jejich řešení.
@@ -157,9 +165,9 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 
 **Vyhodnocení:** Výsledek *4 nebo více* na *d6* je považován za úspěšné obstarání dané potřeby. V opačném případě se jedná o neúspěch.
 
-**Přičtení únavy či odečet zásob:** Za každou neúspěšně opatřenou potřebu si pak hráči mohou vybrat. Buď utrpí 1 stupeň únavy a nebo spotřebují 1 zásobu. (Viz zásoby v kapitole *Výbava*)
+**Přičtení únavy či odečet zásob:** Za každou neúspěšně opatřenou potřebu si pak hráči mohou vybrat. Buď utrpí 1 bod únavy a nebo spotřebují 1 zásobu. (Viz zásoby v kapitole *Výbava*)
 
-**Přenocování v kobce:** ==Není možné pokud tam není safehaven DOPSAT!==
+**Přenocování v kobce:** Ve většině případů není možné, protože by postavy byly celou noc rušeny putujícími monstry. Může však existovat výjimka v podobě dobře ukrytého a zabezpečeného místa uvnitř kobky, kde se dá nerušeně přenocovat.
 
 ## Cestování po světě
 
@@ -253,12 +261,15 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Vzdálenost setkání:** Situace při které k setkání dojde většinou určuje vzdálenost mezi účastníky. Pokud však není na první pohled jasné jak jsou účastníci daleko od sebe, je možné určit vzdálenost náhodným hodem dle místa setkání:
 
-- *Vnitřní prostory:* *4k6* metrů (Polovina při překvapení)
-- *Divočina, moře nebo vzduch:* *4k6 x 10* metrů (nebo *1k4 x 10* metrů pokud je některá ze stran překvapená)
+- *Vnitřní prostory:* *2k6* polí (Polovina při překvapení). Pro převod na metry je třeba vynásobit výsledek 3-mi
+- *Divočina, moře nebo vzduch:* *4k6 x 10* polí (nebo *1k4 x polí pokud je některá ze stran překvapená). Pro převod na metry je třeba vynásobit výsledek 3-mi
+
+!!! note "Velikost pole"
+    Pole v tomto případě předpokládá čtvercovou síť, kde *1 pole = 10 stop* (asi 3 metry)
 
 **Akce** **Hráčů:** Hráči si rozhodnou co chtějí dělat 
 
-**Akce monster:** Pokud ze situace není jasné jak by monstrum reagovalo. Lze to rozhodnout pomocí hodu na reakci dle tabulky níže.
+**Akce monster:** Pokud ze situace není jasné jak by monstrum reagovalo. Lze to rozhodnout pomocí hodu na reakci dle tabulky níže. Došlo-li na komunikaci mezi hráči a monstrem, tak k hodu na reakci lze přičíst modifikátor osobnosti hráče, který komunikaci vedl. 
 
 | 2k6         | VÝSLEDEK                   |  REAKCE NA JINÉ NPC INTERAKCE  |
 | :---------- | :------------------------- | :----------------------------: |
@@ -276,7 +287,7 @@ Pokud se hráči nebo monstrum nechce účastnit setkání nebo boje. Může se 
 
 ### Únik
 
-Rozhodne-li se stvoření uniknout ze setkání. Záleží na rozhodnutí protistrany zda chce pronásledovat. Pokud tak, například u NPC, není jasné ze situace. Může rozhodnutí proběhnout hodem na reakci.
+Rozhodne-li se stvoření uniknout ze setkání. Záleží na rozhodnutí protistrany zda chce pronásledovat. Pokud tak, například u cizích postav, není jasné ze situace. Může rozhodnutí proběhnout hodem na reakci.
 
 **Překvapení:** Pokud je protistrana překvapená. Únik automaticky uspěje.
 

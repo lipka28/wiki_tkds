@@ -91,18 +91,18 @@ Základní fyzické a psychické dovednosti jsou popsány následujícími pěti
 ### Rasa
 Hráčská postava může být buď člověk nebo některá z ostatních hráčům dostupných ras. různé rasy mají různé speciální schopnosti a volba rasy také může ovlivnit, jak na vás budou ostatní stvoření ve světě reagovat. To však záleží především na PJ, jeho světě a příběhu, který chce vyprávět.
 
-### Povolání
+### Specializace
 
-Každá hráčská postava má povolání, které určuje její schopnosti.
+Každá hráčská postava má své úrovně rozdělené do sady specializací, které určuje její schopnosti. Specializace jsou *Boj*, *Magie*, *Náboženství* a *Řemeslo*.
 
 ### Úroveň
-Úroveň představuje zkušenost postavy jako dobrodruha. Hráč většinou začíná na úrovni 1 a může svou úroveň zvýšit účastí na dobrodružství. Vyšší úrovně odemykají nové schopnosti povolání a zvyšují šance na přežití dobrodruha.
+Úroveň představuje zkušenost postavy jako dobrodruha. Hráč většinou začíná na úrovni 1 a může svou úroveň zvýšit účastí na dobrodružství. Získané úrovně pak může postava investovat do specializací.
 
 !!! warning "Hit dice"
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem *hit dice*. Hit dice je ve směs totéž, co úroveň a často ze na základě ní určují životy ale i třeba velikost monster. Pro účely výpočtu životů se tedy předpokládá, že *1 hit dice (HD)* reprezentuje jeden hod *k8*. Například pro určení životů monstra z *3+2 HD* se hází *3k8+2*.
 
 ### Zkušenostní body (XP)
-Postup postavy ve hře je reprezentován kumulací zkušenostních bodů. Když hráčova postava získá dostatek zkušenostních bodů, postoupí na další úroveň ve svém povolání. Počet potřebných zkušenostních bodů k dosažení nové úrovně a způsoby získávání zkušeností naleznete [zde](/LevelUp).
+Postup postavy ve hře je reprezentován kumulací zkušenostních bodů. Když hráčova postava získá dostatek zkušenostních bodů, postoupí na další úroveň. Počet potřebných zkušenostních bodů k dosažení nové úrovně a způsoby získávání zkušeností naleznete [zde](/LevelUp).
 
 ### Životy (HP)
 Životy jsou doslovnou schopností postavy vyhýbat se smrti. Každé stvoření, včetně postav hráčů, má maximální životy a aktuální životy. Pokud je stvoření nějakým způsobem zraněno, sníží se jeho počet aktuálních životů. Pokud aktuální životy klesnou na 0 stvoření umírá. Odpočinek a jiné zdroje léčení mohou aktuální životy navýšit, nikdy však nad hodnotu maximálních životů.
@@ -116,11 +116,12 @@ Určuje schopnost postavy vyhnout se nebo vykrýt útoky. Obranné číslo je mo
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na AC (OČ), které se s vylepšováním snižuje na místo zvyšování. Pro přepočet na OČ *odečtěte* hodnotu psanou v materiálu *od 19-ti*. Například zbroj poskytující *5 DAC* přepočítáte na OČ následovně: *19 - 5 = 14 OČ*.
 
 ### Záchranný hod
+
 Určuje schopnost postavy vyhnout se některým nebezpečným či dokonce smrtelným efektům. Více o záchranných hodech [zde](/Pravidla a procedury/Adventures/#zachranne-hody)
 
 ### Modifikátor zásahu
 
-Určuje schopnost postavy zasáhnout nepřítele v boji. Výše tohoto modifikátoru je určena převážné povoláním postavy a její úrovní. Přičítá se však i modifikátor síly (pro útok na blízku) nebo zručnosti (pro útok na dálku).
+Určuje schopnost postavy zasáhnout nepřítele v boji. Výše tohoto modifikátoru je určena převážné specializacemi postavy a jejich úrovní. Přičítá se však i modifikátor síly (pro útok na blízku) nebo zručnosti (pro útok na dálku).
 
 !!! warning "Přepočet THAC0"
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem THAC0 (To Hit AC 0), který se s vylepšováním snižuje na místo zvyšování. Pro přepočet THAC0 na modifikátor zásahu *odečtete* hodnotu psanou v materiálu *od 19-ti*. Například útok s *THAC0 10* přepočítáte na ToHit následovně: *19 - 10 = +9 ToHit*.
@@ -136,4 +137,4 @@ Hybnost představuje základní rychlost s jakou se postava zvládá pohybovat z
 Gramotnost a počet jazyků, které se postava může naučit. Je dána rozumem postavy.
 
 ### Schopnosti
-Jsou sadou výjimečných schopností, které postava získá na základě volby rasy a povolání nebo na základě voleb, které učiní při hře samotné.
+Jsou sadou výjimečných schopností, které postava získá na základě volby rasy a specializací nebo na základě voleb, které učiní při hře samotné.
