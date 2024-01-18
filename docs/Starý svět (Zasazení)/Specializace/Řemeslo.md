@@ -40,32 +40,30 @@ Postavy specializující se na řemeslo se mohou naučit sadou výjimečných sc
 !!! warning "Omezení zbroje"
     Provádění některých schopností je penalizováno, pokud na sobě má postava *střední nebo těžší* zbroj. Tyto schopnosti mají v popisku umíněno *"Omezení zbroje"*. U takových schopností *se zvedá HU o 2 za každý stupeň zbroje nad lehkou*.
 
-| Seznam možných schopností   | Stručný popis                                                |
-| --------------------------- | :----------------------------------------------------------- |
-| Alchymie - Míchání lektvarů | Výroba lektvarů s různými efekty                             |
-| Alchymie - Rozbor           | Identifikace materiálů a složení lektvarů                    |
-| Bylinkářství                | Sběr bylin a léčení za pomocí bylin                          |
-| Eskamotáž                   | Kradení či podsouvání předmětů a jiné triky                  |
-| Extrakce                    | Sběr vzácných surovin z monster                              |
-| Jazyk                       | Naučit se specifický jazyk                                   |
-| Manipuluj mechanizmus       | Odemykání zámků a jiné manipulace drobných mechanizmů        |
-| Odezírání ze rtů            | Odezírání ze rtů                                             |
-| Ostražitost                 | Šance nebýt překvapen na začátku boje                        |
-| Práce s jedy                | Získání extra použití s jedů                                 |
-| Prohledat                   | Důkladné prohledání malého prostoru                          |
-| Průzkum oblasti             | Důkladný průzkum oblasti několika kilometrů                  |
-| Přelsti magii               | Aktivace magických předmětů bez jejich znalosti              |
-| Přežití                     | Sběr jídla v divočině a jiné obstarávání potřeb              |
-| Rozluštit text              | Rozluštění šifer a neznámých jazyků                          |
-| Skrývání                    | Nenápadné ukrývání a plížení                                 |
-| Stopování                   | Stopování jiných stvoření                                    |
-| Šaráda                      | Vydávání se za jiná stvoření a napodobování hlasů            |
-| Šplhání po stěnách          | Šplhání po stěnách bez jasných úchytů a bez výbavy           |
-| Zavraždit                   | Přepadení a okamžité zabití humanoidního nepřítele           |
-| Znalost příšer              | Vybavení si důležitých informací o monstrech                 |
-| Vlastní                     | Prodiskutuj s PJ jakoukoliv nebojovou schopnost co tě napadne. |
-
-==Přidat k názvům direct linky==
+| Seznam možných schopností                                    | Stručný popis                                                |
+| ------------------------------------------------------------ | :----------------------------------------------------------- |
+| [Alchymie - Míchání lektvarů](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#alchymie-michani-lektvaru) | Výroba lektvarů s různými efekty                             |
+| [Alchymie - Rozbor](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#alchymie-rozbor) | Identifikace materiálů a složení lektvarů                    |
+| [Bylinkářství](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#bylinkarstvi) | Sběr bylin a léčení za pomocí bylin                          |
+| [Eskamotáž](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#eskamotaz) | Kradení či podsouvání předmětů a jiné triky                  |
+| [Extrakce](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#extrakce) | Sběr vzácných surovin z monster                              |
+| [Jazyk](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#jazyk) | Naučit se specifický jazyk                                   |
+| [Manipuluj mechanizmus](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#manipuluj-mechanizmus) | Odemykání zámků a jiné manipulace drobných mechanizmů        |
+| [Odezírání ze rtů](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#odezirani-ze-rtu) | Odezírání ze rtů                                             |
+| [Ostražitost](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#ostrazitost) | Šance nebýt překvapen na začátku boje                        |
+| [Práce s jedy](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#prace-s-jedy) | Získání extra použití s jedů                                 |
+| [Prohledat](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#prohledat) | Důkladné prohledání malého prostoru                          |
+| [Průzkum oblasti](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#pruzkum-oblasti) | Důkladný průzkum oblasti několika kilometrů                  |
+| [Přelsti magii](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#prelsti-magii) | Aktivace magických předmětů bez jejich znalosti              |
+| [Přežití](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#preziti) | Sběr jídla v divočině a jiné obstarávání potřeb              |
+| [Rozluštit text](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#rozlustit-text) | Rozluštění šifer a neznámých jazyků                          |
+| [Skrývání](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#skryvani) | Nenápadné ukrývání a plížení                                 |
+| [Stopování](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#stopovani) | Stopování jiných stvoření                                    |
+| [Šaráda](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#sarada) | Vydávání se za jiná stvoření a napodobování hlasů            |
+| [Šplhání po stěnách](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#splhani-po-stenach) | Šplhání po stěnách bez jasných úchytů a bez výbavy           |
+| [Zavraždit](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#zavrazdit) | Přepadení a okamžité zabití humanoidního nepřítele           |
+| [Znalost příšer](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#znalost-priser) | Vybavení si důležitých informací o monstrech                 |
+| Vlastní                                                      | Prodiskutuj s PJ jakoukoliv nebojovou schopnost co tě napadne. |
 
 #### Alchymie - Míchání lektvarů
 
