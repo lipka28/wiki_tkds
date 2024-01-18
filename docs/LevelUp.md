@@ -1,4 +1,4 @@
-# Postup na vyšší úroveň ==Překopat wording==
+# Postup na vyšší úroveň
 
 <img src="/assets/levelUp.webp" style="zoom:100%;" />
 
