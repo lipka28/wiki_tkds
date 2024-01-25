@@ -26,7 +26,7 @@
 
 **Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 6-ti vteřin. Čistě z mechanického hlediska pak hráč může provést buď *dlouhou akci* a nebo *pohyb* a *běžnou akci*. Hráč může také své kolo prokládat *volnými akcemi*. Jednotlivé akce fungují následovně.:
 
-- *Dlouhá akce:* Za dlouhé akce se považují akce, které zabírají celé kolo. Například sesílání kouzla, přebíjení zbraně a nebo vybavení předmětu z inventáře. 
+- *Dlouhá akce:* Za dlouhé akce se považují akce, které zabírají celé kolo. Například sesílání kouzla, přebíjení zbraně a nebo vybavení předmětu z inventáře. Vyhodnocení dlouhých akcí probíhá až na konci tahu dané strany.
 - *Pohyb:* Stvoření neprovádějící dlouhou akci se může pohnout až o svou hybnost (mimo stvoření, která jsou ve vzájemném ohrožení). Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně.
 - *Běžná akce:* Za běžnou akci je považován například útok, výměna zbraní a nebo použití vybaveného předmětu.
 - *Volné akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
@@ -49,7 +49,7 @@
 
 **Střelba do šarvátky:** Pokusí-li se stvoření o útok na dálku proti nepříteli, které je v vzájemném ohrožení s jiným stvořením. Je útok na zásah modifikován postihem *-2*. Neplatí u výrazně větších cílů.
 
-**Konec efektů:** Konec efektů, kterým tenhle tah vypršela doba trvání.
+**Konec efektů:** Vyhodnocení dlouhých akcí a konec efektů, kterým tenhle tah vypršela doba trvání.
 
 **Další na tahu:** Opakuj kroky 1a až 1c pro každou stranu konfliktu v pořadí iniciativy. 
 
@@ -95,9 +95,9 @@ Při soubojích, které nepoužívají taktickou mřížku. Je možné se setkat
 
 **Sprint:** Stvoření, které není ve vzájemném ohrožení s jiným stvořením, může v daném kole obětovat svou běžnou akci a tím se pohybovat až dvojnásobkem své hybnosti.
 
-**Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus +1 do zásahu, poškození a OČ. 
+**Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus +1 do zásahu a poškození.
 
-**Bojové manévry:** Stvoření si může na místo poškození svou zbraní vybrat, že provede bojový manévry. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci. Hráč musí deklarovat použití manévru na místo útoku předem. *Útočník i obránce* provedou *hod na zásah* včetně aplikovatelných modifikátorů. Ten kdo *přehodí výsledek soupeře aspoň o 5*, obdrží výsledný efekt manévru.
+**Bojové manévry:** Stvoření si může vybrat že zaútočí jen za poloviční poškození a pokusit se provést bojový manévr. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci. Hráč musí deklarovat použití manévru na místo útoku předem. *Útočník i obránce* provedou *hod na zásah* včetně aplikovatelných modifikátorů. Ten kdo *přehodí výsledek soupeře aspoň o 5*, obdrží výsledný efekt manévru.
 
 **Shození na zem:** Je-li stvoření shozeno na zem, tak všechny útoky na blízku proti němu probíhají s výhodou. Pokud se shozené stvoření pokusí útočit střední nebo větší zbraní, tak jeho útoky probíhají s nevýhodou. Kdokoliv se může volně vyvázat ze vzájemného ohrožení se shozeným stvořením. *Postavení se zpět na nohy* sebere stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem však platí i po zbytek kola.
 

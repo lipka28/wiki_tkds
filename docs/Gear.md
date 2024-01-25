@@ -333,10 +333,14 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Stan (pro 2)                                             |       2        | 15 st |
 | Stan (pro 4)                                             |       3        | 40 st |
 | Svatý symbol                                             |       L        | 5 st  |
+| Špagát (30 metrů)                                        |       1        | 1 st  |
+| Truhla se zámkem (dřevěná, malá)                         |    3 (Kon.)    | 2 st  |
+| Truhla se zámkem (dřevěná, velká)                        |   10 (Kon.)    | 8 st  |
 | Víno (1 litr, obyčejné)                                  |       1        | 2 st  |
 | Víno (1 litr, Kvalitní)                                  |       1        | 25 st |
 | Zápalky (10 použití)                                     |       L        | 5 st  |
-| Zásoby                                                   |       L        | 1 st  |
+| Zásoby (Čerstvé)                                         |       L        | 1 st  |
+| Zásoby (Železné)                                         |       L        | 5 st  |
 | Zlodějské náčiní (10 použití)                            |       1        | 25 st |
 | Zrcátko                                                  |       L        | 5 st  |
 | Zvonek                                                   |       L        | 1 st  |
@@ -419,9 +423,17 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Svatý symbol:** Nutný pro vykonávání náboženských potřeb.
 
+**Truhla:** Úložný prostor se zámkem a klíčem.
+
+- *Malá:* Kapacita *3 sloty*.
+- *Velká:* Kapacita *10 slotů*.
+
 **Zápalky:** Užitečné k zapalování ohňů a pochodní. Použití při vypjatých situacích (například v boji) k úspěšnému zapálení dojde s pravděpodobností *5 z 6-ti*.
 
 **Zásoby:** Zásoby reprezentují univerzální potřeby k přežití v divočině. 1 Kus zásob může představovat:  Příděl jídla pro 1 osobu na 1 den. Příděl vody pro 1 osobu na den. Příděl dřeva na oheň pro 1 osobu na den.
+
+- *Čerstvé zásoby:* Jsou výrazně levnější avšak během 3 dnů se zkazí a stanou se nepoužitelnými.
+- Železné zásoby: Odolné zásoby, které vydrží klidně i několik měsíců nebo dokonce let.
 
 **Zlodějské náčiní:** Zlodějská sada pro odemykání zámků a jiné manipulace drobných mechanizmů.
 
@@ -582,7 +594,7 @@ Vyšlechtěný kůň k síle a odvaze v boji. Vhodný pro krátké rychlé náje
 
 ---
 
-### Povoz
+### Kárka
 
 Dvoukolá kárka s velkou kapacitou.
 
@@ -594,6 +606,23 @@ Dvoukolá kárka s velkou kapacitou.
 - *Obtížný terén:* Tento typ vozidla muže cestovat pouze po udržovaných cestách.
 
 **Cena:** 100 st
+
+
+
+---
+
+### Povoz
+
+Čtyřkolový otevřený vůz
+
+**SP:** 4, **OČ:** 10, **Max hybnost:** 4, **Minimum zvířat:** 4 muly nebo 2 tažné koně.
+
+**Speciální schopnosti:**
+
+- *Max nosnost:* (150) 250 Slotů (v závorce nosnost s minimem zvířat) 
+- *Obtížný terén:* Tento typ vozidla muže cestovat pouze po udržovaných cestách.
+
+**Cena:** 200 st
 
 !!! note "SP: Životy struktur"
 	Struktury nelze poškodit běžnými zbraněmi (meče, luky, sekery atd..). Avšak velká stvoření, kouzla a obléhací zbraně je poškodit mohou. Za každých *5 poškození*, které útokem způsobí obléhací zbraň, kouzlo nebo velká nestvůra. *Obdrží struktura 1 bod poškození*.

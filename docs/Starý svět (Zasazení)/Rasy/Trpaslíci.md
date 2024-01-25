@@ -6,7 +6,7 @@
 
 **Vrozené jazyky:** Trpasličtina + Jazyk společenství
 
-**Hybnost:** 6 metrů 
+**Hybnost:** 5 metrů 
 
 **Doba přirozeného dožití:** 200 - 250 let
 
@@ -16,8 +16,10 @@
 
 **Speciální vlastnosti:**
 
-- *Termovize* - Trpaslíci disponují termovizí (černobílá) na vzdálenost až *12 metrů*. 
-- *Přístup ke střelnému prachu* - Trpaslíci mají přístup ke zbraním používající střelný prach.
+- **Termovize** - Trpaslíci disponují termovizí (černobílá) na vzdálenost až *12 metrů*. 
+- **Přístup ke střelnému prachu** - Trpaslíci mají přístup k výbavě používající střelný prach již při tvorbě postavy.
+- **Silný žaludek** - Trpaslíci mají vrozenou odolnost vůči jedům. Každý trpaslík má bonus *+2* k záchranným hodům *proti jedům*. 
+- **Nižší těžiště** - Trpaslíci se nemohou naučit používat *dlouhé zbraně*, *obouruční meče* a *dalekonosné luky*. 
 
 **Výchozí specializace:**
 

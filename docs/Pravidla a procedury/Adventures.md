@@ -55,7 +55,7 @@ Všichni dobrodruzi disponují 3-mi základními schopnostmi. Výchozí HU pro t
     - **Tajný hod:** Na tuhle schopnost háže PJ potají, aby hráč neviděl výsledek hodu.
     - **Efekt úspěchu:** Hráči objeví jeden z ukrytých prvků v dané oblasti.
 - *Přežití* - Během cestování se mohou postavy pokusit o sběr plodů, lov malých zvířat a opatření jiných zásob. Tato aktivita nijak neovlivní rychlost pohybu a umožní cestující skupině najít nějaké ty zásoby.
-    - **Efekt úspěchu:** Skupina najde *1k6* čerstvých zásob (speciální typ zásob, který se za 3 dny zkazí).
+    - **Efekt úspěchu:** Skupina najde *1k6 čerstvých zásob*.
 
 ## Záchranné hody
 
@@ -124,7 +124,7 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 **Světlo a překvapení:** Postavy nebo monstra, která mají sebou zdroj světla, nemůžou překvapit své nepřátele. Světlo totiž prozrazuje jejich přítomnost.
 
-**Pád z výšky:** Pád z výšky na tvrdý povrch působí *1k6* poškození za každé započaté 2 metry pádu. První 2 metry pádu se do tohohle poškození nepočítají. Padající postava se může pokusit při pádu zachytit ověřením zručnosti proti *HU 5*. I zachycená postava však obdrží poškození za vzdálenost, kterou již spadla.
+**Pád z výšky:** Pád z výšky na tvrdý povrch působí *1k6* poškození za každé započaté 3 metry pádu. Pokud se jedná o vědomý pád (například seskočení z balkónu), poškození se nepočítá za první 3 metry.
 
 !!! note "Rychlost pádu"
     Pokud postava padá volným pádem, předpokládá se, že padá rychlostí *25 metrů* za vteřinu. (150 metrů za kolo)

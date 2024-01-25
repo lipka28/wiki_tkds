@@ -80,6 +80,13 @@ Peníze jsou základním platidlem a odměnou za dobře odvedenou práci. Peníz
 !!! Note "Škála a význam peněz"
     Pro lepší představu 1 stříbrný, je obnos, který si přibližně vydělá nevzdělaný rolník za 1 den své práce. Běžní strážní si pak vydělají kolem 2 až 3 stříbrných za den. Stříbro se pak používá převážně mezi běžnými obchodníky, zatímco vyšší společnost preferuje zlato. Platinové mince jako takové neexistují, ale používají se čistě pro účely účetnictví. 
 
+#### Stříbrný standard
+
+Hra používá tak zvaný stříbrný standard. To znamená, že stříbrné mince jsou nejběžnějším platidlem a také, že naprostá většina cen v těchto pravidlech je uvedená ve stříbře.
+
+!!! warning "Přepočet bohatství"
+	Rozhodnete-li se čerpat dobrodružství z jiných OSR či B/X D&D materiálů. Bude získávání pokladu, tak jak psáno v takových předlohách, poskytovat postavám více zkušeností než je vhodné.  Poklad je třeba překonvertovat z často používaného zlatého standardu na ten stříbrný. Konverze je jednoduchá. Původní hodnota *měděných se zahodí*, *zlato* a *stříbro* se konvertuje *1:1 o stupeň dolů* (zl -> st, st -> md) a případné *platinové mince* se překonvertují na zlaté *vydělením 10-ti*.
+
 ## Herní statistiky
 
 Hráčské postavy jsou popsány souborem statistik, které definují jejich schopnosti, síly a slabosti. Vysvětlivky k těmto statistikám najdete níže.

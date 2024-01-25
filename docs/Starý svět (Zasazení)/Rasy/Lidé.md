@@ -16,7 +16,7 @@
 
 **Speciální vlastnosti:**
 
-- *Přístup ke střelnému prachu* - Lidé mají přístup ke zbraním používající střelný prach.
+- **Přístup ke střelnému prachu** - Lidé mají přístup k výbavě používající střelný prach již při tvorbě postavy.
 
 **Výchozí specializace:**
 

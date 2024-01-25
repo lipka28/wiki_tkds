@@ -13,7 +13,7 @@
 
 **Trénovaná výzbroj:** Postava, která si vybrala magii jako svou výchozí specializaci. Je trénovaná v používání *1 libovolné zbraně* vlastního výběru.
 
-**Magie:** Postava, která si vybrala magii jako svou výchozí specializaci umí sesílat kouzla jak popsáno v *"Ovládání magie níže"*. Navíc však začíná hru s 2-ma kouzly první třídy (to rozšiřuje její limit kouzel na *úroveň specializace + 1*) a 2-mi sesíláními kouzel 1. třídy.
+**Magie:** Postava, která si vybrala magii jako svou výchozí specializaci umí sesílat kouzla jak popsáno v *"Ovládání magie"* níže. Navíc však začíná hru s 2-ma kouzly první třídy (to rozšiřuje její limit kouzel na *úroveň specializace + 1*) a 2-mi sesíláními kouzel 1. třídy.
 
 ## Primární odolnost
 
@@ -32,9 +32,9 @@ Zvýšením své specializace v magii. Postava dosáhne na nové schopnosti a vy
 | 5      | +1k4 + Mod. Výdrže |  +0  |   -0   |       Magie 3. třídy, +1 kouzlo, +1 sesílání 3. třídy        |
 | 6      | +1k4 + Mod. Výdrže |  +0  |   -1   |  +1 kouzlo, +2 sesílání 3. třídy, Pokročilý magický výzkum   |
 | 7      | +1k4 + Mod. Výdrže |  +0  |   -0   |       Magie 4. třídy, +1 kouzlo, +1 sesílání 4. třídy        |
-| 8      | +1k4 + Mod. Výdrže |  +2  |   -2   |               +1 kouzlo, +2 sesílání 4. třídy                |
+| 8      | +1k4 + Mod. Výdrže |  +2  |   -2   |         +1 kouzlo, +2 sesílání 4. třídy, Meta-magie          |
 | 9      | +1k4 + Mod. Výdrže |  +0  |   -0   |       Magie 5. třídy, +1 kouzlo, +1 sesílání 5. třídy        |
-| 10     | +1k4 + Mod. Výdrže |  +0  |   -1   |         +1 kouzlo, +2 sesílání 5. třídy, Meta-magie          |
+| 10     | +1k4 + Mod. Výdrže |  +0  |   -1   |               +1 kouzlo, +2 sesílání 5. třídy                |
 
 ### Ovládání magie
 
@@ -46,13 +46,16 @@ Postava se specializací na magii první úrovně se umí učit a sesílat kouzl
 
 Více informací o magii [zde](/Starý%20svět%20%28Zasazení%29/magic/).
 
+!!! warning "Omezení zbroje"
+    Sesílání kouzel je omezeno typem zbroje, kterou má postava na sobě. Každý stupeň zbroje snižuje maximální sesílatelnou třídu kouzel také o 1 stupeň. *Bez zbroje* lze vyčarovat *kouzla 5 a vyšší třídy*. S *lehkou zbrojí* pak už jen maximálně *kouzla 4. třídy*. Se *střední zbrojí* už jen maximálně *kouzla 3. třídy*. S *těžkou* pak *kouzla maximálně 2 třídy* a s *velmi těžkou zbrojí* lze seslat *pouze kouzla 1. třídy*. *Štít* navíc *snižuje maximální třídu sesílatelných kouzel o 1 stupeň*. To znamená, že například postava vybavená velmi těžkou zbrojí a štítem, nemůže sesílat žádná kouzla, i když má magickou specializaci.
+
 ### Základní magický výzkum
 
-Postava může zužitkovat čas, peníze a vzácné suroviny na zkoumání nových kouzel (úrovní, které umí sesílat) a vyrábění jednorázových magických předmětů. Jako jsou magické svitky a lektvary. Více o průběhu magického výzkumu [zde](/Pravidla%20a%20procedury/Downtime/). O tom co lze vyrobit pak [zde](/Starý%20svět%20%28Zasazení%29/magic/).
+Postava může zužitkovat čas, peníze a vzácné suroviny na zkoumání nových kouzel (tříd, které umí sesílat) a vyrábění jednorázových magických předmětů. Jako jsou magické svitky a lektvary z kouzel, které již umí seslat. Více o průběhu magického výzkumu [zde](/Pravidla%20a%20procedury/Downtime/). O tom co lze vyrobit pak [zde](/Starý%20svět%20%28Zasazení%29/magic/).
 
 ### Pokročilý magický výzkum
 
-Postava se může věnovat širšímu výzkumu jako jsou mocné magické rituály imitující kouzla libovolné třídy, očarování a výroba permanentních magických předmětů.
+Postava se může věnovat širšímu výzkumu jako jsou mocné magické rituály imitující kouzla libovolné třídy a výroba permanentních a jednorázových magických předmětů napodobující libovolná kouzla z tříd, které může seslat.
 
 ### Meta-magie
 

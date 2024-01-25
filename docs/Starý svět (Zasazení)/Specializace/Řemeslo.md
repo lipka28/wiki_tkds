@@ -29,9 +29,9 @@ Zvýšením své specializace v řemeslech. Postava dosáhne na nové schopnosti
 | 5      | +1k6 + Mod. Výdrže |  +0  |   -0   |      +4 Body specializace       |
 | 6      | +1k6 + Mod. Výdrže |  +1  |   -1   |      +4 Body specializace       |
 | 7      | +1k6 + Mod. Výdrže |  +0  |   -0   |      +4 Body specializace       |
-| 8      | +1k6 + Mod. Výdrže |  +2  |   -2   |      +4 Body specializace       |
+| 8      | +1k6 + Mod. Výdrže |  +2  |   -2   | +4 Body specializace, Expertíza |
 | 9      | +1k6 + Mod. Výdrže |  +0  |   -0   |      +4 Body specializace       |
-| 10     | +1k6 + Mod. Výdrže |  +1  |   -1   | +4 Body specializace, Expertíza |
+| 10     | +1k6 + Mod. Výdrže |  +1  |   -1   |      +4 Body specializace       |
 
 ### Body specializace
 
@@ -61,7 +61,6 @@ Postavy specializující se na řemeslo se mohou naučit sadou výjimečných sc
 | [Stopování](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#stopovani) | Stopování jiných stvoření                                    |
 | [Šaráda](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#sarada) | Vydávání se za jiná stvoření a napodobování hlasů            |
 | [Šplhání po stěnách](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#splhani-po-stenach) | Šplhání po stěnách bez jasných úchytů a bez výbavy           |
-| [Zavraždit](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#zavrazdit) | Přepadení a okamžité zabití humanoidního nepřítele           |
 | [Znalost příšer](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#znalost-priser) | Vybavení si důležitých informací o monstrech                 |
 | Vlastní                                                      | Prodiskutuj s PJ jakoukoliv nebojovou schopnost co tě napadne. |
 
@@ -71,7 +70,8 @@ Postava se může pokusit připravit lektvar libovolného efektu, má-li potřeb
 
 - **Efekt lektvaru:** Lektvar může napodobit *1 významný magický efekt*. Pokud má mít efekt trvání tak trvá 1 směnu. Pokud se jedná o slabý efekt, může trvat i hodinu či den.
 - **Výroba lektvaru:** Za *1 den* lze vyrobit až *6 lektvarů* stejné druhu. Každý lektvar potřebuje minimálně 3 komponenty. *1 zásobu*, *1 běžnou bylinu* (získanou pravděpodobně z bylinkářství) a *1 vzácný materiál* (získaný nejspíš dovedností extrakce), který má něco společného s požadovaným efektem.
-- **Neúspěch:** Lektvar se nepovedl a použitý materiál je ztracen. Hází se za každý jednotlivý vyráběný lektvar.
+- **Recept:** Po úspěšném vyrobení lektvaru si může postava zapsat recept (pokud má do čeho). A tím zvýšit šanci svých budoucí pokusy o výrobu takového lektvaru o 1. Na základě receptu lze také najmout alchymistu, který lektvar vyrobí nebo se pokusit o výrobu bez komponent (za zlaté) jako popsáno ve volno časové aktivitě ==magický výzkum ODKAZ==
+- **Neúspěch:** Lektvar se nepovedl a použitý materiál je ztracen. Hází se za každý jednotlivý vyráběný lektvar. Při větších kapacitách lze vzít šanci na úspěch čistě statisticky.
 
 #### Alchymie - Rozbor
 
@@ -191,15 +191,6 @@ Postava se může pokusit šplhat po stěnách bez očividných záchytů rychlo
 - **Neúspěch:** Neúspěch znamená, že tuhle směnu nenašla postava žádné vhodné úchyty a zůstala tedy na místě.
 - **Přirozená 1:**  Postava musí uspět v záchranném hodu na úhyb nebo spadnout.
 - **Omezení zbroje a výbavy:** Mimo omezení zbroje nesmí postava,  pokoušející se o tuhle schopnost, překročit polovinu své nosnosti vybavených a uschovaných předmětů.
-
-#### Zavraždit
-
-Postava útočící na cíl, který si není vědom jeho přítomnosti, útočí s *výhodou*. Při úspěšném zásahu podstoupí postava ověření schopnosti a pokud uspěje, cíl je okamžitě zabit.
-
-- **Modifikace obtížnosti:** Každé *3 úrovně* cíle udělují kumulativní postih *-1* k hodu na úspěch. Například cíl 6 úrovně se vraždí s postihem -2.
-- **Cíl:** Cílem musí být člověku podobný humanoid a nesmí být nemrtvý nebo neživý. V opačném případě pokus automaticky selže.
-- **Neúspěch:** Při neúspěšném pokusu o zabití cíl obdrží  běžné poškození použité zbraně.
-- **Neomezené vylepšení:** Lze vylepšovat neomezeně avšak přirozená 1 vždy znamená neúspěch.
 
 #### Znalost příšer
 

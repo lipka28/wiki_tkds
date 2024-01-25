@@ -24,18 +24,18 @@ Postava, jejichž nejčetnější specializace je náboženství. Získává bon
 
 Zvýšením své specializace v náboženství. Postava dosáhne na nové schopnosti a vylepšení popsané níže.
 
-| Stupeň |       Životy       | Útok | Z. HOD |        Speciální         |
-| :----- | :----------------: | :--: | :----: | :----------------------: |
-| 1      | +1k4 + Mod. Výdrže |  +0  |   -0   |     Patron, +1 Pomoc     |
-| 2      | +1k4 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc         |
-| 3      | +1k4 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc         |
-| 4      | +1k4 + Mod. Výdrže |  +2  |   -2   |         +1 Pomoc         |
-| 5      | +1k4 + Mod. Výdrže |  +0  |   -0   | +1 Pomoc, Pomoc spojenci |
-| 6      | +1k4 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc         |
-| 7      | +1k4 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc         |
-| 8      | +1k4 + Mod. Výdrže |  +2  |   -2   |         +1 Pomoc         |
-| 9      | +1k4 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc         |
-| 10     | +1k4 + Mod. Výdrže |  +0  |   -1   |  +1 Pomoc, Zbožné přání  |
+| Stupeň |       Životy       | Útok | Z. HOD |         Speciální         |
+| :----- | :----------------: | :--: | :----: | :-----------------------: |
+| 1      | +1k4 + Mod. Výdrže |  +0  |   -0   |     Patron, +1 Pomoc      |
+| 2      | +1k4 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
+| 3      | +1k4 + Mod. Výdrže |  +0  |   -0   | +1 Pomoc, Pomoc spojenci  |
+| 4      | +1k4 + Mod. Výdrže |  +2  |   -2   |         +1 Pomoc          |
+| 5      | +1k4 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
+| 6      | +1k4 + Mod. Výdrže |  +0  |   -1   | +1 Pomoc, Uškoď nepříteli |
+| 7      | +1k4 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
+| 8      | +1k4 + Mod. Výdrže |  +2  |   -2   |  +1 Pomoc, Zbožné přání   |
+| 9      | +1k4 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
+| 10     | +1k4 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
 
 ### Patron
 
@@ -57,7 +57,13 @@ S každým použitím pomoci může postava opakovat svůj hod na zásah, poško
 
 Postava může používat svou pomoc i na hody svých spojenců.
 
-- **Omezení v boji:** Cílem pomoci může být jen 1 spojenec za kolo. Lze však stejnému spojenci poskytnout více pomoci na různé hody.
+- **Omezení v boji:** Cílem pomoci může být jen 1 stvoření za kolo. Lze však stejnému stvoření poskytnout více pomoci na různé hody.
+
+### Uškoď nepříteli
+
+Postava může používat svou pomoc i na hody nepřátel.
+
+- **Omezení v boji:** Cílem pomoci může být jen 1 stvoření za kolo. Lze však stejnému stvoření uškodit vícekrát na různé hody.
 
 ### Zbožné přání
 

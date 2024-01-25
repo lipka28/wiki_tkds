@@ -29,9 +29,9 @@ Zvýšením své specializace pro boj. Postava dosáhne na nové schopnosti a vy
 | 5      | +1k8 + Mod. Výdrže |  +1  |   -1   |        Extra výzbroj         |
 | 6      | +1k8 + Mod. Výdrže |  +1  |   -1   | Bojový talent, Extra výzbroj |
 | 7      | +1k8 + Mod. Výdrže |  +1  |   -1   |        Extra výzbroj         |
-| 8      | +1k8 + Mod. Výdrže |  +1  |   -1   |        Extra výzbroj         |
+| 8      | +1k8 + Mod. Výdrže |  +1  |   -1   |  Extra výzbroj, Extra útok   |
 | 9      | +1k8 + Mod. Výdrže |  +1  |   -1   | Bojový talent, Extra výzbroj |
-| 10     | +1k8 + Mod. Výdrže |  +1  |   -1   |  Extra útok, Extra výzbroj   |
+| 10     | +1k8 + Mod. Výdrže |  +1  |   -1   |        Extra výzbroj         |
 
 ### Extra výzbroj
 
@@ -47,13 +47,13 @@ S dosažením každé 3. úrovně. Dosáhne postava specializovaná v boji na no
 4. **Poslední vzdor** - Jsou-li životy postavy zredukovány na *0*. Postava může podobu *5-ti kol* nadále bojovat. Pokud během těchto kol obdrží další poškození. Musí uspět v *záchranném hodu proti smrti* nebo zemřít. Pokud postava neobdrží během této doby léčení, tak po uplynutí 5-ti kol umírá.
 5. **Proti útok** - Postava se může 1x za kolo pokusit vykrýt útok protivníka svým vlastním útokem (na místo OČ). Pokud přehodí útok protivníka, útok je vykryt. Pokud však postava přehodí útok protivníka o více jak 5, může přidat i bojový manévr.
 6. **Vůdce** - Spolubojovníci pod vedením postavy v okruhu *12 metrů* mají bonus *+1* k morálce a *+2* ke všem *záchranným hodům proti ovlivnění mysli*. 
-7. **Boj se dvěma zbraněmi** - Bonus postavy do OČ, zásahu a poškození za použití dvou zbraní na blízko je *+2* na místo +1.
-8. **Brutální manévry** - Bojové manévry postavy působí poloviční poškození jeho normálního útoku (Manévry normálně nepůsobí žádné poškození).
+7. **Boj se dvěma zbraněmi** - Postava může provést extra útok svou duhou zbraní. Útok probíhá s postihem -4. Tento postih je kumulativní s postihem se schopnosti rozmetat.
+8. **Brutální manévry** - Bojové manévry postavy působí plné poškození (Manévry normálně nepůsobí jen poloviční poškození).
 9. **Zbraňová specializace** - Postava má bonus *+1* k zásahu a poškození se specifickým typem zbraní, který si vybere (Například: Obou-ruční sekera, mušketa, nůž atd...). Tento talent si lze vzít opakovaně pro různé typy zbraní.
 10. **Neozbrojený výcvik** - Postava působí bojem beze zbraně poškození *1k4*(+modifikátor síly). Navíc netrpí postihy normálně spjatými s bojem beze zbraně.
 11. **Těžkooděnec** - Pro postavu neplatí požadavky na sílu uvedený u zbrojí. Navíc se zvedá její nosnost pro vybavené předměty o *2* a uschované předměty o *4*.
 12. **Vřítit se do šarvátky** - V prvním kole boje. Se může postava pohnout až dvojnásobkem své hybnosti po přímé linii a ještě k tomu zaútočit. Pokud při náběhu uběhne aspoň 10 metrů její způsobené poškození na blízku bude dvojnásobné.
-13. **Neochvějný** - Postava netrpí postihy vyplývajícími ze vzájemného ohrožení. Může tedy používat předměty, útočit na dálku a sesílat kouzla bez rizika, že nepřítel akci přeruší. 
+13. **Útok ze zálohy** - Zaútočí-li postava na cíl. Jenž si není vědom její přítomnosti. Například napadení zezadu nic netušícího cíle. Postava útočí s výhodou. Při úspěšném zásahu způsobí *12 poškození* (modifikováno sílou pokud aplikovatelné).
 14. **Vlastní** - Ve spolupráci s PJ si vymysli vlastní talent. Podmínkou je, že by měl úzce souviset s bojem.
 
 ### Extra útok

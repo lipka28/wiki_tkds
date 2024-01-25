@@ -2,7 +2,7 @@
 
 ![Image title](/assets/races/Elf.jpeg)
 
-**Požadavky:** Rozum >= 12; Zručnost >= 9
+**Požadavky:** Zručnost >= 9; Rozum >= 12
 
 **Vrozené jazyky:** Elfština + Jazyk společenství
 
@@ -18,7 +18,9 @@
 
 **Speciální vlastnosti:**
 
-- *Imunita vůči paralýze* - Elfové mají imunitu proti nemagické paralýze (včetně uspání).
+- **Imunita vůči paralýze** - Elfové mají imunitu proti nemagické paralýze (včetně uspání).
+- **Nenávist ke střelnému prachu** - Elfové nenávidí tento trpasličí vynález a považují ho za barbarský. Elf by nikdy nepoužil zbraň využívající střelný prach. I kdyby byl v ohrožení života.
+- **Magická odolnost** - Elfové mají přirozeně zvýšenou odolnost proti magii. Každý elf má bonus *+2* k záchranným hodům *proti magii*.
 
 **Výchozí specializace:**
 
