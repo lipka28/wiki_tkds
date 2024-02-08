@@ -68,6 +68,8 @@ Postavy specializující se na řemeslo se mohou naučit sadou výjimečných sc
 | [Znalost příšer](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/#znalost-priser) | Vybavení si důležitých informací o monstrech                 |
 | Vlastní                                                      | Prodiskutuj s PJ jakoukoliv nebojovou schopnost co tě napadne. |
 
+<img src="/assets/sep_line.png"/>
+
 #### Alchymie - Míchání lektvarů
 
 Postava se může pokusit připravit lektvar libovolného efektu, má-li potřebné suroviny. Příprava lektvarů trvá vždy celý den.
@@ -77,6 +79,8 @@ Postava se může pokusit připravit lektvar libovolného efektu, má-li potřeb
 - **Recept:** Po úspěšném vyrobení lektvaru si může postava zapsat recept (pokud má do čeho). A tím zvýšit šanci svých budoucí pokusy o výrobu takového lektvaru o 1. Na základě receptu lze také najmout alchymistu, který lektvar vyrobí nebo se pokusit o výrobu bez komponent (za zlaté) jako popsáno ve volno časové aktivitě ==magický výzkum ODKAZ==
 - **Neúspěch:** Lektvar se nepovedl a použitý materiál je ztracen. Hází se za každý jednotlivý vyráběný lektvar. Při větších kapacitách lze vzít šanci na úspěch čistě statisticky.
 
+<img src="/assets/sep_line.png"/>
+
 #### Alchymie - Rozbor
 
 Postava se může za pomoci *přenosná alchymistické sady* pokusit identifikovat materiál, efekt nebo složení lektvaru.
@@ -84,12 +88,16 @@ Postava se může za pomoci *přenosná alchymistické sady* pokusit identifikov
 - **Identifikace:** Trvá 1 směnu a prozradí efekt a vlastnosti daného materiálu (například identifikace lektvaru). Identifikace nespotřebuje výrazné množství původního materiálu. 
 - **Rozbor:** Trvá minimálně 1 nerušenou hodinu. Prozradí složení materiálu a jeho případný postup výroby. Rozbor zničí zkoumaný materiál.
 
+<img src="/assets/sep_line.png"/>
+
 #### Bylinkářství
 
 Postava může strávit 1 směnu v přírodě a pokusit se o ověření této schopnosti. Pokud uspěje může vyléčit libovolnému živému stvoření *2 životy* denně nebo poskytnout extra *záchranný hod proti otravě* (1 použití / cíl). Léčivé byliny je nutné použít ihned čerstvé. Jinak ztrácí svůj efekt.
 
 - **Omezení:** Jedná se o stejný typ léčení jako v případě předmětu *Lékárnička* a jejich použití nelze kombinovat.
 - **Alternativní využití:** Alternativně se tato schopnost dá použít pro sběr běžných bylin na místo schopnosti přežít, jak je popsána v [základních schopnostech](/Pravidla%20a%20procedury/Adventures/#zakladni-schopnosti). Kombinování těchto schopností nezpůsobuje další hod na suroviny. Skupina se musí rozhodnout kolik z posbíraných zásob jsou opravdu zásoby a kolik byliny. Byliny pokud řádně usušeny nemají omezenou životnost.
+
+<img src="/assets/sep_line.png"/>
 
 #### Eskamotáž
 
@@ -100,17 +108,23 @@ Postava se může pokusit ukrást malý předmět (max. velikost 1 slot) ve výb
 - **Neomezené vylepšení:** Lze vylepšovat neomezeně avšak přirozená 1 vždy znamená neúspěch.
 - **Omezení zbroje**
 
+<img src="/assets/sep_line.png"/>
+
 #### Extrakce
 
 Postava se může ze stvoření pokusit získat vzácné materiály a komponenty. Při úspěšném ověření této schopnosti. Získá postava *1k4 vzácného materiálu* z mrtvého stvoření (1 použití / stvoření).
 
 - **Záleží na PJ:** Zda monstrum vůbec obsahuje nějaké vzácné materiály záleží zcela na PJ.
 
+<img src="/assets/sep_line.png"/>
+
 #### Jazyk
 
 Postava se naučí cizí jazyk vlastního výběru. Tato schopnost má jen 3 stupně vylepšení avšak lze se ji naučit opakovaně pro různé jazyky.
 
 - **Vylepšení:** Znalost jazyka se vylepšuje v úrovních *Základní*, *Pokročilá* a *Úplná*. Význam těchto úrovní je popsán [zde](/Starý%20svět%20%28Zasazení%29/about/#jazyk-jako-schopnost).
+
+<img src="/assets/sep_line.png"/>
 
 #### Manipuluj mechanizmus
 
@@ -120,6 +134,8 @@ Postava se může pokusit odemknout zámek nebo zneškodnit malou mechanickou pa
 - **Přirozená 1:** Pokud se jedná o zámek, tak je zámek mimo schopnosti postavy a musí s opakováním počkat do dosažení nové úrovně (nemusí se jednat o novou úroveň řemesla). Jedná-li se o past, ta se spustí. Postava může podstoupit záchranný hod na úhyb a tím se efektu pasti vyhnout. 
 - **Omezení zbroje**
 
+<img src="/assets/sep_line.png"/>
+
 #### Odezírání ze rtů
 
 Postava se může pokusit o odezírání ze rtů cíle, kterému dobře vidí na ústa (Většinou ne dál než 10 metrů).
@@ -128,9 +144,13 @@ Postava se může pokusit o odezírání ze rtů cíle, kterému dobře vidí na
 - **Neúspěch:** Postava se dozví jen přibližná témata o kterých se cíl bavil.
 - **Opakování hodu:** Hod je možné (a nutné) opakovat jen při výrazné změně situace. Například cíl si přesedne do jiné části lokálu.
 
+<img src="/assets/sep_line.png"/>
+
 #### Ostražitost
 
 Pokud je skupina postavy překvapena, postava si může hodit na ověření této schopnosti. Pokud uspěje. Není překvapena.
+
+<img src="/assets/sep_line.png"/>
 
 #### Práce s jedy
 
@@ -138,13 +158,19 @@ Postava podávající či aplikující jed na zbraň se může pokusit o ověře
 
 - **Limit opakování:** S jedné dávky jedu lze touto schopností dostat maximálně 3 použití.
 
+<img src="/assets/sep_line.png"/>
+
 #### Prohledat
 
 Funguje jako vnitřní průzkum popsán v [základních schopnostech](/Pravidla%20a%20procedury/Adventures/#zakladni-schopnosti).
 
+<img src="/assets/sep_line.png"/>
+
 #### Průzkum oblasti
 
 Funguje jako venkovní průzkum popsán v [základních schopnostech](/Pravidla%20a%20procedury/Adventures/#zakladni-schopnosti).
+
+<img src="/assets/sep_line.png"/>
 
 #### Přelsti magii
 
@@ -153,15 +179,21 @@ Postava se může pokusit aktivovat magický předmět bez toho, aby věděla ja
 - **Úspěch:** Úspěch znamená jednorázovou aktivaci předmětu (dle popisku daného předmětu). Nikoliv však pochopení jeho fungování.
 - **Neúspěch:** Při neúspěchu se nic nestane. Pokud se však chce postava pokusit znovu přelstít magický předmět, musí ho 10 minut (1 směnu) nerušeně studovat.
 
+<img src="/assets/sep_line.png"/>
+
 #### Přežití
 
 Funguje jako přežití popsáno v [základních schopnostech](/Pravidla%20a%20procedury/Adventures/#zakladni-schopnosti). Navíc při přenocování v divočině si může postava vybrat 1 potřebu, kterou sama obstará. Pokud pak uspěje v ověření této schopnosti, potřeba je úspěšně obstarána.
+
+<img src="/assets/sep_line.png"/>
 
 #### Rozluštit text
 
 Postava se může pokusit zjistit základní podstatu libovolného nemagického textu, mapy či obrazce. I když daným jazykem nemluví nebo je text třeba zašifrovaný.  
 
 - **Neúspěch:** Při neúspěchu se o nové porozumění může postava pokusit až po dosažení nové úrovně (nemusí se jednat o novou úroveň řemesla).
+
+<img src="/assets/sep_line.png"/>
 
 #### Skrývání
 
@@ -170,12 +202,16 @@ Postava se může pokusit ukrýt v místech kde je jen nepatrné krytí. Jako na
 - **Nenápadný pohyb:** Při neúspěšném hodu na překvapení (při plížení), se postava může pokusit o ověření této schopnosti aby zůstala skryta.
 - **Omezení zbroje**
 
+<img src="/assets/sep_line.png"/>
+
 #### Stopování
 
 Postava se může pokusit identifikovat a následovat stopy.
 
 - **Obtížnost:** Obtížnost může být modifikována různými okolnostmi. Jako je třeba tvrdost země, sníh, déšť a podobné.
 - **Neomezené vylepšení:** Lze vylepšovat neomezeně avšak přirozená 1 vždy znamená neúspěch.
+
+<img src="/assets/sep_line.png"/>
 
 #### Šaráda
 
@@ -187,6 +223,8 @@ Postava se může pokusit napodobit libovolného představitele své nebo podobn
 - **Opakování hodu:** V případě, že je zamaskovaná postava důkladně prověřen někým kdo cíl šarády zná. Musí postava opakovat hod na ověření úspěchu (Například muž políbí manželku, která je ve skutečnosti zabiják v přestrojení).
 - **Omezení zbroje** - V závislosti na kontextu může být platné omezení zbroje.
 
+<img src="/assets/sep_line.png"/>
+
 #### Šplhání po stěnách
 
 Postava se může pokusit šplhat po stěnách bez očividných záchytů rychlostí až *25 metrů za směnu*.
@@ -196,11 +234,15 @@ Postava se může pokusit šplhat po stěnách bez očividných záchytů rychlo
 - **Přirozená 1:**  Postava musí uspět v záchranném hodu na úhyb nebo spadnout.
 - **Omezení zbroje a výbavy:** Mimo omezení zbroje nesmí postava,  pokoušející se o tuhle schopnost, překročit polovinu své nosnosti vybavených a uschovaných předmětů.
 
+<img src="/assets/sep_line.png"/>
+
 #### Znalost příšer
 
 Postava se může pokusit vybavit si informace o zvířeti nebo jiném přirozeně se vyskytujícímu monstru které vidí. Při úspěšném ověření schopnosti se může postava dotázat na libovolnou vlastnost či statistiku monstra a PJ popravdě odpoví. 
 
 - **Neúspěch:** Postava se nemůže znovu pokusit vybavit více informací o daném druhu monstra, dokud nestráví 10 minut (1 směnu) jeho důkladným nerušeným zkoumáním.
+
+<img src="/assets/sep_line.png"/>
 
 ### Expertíza (Úroveň 10)
 
