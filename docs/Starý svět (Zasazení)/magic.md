@@ -47,7 +47,7 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 
 ## Magický výzkum
 
-Postavy, které jsou dostatečně dedikované své magické specializaci. Dosáhnou na možnost věnovat se magickému výzkumu. Kterým lze vyrábět různé lektvary, svitky a magické předměty. Jak funguje výroba samotná se můžete dočíst v kapitole ==odkaz downtime==. Zde se dozvíte jen základní principy magických předmětů.
+Postavy, které jsou dostatečně dedikované své magické specializaci. Dosáhnou na možnost věnovat se magickému výzkumu. Kterým lze vyrábět různé lektvary, svitky a magické předměty. Jak funguje výroba samotná se můžete dočíst v kapitole [mezi dobrodružstvími](/Pravidla%20a%20procedury/Downtime/).
 
 ## Magické předměty
 

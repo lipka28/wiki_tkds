@@ -1,37 +1,17 @@
 [data-md-color-scheme="slate"] {
-    --md-primary-fg-color: #e6ddc3ff;
-    --md-primary-bg-color: #33312bff;
-    --md-default-bg-color: #e6ddc3ff;
-    --md-accent-fg-color: #e67e22ff;
-    --md-default-fg-color--light: #33312bff;
-    --md-typeset-color: #33312bff;
-    --md-typeset-a-color: #e67e22ff !important;
-    --md-headings-color: #e67e22ff;
-    --md-table-head-bg: rgba(0, 0, 0, 0.3);
-    --md-table-odd-bg: rgba(0, 0, 0, 0.1);
-    --md-typeset-bold-color: #e74c3cff;
-    --md-typeset-italic-color: #AA8A0A;
-    --md-footer-bg-color--dark: #1b1a17ff;
-    --md-admonition-bg-color: #e6ddc3ff;
-    --md-admonition-fg-color: #33312bff;
-}
-
-[data-md-color-scheme="light"] {
-    --md-primary-fg-color: #1b1a17ff;
-    --md-primary-bg-color: #e6ddc3ff;
-    --md-default-bg-color: #33312bff;
-    --md-accent-fg-color: #e67e22ff;
-    --md-default-fg-color--light: #e6ddc3ff;
-    --md-typeset-color: #e6ddc3ff;
-    --md-typeset-a-color: #e67e22ff !important;
-    --md-headings-color: #e67e22ff;
-    --md-table-head-bg: rgba(0, 0, 0, 0.5);
-    --md-table-odd-bg: rgba(0, 0, 0, 0.2);
-    --md-typeset-bold-color: #e74c3cff;
-    --md-typeset-italic-color: #F1C40F;
-    --md-footer-bg-color--dark: #1b1a17ff;
-    --md-admonition-bg-color: #33312bff;
-    --md-admonition-fg-color: #e6ddc3ff;
+    --md-primary-fg-color: #33312bff;
+    --md-primary-bg-color: #ffffffff;
+    --md-default-bg-color: #ffffffff;
+    --md-accent-fg-color: #5e90a0ff;
+    --md-default-fg-color--light: #000000ff;
+    --md-typeset-color: #2c2c2cff;
+    --md-typeset-a-color: #22b8e6ff !important;
+    --md-table-head-bg: #33312bff;
+    --md-table-head-color:#ffffffff;
+    --md-table-odd-bg: #00000010;
+    --md-typeset-bold-color: #000000ff;
+    --md-typeset-italic-color: #e65022ff;
+    --md-footer-bg-color--dark:  #33312bff;
 }
 
 b, strong {
@@ -45,6 +25,7 @@ em {
 th
 {
     background-color: var(--md-table-head-bg);
+    color: var(--md-table-head-color)
 }
 
 tbody tr:nth-child(odd) {

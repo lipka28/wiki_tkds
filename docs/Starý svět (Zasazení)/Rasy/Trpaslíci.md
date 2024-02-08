@@ -17,8 +17,7 @@
 **Speciální vlastnosti:**
 
 - **Termovize** - Trpaslíci disponují termovizí (černobílá) na vzdálenost až *12 metrů*. 
-- **Přístup ke střelnému prachu** - Trpaslíci mají přístup k výbavě používající střelný prach již při tvorbě postavy.
-- **Silný žaludek** - Trpaslíci mají vrozenou odolnost vůči jedům. Každý trpaslík má bonus *+2* k záchranným hodům *proti jedům*. 
+- **Silná játra** - Trpaslíci mají vrozenou odolnost vůči jedům. Každý trpaslík má bonus *+2* k záchranným hodům *proti jedům*. 
 - **Nižší těžiště** - Trpaslíci se nemohou naučit používat *dlouhé zbraně*, *obouruční meče* a *dalekonosné luky*. 
 
 **Výchozí specializace:**

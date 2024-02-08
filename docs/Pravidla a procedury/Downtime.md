@@ -81,15 +81,15 @@ Specialista představuje nehráčskou postavu s nějakou specifickou odborností
 
 #### Alchymista
 
-asd ==Dospat dle magical research==
+Najmutí alchymisty umožňuje si objednat výrobu lektvarů dle postupů popsaných v  [magickém výzkumu](/Pravidla%20a%20procedury/Downtime/#vyroba-lektvaru-a-svitku) níže.
 
 #### Čaroděj
 
-asd ==Dospat dle magical research==
+U najatého čaroděje si lze objednat výrobu svitků kouzel, které zná. Výrobu magických předmětů nebo provedení magických rituálů či seslání specifických kouzel. Vše se řídí dle postupů popsaných v [magickém výzkumu](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum) níže.
 
 #### Mudrc
 
-asd ==Dospat dle magical research==
+Mudrc je způsobem pro hráče, jak získat extra informace od PJ, které by jim normálně nemohl sdělit. Najatého mudrce se lze zeptat na libovolnou otázku o herním světě a událostí v něm. Mudrc na otázku pravdivě odpoví po 1 týdnu výzkumu.
 
 ### Družníci
 
@@ -182,10 +182,10 @@ Prvním způsobem jak poněkud chaoticky posunout svou postavu někam dál. Je h
 
 Postavy které mají přebytečnou kapacitu pro schopnosti (danou dovedností rozum) se mohou pokusit naučit něco navíc, třeba i od ostatních specializací. Postava dedikuje týden důkladnému studiu dané problematiky a může se naučit jedno z následujících:
 
-- **Bojový talent** - Postava se pokusí naučit nový bojový talent jako jsou ty ve specializaci na ==boj ODKAZ==
-- **Nová výzbroj** - Postava se pokusí naučit používat novou výzbroj jako popsáno ve specializaci na ==boj ODKAZ==
-- **Řemeslnou schopnost** - Postava se pokusí zvýšit si úroveň schopnosti jako jsou ty ve specializaci na ==řemeslo ODKAZ==. Hladina úspěchu takto vytrénované schopnosti však nemůže být nikdy nižší než 3. Vůči kapacitě pro schopnosti se počítá pouze prvotní naučení schopnosti. Nikoliv její následné vylepšování.
-- **Jazyk** - Postava se naučí nový jazyk nebo si zvýší znalost toho stávajícího. Tak jak je popsáno ve specializaci na ==řemeslo ODKAZ==. Vůči kapacitě pro schopnosti se počítá pouze prvotní naučení jazyka. Nikoliv jeho následné zdokonalování.
+- **Bojový talent** - Postava se pokusí naučit nový bojový talent jako jsou ty ve specializaci na [boj](/Starý%20svět%20%28Zasazení%29/Specializace/Boj/).
+- **Nová výzbroj** - Postava se pokusí naučit používat novou výzbroj jako popsáno ve specializaci na [boj](/Starý%20svět%20%28Zasazení%29/Specializace/Boj/).
+- **Řemeslnou schopnost** - Postava se pokusí zvýšit si úroveň schopnosti jako jsou ty ve specializaci na [řemeslo](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/). Hladina úspěchu takto vytrénované schopnosti však nemůže být nikdy nižší než 3. Vůči kapacitě pro schopnosti se počítá pouze prvotní naučení schopnosti. Nikoliv její následné vylepšování.
+- **Jazyk** - Postava se naučí nový jazyk nebo si zvýší znalost toho stávajícího. Tak jak je popsáno ve specializaci na [řemeslo](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/). Vůči kapacitě pro schopnosti se počítá pouze prvotní naučení jazyka. Nikoliv jeho následné zdokonalování.
 
 #### Proces učení
 
@@ -337,11 +337,9 @@ Postava se může vzdát života dobrodruha a odejít do "důchodu". Tím se s n
 
 Určitě jsem nemohl pokrýt všechno. Buďte kreativní.
 
-## Co když není dost volného času
+## Co když není dost času mezi dobrodružstvími?
 
-pokec o alternativních postavách. ==Dodělat==
-
-
+Určitě jsem nemohl pokrýt všechno. Buďte ==Think about it==
 
 
 

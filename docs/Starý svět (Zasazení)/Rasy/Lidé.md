@@ -16,7 +16,7 @@
 
 **Speciální vlastnosti:**
 
-- **Přístup ke střelnému prachu** - Lidé mají přístup k výbavě používající střelný prach již při tvorbě postavy.
+- **ASD** - asd ==Dodělat==
 
 **Výchozí specializace:**
 

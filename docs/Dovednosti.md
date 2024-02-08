@@ -71,10 +71,10 @@ Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopn
 |    3     |     -3      |          1           |     4     |
 |  4 - 5   |     -2      |          1           |     5     |
 |  6 - 8   |     -1      |          1           |     6     |
-|  9 - 12  |      0      |          2           |     7     |
-| 13 - 15  |     +1      |          3           |     8     |
-| 16 - 17  |     +2      |          4           |     9     |
-|    18    |     +3      |          5           |    10     |
+|  9 - 12  |      0      |          1           |     7     |
+| 13 - 15  |     +1      |          2           |     8     |
+| 16 - 17  |     +2      |          3           |     9     |
+|    18    |     +3      |          4           |    10     |
 
 !!! Note "Společníci"
-    Za společníka může být považován jak placený družník, tak zvíře nebo třeba nějaký vázaný démon.
+    Za společníka může být považován jak placený družník, tak zvíře nebo třeba nějaký démon ši jiné stvoření získané magií.

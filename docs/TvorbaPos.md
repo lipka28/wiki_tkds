@@ -23,8 +23,7 @@ Zaznač si svou nosnost (*10 + modifikátor síly* pro *vybavené* předměty a 
 
 Obranné číslo tvé postavy je stanoveno dvěma faktory. A to *brněním*, které sis vybral v předchozím kroku a modifikátorem *zručnosti*.
 
-**Obranné číslo bez brnění**
-Pokud tvá postava nemá žádné brnění, její základní *OČ* je *10* (Před modifikací zručností)
+**Obranné číslo bez brnění:** Pokud tvá postava nemá žádné brnění, její základní *OČ* je *10* (Před modifikací zručností)
 
 ## 5. Poznač si úroveň, zkušenostní body a pojmenuj svou postavu
 

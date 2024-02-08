@@ -7,21 +7,6 @@ theme:
     code: 'Ubuntu Mono'
   logo: assets/logo.png
   favicon: assets/favicon.png
-  palette:
-    - media: "(prefers-color-scheme: slate)"
-      scheme: light
-      primary: 'amber'
-      accent: 'orange'
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Embrace the dark side
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: 'deep orange'
-      accent: 'amber'
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
 
 markdown_extensions:
   - admonition

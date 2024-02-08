@@ -73,7 +73,7 @@ Zbraně se dělí do 2 základních kategorií. Zbraně na blízku a zbraně na 
 - **Velká** -  Nejničivější typ zbraní. Tyto zbraně jsou vždy obouruční a jejich verze na blízku mají bonus *+1* k poškození. Použití v malých prostorech může způsobovat postihy nebo nemusí být vůbec možné.
 - **Dlouhá** - Tato kategorie se týká pouze zbraní na blízku. Tyto zbraně jsou jako velké zbraně obouruční a poskytují bonus *+1* k poškození. Dlouhé zbraně umožňují zasáhnout nepřítele až na *2 metry* i když v cestě stojí spojenec.
 
-Tato kategorizace je také důležitá v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: *neozbrojený / malá* < *střední* < *velká* < *dlouhá* < *hozená* < *střelná* (u střelných zbraní pak mají přednost zbraně využívající střelný prach)
+Tato kategorizace je také důležitá v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: *neozbrojený / malá* < *střední* < *velká* < *dlouhá* < *hozená* < *střelná* 
 
 !!! note "Důležité je využití zbraně"
 	Za kreativní popisy využití svých zbraní, může PJ poskytnout různé bonusy a výhody nebo dokonce umožnit speciální akci s danou zbraní. Záleží jen na hráčově kreativitě.
@@ -90,57 +90,42 @@ Tato kategorizace je také důležitá v situacích kdy záleží na prioritě z
 
 **Nabíjecí zbraně:** Některé střelné zbraně, jako například kuše či muškety, mohou vyžadovat přebíjení. Přebíjení trvá *dlouhou akci*. Nabíjecí zbraně mívají bonus *+1* k poškození.
 
-### Střelný prach
-
-Některé kampaně mohou potřebovat existenci zbraní využívající střelný prach. Vlastnosti, které tyto zbraně mají společné jsou následující:
-
-- **Hlasité** - Použití křesadlových zbraní může vyvolat nechtěnou pozornost nepřátel. Zvířata, která nejsou trénovaná pro boj, nebo stvoření, která se s křesadlovými zbraněmi nikdy nesetkala. Musí při prvním výstřelu podstoupit *ověření morálky*.
-- **Ničivé** - Křesadlové zbraně mají vždy nejvyšší kostku poškození ve své kategorii střelných zbraní. Jelikož také vyžadují přebíjení, disponují bonusem *+1* k poškození.
-- **Dostřel** - Křesadlové zbraně mohou zasáhnout jen na efektivní dostřel. 
-- **Nespolehlivé** - Při hodu *NAT 1 až NAT 3* na zásah, křesadlová zbraň selže. Takovou zbraň je třeba *1 směnu* čistit čistící sadou, aby byla znovu použitelná. Totéž platí přijde-li zbraň do kontaktu s vodou.
-
-!!! Warning "Selhání s výhodou a nevýhodou"
-    Výhoda a nevýhoda má nežádoucí vliv na pravděpodobnost selhání křesadlové zbraně. V případě, že je tedy křesadlová zbraň použita s výhodou nebo nevýhodou, je třeba na selhání brát v potaz jen první hozenou kostku.
-
 ### Základní zbraně
 
 Základní zbraně jsou takové zbraně, které nevyžadují speciální trénink pro efektivní používání v boji. Ze základní výbavy mezi tyto zbraně patří *hůl* a *palice*.
 
 ### Zbraně na blízku
 
-| Název zbraně    | Typ zbraně |  Poškození   | Váha  | Cena  |
-| :-------------- | :--------: | :----------: | :---: | :---: |
-| Bajonet         |    Malá    |    1k4+1     | 1 (0) | 10 st |
-| Bič             |    Malá    |     1k2      |   1   | 5 st  |
-| Bojová hůl      |  Střední   |    1k6+1     |   2   | 10 st |
-| Cep             |  Střední   |     1k6      |   2   | 15 st |
-| Dlouhý meč      |  Střední   |  1k6/1k8+1   |   2   | 25 st |
-| Halapartna      |   Dlouhá   |    1k8+1     |   3   | 20 st |
-| Hůl             |  Střední   |    1k4+1     |   2   | 1 st  |
-| Kopí            |   Dlouhá   |    1k8+1     |   3   | 12 st |
-| Kosa            |   Velká    | 1k10+1 (nev) |   3   | 5 st  |
-| Krátké kopí     |  Střední   |  1k6/1k8+1   |   2   | 2 st  |
-| Krátký meč      |    Malá    |     1k6      |   1   | 15 st |
-| Nůž             |    Malá    |     1k4      |   1   | 3 st  |
-| Obouruční meč   |   Velká    |    1k10+1    |   3   | 50 st |
-| Obušek          |    Malá    |     1k2      |   1   | 5 st  |
-| Palcát          |  Střední   |  1k6/1k8+1   |   2   | 15 st |
-| Palice          |    Malá    |     1k4      |   1   | 1 st  |
-| Sekyra          |  Střední   |  1k6/1k8+1   |   2   | 12 st |
-| Sekyrka         |    Malá    |     1k4      |   1   | 4 st  |
-| Síť             |  Střední   |      0       |   2   | 5 st  |
-| Stříbrný nůž    |    Malá    |     1k4      |   1   | 30 st |
-| Šakram          |    Malá    |     1k4      |   1   | 10 st |
-| Škrtící drát    |    Malá    |     1k4      |   1   | 1 st  |
-| Válečná sekera  |   Velká    |    1k10+1    |   3   | 40 st |
-| Válečné kladivo |   Velká    |    1k10+1    |   3   | 50 st |
+| Název zbraně    | Typ zbraně |  Poškození   | Váha | Cena  |
+| :-------------- | :--------: | :----------: | :--: | :---: |
+| Bič             |    Malá    |     1k2      |  1   | 5 st  |
+| Bojová hůl      |  Střední   |    1k6+1     |  2   | 10 st |
+| Cep             |  Střední   |     1k6      |  2   | 15 st |
+| Dlouhý meč      |  Střední   |  1k6/1k8+1   |  2   | 25 st |
+| Halapartna      |   Dlouhá   |    1k8+1     |  3   | 20 st |
+| Hůl             |  Střední   |    1k4+1     |  2   | 1 st  |
+| Kopí            |   Dlouhá   |    1k8+1     |  3   | 12 st |
+| Kosa            |   Velká    | 1k10+1 (nev) |  3   | 5 st  |
+| Krátké kopí     |  Střední   |  1k6/1k8+1   |  2   | 2 st  |
+| Krátký meč      |    Malá    |     1k6      |  1   | 15 st |
+| Nůž             |    Malá    |     1k4      |  1   | 3 st  |
+| Obouruční meč   |   Velká    |    1k10+1    |  3   | 50 st |
+| Obušek          |    Malá    |     1k2      |  1   | 5 st  |
+| Palcát          |  Střední   |  1k6/1k8+1   |  2   | 15 st |
+| Palice          |    Malá    |     1k4      |  1   | 1 st  |
+| Sekyra          |  Střední   |  1k6/1k8+1   |  2   | 12 st |
+| Sekyrka         |    Malá    |     1k4      |  1   | 4 st  |
+| Síť             |  Střední   |      0       |  2   | 5 st  |
+| Stříbrný nůž    |    Malá    |     1k4      |  1   | 30 st |
+| Šakram          |    Malá    |     1k4      |  1   | 10 st |
+| Škrtící drát    |    Malá    |     1k4      |  1   | 1 st  |
+| Válečná sekera  |   Velká    |    1k10+1    |  3   | 40 st |
+| Válečné kladivo |   Velká    |    1k10+1    |  3   | 50 st |
 
 #### Popisky a speciální efekty zbraní na blízku:
 
 !!! note "Předpokládaný nepřítel"
 	Pro všechny speciální efekty popsané níže je předpokládaným nepřítelem stvoření podobné člověku. Pokud je zbraň použita proti jinému nepříteli nemusí být speciální efekt aplikovatelný.
-
-**Bajonet:** Malý nůž, který ze střední nebo velké muškety udělá obouruční bodnou zbraň na blízku. Samostatně nepoužitelný. Přidělání či sundání bajonetu trvá *1 směnu*.
 
 **Bič:** Nástroj z pletené kůže využívaná především ke krocení zvěře. Jeho poškození nejsou ani tak ničivá avšak velmi bolestivá. Touhle zbraní nelze zabít. *Speciální:* Pokud je zbraní zasaženo *zvíře netrénované pro boj*, musí podstoupit *ověření morálky*; Zbraň poskytuje bonus *+1* k manévrům na *zachycení*.
 
@@ -190,59 +175,38 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 ### Střelné zbraně
 
-!!! warning "Pozor: Omezení na střelný prach"
-	Ve starém světě mají, se základních ras, ke střelným zbraním využívající střelný prach přístup pouze *lidé* a *trpaslíci*.
-
-| Název zbraně          | Typ zbraně | Dostřel  |   Poškození   | Váha |  Cena  |
-| --------------------- | :--------: | :------: | :-----------: | :--: | :----: |
-| Bambitka              |    Malá    | Krátký!  |     1k6+1     |  1   | 80 st  |
-| Bola                  |    Malá    |  Hozený  |      1k2      |  1   |  3 st  |
-| Dalekonosný luk       |   Velká    |  Daleký  |      1k8      |  3   | 40 st  |
-| Dvouhlavňová bambitka |    Malá    | Krátký!  |  1k6+1 (výh)  |  1   | 100 st |
-| Flusačka              |    Malá    | Krátký!  |       0       |  1   |  5 st  |
-| Granát                |    Malá    |  Hozený  |  3k6 oblast   |  1   | 70 st  |
-| Houfnice              |  Střední   | Krátký!  | 1k6+1 rozptyl |  2   | 140 st |
-| Kuše                  |  Střední   | Střední  |     1k6+1     |  2   | 40 st  |
-| Luk                   |  Střední   | Střední  |      1k6      |  2   | 20 st  |
-| Mušketa               |  Střední   | Střední! |     1k8+1     |  2   | 120 st |
-| Prak                  |    Malá    |  Krátký  |      1k2      |  1   |  2 st  |
-| Příruční kuše         |    Malá    |  Krátký  |     1k4+1     |  1   | 20 st  |
-| Těžká kuše            |   Velká    |  Daleký  |     1k8+1     |  3   | 60 st  |
-| Těžká mušketa         |   Velká    | Daleký!  |    1k10+1     |  3   | 160 st |
-| Vrhací nůž            |    Malá    | Hozený!  |      1k4      |  L   |  5 st  |
+| Název zbraně    | Typ zbraně | Dostřel | Poškození | Váha | Cena  |
+| --------------- | :--------: | :-----: | :-------: | :--: | :---: |
+| Bola            |    Malá    | Hozený  |    1k2    |  1   | 3 st  |
+| Dalekonosný luk |   Velká    | Daleký  |    1k8    |  3   | 40 st |
+| Flusačka        |    Malá    | Krátký! |     0     |  1   | 5 st  |
+| Kuše            |  Střední   | Střední |   1k6+1   |  2   | 40 st |
+| Luk             |  Střední   | Střední |    1k6    |  2   | 20 st |
+| Prak            |    Malá    | Krátký  |    1k2    |  1   | 2 st  |
+| Příruční kuše   |    Malá    | Krátký  |   1k4+1   |  1   | 20 st |
+| Těžká kuše      |   Velká    | Daleký  |   1k8+1   |  3   | 60 st |
+| Vrhací nůž      |    Malá    | Hozený! |    1k4    |  L   | 5 st  |
 
 #### Popisky a speciální efekty střelných zbraní:
 
 !!! note "Předpokládaný nepřítel"
 	Pro všechny speciální efekty popsané níže je předpokládaným nepřítelem stvoření podobné člověku. Pokud je zbraň použita proti jinému nepříteli nemusí být speciální efekt aplikovatelný.
 
-**Bambitka:** Příruční křesadlová pistole. Lehce uchovatelná. S neuvěřitelnou přesvědčovací silou. *Speciální:* Průraznost zbraně ignoruje *2 OČ* u těžkých a těžších zbrojí. Alternativně u nepřátel s nejasnou výzbrojí a *OČ >= 18*.
-
 **Bola:** Dvě závaží svázané lankem. *Speciální:* Cíl zasažený bolou musí každé kolo uspět v *záchranném hodu proti síle* nebo se nemůže pohybovat.
 
 **Dalekonosný luk:** Dlouhý luk vynikající ve střelbě na velké vzdálenosti.
 
-**Dvouhlavňová bambitka:** Dvouhlavňová varianta bambitky. *Speciální:* Poškození je házeno s výhodou; Průraznost zbraně ignoruje *2 OČ* u těžkých a těžších zbrojí. Alternativně u nepřátel s nejasnou výzbrojí a *OČ >= 18*.
-
 **Flusačka:** Malá nenápadná zbraň připomínající píšťalu. Její šipky nepůsobí žádné poškození a zanechávají jen nenápadný vpich. Extrémně vhodné pro nenápadné vpravení jedu do těla oběti.
 
-**Granát:** Výbušná kovová koule se zápalným knotem. Od zapálení knotu *exploduje do 6-ti vteřin*. Vzniklá exploze způsobí *3k6 poškození* v oblasti *2 metrů* kolem výbuchu. Zasažené cíle se mohou pokusit o záchranný hod na úhyb, aby zredukovali poškození na polovinu. *Speciální:* Při hození na dálku se před výbuchem odkutálí *1k2 metrů* náhodným směrem.
-
-**Houfnice:** Speciálně upravená mušketa s rozšířenou hlavní, která střílí několik malých olověných kuliček. *Speciální:* Přebíjení zabere *2 dlouhé akce*; Poškození do cílů na vzdálenost *5 metrů a méně* je házeno s výhodou; Pokud se zbraní útočí na cíle *dále jak 5 metrů*, hází se na zásah jak pro samotný cíl, tak pro všechny stvoření v okruhu *1 metr* kolem cíle. Všechny úspěšné zásahy udělují poškození zbraně.
-
-**Kuše:** Mechanické zařízení s integrovanou menší verzí luku a jednoduchou spouští. Často preferovaná díky své konzistentnosti, přesnosti a tichosti oproti křesadlovým zbraním.
+**Kuše:** Mechanické zařízení s integrovanou menší verzí luku a jednoduchou spouští. Často preferovaná díky své konzistentnosti, přesnosti a tichosti oproti křesadlovým zbraním. *Speciální:* +1 k zásahu.
 
 **Luk:** Kratší varianta luku vhodná do uších prostorů nebo třeba i při jízdě na koni.
-
-**Mušketa:** Nejrozšířenější křesadlová zbraň. *Speciální:* Průraznost zbraně ignoruje *2 OČ* u těžkých a těžších zbrojí. Alternativně u nepřátel s nejasnou výzbrojí a *OČ >= 18*.
 
 **Prak:** Jednoduchá zbraň vytvořená za účely vrhání kamenů. *Speciální:* Munice je zdarma dostupná kdekoliv, kde se dají najít kameny; Prakem lze házet lektvary, granáty a jiné podobné předměty.
 
 **Příruční kuše:** Menší varianta kuše, která se dá lépe schovat. *Speciální:* Lze nabít jako běžnou akci
 
-**Těžká kuše:** Velká a těžší varianta klasické kuše, která dokáže přesně vrhat šipky na obrovské vzdálenosti s ničivou silou. *Speciální:* Kritický zásah Těžkou kuší shodí nepřítele na zem.
-
-**Těžká mušketa:** Delší varianta muškety s větší kapacitou pro střelný prach u jednotlivých střel.  *Speciální:* Bez podpěry je hod na zásah s nevýhodou; Průraznost zbraně ignoruje *2 OČ* u těžkých a těžších zbrojí. Alternativně u nepřátel s nejasnou výzbrojí a *OČ >= 18*.
+**Těžká kuše:** Velká a těžší varianta klasické kuše, která dokáže přesně vrhat šipky na obrovské vzdálenosti s ničivou silou. *Speciální:* +1 k zásahu. Kritický zásah těžkou kuší shodí nepřítele na zem.
 
 **Vrhací nůž:** Lehčí varianta nože, která je specificky určená na házení. Pro boj z blízka je nepoužitelný.
 
@@ -251,11 +215,7 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 | Název munice                           | Váha  |      Cena       |
 | -------------------------------------- | :---: | :-------------: |
 | Kámen do praku (1)                     |   L   |     Zdarma      |
-| Náboje (Pytlík s 10-ti kuličkami)      |   1   | 10 st (1 st/ks) |
-| Postříbřený šíp / šípka / náboj        | L (0) |      5 st       |
-| Roh munice do houfnice (5 použití)     |   1   |      20 st      |
-| Roh střelného prachu (5 použití)       |   1   |      10 st      |
-| Soudek střelného prachu (50 použití)   |   3   |     100 st      |
+| Postříbřený šíp / šipka                | L (0) |      5 st       |
 | Šíp "Kladivoun"                        | L (0) |    2 md / ks    |
 | Šíp "Otvírák"                          | L (0) |    1 st / ks    |
 | Šíp s lankem                           |   1   |    5 st / ks    |
@@ -263,7 +223,6 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 | Šipky do flusačky (Pytlík 10-ti šipek) |   1   | 1 st (1 md/ks)  |
 | Šipky do kuše (Pouzdro 20-ti šipek)    |   1   | 10 st (5 md/ks) |
 | Šípy (Toulec 20-ti šípů)               |   1   | 4 st (2 md/ks)  |
-| Výbušný šíp                            |   1   |   50 st / ks    |
 | Zápalný šíp                            |   1   |    5 md / ks    |
 
 **Váha (0):** Neváží nic pokud součástí toulce
@@ -273,8 +232,6 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 !!! note "Předpokládaný nepřítel"
 	Pro všechny speciální efekty popsané níže je předpokládaným nepřítelem stvoření podobné člověku. Pokud je zbraň použita proti jinému nepříteli nemusí být speciální efekt aplikovatelný.
 
-**Soudek střelného prachu (50 použití):** Malý soudek střelného prachu. Při kontaktu s ohněm může explodovat a způsobit *6k6* poškození v okruhu *5 metrů*. Zasažené cíle mohou podstoupit *záchranný hod na úhyb* pro zredukování poškození na polovinu.
-
 **Šíp "Kladivoun":** Šíp s tupou hlavicí. Působí tupé poškození o stupeň nižší kostkou. Při kritickém zásahu způsobí omráčení na *1 kolo*. Speciální šípy lze použít pouze do středních a větších kuší a luků.
 
 **Šíp "Otvírák":** Speciálně upravený šíp na lovení ryb. Lze ním střílet bez postihů do vody až do hloubky *5 metrů*. Speciální šípy lze použít pouze do středních a větších kuší a luků.
@@ -282,8 +239,6 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 **Šíp s lankem:** Šíp s *6-ti metrovým* lankem, který se bezpečně přichytí k jakémukoliv měkčímu pevnému povrchu (např. dřevo). Šípem lze, vzhledem k jeho váze, střílet jen na polovinu efektivní vzdálenosti. Speciální šípy lze použít pouze do středních a větších kuší a luků.
 
 **Šíp s loveckým hrotem:** Šíp se speciálně upravenou hlavicí. Působí sečné poškození o stupeň nižší kostkou. Při kritickém zásahu způsobí krvácení. Krvácení působí *1k4* poškození po dobu *2 kol* nebo dokud není krvácení zastaveno. Speciální šípy lze použít pouze do středních a větších kuší a luků.
-
-**Výbušný šíp:** Šíp s explozivní hlavicí. Při dopadu vybouchne a udělí *2k6 poškození* všem cílům v okruhu *1 metru* kolem místa dopadu. Zasažení mohou podstoupit záchranný hod na úhyb pro zredukování poškození na polovinu. Pokud je šípem někdo zasažen přímo, nemá nárok na záchranný hod, a obdrží plné poškození. Šípem lze, vzhledem k jeho váze, střílet jen na polovinu efektivní vzdálenosti. Speciální šípy lze použít pouze do středních a větších kuší a luků.
 
 **Zápalný šíp:** Šíp s hlavicí speciálně uzpůsobenou na to aby mohla být zapálena. Pokud má zasažený cíl na sobě hořlavý materiál, tak začne při zásahu hořet. Po dobu 2 kol (nebo dokud není uhašen) obdrží cíl *1k4 poškození*. Šípem lze, vzhledem k jeho váze, střílet jen na polovinu efektivní vzdálenosti. Speciální šípy lze použít pouze do středních a větších kuší a luků.
 
@@ -297,7 +252,6 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 | Dalekohled                                               |       1        | 20 st |
 | Dřevěný kabinet na lektvary                              |       2        | 50 st |
 | Dřevěný kůl (5 ks)                                       |       5L       | 1 md  |
-| Dýmovnice                                                |       L        | 35 st |
 | Hák                                                      |       1        | 25 st |
 | Hlavička Česneku                                         |       L        | 1 md  |
 | Hudební nástroj                                          |     1 - 2      | 25 st |
@@ -356,8 +310,6 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 !!! note "Uschované lahvičky"
 	Všechny lahvičky v kabinetu jsou považovány za uschovaný předmět i kdyby byl kabinet samotný mezi vybavenými předměty.
-
-**Dýmovnice:** Malá bombička, která v místě dopadu vypustí neprůhledný dým do okruhu *2 metry*. Tento dým je neprůhledný a všechny stvoření v dýmu jsou efektivně slepé. Dým se na místě drží *10 kol* (1 minutu).
 
 **Hák:** Hák se třemi nebo čtyřmi hroty. Vhodný pro uchycení lana.
 
@@ -631,4 +583,4 @@ Dvoukolá kárka s velkou kapacitou.
 
 ## Nájemná pomoc
 
-asd ==Odkaz na verbování "dru" v Downtime==
+Mimo výbavy, povozů a zvířat je také možné si najmout družníky. Proces najímaní družníků je popsán v sekci [Mezi dobrodružstvími -> Družníci](/Pravidla%20a%20procedury/Downtime/#druznici).

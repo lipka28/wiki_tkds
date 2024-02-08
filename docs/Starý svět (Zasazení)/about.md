@@ -2,7 +2,7 @@
 
 <img src="/assets/ow.jpg" style="zoom:100%;" />
 
-## Starý svět
+## Starý svět ==Needs editing==
 
 Všechen text v těchto pravidlech předpokládají zasazení do Starého světa. Starý svět je nedefinovaná konstelace světadílů, kterou lze použít jako pozadí pro jakékoliv dobrodružství chcete. Následuje *9* pravd o Starém světě, které mají pomoci se hráčům a PJ vcítit do světa, tak jak byl zamýšlen autorem pravidel.
 
