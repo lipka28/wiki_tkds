@@ -1,5 +1,7 @@
 # Pravidla boje
 
+<img src="/assets/sep_line.png"/>
+
 ## Souboje
 
 | BOJOVÁ SEKVENCE KAŽDÉ KOLO                                   |
@@ -53,6 +55,8 @@
 
 **Další na tahu:** Opakuj kroky 1a až 1c pro každou stranu konfliktu v pořadí iniciativy. 
 
+<img src="/assets/sep_line.png"/>
+
 ## Abstraktní vzdálenosti (Optional)
 
 Při soubojích, které nepoužívají taktickou mřížku. Je možné se setkat s následujícími pojmy představující vzdálenost:
@@ -60,6 +64,8 @@ Při soubojích, které nepoužívají taktickou mřížku. Je možné se setkat
 - **Blízko** - Stvoření je ve stejné bojové zóně jako hráč. Na stvoření lze útočit snad všemi druhy útoků. Včetně nutného přesunu pro útok na blízku, i když je postava ve vzájemném ohrožení s jiným stvořením.
 - **Poblíž** - Stvoření je ve vedlejší bojové zóně připojené k zóně ve které, se nachází hráč. Hráč může používat útoky na dálku nebo se pohnout do nové zóny a použít útok na blízku. To vše během jednoho kola. 
 - **Daleko** - Stvoření mimo dosah běžných útoků hráče nebo ke kterému se nedá jednoduše dostat. Útoky některými zbraněmi na dálku mohou být stále možné.
+
+<img src="/assets/sep_line.png"/>
 
 ## Útok obecně
 
@@ -90,6 +96,8 @@ Při soubojích, které nepoužívají taktickou mřížku. Je možné se setkat
 
 !!! note "Příklad: Hořící nestvůra"
     Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
+
+<img src="/assets/sep_line.png"/>
 
 ## Ostatní bojové situace
 
@@ -132,3 +140,5 @@ Při soubojích, které nepoužívají taktickou mřížku. Je možné se setkat
 ==voda==
 
 Holding Breath: Characters can hold their breath for a number of rounds equal to their CON score. If their breath runs out, they begin to drown. A drowning character must be brought onto land and resuscitated within CON/3 rounds or die. Visibility: Submerged characters can see 100’ around them in the open ocean. Speed: Characters swim at half their normal movement speed. Armor and Encumbrance: Each turn, a character has a chance to sink based on their armor. • Leather: 20%. • Chain: 80%. • Plate: 100%. Overencumbered characters count as wearing chain. Magic armor does not apply these penalties. Weapons: Bludgeoning and missile weapons are useless. Cutting weapons attack at -4 and deal half damage on a hit. Spears and other thrusting weapons attack and damage as normal. Initiative: Unless the characters have an advantage, aquatic creatures always attack first in combat. Magic: Unless the caster can speak, they cannot use magic underwater. Additionally, spells that generate fire don’t work underwater—they just fizzle into hot bubbles.
+
+<img src="/assets/sep_line.png"/>

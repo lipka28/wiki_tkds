@@ -1,5 +1,7 @@
 # Mezi dobrodružstvími
 
+<img src="/assets/sep_line.png"/>
+
 Úspěšní dobrodruzi se s výprav vrací většinou s hromadou pokladů, které potřebují zpeněžit.  Výdělek pak mohou použít na zahojení ran, nákupu nové výbavy na další dobrodružství a nebo do investic, které mohou zamávat s rovnováhou moci ve světě.
 
 | Sekvence využití volného času                                |
@@ -29,6 +31,8 @@
     - *Cena ubytování a stravy* - *10 st / den*; za ustájení zvířete pak *5 st / den*
     - *Dostupnost zboží* - Všechno včetně výzbroje za *trojnásobné ceny* oproti cenám při tvorbě postavy. Se správnými známostmi lze sehnat i zajímavější zboží.
     - *Dostupnost řemeslníků a služeb* - Dostupný je jakýkoliv druh řemeslníků a služeb i těch nejpodivnějších. K těm nejlepším je však třeba se dostat přes známosti
+
+<img src="/assets/sep_line.png"/>
 
 ## Služby a základní aktivity
 
@@ -60,6 +64,8 @@ Hráčské postavy se mohou pokusit získat nějaké ty cenné informace. Předt
     - *Neúspěch* - Postava nic nenajde ale další den se může pokusit hledání opakovat
     - *NAT 1* - Archiv neobsahuje potřebné informace
 - **Projít se a naslouchat:** Hráč se automaticky dozví náhodnou zvěst. Tímto způsobem lze získat pouze 1 zvěst na postavu.
+
+<img src="/assets/sep_line.png"/>
 
 ## Najímání
 
@@ -137,6 +143,8 @@ Družníci jsou doprovodné nehráčské postavy, které doprovádí hráčské 
 - **Pěšák:**
     - *Lehký:* Meč, štít, lehká zbroj
     - *Těžký:* Meč, štít, střední zbroj
+
+<img src="/assets/sep_line.png"/>
 
 ## Rozvoj postavy
 
@@ -243,6 +251,8 @@ Tato kategorie je mechanicky ve směs stejná jako výzkum kouzel. Výsledkem je
 
 - **Cena:** *500 st* za třídu sesílaného efektu. Pokud se jedná o kouzlo vyšší jak 5. třídy je cena *5000 st*. Pokud se má jednat o permanentní efekt, je cena minimálně dvojnásobná.
 
+<img src="/assets/sep_line.png"/>
+
 ## Rozvoj moci
 
 V této kategorii jsou aktivity určené k rozvoji dosahu a moci postavy. Každá z aktivit v této kategorii zabere *1 den nebo více*. Aktivity není možné kombinovat.
@@ -333,13 +343,19 @@ Postava může strávit týden vyřizováním potřebných povolení a pokud má
 
 Postava se může vzdát života dobrodruha a odejít do "důchodu". Tím se s ní stává nehráčská postava na pozadí, která již nechodí na dobrodružství.  Pokud je to relevantní pro probíhající kampaň, tak původní majitel postavy může mluvit do toho co jeho postava dělá na pozadí a klidně si ji i někdy zahrát, pokud dojde na interakci s ostatními hráčskými postavami.
 
+<img src="/assets/sep_line.png"/>
+
 ## Jiné
 
 Určitě jsem nemohl pokrýt všechno. Buďte kreativní.
 
+<img src="/assets/sep_line.png"/>
+
 ## Co když není dost času mezi dobrodružstvími?
 
 Určitě jsem nemohl pokrýt všechno. Buďte ==Think about it==
+
+<img src="/assets/sep_line.png"/>
 
 
 

@@ -1,5 +1,7 @@
 # Pravidla dobrodružství
 
+<img src="/assets/sep_line.png"/>
+
 ## Organizace skupiny
 
 **Formace:** Před začátkem průzkumu by si hráči měli rozhodnout formaci, ve které budou postupovat. Například se hráči mohou rozhodnout, že budou postupovat ve formaci pyramidy. Obrněnec ve předu, čaroděj uprostřed  a 2 válečníci po stranách. Formaci lze kdykoliv změnit a dokonce lze definovat i různé formace pro různé situace. Jako třeba otevírání dveří, boj, průzkum atd.
@@ -14,6 +16,8 @@ Pro některé skupiny může být zajímavé nebo dokonce nutné, rozdělit ve s
 - **Vůdce** - V obzvlášť velkých skupinách je dobré zvolit vůdce skupiny. Který funguje jako takový most mezi hráči a PJ. Vůdce na základě diskuze se skupinou vyhodnotí co budou hráči jako skupina dělat a pak předá tyto informace PJ. Ten pak už jen vyhodnotí aktivity, které mu sděli vůdce.
 - **Zapisovatel** - Podobná role jako kartograf. Hráč zaznamenává zajímavé události během hry, aby si tímto záznamem mohli hráči v budoucnu připomenout co se vlastně ve hře dělo. 
 - **Zásobovač (Světlonoš)** - V neposlední řadě je dobré mít ve skupině někoho, kdo kontroluje stav zásob, má na starosti pochodně a společnou výbavu skupiny. Případně i nájemnou sílu.
+
+<img src="/assets/sep_line.png"/>
 
 ## Ověření dovednosti (Ability check)
 
@@ -34,6 +38,8 @@ Na rozdíl od hodu 20 stěnou kostkou, kde se situační modifikátory pohybují
 
 !!! note "Předpokládaná kompetence"
     Je dobré myslet na to, že hráčské postavy jsou především dobrodruzi. Měli by tedy zvládat základní věci, jako například nerušený šplh po laně nebo jízda na koni, bez zbytečných ověřovacích hodů.
+
+<img src="/assets/sep_line.png"/>
 
 ## Ověření schopnosti (Skill check)
 
@@ -57,6 +63,8 @@ Všichni dobrodruzi disponují 3-mi základními schopnostmi. Výchozí HU pro t
 - *Přežití* - Během cestování se mohou postavy pokusit o sběr plodů, lov malých zvířat a opatření jiných zásob. Tato aktivita nijak neovlivní rychlost pohybu a umožní cestující skupině najít nějaké ty zásoby.
     - **Efekt úspěchu:** Skupina najde *1k6 čerstvých zásob*.
 
+<img src="/assets/sep_line.png"/>
+
 ## Záchranné hody
 
 Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli plnému efektu kouzel, pastí a jiných speciálních efektů.
@@ -79,6 +87,8 @@ Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli pln�
 - *Větší rovno:* Pokud je výsledek větší nebo roven, zapsanému číslu tak je hod úspěšný. 
 - *Nižší:* V případě nižších výsledků se jedná o neúspěch. 
 - *NAT1 a NAT20:* V případě přirozené 1 se vždy jedná o neúspěch a v případě přirozených 20 je hod vždy úspěšný. 
+
+<img src="/assets/sep_line.png"/>
 
 ## Poškození, léčení a smrt
 
@@ -106,6 +116,8 @@ Skupiny, které chtějí snížit smrtelnost hry mohou použít tohle volitelné
 **Efekt:** Postava na prahu smrti má na konci každého svého tahu šanci 3 z 6-ti na to, že zemře.
 
 **Vyléčení:** Okamžité léčení libovolného rozsahu. Přivede postavu zpět k vědomí s *1 životem*. Postava také návratem z prahu smrti permanentně ztratí *1 náhodný dovednostní bod*.
+
+<img src="/assets/sep_line.png"/>
 
 ## Nebezpečí a nástrahy
 
@@ -135,6 +147,8 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 **Zadržení dechu:** Postava může zadržet dech po dobu tolika kol kolik je hodnota její dovednosti výdrž. Sesílání kouzel a mluvení však způsobí okamžité puštění dechu.
 
+<img src="/assets/sep_line.png"/>
+
 ## Únava
 
 Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žízeň či neklidné noci v chladu. Neustále psychické a fyzické vypětí se může lehce podepsat na kdejakém dobrodruhovy.
@@ -149,6 +163,8 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 - Magie
 
 **Efekty únavy:** Hráč obdrží 1 poškození. Toto poškození může být vyléčeno ve většině případů pouze přirozenou regenerací.
+
+<img src="/assets/sep_line.png"/>
 
 ## Přenocování v divočině
 
@@ -168,6 +184,8 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 **Přičtení únavy či odečet zásob:** Za každou neúspěšně opatřenou potřebu si pak hráči mohou vybrat. Buď utrpí 1 bod únavy a nebo spotřebují 1 zásobu. (Viz zásoby v kapitole *Výbava*)
 
 **Přenocování v kobce:** Ve většině případů není možné, protože by postavy byly celou noc rušeny putujícími monstry. Může však existovat výjimka v podobě dobře ukrytého a zabezpečeného místa uvnitř kobky, kde se dá nerušeně přenocovat.
+
+<img src="/assets/sep_line.png"/>
 
 ## Cestování po světě
 
@@ -201,6 +219,8 @@ Alternativní metodou jak řešit cestování, je "rychlé cestování". Vhodné
 - *Zásoby:* Hráči zaplatí počet zásob odpovídající počtu cestujících "hladových krků" za každý den cesty.
 - *Nedostatek zásob:* Za každou zásobu, kterou hráči nemohou zaplatit se přičte 1 bod souhrnného poškození. 
 - *Náhodná setkání:* Pokud hráči cestují delší dobu než 5 dní, PJ hodí *1k4* na určení počtu setkání. Na kratší vzdálenost je setkání většinou 1. 
+
+<img src="/assets/sep_line.png"/>
 
 ## Průzkum kobek
 
@@ -244,6 +264,8 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 !!! tip "Rada pro PJ: Neschovávej své pasti."
     Tvé pasti by měli mít vždy dostatek vodítek aby je hráči mohli odhalit dřív než do nich stoupnou. Výzva v překonání pasti by měla být vždy v tom jak past projít / obejít, nikoliv v tom jak ji odhalit. Gotcha momenty, kdy past zabije nic netušícího hráče, nejsou zábavné pro nikoho.
 
+<img src="/assets/sep_line.png"/>
+
 ## Náhlá setkání
 
 | POSTUP PŘI NÁHODNÉM SETKÁNÍ                                  |
@@ -281,6 +303,8 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Konec setkání:** Předpokládá se, že náhlá setkání (včetně bojů) trvají nejméně *1 směnu* a zaokrouhlují se k nejbližší směně nahoru. Je brán v potaz čas na odpočinek po boji, čištění výzbroje, obvázání ran a podobných aktivit.
 
+<img src="/assets/sep_line.png"/>
+
 ## Únik a pronásledování
 
 Pokud se hráči nebo monstrum nechce účastnit setkání nebo boje. Může se pokusit o únik.
@@ -300,3 +324,5 @@ Dojde-li na pronásledování, každá strana se pohybuje dvojnásobkem hybnosti
 **Překážky a odvedení pozornosti:** Při útěku může provádět jednoduché akce. Jako je shazování polic, tahání za páky či odhazování předmětů co má dotyčný u sebe. Poklad (šance *3 z 6-ti*, že inteligentní monstrum přestane pronásledovat) a jídlo (šance *3 z 6-ti*, že hladové monstrum přestane pronásledovat) jsou pro tyto účely extra vhodné.
 
  **Jiné akce:** Lze se pokusit o jiné akce. Jako třeba útok či sesílání kouzla. Avšak takové akce vyžadují zpomalení nebo úplné zastavení.
+
+<img src="/assets/sep_line.png"/>
