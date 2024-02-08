@@ -1,6 +1,10 @@
 # Postup na vyšší úroveň
 
+<img src="/assets/sep_line.png"/>
+
 <img src="/assets/levelUp.webp" style="zoom:100%;" />
+
+<img src="/assets/sep_line.png"/>
 
 ## Zkušenosti
 
@@ -24,6 +28,8 @@ Zkušenosti jsou postavám přiděleny na základě všelijakých aktivit ve hř
 
 Když postava získá dostatečné množství zkušenostní, aby dosáhla na novou úroveň. Může tuto úroveň investovat do libovolné specializace, ke které má přístup. Hráč by si měl překontrolovat informace k dané specializaci zda neobdržel nějaké nové bonusy nebo schopnosti.
 
+<img src="/assets/sep_line.png"/>
+
 ## Tabulka postupu na další úroveň
 
 | ÚROVEŇ | Potřebné zkušenosti |
@@ -38,3 +44,5 @@ Když postava získá dostatečné množství zkušenostní, aby dosáhla na nov
 |   8    |        1200         |
 |   9    |        1800         |
 |   10   |        3000         |
+
+<img src="/assets/sep_line.png"/>

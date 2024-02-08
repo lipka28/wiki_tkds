@@ -1,11 +1,15 @@
 # Magie
 
-!!! danger "Magické nadání"
-    Ne každé stvoření se může věnovat magii. Specializace do magie je ve Starém světě dostupná pouze stvořením s dovedností *rozum >= 14* a *Elfům*.
+<img src="/assets/sep_line.png"/>
 
 ![Image title](/assets/classes/Wizard.jpeg)
 
+<img src="/assets/sep_line.png"/>
+
 ## Magie jako výchozí specializace
+
+!!! danger "Magické nadání"
+    Ne každé stvoření se může věnovat magii. Specializace do magie je ve Starém světě dostupná pouze stvořením s dovedností *rozum >= 14* a *Elfům*.
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
@@ -62,3 +66,5 @@ Postava se může věnovat širšímu výzkumu jako jsou mocné magické rituál
 Dedikovaný čaroděj může kombinovat sesílání nižších tříd, aby seslal kouzlo vyšší třídy. Například za 2 sesílání kouzel 3. třídy může kouzelník seslat 1 kouzlo 4. třídy. To mu také umožňuje naučit se a sesílat silnější kouzla než jsou kouzla 5. třídy. Tyto kouzla lze seslat za cenu 2 sesílání 5. třídy.
 
 - **Limit sesílání kouzel vyšší jak 5. třídy:** Pokud se kouzelník naučí a sešle kouzlo větší jak 5.třídy. Kouzlo se mu vymaže z paměti a zanechá za sebou mentální blok. Jeden mág není schopný taková kouzla vyčarovat vícekrát jak 1x za život. Kouzlo lze stále vyčarovat jako rituál vzniklý magickým výzkumem.
+
+<img src="/assets/sep_line.png"/>

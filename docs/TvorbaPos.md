@@ -1,6 +1,10 @@
 # Tvorba postavy
 
+<img src="/assets/sep_line.png"/>
+
 <img src="/assets/char_create.webp" style="zoom:100%;" />
+
+<img src="/assets/sep_line.png"/>
 
 Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://www.tkds.cz/). Jak budeš připraven, následuj tyto kroky.
 
@@ -28,3 +32,5 @@ Obranné číslo tvé postavy je stanoveno dvěma faktory. A to *brněním*, kte
 ## 5. Poznač si úroveň, zkušenostní body a pojmenuj svou postavu
 
 Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1* s *0 zkušenostními body* a cílem *10 zkušenostních bodů* do další úrovně. Když máš vše hotové dej své postavě jméno.
+
+<img src="/assets/sep_line.png"/>

@@ -1,6 +1,10 @@
 # Řemeslo
 
+<img src="/assets/sep_line.png"/>
+
 ![Image title](/assets/classes/Thief.jpeg)
+
+<img src="/assets/sep_line.png"/>
 
 ## Řemeslo jako výchozí specializace
 
@@ -203,3 +207,5 @@ Postava se může pokusit vybavit si informace o zvířeti nebo jiném přirozen
 Vyber si schopnost, do které si investoval aspoň 4 body specializace. V této schopnosti již nemůžeš za žádných okolností selhat. Pokud si do dané schopnosti investoval více jak 4 body. Přebytečné body může přerozdělit do ostatních schopností.
 
 **Výjimečný lingvista:** Výjimkou jsou opět jazyky. Pokud se tvá postava naučila aspoň 6 jazyků na úroveň "Úplná". Můžeš použít expertizu aby se z ní stal výjimečný polyglot. Ovládající všechny ostatní tobě známé i neznámé jazyky na úrovni "Pokročilá".
+
+<img src="/assets/sep_line.png"/>

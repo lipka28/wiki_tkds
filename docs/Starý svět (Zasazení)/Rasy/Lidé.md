@@ -1,6 +1,10 @@
 # Lidé
 
+<img src="/assets/sep_line.png"/>
+
 ![Image title](/assets/races/Human.jpeg)
+
+<img src="/assets/sep_line.png"/>
 
 **Požadavky:** -  
 
@@ -21,3 +25,5 @@
 **Výchozí specializace:**
 
 Lidé si mohou vybrat jako výchozí specializaci *libovolnou specializaci* pro kterou splňují podmínky. Pokud se jedná o jinou specializaci než náboženství. Může si hráč, pokud chce, přidat i *1 stupeň specializace do náboženství*. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
+
+<img src="/assets/sep_line.png"/>

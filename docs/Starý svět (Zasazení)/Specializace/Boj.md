@@ -1,6 +1,10 @@
 # Boj
 
+<img src="/assets/sep_line.png"/>
+
 ![Image title](/assets/classes/Fighter.jpeg)
+
+<img src="/assets/sep_line.png"/>
 
 ## Boj jako výchozí specializace
 
@@ -59,3 +63,5 @@ S dosažením každé 3. úrovně. Dosáhne postava specializovaná v boji na no
 ### Extra útok
 
 Postavy, které dedikovali specializaci na boj 10 úrovní. Se mohou pokusit během svého tahu o extra útok nebo manévr s postihem *-2* na zásah (tento postih je kumulativní s postihem za talent *rozmeta*).
+
+<img src="/assets/sep_line.png"/>

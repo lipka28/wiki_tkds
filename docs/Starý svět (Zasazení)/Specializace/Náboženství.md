@@ -1,6 +1,10 @@
 # Náboženství
 
+<img src="/assets/sep_line.png"/>
+
 ![Image title](/assets/classes/Acolyte.jpeg)
+
+<img src="/assets/sep_line.png"/>
 
 ## Náboženství jako výchozí specializace
 
@@ -68,3 +72,5 @@ Postava může používat svou pomoc i na hody nepřátel.
 ### Zbožné přání
 
 Postava oddaná svému náboženství. Získá od svého patrona *1 přání*. Tohle přání může být použito na vytvoření jakéhokoliv magického efektu, který je v moci patrona.
+
+<img src="/assets/sep_line.png"/>

@@ -1,6 +1,10 @@
 # Trpaslíci
 
+<img src="/assets/sep_line.png"/>
+
 ![Image title](/assets/races/Dwarf.jpeg)
+
+<img src="/assets/sep_line.png"/>
 
 **Požadavky:** Síla >=9; Výdrž >= 12
 
@@ -23,3 +27,5 @@
 **Výchozí specializace:**
 
 Výchozí specializací trpaslíků je *boj*. Pokud si hráč přeje, může si k této specializaci přidat i *1 stupeň kterékoliv jiné specializace* pro kterou splňuje podmínky. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
+
+<img src="/assets/sep_line.png"/>

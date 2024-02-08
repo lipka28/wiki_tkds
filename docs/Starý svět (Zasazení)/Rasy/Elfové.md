@@ -1,6 +1,10 @@
 # Elfové
 
+<img src="/assets/sep_line.png"/>
+
 ![Image title](/assets/races/Elf.jpeg)
+
+<img src="/assets/sep_line.png"/>
 
 **Požadavky:** Zručnost >= 9; Rozum >= 12
 
@@ -24,4 +28,6 @@
 **Výchozí specializace:**
 
 Výchozí specializací elfů je *magie*. Pokud si hráč přeje, může si k této specializaci přidat i *1 stupeň kterékoliv jiné specializace*. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
+
+<img src="/assets/sep_line.png"/>
 

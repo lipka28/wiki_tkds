@@ -1,6 +1,10 @@
 # Dovednostni
 
+<img src="/assets/sep_line.png"/>
+
 <img src="/assets/abilities.webp" style="zoom:100%;" />
+
+<img src="/assets/sep_line.png"/>
 
 Dovednostní body určují zda má hráčova postava nějaké bonusy či penalizace při vykonávání různých akcí ve hře.  Jaký efekt mají které dovednosti je popsáno níže.
 
@@ -78,3 +82,5 @@ Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopn
 
 !!! Note "Společníci"
     Za společníka může být považován jak placený družník, tak zvíře nebo třeba nějaký démon ši jiné stvoření získané magií.
+
+<img src="/assets/sep_line.png"/>

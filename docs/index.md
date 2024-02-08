@@ -11,3 +11,5 @@ Vítejte *Tam, kde draci spí.* Nebo spíš v přehledu pravidel stejnojmenného
 ## Pravidlo 0
 
 Nejdůležitější a dost možná i jediné pravidlo, které pro hraní tohohle (nebo i jakéhokoliv jiného) stolního dobrodružství potřebujete, je pravidlo 0: "Bavte se". Všechno ostatní je vedlejší. Přijde vám nějaké pravidlo v tomhle přehledu zbytečné? Zahoďte ho. Něco vám chybí? přidejte to. Hráč vymyslel něco co není popsáno pravidly? Není důvod mu to zakazovat. Prostě něco vymyslete a uvidíte kam vás to dovede. Nejdůležitější je aby se všichni zúčastnění bavili.
+
+<img src="/assets/sep_line.png"/>

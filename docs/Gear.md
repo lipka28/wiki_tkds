@@ -1,6 +1,10 @@
 # Vybavení a nosnost
 
+<img src="/assets/sep_line.png"/>
+
 <img src="/assets/armory.jpg" style="zoom:100%;" />
+
+<img src="/assets/sep_line.png"/>
 
 ## Nosnost
 
@@ -33,6 +37,8 @@ Každá hráčská postava má měšec s kapacitou *100 mincí* (libovolné hodn
 | Kniha        |  1   |
 | Hůl          |  2   |
 
+<img src="/assets/sep_line.png"/>
+
 ## Zbroje a štíty
 
 Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zásah.
@@ -61,6 +67,8 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 **OČ:** Bonus k obrannému číslu. 
 
 **Potřebná síla:** Požadavek na sílu pro nošení zbroje.
+
+<img src="/assets/sep_line.png"/>
 
 ## Zbraně
 
@@ -242,6 +250,8 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 **Zápalný šíp:** Šíp s hlavicí speciálně uzpůsobenou na to aby mohla být zapálena. Pokud má zasažený cíl na sobě hořlavý materiál, tak začne při zásahu hořet. Po dobu 2 kol (nebo dokud není uhašen) obdrží cíl *1k4 poškození*. Šípem lze, vzhledem k jeho váze, střílet jen na polovinu efektivní vzdálenosti. Speciální šípy lze použít pouze do středních a větších kuší a luků.
 
+<img src="/assets/sep_line.png"/>
+
 ## Výbava dobrodruha
 
 Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním nákupu výbavy pro jejich postavu. Ceny a dostupnost předmětů, během hry samotné se mohou výrazně lišit.
@@ -389,6 +399,8 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při úvodním n�
 
 **Zlodějské náčiní:** Zlodějská sada pro odemykání zámků a jiné manipulace drobných mechanizmů.
 
+<img src="/assets/sep_line.png"/>
+
 ## Jedy
 
 Hráči mohou mít v průběhu hry přístup k nejrůznějším jedům. Prodej jedů však není úplně běžný. 
@@ -436,11 +448,13 @@ Aplikace na zbraň trvá *1 směnu*. Jednou lahvičkou jedu lze pokrýt *jednu v
 
 **Efekt (N)** - Efekt při neúspěšném hodu na záchranu.
 
+<img src="/assets/sep_line.png"/>
+
 ## Zvěř a povozy
 
 **Nosnost tažných zvířat:** Tažná zvěř může dosáhnout až dvojnásobku své psané nosnosti. Avšak při překročení psané nosnosti se jejich hybnost sníží na polovinu.
 
----
+<img src="/assets/sep_line.png"/>
 
 ### Lovecký pes
 
@@ -457,9 +471,9 @@ Domestikované plemeno vybírané především pro svou inteligenci a stopovací
 
 **Cena:** 17 st
 
----
+<img src="/assets/sep_line.png"/>
 
-### Válečný pes 
+### Válečný pes
 
 Velké domestikované plemeno. Vybrané především pro svou velikost a svou divokou náturu.
 
@@ -474,9 +488,9 @@ Velké domestikované plemeno. Vybrané především pro svou velikost a svou di
 
 **Cena:** 25 st
 
----
+<img src="/assets/sep_line.png"/>
 
-### Mula 
+### Mula
 
 Tvrdohlavý kříženec koně a osla.
 
@@ -492,7 +506,7 @@ Tvrdohlavý kříženec koně a osla.
 
 **Cena:** 30 st
 
----
+<img src="/assets/sep_line.png"/>
 
 ### Jezdecký kůň
 
@@ -510,7 +524,7 @@ Lehce stavěný kůň určený pro rychlou jízdu.
 
 **Cena:** 75 st
 
----
+<img src="/assets/sep_line.png"/>
 
 ### Tažný kůň
 
@@ -527,7 +541,7 @@ Vyšlechtěný kůň k tažení velké zátěže.
 
 **Cena:** 40 st
 
----
+<img src="/assets/sep_line.png"/>
 
 ### Válečný kůň
 
@@ -544,7 +558,7 @@ Vyšlechtěný kůň k síle a odvaze v boji. Vhodný pro krátké rychlé náje
 
 **Cena:** 250 st
 
----
+<img src="/assets/sep_line.png"/>
 
 ### Kárka
 
@@ -559,9 +573,7 @@ Dvoukolá kárka s velkou kapacitou.
 
 **Cena:** 100 st
 
-
-
----
+<img src="/assets/sep_line.png"/>
 
 ### Povoz
 
@@ -579,8 +591,10 @@ Dvoukolá kárka s velkou kapacitou.
 !!! note "SP: Životy struktur"
 	Struktury nelze poškodit běžnými zbraněmi (meče, luky, sekery atd..). Avšak velká stvoření, kouzla a obléhací zbraně je poškodit mohou. Za každých *5 poškození*, které útokem způsobí obléhací zbraň, kouzlo nebo velká nestvůra. *Obdrží struktura 1 bod poškození*.
 
----
+<img src="/assets/sep_line.png"/>
 
 ## Nájemná pomoc
 
 Mimo výbavy, povozů a zvířat je také možné si najmout družníky. Proces najímaní družníků je popsán v sekci [Mezi dobrodružstvími -> Družníci](/Pravidla%20a%20procedury/Downtime/#druznici).
+
+<img src="/assets/sep_line.png"/>

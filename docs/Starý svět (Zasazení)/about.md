@@ -1,6 +1,10 @@
 # Starý svět a jeho jazyky
 
+<img src="/assets/sep_line.png"/>
+
 <img src="/assets/ow.jpg" style="zoom:100%;" />
+
+<img src="/assets/sep_line.png"/>
 
 ## Starý svět ==Needs editing==
 
@@ -15,6 +19,8 @@ Všechen text v těchto pravidlech předpokládají zasazení do Starého světa
 - I když mezi známými rasami zrovna panuje křehký mír. Jejich vycházení je spíše jen tak na oko. Uvnitř území okupovanými samotnými rasami se to hemží vnitřními frakcemi, městskými státy a podobnými uskupeními. Které si vzájemně šlapou na paty a soupeří o každé zrnko moci, které mohou získat a nezajímá je, když u toho pocuchají vztahy z členy jiné rasy.
 - Technologická úroveň světa připomíná přibližně období naší renesance. S drobnými rozdíly u některých ras. Trpaslíci a lidé ovládají výrobu a používání střelného prachu. Trpaslíci dokonce začínají experimentovat s parními stroji ve svých skalních výhních. Zatímco Elfové Se pyšní svým využíváním magie a létáním na vyvernách.
 - Dobrodruzi jsou naprostí šílenci. Vidina rychlého zbohatnutí, touha po průzkumu neznámého nebo objevení mocného artefaktu dohnala ne jednoho člověka, elfa či trpaslíka k hození svého běžného života za hlavu a vyražení do neznáma. Představa je to však bláhová a ve většině případů končí smrtí. Existují však případy, kdy se jedinec navrátí s nesmírným bohatstvím. Stane se z něj mocný vládce nebo se dokonce povznese na vyšší úroveň bytí a připojí se k panthenou Nesmrtelných.
+
+<img src="/assets/sep_line.png"/>
 
 ## Jazyk
 
@@ -37,3 +43,5 @@ Znalost jazyka je učená schopnost, kterou se postava může během hry naučit
 - *Základní* - Porozumění textu s hranicí úspěchu *5*.
 - *Pokročilá* - Schopnost se dorozumět na základní úrovni. Porozumění textu s hranicí úspěchu *3*.
 - *Úplná* - Kompletní porozumění a ovládnutí jazyka včetně nuancí.
+
+<img src="/assets/sep_line.png"/>

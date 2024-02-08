@@ -1,14 +1,20 @@
 # Magie
 
+<img src="/assets/sep_line.png"/>
+
 Ve starém světě je magie všude kolem. Víří nad hlavami smrtelníků i nesmrtelných  ale nikdo úplně netuší odkud se bere. Existují teorie, že na svět proniká z vyšších sfér, když Nesmrtelní otevřou portál do své domoviny. Jiní zase tvrdí, že magie je omezený přírodní zdroj a mělo by se jí šetřit. Nic to však nemění na faktu, že magie je všude kolem. Existují odvážlivci, kteří se naučí formovat magii k obrazu svému. Ti pak většinu svého života stráví zkoumáním nových kouzel a hledáním magických zřídel, která propůjčí kouzelníkovi ohromnou moc.
 
 Hráčské postavy, s vyšší inteligencí, se mohou do zkoumání magie ponořit investováním do specializace na magii. Pravidla magie jsou následující.
+
+<img src="/assets/sep_line.png"/>
 
 ## Třída kouzel
 
 Kouzla jsou rozdělena do 6-ti základních tříd dle síly. Kouzelníkovi se zpřístupní nová třída kouzel za každou lichou úroveň dosaženou v magické specializaci. To znamená, že v rozmezí 1. až 9 úrovně se může postava, specializovaná na magii, naučit kouzla 1. až 5. třídy. 
 
 - **Mocná kouzla:** Kouzelníci 10. úrovně mají přístup ke kouzlům vyšší než 5. třídy. Této skupině kouzel se říká mocná kouzla a zahrnuje všechna kouzla vyšší jak 5. třídy.
+
+<img src="/assets/sep_line.png"/>
 
 ## Učení se kouzel
 
@@ -17,6 +23,8 @@ Postava specializovaná v magii se může naučit libovolné kouzlo třídy, ke 
 - **Získávání kouzel:** Postava může získat nové kouzlo zvýšením magické specializace, rozluštěním magické knihy jiného kouzelníka, naučením od jiného kouzelníka nebo magickým výzkumem.
 - **Přeučení kouzla:** Pokud má postava přístup ke kouzlu, tak jak je popsáno v předešlém bodě. Může nahradit libovolné kouzlo, které umí, tímto novým kouzlem. Případně se jej naučit navíc. Má-li na kouzlo kapacitu. Přeučení kouzla je možné jen jako součást denních příprav.
 - **Limit kouzel:** Postava může umět maximálně tolik kouzel kolik je její úroveň magické specializace. Tento limit se dá potencionálně rozšířit na úkor *kapacity pro schopnosti* stanovenou dovedností rozum.
+
+<img src="/assets/sep_line.png"/>
 
 ## Sesílání kouzel
 
@@ -33,6 +41,8 @@ Sesílání kouzel je omezeno typem zbroje, kterou má postava na sobě. Každý
 - *Velmi těžká zbroj* - lze seslat *pouze kouzla 1. třídy*
 - *Štít* - snižuje maximální třídu sesílatelných kouzel *o 1 stupeň*
 
+<img src="/assets/sep_line.png"/>
+
 ## Kouzla obecně
 
 Základní pravidla a definice platící pro všechny kouzla ve hře.
@@ -45,9 +55,13 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 - _Záchranný hod_ - Cíl většiny kouzel může podstoupit záchranný hod a tím se vyvarovat jeho efektu. U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě.
 - _Kombinace efektů_ - Více souběžných kouzel, nemůže být použito k ovlivnění té samé dovednosti (Síla, Zručnost, OČ, Životy a podobně...).
 
+<img src="/assets/sep_line.png"/>
+
 ## Magický výzkum
 
 Postavy, které jsou dostatečně dedikované své magické specializaci. Dosáhnou na možnost věnovat se magickému výzkumu. Kterým lze vyrábět různé lektvary, svitky a magické předměty. Jak funguje výroba samotná se můžete dočíst v kapitole [mezi dobrodružstvími](/Pravidla%20a%20procedury/Downtime/).
+
+<img src="/assets/sep_line.png"/>
 
 ## Magické předměty
 
@@ -98,6 +112,8 @@ Při hře se lze setkat i s dalšími "nositelnými" magickými předměty. Obec
 - **Omezení:** Stvoření může mít naráz vybaven jen 1 magický předmět daného typu (jedny boty, jedna přilba, jeden plášť atd...). Výjimkou jsou magické prsteny. Ty lze mít vybavené 2 (1 na každé ruce). 
 - **Aktivace:** Jak je magický efekt aktivován nemusí být na první pohled jasné. Hráč si na způsob aktivace může přijít experimentováním nebo použitím nějaké identifikační magie.
 - **Prokleté předměty:** Některé předměty mohou být prokleté. Nasazený prokletý předmět nelze sundat, dokud není prokletí zlomeno. 
+
+<img src="/assets/sep_line.png"/>
 
 ## Seznam kouzel
 
@@ -154,3 +170,5 @@ Doporučený seznam a třídy kouzel pro hraní hry. Kouzla v závorkách jsou o
 ### Znění kouzel
 
 Ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativně lze získat znění kouzel z [OSE Advanced](https://preview.drivethrurpg.com/en/product/336584/old-school-essentials-advanced-fantasy-player-s-tome) a bezplatného doplňku [OSE: The Necromancer](https://preview.drivethrurpg.com/en/product/414657/old-school-essentials-the-necromancer).
+
+<img src="/assets/sep_line.png"/>

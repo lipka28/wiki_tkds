@@ -1,6 +1,10 @@
 # Půlčíci
 
+<img src="/assets/sep_line.png"/>
+
 ![Image title](/assets/races/Halfling.jpeg)
+
+<img src="/assets/sep_line.png"/>
 
 **Požadavky:** Zručnost >=9; Výdrž >= 9; Síla <= 15
 
@@ -23,3 +27,5 @@
 **Výchozí specializace:**
 
 Výchozí specializací půlčíků je *řemeslo*. Pokud si hráč přeje, může si k této specializaci přidat i *1 stupeň kterékoliv jiné specializace* pro kterou splňuje podmínky. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
+
+<img src="/assets/sep_line.png"/>
