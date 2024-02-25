@@ -10,9 +10,9 @@
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
-| *2+1k6+Mod. Výdrže* |     *+0*     |     *15*      |
+| *2+1k4+Mod. Výdrže* |     *+0*     |     *16*      |
 
-**Trénovaná výzbroj:** Postava, která si vybrala řemeslo jako svou výchozí specializaci. Je trénovaná v používání *3 libovolných zbraní* vlastního výběru (nebo 2 zbraně a štítu). Také může používat *zbroje lehkého typu*.
+**Trénovaná výzbroj:** Postava, která si vybrala řemeslo jako svou výchozí specializaci. Je trénovaná v používání *3 libovolných zbraní* vlastního výběru (nebo 2 zbraní a štítu). Také může používat *zbroje lehkého typu*.
 
 **Body specializace:** Postava, která si vybrala řemeslo jako svou výchozí specializaci. Začíná hru s extra *8-mi body specializace*, které lze využít na schopnosti níže.
 
@@ -42,7 +42,7 @@ Zvýšením své specializace v řemeslech. Postava dosáhne na nové schopnosti
 Postavy specializující se na řemeslo se mohou naučit sadou výjimečných schopností. Ve kterých se mohou následně zlepšovat. V základu postava (až na výjimky) neumí žádnou z těchto schopností. První vylepšení, schopnost odemkne a umožní ji vykonávat s *HU 6*. Další investované body specializace pak *snižují HU o 1* až na *minimální HU 2*.
 
 !!! warning "Omezení zbroje"
-    Provádění některých schopností je penalizováno, pokud na sobě má postava *střední nebo těžší* zbroj. Tyto schopnosti mají v popisku umíněno *"Omezení zbroje"*. U takových schopností *se zvedá HU o 2 za každý stupeň zbroje nad lehkou*.
+    Provádění některých schopností je penalizováno, pokud na sobě má postava *střední nebo těžší* zbroj. Tyto schopnosti mají v popisku zmíněno *"Omezení zbroje"*. U takových schopností *se zvedá HU o 2 za každý stupeň zbroje nad lehkou*.
 
 | Seznam možných schopností                                    | Stručný popis                                                |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
@@ -74,25 +74,25 @@ Postavy specializující se na řemeslo se mohou naučit sadou výjimečných sc
 
 Postava se může pokusit připravit lektvar libovolného efektu, má-li potřebné suroviny. Příprava lektvarů trvá vždy celý den.
 
-- **Efekt lektvaru:** Lektvar může napodobit *1 významný magický efekt*. Pokud má mít efekt trvání tak trvá 1 směnu. Pokud se jedná o slabý efekt, může trvat i hodinu či den.
-- **Výroba lektvaru:** Za *1 den* lze vyrobit až *6 lektvarů* stejné druhu. Každý lektvar potřebuje minimálně 3 komponenty. *1 zásobu*, *1 běžnou bylinu* (získanou pravděpodobně z bylinkářství) a *1 vzácný materiál* (získaný nejspíš dovedností extrakce), který má něco společného s požadovaným efektem.
-- **Recept:** Po úspěšném vyrobení lektvaru si může postava zapsat recept (pokud má do čeho). A tím zvýšit šanci svých budoucí pokusy o výrobu takového lektvaru o 1. Na základě receptu lze také najmout alchymistu, který lektvar vyrobí nebo se pokusit o výrobu bez komponent (za zlaté) jako popsáno ve volno časové aktivitě ==magický výzkum ODKAZ==
+- **Efekt lektvaru:** Lektvar může napodobit *1 významný magický efekt*. Pokud má mít efekt trvání, tak trvá *1 směnu*. Pokud se jedná o slabý efekt, může trvat i hodinu či den.
+- **Výroba lektvaru:** Za *1 den* lze vyrobit až *6 lektvarů* stejného druhu. Každý lektvar potřebuje minimálně 3 komponenty. *1 zásobu*, *1 běžnou bylinu* (získanou pravděpodobně z bylinkářství) a *1 vzácný materiál* (získaný nejspíš dovedností extrakce), který má něco společného s požadovaným efektem.
+- **Recept:** Po úspěšném vyrobení lektvaru si může postava zapsat recept (pokud má do čeho). A tím zvýšit šanci svých budoucí pokusy o výrobu takového lektvaru o 1. Na základě receptu lze také najmout alchymistu, který lektvar vyrobí nebo se pokusit o výrobu bez komponent (za zlaté) jako popsáno ve volno časové aktivitě [magický výzkum](/Pravidla%20a%20procedury/Downtime/#vyroba-lektvaru-a-svitku).
 - **Neúspěch:** Lektvar se nepovedl a použitý materiál je ztracen. Hází se za každý jednotlivý vyráběný lektvar. Při větších kapacitách lze vzít šanci na úspěch čistě statisticky.
 
 <img src="/assets/sep_line.png"/>
 
 #### Alchymie - Rozbor
 
-Postava se může za pomoci *přenosná alchymistické sady* pokusit identifikovat materiál, efekt nebo složení lektvaru.
+Postava se může za pomoci *přenosné alchymistické sady* pokusit identifikovat materiál nebo efekt či složení lektvaru.
 
-- **Identifikace:** Trvá 1 směnu a prozradí efekt a vlastnosti daného materiálu (například identifikace lektvaru). Identifikace nespotřebuje výrazné množství původního materiálu. 
-- **Rozbor:** Trvá minimálně 1 nerušenou hodinu. Prozradí složení materiálu a jeho případný postup výroby. Rozbor zničí zkoumaný materiál.
+- **Identifikace:** Trvá *1 směnu* a prozradí efekt a vlastnosti daného materiálu (například identifikace lektvaru). Identifikace nespotřebuje výrazné množství původního materiálu. 
+- **Rozbor:** Trvá minimálně *1 nerušenou hodinu*. Prozradí složení materiálu a jeho případný postup výroby. Rozbor zničí zkoumaný materiál.
 
 <img src="/assets/sep_line.png"/>
 
 #### Bylinkářství
 
-Postava může strávit 1 směnu v přírodě a pokusit se o ověření této schopnosti. Pokud uspěje může vyléčit libovolnému živému stvoření *2 životy* denně nebo poskytnout extra *záchranný hod proti otravě* (1 použití / cíl). Léčivé byliny je nutné použít ihned čerstvé. Jinak ztrácí svůj efekt.
+Postava může strávit *1 směnu* v přírodě a pokusit se o ověření této schopnosti. Pokud uspěje může vyléčit libovolnému živému stvoření *2 životy* denně nebo poskytnout extra *záchranný hod proti otravě* (1 použití / cíl / den). Léčivé byliny je nutné použít ihned čerstvé. Jinak ztrácí svůj efekt.
 
 - **Omezení:** Jedná se o stejný typ léčení jako v případě předmětu *Lékárnička* a jejich použití nelze kombinovat.
 - **Alternativní využití:** Alternativně se tato schopnost dá použít pro sběr běžných bylin na místo schopnosti přežít, jak je popsána v [základních schopnostech](/Pravidla%20a%20procedury/Adventures/#zakladni-schopnosti). Kombinování těchto schopností nezpůsobuje další hod na suroviny. Skupina se musí rozhodnout kolik z posbíraných zásob jsou opravdu zásoby a kolik byliny. Byliny pokud řádně usušeny nemají omezenou životnost.
@@ -101,7 +101,7 @@ Postava může strávit 1 směnu v přírodě a pokusit se o ověření této sc
 
 #### Eskamotáž
 
-Postava se může pokusit ukrást malý předmět (max. velikost 1 slot) ve výbavě cíle nebo se pokusit o jiný eskamotérský trik. Jako nechat zmizet předmět v ruce nebo nenápadně podsunout jed do pití.
+Postava se může pokusit ukrást malý předmět (max. velikost *1 slot*) ve výbavě cíle nebo se pokusit o jiný eskamotérský trik. Jako nechat zmizet předmět v ruce nebo nenápadně podsunout jed do pití.
 
 - **Modifikace obtížnosti:** Každé *3 úrovně* cíle (případně pozorovatele) udělují kumulativní postih *-1* k hodu na úspěch. Například cíl 6. úrovně se okrádá s postihem -2.
 - **Přirozená 1:** Postava neuspěje a musí uspět v záchranném hodu na úhyb nebo být odhalen.
@@ -130,8 +130,8 @@ Postava se naučí cizí jazyk vlastního výběru. Tato schopnost má jen 3 stu
 
 Postava se může pokusit odemknout zámek nebo zneškodnit malou mechanickou past (např. v zámku nebo poklopu). 
 
-- **Opakování:** Manipulace mechanizmu trvá 1 směnu a vyžaduje *zlodějské náčiní*.
-- **Přirozená 1:** Pokud se jedná o zámek, tak je zámek mimo schopnosti postavy a musí s opakováním počkat do dosažení nové úrovně (nemusí se jednat o novou úroveň řemesla). Jedná-li se o past, ta se spustí. Postava může podstoupit záchranný hod na úhyb a tím se efektu pasti vyhnout. 
+- **Opakování:** Manipulace mechanizmu trvá *1 směnu* a vyžaduje *zlodějské náčiní*.
+- **Přirozená 1:** Pokud se jedná o zámek, tak je zámek mimo schopnosti postavy a musí s opakováním počkat do dosažení nové úrovně (nemusí se jednat o novou úroveň řemesla). Jedná-li se o past, ta se spustí.
 - **Omezení zbroje**
 
 <img src="/assets/sep_line.png"/>
@@ -156,7 +156,7 @@ Pokud je skupina postavy překvapena, postava si může hodit na ověření tét
 
 Postava podávající či aplikující jed na zbraň se může pokusit o ověření této schopnosti. Pokud uspěje aplikovaný jed se nepoužije celý a lze ho znovu použít.
 
-- **Limit opakování:** S jedné dávky jedu lze touto schopností dostat maximálně 3 použití.
+- **Limit opakování:** S jedné dávky jedu lze touto schopností dostat maximálně *3 použití*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -177,7 +177,7 @@ Funguje jako venkovní průzkum popsán v [základních schopnostech](/Pravidla%
 Postava se může pokusit aktivovat magický předmět bez toho, aby věděla jak daný předmět funguje nebo jaký má efekt. Případně použít magické předměty pro jejichž použití nesplňuje podmínky.
 
 - **Úspěch:** Úspěch znamená jednorázovou aktivaci předmětu (dle popisku daného předmětu). Nikoliv však pochopení jeho fungování.
-- **Neúspěch:** Při neúspěchu se nic nestane. Pokud se však chce postava pokusit znovu přelstít magický předmět, musí ho 10 minut (1 směnu) nerušeně studovat.
+- **Neúspěch:** Při neúspěchu se nic nestane. Pokud se však chce postava pokusit znovu přelstít magický předmět, musí ho *1 směnu* nerušeně studovat.
 
 <img src="/assets/sep_line.png"/>
 
@@ -189,7 +189,7 @@ Funguje jako přežití popsáno v [základních schopnostech](/Pravidla%20a%20p
 
 #### Rozluštit text
 
-Postava se může pokusit zjistit základní podstatu libovolného nemagického textu, mapy či obrazce. I když daným jazykem nemluví nebo je text třeba zašifrovaný.  
+Postava se může strávit *1 směnu* studováním libovolného nemagického textu, mapy či obrazce a pokusit zjistit jeho základní podstatu. I když daným jazykem nemluví nebo je text třeba zašifrovaný.  
 
 - **Neúspěch:** Při neúspěchu se o nové porozumění může postava pokusit až po dosažení nové úrovně (nemusí se jednat o novou úroveň řemesla).
 
@@ -218,7 +218,7 @@ Postava se může pokusit identifikovat a následovat stopy.
 Postava se může pokusit napodobit libovolného představitele své nebo podobné rasy (i opačného pohlaví) a to včetně dokonalého napodobení hlasu a nuancí.
 
 - **Cíl napodobení:** Postava musí znát chování, vzhled a hlas cíle, za který se chce vydávat.  Případně jen jeden z těchto požadavků pokud stačí pro danou situaci (Například hlas přes zavřené dveře).
-- **Převlek:** Připravení převleku trvá hodinu a vyžaduje *Sadu převleků a líčení*
+- **Převlek:** Připravení převleku trvá *1 hodinu* a vyžaduje *Sadu převleků a líčení*
 - **Neúspěch:** Pokud postava neuspěje, tak je někdy v průběhu své šarády odhalen.
 - **Opakování hodu:** V případě, že je zamaskovaná postava důkladně prověřen někým kdo cíl šarády zná. Musí postava opakovat hod na ověření úspěchu (Například muž políbí manželku, která je ve skutečnosti zabiják v přestrojení).
 - **Omezení zbroje** - V závislosti na kontextu může být platné omezení zbroje.
@@ -227,12 +227,12 @@ Postava se může pokusit napodobit libovolného představitele své nebo podobn
 
 #### Šplhání po stěnách
 
-Postava se může pokusit šplhat po stěnách bez očividných záchytů rychlostí až *25 metrů za směnu*.
+Postava se může pokusit šplhat po stěnách bez očividných úchytů rychlostí až *25 metrů za směnu*.
 
-- **Delší šplhání:** Ověřovací hod je potřeba za každých šplhaných 25 metrů.
+- **Delší šplhání:** Ověřovací hod je potřeba za každých šplhaných *25 metrů*.
 - **Neúspěch:** Neúspěch znamená, že tuhle směnu nenašla postava žádné vhodné úchyty a zůstala tedy na místě.
 - **Přirozená 1:**  Postava musí uspět v záchranném hodu na úhyb nebo spadnout.
-- **Omezení zbroje a výbavy:** Mimo omezení zbroje nesmí postava,  pokoušející se o tuhle schopnost, překročit polovinu své nosnosti vybavených a uschovaných předmětů.
+- **Omezení zbroje a výbavy:** Mimo omezení zbroje nesmí postava,  pokoušející se o tuhle schopnost, překročit polovinu své nosnosti pro uschované předměty.
 
 <img src="/assets/sep_line.png"/>
 
@@ -244,7 +244,7 @@ Postava se může pokusit vybavit si informace o zvířeti nebo jiném přirozen
 
 <img src="/assets/sep_line.png"/>
 
-### Expertíza (Úroveň 10)
+### Expertíza
 
 Vyber si schopnost, do které si investoval aspoň 4 body specializace. V této schopnosti již nemůžeš za žádných okolností selhat. Pokud si do dané schopnosti investoval více jak 4 body. Přebytečné body může přerozdělit do ostatních schopností.
 

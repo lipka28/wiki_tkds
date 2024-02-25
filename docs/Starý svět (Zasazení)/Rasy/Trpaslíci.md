@@ -6,25 +6,28 @@
 
 <img src="/assets/sep_line.png"/>
 
-**Požadavky:** Síla >=9; Výdrž >= 12
+**Požadavky:** Síla >=9; Výdrž >= 13
 
 **Vrozené jazyky:** Trpasličtina + Jazyk společenství
 
-**Hybnost:** 5 metrů 
+**Hybnost:** 9 metrů 
 
 **Doba přirozeného dožití:** 200 - 250 let
 
-*Trpaslíci jsou pradávná rasa, která dokonce ještě pamatuje časy, kdy po Aldiru běhali elfové. Jsou malí, sotva o 10 coulů vyšší než pulčíci. Bývají však mnohem mohutnější. Trpasličí muži si pěstují dlouhé husté plnovousy, které si zaplétají do složitých copů. Ženy si pak takové copy uplétají ze svých vlasů. Ztráta těchto ozdob je pro trpaslíka vrcholnou potupou. Trpaslíci na první pohled vypadají nabručeně a však mezi přáteli si rádi dopřejí dobré zábavy. Vznětlivost jim však není cizí. Trpaslíci jsou velmi schopní rolníci a kováři. Žijí ve svých kamenných městech v horách po boku s gnómy. Jejich města připomínají obří hutě, ve kterých se neustále zpracovávají všelijaká nerostná bohatství, kterými je obdarovala hora. Neexistuje snad trpaslík, který by netoužil po dobrodružství, jelikož jejich dlouhá historie je plná hrdinských příběhů o jejich předcích, a snad každý trpaslík by se chtěl stát takovým hrdinou. Jenže trpaslíci mají silný smysl pro povinnost a tak se málokdy stane, že se trpaslík vydá do světa za dobrodružstvím.* ==Přepsat==
+*==Dopsat popisek==*
 
-**Trpasličí jména:** Barab Bouřlivák, Aradun Bronzovous, Thorin Kladivoun, Helge Kovostřep, Ferya Tlustá, Furga Kovoštěp
+**Trpasličí jména:** (modify by pf2) Trpaslíci pojmenovávají své potomky po svých předcích nebo trpasličích hrdinech. U trpaslíků je velmi vzácné vymyslet nové jméno nebo převzít jméno od jiné rasy. Trpaslíci se také rádi prezentují názvem svého klanu, který si připojují za jméno. Trpasličí jména často obsahují spojení tvrdě znějících souhlásek a většinou mají 2, maximálně 3 slabiky. 
 
-**Speciální vlastnosti:**
+**Příklady takových jmen jsou:** Agna, Bodill, Dolgrin, Edrukk, Grunyar, Ingra, Kazmuk, Kotri, Lupp, Morgrym, Rogar, Rusilka, Torra, Yangrit
 
-- **Termovize** - Trpaslíci disponují termovizí (černobílá) na vzdálenost až *12 metrů*. 
-- **Silná játra** - Trpaslíci mají vrozenou odolnost vůči jedům. Každý trpaslík má bonus *+2* k záchranným hodům *proti jedům*. 
-- **Nižší těžiště** - Trpaslíci se nemohou naučit používat *dlouhé zbraně*, *obouruční meče* a *dalekonosné luky*. 
+## Speciální vlastnosti
 
-**Výchozí specializace:**
+- **Vidění ve tmě** - Trpaslíci vidí ve tmě na vzdálenost *12 metrů*. Více informací o této schopnosti [zde](/Pravidla%20a%20procedury/Adventures/#nebezpeci-a-nastrahy).
+- **Tuhý kořínek** - Trpaslíci mají vážně tuhý kořínek. Každý trpaslík má bonus *+2* k záchranným hodům *proti smrti*. Navíc pokud se používá [mírnější pravidlo pro umírání](/Pravidla%20a%20procedury/Adventures/#na-prahu-smrti-optional), tak trpaslíkova šance zemřít *na prahu smrti* je jen *2 z 6-ti*.
+- **Šestý smysl** - Trpaslíci dokáží přibližně odhadnout v jaké výšce či hloubce, vůči mořské hladině, se nachází.
+- **Nižší těžiště** - Trpaslíci se nemohou naučit používat *obouruční meče* a *dalekonosné luky*.
+
+## Výchozí specializace
 
 Výchozí specializací trpaslíků je *boj*. Pokud si hráč přeje, může si k této specializaci přidat i *1 stupeň kterékoliv jiné specializace* pro kterou splňuje podmínky. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
 

@@ -6,7 +6,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-Dovednostní body určují zda má hráčova postava nějaké bonusy či penalizace při vykonávání různých akcí ve hře.  Jaký efekt mají které dovednosti je popsáno níže.
+Dovednostní body určují zda má hráčova postava nějaké bonusy či penalizace při vykonávání různých akcí ve hře.  Co jaké dovednosti ovlivňují je popsáno níže.
 
 ## Síla
 
@@ -24,7 +24,7 @@ Svaly a fyzická síla. Hlavní využití síly je v boji a při nošení těžk
 
 ## Zručnost
 
-Zručnost, reflexy a rovnováha. Modifikátor zručnosti ovlivňuje především schopnost vyhýbat se útokům (OČ) a zasáhnout útoky na dálku. Do poškození se však nepřičítá. Připočítává se také k záchranným hodům na úhyb.
+Zručnost, reflexy a rovnováha. Modifikátor zručnosti ovlivňuje především schopnosti vyhýbat se útokům (OČ) a zasáhnout útoky na dálku. Do poškození se však nepřičítá. Připočítává se také k záchranným hodům na úhyb.
 
 | Zručnost | Modifikátor |
 | :------: | :---------: |
@@ -38,7 +38,7 @@ Zručnost, reflexy a rovnováha. Modifikátor zručnosti ovlivňuje především
 
 ## Výdrž
 
-Výdrž představuje zdraví, výdrž a vytrvalost. Modifikátor výdrže ovlivňuje hlavně zdraví a také se připočítává k záchranným hodům proti smrti.
+Výdrž představuje zdraví, odolnost a vytrvalost. Modifikátor výdrže ovlivňuje hlavně zdraví stvoření a také se připočítává k záchranným hodům proti smrti.
 
 |  Výdrž  | Modifikátor |
 | :-----: | :---------: |
@@ -52,9 +52,9 @@ Výdrž představuje zdraví, výdrž a vytrvalost. Modifikátor výdrže ovliv�
 
 ## Rozum
 
-Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnost hráčovi postavy a kolik extra schopností se může postava pokusit naučit. Mezi schopnosti se řadí jak ovládání jazyků tak i například schopnosti jiných povolání nebo nějaké úplně nové kousky. Modifikátor rozumu se také připočítává k záchranným hodům proti magii.
+Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnost hráčovi postavy a kolik extra schopností mimo specializaci se může postava pokusit naučit. Modifikátor rozumu se také připočítává k záchranným hodům proti magii.
 
-|  Rozum  | Modifikátor | Gramotnost |                Kapacita pro extra schopnosti                 |
+|  Rozum  | Modifikátor | Gramotnost |          Kapacita pro extra schopnosti nebo jazyky           |
 | :-----: | :---------: | :--------: | :----------------------------------------------------------: |
 |    3    |     -3      | Negramotný |                 Pouze jazyk své rasy lámaně                  |
 |  4 - 5  |     -2      | Negramotný |                     Pouze jazyk své rasy                     |
@@ -64,11 +64,11 @@ Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnos
 | 16 - 17 |     +2      |  Gramotný  |                          Rozené +3                           |
 |   18    |     +3      |  Gramotný  |                          Rozené +4                           |
 
-*\*Postava se zvládne alespoň podepsat, Zvládá jednoduchou matematiku (jako třeba počítat do 20-ti) a čtení čehokoliv jí trvá velmi dlouho s minimálním pochopením pro čtený text.*
+*\*Postava se zvládne alespoň podepsat, zvládá jednoduchou matematiku, rozpoznává znaky ale není schopna porozumět souvislému textu.*
 
 ## Osobnost
 
-Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopnost vést. Modifikátor osobnosti ovlivňuje to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě, kolik můžeš mít nehráčských společníků a to, jak jsou mu daní společníci loajální. Připočítává se také k záchranným hodům proti ovlivnění mysli.
+Osobnost představuje sílu osobnosti, přesvědčivost a schopnost vést. Modifikátor osobnosti ovlivňuje to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě, kolik může postava mít nehráčských společníků a to, jak jsou daní společníci loajální. Připočítává se také k záchranným hodům proti ovlivnění mysli.
 
 | Osobnost | Modifikátor | MAx Počet společníků | Loajalita |
 | :------: | :---------: | :------------------: | :-------: |
@@ -81,6 +81,6 @@ Osobnost představuje sílu osobnosti, přesvědčivost, přitažlivost a schopn
 |    18    |     +3      |          4           |    10     |
 
 !!! Note "Společníci"
-    Za společníka může být považován jak placený družník, tak zvíře nebo třeba nějaký démon ši jiné stvoření získané magií.
+    Za společníka může být považován jak placený družník, tak zvíře nebo třeba nějaký démon či jiné stvoření účastnící se dobrodružství s postavou.
 
 <img src="/assets/sep_line.png"/>

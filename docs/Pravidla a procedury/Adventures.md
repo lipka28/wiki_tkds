@@ -17,11 +17,14 @@ Pro některé skupiny může být zajímavé nebo dokonce nutné, rozdělit ve s
 - **Zapisovatel** - Podobná role jako kartograf. Hráč zaznamenává zajímavé události během hry, aby si tímto záznamem mohli hráči v budoucnu připomenout co se vlastně ve hře dělo. 
 - **Zásobovač (Světlonoš)** - V neposlední řadě je dobré mít ve skupině někoho, kdo kontroluje stav zásob, má na starosti pochodně a společnou výbavu skupiny. Případně i nájemnou sílu.
 
+!!! Note "Extra zkušenostní body"
+    Hráči, kteří iniciativně přímou tyto úlohy, mohou být odměněni extra zkušenostními body nebo si vyloudit od svých spoluhráčů větší podíl pokladu. 
+
 <img src="/assets/sep_line.png"/>
 
 ## Ověření dovednosti (Ability check)
 
-Nejasné situace může PJ řešit tím, že požádá hráče o hod na ověření dovednosti. Hod probíhá následovně: Hráč hodí *1k6* a přičte relevantní modifikátory, které lze na takovou aktivitu aplikovat. 
+Během hry mohou nastat situace, kdy výsledek nějaké situace není úplně jednoznačný. Nejasné situace může PJ řešit tím, že požádá hráče o hod na ověření dovednosti. Hod probíhá následovně: Hráč hodí *1k6* a přičte relevantní modifikátory, které lze na takovou aktivitu aplikovat. Například modifikátor relevantní dovednosti.  
 
 - *Větší rovno 4:* Pokud je výsledek větší nebo roven *4 (Hranice úspěchu - HU)*, tak je hod úspěšný. 
 - *Nižší než 4:* V případě nižších výsledků se jedná o neúspěch. 
@@ -43,20 +46,18 @@ Na rozdíl od hodu 20 stěnou kostkou, kde se situační modifikátory pohybují
 
 ## Ověření schopnosti (Skill check)
 
-Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tím rozdílem, že nejsou vázána na žádnou dovednost a hranice úspěchu není 4, ale je stanovena zdrojem schopnosti (třeba úrovní specializace). Například zlodějova schopnost "manipuluj mechanizmus". U spousty schopností taktéž není možné předpokládat základní kompetence u postav, které nejsou v daném oboru trénované. Takové postavy se o danou akci většinou nemohou pokusit.
-
-**Základní kompetence:** Pokud u postavy nelze předpokládat základní kompetenci a porozumění akce o kterou se pokouší a však i bez těchto znalostí je akce stále proveditelná. Obtížnost takové akce by měla být vždy *6* (háže se bez modifikování dovednostmi)
+Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tím rozdílem, že nejsou vázána na žádnou dovednost a hranice úspěchu není 4, ale je stanovena zdrojem schopnosti (třeba úrovní specializace). Například řemeslná schopnost "manipuluj mechanizmus". U spousty schopností taktéž není možné předpokládat základní kompetence u postav, které nejsou v daném oboru trénované. Takové postavy se o danou akci většinou nemohou pokusit.
 
 ### Základní schopnosti
 
 Všichni dobrodruzi disponují 3-mi základními schopnostmi. Výchozí HU pro tyto schopnosti je *6*. Tyto schopnosti jsou:
 
 - *Plížení* -  Postavy se mohou nenápadně proplížit kolem skupiny nepřátel.
-    - **Překvapení:** Na rozdíl od ostatních základních schopností, je úspěch určen hodem na překvapení. (viz. [Hod na překvapení v Náhlých setkání](/rules/#nahla-setkani)). 
-    - **Efekt úspěchu:** Pokud jsou nepřátelé překvapeni. Znamená to, že se postavy mohou bez problému proplížit okolo. (Pokud to rozložení terénu umožňuje) Tento hod je třeba opakovat každé kolo co se postavy plíží.
+    - **Překvapení:** Na rozdíl od ostatních základních schopností, je úspěch určen hodem na překvapení. (viz. [Hod na překvapení v Náhlých setkání](/Pravidla%20a%20procedury/Adventures/#nahla-setkani)). 
+    - **Efekt úspěchu:** Pokud jsou nepřátelé překvapeni. Znamená to, že se postavy mohou bez problému proplížit okolo. (Pokud to rozložení terénu umožňuje) Tento hod je třeba opakovat každé kolo co se postavy plíží kolem nepřátel.
 - *Průzkum* -  Během průzkumu postavy prohledají specifickou oblast.
-    - **Vnitřní průzkum:** Postava prozkoumá 2 metry čtverečné prostoru, během 1 směny.
-        - *Průzkum popisem:* Odhalil by hráčův popis metody průzkumu skrytý subjekt v dané oblasti. Průzkum je automaticky úspěšný i bez hodu na ověření.
+    - **Vnitřní průzkum:** Postava důkladně prozkoumá 3 metry čtverečné prostoru během 1 směny.
+        - *Vnitřní průzkum popisem:* Odhalil by hráčův popsaný postup průzkumu skrytý subjekt v dané oblasti? Průzkum je automaticky úspěšný i bez hodu na ověření.
     - **Venkovní průzkum:** Postavy prozkoumají oblast v okruhu 5 kilometrů v rámci 1 dne.
     - **Tajný hod:** Na tuhle schopnost háže PJ potají, aby hráč neviděl výsledek hodu.
     - **Efekt úspěchu:** Hráči objeví jeden z ukrytých prvků v dané oblasti.
@@ -67,7 +68,7 @@ Všichni dobrodruzi disponují 3-mi základními schopnostmi. Výchozí HU pro t
 
 ## Záchranné hody
 
-Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli plnému efektu kouzel, pastí a jiných speciálních efektů.
+Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli plnému efektu kouzel, pastí a jiných škodlivých efektů.
 
 **Typ záchranných hodů:** Každá postava má jednu univerzální hodnotu, která funguje jako hranice úspěchu záchranného hodu. Hod samotný je pak modifikován dovednostmi postavy v závislosti na efektu, který na postavu působí. Možné kategorie jsou následující:
 
@@ -80,11 +81,11 @@ Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli pln�
 | **Osobnost** | **Proti ovlivnění mysli** | *Strach, šílenství, magie ovlivňující mysl atd...*           |
 
 !!! warning "Mapování B/X záchranných hodů"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na výčet jiných záchranných hodů. Ty se mapují následovně: *Paralýza* = Proti síle, *Dech* / *Hůlky* = Na úhyb, *Smrt* / *Jed* = Proti smrti, *Kouzla* / *Hole* = Proti magii. Záchranný hod proti ovlivnění mysli přímo nezapadá do žádné B/X kategorie. PJ však může dle vlastního uvážení požadovat tento záchranný hod na efekty ovlivňující mysl.   
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na výčet jiných záchranných hodů. Ty se mapují následovně: *Paralýza* = Proti síle, *Dech* / *Hůlky* = Na úhyb, *Smrt* / *Jed* = Proti smrti, *Kouzla* / *Hole* = Proti magii. Záchranný hod proti ovlivnění mysli přímo nezapadá do žádné B/X kategorie. PJ však může dle vlastního uvážení požadovat tento záchranný hod na strach a efekty ovlivňující mysl.
 
-**Hod záchranného hodu:** Když je postava ovlivněna efektem, který vyžaduje záchranný hod tak si hodí *1k20*, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako univerzální hod. 
+**Hod záchranného hodu:** Když PJ vyžaduje záchranný hod, tak si hráč hodí *1k20*, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako záchranný hod ve svém deníku postavy. 
 
-- *Větší rovno:* Pokud je výsledek větší nebo roven, zapsanému číslu tak je hod úspěšný. 
+- *Větší rovno:* Pokud je výsledek větší nebo roven, tak je hod úspěšný. 
 - *Nižší:* V případě nižších výsledků se jedná o neúspěch. 
 - *NAT1 a NAT20:* V případě přirozené 1 se vždy jedná o neúspěch a v případě přirozených 20 je hod vždy úspěšný. 
 
@@ -92,11 +93,11 @@ Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli pln�
 
 ## Poškození, léčení a smrt
 
-Všechny postavy a monstra mají celkový počet životů, který reprezentuje jejich schopnost se vyhýbat smrti. Všechny formy útoků odečítají z tohoto celkového počtu.
+Všechny postavy a monstra mají celkový počet životů, který reprezentuje jejich schopnost se vyhýbat smrti. Všechny formy poškození odečítají z tohoto celkového počtu.
 
 ### Léčení
 
-**Přirozená regenerace:** Za každý den nerušeného odpočinku stvoření zregeneruje *2 životy*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy. Přirozená regenerace je jedním z mála způsobů jak léčit životy ztracené kvůli únavě.
+**Přirozená regenerace:** Za každý den nerušeného odpočinku stvoření zregeneruje *1 život*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy. Přirozená regenerace je jedním z mála způsobů jak léčit životy ztracené kvůli únavě.
 
 **Magické léčení:** Léčit lze také pomocí lektvarů, nebo kouzel. Tato forma léčení je většinou instantní. Magické a přirozené léčení lze kombinovat.
 
@@ -111,9 +112,9 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 #### Na prahu smrti (Optional)
 
-Skupiny, které chtějí snížit smrtelnost hry mohou použít tohle volitelné pravidlo. Hráčská postavy, jejichž životy klesnou na 0, upadají do bezvědomí a objevují se *na prahu smrti*.
+Skupiny, které chtějí snížit smrtelnost hry mohou použít volitelné pravidlo pro mírnější systém smrti. Hráčská postavy, jejichž životy klesnou na 0, upadají do bezvědomí a objevují se *na prahu smrti*.
 
-**Efekt:** Postava na prahu smrti má na konci každého svého tahu šanci 3 z 6-ti na to, že zemře.
+**Efekt:** Postava na prahu smrti má na konci každého svého tahu šanci *3 z 6-ti* na to, že zemře.
 
 **Vyléčení:** Okamžité léčení libovolného rozsahu. Přivede postavu zpět k vědomí s *1 životem*. Postava také návratem z prahu smrti permanentně ztratí *1 náhodný dovednostní bod*.
 
@@ -125,27 +126,46 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 **Šplhání:** Šplhat lze polovinou své hybnosti po površích, které mají aspoň nějaké úchyty. Pokud postava šplhá v obtížné nebo napjaté situaci (jako třeba boj), PJ muže vyžadovat nějaký hod kostkou. Například ověření síly.
 
-**Tma:** Pokud se postavy chystají na výpravu do podzemí (nebo jiných tmavých prostorů) doporučuje se vzít si sebou zdroj světla. Postavy ve tmě jsou považovány za slepé.
+**Tma:** Pokud se postavy chystají na výpravu do podzemí (nebo jiných tmavých prostorů) doporučuje se vzít si sebou zdroj světla. Postavy ve tmě jsou považovány za slepé. Pokud skupina během průzkum ztratí všechny zdroje světla, tak je permanentně ztracena (jako kdyby umřela). 
 
-**Termovize:** Některé monstra a humanoidní rasy mají speciální zrak, který jim umožňuje částečně vidět ve tmě.  
+**Vidění ve tmě:** Všechna nehumanoidní monstra a některá humanoidní stvoření mají schopnost černobílého vidění ve tmě.
 
-- *Stopy tepla:* Stvoření, která mají termovizi vidí teplo vyzařující s živých (teplokrevných) stvoření. Živá stvoření a teplá místa vidí jako bílé nebo světle šedé, ostatní věci jako stupně šedi a studené místa jako černou.  
-- *Čtení:* Ve většině případů se termovizí ve tmě nedá číst, jelikož nelze vnímat dostatečné detaily. 
-- *Dosah:* Dosah termovize ve tmě je 12 metrů (pokud není specifikováno jinak). 
-- *Narušení:* Jakýkoliv zdroj světla, nebo velký zdroj tepla, termovizi vyruší. (Vidění uživatele se vrátí do normálu.)
+- *Čtení:* Ve většině případů se touto vizí nedá číst ve tmě, jelikož nelze vnímat dostatečné detaily. 
+- *Dosah:* Dosah vidění je *18 metrů* (pokud není specifikováno jinak). 
+- *Narušení:* Jakýkoliv zdroj světla, vidění ve tmě vyruší (vidění uživatele se vrátí do normálu).
 
 **Světlo a překvapení:** Postavy nebo monstra, která mají sebou zdroj světla, nemůžou překvapit své nepřátele. Světlo totiž prozrazuje jejich přítomnost.
 
 **Pád z výšky:** Pád z výšky na tvrdý povrch působí *1k6* poškození za každé započaté 3 metry pádu. Pokud se jedná o vědomý pád (například seskočení z balkónu), poškození se nepočítá za první 3 metry.
 
 !!! note "Rychlost pádu"
-    Pokud postava padá volným pádem, předpokládá se, že padá rychlostí *25 metrů* za vteřinu. (150 metrů za kolo)
+    Pokud postava padá volným pádem, předpokládá se, že první kolo padá rychlostí *25 metrů za vteřinu* (250 metrů za kolo) a všechna následující kola rychlostí *50 metrů za vteřinu* (500 metrů za kolo).
 
-**Hlad a žízeň:** Pokud postavy jsou déle jak den bez jídla nebo pití, tak si za každý takový den přičtou bod (nebo dva) únavy.
+**Hlad a žízeň:** Pokud postavy jsou déle jak den bez jídla nebo pití, tak si za každý takový den přičtou body únavy za každou chybějící potřebu.
 
-**Plavání:** Při plavání je maximální rychlost postavy polovina její hybnosti. Je předpokládáno, že každá hráčova postava umí plavat. Pokud neexistují zřejmé důvody proč by nemohla. 
+### Voda a plavání
 
-**Zadržení dechu:** Postava může zadržet dech po dobu tolika kol kolik je hodnota její dovednosti výdrž. Sesílání kouzel a mluvení však způsobí okamžité puštění dechu.
+Jednou z nejnebezpečnější překážek,se kterou se postavy mohou setkat, je voda. Pro stvoření ponořené ve vodě platí následující postihy.
+
+**Rychlost plavání:** Stvoření bez určené hybnosti plavání, mají rychlost plavání odpovídající *polovině své hybnosti*.
+
+**Zadržení dechu:** Postava může zadržet dech na tolik kol kolik je její *hodnota výdrže*. Pokud postava obdrží poškození, neuspěje v záchranném hodu, pokusí se mluvit nebo jí prostě dojde dech, tak se začne topit. Topící se postava musí být vytažena na souš a recitovávána do *výdrž postavy / 3* kol jinak zemře.
+
+**Viditelnost pod vodou:** Stvoření bez ochrany očí nebo schopnosti dýchat pod vodou. Vidí, za ideálních podmínek (čistý otevřený oceán za jasného dne), přibližně *5 metrů* kolem sebe pouze obrysy. Pro účely boje je takové stvoření efektivně slepé. V případě, že stvoření může vidět pod vodou je pak dohled kolem *50 metrů* (za ideálních podmínek).
+
+**Brnění a zátěž:** Postava ve zbroji nebo s velkou zátěží. Má *%* šanci jít ke dnu, každé kolo strávené ve vodě. Rychlost klesání je *6 metrů za kolo*.
+
+- **Lehká zbroj:** šance jít ke dnu je *25%*
+- **Střední zbroj:** šance jít ke dnu je *75%*
+- **Těžká zbroj:** šance jít ke dnu je *100%*
+- **Magická zbroj:** jsou magické a netáhnou nositele ke dnu
+- **Překročení poloviny nosnosti pro uschované předměty:** šance jít ke dnu se zvětšuje o *25%*
+
+**Zbraně:** Střelné zbraně a zbraně působící tupá poškození jsou pod vodou nepoužitelné. Sečné zbraně útočí s postihem *-4* na zásah a při úspěšném zásahu působí *poloviční poškození*. Bodné zbraně fungují normálně.
+
+**Kouzla:** Pokud stvoření nemůže pod vodou mluvit, tak nemůže sesílat kouzla. Navíc všechna ohnivá kouzla jsou pod vodou nepoužitelná.
+
+**Iniciativa:** Pokud nedošlo na překvapení, tak vodní živočichové vždy pod vodou vyhrávají iniciativu.
 
 <img src="/assets/sep_line.png"/>
 
@@ -162,13 +182,13 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 - Přežití vlastní smrti
 - Magie
 
-**Efekty únavy:** Hráč obdrží 1 poškození. Toto poškození může být vyléčeno ve většině případů pouze přirozenou regenerací.
+**Efekty únavy:** Hráč obdrží *1 poškození*. Toto poškození může být vyléčeno ve většině případů pouze přirozenou regenerací.
 
 <img src="/assets/sep_line.png"/>
 
 ## Přenocování v divočině
 
-Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i dobrý plán a hlavně zásoby. Dobrodružné výpravy totiž málo kdy trvají jen 1 den. Při přenocování v divočině je potřeba podstoupit následující kroky. 
+Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i dobrý plán a hlavně zásoby. Dobrodružné výpravy totiž málo kdy trvají jen 1 den. Při přenocování v divočině je potřeba podstoupit následující kroky.
 
 1. Pokus o utáboření
 2. Vyhodnocení 
@@ -195,21 +215,21 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 | *2. Ztráta směru* - PJ Rozhodne zda se hráči po cestě ztratí. |
 | *3. Náhodná setkání* - PJ hodí aplikovatelné hody, aby rozhodl zda se během cesty něco přihodí. |
 | *4. Popis* - PJ hráčům popíše cestu a všechny události co se během ní staly. |
-| *5. Konec dne* - PJ aktualizuje časové záznamy a upraví dobu trvání kouzel. Hráči si také musí odpočinout po dni cesty. (viz. [Přenocování v divočině](/rules/#prenocovani-v-divocine)) |
+| *5. Konec dne* - PJ aktualizuje časové záznamy a upraví dobu trvání kouzel. Hráči si také musí odpočinout po dni cesty. (viz. [Přenocování v divočině](/Pravidla%20a%20procedury/Adventures/#prenocovani-v-divocine)) |
 
 **Výběr směru:** Hráči si na základě orientačních bodů, cesty nebo dle světových stran, určí jakým směrem chtějí cestovat.
 
-**Viditelnost:** V běžných podmínkách se předpokládá, že hráči vidí 5 kilometrů kolem sebe. A však v některých situacích, jako je pohyb v lese či vyšplhání na vysokou horu, může být jejich dohled menší nebo větší.
+**Viditelnost:** V běžných podmínkách se předpokládá, že hráči vidí 4.5 kilometrů kolem sebe (proto je dobré používá 9-ti kilometrové hexy). A však v některých situacích, jako je pohyb v lese či vyšplhání na vysokou horu, může být jejich dohled menší nebo větší.
 
-**Pohyb po světě:** Vzdálenost, kterou mohou postavy ujít za den, je dána pětinásobkem jejich hybnosti. Pro většinu postav je to tedy 30 kilometrů za den. A však rychlost skupiny je odvozena od nejpomalejšího člena skupiny. 
+**Pohyb po světě:** Vzdálenost, kterou mohou postavy ujít za den, je dána trojnásobkem jejich hybnosti. A však rychlost skupiny je odvozena od nejpomalejšího člena skupiny. 
 
 - *Obtížný terén:* Pokud postavy cestují obtížným terénem, tak se pohybují o poloviční rychlostí. Takže například cestovat 10 mil bažinami je stojí 20 mil jejich hybnosti. 
 - *Cesty:* Cesta umožňuje pohyb i s vozem. 
-- *Cestování dnem i nocí:* Hráči se mohou rozhodnout, že chtějí cestovat dnem i nocí bez přestávky. To jim umožní, se během jednoho dne cestování posunout o polovinu vzdálenosti více. (např. 30 km -> 45 km). A však každá z postav obdrží 1 bod únavy. 
+- *Cestování dnem i nocí:* Hráči se mohou rozhodnout, že chtějí cestovat dnem i nocí bez přestávky. To jim umožní, se během jednoho dne cestování posunout o polovinu vzdálenosti více. (např. 30 km -> 45 km). A však každá z postav obdrží *1 bod únavy*.
 
 **Ztráta směru:** Pokud hráči necestují po cestě nebo dle nějakého orientačního bodu. (Jako je třeba řeka, hora nebo podobné.) Existuje šance, že ztratí směr. Šance na ztrátu směru je *2 z 6-ti*. V *Obtížném terénu* pak *3 z 6-ti*. Postavy co ztratí směr se v průběhu dne cestování lehce odchýlí od svého směru putování.
 
-**Náhodná setkání:** Během cestování krajinou mohou hráči narazit na různá stvoření, či jiné události. Šance narazit na něco takového je *2 z 6-ti* za každý den cestování.
+**Náhodná setkání:** Během cestování krajinou mohou hráči narazit na různá stvoření, či jiné události. Šance narazit na něco takového je *2 z 6-ti* za každý den cestování. V nebezpečných oblastech i více.
 
 ### Rychlé cestování
 
@@ -239,11 +259,11 @@ Alternativní metodou jak řešit cestování, je "rychlé cestování". Vhodné
 
 ### Nejčastější akce při průzkumu kobek
 
-Když se hráči rozhodují co budou dělat mají na výběr v podstatě z nekonečno možností. Nejčastěji se však rozhodnou buď pro pohyb, prozkoumávání nebo odpočinek.
+Když se hráči rozhodují co budou dělat mají na výběr v podstatě z nekonečno možností. Nejčastěji se však rozhodnou buď pro pohyb mezi místnostmi nebo průzkum.
 
 **Průzkum:** Kobky obsahují spoustu ukrytých prvků. Jako jsou pasti, tajné dveře či ukryté poklady. Hráči mohou tyto ukryté prvky odhalit průzkumem. Hráč popíše svůj postup průzkumu a případné nástroje a jejich využití. PJ vyhodnotí zda by hráčův postup skrytý prvek odhalil a sdělí hráči výsledek.
 
-**Odpočinek:** Odpočívat lze maximálně jednou za 8 hodin průzkumu. Odpočinek trvá 8 - 12 hodin. Pokud postavy v posledních 24 hodinách neodpočívali, utrpí *1 bod únavy*.  Na konci odpočinku si postavy mohou udělat své každodenní přípravy.
+**Pohyb:** Postavy se přesunou z jedné místnosti do druhé. Při pohybu se předpokládá, že se postavy pohybují extrémně obezřetně. Snaží se být potichu a porozhlížejí se po pastech. Proto se uplynulý čas za přesun do neprozkoumané většinou zaokrouhluje k *1 směně*. Pokud se však hráči pohybují oblastmi, které již znají nebo třeba utíkají před nepřáteli. Jejich pohyb je daleko rychlejší a však o to méně obezřetný.
 
 !!! note "Trvání akcí při průzkumu"
     Při průzkumu se předpokládá, že naprostá většina akcí zabere *1 směnu*.
@@ -252,17 +272,17 @@ Když se hráči rozhodují co budou dělat mají na výběr v podstatě z nekon
 
 V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pasti až po všelijaké hádanky. Nejčastějšími překážkami jsou však dveře a pasti.
 
-**Dveře:** Kobky mívají spoustu dveří a ty můžou být v různém stavu. Například maskované, zamčené nebo třeba jen zasáklé. Pro zjednodušení se předpokládá, že je naprostá většina dveří zavřená. 
+**Dveře:** Kobky mívají spoustu dveří a ty můžou být v různém stavu. Například skryté, zamčené nebo třeba jen zasáklé. Pro zjednodušení se předpokládá, že je naprostá většina dveří v kobce zavřená. 
 
-**Zamčené dveře:** Zamčené dveře mohou být odemčeny klíčem, který se pravděpodobně skrývá někde v kobce. Alternativně mohou být odemčeny postavu se schopností odemykat zámky. Samozřejmě vždycky existuje varianta dveře rozmlátit, avšak způsobený hluk může vyvolat nechtěnou pozornost.
+**Zamčené dveře:** Zamčené dveře mohou být odemčeny klíčem, který se pravděpodobně skrývá někde v kobce. Alternativně mohou být odemčeny postavu se schopností odemykat zámky. Samozřejmě vždycky existuje varianta dveře rozmlátit, avšak způsobený hluk může vyvolat nechtěnou pozornost (hod na putující monstra).
 
 **Pasti:** Pasti jsou další nepostradatelnou součástí kobek. Existují 2 kategorie pastí. Skryté a nápadné. Pasti jsou postavami buď automaticky sponzorovány a nebo by PJ měl poskytnout hráčům dostatek vodítek, že se v dané lokalitě vyskytuje past. Takovou pastí může být třeba díra s bodci uprostřed chodby, podezřelé pravidelně rozmístěné otvory ve stěnách místnosti nebo velké kladivo visící nad dveřmi. 
 
 - *Spouštěcí mechanizmus:* Každá past má svůj spouštěcí mechanizmus. (Jako otevření dveří, přejití přes určitou oblast či narušení magických run. atd...) 
-- *Šance na spuštění:* Převážná většina pastí má šanci na spuštění *2 z 6-ti*.
+- *Šance na spuštění:* Převážná většina pastí v kobkách jsou staré a nespolehlivé. Taková past má šanci na spuštění *2 z 6-ti*.
 
 !!! tip "Rada pro PJ: Neschovávej své pasti."
-    Tvé pasti by měli mít vždy dostatek vodítek aby je hráči mohli odhalit dřív než do nich stoupnou. Výzva v překonání pasti by měla být vždy v tom jak past projít / obejít, nikoliv v tom jak ji odhalit. Gotcha momenty, kdy past zabije nic netušícího hráče, nejsou zábavné pro nikoho.
+    Tvé pasti by měli mít vždy dostatek vodítek aby je hráči mohli odhalit dřív než do nich stoupnou. Výzva v překonání pasti by měla být vždy v tom jak past projít / obejít, nikoliv v tom jak ji odhalit. Gotcha momenty, kdy past zabije nic netušícího hráče, nejsou dlouhodobě zábavné pro nikoho.
 
 <img src="/assets/sep_line.png"/>
 
@@ -272,7 +292,7 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 | :----------------------------------------------------------- |
 | *1. Překvapení:* PJ Hodí na překvapení (pokud aplikovatelné) |
 | *2. Vzdálenost setkání:* PJ rozhodne jak daleko jsou od sebe hráči a monstrum |
-| *3. Iniciativa:* Každá strana, která není překvapená hodí iniciativu |
+| *3. Iniciativa:* Každá strana, která není překvapena, hodí *1k10*. (remíza jde ve prospěch hráčů) |
 | *4. Akce:* Každá strana, která není překvapená se rozhodne jak bude na setkání reagovat a setkání se odehraje |
 | *5. Závěr:* Uběhne 1 kolo                                    |
 
@@ -283,31 +303,33 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Vzdálenost setkání:** Situace při které k setkání dojde většinou určuje vzdálenost mezi účastníky. Pokud však není na první pohled jasné jak jsou účastníci daleko od sebe, je možné určit vzdálenost náhodným hodem dle místa setkání:
 
-- *Vnitřní prostory:* *2k6* polí (Polovina při překvapení). Pro převod na metry je třeba vynásobit výsledek 3-mi
-- *Divočina, moře nebo vzduch:* *4k6 x 10* polí (nebo *1k4 x polí pokud je některá ze stran překvapená). Pro převod na metry je třeba vynásobit výsledek 3-mi
+- *Vnitřní prostory:* *2k6 x 3* metrů (nebo *1k4 x 3* metrů pokud je některá ze stran překvapená).
+- *Divočina, moře nebo vzduch:* *4k6 x 10* metrů (nebo *1k4 x 10* metrů pokud je některá ze stran překvapená).
 
-!!! note "Velikost pole"
-    Pole v tomto případě předpokládá čtvercovou síť, kde *1 pole = 10 stop* (asi 3 metry)
+**Iniciativa:** Hoď *1k10* Za každou účastnící se stranu. 
+
+- *Vítěz:* Strana s nejvyšším hodem je na tahu jako první, ostatní jsou na řadě v pořadí od nejvyššího hodu po nejnižší.  
+- *Remíza:* Remíza jde ve prospěch hráčů. 
 
 **Akce** **Hráčů:** Hráči si rozhodnou co chtějí dělat 
 
 **Akce monster:** Pokud ze situace není jasné jak by monstrum reagovalo. Lze to rozhodnout pomocí hodu na reakci dle tabulky níže. Došlo-li na komunikaci mezi hráči a monstrem, tak k hodu na reakci lze přičíst modifikátor osobnosti hráče, který komunikaci vedl. 
 
-| 2k6         | VÝSLEDEK                   |  REAKCE NA JINÉ NPC INTERAKCE  |
-| :---------- | :------------------------- | :----------------------------: |
-| 2 nebo méně | Nepřátelský, zaútočí       |           Negativní            |
-| 3 - 5       | Nepřátelský, může zaútočit | Neutrální, příklon k negativní |
-| 6 - 8       | Neutrální, nejistý         |     Neutrální (zkus znovu)     |
-| 9 - 11      | Lhostejný, může vyjednávat | Neutrální, příklon k pozitivní |
-| 12 +        | Přátelský, nápomocný       |           Pozitivní            |
+| 2k6         | VÝSLEDEK                                               |  REAKCE NA JINÉ NPC INTERAKCE  |
+| :---------- | :----------------------------------------------------- | :----------------------------: |
+| 2 nebo méně | Nepřátelský, zaútočí                                   |           Negativní            |
+| 3 - 5       | Nepřátelský, může zaútočit (hoď znovu další kolo s -4) | Neutrální, příklon k negativní |
+| 6 - 8       | Neutrální, nejistý (hoď znovu další kolo)              |     Neutrální (zkus znovu)     |
+| 9 - 11      | Lhostejný, může vyjednávat (hoď znovu další kolo s +4) | Neutrální, příklon k pozitivní |
+| 12 +        | Přátelský, nápomocný                                   |           Pozitivní            |
 
-**Konec setkání:** Předpokládá se, že náhlá setkání (včetně bojů) trvají nejméně *1 směnu* a zaokrouhlují se k nejbližší směně nahoru. Je brán v potaz čas na odpočinek po boji, čištění výzbroje, obvázání ran a podobných aktivit.
+**Konec setkání:** Pokud setkání přeroste v boj. Následuj pravidla boje popsané [zde](/Pravidla%20a%20procedury/Combat/). Předpokládá se, že náhlá setkání (včetně bojů) trvají nejméně *1 směnu* a zaokrouhlují se k nejbližší směně nahoru. Je brán v potaz čas na odpočinek po boji, čištění výzbroje, obvázání ran a podobných aktivit.
 
 <img src="/assets/sep_line.png"/>
 
 ## Únik a pronásledování
 
-Pokud se hráči nebo monstrum nechce účastnit setkání nebo boje. Může se pokusit o únik.
+Pokud se hráč nebo monstrum nechce účastnit setkání nebo boje. Může se pokusit o únik.
 
 ### Únik
 
@@ -317,11 +339,11 @@ Rozhodne-li se stvoření uniknout ze setkání. Záleží na rozhodnutí protis
 
 ### Pronásledování
 
-Dojde-li na pronásledování, každá strana se pohybuje dvojnásobkem hybnosti v boji nejpomalejšího člena skupiny (pokud se nerozhodnou ho nechat napospas). Pj musí každé kolo pronásledování kontrolovat jaká je vzdálenost mezi pronásledovaným a pronásledovateli.
+Dojde-li na pronásledování, každá strana se pohybuje dvojnásobkem hybnosti v boji nejpomalejšího člena skupiny (pokud se nerozhodnou ho nechat napospas). PJ musí každé kolo pronásledování kontrolovat jaká je vzdálenost mezi pronásledovaným a pronásledovateli.
 
 **Konec pronásledování:** Pronásledování končí, pokud je pronásledovaný dohnán nebo když se pronásledovatel rozhodne to vzdát. U hloupějších monster stačí zmizet z dohledu.
 
-**Překážky a odvedení pozornosti:** Při útěku může provádět jednoduché akce. Jako je shazování polic, tahání za páky či odhazování předmětů co má dotyčný u sebe. Poklad (šance *3 z 6-ti*, že inteligentní monstrum přestane pronásledovat) a jídlo (šance *3 z 6-ti*, že hladové monstrum přestane pronásledovat) jsou pro tyto účely extra vhodné.
+**Překážky a odvedení pozornosti:** Při útěku lze provádět jednoduché akce. Jako je shazování polic, tahání za páky či odhazování předmětů co má dotyčný u sebe. Poklad (šance *3 z 6-ti*, že inteligentní monstrum přestane pronásledovat) a jídlo (šance *3 z 6-ti*, že hladové monstrum přestane pronásledovat) jsou pro tyto účely extra vhodné.
 
  **Jiné akce:** Lze se pokusit o jiné akce. Jako třeba útok či sesílání kouzla. Avšak takové akce vyžadují zpomalení nebo úplné zastavení.
 

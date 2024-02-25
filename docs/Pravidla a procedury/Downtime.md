@@ -13,46 +13,47 @@
 
 ### Náklady na život a dostupnost služeb
 
-Život v civilizaci není zadarmo a postava, která stráví den (noc) v nějaké vesnici, městě či pevnosti. Musí zaplatit náklady na život. Jako jsou za vhodné ubytování a stravu. Náklady na život a dostupnost služeb se odvíjí od velikosti osady ve které se postavy nachází. Následuje doporučená cena života a dostupnost služeb v běžných typech osad.
+Život v civilizaci není zadarmo. Postava, která stráví den v nějaké vesnici, městě či pevnosti. Musí zaplatit náklady na život (ubytování a stravu). Náklady na život a dostupnost služeb se odvíjí od velikosti osady ve které se postavy nachází. Následuje doporučená cena života a dostupnost služeb v běžných typech osad.
 
 - **Odlehlá stanice nebo pevnost**
-    - *Cena ubytování a stravy* - *3 st / den*; za ustájení zvířete pak *2 st / den*
-    - *Dostupnost zboží* - Omezený výběr za *dvojnásobné ceny* oproti cenám při tvorbě postavy
-    - *Dostupnost řemeslníků a služeb* - Maximálně *1k4* zvláštních služeb či řemeslníků. Záleží na aktuálním obyvatelstvu stanice nebo pevnosti. Může rotovat
+    - **Cena ubytování a stravy** - *3 st / den*; za ustájení zvířete pak *2 st / den*
+    - **Dostupnost zboží** - Omezený výběr za *dvojnásobné ceny* oproti cenám při tvorbě postavy
+    - **Dostupnost řemeslníků a služeb** - Maximálně *1k4* zvláštních služeb či řemeslníků. Záleží na aktuálním obyvatelstvu stanice nebo pevnosti. Obyvatelstvo může rotovat
 - **Vesnice**
-    - *Cena ubytování a stravy* - *2 st / den*; za ustájení zvířete pak *1 st / den*
-    - *Dostupnost zboží* - Až na výjimky dostupnost všeho z výbavy dobrodruha za *stejné ceny jako při tvorbě postavy*
-    - *Dostupnost řemeslníků a služeb* - Ve vesnici je vždy k dispozici minimálně kovář, 1 typ řemeslníka dle specializace vesnice + *1k6* dalších řemeslníků a služeb
+    - **Cena ubytování a stravy** - *2 st / den*; za ustájení zvířete pak *1 st / den*
+    - **Dostupnost zboží** - Až na výjimky dostupnost všeho z výbavy dobrodruha za *stejné ceny jako při tvorbě postavy*
+    - **Dostupnost řemeslníků a služeb** - Ve vesnici je vždy k dispozici minimálně kovář, 1 typ řemeslníka dle specializace vesnice + *1k6* dalších řemeslníků a služeb
 - **Město**
-    - *Cena ubytování a stravy* - *4 st / den*; za ustájení zvířete pak *2 st / den*
-    - *Dostupnost zboží* - Všechno včetně výzbroje za *dvojnásobné ceny* oproti cenám při tvorbě postavy
-    - *Dostupnost řemeslníků a služeb* - Dostupný je téměř jakýkoliv druh řemeslníků a služeb. K těm nejlepším je však třeba se dostat přes známosti. 50% šance že má město čaroděje nebo alchymistu
-- **Městský stát**
-    - *Cena ubytování a stravy* - *10 st / den*; za ustájení zvířete pak *5 st / den*
-    - *Dostupnost zboží* - Všechno včetně výzbroje za *trojnásobné ceny* oproti cenám při tvorbě postavy. Se správnými známostmi lze sehnat i zajímavější zboží.
-    - *Dostupnost řemeslníků a služeb* - Dostupný je jakýkoliv druh řemeslníků a služeb i těch nejpodivnějších. K těm nejlepším je však třeba se dostat přes známosti
+    - **Cena ubytování a stravy** - *4 st / den*; za ustájení zvířete pak *2 st / den*
+    - **Dostupnost zboží** - Všechno včetně výzbroje. Výbava dobrodruha za *dvojnásobné ceny* oproti cenám při tvorbě postavy
+    - **Dostupnost řemeslníků a služeb** - Dostupný je téměř jakýkoliv druh řemeslníků a služeb. K těm nejlepším je však třeba se dostat přes známosti. 50% šance že má město čaroděje nebo alchymistu
+- **Městský stát nebo hlavní město říše**
+    - **Cena ubytování a stravy** - *10 st / den*; za ustájení zvířete pak *5 st / den*
+    - **Dostupnost zboží** - Všechno včetně výzbroje. Výbava dobrodruha za *trojnásobné ceny* oproti cenám při tvorbě postavy. Se správnými známostmi lze sehnat i zajímavější zboží.
+    - **Dostupnost řemeslníků a služeb** - Dostupný je jakýkoliv druh řemeslníků a služeb i těch nejpodivnějších. K těm nejlepším je však třeba se dostat přes známosti
 
 <img src="/assets/sep_line.png"/>
 
 ## Služby a základní aktivity
 
-V této kategorii jsou nejběžnější aktivity, které hráčova postava může ve volném čase dělat. Každá z aktivit v této kategorii zabere maximálně *1 den*. PJ může povolit i některé aktivity kombinovat. Avšak pokud se hráč aspoň pro jednu z těchto aktivit rozhodne zabere mu minimálně 1 den (musí přenocovat do dalšího dne).
+V této kategorii jsou nejběžnější aktivity, které hráčova postava může ve volném čase dělat. Každá z aktivit v této kategorii se zaokrouhluje k *1 dni*. PJ může povolit i některé aktivity kombinovat.
 
 ### Nákup a prodej výbavy
 
-Nákup a prodej výbavy může probíhat kdekoliv, kde se najde někdo ochotný obchodovat. Kupní cena výbavy se odvíjí od velikosti osady (výše) a prodejní cena je vždy 50% původní ceny výbavy (i když může být méně, dle stavu předmětu).
+Nákup a prodej výbavy může probíhat kdekoliv, kde se najde někdo ochotný obchodovat. Kupní cena výbavy se odvíjí od velikosti osady a prodejní cena je vždy 50% původní ceny (může být i méně, dle stavu předmětu).
 
-- **Oprava předmětu:** Poničenou běžnou výzbroj lze opravit za *10% původní ceny*.
+- **Oprava předmětu:** Poničenou běžnou výzbroj lze opravit za *10 % původní ceny*.
 
-- **Prodej pokladu:** Velké množství pokladu lze prodat jen ve městech a městských státech. Prodejní cena se pohybuje *kolem 60 - 90 %*.
-- **Obchod s magickými předměty:** Prodej magických předmětů je komplikovanější v tom, že se jich běžné obyvatelstvo většinou bojí. Je třeba tedy najít zaujatého čaroděje, jiného dobrodruha nebo zapáleného sběratele. Stejně tak by až na výjimečné situace nemělo být možné si obstarat magické předměty v bezpečí civilizace. 
+- **Prodej pokladu:** Velké množství pokladu lze prodat jen v osadách o velikosti města nebo větší. Prodejní cena se pohybuje *kolem 60 - 90 %*.
+- **Výměna pokladu:** Někteří obchodníci mohou být svolní k výměně pokladu (například drahokamů) přímo za zboží. V těchto případech je však jakákoliv hodnota pokladu, převyšující cenu zboží. Ztracena ve prospěch obchodníka.
+- **Obchod s magickými předměty:** Prodej magických předmětů je komplikovanější v tom, že se jich běžné obyvatelstvo většinou bojí. Je třeba tedy najít zaujatého čaroděje, dobrodruha nebo zapáleného sběratele. Stejně tak by, až na výjimečné situace, nemělo být možné si obstarat magické předměty v bezpečí civilizace.
 
 !!! danger "Touha po magických předmětech"
-    Hráč, který si zvládne všechny potřebné magické předměty obstarat v bezpečí civilizace. Nemá důvod vyrážet na dobrodružství. Proto by pro hráče měli být permanentní magické předměty v civilizaci ve směs nedostupné.
+    Hráč, který si zvládne všechno potřebné obstarat v bezpečí civilizace. Nemá důvod vyrážet na dobrodružství. Proto by pro hráče měli být trvalé magické předměty v civilizaci ve směs nedostupné.
 
 ### Odpočinek a léčení
 
-Postava může strávit celý den nic neděláním a odpočívat. Tím aktivuje efekt *pasivní regenerace*. Lze také vyhledat pomoc felčaře nebo léčitele. Ten za *10 st / den* zdvojnásobí efekt pasivní regenerace a také zkrátí dobu trvání nemocí a dlouhodobých zranění o 1 extra den za každý den strávený u něj.
+Postava může strávit celý den nic neděláním a odpočívat. Tím aktivuje efekt *pasivní regenerace*. Lze také vyhledat lázně nebo pomoc felčaře či léčitele. Ten za *10 st / den* zvýší efekt pasivní regenerace na *4 životy / den* a také zkrátí dobu trvání nemocí a dlouhodobých zranění o 1 extra den za každý den strávený u něj.
 
 ### Získávání informací
 
@@ -63,13 +64,30 @@ Hráčské postavy se mohou pokusit získat nějaké ty cenné informace. Předt
     - *Úspěch* - Postava najde informace které hledá
     - *Neúspěch* - Postava nic nenajde ale další den se může pokusit hledání opakovat
     - *NAT 1* - Archiv neobsahuje potřebné informace
-- **Projít se a naslouchat:** Hráč se automaticky dozví náhodnou zvěst. Tímto způsobem lze získat pouze 1 zvěst na postavu.
+- **Projít se a naslouchat:** Hráč se automaticky dozví náhodnou zvěst. Tímto způsobem lze získat pouze 1 zvěst na postavu v dané lokalitě.
+
+### Bankovní a peněžní služby
+
+V některých osadách, většinou o velikosti města nebo větší, mohou být dostupné finanční služby zaštiťované cechem obchodníků. Cech obchodníků poskytuje minimálně následující služby.
+
+- **Výměna peněz:** Postava si může *zdarma* rozměnit či směnit peníze (například stříbrné na zlaťáky).
+- **Výměna peněz za drahokamy:** Postava si může od cechu odkoupit drahokamy. Jeden drahokam váží *L*. Velká bohatství se pak lépe přenáší. Při prodeji drahokamů však platí pravidla pro prodej pokladu popsaná [výše](/Pravidla%20a%20procedury/Downtime/#nakup-a-prodej-vybavy). Cech nabízí drahokamy v následujících hodnotách:
+    - Křemen - *10 st*
+    - Rubín - *50 st*
+    - Achát - *100 st*
+    - Onyx - *250 st*
+    - Smaragd - *500 st*
+    - Magnetit - *600 st*
+    - Safír - *1000 st*
+- **Bezpečná úschova:** Postava si může u cechu bezpečně uschovat své předměty nebo bohatství. Úschova samotná je *zdarma*. A však případný výběr je zpoplatněn *2 %* z ceny vybíraného bohatství (nebo ceny předmětů).
+- **Převod do jiného města:** Postava může odevzdat své bohatství cechu a nechat si vypsat cennou listinu. Tuto listinu pak kterýkoliv člen stejného cechu vyplatí. Takto lze převést své bohatství do jiného města. Avšak převody napříč různými královstvími nejsou většinou možné. Služba stojí *2 %* z převáděného bohatství.
+- **Příprava dědictví:** Detailně popsáno [níže](/Pravidla%20a%20procedury/Downtime/#pripravit-dedictvi).
 
 <img src="/assets/sep_line.png"/>
 
 ## Najímání
 
-Mohou nastat situace, kdy postava potřebuje najmout extra pracovní nebo vojenskou sílu. Najímaní většinou probíhá v nějakém lokále, cechu nebo vyvěšením žádostí o pomoc na veřejné tabule. Najímání samotné nezabere více jak 1 den volného času. Avšak sehnání vhodné pomoci může trvat klidně i několik týdnů. O tom koho lze najmout a za jaké ceny se lze dozvědět více níže.
+Mohou nastat situace, kdy postava potřebuje najmout extra pracovní nebo vojenskou sílu. Najímaní většinou probíhá v nějakém lokále, cechu nebo vyvěšením žádostí o pomoc na veřejné tabule. Najímání samotné nezabere více jak 1 den volného času. Avšak sehnání vhodné pomoci může trvat klidně i několik týdnů. O tom koho lze najmout a za jaké ceny se lze dozvědět níže.
 
 ### Specialisté
 
@@ -79,11 +97,11 @@ Specialista představuje nehráčskou postavu s nějakou specifickou odborností
 
 | Specialista                                                  | Měsíční mzda |
 | :----------------------------------------------------------- | :----------: |
-| Pracovní síla (např. veslař nebo dělník)                     |    10 st     |
-| Běžné řemeslo (např. kovář, tesař, zbrojíř)                  |    60 st     |
+| Pracovní síla (např. veslař nebo dělník)                     |    20 st     |
+| Běžné řemeslo (např. kovář, tesař nebo zbrojíř)              |    60 st     |
 | Neobvyklé řemeslo (např. Kapitán lodi nebo cvičitel divoké zvěře) |    400 st    |
-| Vzácné řemeslo (např. Alchymista, Čaroděj, Mudrc)            |   2000 st    |
-| Nelegální řemeslo (např. pašerák, špión, vrah)               | dle zakázky  |
+| Vzácné řemeslo (např. alchymista, čaroděj nebo mudrc)        |   2000 st    |
+| Nelegální řemeslo (např. pašerák, špión nebo vrah)           | dle zakázky  |
 
 #### Alchymista
 
@@ -91,7 +109,7 @@ Najmutí alchymisty umožňuje si objednat výrobu lektvarů dle postupů popsan
 
 #### Čaroděj
 
-U najatého čaroděje si lze objednat výrobu svitků kouzel, které zná. Výrobu magických předmětů nebo provedení magických rituálů či seslání specifických kouzel. Vše se řídí dle postupů popsaných v [magickém výzkumu](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum) níže.
+U najatého čaroděje si lze objednat výrobu kouzelných svitků, kouzel které zná. Výrobu magických předmětů, provedení magických rituálů či seslání specifických kouzel. Vše se řídí dle postupů popsaných v [magickém výzkumu](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum) níže.
 
 #### Mudrc
 
@@ -102,18 +120,18 @@ Mudrc je způsobem pro hráče, jak získat extra informace od PJ, které by jim
 Družníci jsou doprovodné nehráčské postavy, které doprovádí hráčské postavy na dobrodružství. Počet družníků je omezen osobností postavy, která je najala. Taktéž družník nesmí mít vyšší úroveň než postava, která jej najala.
 
 - **Sazba:** Běžná sazba družníka je *1 st / den* + *1/2 podílu z pokladu*. Zkušenější družníci mohou požadovat víc. Výjimečně dobré nebo špatné nabídky mohou modifikovat hod na najímání (popsán níže).
-- **Najímání:** Proces najímaní probíhá družníkovým hodem na reakci. Modifikovaný osobností postavy, která družníká najímá. Kde výsledek <=2 znamená zlou krev a postih *-1* ke všem budoucím najímání v daném lokále a výsledek >=12 najmutí s bonusem *+1* do morálky.
+- **Najímání:** Proces najímaní probíhá družníkovým *hodem na reakci*. Modifikovaný osobností postavy, která družníká najímá. Kde výsledek *<=2* znamená zlou krev a postih *-1* ke všem budoucím najímání v daném lokále a výsledek *>=12* najmutí s bonusem *+1* do morálky.
 - **Věrnost:** Věrnost družníka závisí na osobnosti postavy která ho najala. K Věrnosti lze přičítat bonusy a postihy v závislosti na tom, jak se postava k družníkovi chová. Hody na věrnost fungují podobně jako morálka nepřátel. S tím, že se také hází na konci dobrodružství, aby se rozhodlo, zda chce družník pokračovat ve službách hráčovy postavy.
 - **Zaopatření a výbava:** Postava najímající družníka musí platit za jeho denní potřeby a potřebnou výbavu.
 - **Zkušenosti:** Družníci získávají zkušenosti stejně jako hráčské postavy.
 
 ### Žoldáci
 
-Žoldáci jsou nezávislé vojenské uskupení, jenž si postava může najmout za účelem vykonání určité činnosti. Žoldáci působí pouze jako celek větší vojenské síly. Nikdy se přímo nevydávají na dobrodružství s postavami. Proto se nepočítají vůči limitu společníků postavy.
+Žoldáci jsou nezávislá vojenské uskupení, jenž si postava může najmout za účelem vykonání určité činnosti. Žoldáci působí pouze jako celek větší vojenské síly. Nikdy se přímo nevydávají na dobrodružství s postavami. Proto se nepočítají vůči limitu společníků postavy.
 
 - **Zaopatření a výbava:** Žoldák pobírá měsíční mzdu dle svého typu (v tabulce níže). Mzda zahrnuje jídlo a základní výbavu žoldáka. Žoldáci přichází do služby s vlastní výbavou
 - **Mzda v době války:** V dobách války jsou žoldáci extra žádaní. Jejich mzda je dvojnásobná.
-- **Jiné rasy:** Žoldáci jiné rasy než lidské požadují o 10 stříbrných vyšší mzdu. Pulčíci jsou pacifisti a jako žoldáci se nevyskytují.
+- **Jiné rasy:** Žoldáci jiné rasy než lidské požadují o 10 stříbrných vyšší mzdu.
 
 | Žoldák                     | Měsíční mzda |
 | :------------------------- | :----------: |
@@ -139,7 +157,6 @@ Družníci jsou doprovodné nehráčské postavy, které doprovádí hráčské 
     - *Běžný:* Luk, lehká zbroj
     - *Dalekonosný:* Dalekonosný luk, meč, střední zbroj
     - *Jízdní:* Jezdecký kůň, luk
-- **Mušketýr:** Mušketa, meč, střední zbroj
 - **Pěšák:**
     - *Lehký:* Meč, štít, lehká zbroj
     - *Těžký:* Meč, štít, střední zbroj
@@ -150,9 +167,9 @@ Družníci jsou doprovodné nehráčské postavy, které doprovádí hráčské 
 
 V této kategorii jsou aktivity určené k rozvoji hráčovy postavy. Každá z aktivit v této kategorii zabere minimálně *1 týden*. Aktivity není možné kombinovat.
 
-### Hýření
+### Hýření (Proměna zlata za zkušenosti)
 
-Prvním způsobem jak poněkud chaoticky posunout svou postavu někam dál. Je hýření. Postava utratí podstatnou část svého bohatství na alkohol, drogy, lehké děvy a jiné formy nevázaná zábavy. Postava stráví týden oslavami a přitom utratí až *úroveň x 20 zlatých*. Následně si hodí *2k6 modifikováno výdrží* nad tabulkou níže. Aktivity během oslav a jejich následků by měli být společně popsány hráči a PJ.
+Prvním způsobem jak poněkud chaoticky posunout svou postavu někam dál. Je hýření. Postava utratí podstatnou část svého bohatství za alkohol, drogy, lehké děvy a jiné formy nevázaná zábavy. Postava stráví týden oslavami a přitom utratí až *úroveň x 20 zlatých*. Následně si hodí *2k6 modifikováno výdrží* nad tabulkou níže. Aktivity během oslav a jejich následků by měli být společně popsány hráči a PJ.
 
 | 2k6   | Efekt                                                        |
 | :---- | :----------------------------------------------------------- |
@@ -180,10 +197,10 @@ Prvním způsobem jak poněkud chaoticky posunout svou postavu někam dál. Je h
 | 1    | **Kouzelná oslava** - Po takové oslavě si postava myslí že dokáže cokoliv. Obdrží bonus +4 ke všem záchranným hodům po dobu dalších 3 dní. |
 | 2    | **Štědrý patron** - Část radovánek byla zaplacena štědrým patronem. Postava zaplatí jen poloviční útratu a však obdrží původní hodnotu zkušeností. |
 | 3    | **Životní zkušenost** - Hráč by si měl pro svou postavu utvořit vzpomínku z oslav na kterou nikdy nezapomene. Postava obdrží o 50% zkušeností více. |
-| 4    | **Přítel nebo romance** - Postava se spřátelí s novou nehráčskou postavou. Jejich vztah začíná na 3. úrovni (více v Konexe níže). Nebo zvýší úroveň vztahu s již existující postavou o 1. |
-| 5    | **Úžasná příležitost** - Postavě se naskytne příležitost ublížit zájmům opoziční síly dané kampaně. Pokud proti hráčům zrovna nepůsobí žádná opoziční síla. Berte tento výsledek jako "Tajemství" popsané níže. |
+| 4    | **Přítel nebo romance** - Postava se spřátelí s novou nehráčskou postavou. Jejich vztah začíná na 3. úrovni (více v [Konexe](/Pravidla%20a%20procedury/Downtime/#konexe)). Nebo zvýší úroveň vztahu s již existující postavou o 1. |
+| 5    | **Úžasná příležitost** - Postavě se naskytne příležitost ublížit zájmům opoziční síly dané kampaně. Pokud proti hráčům zrovna nepůsobí žádná opoziční síla. Berte tento výsledek jako "Tajemství". |
 | 6    | **Tajemství** - Postava se dozví zajímavé tajemství. Většinou nějaké kompromitující informace nebo možnost vyrazit na dobrodružství. |
-| 7    | **Obchodní příležitost** - Postavě se naskytne unikátní příležitost založit organizaci nebo rozšířit působení své již existující organizace za poloviční cenu a s bonusem +1 k hodu na úspěch. (Více v Založit organizaci nížě) |
+| 7    | **Obchodní příležitost** - Postavě se naskytne unikátní příležitost založit organizaci nebo rozšířit působení své již existující organizace za poloviční cenu a s bonusem +1 k hodu na úspěch. (Více v [Založit organizaci](/Pravidla%20a%20procedury/Downtime/#zalozit-organizaci)) |
 | 8    | **Žijící legenda** - Během oslav se stalo naprosto něco legendárního co postavu v dané lokalitě proslavilo. Postava obdrží bonus +1 na všechny sociální interakce v dané oblasti. Dokud se její pověst nezhorší. |
 
 ### Naučit se něco navíc
@@ -192,7 +209,7 @@ Postavy které mají přebytečnou kapacitu pro schopnosti (danou dovedností ro
 
 - **Bojový talent** - Postava se pokusí naučit nový bojový talent jako jsou ty ve specializaci na [boj](/Starý%20svět%20%28Zasazení%29/Specializace/Boj/).
 - **Nová výzbroj** - Postava se pokusí naučit používat novou výzbroj jako popsáno ve specializaci na [boj](/Starý%20svět%20%28Zasazení%29/Specializace/Boj/).
-- **Řemeslnou schopnost** - Postava se pokusí zvýšit si úroveň schopnosti jako jsou ty ve specializaci na [řemeslo](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/). Hladina úspěchu takto vytrénované schopnosti však nemůže být nikdy nižší než 3. Vůči kapacitě pro schopnosti se počítá pouze prvotní naučení schopnosti. Nikoliv její následné vylepšování.
+- **Řemeslnou schopnost** - Postava se pokusí zvýšit si úroveň schopnosti, jako jsou ty ve specializaci na [řemeslo](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/). Hladina úspěchu takto vytrénované schopnosti však nemůže být nikdy nižší než 3. Vůči kapacitě pro schopnosti se počítá pouze prvotní naučení schopnosti. Nikoliv její následné vylepšování.
 - **Jazyk** - Postava se naučí nový jazyk nebo si zvýší znalost toho stávajícího. Tak jak je popsáno ve specializaci na [řemeslo](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/). Vůči kapacitě pro schopnosti se počítá pouze prvotní naučení jazyka. Nikoliv jeho následné zdokonalování.
 
 #### Proces učení
@@ -201,7 +218,7 @@ Proces učení probíhá tak, že postava na konci týdne a zaplacení nákladů
 
 **Učitel**
 
-Učitelem může být kdokoliv kdo je mistrem v dané problematice. Například plné ovládání jazyka nebo maximálně vylepšená schopnost. Kvalita učitele snižuje *HU* potřebnou k naučení se schopnosti. Následují ceny učitelů.
+Učitelem může být kdokoliv kdo je mistrem v dané problematice. Například plné ovládání jazyka nebo maximálně vylepšená schopnost. Kvalita učitele snižuje *HU* potřebnou k naučení se schopnosti avšak podepíše se na jeho ceně.
 
 | Učitel                                 | Hranice úspěchu pro naučení | Kumulativní bonus za neúspěch |  Cena   |
 | -------------------------------------- | :-------------------------: | :---------------------------: | :-----: |
@@ -212,22 +229,22 @@ Učitelem může být kdokoliv kdo je mistrem v dané problematice. Například 
 
 ### Magický výzkum
 
-Magický výzkum je proces. Při kterém se postava zběhlá v magii pokusí prozkoumat zákoutí magie nebo vyrobit magický předmět. Magický výzkum se dělí do dvou kategorií a to *základní magický výzkum* a *pokročilý magický výzkum*. K jak pokročilému magickému výzkumu má postava přístup záleží na úrovní její specializace na magii. Magický výzkum může trvat v rozpětí 1 dne až třeba i několika týdnů. Může však být přerušen a dodělán později.
+Magický výzkum je proces. Při kterém se postava zběhlá v magii pokusí prozkoumat zákoutí magie nebo vyrobit magický předmět. Magický výzkum se dělí do dvou kategorií a to *základní magický výzkum* a *pokročilý magický výzkum*. K jak pokročilému magickému výzkumu má postava přístup záleží na úrovni její specializace na magii. Magický výzkum může trvat v rozpětí 1 dne až třeba i několika týdnů. Může však být přerušen a dodělán později.
 
 **Šance na selhání:** Každý magický výzkum má šanci *1 z 6-ti*, že se nepovede (alchymie se řídí vlastní stupnicí). V tom případě jsou použité materiály ztraceny a předmět nevznikne. U větších investic (*1000+ st*) se selhání projeví pouze vadou na výsledném produktu.
 
 **Substituce ceny:** Postava může nabídnout různé cenné materiály nebo negativní efekty za používání předmětu a tím si od PJ vyžádat snížení výsledné ceny na výrobu předmětu.
 
 - **Základní magický výzkum:**
-    - *Výroba lektvarů a svitků*
-    - *Výzkum kouzel*
+    - [Výroba lektvarů a svitků](/Pravidla%20a%20procedury/Downtime/#vyroba-lektvaru-a-svitku)
+    - [Výzkum kouzel](/Pravidla%20a%20procedury/Downtime/#vyzkum-kouzel)
 - **Pokročilý magický výzkum:**
-    - Výroba trvalých magických předmětů
-    - Rituály a jiná magie
+    - [Výroba trvalých magických předmětů](/Pravidla%20a%20procedury/Downtime/#vyroba-trvalych-magickych-predmetu)
+    - [Rituály a jiná magie](/Pravidla%20a%20procedury/Downtime/#ritualy-a-jina-magie)
 
 #### Výroba lektvarů a svitků
 
-Postava, která má přístup k řádné aparatuře může vyrobit 1 jednorázový magický předmět za den. Cena výroby předmětu je 
+Postava, která má přístup k řádné aparatuře může vyrobit 1 jednorázový magický předmět za den.
 
 - **Cena:** *50 st* za třídu magického efektu. Pokud se nejedná o výrobu podle receptu nebo kouzla, které výrobce zná je cena dvojnásobná.
 
@@ -239,11 +256,11 @@ Postava stráví 1 týden za třídu kouzla ponořená do zkoumání magie a nau
 
 #### Výroba trvalých magických předmětů
 
-Postava vyrobí nebo očaruje magický předmět nějakým dlouhotrvajícím efektem nebo opakovatelnou schopností sesílat určitý magický efekt. Výroba trvá 1 týden za třídu použitého magického efektu.
+Postava vyrobí nebo očaruje magický předmět nějakým dlouhotrvajícím efektem nebo opakovatelnou schopností sesílat určitý magický efekt. *Výroba trvá 1 týden za třídu použitého magického efektu*.
 
-- **Cena:** *500 st* za třídu magického efektu a extra 50 st / třída za extra použití. Cena je dvojnásobná pokud výrobce nezná kouzlo s podobným efektem.  Pokud se jedná o pasivní nebo do nekonečna opakovatelný efekt tak je cena výsledného efektu *(třída efektu + 30 použití)\*4*.
-- **Velikost předmětu a počet použití:** Kolik použití se vejde do předmětu záleží na jeho velikosti. Do malých předmětů (1 slot) se vejde až 10 použití, do středních předmětů (2 sloty) až 20 použití a do větších předmětů až 30 použití.
-- **Dobíjení:** Postava může dobít použití magických předmětů, které sama vyrobila za cenu přidání použití popsanou výše.
+- **Cena:** *500 st* za třídu magického efektu a extra 50 st / třída za extra použití. Cena je dvojnásobná pokud výrobce nezná kouzlo s podobným efektem.  Pokud se jedná o pasivní nebo nekonečně opakovatelný efekt tak je cena výsledného efektu určena podle *(třída efektu + 30 použití)\*4*.
+- **Velikost předmětu a počet použití:** Kolik použití se vejde do předmětu záleží na jeho velikosti. Do malých předmětů (*1 slot*) se vejde až *10 použití*, do středních předmětů (*2 sloty*) až *20 použití* a do *větších předmětů* až *30 použití*.
+- **Dobíjení:** Postava může dobít použití magických předmětů, které sama vyrobila za dvojnásobnou cenu přidání použití (*100 st / třída*).
 
 #### Rituály a jiná magie
 
@@ -264,10 +281,10 @@ Postava se pokusí navázat vztah s novou nehráčskou postavou nebo rozvinout j
 #### Úrovně vztahu
 
 - **1 - Cizinci:** Zrovna jste se setkali. Stvoření nevyvine žádnou extra námahu aby pomohlo postavě. Nemusí chtít ani komunikovat. 
-- **2 - Známí:** Stvoření a postava znají své jména. Stvoření bude s postavou komunikovat a může být přesvědčeno aby bylo nápomocné.
-- **3 - Společníci:** Postava stvoření sdílí nějaké malé pouto. Jako je společný zážitek, dluh či nějaká vděčnost. Stvoření bude postavě nápomocné a ochotné poskytnout malé laskavosti.
-- **4 - Přátelé:** Mezi postavu a stvořením je významné pouto. Stvoření bude postavě nápomocné jak jen je v její moci a ochotné poskytnout velké laskavosti.
-- **5 - Výjimeční přátelé:** Mezi stvořením a postavou je vřelý hluboký vztah. Stvoření je ochotné pro postavu udělat v podstatě cokoliv dokonce i obětovat vlastní zdraví.
+- **2 - Známí:** Stvoření a postava znají svá jména. Stvoření bude s postavou komunikovat a může být přesvědčeno aby bylo nápomocné.
+- **3 - Společníci:** Postava a stvoření sdílí nějaké malé pouto. Jako je společný zážitek, dluh či nějaká vděčnost. Stvoření bude postavě nápomocné a ochotné poskytnout malé laskavosti.
+- **4 - Přátelé:** Mezi postavu a stvořením je významné pouto. Stvoření bude postavě nápomocné jak jen je v jeho moci a ochotné poskytnout velké laskavosti.
+- **5 - Výjimeční přátelé:** Mezi stvořením a postavou je vřelý hluboký vztah. Stvoření je ochotné pro postavu udělat v podstatě cokoliv dokonce i na úkor vlastního zdraví.
 
 ### Založit organizaci
 
@@ -275,11 +292,11 @@ Postava stráví *týden* výzkumem a investicemi, aby se pokusila založit nebo
 
 #### Postup organizace na vyšší úroveň
 
-Po získání dostatku investic se může pokusit organizace posunout na další úroveň. Kolik investice je za opotřebí je popsané u aktuální úrovně organizace níže. Hráčova postava podstoupí hod *2k6* nad tabulkou níže. Hod je modifikován osobností postavy a násobky investic (například pokud je pro postup potřeba 500 stříbrných a hráč investuje 1500 tak obdrží k hodu bonus +2). Před opakováním pokusu o rozšíření musí uběhnout minimálně 1 měsíc.
+Po získání dostatku investic se může pokusit organizace posunout na další úroveň. Kolik investice je zapotřebí, je popsané u aktuální úrovně organizace níže. Hráčova postava podstoupí hod *2k6* nad tabulkou níže. Hod je modifikován osobností postavy a násobky investic (například pokud je pro postup potřeba 500 stříbrných a hráč investuje 1500 tak obdrží k hodu bonus +2). Před opakováním pokusu o rozšíření musí uběhnout minimálně 1 měsíc.
 
 | 2k6   | Efekt                                                        |
 | :---- | :----------------------------------------------------------- |
-| <=3   | **Zádrhel** - Organizace nemůže být založena nebo nemůže postoupit na další úroveň kvůli existujícímu problému v dané lokalitě. Řešení může vyžadovat jen něco tak malého jako je rozhodnutí hráče nebo něco tak rozsáhlého jako podstoupit nějaké specifické dobrodružství. |
+| <=3   | **Zádrhel** - Investované peníze jsou spotřebovány ale organizace nemůže být založena nebo nemůže postoupit na další úroveň kvůli existujícímu problému v dané lokalitě. Řešení může vyžadovat jen něco tak malého jako je rozhodnutí hráče nebo něco tak rozsáhlého jako podstoupit nějaké specifické dobrodružství. Organizace se může pokusit o další růst až po vyřešení problému. |
 | 4 - 6 | **Žádný růst** - Investované peníze jsou spotřebovány ale organizace nevzrostla nebo se jí nepovedlo uchytit (v případě založení nové instituce). |
 | 7 - 9 | **Růst s problémy** - Úroveň instituce se zvedne o 1 úroveň avšak s novým rozsahem vznikly nové problémy (viz zádrhel). |
 | >=10  | **Růst** - Úroveň organizace se zvedne o 1 úroveň.           |
@@ -291,32 +308,33 @@ Po získání dostatku investic se může pokusit organizace posunout na další
 - **2 - Malá:** Organizace je stále ve směs bezvýznamná ale její vnitřní struktury již aspoň začínají fungovat. K povýšení organizace na vyšší úroveň je třeba investice *2500 st*.
 - **3 - Průměrná:** Organizace si pro sebe vybojovala své místo v odvětví kterému se věnuje. K povýšení organizace na vyšší úroveň je třeba investice *5000 st*.
 - **4 - Větší:** O organizaci se pomalu začíná mluvit. Je významným hráčem ve svém odvětví. K povýšení organizace na vyšší úroveň je třeba investice *10 000 st*.
-- **5 - Vlivná:** Organizace je známým jménem ve svém odvětví. To ji umožňuje využívat své moci ve svém oboru a vyšších třídách. K povýšení organizace na vyšší úroveň je třeba investice *25 000 st*.
+- **5 - Vlivná:** Organizace je známým jménem ve svém odvětví. To ji umožňuje využívat své moci ve svém oboru a vyšší společnosti. K povýšení organizace na vyšší úroveň je třeba investice *25 000 st*.
 - **6 - Slavná / Obávaná:** Neexistuje nikdo kdo by neznal nebo se neobával této organizace. Organizace je významnou mocí se kterou se musí počítat. K povýšení organizace na vyšší úroveň je třeba investice *50 000 st*.
 - **7 - Jediná svého druhu:** Organizace je naprosto legendární a na světě snad neexistuje nikdo kdo by o ní neslyšel. 
 
 ### Inspirovat následovníka
 
-Postava může strávit den investováním a zlepšováním života v dané oblasti. Může utratit až tolik *zlatých*, kolik má postava aktuálně zkušenostních bodů. To pro hráče vytvoří tolik zkušenostních bodů, kolik utratil zlatých. Tyto zkušenostní body mohou být použity budoucími postavami téhož hráče.
+Postava může strávit den investováním a zlepšováním života v dané lokalitě. Může utratit až tolik zlatých, kolik má postava aktuálně zkušenostních bodů. To pro hráče vytvoří tolik zkušenostních bodů, kolik utratil zlatých. Tyto zkušenostní body mohou být použity budoucími postavami téhož hráče pro rychlejší růst.
 
-- **Pouze v případě smrti:** I když hráči mohou mít více postav najednou. Přístup ke zkušenostním bodům z této aktivity mají pouze postavy první úrovně, které byli vytvořeny až po smrti původní postavy.
+- **Pouze v případě smrti:** I když hráči mohou mít více postav najednou. Přístup ke zkušenostním bodům z této aktivity mají pouze postavy první úrovně, které byli vytvořeny až po smrti původní postavy, která investici vytvořila.
 
 ### Připravit dědictví
 
 Postava může strávit den papírováním aby deklarovala dědice svého majetku. Rozdělení majetku a počet dědiců záleží čistě na hráči. Proces předání majetku je *daněn 10-ti %*.
 
+- **Dostupnost služby:** Tato možnost je dostupná pouze v destinacích s bankovními službami. To většinou znamená osada ne menší než město. 
 - **Pouze existující postavy:** Dědictví musí být deklarováno pouze ve prospěch existujících hráčských či nehráčských postav. Pokud chce hráč poskytnout dědictví své budoucí postavě. Musí si ji první vytvořit.
-- **Nejedná se o magickou smlouvu:** Pokud postava zemře se vším svým majetkem u sebe a její tělo se nepovedlo získat. Nezůstane nic co by mohlo být zděděno.  
+- **Nejedná se o magickou smlouvu:** Pokud postava zemře se vším svým majetkem u sebe a její tělo se nepovedlo získat. Nezůstane nic co by mohlo být zděděno.
 
 ### Postavit zázemí
 
 Postava může strávit týden vyřizováním potřebných povolení a pokud má k dispozici vhodný prostor může si postavit dům nebo třeba tvrz. Proces stavby je následující:
 
 - **Povolení:** Pokud území na kterém se bude stavení nacházet náleží nějaké autoritě. Je nutné si obstarat povolení ke stavbě. Pozor na to, že autorita málo kdy povolí stavbu hradů, tvrzí a jiných vojenských budov na svém území.
-- **Vyčištění oblasti:** Před začátkem větší stavby. Je třeba vyčistit oblast 10-ti kilometrů v okolí stavby od nestvůr.
+- **Vyčištění oblasti:** Před začátkem větší stavby. Je třeba vyčistit oblast *5-ti kilometrů* v okolí stavby od nestvůr.
 - **Plány:** Hráči navrhnou podobu a rozložení stavby.
-- **Posouzení:** PJ posoudí jejich návrh a stanoví cenu. Stavba ve větších městech je o 50% levnější.
-- **Najmutí stavitelů:** Hráči zaplatí cenu stavby a najmou 1 stavitele za každých 1000 zlatých utracených za stavbu. Stavitel stojí 400 stříbrných / měsíc (neobvyklé řemeslo, viz. specialisté)
+- **Posouzení:** PJ posoudí jejich návrh a stanoví cenu. Stavba ve větších městech je o *50 % levnější*.
+- **Najmutí stavitelů:** Hráči zaplatí cenu stavby a najmou *1 stavitele za každých 1000 zlatých* utracených za stavbu. Stavitel stojí *400 stříbrných / měsíc* (neobvyklé řemeslo, viz. specialisté)
 - **Stavba:** Jakmile je oblast vyčištěna a vše je připraveno ke stavbě, stavba může začít. Stavba potrvá *cena stavby ve zlatě / 5* dní. Postavy se nemusí stavby přímo účastnit.
 - **Příprava na osadníky:** Pokud postavy plánují založit panství. Musí od monster vyčistit větší okolní oblast.
 
@@ -345,15 +363,9 @@ Postava se může vzdát života dobrodruha a odejít do "důchodu". Tím se s n
 
 <img src="/assets/sep_line.png"/>
 
-## Jiné
-
-Určitě jsem nemohl pokrýt všechno. Buďte kreativní.
-
-<img src="/assets/sep_line.png"/>
-
 ## Co když není dost času mezi dobrodružstvími?
 
-Určitě jsem nemohl pokrýt všechno. Buďte ==Think about it==
+Je dobrý nápad, aby hráči měli více jak 1 postavu. I když by jim nemělo být dovoleno si na dobrodružství vzít víc jak 1 svou postavu. Tím ,že má hráč více postav se mu otevírá více možností. Například mezitím co hráčův mág pracuje na přípravě složitého rituálu. Jeho zloděj, ve spolupráci s ostatními hráči, se může pokoušet obstarat nějaké vzácné komponenty, které s rituálem pomůžou. PJ by tyto interakce měl odměňovat zkušenostními body. Podobně jako jsou odměňovány úkoly od nehráčských postav.
 
 <img src="/assets/sep_line.png"/>
 

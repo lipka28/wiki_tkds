@@ -1,4 +1,4 @@
-# Nesmrtelní
+# Povznesení
 
 <img src="/assets/sep_line.png"/>
 
@@ -8,7 +8,7 @@ asd
 
 <img src="/assets/sep_line.png"/>
 
-## Nejznámější nesmrtelní
+## Nejznámější Povznesení
 
 asd
 

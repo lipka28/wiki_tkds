@@ -10,20 +10,22 @@
 
 **Vrozené jazyky:** Jazyk společenství + (Případný další jazyk pokud pochází z území mimo "objeveného" světa)
 
-**Hybnost:** 6 metrů 
+**Hybnost:** 12 metrů 
 
 **Doba přirozeného dožití:** 50 - 70 let
 
-*Lidé Aldiru jsou nejpočetnější rasou kontinentu. Najdete jak ve vnitrozemí tak na severu a pár jich můžete najít i v poušti na východ. Jsou to lidé všech možných velikostí a barev. Lidé se zdržují v lokálních komunitách ve formě vesnic a měst, kde si navzájem pomáhají s každodenními problémy. Lidé také mívají tendence uctívat mocné bytosti ať už existující či neexistující. Lidé jako jediní mají privilegium stát se členy řádu lamačů kouzel. A však pouze za předpokladu, že projdou obtížným výcvikem a prokáže se, že nemají sklony k magii. Lamači kouzel si mezi lidmi libují vysoké prestiži, která však není vždy zasloužená. Dobrodruhy se pak lidé stávají, když je již omrzí každodenní patálie běžného života, nebo jako způsob rychlého získání bohatství a moci.* ==Přepsat==
+*==Dopsat popisek==*
 
-**Lidská jména:** Běžná jména, která znáš.
+**Lidská jména:** Lidská jména se velmi liší napříč místy původu a etnicitou s jaké daný člověk pochází. A na rozdíl od ostatních ras lidé nemají pevnou strukturu jmen. Podobně jako u trpaslíků má každý člověk své rodinné příjmení, které žena přebírá po svém manželovi. Narozdíl od trpaslíků však příjmení, pokud nejde o vysoce postavný rod, nemá u lidí takovou váhu.
 
-**Speciální vlastnosti:**
+**Příklady takových jmen jsou:** Erik, Wilhelm, Friedrich, Johann, Richard, Artur, Antonio, Enrique, Fabio, David, Anna, Margaret, Isabel, Elisabeth, Helen, Elsa, Clara, Anastasiya, Camille
 
-- **ASD** - asd ==Dodělat==
+## Speciální vlastnosti
 
-**Výchozí specializace:**
+- **Přirozeně ambiciózní** - Lidé mají *kapacitu pro extra schopnosti nebo jazyky* vždy *o 1 vyšší* (minimálně +1). I když tomu míra jejich dovednosti rozum neodpovídá. 
 
-Lidé si mohou vybrat jako výchozí specializaci *libovolnou specializaci* pro kterou splňují podmínky. Pokud se jedná o jinou specializaci než náboženství. Může si hráč, pokud chce, přidat i *1 stupeň specializace do náboženství*. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
+## Výchozí specializace
+
+Lidé si mohou vybrat jako výchozí specializaci *libovolnou specializaci* pro kterou splňují podmínky. Pokud si hráč přeje, může si k této specializaci přidat i *1 stupeň kterékoliv jiné specializace* pro kterou splňuje podmínky. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
 
 <img src="/assets/sep_line.png"/>
