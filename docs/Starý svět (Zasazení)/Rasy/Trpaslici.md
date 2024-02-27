@@ -24,8 +24,8 @@
 
 - **Vidění ve tmě** - Trpaslíci vidí ve tmě na vzdálenost *12 metrů*. Více informací o této schopnosti [zde](/Pravidla%20a%20procedury/Adventures/#nebezpeci-a-nastrahy).
 - **Tuhý kořínek** - Trpaslíci mají vážně tuhý kořínek. Každý trpaslík má bonus *+2* k záchranným hodům *proti smrti*. Navíc pokud se používá [mírnější pravidlo pro umírání](/Pravidla%20a%20procedury/Adventures/#na-prahu-smrti-optional), tak trpaslíkova šance zemřít *na prahu smrti* je jen *2 z 6-ti*.
-- **Šestý smysl** - Trpaslíci dokáží přibližně odhadnout v jaké výšce či hloubce, vůči mořské hladině, se nachází.
-- **Nižší těžiště** - Trpaslíci se nemohou naučit používat *obouruční meče* a *dalekonosné luky*.
+- **Šestý smysl** - Trpaslíci dokáží přibližně odhadnout v jaké výšce, vůči mořské hladině, se nachází.
+- **Nižší těžiště** - Trpaslíci nemohou používat *obouruční meče* a *dalekonosné luky*.
 
 ## Výchozí specializace
 

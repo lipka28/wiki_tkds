@@ -59,7 +59,7 @@ S dosažením každé 3. úrovně. Dosáhne postava specializovaná v boji na no
 12. **Vůdce** - Spolubojovníci pod vedením postavy v okruhu *12 metrů* mají bonus *+1* k morálce a *+2* ke všem *záchranným hodům proti ovlivnění mysli*. 
 13. **Zbraňová specializace** - Postava má bonus *+1* k zásahu a poškození se specifickým typem zbraní, který si vybere (Například: Obou-ruční sekera, mušketa, nůž atd...). Tento talent si lze vzít opakovaně pro různé typy zbraní.
 14. **Zuřivý trans** - Postava, při boji na blízko, může vstoupit do zuřivého transu, který pak trvá do konce boje. Trans dává postavě bonus *+2* k zásahu a poškození útoky na blízko ale i postih *-4 k OČ*. V tomhle stavu bojuje postava do posledního nepřítele nebo dechu. Možnost utéct z boje pro ni v tomhle stavu neexistuje.
-15. **Útok ze zálohy** - Zaútočí-li postava na cíl. Jenž si není vědom její přítomnosti. Například napadení zezadu nic netušícího cíle. Postava útočí s výhodou. Při úspěšném zásahu způsobí *12 poškození* (modifikováno sílou pokud aplikovatelné).
+15. **Útok ze zálohy** - Zaútočí-li postava na cíl podobný člověku. Jenž si není vědom její přítomnosti. Například napadení zezadu nic netušícího cíle. Postava útočí s výhodou. Při úspěšném zásahu způsobí *12 poškození* (modifikováno sílou pokud aplikovatelné).
 16. **Vlastní** - Ve spolupráci s PJ si vymysli vlastní talent. Podmínkou je, že by měl úzce souviset s bojem.
 
 ### Extra útok

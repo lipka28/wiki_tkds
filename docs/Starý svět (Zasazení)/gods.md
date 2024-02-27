@@ -8,7 +8,7 @@ asd
 
 <img src="/assets/sep_line.png"/>
 
-## Nejznámější Povznesení
+## Nejvýznamnější Povznesení
 
 asd
 
@@ -24,9 +24,9 @@ asd
 
 **Popis:** ==popis==
 
-| Uznávaná zbraň |           Sféry vlivu            |
-| -------------- | :------------------------------: |
-| Luk            | víly, zvířata, rostliny a elfové |
+| Uznávaná zbraň |        Sféry vlivu        |
+| -------------- | :-----------------------: |
+| Luk            | Rostliny, Voda, Zvířectvo |
 
 <img src="/assets/sep_line.png"/>
 
@@ -40,25 +40,9 @@ asd
 
 **Popis:** ==popis==
 
-| Uznávaná zbraň |          Sféry vlivu           |
-| -------------- | :----------------------------: |
-| Sekyra         | síla, oheň, železo a trpaslíci |
-
-<img src="/assets/sep_line.png"/>
-
-### Larion
-
-<img src="/assets/sep_line.png"/>
-
-![Image title](/assets/gods/Larion.jpeg)
-
-<img src="/assets/sep_line.png"/>
-
-**Popis:** ==popis==
-
-| Uznávaná zbraň |        Sféry vlivu        |
-| :------------- | :-----------------------: |
-| Bič            | bohatství, lži a pokušení |
+| Uznávaná zbraň          |    Sféry vlivu    |
+| ----------------------- | :---------------: |
+| Kladivo (palcát) + Štít | Bouře, Oheň, Síla |
 
 <img src="/assets/sep_line.png"/>
 
@@ -72,13 +56,13 @@ asd
 
 **Popis:** ==popis==
 
-| Uznávaná zbraň          |          Sféry vlivu           |
-| ----------------------- | :----------------------------: |
-| Kladivo (palcát) + štít | slunce, ochrana a spravedlnost |
+| Uznávaná zbraň |         Sféry vlivu          |
+| -------------- | :--------------------------: |
+| Obouruční meč  | Ochrana, Spravedlnost, Zlato |
 
 <img src="/assets/sep_line.png"/>
 
-### Evelyn
+### Juna
 
 <img src="/assets/sep_line.png"/>
 
@@ -88,29 +72,13 @@ asd
 
 **Popis:** ==popis==
 
-| Uznávaná zbraň |      Sféry vlivu      |
-| -------------- | :-------------------: |
-| Nůž            | léčení, nemoci a hadi |
+| Uznávaná zbraň                                           |     Sféry vlivu      |
+| -------------------------------------------------------- | :------------------: |
+| Neozbrojená - Neposkytuje bonus k poškození žádné zbraně | Hadi, Nemoci, Zdraví |
 
 <img src="/assets/sep_line.png"/>
 
-### Jaka
-
-<img src="/assets/sep_line.png"/>
-
-![Image title](/assets/gods/Jaka.jpeg)
-
-<img src="/assets/sep_line.png"/>
-
-**Popis:** ==popis==
-
-| Uznávaná zbraň |      Sféry vlivu       |
-| -------------- | :--------------------: |
-| Prak           | úroda, hostiny a žerty |
-
-<img src="/assets/sep_line.png"/>
-
-### Um
+### Umdur
 
 <img src="/assets/sep_line.png"/>
 
@@ -120,29 +88,13 @@ asd
 
 **Popis:** ==popis==
 
-| Uznávaná zbraň |    Sféry vlivu     |
-| -------------- | :----------------: |
-| Kuše           | měsíc, lov a válka |
+| Uznávaná zbraň |   Sféry vlivu    |
+| -------------- | :--------------: |
+| Kuše           | Lov, Válka, Vítr |
 
 <img src="/assets/sep_line.png"/>
 
-### Murmon
-
-<img src="/assets/sep_line.png"/>
-
-![Image title](/assets/gods/Murmon.jpeg)
-
-<img src="/assets/sep_line.png"/>
-
-**Popis:** ==popis==
-
-| Uznávaná zbraň                 |      Sféry vlivu       |
-| ------------------------------ | :--------------------: |
-| Trojzubec (krátké kopí) + štít | Moře, bouře, cestování |
-
-<img src="/assets/sep_line.png"/>
-
-### Nekrofos
+### Matka noci
 
 <img src="/assets/sep_line.png"/>
 
@@ -152,56 +104,8 @@ asd
 
 **Popis:** ==popis==
 
-| Uznávaná zbraň |    Sféry vlivu    |
-| -------------- | :---------------: |
-| Kosa           | Smrt, noc, strach |
-
-<img src="/assets/sep_line.png"/>
-
-### Araxa
-
-<img src="/assets/sep_line.png"/>
-
-![Image title](/assets/gods/Araxa.jpeg)
-
-<img src="/assets/sep_line.png"/>
-
-**Popis:** ==popis==
-
-| Uznávaná zbraň |     Sféry vlivu     |
-| -------------- | :-----------------: |
-| Příruční kuše  | sny, iluze, pavouci |
-
-<img src="/assets/sep_line.png"/>
-
-### Uldumur
-
-<img src="/assets/sep_line.png"/>
-
-![Image title](/assets/gods/Uldumur.jpeg)
-
-<img src="/assets/sep_line.png"/>
-
-**Popis:** ==popis==
-
-| Uznávaná zbraň |         Sféry vlivu         |
-| -------------- | :-------------------------: |
-| Čakram         | tajemství, prázdnota, okovy |
-
-<img src="/assets/sep_line.png"/>
-
-### Nymu
-
-<img src="/assets/sep_line.png"/>
-
-![Image title](/assets/gods/Nymu.jpeg)
-
-<img src="/assets/sep_line.png"/>
-
-**Popis:** ==popis==
-
-| Uznávaná zbraň     |     Sféry vlivu      |
-| ------------------ | :------------------: |
-| Krátké kopí + štít | láska, voda, čistota |
+| Uznávaná zbraň |   Sféry vlivu   |
+| -------------- | :-------------: |
+| Nůž            | Duše, Noc, Smrt |
 
 <img src="/assets/sep_line.png"/>

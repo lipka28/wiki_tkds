@@ -52,7 +52,7 @@ Postava vydávající se na cestu víry si potřebuje v první řadě vybrat *pa
 
 ### Pomoc
 
-S každým použitím pomoci může postava opakovat svůj hod na zásah, poškození, záchranný hod, dovednost či schopnost a vzít si nový výsledek.
+S každým použitím pomoci může postava opakovat svůj hod na zásah, poškození, léčení, záchranný hod, dovednost či schopnost a vzít si nový výsledek.
 
 - **Omezení:** Aby bylo možné použít pomoc na aktivitu. Nesmí daná aktivita trvat déle než 1 směnu.
 - **Sféry vlivu patrona:** Pokud opakovaný hod souvisí se sférou vlivu patrona, kterého věřící uznává. Tak je nový hod házen s výhodou.

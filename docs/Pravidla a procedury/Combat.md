@@ -35,9 +35,9 @@
 
 **Vzájemné ohrožení:** Stvoření, které provedlo nebo na které byl proveden útok na blízku. Je s daným stvořením ve vzájemném ohrožení. Pro všechna stvoření ve vzájemném ohrožení platí následující omezení:
 
-- *Útoky na dálku* - Mají šanci *50%* že automaticky minou.
-- *Používání nebo manipulace s předměty* - Mají šanci *50%* že se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
-- *Čarování kouzel* - Má šanci *50%* že se kouzlo nepovedlo seslat.
+- *Útoky na dálku* - Mají šanci *3 z 6-ti* že automaticky minou.
+- *Používání nebo manipulace s předměty* - Mají šanci *3 z 6-ti* že se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
+- *Čarování kouzel* - Má šanci *3 z 6-ti* že se kouzlo nepovedlo seslat.
 - *Strategický pohyb* - Stvoření se může pohnout polovinou své maximální hybnosti. Pokud je pohybující se stvoření na konci svého tahu mimo dosah ohrožení. Stav vzájemného ohrožení je zrušen.
 - *Útěk* - Stvoření se vzdá své akce a může se pohybovat svou plnou rychlostí.
 - *Obklíčení* - Pokud je stvoření ve vzájemném ohrožení se *4-mi* a více nepřáteli. tito nepřátelé mají bonus *+1* na zásah stvoření. Navíc se obklíčené stvoření nemůže volně pohybovat. Neplatí u výrazně větších stvoření. Člověku podobná stvoření nemohou být obklíčena více jak *6-ti* protivníky.
@@ -139,7 +139,7 @@
 **Nestabilní povrchy:** Pokud postavy bojují na nestabilním povrchu, jako jsou lodě na rozbouřeném moři nebo třeba když letí na hřbetu jiného stvoření. Tak jsou ovlivněni následujícími omezeními:
 
 - *Útoky na dálku:* Probíhají s nevýhodou.
-- *Kouzla*: Sesílání selže s pravděpodobností *50%* seslat.
+- *Kouzla*: Sesílání selže s pravděpodobností *3 z 6-ti*.
 - *Magické předměty*: Mohou být používány normálně.
 
 !!! note "Magické létání"

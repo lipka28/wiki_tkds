@@ -24,7 +24,7 @@
 
 ## Speciální vlastnosti
 
-- **Vidění ve tmě** - Elfové vidí ve tmě na vzdálenost *12 metrů*. Více informací o této schopnosti [zde](/Pravidla%20a%20procedury/Adventures/#nebezpeci-a-nastrahy).
+- **Vyciť magii** - Vílí původ umožňuje elfům dotykem poznat, zda je subjekt magický nebo ovládá magii.
 - **Imunita vůči paralýze** - Elfové mají imunitu proti nemagické paralýze (včetně uspání).
 - **Původ z Fey** - Každý elf má bonus *+2* k záchranným hodům *proti ovlivnění mysli*.
 

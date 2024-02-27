@@ -22,7 +22,7 @@
 
 ## Speciální vlastnosti
 
-- **Přirozeně ambiciózní** - Lidé mají *kapacitu pro extra schopnosti nebo jazyky* vždy *o 1 vyšší* (minimálně +1). I když tomu míra jejich dovednosti rozum neodpovídá. 
+- **Přirozeně ambiciózní** - Lidé mají *kapacitu pro extra schopnosti nebo jazyky* vždy *o 1 vyšší* (minimálně +1). I když tomu míra jejich dovednosti rozum neodpovídá.
 
 ## Výchozí specializace
 

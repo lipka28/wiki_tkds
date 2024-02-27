@@ -10,10 +10,13 @@
 
 Nosnost postavy se měří v abstraktní jednotce zvané *Sloty* a drobnější jednotce označované jako *L*.
 
-- **1 Slot** - Abstraktní jednotka zatížení, pro zjednoduší výpočtů nosnosti postavy. Odpovídá váze přibližně 3 až 5 kilogramů nebo předmětu, kterým lze efektivně manipulovat jednou rukou.
+- **1 Slot** - Abstraktní jednotka zatížení, pro zjednoduší výpočtů nosnosti postavy. Odpovídá váze přibližně *3 kilogramy* (6 - 7 liber) nebo předmětu, kterým lze efektivně manipulovat jednou rukou.
 - **L** - *1/10 Slotu* - Abstraktní jednotka zatížení pro drobné a lehké předměty.
 
 Postava může mít maximálně *10+Modifikátor Síly* slotů vybavených předmětů a maximálně *18+Modifikátor Síly* slotů uschovaných předmětů v inventáři.
+
+!!! warning "Přepočet z B/X mincí"
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Často narazíte na pojem *"mince"* Jako jednotku váhy. Pro referenci *100 mincí* odpovídá přibližně váze *1 slotu*.
 
 **Lehké předměty:** Předměty co mají váhu označenou jako *L* nezabírají žádné místo v inventáři, dokud není součet všech *L* předmětů v inventáři *10*. Tyto předměty se pak počítají jako *1 slot*.
 
@@ -78,7 +81,7 @@ Zbraně se dělí do 2 základních kategorií. Zbraně na blízku a zbraně na 
 - **Malá** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní.
 - **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou zbraní. Některé střední zbraně na blízku lze také použít *jako obouruční* s *vyšší kostkou poškození* a bonusem *+1* k poškození. V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
 - **Velká** -  Nejničivější typ zbraní. Tyto zbraně jsou vždy obouruční a jejich verze na blízku mají bonus *+1* k poškození. Použití v malých prostorech může způsobovat postihy nebo nemusí být vůbec možné.
-- **Dlouhá** - Tato kategorie se týká pouze zbraní na blízku. Tyto zbraně jsou jako velké zbraně obouruční a poskytují bonus *+1* k poškození. Dlouhé zbraně umožňují zasáhnout nepřítele až na *2 metry* i když v cestě stojí spojenec.
+- **Dlouhá** - Tato kategorie se týká pouze zbraní na blízku. Tyto zbraně jsou jako velké zbraně obouruční a poskytují bonus *+1* k poškození. Dlouhé zbraně umožňují zasáhnout nepřítele útokem na blízku až na *3 metry* i když v cestě stojí spojenci.
 
 Tyto kategorie mohou být například důležité v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: *neozbrojený / malá* < *střední* < *velká* < *dlouhá* < *hozená* < *střelná* 
 
@@ -103,31 +106,29 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 ### Zbraně na blízku
 
-| Název zbraně    | Typ zbraně |  Poškození   | Váha | Cena  |
-| :-------------- | :--------: | :----------: | :--: | :---: |
-| Bič             |    Malá    |     1k2      |  1   | 5 st  |
-| Bojová hůl      |  Střední   |    1k6+1     |  2   | 10 st |
-| Cep             |  Střední   |     1k6      |  2   | 15 st |
-| Dlouhý meč      |  Střední   |  1k6/1k8+1   |  2   | 25 st |
-| Halapartna      |   Dlouhá   |    1k8+1     |  3   | 20 st |
-| Hůl             |  Střední   |    1k4+1     |  2   | 1 st  |
-| Kopí            |   Dlouhá   |    1k8+1     |  3   | 12 st |
-| Kosa            |   Velká    | 1k10+1 (nev) |  3   | 5 st  |
-| Krátké kopí     |  Střední   |  1k6/1k8+1   |  2   | 2 st  |
-| Krátký meč      |    Malá    |     1k6      |  1   | 15 st |
-| Nůž             |    Malá    |     1k4      |  1   | 3 st  |
-| Obouruční meč   |   Velká    |    1k10+1    |  3   | 50 st |
-| Obušek          |    Malá    |     1k2      |  1   | 5 st  |
-| Palcát          |  Střední   |  1k6/1k8+1   |  2   | 15 st |
-| Palice          |    Malá    |     1k4      |  1   | 1 st  |
-| Sekyra          |  Střední   |  1k6/1k8+1   |  2   | 12 st |
-| Sekyrka         |    Malá    |     1k4      |  1   | 4 st  |
-| Síť             |  Střední   |      0       |  2   | 5 st  |
-| Stříbrný nůž    |    Malá    |     1k4      |  1   | 30 st |
-| Šakram          |    Malá    |     1k4      |  1   | 10 st |
-| Škrtící drát    |    Malá    |     1k4      |  1   | 1 st  |
-| Válečná sekera  |   Velká    |    1k10+1    |  3   | 40 st |
-| Válečné kladivo |   Velká    |    1k10+1    |  3   | 50 st |
+| Název zbraně    | Typ zbraně | Poškození | Váha | Cena  |
+| :-------------- | :--------: | :-------: | :--: | :---: |
+| Bič             |    Malá    |    1k2    |  1   | 5 st  |
+| Bojová hůl      |  Střední   |   1k6+1   |  2   | 10 st |
+| Cep             |  Střední   |    1k6    |  2   | 15 st |
+| Dlouhý meč      |  Střední   | 1k6/1k8+1 |  2   | 25 st |
+| Halapartna      |   Dlouhá   |   1k8+1   |  3   | 20 st |
+| Hůl             |  Střední   |   1k4+1   |  2   | 1 st  |
+| Kopí            |   Dlouhá   |   1k8+1   |  3   | 12 st |
+| Krátké kopí     |  Střední   | 1k6/1k8+1 |  2   | 2 st  |
+| Krátký meč      |    Malá    |    1k6    |  1   | 15 st |
+| Nůž             |    Malá    |    1k4    |  1   | 3 st  |
+| Obouruční meč   |   Velká    |  1k10+1   |  3   | 50 st |
+| Obušek          |    Malá    |    1k2    |  1   | 5 st  |
+| Palcát          |  Střední   | 1k6/1k8+1 |  2   | 15 st |
+| Palice          |    Malá    |    1k4    |  1   | 1 st  |
+| Sekyra          |  Střední   | 1k6/1k8+1 |  2   | 12 st |
+| Sekyrka         |    Malá    |    1k4    |  1   | 4 st  |
+| Síť             |  Střední   |     0     |  2   | 5 st  |
+| Stříbrný nůž    |    Malá    |    1k4    |  1   | 30 st |
+| Škrtící drát    |    Malá    |    1k4    |  1   | 1 st  |
+| Válečná sekera  |   Velká    |  1k10+1   |  3   | 40 st |
+| Válečné kladivo |   Velká    |  1k10+1   |  3   | 50 st |
 
 #### Popisky a speciální efekty zbraní na blízku:
 
@@ -147,8 +148,6 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 **Hůl:** Dřevěná přibližně 1,5 metru dlouhá hůl. Všestranného využití. *Speciální:* Zbraň nevyžaduje trénink. Kdokoliv ji může použít.
 
 **Kopí:** Dlouhá dřevěná tyč s bodcem. *Speciální:* Pokud použito na koni, stačí držet v jedné ruce. 
-
-**Kosa:** Původně farmářský nástroj použit jako děsivá avšak ne příliš efektivní zbraň. Tato zbraň bývá preferována pouze akolytami Nekrofose. *Speciální:* Poškození zbraně se hází s nevýhodou.
 
 **Krátké kopí:** Kratší varianta kopí. Vhodné jak pro jednoruční tak obouruční použití. *Speciální:* Lze hodit
 
@@ -171,8 +170,6 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 **Síť:** Síť se zátěží určená k zamotání do nepřítele a znemožnění mu pohybu. Nepůsobí žádné poškození. Cíl zasažen sítí musí každé kolo podstoupit záchranný hod proti síle jinak se nemůže hýbat. Úspěch znamená, že se dotyčný ze sítě dostal.
 
 **Stříbrný nůž:** Nůž jehož čepel je potažena stříbrem. Extra účinné na některé typy monster jako jsou například démoni a nemrtví.
-
-**Šakram:** Malá kruhová čepel s úchytem. Tato zbraň bývá preferována především akolytami Uldumura. *Speciální:* Lze hodit (jen na efektivní vzdálenost); Při neúspěšném hodu na zásah (při hození) lze podstoupit ověření zručnosti s *HU 6*. Úspěch znamená, že se šakram odrazem vrátil zpět do rukou toho, kdo jej hodil. 
 
 **Škrtící drát:** Pevný drát s dvěma rukojetěmi vhodný především pro škrcení nic netušících cílů. *Speciální:* Překvapený cíl zachycen škrtícím drátem zezadu ztrácí *1k4 životů* každé kolo. Škrcený může útočit na útočníka s postihem -2, pokud zasáhne, tak se vysvobodí. 
 
@@ -346,7 +343,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Nástroj:** Věci jako lopaty, vidle, krumpáče a jim podobné.
 
-**Pochodeň:** Poskytuje světlo v okolí *9 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zasažen nepřítel a nebo je pochodeň upuštěna na zem, existuje existuje *50%* šance, že se zničí a zhasne. 
+**Pochodeň:** Poskytuje světlo v okolí *9 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zasažen nepřítel a nebo je pochodeň upuštěna na zem, existuje existuje šance *3 z 6-ti*, že se zničí a zhasne. 
 
 **Protijed (slabý):**  Slabý protijed ihned vyléčí slabou otravu. 
 
