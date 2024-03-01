@@ -40,7 +40,8 @@
 - *Čarování kouzel* - Má šanci *3 z 6-ti* že se kouzlo nepovedlo seslat.
 - *Strategický pohyb* - Stvoření se může pohnout polovinou své maximální hybnosti. Pokud je pohybující se stvoření na konci svého tahu mimo dosah ohrožení. Stav vzájemného ohrožení je zrušen.
 - *Útěk* - Stvoření se vzdá své akce a může se pohybovat svou plnou rychlostí.
-- *Obklíčení* - Pokud je stvoření ve vzájemném ohrožení se *4-mi* a více nepřáteli. tito nepřátelé mají bonus *+1* na zásah stvoření. Navíc se obklíčené stvoření nemůže volně pohybovat. Neplatí u výrazně větších stvoření. Člověku podobná stvoření nemohou být obklíčena více jak *6-ti* protivníky.
+
+**Sprint:** Stvoření, které není ve vzájemném ohrožení s jiným stvořením, může v daném kole obětovat svou běžnou akci a tím se pohybovat až dvojnásobkem své hybnosti.
 
 **Dosah útoků:** Dosah útoku je dán velikostí a typem zbraně.
 
@@ -54,21 +55,32 @@
 
 ### Divadlo mysli (Optional)
 
-==asd== Dopsat:
+Divadlo mysli (TotM - Theatre of the Mind) je alternativním způsobem jak odehrát boje bez nutnosti mapy či strategické čtvercové sítě. Jeho hlavními výhodami jsou plynulejší přechod mezi průzkumem a bojem, více "cinematické" vyobrazení boje a rychlejší odehrání boje samotného. Tato metoda však není vhodná pro všechny situace a skupiny hráčů. Například není vhodná pro boje s velkým množstvím účastníků. Pro boje, kde záleží na specifickém pozicování  a také není vhodná pro skupiny, které mají tendenci nedávat pozor.
 
-1. Popsat co to je TOTM a základní postup průběhu a principy, jen pro malé boje nebo specifické akční sekvence.
-2. Základní pravidla Shovívavost, Neřešit exaktní vzdálenosti, Vizuálně odlišit nepřátele, Hráč je tam kde potřebuje (rozumě), Nebát se opakovat. Sumarizovat akce na konci kola, distinguovat zóny je-li to třeba.
-3. Zóny více do detailu, zónovat kolem orientačních bodů, zóny mohou mít speciální pravidla.
-4. Úprava pravidel
+#### Procedura boje v TotM
 
-- https://s3.amazonaws.com/slyflourish_content/5e_guide_to_narrative_combat.pdf
-- Not specific!
-- Character is always where it needs to be (within reason)
-- Some advice as someone that only ever uses TotM:
-    - Use and abuse of zones. And I don't mean near/far/farther but zones within the room: on the balcony, by the door, by the table… Describe monsters as in one zone and players will go to zones as well. If they're in the same zone they can bash each other.
-    - Unless ridiculous, characters are always where they need to be. Under no circumstance should you start describing precise distances between things in combat or measure movement etc to the feet. If character A wants to empale monster B and nothing shocks the intuition when describing that (eg: there's a wide chasm between them) then let it happen. The point of TotM is not to imagine a grid in your mind, and getting rid of such precision has its benefits. It allows your players more freedom of action, cinematic tactics focusing on using their environment rather than distances, as well as drama.
-    - Never fear repeating too much where things are. A combat is a dynamic thing and keeping track of who's where (even with zones) is difficult. If you see a player has trouble deciding their action, describe the scene again so they know where things are. Add descriptors such as "close enough to shoot him with your bow" so they know what's in range etc. Their character would understand it.
-    - At the end of the round, do a quick summary of what actions were taken by whom. This retelling is a great way to ensure everyone is on the same page, to transform a rigid exercise into fluid narration and to give the spotlight to great combat events.
+Je v podstatě stejná jako při použití mřížky. Hodí se na iniciativu (pokud iniciativa nevyplývá ze situace) a strany se střídají v tazích. PJ popisuje scénu a tahy nepřátel a hráči popisují to co chtějí dělat. Pj jejich akce následně vyhodnotí.
+
+#### Rady pro TotM
+
+- **Být schovávaný:** Pokud to není absolutně nesmyslné, hráč je vždy tam kde potřebuje být, aby provedl svou akci.
+- **Nepoužívat specifika:** V žádném případě se při použití TotM nesmí používat specifické vzdálenosti. Ve chvíli, kdy začnete měřit vzdálenosti přesně, stane se souboj obtížnější udržet jen ve vaší představivosti. Je lepší používat fráze jako *"Na dosah středně velké střelné zbraně"*, *"Když se přesuneš můžeš do něj zaútočit"* nebo *"Tvá ohnivá koule zasáhne všechno v zóně u baru"* (o zónách více níže).
+- **Detailnější popisy nepřátel:** Hráči se v TotM lépe orientují, když nejsou nepřátele popsáni jen jako goblin1 a goblin2. Ale například jako goblin s páskou přes oko a goblin s třemi pletenými copánky až na zem. 
+- **Shrnutí akci:** Na konci každé strany je dobré shrnout její akce pro lepší přehlednost a více plynulý zážitek.
+- **Nebát se opakovat:** To co v hlavě vidí PJ se zaručeně nikdy nepřenese do představ hráčů. PJ by se neměl bát opakovat scénu klidně i pro každého hráče.
+- **Zóny:** Používejte zóny pro komplexní scény.
+
+#### Zóny
+
+Zóny jako koncept umožňují rozdělit komplexní bojiště do menších na sebe libovolně navazujících částí. Například potyčka v královské síni se dá rozdělit na zóny: "Vstupní brána", "Hala", "Královský trůn" a "Balkón (Který není přístupný z této místnosti, ale mohu na něm být stráže a střílet dolů na nepřátele.)". Díky zónám lze pak přehledně hlídat, kdo se kde nachází a s kým zrovna bojuje.  
+
+#### Modifikace pravidel boje pro TotM
+
+Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat následující modifikace.
+
+- **Dostřel a rozsah (třeba kouzel):** Je čistě v režii PJ. 
+- **Pohyb:** Běžným pohybem se lze přesunout v rámci jedné zóny nebo mezi sousedícími zónami. Sprintem se lze přesunout napříč několika navazujícími zónami (většinou 2).
+- **Vzájemné ohrožení:** Stvoření ve vzájemném ohrožení nemůže opustit sovu aktuální zónu ale může útočit na jiná stvoření ve stejné zóně.
 
 <img src="/assets/sep_line.png"/>
 
@@ -97,7 +109,7 @@
 !!! note "Příklad: Ohnivý elementál"
     Ohnivému elementálovi, by zásah ohnivou koulí asi nic moc neudělal. Avšak smetením vodním proudem by mělo devastující účinky. 
 
-**Nezranitelnost:** Některá stvoření jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje poškození.
+**Nezranitelnost:** Některá stvoření jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození.
 
 **Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny.
 
@@ -108,8 +120,6 @@
 
 ## Ostatní bojové situace
 
-**Sprint:** Stvoření, které není ve vzájemném ohrožení s jiným stvořením, může v daném kole obětovat svou běžnou akci a tím se pohybovat až dvojnásobkem své hybnosti.
-
 **Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných ze specializací. Způsobené poškození je poloviční. Při útoku zbraní na dálku je navíc k zásahu připočten postih *-1*.
 
 **Netrénované zbroje a štíty:** Poskytují jen poloviční bonus do OČ.
@@ -118,9 +128,9 @@
 
 **Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus +1 do zásahu a poškození.
 
-**Bojové manévry:** Stvoření si může vybrat že se na místo útoku pokusí provést bojový manévr. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci. *Útočník i obránce* provedou *hod na zásah* včetně aplikovatelných modifikátorů. Pokud útočník *přehodí výsledek soupeře aspoň o 5*, úspěšně provede bojový manévr. Bojové manévry ve většině případů působí jen symbolikcé *1 poškození*.
+**Bojové manévry:** Stvoření si může vybrat že se na místo útoku pokusí provést bojový manévr. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci. Bojové manévry ve většině případů působí jen symbolické *1 poškození*. Vyhodnocení manévrů záleží zcela na PJ. Může si však pomoc následujícím postupem. *Útočník a obránce* provedou *hod na zásah* včetně aplikovatelných modifikátorů. Pokud útočník *přehodí výsledek soupeře aspoň o 5*, úspěšně provede bojový manévr.
 
-**Shození na zem:** Je-li stvoření shozeno na zem, tak všechny útoky na blízku proti němu probíhají s výhodou. Pokud se shozené stvoření pokusí útočit střední nebo větší zbraní, tak jeho útoky probíhají s nevýhodou. Kdokoliv se může volně vyvázat ze vzájemného ohrožení se shozeným stvořením. *Postavení se zpět na nohy* sebere stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem však platí i po zbytek kola.
+**Shození na zem:** Je-li stvoření shozeno na zem, tak všechny útoky na blízku proti němu probíhají s výhodou. Pokud se shozené stvoření pokusí útočit střední nebo větší zbraní, tak jeho útoky probíhají s nevýhodou. Kdokoliv se může volně vyvázat ze vzájemného ohrožení se shozeným stvořením. *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem však platí i po zbytek kola, kdy se stvoření postaví zpět na nohy.
 
 **Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit si běžnou akci na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. 
 
@@ -130,7 +140,7 @@
 !!! Warning "Souběh akcí"
     Připravené akce a kouzla probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
 
-**Slepota:** Slepé stvoření se pohybuje hybností maximálně 1 metr. Všechny útoky proti slepému stvoření jsou s výhodou. Sám na blízku útočí s nevýhodou. Útoky na dálku nejsou možné. Při rychlejším pohybu hrozí s pravděpodobností *50 %* zakopnutí.
+**Slepota:** Slepé stvoření se pohybuje hybností maximálně 1 metr. Všechny útoky proti slepému stvoření jsou s výhodou. Sám na blízku útočí s nevýhodou. Útoky na dálku nejsou možné. Při rychlejším pohybu hrozí s pravděpodobností *3 z 6-ti* zakopnutí.
 
 **Coup de grâce:** Bezmocní nepřátelé. Jako například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
 

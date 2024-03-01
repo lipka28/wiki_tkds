@@ -10,7 +10,7 @@
 
 **Vrozené jazyky:** Jazyk společenství + (Případný další jazyk pokud pochází z území mimo "objeveného" světa)
 
-**Hybnost:** 12 metrů 
+**Hybnost:** 12 metrů
 
 **Doba přirozeného dožití:** 50 - 70 let
 

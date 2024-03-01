@@ -51,7 +51,7 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 - **Oblečení** - Plní funkci běžného oblečení. Nevyžaduje trénink.
 - **Lehká** - Flexibilní, lze v ní spát a neomezuje v pohybu. 
 - **Střední** - Omezuje v pohybu, nedá se v ní plížit ani pohodlně spát, *bonus k OČ ze zručnosti je poloviční* (zaokrouhleno nahoru). Stvoření ve střední zbroji *nemá vyšší hybnost než 9 metrů*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
-- **Těžká** - Omezuje v pohybu, nedá se v ní plížit ani pohodlně spát, *bonus k OČ ze zručnosti je negován*. Stvoření v těžké zbroji *nemá vyšší hybnost než 6 metrů*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Těžká** - Hlučná, omezuje v pohybu, nedá se v ní plížit ani pohodlně spát, *bonus k OČ ze zručnosti je negován*. Stvoření v těžké zbroji *nemá vyšší hybnost než 6 metrů*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
 - **Štít** - Zvyšuje OČ nositele, většinou držen v jedné ruce.
 
 | ZBROJE                     |   TYP    |  OČ  | POTŘEBNÁ SÍLA | Váha  |   CENA   |
@@ -81,7 +81,7 @@ Zbraně se dělí do 2 základních kategorií. Zbraně na blízku a zbraně na 
 - **Malá** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní.
 - **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou zbraní. Některé střední zbraně na blízku lze také použít *jako obouruční* s *vyšší kostkou poškození* a bonusem *+1* k poškození. V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
 - **Velká** -  Nejničivější typ zbraní. Tyto zbraně jsou vždy obouruční a jejich verze na blízku mají bonus *+1* k poškození. Použití v malých prostorech může způsobovat postihy nebo nemusí být vůbec možné.
-- **Dlouhá** - Tato kategorie se týká pouze zbraní na blízku. Tyto zbraně jsou jako velké zbraně obouruční a poskytují bonus *+1* k poškození. Dlouhé zbraně umožňují zasáhnout nepřítele útokem na blízku až na *3 metry* i když v cestě stojí spojenci.
+- **Dlouhá** - Tato kategorie se týká pouze zbraní na blízku. Tyto zbraně jsou jako velké zbraně obouruční a poskytují bonus *+1* k poškození. Dlouhé zbraně umožňují zasáhnout nepřítele útokem na blízku až na *2 metry* i když v cestě stojí spojenci.
 
 Tyto kategorie mohou být například důležité v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: *neozbrojený / malá* < *střední* < *velká* < *dlouhá* < *hozená* < *střelná* 
 
