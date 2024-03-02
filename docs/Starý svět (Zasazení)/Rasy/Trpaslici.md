@@ -2,23 +2,36 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/races/Dwarf.jpeg)
+![Image title](/assets/races/Dwarf.png)
 
 <img src="/assets/sep_line.png"/>
 
-**Požadavky:** Síla >=9; Výdrž >= 13
+!!! danger "Požadavky"
+    Síla >= *9*; Výdrž >= *13*
 
-**Vrozené jazyky:** Trpasličtina + Jazyk společenství
-
-**Hybnost:** 9 metrů 
-
-**Doba přirozeného dožití:** 200 - 250 let
+## Popis
 
 *==Dopsat popisek==*
 
 **Trpasličí jména:** (modify by pf2) Trpaslíci pojmenovávají své potomky po svých předcích nebo trpasličích hrdinech. U trpaslíků je velmi vzácné vymyslet nové jméno nebo převzít jméno od jiné rasy. Trpaslíci se také rádi prezentují názvem svého klanu, který si připojují za jméno. Trpasličí jména často obsahují spojení tvrdě znějících souhlásek a většinou mají 2, maximálně 3 slabiky. 
 
 **Příklady takových jmen jsou:** Agna, Bodill, Dolgrin, Edrukk, Grunyar, Ingra, Kazmuk, Kotri, Lupp, Morgrym, Rogar, Rusilka, Torra, Yangrit
+
+## Trpaslíci jako dobrodruzi
+
+==dospat==
+
+## Běžné povahové rysy a názory
+
+==dopsat==
+
+## Vlastnosti
+
+**Vrozené jazyky:** Trpasličtina + Jazyk společenství
+
+**Hybnost:** 9 metrů 
+
+**Doba přirozeného dožití:** 200 - 250 let
 
 ## Speciální vlastnosti
 

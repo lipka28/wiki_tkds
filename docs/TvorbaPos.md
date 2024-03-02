@@ -10,7 +10,7 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Naházej si dovednosti a zaznač si modifikátory
 
-Jdi dovednost po dovednosti, v pořadí Síla, Zručnost, Výdrž, Rozum a Osobnost. Na každou dovednost si hoď *3k6* a výsledek si zaznač. Připiš si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.md)) a nakonec si poznač gramotnost danou tvým rozumem.
+Jdi dovednost po dovednosti, v pořadí Síla, Zručnost, Výdrž, Rozum a Osobnost. Na každou dovednost si hoď *3k6* a výsledek si zaznač. Pokud chceš můžeš *1x* prohodit hodnoty dvou libovolných dovedností. Připiš si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.md)) a nakonec si poznač gramotnost danou tvým rozumem.
 
 ## 2. Vyber si rasu a specializaci a zapiš si speciální schopnosti
 

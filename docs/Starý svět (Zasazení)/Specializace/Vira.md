@@ -8,8 +8,8 @@
 
 ## Víra jako výchozí specializace
 
-!!! danger "Náchylnost k magii Povznesených"
-    Postavy investující do specializace na víru jsou náchylní na magii svých patronů. Postavy co mají víru jako primární nebo výchozí specializaci by pak měli být extra náchylné. Jak se tato náchylnost projevuje záleží čistě na PJ. Možná forma náchylnosti je postih do záchranných hodů proti svému patronovi ve výši investovaných úrovní do víry. Extra náchylnost se pak může projevit například nevýhodou.
+!!! success "Požadavky"
+    Žádné
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |

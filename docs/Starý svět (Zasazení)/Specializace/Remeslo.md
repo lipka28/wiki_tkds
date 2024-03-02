@@ -8,6 +8,9 @@
 
 ## Řemeslo jako výchozí specializace
 
+!!! success "Požadavky"
+    Žádné
+
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
 | *2+1k4+Mod. Výdrže* |     *+0*     |     *16*      |

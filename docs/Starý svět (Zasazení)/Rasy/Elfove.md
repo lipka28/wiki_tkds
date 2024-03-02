@@ -2,9 +2,12 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/races/Elf.jpeg)
+![Image title](/assets/races/Elf.png)
 
 <img src="/assets/sep_line.png"/>
+
+!!! danger "Požadavky"
+    Zručnost >= *9*; Rozum >= *13*
 
 ## Popis
 
@@ -27,9 +30,7 @@ Na dobrodružství se často vydávají mladí elfové (100 let nebo méně), ab
 - Držení zášti nebo vděku po dlouhá staletí klidně i tisíciletí
 - Nechápání každoročně se opakujících tradic smrtelníků
 
-## Statistiky
-
-**Požadavky:** Zručnost >= *9*; Rozum >= *13*
+## Vlastnosti
 
 **Vrozené jazyky:** Elfština + Jazyk společenství
 

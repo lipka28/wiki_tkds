@@ -8,6 +8,9 @@
 
 ## Boj jako výchozí specializace
 
+!!! success "Požadavky"
+    Žádné
+
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
 | *2+1k8+Mod. Výdrže* |     *+1*     |     *15*      |

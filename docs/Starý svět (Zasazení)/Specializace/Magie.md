@@ -8,7 +8,7 @@
 
 ## Magie jako výchozí specializace
 
-!!! danger "Magické nadání"
+!!! danger "Požadavky"
     Ne každé stvoření se může věnovat magii. Specializace do magie je ve Starém světě dostupná pouze stvořením s dovedností *rozum >= 13*.
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
