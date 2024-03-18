@@ -13,7 +13,7 @@
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
-| *2+1k4+Mod. Výdrže* |     *+0*     |     *16*      |
+| *2+1k6+Mod. Výdrže* |     *+0*     |     *16*      |
 
 **Trénovaná výzbroj:** Postava, která si vybrala řemeslo jako svou výchozí specializaci. Je trénovaná v používání *3 libovolných zbraní* vlastního výběru (nebo 2 zbraní a štítu). Také může používat *zbroje lehkého typu*.
 

@@ -68,7 +68,7 @@ Základní pravidla k běžným magickým předmětům. Až na výjimky platí, 
 
 ### Lektvary a svitky
 
-Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o jednorázový předmět, který se po použití zničí a jehož výsledkem, je nějaký, většinou magický, efekt. *Kdokoliv může použít jak svitek tak lektvar* (i když přečtení svitku vyžaduje gramotnost). Jediné významné rozdíly jsou v tom jak předmět vypadá, a tedy jak je náchylný na prostředí, a jak je předmět aktivován.
+Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o jednorázový předmět, který se po použití zničí a jehož výsledkem, je nějaký, většinou magický, efekt. *Kdokoliv může použít jak svitek tak lektvar* (i když přečtení svitku vyžaduje gramotnost). Jediné významné rozdíly jsou v tom jak předmět vypadá, a tedy jak je náchylný na prostředí, a co je potřeba k jeho aktivaci.
 
 ### Magické grimoáry
 
@@ -92,7 +92,7 @@ Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický 
 
 ### Magické hole
 
-Více jak dvoumetrová magická hůl schopna vyvolávat hned několik různých magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami jejichž nejčetnější specializace je magie*.
+Více jak dvoumetrová magická hůl schopna vyvolávat hned několik různých magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami jejichž výchozí a zároveň nejčetnější specializací je magie*.
 
 - **Počet použití:** Magická hůl má většinou při nálezu *3k10* použití. 
 - **Dobytí:** Nelze, ale PJ může udělat výjimku. 

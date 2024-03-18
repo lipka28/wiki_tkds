@@ -112,11 +112,11 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 #### Na prahu smrti (Optional)
 
-Skupiny, které chtějí snížit smrtelnost hry mohou použít volitelné pravidlo pro mírnější systém smrti. Hráčská postavy, jejichž životy klesnou na 0, upadají do bezvědomí a objevují se *na prahu smrti*.
+Skupiny, které chtějí snížit smrtelnost hry mohou použít volitelné pravidlo pro mírnější systém smrti. Hráčská postavy, jejichž životy klesnou na 0, upadají do bezvědomí a objevují se *na prahu smrti* (neplatí pro smrt následkem otravy nebo destruktivní smrti).
 
 **Efekt:** Postava na prahu smrti má na konci každého svého tahu šanci *3 z 6-ti* na to, že zemře.
 
-**Vyléčení:** Okamžité léčení libovolného rozsahu. Přivede postavu zpět k vědomí s *1 životem*. Postava také návratem z prahu smrti permanentně ztratí *1 náhodný dovednostní bod*.
+**Vyléčení:** Léčení libovolného rozsahu. Přivede postavu zpět k životu s *1 životem* a únavou ve výši aktuální úrovně postavy. Postava také návratem z prahu smrti permanentně ztratí *1 náhodný dovednostní bod* a zůstává v bezvědomí na *1k4* směn.
 
 <img src="/assets/sep_line.png"/>
 

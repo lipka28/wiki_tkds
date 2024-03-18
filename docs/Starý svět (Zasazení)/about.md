@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-<img src="/assets/ow.jpg" style="zoom:100%;" />
+<img src="/assets/bg_w.png" style="zoom:100%;" />
 
 <img src="/assets/sep_line.png"/>
 

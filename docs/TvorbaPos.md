@@ -30,8 +30,15 @@ Obranné číslo tvé postavy je stanoveno dvěma faktory. A to *brněním*, kte
 !!! note "Obranné číslo bez brnění"
 	Pokud tvá postava nemá žádné brnění, její základní *OČ* je *10* (Před modifikací zručností)
 
-## 5. Poznač si úroveň, zkušenostní body a pojmenuj svou postavu
+## 5. Poznač si úroveň a zkušenostní body
 
-Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1* s *0 zkušenostními body* a cílem *10 zkušenostních bodů* do další úrovně. Když máš vše hotové dej své postavě jméno.
+Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1* s *0 zkušenostními body* a cílem *10 zkušenostních bodů* do další úrovně.
+
+## 6. Původ a jméno
+
+Zformuluj *1 větu*, která charakterizuje tvou postavu. Je-li to nutné pro kampaň PJ může tuhle charakteristiku modifikovat. Když máš vše hotové dej své postavě jméno.
+
+!!! note "Přiklady charakteristik"
+	Putující kovář se zálibou v nebezpečí. Mág hledající nesmrtelnost. Válečný veterán s dobrým srdcem....
 
 <img src="/assets/sep_line.png"/>

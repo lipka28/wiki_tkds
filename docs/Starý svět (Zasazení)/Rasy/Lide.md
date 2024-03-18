@@ -11,23 +11,37 @@
 
 ## Popis
 
-*==Dopsat popisek==*
+*Odkud se vzali lidé nikdo přesně neví. Lidé na světě existovali již před záchranou světa a existují nadále i po ní. Spousta lidí věří, že jako všechno živé, je stvořila Všematka. Elfové však vědí, že to není možné. Neferité, kterou lidé označují jako Všematku, se totiž stala povznesenou až po událostech spojených se záchranou světa.*
 
-**Lidská jména:** Lidská jména se velmi liší napříč místy původu a etnicitou s jaké daný člověk pochází. A na rozdíl od ostatních ras lidé nemají pevnou strukturu jmen. Každý člověk má své rodinné příjmení, které žena přebírá po svém manželovi. Některá příjmení jsou extra významná, protože mohou představovat jistou moc. Například pokud se jedná o příjmení významného rodu.
+*Tělesné charakteristiky lidí jsou stejně rozmanité jako podnebí ve kterých se mohou nacházet. Lidé mají širokou škálu barev pleti a vlasů, typů těla a obličejových rysů. Obecně však platí, že jejich kůže má tím tmavší odstín, čím blíže k rovníku žili oni nebo jejich předkové. Lidé dosahují fyzické dospělosti kolem 15. roku života, duševní dospělosti však dosahují o několik let později. Průměrný člověk se může dožít v kolem 70 let.*
 
-**Příklady takových jmen jsou:** Erik, Wilhelm, Friedrich, Johann, Richard, Artur, Antonio, Enrique, Fabio, David, Anna, Margaret, Isabel, Elisabeth, Helen, Elsa, Clara, Anastasiya, Camille
+*Rozmanitost lidí se projevuje také v jejich postojích a společenských poměrů. Lidé často tvoří rodiny, cechy a různé politické struktury, které udávají řád a smysl jejich existenci. Rodina je však většinou tou nejcennější strukturou, kterou může být člověk součástí. Ačkoli nejstarší lidské uskupení mohou vystopovat svou historii i tisíce let do minulosti, ve srovnání se společnostmi elfů nebo trpaslíků se lidské civilizace zdají být ve stavu neustálého přelivu. Říše se rozpadají a nová království pohlcují ta stará. I přes své časté mocenské ambice.*
+
+*Lidé hluboko uvnitř touží, aby jim někdo vládl a říkal co mají dělat, a tím z nich shodil tíhu následků vlastních rozhodnutí. To dělá lidi extrémně náchylné k uctívání vyšších bytostí. A to i klidně ty nejvíce obskurní bohy nebo podivná stvoření.*
+
+**Lidská jména:** Lidská jména se velmi liší napříč místy původu a etnicitou s jaké daný člověk pochází. A na rozdíl od ostatních ras lidé nemají pevnou strukturu jmen. Každý člověk má také své rodné příjmení z nichž některá, mohou být považována za významná v lidském společenství.
+
+**Příklady jmen:** Aarav, Anna, Antonio, Ayanna, Caius, Clara, David, Eiko, Elsa, Enrique, Erik, Fabio, Freya, Friedrich, Helen, Isabel, Johann, Khaled, Leilani, Niamh, Richard, Zephyr
 
 ## Lidé jako dobrodruzi
 
-==dospat==
+Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nelákala vidina bohatství a moci, která se může ukrývat v neprozkoumaných částech světa. Člověk je nejběžnější typ dobrodruha, kterého lze potkat. Nezávisle na věku či původu.
 
 ## Běžné povahové rysy a názory
 
-==dopsat==
+!!! note "Inspirace"
+    Tyto rysy a názory nereprezentují každého člověka. Následující seznam funguje spíše jako taková inspirace pro tvorbu postavy nebo nehráčské postavy. 
+
+- Přizpůsobivost a extrémní kreativita při řešení problémů.
+- Snaha dosáhnout slávy a bohatství, klidně i na úkor ostatních.
+- Hledání smyslu života a bytí.
+- Udržení dobrých vztahů s blízkými přáteli a rodinou. 
+- Touha po moci
+- Nepředvídatelnost
 
 ## Vlastnosti
 
-**Vrozené jazyky:** Jazyk společenství + (Případný další jazyk pokud pochází z území mimo "objeveného" světa)
+**Vrozené jazyky:** Jazyk společenství + (Případný další jazyk pokud pochází z území mimo "známého" světa)
 
 **Hybnost:** 12 metrů
 
@@ -35,7 +49,7 @@
 
 ## Speciální vlastnosti
 
-- **Přirozeně ambiciózní** - Lidé mají *kapacitu pro extra schopnosti nebo jazyky* vždy *o 1 vyšší* (minimálně +1). I když tomu míra jejich dovednosti rozum neodpovídá.
+- **Přirozeně ambiciózní** - Lidé mají *kapacitu pro extra schopnosti nebo jazyky* vždy *o 1 vyšší* (minimálně +1). I když tomu míra jejich rozumu neodpovídá.
 
 ## Výchozí specializace
 

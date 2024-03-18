@@ -11,19 +11,34 @@
 
 ## Popis
 
-*==Dopsat popisek==*
+*Dle trpasličích pověr. Jsou trpaslíci z oživlého kamene, který se utvořil v hlubinách země kolem legendárního trpasličího města Durg’Hajakor (v lidské řeči: město srdečního kamene). Od dávných dob Trpaslíci budovaly chodby a masivní podzemní města ve snaze najít vyhovující domov, pro jejich stále rostoucí počet. Jejich hledání skončilo ve chvíli, kdy se první s trpaslíků prokutali až na samotný zemský povrch. Zde nalezli úrodnou půdu a téměř neomezený prostor k životu. Svá impozantní města začali testa do skal a postupem času zapomněli na svůj hlubinný původ. Jejich staré podzemní města zchátraly a tunely do Durg’Hajakor se zhroutili. Dnes již žádný trpaslík netuší, kde legendární město leží. Avšak představa jeho bohatství je i nadále velkým lákadlem ne jen pro Trpaslíky.*
 
-**Trpasličí jména:** (modify by pf2) Trpaslíci pojmenovávají své potomky po svých předcích nebo trpasličích hrdinech. U trpaslíků je velmi vzácné vymyslet nové jméno nebo převzít jméno od jiné rasy. Trpaslíci se také rádi prezentují názvem svého klanu, který si připojují za jméno. Trpasličí jména často obsahují spojení tvrdě znějících souhlásek a většinou mají 2, maximálně 3 slabiky. 
+*Hlavními trpasličími rysy jsou nižší výška (maximálně 1,5 metrů), mohutné tělo a tmavé vlasy a vousy, svázané do honosných spletitých copů. Trpaslík je považován za dospělého od chvíle, co je schopen přiložit ruku k dílu. To je většinou kolem 15-ti let. A dožívají se až úctyhodných 250 let.*
 
-**Příklady takových jmen jsou:** Agna, Bodill, Dolgrin, Edrukk, Grunyar, Ingra, Kazmuk, Kotri, Lupp, Morgrym, Rogar, Rusilka, Torra, Yangrit
+*Co se trpasličích společenství týče. Prim hrají trpasličí klany. Trpaslíci neuznávají koncept rodiny, tak jako Lidé nebo Elfové. Pro Trpaslíky funkci rodiny nahrazuje klan. Trpasličí klany jsou uskupení, ve kterých se tradicí předává nějaká specifická dovednost nebo řemeslo. Jediným zaručeným způsobem jak se trpaslík může stát členem klanu je se do něj narodit. Při narození obdrží každý Trpaslík tetování, které ho až nadosmrti svážou s jeho klanem. Proviní-li se trpaslík vážně vůči svému klanu, může z něj být vyhoštěn. V takovém případě je jeho tetování zohyzděno a všechny Trpasličí klany se na takového jedince budou dívat jako nedůvěryhodného odpadlíka. Vyhoštěný trpaslík většinou umírá sám někde v divočině nebo se integruje do jiných společenství. Například těch lidských.*
+
+*Z Náboženského hlediska Trpaslíci uctívají především své předky. Nejrozsáhlejší vírou je však uctívání jediného povzneseného trpaslíka Durnaka (Trpaslíky nazýván Rudovous).*
+
+**Trpasličí jména:** Trpaslíci pojmenovávají své potomky především po svých předcích nebo trpasličích hrdinech. Jejich jména často obsahují spojení tvrdě znějící souhlásek a nejsou kratší než 2 slabiky nebo delší než 3 slabiky. Trpaslíci nepoužívají příjmení avšak při představování nikdy nevynechají jméno svého klanu a aspoň jeden čestný titul za nějaký svůj velký životní úspěch.
+
+**Příklady jmen:** Agna, Bodill, Dolgrin, Edrukk, Grunyar, Ingra, Kazmuk, Kotri, Lupp, Morgrym, Rogar, Rusilka, Torra, Yangrit
 
 ## Trpaslíci jako dobrodruzi
 
-==dospat==
+Nejčastěji se dobrodruhy stávají mladí trpaslíci, kteří chtějí dosáhnout velké slávy jako jejich předci. Na druhou stranu se také často stává dobrodruhem trpaslík, který byl vyhoštěn ze svého klanu a tím přišel o všechno. Existují i trpasličí dobrodruzi, kteří se stanou dobrodruhy spíše náhodou. A to jen proto, že vyrazí za nějakým vyšším posláním, které je jim uděleno jejich klanem.
 
 ## Běžné povahové rysy a názory
 
-==dopsat==
+!!! note "Inspirace"
+    Tyto rysy a názory nereprezentují každého Trpaslíka. Následující seznam funguje spíše jako taková inspirace pro tvorbu postavy nebo nehráčské postavy. 
+
+- Tvrdohlavost a vznětlivost
+- Odhodlání dostát své osobní cti
+- Slabost pro dobře odvedenou řemeslnou práci (především v souvislosti s kovem a kamením)
+- Oddanost svému klanu
+- Sklony k bujarým oslavám a alkoholismu
+- Rázný důraz na dobře odvedenou práci
+- Nedůvěřivost k elfům nebo čemukoliv elfímu
 
 ## Vlastnosti
 
@@ -36,12 +51,13 @@
 ## Speciální vlastnosti
 
 - **Vidění ve tmě** - Trpaslíci vidí ve tmě na vzdálenost *12 metrů*. Více informací o této schopnosti [zde](/Pravidla%20a%20procedury/Adventures/#nebezpeci-a-nastrahy).
-- **Tuhý kořínek** - Trpaslíci mají vážně tuhý kořínek. Každý trpaslík má bonus *+2* k záchranným hodům *proti smrti*. Navíc pokud se používá [mírnější pravidlo pro umírání](/Pravidla%20a%20procedury/Adventures/#na-prahu-smrti-optional), tak trpaslíkova šance zemřít *na prahu smrti* je jen *2 z 6-ti*.
 - **Šestý smysl** - Trpaslíci dokáží přibližně odhadnout v jaké výšce, vůči mořské hladině, se nachází.
-- **Nižší těžiště** - Trpaslíci nemohou používat *obouruční meče* a *dalekonosné luky*.
+- **Tuhý kořínek (Optional)** - Pokud se používá [mírnější pravidlo pro umírání](https://osr.tkds.cz/Pravidla a procedury/Adventures/#na-prahu-smrti-optional), tak trpaslíkova šance zemřít *na prahu smrti* je jen *2 z 6-ti*.
+- **Nižší těžiště** - Trpaslíci nemohou používat *obouruční meče* a *dalekonosné luky*. Navíc řemesla, která jsou omezena zbrojí provádíš vždy s postihem, jako by si na sobě měl střední zbroj.
+- **Klanové tetování** - Trpaslíci, kteří náleží k nějakému klanu, disponují klanovým tetováním.
 
 ## Výchozí specializace
 
-Výchozí specializací trpaslíků je *boj*. Pokud si hráč přeje, může si k této specializaci přidat i *1 stupeň kterékoliv jiné specializace* pro kterou splňuje podmínky. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
+Výchozí specializací trpaslíků je *řemeslo*. Pokud si hráč přeje, může si k této specializaci přidat i *1 stupeň kterékoliv jiné specializace* pro kterou splňuje podmínky. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
 
 <img src="/assets/sep_line.png"/>
