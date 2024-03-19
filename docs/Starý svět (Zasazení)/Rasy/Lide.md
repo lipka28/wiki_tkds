@@ -15,9 +15,9 @@
 
 *Tělesné charakteristiky lidí jsou stejně rozmanité jako podnebí ve kterých se mohou nacházet. Lidé mají širokou škálu barev pleti a vlasů, typů těla a obličejových rysů. Obecně však platí, že jejich kůže má tím tmavší odstín, čím blíže k rovníku žili oni nebo jejich předkové. Lidé dosahují fyzické dospělosti kolem 15. roku života, duševní dospělosti však dosahují o několik let později. Průměrný člověk se může dožít v kolem 70 let.*
 
-*Rozmanitost lidí se projevuje také v jejich postojích a společenských poměrů. Lidé často tvoří rodiny, cechy a různé politické struktury, které udávají řád a smysl jejich existenci. Rodina je však většinou tou nejcennější strukturou, kterou může být člověk součástí. Ačkoli nejstarší lidské uskupení mohou vystopovat svou historii i tisíce let do minulosti, ve srovnání se společnostmi elfů nebo trpaslíků se lidské civilizace zdají být ve stavu neustálého přelivu. Říše se rozpadají a nová království pohlcují ta stará. I přes své časté mocenské ambice.*
+*Rozmanitost lidí se projevuje také v jejich postojích a společenských poměrů. Lidé často tvoří rodiny, cechy a různé politické struktury, které udávají řád a smysl jejich existenci. Rodina je však většinou tou nejcennější strukturou, kterou může být člověk součástí. Ačkoli nejstarší lidské uskupení mohou vystopovat svou historii i tisíce let do minulosti, ve srovnání se společnostmi elfů nebo trpaslíků se lidské civilizace zdají být ve stavu neustálého přelivu. Říše se rozpadají a nová království pohlcují ta stará.*
 
-*Lidé hluboko uvnitř touží, aby jim někdo vládl a říkal co mají dělat, a tím z nich shodil tíhu následků vlastních rozhodnutí. To dělá lidi extrémně náchylné k uctívání vyšších bytostí. A to i klidně ty nejvíce obskurní bohy nebo podivná stvoření.*
+*I přes své časté mocenské ambice. Lidé hluboko uvnitř touží, aby jim někdo vládl a říkal co mají dělat, a tím z nich shodil tíhu následků vlastních rozhodnutí. To dělá lidi extrémně náchylné k uctívání vyšších bytostí. A to i klidně ty nejvíce obskurní bohy nebo podivná stvoření.*
 
 **Lidská jména:** Lidská jména se velmi liší napříč místy původu a etnicitou s jaké daný člověk pochází. A na rozdíl od ostatních ras lidé nemají pevnou strukturu jmen. Každý člověk má také své rodné příjmení z nichž některá, mohou být považována za významná v lidském společenství.
 

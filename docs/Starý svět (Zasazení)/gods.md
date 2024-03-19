@@ -2,27 +2,27 @@
 
 <img src="/assets/sep_line.png"/>
 
-==Dopsat==
-
-asd
+Povznesení, jsou stvoření s obrovskou magickou mocí, která se povznesla na vyšší úroveň bytí. Povznesení se příliš nezajímají o životy smrtelníků a sledují své vlastní cíle. Často však smrtelníků zneužívají k dosažení těchto cílů.
 
 <img src="/assets/sep_line.png"/>
 
-## Nejvýznamnější Povznesení
+## Nejznámější Povznesení
 
-asd
-
-<img src="/assets/sep_line.png"/>
-
-### Všematka
+Následuje seznam nejčastěji uctívaných povznesených.
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Allmother.jpeg)
+### Všematka (Elfové: Neferité)
 
 <img src="/assets/sep_line.png"/>
 
-**Popis:** ==popis==
+![Image title](/assets/gods/Vsematka.jpg)
+
+<img src="/assets/sep_line.png"/>
+
+**Popis:** Povznesená z řad elfů, často vyobrazovaná jako překrásná elfka v šatech s listí a květů. Královna říše Fey a patronka všeho živého.
+
+**Symbol:** Strom života
 
 | Uznávaná zbraň |        Sféry vlivu        |
 | -------------- | :-----------------------: |
@@ -30,15 +30,17 @@ asd
 
 <img src="/assets/sep_line.png"/>
 
-### Durnak
+### Durnak (Trpaslíci: Rudovous)
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Durnak.jpeg)
+![Image title](/assets/gods/Durnak.jpg)
 
 <img src="/assets/sep_line.png"/>
 
-**Popis:** ==popis==
+**Popis:** Povznesený z řad trpaslíků, často vyobrazován jako trpaslík s ohněm místo vlasů a vousů držící ohromné kladivo. Vládce říše ohně a držitel kladiva bouří. Patron řemeslníků a především kovářů.
+
+**Symbol:** Kladivo s runou bouře
 
 | Uznávaná zbraň          |    Sféry vlivu    |
 | ----------------------- | :---------------: |
@@ -46,15 +48,17 @@ asd
 
 <img src="/assets/sep_line.png"/>
 
-### Alamar
+### Alamar (Lidé: Ochránce)
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Alamar.jpeg)
+![Image title](/assets/gods/Alamar.jpg)
 
 <img src="/assets/sep_line.png"/>
 
-**Popis:** ==popis==
+**Popis:** Povznesený z řad lidí, často vyobrazován jako rytíř ve zlatém brnění s masivním oboručním mečem. Také nazýván ochránce civilizace. Je symbolem spravedlnosti a patronem všech úředníků a obchodníků.
+
+**Symbol:** Zlomený meč se záštitou ve tvaru slunce
 
 | Uznávaná zbraň |         Sféry vlivu          |
 | -------------- | :--------------------------: |
@@ -66,11 +70,13 @@ asd
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Evelyn.jpeg)
+![Image title](/assets/gods/Juna.jpg)
 
 <img src="/assets/sep_line.png"/>
 
-**Popis:** ==popis==
+**Popis:** Povznesená z řad lidí, často vyobrazována jako žena v bílé róbě s hadem omotaným kolem ruky. Patronka léčitelů a nemocných.
+
+**Symbol:** Stříbrný Uroboros
 
 | Uznávaná zbraň                                           |     Sféry vlivu      |
 | -------------------------------------------------------- | :------------------: |
@@ -82,11 +88,13 @@ asd
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Um.jpeg)
+![Image title](/assets/gods/Umdur.jpg)
 
 <img src="/assets/sep_line.png"/>
 
-**Popis:** ==popis==
+**Popis:** Povznesený neznámého původu, často vyobrazovaný jako Lovec s jelení hlavou a rozsáhlým parožím. Patron lovu a války, ale představuje i svobodu a volnost.
+
+**Symbol:** Zub s vyrytou runou lovu
 
 | Uznávaná zbraň |   Sféry vlivu    |
 | -------------- | :--------------: |
@@ -94,15 +102,17 @@ asd
 
 <img src="/assets/sep_line.png"/>
 
-### Matka noci
+### Paní noci
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Nekrofos.jpeg)
+![Image title](/assets/gods/Nightmother.jpg)
 
 <img src="/assets/sep_line.png"/>
 
-**Popis:** ==popis==
+**Popis:** Povznesená neznámého původu, často vyobrazovaná jako ženská postava v černé róbě s kápí. Ochránkyně všech co potřebují cestovat nocí a opatrovatelka ztracených duší. Mezi lidmi považována za boha smrti. 
+
+**Symbol:** Oko noci (diagonálně pozicované oko s ležícím srpem měsíce na místo sítnice)
 
 | Uznávaná zbraň |   Sféry vlivu   |
 | -------------- | :-------------: |
