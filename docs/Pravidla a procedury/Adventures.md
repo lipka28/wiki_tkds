@@ -222,17 +222,20 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 
 **Výběr směru:** Hráči si na základě orientačních bodů, cesty nebo dle světových stran, určí jakým směrem chtějí cestovat.
 
-**Viditelnost:** V běžných podmínkách se předpokládá, že hráči vidí 4.5 kilometrů kolem sebe (proto je dobré používá 9-ti kilometrové hexy). A však v některých situacích, jako je pohyb v lese či vyšplhání na vysokou horu, může být jejich dohled menší nebo větší.
+**Viditelnost:** V běžných podmínkách se předpokládá, že hráči vidí přibližně 4.5 kilometrů kolem sebe. A však v některých situacích, jako je pohyb v lese či vyšplhání na vysokou horu, může být jejich dohled menší nebo větší.
+
+!!! note "6-ti kilometrový hex"
+     Dobrý nápad je používat pro mapování světa *6-ti kilometrové hexy*. Postava uprostřed 6-ti kilometrového hexu by za příznivých podmínek měla vidět až do středu hexů sousedních. Ulehčuje to také výpočet ujité vzdálenosti. Jelikož postava zvládne za den procestovat tolik hexů kolik je její *hybnost / 2*.
 
 **Pohyb po světě:** Vzdálenost, kterou mohou postavy ujít za den, je dána trojnásobkem jejich hybnosti. A však rychlost skupiny je odvozena od nejpomalejšího člena skupiny. 
 
-- *Obtížný terén:* Pokud postavy cestují obtížným terénem, tak se pohybují o poloviční rychlostí. Takže například cestovat 10 mil bažinami je stojí 20 mil jejich hybnosti. 
+- *Obtížný terén:* Pokud postavy cestují obtížným terénem, tak se pohybují o poloviční rychlostí a tudíž ujdou poloviční vzdálenost.
 - *Cesty:* Cesta umožňuje pohyb i s vozem. 
-- *Cestování dnem i nocí:* Hráči se mohou rozhodnout, že chtějí cestovat dnem i nocí bez přestávky. To jim umožní, se během jednoho dne cestování posunout o polovinu vzdálenosti více. (např. 30 km -> 45 km). A však každá z postav obdrží *1 bod únavy*.
+- *Cestování dnem i nocí:* Hráči se mohou rozhodnout, že chtějí cestovat dnem i nocí bez přestávky. To jim umožní, se během jednoho dne cestování posunout o polovinu vzdálenosti více. A však každá z postav obdrží *1 bod únavy*.
 
-**Ztráta směru:** Pokud hráči necestují po cestě nebo dle nějakého orientačního bodu. (Jako je třeba řeka, hora nebo podobné.) Existuje šance, že ztratí směr. Šance na ztrátu směru je *2 z 6-ti*. V *Obtížném terénu* pak *3 z 6-ti*. Postavy co ztratí směr se v průběhu dne cestování lehce odchýlí od svého směru putování.
+**Ztráta směru:** Pokud hráči necestují po cestě nebo dle nějakého orientačního bodu. (Jako je třeba řeka, hora nebo podobné.) Existuje šance, že ztratí směr. Šance na ztrátu směru je *2 z 6-ti*. V *Obtížném terénu* pak *3 z 6-ti*. Postavy co ztratí směr se pohnou náhodným směrem a nebo stráví den blouděním a na konci dne se vrátí tam odkud vyrazily.
 
-**Náhodná setkání:** Během cestování krajinou mohou hráči narazit na různá stvoření, či jiné události. Šance narazit na něco takového je *2 z 6-ti* za každý den cestování. V nebezpečných oblastech i více.
+**Náhodná setkání:** Během cestování krajinou mohou hráči narazit na různá stvoření, či jiné události. Šance narazit na něco takového je *2 z 6-ti* za každý den cestování nebo procestovanou část dne (ráno, odpoledne, večer, noc). V nebezpečných oblastech i více.
 
 ### Rychlé cestování
 
