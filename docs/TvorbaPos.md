@@ -10,7 +10,7 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Naházej si dovednosti a zaznač si modifikátory
 
-Jdi dovednost po dovednosti, v pořadí Síla, Zručnost, Výdrž, Rozum a Osobnost. Na každou dovednost si hoď *3k6* a výsledek si zaznač. Pokud chceš můžeš *1x* prohodit hodnoty dvou libovolných dovedností. Připiš si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.md)) a nakonec si poznač gramotnost danou tvým rozumem.
+Jdi dovednost po dovednosti, v pořadí *Síla*, *Zručnost*, *Výdrž*, *Rozum* a *Osobnost*. Na každou dovednost si hoď *3k6* a výsledek si zaznač. Pokud chceš můžeš *1x* prohodit hodnoty dvou libovolných dovedností. Připiš si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.md)) a nakonec si poznač gramotnost danou tvým rozumem.
 
 ## 2. Vyber si rasu a specializaci a zapiš si speciální schopnosti
 
@@ -25,10 +25,10 @@ Zaznač si svou nosnost (*10 + modifikátor síly* pro *vybavené* předměty a 
 
 ## 4. Poznač si obranné číslo
 
-Obranné číslo tvé postavy je stanoveno dvěma faktory. A to *brněním*, které sis vybral v předchozím kroku a modifikátorem *zručnosti*.
+Obranné číslo tvé postavy je stanoveno třemi faktory. A to konstantou *10*, *brněním*, které sis vybral v předchozím kroku a modifikátorem *zručnosti*.
 
 !!! note "Obranné číslo bez brnění"
-	Pokud tvá postava nemá žádné brnění, její základní *OČ* je *10* (Před modifikací zručností)
+	Pokud tvá postava nemá žádné brnění, její základní *OČ* je *10 + modifikátor zručnosti*.
 
 ## 5. Poznač si úroveň a zkušenostní body
 
@@ -36,7 +36,7 @@ Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1* s *0 zkušen
 
 ## 6. Původ a jméno
 
-Zformuluj *1 větu*, která charakterizuje tvou postavu. Je-li to nutné pro kampaň PJ může tuhle charakteristiku modifikovat. Když máš vše hotové dej své postavě jméno.
+Zformuluj *1 větu*, která charakterizuje tvou postavu. Je-li to nutné pro kampaň, PJ může tuhle charakteristiku modifikovat. Když máš vše hotové dej své postavě jméno.
 
 !!! note "Přiklady charakteristik"
 	Putující kovář se zálibou v nebezpečí. Mág hledající nesmrtelnost. Válečný veterán s dobrým srdcem....

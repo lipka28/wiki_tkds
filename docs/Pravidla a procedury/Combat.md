@@ -23,7 +23,7 @@
 - *Volné akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
 
 !!! note "Pohyb na čtvercové síti"
-    Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*.
+    Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*. Na hexagonové síti není třeba tento rozdíl řešit.
 
 **Vyhodnocení dlouhých akcí:** V této fázi se vyhodnotí a dokončí všechny dlouhé akce včetně sesílání kouzel.
 
@@ -37,7 +37,7 @@
 
 - *Útoky na dálku* - Mají šanci *3 z 6-ti* že automaticky minou.
 - *Používání nebo manipulace s předměty* - Mají šanci *3 z 6-ti* že se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
-- *Čarování kouzel* - Má šanci *3 z 6-ti* že se kouzlo nepovedlo seslat.
+- *Čarování kouzel* - Má šanci *3 z 6-ti* že se kouzlo nepovedlo seslat a je ztraceno.
 - *Strategický pohyb* - Stvoření se může pohnout polovinou své maximální hybnosti. Pokud je pohybující se stvoření na konci svého tahu mimo dosah ohrožení. Stav vzájemného ohrožení je zrušen.
 - *Útěk* - Stvoření se vzdá své akce a může se pohybovat svou plnou rychlostí.
 
@@ -55,7 +55,7 @@
 
 ### Divadlo mysli (Optional)
 
-Divadlo mysli (TotM - Theatre of the Mind) je alternativním způsobem jak odehrát boje bez nutnosti mapy či strategické čtvercové sítě. Jeho hlavními výhodami jsou plynulejší přechod mezi průzkumem a bojem, více "cinematické" vyobrazení boje a rychlejší odehrání boje samotného. Tato metoda však není vhodná pro všechny situace a skupiny hráčů. Například není vhodná pro boje s velkým množstvím účastníků. Pro boje, kde záleží na specifickém pozicování  a také není vhodná pro skupiny, které mají tendenci nedávat pozor.
+Divadlo mysli (TotM - Theatre of the Mind) je alternativním způsobem jak odehrát boje bez nutnosti mapy či strategické čtvercové sítě. Jeho hlavními výhodami jsou plynulejší přechod mezi průzkumem a bojem, více "cinematické" vyobrazení boje a rychlejší odehrání boje samotného. Tato metoda však není vhodná pro všechny situace a skupiny hráčů. Například není vhodná pro boje s velkým množstvím účastníků. Pro boje, kde záleží na specifickém pozicování  a také není vhodná pro skupiny, které mají tendenci při boji nedávat pozor.
 
 #### Procedura boje v TotM
 
@@ -65,7 +65,7 @@ Je v podstatě stejná jako při použití mřížky. Hodí se na iniciativu (po
 
 - **Být schovávaný:** Pokud to není absolutně nesmyslné, hráč je vždy tam kde potřebuje být, aby provedl svou akci.
 - **Nepoužívat specifika:** V žádném případě se při použití TotM nesmí používat specifické vzdálenosti. Ve chvíli, kdy začnete měřit vzdálenosti přesně, stane se souboj obtížnější udržet jen ve vaší představivosti. Je lepší používat fráze jako *"Na dosah středně velké střelné zbraně"*, *"Když se přesuneš můžeš do něj zaútočit"* nebo *"Tvá ohnivá koule zasáhne všechno v zóně u baru"* (o zónách více níže).
-- **Detailnější popisy nepřátel:** Hráči se v TotM lépe orientují, když nejsou nepřátele popsáni jen jako goblin1 a goblin2. Ale například jako goblin s páskou přes oko a goblin s třemi pletenými copánky až na zem. 
+- **Detailnější popisy nepřátel:** Hráči se v TotM lépe orientují, když nejsou nepřátele popsáni jen jako goblin-1 a goblin-2. Ale například jako goblin s páskou přes oko a goblin s třemi pletenými copánky až na zem. 
 - **Shrnutí akci:** Na konci každé strany je dobré shrnout její akce pro lepší přehlednost a více plynulý zážitek.
 - **Nebát se opakovat:** To co v hlavě vidí PJ se zaručeně nikdy nepřenese do představ hráčů. PJ by se neměl bát opakovat scénu klidně i pro každého hráče.
 - **Zóny:** Používejte zóny pro komplexní scény.
@@ -120,7 +120,7 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 ## Ostatní bojové situace
 
-**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných ze specializací. Způsobené poškození je poloviční. Při útoku zbraní na dálku je navíc k zásahu připočten postih *-1*.
+**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných ze specializací, způsobené poškození je poloviční a při útoku zbraní na dálku je navíc k zásahu připočten postih *-1*.
 
 **Netrénované zbroje a štíty:** Poskytují jen poloviční bonus do OČ.
 
@@ -130,7 +130,12 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 **Bojové manévry:** Stvoření si může vybrat že se na místo útoku pokusí provést bojový manévr. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci. Bojové manévry ve většině případů působí jen symbolické *1 poškození*. Vyhodnocení manévrů záleží zcela na PJ. Může si však pomoc následujícím postupem. *Útočník a obránce* provedou *hod na zásah* včetně aplikovatelných modifikátorů. Pokud útočník *přehodí výsledek soupeře aspoň o 5*, úspěšně provede bojový manévr.
 
-**Shození na zem:** Je-li stvoření shozeno na zem, tak všechny útoky na blízku proti němu probíhají s výhodou. Pokud se shozené stvoření pokusí útočit střední nebo větší zbraní, tak jeho útoky probíhají s nevýhodou. Kdokoliv se může volně vyvázat ze vzájemného ohrožení se shozeným stvořením. *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem však platí i po zbytek kola, kdy se stvoření postaví zpět na nohy.
+**Shození na zem:** Je-li stvoření shozeno na zem platí následující pravidla:
+
+- Všechny útoky na blízku proti shozenému stvoření probíhají s výhodou. 
+- Pokud se shozené stvoření pokusí útočit střední nebo větší zbraní, tak jeho útoky probíhají s nevýhodou. 
+- Kdokoliv se může volně vyvázat ze vzájemného ohrožení se shozeným stvořením. 
+- *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem však platí i po zbytek kola, kdy se stvoření postaví zpět na nohy.
 
 **Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit si běžnou akci na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. 
 
