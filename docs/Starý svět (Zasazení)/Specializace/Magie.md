@@ -13,7 +13,7 @@
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
-| *2+1k4+Mod. Výdrže* |     *+0*     |     *16*      |
+| *2+1k6+Mod. Výdrže* |     *+0*     |     *15*      |
 
 **Trénovaná výzbroj:** Postava, která si vybrala magii jako svou výchozí specializaci. Je trénovaná v používání *1 libovolné zbraně* vlastního výběru.
 
@@ -21,7 +21,7 @@
 
 ## Primární odolnost
 
-Postava, jejichž nejčetnější specializace je magie. Získává bonus *+2* k záchranným hodům *proti magii*.
+Postava, jejichž nejčetnější specializace je magie. Získává bonus *+2* k záchranným hodům *proti magii* a *proti ovlivnění mysli*.
 
 ## Dosažení nové úrovně specializace
 

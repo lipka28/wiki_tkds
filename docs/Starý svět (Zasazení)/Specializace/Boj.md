@@ -13,9 +13,9 @@
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
-| *2+1k8+Mod. Výdrže* |     *+1*     |     *15*      |
+| *2+1k6+Mod. Výdrže* |     *+1*     |     *16*      |
 
-**Trénovaná výzbroj:** Postava, která si vybrala boj jako svou výchozí specializaci. Je trénovaná v používání *4 libovolných zbraní* vlastního výběru (nebo 3 zbraní a štítu). Také může používat *zbroje až středního typu*.
+**Trénovaná výzbroj:** Postava, která si vybrala boj jako svou výchozí specializaci. Je trénovaná v používání *3 libovolných zbraní* vlastního výběru (nebo 2 zbraní a štítu). Také může používat *zbroje až středního typu*.
 
 **Talentový bod:** Postava, která si vybrala boj jako svou výchozí specializaci. Začíná hru s 1 extra talentem ze seznamu níže (případně vlastním).
 
@@ -29,15 +29,15 @@ Zvýšením své specializace pro boj. Postava dosáhne na nové schopnosti a vy
 
 | Stupeň |       Životy       | Útok | Z. HOD |          Speciální           |
 | :----- | :----------------: | :--: | :----: | :--------------------------: |
-| 1      | +1k8 + Mod. Výdrže |  +1  |   -1   |        Extra výzbroj         |
+| 1      | +1k8 + Mod. Výdrže |  +1  |   -0   |        Extra výzbroj         |
 | 2      | +1k8 + Mod. Výdrže |  +1  |   -1   |        Extra výzbroj         |
-| 3      | +1k8 + Mod. Výdrže |  +1  |   -1   | Bojový talent, Extra výzbroj |
-| 4      | +1k8 + Mod. Výdrže |  +1  |   -1   |        Extra výzbroj         |
-| 5      | +1k8 + Mod. Výdrže |  +1  |   -1   |        Extra výzbroj         |
+| 3      | +1k8 + Mod. Výdrže |  +1  |   -0   | Bojový talent, Extra výzbroj |
+| 4      | +1k8 + Mod. Výdrže |  +1  |   -2   |        Extra výzbroj         |
+| 5      | +1k8 + Mod. Výdrže |  +1  |   -0   |        Extra výzbroj         |
 | 6      | +1k8 + Mod. Výdrže |  +1  |   -1   | Bojový talent, Extra výzbroj |
-| 7      | +1k8 + Mod. Výdrže |  +1  |   -1   |        Extra výzbroj         |
-| 8      | +1k8 + Mod. Výdrže |  +1  |   -1   |  Extra výzbroj, Extra útok   |
-| 9      | +1k8 + Mod. Výdrže |  +1  |   -1   | Bojový talent, Extra výzbroj |
+| 7      | +1k8 + Mod. Výdrže |  +1  |   -0   |        Extra výzbroj         |
+| 8      | +1k8 + Mod. Výdrže |  +1  |   -2   |  Extra výzbroj, Extra útok   |
+| 9      | +1k8 + Mod. Výdrže |  +1  |   -0   | Bojový talent, Extra výzbroj |
 | 10     | +1k8 + Mod. Výdrže |  +1  |   -1   |        Extra výzbroj         |
 
 ### Extra výzbroj

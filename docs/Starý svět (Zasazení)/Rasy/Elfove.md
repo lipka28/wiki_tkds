@@ -49,12 +49,12 @@ Na dobrodružství se často vydávají mladí elfové (100 let nebo méně), ab
 
 ## Speciální vlastnosti
 
-- **Původ z Fey** - Vílí původ umožňuje elfům dotykem poznat, zda je subjekt magický nebo ovládá magii.
+- **Původ z Fey** - Vílí původ umožňuje elfům vidět magické subjekty světélkovat na vzdálenost až *18 metrů*. Tato schopnost neumožňuje viděť skrz stěny nebo podobné překážky.
 - **Imunita vůči paralýze** - Elfové mají imunitu proti nemagické paralýze (včetně uspání).
 
 ## Výchozí specializace
 
-Výchozí specializací elfů je *magie*. Pokud si hráč přeje, může si k této specializaci přidat i *1 stupeň kterékoliv jiné specializace*. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
+Výchozí specializací elfů je vždy *magie*.
 
 <img src="/assets/sep_line.png"/>
 

@@ -50,9 +50,10 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 ## Speciální vlastnosti
 
 - **Přirozeně ambiciózní** - Lidé mají *kapacitu pro extra schopnosti nebo jazyky* vždy *o 1 vyšší* (minimálně +1). I když tomu míra jejich rozumu neodpovídá.
+- **Sklony k náboženství** - Člověk si může při tvorbě postavy vybrat *patrona* a získat tak *1 bod pomoci*. Patron a body pomoci fungují tak jak je popsáno ve [specializaci na víru](/Star%C3%BD%20sv%C4%9Bt%20%28Zasazen%C3%AD%29/Specializace/Vira/). Tato schopnost se nepočítá jako úroveň specializace na víru. Taktéž neumožňuje změnu patrona pokud si postava vybere, se na víru specializovat. Pokud si postava vybere víru, jako svou výchozí specializaci. Obdrží díky této schopnosti extra *1 bod pomoci*.
 
 ## Výchozí specializace
 
-Lidé si mohou vybrat jako výchozí specializaci *libovolnou specializaci* pro kterou splňují podmínky. Pokud si hráč přeje, může si k této specializaci přidat i *1 stupeň kterékoliv jiné specializace* pro kterou splňuje podmínky. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
+Lidé si mohou vybrat jako výchozí specializaci *libovolnou specializaci* pro kterou splňují podmínky.
 
 <img src="/assets/sep_line.png"/>

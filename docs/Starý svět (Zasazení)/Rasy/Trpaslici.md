@@ -52,12 +52,12 @@ Nejčastěji se dobrodruhy stávají mladí trpaslíci, kteří chtějí dosáhn
 
 - **Vidění ve tmě** - Trpaslíci vidí ve tmě na vzdálenost *12 metrů*. Více informací o této schopnosti [zde](/Pravidla%20a%20procedury/Adventures/#nebezpeci-a-nastrahy).
 - **Šestý smysl** - Trpaslíci dokáží přibližně odhadnout v jaké výšce, vůči mořské hladině, se nachází.
-- **Tuhý kořínek (Optional)** - Pokud se používá [mírnější pravidlo pro umírání](https://osr.tkds.cz/Pravidla a procedury/Adventures/#na-prahu-smrti-optional), tak trpaslíkova šance zemřít *na prahu smrti* je jen *2 z 6-ti*.
+- **Tuhý kořínek** - Při tvorbě postavy hážeš na životy *2+1k8+Mod. Výdrže* na místo běžných 2+1k6+Mod. Výdrže.
 - **Nižší těžiště** - Trpaslíci nemohou používat *obouruční meče* a *dalekonosné luky*. Navíc řemesla, která jsou omezena zbrojí provádíš vždy s postihem, jako by si na sobě měl střední zbroj.
 - **Klanové tetování** - Trpaslíci, kteří náleží k nějakému klanu, disponují klanovým tetováním.
 
 ## Výchozí specializace
 
-Výchozí specializací trpaslíků je *řemeslo*. Pokud si hráč přeje, může si k této specializaci přidat i *1 stupeň kterékoliv jiné specializace* pro kterou splňuje podmínky. Z této bonusové specializace však postava obdrží pouze bonusy popsané ve sloupci *"speciální"* v tabulce *"Dosažení nové úrovně specializace"*.
+Výchozí specializací trpaslíků je vždy *řemeslo*.
 
 <img src="/assets/sep_line.png"/>

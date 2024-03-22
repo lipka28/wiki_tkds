@@ -144,7 +144,7 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 **Coup de grâce:** Bezmocní nepřátelé. Jako například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
 
-**Přemožení:** Postava nebo monstrum si může u svého smrtícího útoku vybrat, zda chce svůj cíl zabít nebo jen zneškodnit. Zneškodněný cíl je poražen ale ne zabit. Jak se poražení projevuje je na domluvě mezi hráčem a PJ. 
+**Přemožení:** Postava nebo inteligentní monstrum si může u svého smrtícího útoku vybrat, zda chce svůj cíl zabít nebo jen zneškodnit. Zneškodněný cíl je poražen ale ne zabit. Jak se poražení projevuje je na domluvě mezi hráčem a PJ. 
 
 **Nestabilní povrchy:** Pokud postavy bojují na nestabilním povrchu, jako jsou lodě na rozbouřeném moři nebo třeba když letí na hřbetu jiného stvoření. Tak jsou ovlivněni následujícími omezeními:
 

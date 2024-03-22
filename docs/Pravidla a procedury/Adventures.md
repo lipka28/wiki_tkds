@@ -97,11 +97,14 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 ### Léčení
 
-**Přirozená regenerace:** Za každý den nerušeného odpočinku stvoření zregeneruje *1 život*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy. Přirozená regenerace je jedním z mála způsobů jak léčit životy ztracené kvůli únavě.
+**Přirozená regenerace:** Za každý den nerušeného odpočinku stvoření zregeneruje *2 život*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy. Přirozená regenerace je jedním z mála způsobů jak léčit životy ztracené kvůli únavě.
 
 **Magické léčení:** Léčit lze také pomocí lektvarů, nebo kouzel. Tato forma léčení je většinou instantní. Magické a přirozené léčení lze kombinovat.
 
 **Smrt:** Monstrum nebo hráč jehož životy jsou zredukovány na *0* nebo méně, je považováno za mrtvé.
+
+!!! example "Přemožení"
+    Postava nebo inteligentní monstrum si může u svého smrtícího útoku vybrat,     zda chce svůj cíl zabít nebo jen zneškodnit. Zneškodněný cíl je poražen ale ne zabit. Jak se poražení projevuje je na domluvě mezi hráčem a PJ. 
 
 **Zničení předmětů:** Pokud byla postava zabita destruktivním kouzlem nebo speciálním efektem (jako je úder blesku, dračí oheň a podobné), její výbava je považována za zničenou.
 
@@ -136,7 +139,7 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 **Světlo a překvapení:** Postavy nebo monstra, která mají sebou zdroj světla, nemůžou překvapit své nepřátele. Světlo totiž prozrazuje jejich přítomnost.
 
-**Pád z výšky:** Pád z výšky na tvrdý povrch působí *1k6* poškození za každé započaté 3 metry pádu. Pokud se jedná o vědomý pád (například seskočení z balkónu), poškození se nepočítá za první 3 metry.
+**Pád z výšky:** Pád z výšky na tvrdý povrch působí *1k6* poškození za každé započaté *3 metry pádu*. Pokud se jedná o vědomý pád (například seskočení z balkónu), poškození se nepočítá za první 3 metry.
 
 !!! note "Rychlost pádu"
     Pokud postava padá volným pádem, předpokládá se, že první kolo padá rychlostí *25 metrů za vteřinu* (250 metrů za kolo) a všechna následující kola rychlostí *50 metrů za vteřinu* (500 metrů za kolo).
