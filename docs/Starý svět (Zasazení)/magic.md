@@ -83,7 +83,7 @@ Grimoáry jsou speciální knihy, do kterých si kouzelníci zapisují svá kouz
 Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Efekt je většinou sesílán formou úderu nebo poklepáním žezlem. *Žezla mohou být použita a aktivována kýmkoliv, bez magického nadání*.
 
 - **Počet použití:** Žezlo má většinou při nálezu *1k10* použití.
-- **Aktivace předmětu:** Aktivace žezla stojí *běžnou akci*. Často je dokonce i součástí útoku.
+- **Aktivace předmětu:** Aktivace žezla stojí *běžnou akci*. V některých případech (například použití jako součást útoku) se na aktivaci nevztahují postihy za vzájemné ohrožení.
 - **Dobytí:** Nelze, ale PJ může udělat výjimku. 
 
 ### Magické hůlky
@@ -99,7 +99,7 @@ Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický 
 Více jak dvoumetrová magická hůl schopna vyvolávat hned několik různých magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami jejichž výchozí a zároveň nejčetnější specializací je magie*.
 
 - **Počet použití:** Magická hůl má většinou při nálezu *3k10* použití. 
-- **Aktivace předmětu:** Aktivace hole stojí většinou *běžnou akci*.
+- **Aktivace předmětu:** Aktivace hole stojí *běžnou akci* a nevztahují se na ni postihy za vzájemné ohrožení.
 - **Dobytí:** Nelze, ale PJ může udělat výjimku. 
 
 ### Zbraně a zbroje
