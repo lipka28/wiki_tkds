@@ -247,6 +247,7 @@ Magický výzkum je proces. Při kterém se postava zběhlá v magii pokusí pro
 Postava, která má přístup k řádné aparatuře může vyrobit 1 jednorázový magický předmět za den.
 
 - **Cena:** *50 st* za třídu magického efektu. Pokud se nejedná o výrobu podle receptu nebo kouzla, které výrobce zná je cena dvojnásobná.
+- **Mocná kouzla:** Nelze vyrobit jednorázové magické předměty napodobující kouzla vyšší jak 5. úrovně.
 
 #### Výzkum kouzel
 
@@ -264,7 +265,7 @@ Postava vyrobí nebo očaruje magický předmět nějakým dlouhotrvajícím efe
 
 #### Rituály a jiná magie
 
-Tato kategorie je mechanicky ve směs stejná jako výzkum kouzel. Výsledkem je však jednorázové provedení libovolného magického efektu na kterém se hráč a PJ domluví (efekt může být klidně vyšší třídy než postava umí seslat). Příprava rituálu trvá minimálně *1 den* a jeho provedení aspoň *1 hodin* (6 směn).
+Tato kategorie je mechanicky ve směs stejná jako výzkum kouzel. Výsledkem je však jednorázové provedení libovolného magického efektu na kterém se hráč a PJ domluví (efekt může být klidně vyšší třídy než postava umí seslat). Příprava rituálu trvá minimálně *1 den* za úroveň kouzla a jeho provedení *1 hodin* (6 směn).
 
 - **Cena:** *500 st* za třídu sesílaného efektu. Pokud se jedná o kouzlo vyšší jak 5. třídy je cena *5000 st*. Pokud se má jednat o permanentní efekt, je cena minimálně dvojnásobná.
 
