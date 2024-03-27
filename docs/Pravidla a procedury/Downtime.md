@@ -247,7 +247,7 @@ Magický výzkum je proces. Při kterém se postava zběhlá v magii pokusí pro
 Postava, která má přístup k řádné aparatuře může vyrobit 1 jednorázový magický předmět za den.
 
 - **Cena:** *50 st* za třídu magického efektu. Pokud se nejedná o výrobu podle receptu nebo kouzla, které výrobce zná je cena dvojnásobná.
-- **Mocná kouzla:** Nelze vyrobit jednorázové magické předměty napodobující kouzla vyšší jak 5. úrovně.
+- **Mocná kouzla:** Nelze vyrobit magické předměty napodobující kouzla vyšší jak 5. úrovně.
 
 #### Výzkum kouzel
 
@@ -260,14 +260,15 @@ Postava stráví 1 týden za třídu kouzla ponořená do zkoumání magie a nau
 Postava vyrobí nebo očaruje magický předmět nějakým dlouhotrvajícím efektem nebo opakovatelnou schopností sesílat určitý magický efekt. *Výroba trvá 1 týden za třídu použitého magického efektu*.
 
 - **Cena:** *500 st* za třídu magického efektu a extra 50 st / třída za extra použití. Cena je dvojnásobná pokud výrobce nezná kouzlo s podobným efektem.  Pokud se jedná o pasivní nebo nekonečně opakovatelný efekt tak je cena výsledného efektu určena podle *(třída efektu + 30 použití)\*4*.
+- **Mocná kouzla:** Nelze vyrobit magické předměty napodobující kouzla vyšší jak 5. úrovně.
 - **Velikost předmětu a počet použití:** Kolik použití se vejde do předmětu záleží na jeho velikosti. Do malých předmětů (*1 slot*) se vejde až *10 použití*, do středních předmětů (*2 sloty*) až *20 použití* a do *větších předmětů* až *30 použití*.
 - **Dobíjení:** Postava může dobít použití magických předmětů, které sama vyrobila za dvojnásobnou cenu přidání použití (*100 st / třída*).
 
 #### Rituály a jiná magie
 
-Tato kategorie je mechanicky ve směs stejná jako výzkum kouzel. Výsledkem je však jednorázové provedení libovolného magického efektu na kterém se hráč a PJ domluví (efekt může být klidně vyšší třídy než postava umí seslat). Příprava rituálu trvá minimálně *1 den* za úroveň kouzla a jeho provedení *1 hodin* (6 směn).
+Tato kategorie je mechanicky ve směs stejná jako výzkum kouzel. Výsledkem je však jednorázové provedení libovolného magického efektu na kterém se hráč a PJ domluví (efekt může být klidně vyšší třídy než postava umí seslat). Příprava rituálu trvá minimálně *1 den* za úroveň kouzla a jeho provedení *1 hodin* (6 směn). Může vyžadovat opatření vzácných komponent.
 
-- **Cena:** *500 st* za třídu sesílaného efektu. Pokud se jedná o kouzlo vyšší jak 5. třídy je cena *5000 st*. Pokud se má jednat o permanentní efekt, je cena minimálně dvojnásobná.
+- **Cena:** *500 st* za třídu sesílaného efektu. Pokud se jedná o kouzlo vyšší jak 5. třídy je cena automaticky *5000 st* a vyžaduje relevantní vzácnou komponentu. Pokud se má jednat o permanentní efekt, je cena minimálně dvojnásobná.
 
 <img src="/assets/sep_line.png"/>
 
