@@ -11,13 +11,13 @@
 
 ## Popis
 
-*Odkud se vzali lidé nikdo přesně neví. Lidé na světě existovali již před záchranou světa a existují nadále i po ní. Spousta lidí věří, že jako všechno živé, je stvořila Všematka. Elfové však vědí, že to není možné. Neferité, kterou lidé označují jako Všematku, se totiž stala povznesenou až po událostech spojených se záchranou světa.*
+*Odkud se vzali lidé nikdo přesně neví. Lidé na světě existovali již před záchranou světa a existují nadále i po ní. Spousta lidí věří, že, jako všechno živé, je stvořila Všematka. Elfové však vědí, že to není možné. Neferité, kterou lidé označují jako Všematku, se totiž stala povznesenou až po událostech spojených se záchranou světa.*
 
-*Tělesné charakteristiky lidí jsou stejně rozmanité jako podnebí ve kterých se mohou nacházet. Lidé mají širokou škálu barev pleti a vlasů, typů těla a obličejových rysů. Obecně však platí, že jejich kůže má tím tmavší odstín, čím blíže k rovníku žili oni nebo jejich předkové. Lidé dosahují fyzické dospělosti kolem 15. roku života, duševní dospělosti však dosahují o několik let později. Průměrný člověk se může dožít v kolem 70 let.*
+*Tělesné charakteristiky lidí jsou stejně rozmanité jako podnebí ve kterých se mohou nacházet. Lidé mají širokou škálu barev pleti a vlasů, typů těla a obličejových rysů. Obecně však platí, že jejich kůže má tím tmavší odstín, čím blíže k rovníku žili oni nebo jejich předkové. Lidé dosahují fyzické dospělosti kolem 15. roku života, duševní dospělosti však dosahují o několik let později. Průměrný člověk se může dožít kolem 70 let.*
 
-*Rozmanitost lidí se projevuje také v jejich postojích a společenských poměrů. Lidé často tvoří rodiny, cechy a různé politické struktury, které udávají řád a smysl jejich existenci. Rodina je však většinou tou nejcennější strukturou, kterou může být člověk součástí. Ačkoli nejstarší lidské uskupení mohou vystopovat svou historii i tisíce let do minulosti, ve srovnání se společnostmi elfů nebo trpaslíků se lidské civilizace zdají být ve stavu neustálého přelivu. Říše se rozpadají a nová království pohlcují ta stará.*
+*Rozmanitost lidí se projevuje také v jejich postojích a společenských poměrech. Lidé často tvoří rodiny, cechy a různé politické struktury, které udávají řád a smysl jejich existenci. Rodina je však většinou tou nejcennější strukturou, kterou může být člověk součástí. Ačkoli nejstarší lidská uskupení mohou vystopovat svou historii i tisíce let do minulosti, ve srovnání se společnostmi elfů nebo trpaslíků se lidské civilizace zdají být ve stavu neustálého přelivu. Říše se rozpadají a nová království pohlcují ta stará.*
 
-*I přes své časté mocenské ambice. Lidé hluboko uvnitř touží, aby jim někdo vládl a říkal co mají dělat, a tím z nich shodil tíhu následků vlastních rozhodnutí. To dělá lidi extrémně náchylné k uctívání vyšších bytostí. A to i klidně ty nejvíce obskurní bohy nebo podivná stvoření.*
+*I přes své časté mocenské ambice, lidé hluboko uvnitř touží, aby jim někdo vládl a říkal co mají dělat, a tím z nich shodil tíhu následků vlastních rozhodnutí. To dělá lidi extrémně náchylné k uctívání vyšších bytostí. A to i klidně ty nejvíce obskurní bohy nebo podivná stvoření.*
 
 **Lidská jména:** Lidská jména se velmi liší napříč místy původu a etnicitou s jaké daný člověk pochází. A na rozdíl od ostatních ras lidé nemají pevnou strukturu jmen. Každý člověk má také své rodné příjmení z nichž některá, mohou být považována za významná v lidském společenství.
 
@@ -32,16 +32,16 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 !!! note "Inspirace"
     Tyto rysy a názory nereprezentují každého člověka. Následující seznam funguje spíše jako taková inspirace pro tvorbu postavy nebo nehráčské postavy. 
 
-- Přizpůsobivost a extrémní kreativita při řešení problémů.
-- Snaha dosáhnout slávy a bohatství, klidně i na úkor ostatních.
-- Hledání smyslu života a bytí.
-- Udržení dobrých vztahů s blízkými přáteli a rodinou. 
+- Přizpůsobivost a extrémní kreativita při řešení problémů
+- Snaha dosáhnout slávy a bohatství, klidně i na úkor ostatních
+- Hledání smyslu života a bytí
+- Udržení dobrých vztahů s blízkými přáteli a rodinou
 - Touha po moci
 - Nepředvídatelnost
 
 ## Vlastnosti
 
-**Vrozené jazyky:** Jazyk společenství + (Případný další jazyk pokud pochází z území mimo "známého" světa)
+**Vrozené jazyky:** Jazyk společenství + (Případný další jazyk, pokud pochází z území mimo "známého" světa)
 
 **Hybnost:** 12 metrů
 
@@ -50,10 +50,10 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 ## Speciální vlastnosti
 
 - **Přirozeně ambiciózní** - Lidé mají *kapacitu pro extra schopnosti nebo jazyky* vždy *o 1 vyšší* (minimálně +1). I když tomu míra jejich rozumu neodpovídá.
-- **Sklony k náboženství** - Člověk si může při tvorbě postavy vybrat *patrona* a získat tak *1 bod pomoci*. Patron a body pomoci fungují tak jak je popsáno ve [specializaci na víru](/Star%C3%BD%20sv%C4%9Bt%20%28Zasazen%C3%AD%29/Specializace/Vira/). Tato schopnost se nepočítá jako úroveň specializace na víru. Taktéž neumožňuje změnu patrona pokud si postava vybere, se na víru specializovat. Pokud si postava vybere víru, jako svou výchozí specializaci. Obdrží díky této schopnosti extra *1 bod pomoci*.
+- **Sklony k náboženství** - Člověk si může při tvorbě postavy vybrat *patrona* a získat tak *1 bod pomoci*. Patron a body pomoci fungují tak, jak je popsáno ve [specializaci na víru](/Star%C3%BD%20sv%C4%9Bt%20%28Zasazen%C3%AD%29/Specializace/Vira/). Tato schopnost se nepočítá jako úroveň specializace na víru. Taktéž neumožňuje změnu patrona, pokud si postava vybere se na víru specializovat. Pokud si postava vybere víru, jako svou výchozí specializaci, obdrží díky této schopnosti extra *1 bod pomoci*.
 
 ## Výchozí specializace
 
-Lidé si mohou vybrat jako výchozí specializaci *libovolnou specializaci* pro kterou splňují podmínky.
+Lidé si mohou vybrat jako výchozí specializaci *libovolnou specializaci*, pro kterou splňují podmínky.
 
 <img src="/assets/sep_line.png"/>

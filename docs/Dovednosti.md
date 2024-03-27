@@ -6,11 +6,11 @@
 
 <img src="/assets/sep_line.png"/>
 
-Dovednostní body určují zda má hráčova postava nějaké bonusy či penalizace při vykonávání různých akcí ve hře.  Co jaké dovednosti ovlivňují je popsáno níže.
+Dovednostní body určují, zda má hráčova postava nějaké bonusy či penalizace při vykonávání různých akcí ve hře.  Co jaké dovednosti ovlivňují, je popsáno níže.
 
 ## Síla
 
-Svaly a fyzická síla. Hlavní využití síly je v boji a při nošení těžkých břemen. Síla poskytuje modifikátor k útoku a poškození zbraněmi na blízku a také modifikuje tvou nosnost. Připočítává se také k záchranným hodům proti síle.
+Svaly a fyzická síla. Hlavní využití síly je v boji a při nošení těžkých břemen. Síla poskytuje modifikátor k útoku a poškození zbraněmi nablízku a také modifikuje tvou nosnost. Připočítává se také k záchranným hodům proti síle.
 
 |  Síla   | Modifikátor |
 | :-----: | :---------: |
@@ -52,7 +52,7 @@ Výdrž představuje zdraví, odolnost a vytrvalost. Modifikátor výdrže ovliv
 
 ## Rozum
 
-Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnost hráčovi postavy a kolik extra schopností mimo specializaci se může postava pokusit naučit. Modifikátor rozumu se také připočítává k záchranným hodům proti magii.
+Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnost hráčovy postavy a kolik extra schopností mimo specializaci se může postava pokusit naučit. Modifikátor rozumu se také připočítává k záchranným hodům proti magii.
 
 |  Rozum  | Modifikátor | Gramotnost |          Kapacita pro extra schopnosti nebo jazyky           |
 | :-----: | :---------: | :--------: | :----------------------------------------------------------: |
@@ -64,7 +64,7 @@ Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnos
 | 16 - 17 |     +2      |  Gramotný  |                          Rozené +3                           |
 |   18    |     +3      |  Gramotný  |                          Rozené +4                           |
 
-*\*Postava se zvládne alespoň podepsat, zvládá jednoduchou matematiku, rozpoznává znaky ale není schopna porozumět souvislému textu.*
+*\*Postava se zvládne alespoň podepsat, zvládá jednoduchou matematiku, rozpoznává znaky, ale není schopna porozumět souvislému textu.*
 
 ## Osobnost
 
