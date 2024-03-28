@@ -12,6 +12,9 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 Jdi dovednost po dovednosti, v pořadí *Síla*, *Zručnost*, *Výdrž*, *Rozum* a *Osobnost*. Na každou dovednost si hoď *3k6* a výsledek si zaznač. Pokud chceš, můžeš *1x* prohodit hodnoty dvou libovolných dovedností. Připiš si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.md)) a nakonec si poznač gramotnost danou tvým rozumem.
 
+!!! note "Špatné postavy"
+    Pokud má naházená postava každou statistiku hodnoty 8 nebo méně, a nebo má více jak 2 statistiky s hodnotou 6-či méně. Hráč může hodnoty zahodit a naházet nové.
+
 ## 2. Vyber si rasu a specializaci a zapiš si speciální schopnosti
 
 Vyber si jednu z ras, pro kterou splňuješ podmínky, a zaznač si její název do svého deníku postavy. Zaznač si také výchozí specializaci jak popsáno v detailech rasy. Pak si poznamenej všechny zvláštní schopnosti, které tvá postava získala tímto výběrem. Hoď si na životy a zaznač si bonus k útoku a záchranný hod. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na jazyky a hybnost dané tvou rasou.
