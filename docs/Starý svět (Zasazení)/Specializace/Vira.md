@@ -12,7 +12,7 @@
     Žádné
 
 !!! warning "Náchylnost na magii povznesených"
-    Postavy specializované na víru. Jsou náchylné vůči magii všech povznesených. Tato náchylnost se projevuje postihem *ve výši úrvoně specializace na víru* do záchranných hodů *proti magii povznesených*. Je-li víra primární specializací postavy, tak jsou tyto záchranné hody navíc házeny s *nevýhodou*.
+    Postavy specializované na víru. Jsou náchylné vůči magii všech povznesených. Tato náchylnost se projevuje postihem *ve výši úrovně specializace na víru* do záchranných hodů *proti magii povznesených*. Je-li víra primární specializací postavy, tak jsou tyto záchranné hody navíc házeny s *nevýhodou*.
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
@@ -36,16 +36,16 @@ Zvýšením své specializace na víru. Postava dosáhne na nové schopnosti a v
 
 | Stupeň |       Životy       | Útok | Z. HOD |         Speciální         |
 | :----- | :----------------: | :--: | :----: | :-----------------------: |
-| 1      | +1k4 + Mod. Výdrže |  +0  |   -0   |     Patron, +1 Pomoc      |
-| 2      | +1k4 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
-| 3      | +1k4 + Mod. Výdrže |  +0  |   -0   | +1 Pomoc, Pomoc spojenci  |
-| 4      | +1k4 + Mod. Výdrže |  +2  |   -2   |         +1 Pomoc          |
-| 5      | +1k4 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
-| 6      | +1k4 + Mod. Výdrže |  +0  |   -1   | +1 Pomoc, Uškoď nepříteli |
-| 7      | +1k4 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
-| 8      | +1k4 + Mod. Výdrže |  +2  |   -2   |  +1 Pomoc, Pomoc patrona  |
-| 9      | +1k4 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
-| 10     | +1k4 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
+| 1      | +1k6 + Mod. Výdrže |  +0  |   -0   |     Patron, +1 Pomoc      |
+| 2      | +1k6 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
+| 3      | +1k6 + Mod. Výdrže |  +0  |   -0   | +1 Pomoc, Pomoc spojenci  |
+| 4      | +1k6 + Mod. Výdrže |  +2  |   -2   |         +1 Pomoc          |
+| 5      | +1k6 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
+| 6      | +1k6 + Mod. Výdrže |  +0  |   -1   | +1 Pomoc, Uškoď nepříteli |
+| 7      | +1k6 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
+| 8      | +1k6 + Mod. Výdrže |  +2  |   -2   |  +1 Pomoc, Pomoc patrona  |
+| 9      | +1k6 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
+| 10     | +1k6 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
 
 ### Patron
 
