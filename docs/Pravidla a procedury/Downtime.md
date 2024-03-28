@@ -266,7 +266,7 @@ Postava vyrobí nebo očaruje magický předmět nějakým dlouhotrvajícím efe
 
 #### Rituály a jiná magie
 
-Tato kategorie je mechanicky ve směs stejná jako výzkum kouzel. Výsledkem je však jednorázové provedení libovolného magického efektu na kterém se hráč a PJ domluví (efekt může být klidně vyšší třídy než postava umí seslat). Příprava rituálu trvá minimálně *1 den* za úroveň kouzla a jeho provedení *1 hodin* (6 směn). Může vyžadovat opatření vzácných komponent.
+Tato kategorie je mechanicky ve směs stejná jako výzkum kouzel. Výsledkem je však jednorázové provedení libovolného magického efektu na kterém se hráč a PJ domluví (efekt může být klidně vyšší třídy než postava umí seslat). Příprava rituálu trvá minimálně *1 den* za třídu kouzla a jeho provedení *1 hodin* (6 směn). Může vyžadovat opatření vzácných komponent.
 
 - **Cena:** *500 st* za třídu sesílaného efektu. Pokud se jedná o kouzlo vyšší jak 5. třídy je cena automaticky *5000 st* a vyžaduje relevantní vzácnou komponentu. Pokud se má jednat o permanentní efekt, je cena minimálně dvojnásobná.
 
