@@ -12,7 +12,7 @@
     Žádné
 
 !!! warning "Náchylnost na magii povznesených"
-    Postavy specializované na víru. Jsou náchylné vůči magii všech povznesených. Tato náchylnost se projevuje postihem *ve výši úrovně specializace na víru* do záchranných hodů *proti magii povznesených*. Je-li víra primární specializací postavy, tak jsou tyto záchranné hody navíc házeny s *nevýhodou*.
+    Postavy specializované na víru. Jsou náchylné vůči magii všech povznesených. Tato náchylnost se projevuje postihem *ve výši úrovně specializace na víru* do záchranných hodů *proti magii povznesených*. Je-li víra primární nebo výchozí specializací postavy, tak jsou tyto záchranné hody navíc házeny s *nevýhodou*.
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
