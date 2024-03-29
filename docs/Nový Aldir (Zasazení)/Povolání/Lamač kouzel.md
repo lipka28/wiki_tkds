@@ -46,7 +46,7 @@
 
 Lamači kouzel, během svého výcviku, projdou i pár alchymistickými modifikacemi. První modifikací je alchymisticky upravené levé oko, které jim umožňuje vidět magii a aplikovat některé své schopnosti. Druhou pak magická tetování, pokrývající celé tělo, která jim poskytují ochranu před magií.
 
-- *Vševidoucí oko* - Magická stvoření a předměty do 25-ti metrů (Poblíž)  vidíš lehce světélkovat. Soustředěním se po dobu 1 směny dokážeš rozpoznat přítomnost magie starou až 7 dní a můžeš se pokusit o ověření rozumu na zjištění o jaký druh magie se jedná. 
+- *Vševidoucí oko* - Magická stvoření a předměty v okolí *30-ti metrů* vidíš lehce světélkovat. Soustředěním se po dobu 1 směny dokážeš rozpoznat přítomnost magie starou až 7 dní a můžeš se pokusit o ověření rozumu na zjištění o jaký druh magie se jedná. 
 - *Ochranná tetování* - Všechny kouzla mají na tebe poloviční účinek. Ty u kterých není kvantitativní hodnota, která by se dala zredukovat na polovinu. Získá lamač kouzel výhod na záchranný hod.
 
 !!! Note "Příklady půlení"

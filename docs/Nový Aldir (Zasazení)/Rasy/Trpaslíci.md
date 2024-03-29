@@ -6,7 +6,7 @@
 
 **Vrozené jazyky:** Obecná řeč + Trpasličtina 
 
-**Hybnost:** 5 metrů 
+**Hybnost:** 9 metrů 
 
 **Doba života:** 200 - 250 let
 
@@ -16,7 +16,7 @@
 
 **Speciální vlastnosti:**
 
-- *Termovize* - Trpaslíci disponují termovizí na vzdálenost až 12 metrů. 
+- *Vidění ve tmě* - Trpaslíci vidí ve tmě na vzdálenost *12 metrů*. Více informací o této schopnosti [zde](https://osr.tkds.cz/Pravidla a procedury/Adventures/#nebezpeci-a-nastrahy).
 - *Houževnatost* - Trpaslíci mají bonus +1 k životům za každou dosaženou úroveň a bonus +2 k záchranným hodům proti otravě.
 
 ---

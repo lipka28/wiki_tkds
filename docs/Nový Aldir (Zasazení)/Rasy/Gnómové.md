@@ -6,7 +6,7 @@
 
 **Vrozené jazyky:** Obecná řeč + Trpasličtina + Gnómština 
 
-**Hybnost:** 5 metrů 
+**Hybnost:** 9 metrů 
 
 **Doba života:** 100 - 130 let
 
@@ -17,7 +17,7 @@
 **Speciální vlastnosti:**
 
 - *Přirozená odolnost vůči magii* - Gnómové mají bonus +2 k záchranným hodům proti magii.
-- *Malý* - Gnóm se lehce protáhne úzkými otvory a navíc je gnóma těžší zasáhnout, vzhledem k jeho velikosti automaticky získává bonus +2 do OČ, pokud na sobě nemá těžkou zbroj nebo těžší. Vzhledem k používání menších zbraní jsou gnómské fyzické útoky o 1 bod poškození slabší.
+- *Malý* - Gnóm se lehce protáhne úzkými otvory a navíc je gnóma těžší zasáhnout, vzhledem k jeho velikosti automaticky získává bonus +2 do OČ, pokud na sobě nemá těžkou zbroj. Vzhledem k používání menších zbraní jsou gnómské fyzické útoky o 1 bod poškození slabší.
 
 ---
 

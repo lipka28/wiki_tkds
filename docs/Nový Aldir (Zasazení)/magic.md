@@ -6,21 +6,11 @@ I navzdory tomu, že v Aldiru bylo kolem roku 530 AE, po velkém kolapsu magick�
 
 ## Magický výzkum
 
-Většina povolání ovládajících magii se také mohou ponořit do výzkumu nových kouzel, rituálů, magických předmětů a ostatních věcí které souvisí s magií. Takový výzkum vyžaduje čas, peníze a někdy dokonce i neobvyklé ingredience a jeho výsledek rozhodně není garantovaný. 
-
-**Objevování nových kouzel a magických předmětů:** Hráč popíše PJ jaké kouzlo či předmět by chtěl vytvořit. PJ rozhodne zda je to možné a jaké materiály a obnos peněz bude na něj potřeba.  
-
-- *Cena a čas* - Cena se může pohybovat od 500 stříbrných a jednoho týdne za drobné kouzelné efekty až po několik stovek tisíc stříbrných a 1 rok pro předměty a kouzla s trvalejším či rozsáhlejším efektem. 
-- *Ostatní* - Do magického výzkumu však spadají i jiné věci než předměty a kouzla. Věci jako vysvěcení místa, seslání trvalého ochranného kouzla, vytvoření magického konstruktu a další.
-
-**Šance na selhání výzkumu:** Ve všech případech má magický výzkum *35 - modifikátor rozumu x 5 %* šanci na selhání.
-
-!!! note "Selhání větších investic"
-    U větších investic se neúspěch projevuje spíše vadou na finálním produktu.
+Většina povolání ovládajících magii se také mohou ponořit do výzkumu nových kouzel, rituálů, magických předmětů a ostatních věcí které souvisí s magií. Takový výzkum vyžaduje čas, peníze a někdy dokonce i neobvyklé ingredience a jeho výsledek rozhodně není garantovaný.
 
 ### Používání svitků
 
-Každé gramotné inteligentní stvoření se může pokusit seslat kouzlo ze svitku podstoupením ověření rozumu s *obtížností 15*. Neúspěšné ověření znamená zničení svitku a spektakulární selhání kouzla.
+Každé gramotné inteligentní stvoření se může pokusit seslat kouzlo ze svitku podstoupením ověření rozumu s *HU 5*. Neúspěšné ověření znamená zničení svitku a spektakulární selhání kouzla.
 
 **Znalost používání svitků:** Postavy, které mají schopnost používat svitky (například z povolání). Mohou používat svitky bez nutnosti ověření.
 
@@ -93,8 +83,8 @@ Kouzla z tohohle seznamu, jsou dostupná všem povoláními užívající magii.
 Následuje podrobný popis efektů dříve zmíněných kouzel. Pokud není specifikováno jinak platí tato pravidla a vysvětlivky: 
 
 - *L* - Je proměnná představující úroveň sesilatele.  
-- *Sesílání* - Sesílání kouzla trvá 1 akci.
-- *Dosah* - Dosah kouzla je *daleko* (až 50 metrů) 
+- *Sesílání* - Sesílání kouzla trvá *1 běžnou akci*.
+- *Dosah* - Dosah kouzla je *60 metrů*
 - *Trvání* - Pokud má kouzlo delší efekt, tak jeho délka je *L* směn. 
 - *Prodloužení kouzla* Probíhající kouzlo můžeš kdykoliv prodloužit za cenu sesílání bez nutnosti opakování kouzla. 
 - *Odvolání* - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal. (pokud nebylo odraženo) 
@@ -122,7 +112,7 @@ U *L* stvoření v dosahu se vyvine nepřekonatelná touha po tebou specifikovan
 
 ### Čtení myšlenek
 
-Sesilatel může slyšet povrchové myšlenky všech blízkých stvoření (do 5-ti metrů).
+Sesilatel může slyšet povrchové myšlenky všech stvoření v okruhu 6-ti metrů.
 
 ---
 
@@ -148,7 +138,7 @@ U *L* stvoření v dosahu se vyvine strach z tebou specifikovaného subjektu.
 
 ### Hypnóza
 
-Jedno blízké (do 5-ti metrů) stvoření upadne do transu a odpoví *L* otázek typu Ano/ne.
+Jedno stvoření, vzdálené maximálně 3 metry upadne do transu a odpoví *L* otázek typu Ano/ne.
 
 ---
 
@@ -160,9 +150,9 @@ Tvé tělo se promění v živý kouř.
 
 ### Kouzlo smrti
 
-Okamžitě zabije 1 stvoření poblíž sesilatele (do 25-ti metrů). 
+Okamžitě zabije *1* stvoření do zválenosti *30 metrů*. 
 
-- *Cena* - Pokud zabití uspěje, ztrácí sesilatel permanentně 3 body výdrže. Pokud výdrž jedince klesne vyčarováním tohoto kouzla pod 3, tak ihned umírá a jeho tělo se rozpadne na prach.
+- *Cena* - Pokud zabití uspěje, ztrácí sesilatel permanentně *3 body výdrže*. Pokud výdrž jedince klesne vyčarováním tohoto kouzla pod 3, tak ihned umírá a jeho tělo se rozpadne na prach.
 
 ---
 
@@ -239,7 +229,7 @@ U *L* stvoření v dosahu se rozvine nenávist a touha po zničení jiného stvo
 
 ### Oblak mlhy
 
-Ze sesilatele začne vycházet hustá mlha, která vyplní oblast poblíž (do 25-ti metrů). V mlze je velmi špatná viditelnost.
+Ze sesilatele začne vycházet hustá mlha, která vyplní oblast 30 metrů kolem sesilatele. V mlze je velmi špatná viditelnost.
 
 ---
 
@@ -259,7 +249,7 @@ Subjekt libovolné velikosti je od tebe odstrkován silou *L* mužů podobu 1 ko
 
 ### Ohnivá exploze
 
-Z prstu ti vyšlehne klikatící se záblesk, který dopadne na určené místo v dosahu. V místě dopadu pak vznikne exploze, která zasáhne všechno v blízkém okolí (do 5-ti metrů) působící *Lk6* ohnivého poškození.
+Z prstu ti vyšlehne klikatící se záblesk, který dopadne na určené místo v dosahu. V místě dopadu pak vznikne exploze, která zasáhne všechno v okolí *6 metrů* působící *Lk6* ohnivého poškození.
 
 ---
 
@@ -271,7 +261,7 @@ Z prstu ti vyšlehne klikatící se záblesk, který dopadne na určené místo 
 
 ### Ovládni rostliny
 
-Rostliny a stromy poblíž (do 25-ti metrů) se řídí tvými pokyny jak nejlépe dovedou. 
+Rostliny a stromy v okolí do 30-ti metrů se řídí tvými pokyny jak nejlépe dovedou. 
 
 - *Pohyb* - Maximální rychlost pohybu pro rostliny a stromy je 1 metr za kolo.
 
@@ -327,13 +317,13 @@ Prohodíš si tělo se stvořením, kterého se dotýkáš. Alternativně může
 
 ### Pronikavý zrak
 
-Dokážeš prohlédnout všechny iluze poblíž (do 25-ti metrů)
+Dokážeš prohlédnout všechny iluze v okolí 30-ti metrů
 
 ---
 
 ### Rozkaz
 
-*L* stvoření poblíž (do 25-ti metrů) uposlechne jednoduchý rozkaz, který jim neublíží, o maximální délce 3 slova.
+*L* stvoření v okolí 30-ti metrů uposlechne jednoduchý rozkaz, který jim neublíží, o maximální délce 3 slova.
 
 ---
 
@@ -411,7 +401,7 @@ Subjekt zmizí a znovu se objeví na volném viditelném místě ve vzdálenosti
 
 ### Ticho
 
-Vytvoří bod ticha na tebou zvoleném místě v dosahu. Všechno co se nachází v oblasti blízko (do 5-ti metrů) tomuto bodu, nemůže vytvořit žádný zvuk. 
+Vytvoří bod ticha na tebou zvoleném místě v dosahu. Všechno co se nachází v oblasti do 6-ti metrů kolem tohoto bodu, nemůže vytvořit žádný zvuk. 
 
 - *Záchranný hod* - Kouzlo působí bez možnosti na záchranu. 
 - *Čarování* - Jelikož v oblasti se nedá mluvit, tak sesílání většiny kouzel je nemožné.
@@ -420,7 +410,7 @@ Vytvoří bod ticha na tebou zvoleném místě v dosahu. Všechno co se nacház�
 
 ### Tvaruj materiál
 
-Jakýkoliv blízký (do 5-ti metrů) materiál můžeš tvarovat svou myslí jako by byl z modelíny. 
+Jakýkoliv materiál v okolí 6 metrů můžeš tvarovat svou myslí jako by byl z modelíny. 
 
 - *Změna* - je jednorázový proces trvající max 1 kolo. Jeho výsledek je však permanentní.
 
@@ -487,7 +477,7 @@ Zpomalí rychlost pádu *L* subjektů v dosahu na 1 meter za sekundu (6 metrů z
 
 ### Zrcadlový obraz
 
-Blízko tebe (do 5-ti metrů) se zjeví *L* iluzí pod tvou kontrolou vypadající stejně jako ty. 
+V okolí 6 metrů kolem tebe se zjeví *L* iluzí pod tvou kontrolou a vypadající stejně jako ty. 
 
 - *Záměna* - Při seslání tohoto kouzla si můžeš s kteroukoliv z těchto iluzí vyměnit pozice.
 

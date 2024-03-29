@@ -32,11 +32,13 @@
 
 Pokud tulák útočí malou nebo střední zbraní na někoho zezadu, někoho kdo je překvapen nebo neví o tulákovi přítomnosti, útočí s výhodou.
 
-- *Dobrá příležitost* - Pokud tulák útočí s výhodou tak udělí dvojnásobné poškození. Pokud je to navíc útok na blízko a malou zbraní, tak útok působí čtyřnásobné poškození. 
+- *Dobrá příležitost* - Pokud tulák útočí s výhodou tak jeho útok udělí *12 poškození + Modifikátro síly*.
 
-### Úroveň 1 - Tulácký um ==Překopat==
+### Úroveň 1 - Tulácký um
 
-Tulák má bonus ve výši své úrovně, ke všem ověření dovedností týkající se aktivit, ve kterých by měl logicky tulák vynikat.
+Tulák má bonus +1, ke všem ověření dovedností a schopností týkající se aktivit, ve kterých by měl logicky tulák vynikat.
+
+- *Vylepšení* - Na 5. úrovni se bonus zvedne na +2 a na 10. na +3. 
 
 !!! Note "Příklady tuláckých aktivit"
     Tulák by měl získat bonus minimálně v následujících aktivitách: Šplhání po rovných površích, Plížení se, Vybírání kapes, Odemykání zámků, Lhaní, Zachycení se při pádech z výšky, Manipulace s mechanickými zařízeními... Pj může povolit další využití.

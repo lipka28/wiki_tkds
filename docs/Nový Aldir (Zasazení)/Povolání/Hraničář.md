@@ -26,12 +26,12 @@
 
 **Trénovaná brnění:** Lehké a střední zbroje.
 
-### Úroveň 1 - Hraničářský um ==Upravit proti novému jádru==
+### Úroveň 1 - Hraničářský um
 
-Hraničář má bonus ve výši své úrovně, ke všem ověření dovedností týkající se aktivit, ve kterých by měl logicky hraničář vynikat.
+Hraničář má bonus +1, ke všem ověření dovedností a schopností týkající se aktivit, ve kterých by měl logicky hraničář vynikat.
 
 - *Přenocování* - Hraničář také poskytuje bonus *+1* k jedné z příprav na přenocování.
-- *Jiné průzkumné aktivity* - Stejný bonus (+1) lze také přidat k dalším průzkumným aktivitám jako popsáno v [Cestování po světě / Ostatní aktivity](/rules/#cestovani-po-svete) 
+- *Vylepšení* - Na 5. úrovni se bonus zvedne na +2 a na 10. na +3. 
 
 !!! Note "Příklady hraničářských aktivit"
     Hraničář by měl získat bonus minimálně v následujících aktivitách: Šplhání, Plížení se, Stopování, Zpracování zvířecího materiálu, Identifikace nemagických monster, Příprava pastí, Zachycení se při pádech z výšky, Komunikace a manipulace se zvířaty... Pj může povolit další využití.

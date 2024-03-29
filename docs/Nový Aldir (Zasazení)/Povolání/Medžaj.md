@@ -37,7 +37,7 @@ Disponuješ schopností používat magii. To znamená, že umíš aktivovat magi
 
 ### Úroveň 1 - Vyciť magii
 
-Máš schopnost vycítit magii do vzdálenosti až *25 metrů* (Poblíž). Můžeš dokonce i částečně rozpoznat o jaký typ magie se jedná. Pokud dané kouzlo ovládáš dokážeš ho i přesně identifikovat.
+Máš schopnost vycítit magii do vzdálenosti až *30 metrů*. Můžeš dokonce i částečně rozpoznat o jaký typ magie se jedná. Pokud dané kouzlo ovládáš dokážeš ho i přesně identifikovat.
 
 ### Úroveň 1 - Magická střela
 

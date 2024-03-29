@@ -6,7 +6,7 @@
 
 **Vrozené jazyky:** Obecná řeč + 1 jazyk vlastního výběru. (Všechny jazyky) 
 
-**Hybnost:** 6 metrů 
+**Hybnost:** 12 metrů 
 
 **Doba života:** 120 - 150 let
 

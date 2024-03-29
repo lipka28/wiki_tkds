@@ -6,7 +6,7 @@
 
 **Vrozené jazyky:** Obecná řeč + Pulčický hantec 
 
-**Hybnost:** 5 metrů 
+**Hybnost:** 9 metrů 
 
 **Doba života:** 40 - 60 let
 
@@ -16,7 +16,7 @@
 
 **Speciální vlastnosti:** 
 
-- *Pulčíkovo štěstí* - Pulčík disponuje jedním bodem štěstím, které umožňuje pulíčkovi 1x denně přehodit některý svůj hod K20. 
+- *Pulčíkovo štěstí* - Pulčík disponuje jedním bodem štěstím, které umožňuje pulíčkovi 1x denně přehodit některý svůj hod na zásah, poškození, léčení, záchranný hod, dovednost či schopnost a vzít si nový výsledek. 
 - *Malý* - Pulčík se lehce protáhne úzkými otvory a navíc je pulčíka těžší zasáhnout, takže automaticky získává bonus +2 do OČ pokud na sobě nemá těžkou zbroj. Vzhledem k používání menších zbraní jsou pulčíkovy fyzické útoky o 1 bod poškození slabší.
 
 ---

@@ -6,7 +6,7 @@
 
 **Vrozené jazyky:** Obecná řeč 
 
-**Hybnost:** 6 metrů 
+**Hybnost:** 12 metrů 
 
 **Doba života:** 50 - 70 let
 

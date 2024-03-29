@@ -37,21 +37,22 @@ Minstrel je vždy dobrou společností při toulkách po světě. Pokud skupina 
 !!! warning "Únava"
     Tento efekt nemá žádný dopad na únavu.
 
-### Úroveň 1: Talentovaný potížista ==Překopat==
+### Úroveň 1: Talentovaný potížista
 
-Minstrel má bonus ve výši své úrovně, ke všem ověření dovedností týkající se aktivit, ve kterých by měl logicky minstrel vynikat.
+Minstrel má bonus +1, ke všem ověření dovedností a schopností týkající se aktivit, ve kterých by měl logicky minstrel vynikat.
 
 - *Svitky* - Minstrelovo lingvistické nadání mu také umožňuje sesílat kouzla z magických svitků.
+- *Vylepšení* - Na 5. úrovni se bonus zvedne na +2 a na 10. na +3. 
 
 !!! Note "Příklady minstrelských aktivit"
     Minstrel by měl získat bonus minimálně v následujících aktivitách: Plížení se, Vybírání kapes, Vystupování před lidmi, Impersonace, Lhaní, Různé kejklířské kousky... Pj může povolit další využití.
 
 ### Úroveň 2 - Bojová píseň
 
-Minstrel můžě obětovat svou akci v daném kole a hrát bojovou píseň pro všechny spojence poblíž (do 25 metrů). Hraní písně se pro účely boje počítá jako sesílání kouzla avšak lze se při něm pohybovat.
+Minstrel můžě, jako běžnou akci, hrát bojovou píseň pro všechny spojence v okolí 30-ti metrů. Hraní písně se pro účely boje počítá jako sesílání kouzla.
 
 - *Efekt písně* - Pokud píseň zní, tak spojenci mají bonus +1 k zásahu, poškození, OČ, záchranným hodům a všechno poškození, které spojenci obdrží je sníženo o 1 za každou kostku poškození v daném útoku.
-- *Rozptýlit* - Pokud píseň zní, může minstrel jedenkrát za kolo rozptýlil jednoho nepřítele poblíž (do 25 metrů), krátkou rýmovačkou na jeho zesměšnění. Cíl rozptýlení má 3 z 6-ti šanci, že bude mít nevýhodu na svůj první následující hod kostkou. 
+- *Rozptýlit* - Pokud píseň zní, může minstrel jedenkrát za kolo rozptýlil jednoho nepřítele v dosahu písně, krátkou rýmovačkou na jeho zesměšnění. Cíl rozptýlení má 3 z 6-ti šanci, že bude mít nevýhodu na svůj první následující hod kostkou. 
 
 ### Úroveň 4, 8, 12... - Perk
 
