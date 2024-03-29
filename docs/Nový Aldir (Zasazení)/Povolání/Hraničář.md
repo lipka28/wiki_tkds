@@ -26,7 +26,7 @@
 
 **Trénovaná brnění:** Lehké a střední zbroje.
 
-### Úroveň 1 - Hraničářský um
+### Úroveň 1 - Hraničářský um ==Upravit proti novému jádru==
 
 Hraničář má bonus ve výši své úrovně, ke všem ověření dovedností týkající se aktivit, ve kterých by měl logicky hraničář vynikat.
 
@@ -54,7 +54,7 @@ Hraničář může dotykem nebo zásahem některým ze svých útoků, umístit 
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 - Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z [existujících perků](/Aldir%20%28Zasazení%29/perks/#perky), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
+- Vybrat si 1 perk z [existujících perků](/Nov%C3%BD%20Aldir%20%28Zasazen%C3%AD%29/perks/), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
 
 ### Úroveň 6 - Vášnivý lovec
 

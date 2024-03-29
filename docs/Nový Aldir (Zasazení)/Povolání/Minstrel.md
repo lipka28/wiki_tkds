@@ -37,7 +37,7 @@ Minstrel je vždy dobrou společností při toulkách po světě. Pokud skupina 
 !!! warning "Únava"
     Tento efekt nemá žádný dopad na únavu.
 
-### Úroveň 1: Talentovaný potížista
+### Úroveň 1: Talentovaný potížista ==Překopat==
 
 Minstrel má bonus ve výši své úrovně, ke všem ověření dovedností týkající se aktivit, ve kterých by měl logicky minstrel vynikat.
 
@@ -58,7 +58,7 @@ Minstrel můžě obětovat svou akci v daném kole a hrát bojovou píseň pro v
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 - Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z [existujících perků](/Aldir%20%28Zasazení%29/perks/#perky), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
+- Vybrat si 1 perk z [existujících perků](/Nov%C3%BD%20Aldir%20%28Zasazen%C3%AD%29/perks/), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
 
 ### Úroveň 6 - Bloudivá mysl
 
@@ -66,6 +66,6 @@ Minstrel má výhodu na všechny záchranné hody proti efektům ovlivňující 
 
 ### Úroveň 10 - Výjimečná společnost
 
-Schopnost [Dobrá společnost](/Aldir%20%28Zasazení%29/Povolání/Minstrel/#uroven-1-dobra-spolecnost) léčí dvojnásobné množství životů, léčí únavu jako by všichni přenocovali v civilizaci a poskytne všem zúčastněným (včetně minstrela) 1 Bod naděje.
+Schopnost [Dobrá společnost](/Nový%20Aldir%20%28Zasazení%29/Povolání/Minstrel/#uroven-1-dobra-spolecnost) léčí dvojnásobné množství životů, léčí únavu jako by všichni přenocovali v civilizaci a poskytne všem zúčastněným (včetně minstrela) 1 Bod naděje.
 
 - *Bod naděje* - Hráč může využít bod naděje aby přehodil některý ze svých D20 hodů (nepočítá se jako výhoda). Hráč může mít v jednu chvíli maximálně 1 bod naděje.

@@ -44,7 +44,7 @@ Vyber si nějakou zbraň co máš u sebe a pojmenuj ji. Tím se tato zbraň stá
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 - Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z [existujících perků](/Aldir%20%28Zasazení%29/perks/#perky), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
+- Vybrat si 1 perk z [existujících perků](/Nový%20Aldir%20%28Zasazení%29/perks/), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
 
 ### Úroveň 6 - Druhý dech
 

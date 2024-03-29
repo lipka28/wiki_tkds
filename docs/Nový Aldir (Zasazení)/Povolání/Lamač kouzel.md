@@ -39,7 +39,7 @@
 Řád lamačů kouzel se těší v Aldirské republice velkému respektu a jeho členové mají jisté výhody. 
 
 - *Autorita* - Lamači kouzel mají autoritu nad polovojenskými útvary v Aldriské republice (jako jsou třeba městské stráže) na úrovni kapitána. 
-- *Přístup ke zdrojům* - Lamači kouzel mají ve městech, která to umožňují, přístup k řádovním zdrojům. Jako jsou knihovny s neveřejnými informacemi a všelijací řemeslníci (např alchymisté), které poskytnou své služby za zvýhodněné ceny. Speciální zboží, která se dá takhle pořídit. Je popsáno [níže](/Aldir%20%28Zasazení%29/Povolání/Lamač%20kouzel/#specialni-zbozi). K této výbavě má lamač kouzel přístup i během tvorby postavy.
+- *Přístup ke zdrojům* - Lamači kouzel mají ve městech, která to umožňují, přístup k řádovním zdrojům. Jako jsou knihovny s neveřejnými informacemi a všelijací řemeslníci (např alchymisté), které poskytnou své služby za zvýhodněné ceny. Speciální zboží, která se dá takhle pořídit. Je popsáno [níže](/Nový%20Aldir%20%28Zasazení%29/Povolání/Lamač%20kouzel/#specialni-zbozi). K této výbavě má lamač kouzel přístup i během tvorby postavy.
 - *Organizační struktura* - Řád má svou pevnou organizační strukturu a rozkazy nadřízených se musí plnit. Neuposlechnutí rozkazu či dezerce se trestá. Někdy dokonce i smrtí. Plnění těchto úkolů umožní posunutí se v řádu na vyšší pozice a získání dalších výhod.
 
 ### Úroveň 1 - Alchymistické modifikace
@@ -69,7 +69,7 @@ Pokud máš volnou ruku, tak můžeš provést neozbrojený útok, který nepůs
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 - Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z [existujících perků](/Aldir%20%28Zasazení%29/perks/#perky), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
+- Vybrat si 1 perk z [existujících perků](/Nov%C3%BD%20Aldir%20%28Zasazen%C3%AD%29/perks/), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
 
 ### Úroveň 6 - Přesměruj magii
 

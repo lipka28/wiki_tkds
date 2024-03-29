@@ -34,7 +34,7 @@ Pokud tulák útočí malou nebo střední zbraní na někoho zezadu, někoho kd
 
 - *Dobrá příležitost* - Pokud tulák útočí s výhodou tak udělí dvojnásobné poškození. Pokud je to navíc útok na blízko a malou zbraní, tak útok působí čtyřnásobné poškození. 
 
-### Úroveň 1 - Tulácký um
+### Úroveň 1 - Tulácký um ==Překopat==
 
 Tulák má bonus ve výši své úrovně, ke všem ověření dovedností týkající se aktivit, ve kterých by měl logicky tulák vynikat.
 
@@ -50,11 +50,11 @@ V boji se můžeš pokusit ukrást (vyžaduje volnou ruku) nebo umístit předm�
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 - Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z [existujících perků](/Aldir%20%28Zasazení%29/perks/#perky), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
+- Vybrat si 1 perk z [existujících perků](/Nov%C3%BD%20Aldir%20%28Zasazen%C3%AD%29/perks/), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
 
 ### Úroveň 6 - Expertíza
 
-Vyber si 2 aktivity pokryté v [Tulácký um](/Aldir%20%28Zasazení%29/Povolání/Tulák/#uroven-1-tulacky-um). Při vykonávání těchto aktivit máš vždy výhodu.
+Vyber si 2 aktivity pokryté v [Tulácký um](/Nový%20Aldir%20%28Zasazení%29/Povolání/Tulák/#uroven-1-tulacky-um). Při vykonávání těchto aktivit máš vždy výhodu.
 
 ### Úroveň 10 - Úhyb
 
