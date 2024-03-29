@@ -70,7 +70,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Zručnost >= *16*
 
-**Efekt:** Pokud nemáš vybaven štít a nebo těžkou zbroj, můžeš obětovat své útočné akce v daném kolem a zaujmout *defenzivní postavení*. 
+**Efekt:** Pokud nemáš vybaven štít a nebo těžkou zbroj, můžeš použít svou běžnou akci k zaujmutí *defenzivního postavení*. 
 
 - *Defenzivní postavení* - Pokud je na tebe zaútočeno útokem na blízku, můžeš si vybrat krýt se za pomocí svého OČ nebo hodem na zásah svou zbraní na blízku. Pokud si vybereš hod na zásah, použij modifikátor obratnosti na místo síly. Pokud je tvůj výsledný hod na zásah vyšší než hod na zásah nepřítele, úspěšně si provedl *parry* a tím útok vykryl.
 - *Protiútok* -  Po úspěšném *parry* se můžeš jedenkrát za kolo pokusit o bojový manévr (odzbrojení, shození na zem, odšduchnutí, atd...). 
