@@ -197,12 +197,12 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 2. Vyhodnocení 
 3. Přičtení únavy či odečet zásob
 
-**Pokus o utáboření:** Při pokusu o utáboření musí postavy obstarat 3 základní potřeby k přežití: *jídlo, vodu a útočiště*. To udělají tak, že kolektivně hodí *3k6*. Kde každá d6 představuje jednu z těchto potřeb. 
+**Pokus o utáboření:** Při pokusu o utáboření musí postavy obstarat 3 základní potřeby k přežití: *jídlo, vodu a útočiště*. To udělají tak, že kolektivně hodí *3k6*. Kde každá k6 představuje jednu z těchto potřeb. 
 
 - *Kouzla:* Některé kouzla mohou úplně nahradit potřebu pro některý hod. V těchto případech může PJ hod prominout.  
 - *Hlídka a náhodná setkání:* Při táboření může v průběhu noci dojít k náhodným setkáním. Také se automaticky předpokládá, že se postavy střídají na hlídce.
 
-**Vyhodnocení:** Výsledek *4 nebo více* na *d6* je považován za úspěšné obstarání dané potřeby. V opačném případě se jedná o neúspěch.
+**Vyhodnocení:** Výsledek *4 nebo více* na *k6* je považován za úspěšné obstarání dané potřeby. V opačném případě se jedná o neúspěch.
 
 **Přičtení únavy či odečet zásob:** Za každou neúspěšně opatřenou potřebu si pak hráči mohou vybrat. Buď utrpí 1 bod únavy a nebo spotřebují 1 zásobu. (Viz zásoby v kapitole *Výbava*)
 

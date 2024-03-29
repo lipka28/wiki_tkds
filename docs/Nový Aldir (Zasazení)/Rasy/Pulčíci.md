@@ -16,7 +16,7 @@
 
 **Speciální vlastnosti:** 
 
-- *Pulčíkovo štěstí* - Pulčík disponuje jedním bodem štěstím, které umožňuje pulíčkovi 1x denně přehodit některý svůj hod d20. 
+- *Pulčíkovo štěstí* - Pulčík disponuje jedním bodem štěstím, které umožňuje pulíčkovi 1x denně přehodit některý svůj hod K20. 
 - *Malý* - Pulčík se lehce protáhne úzkými otvory a navíc je pulčíka těžší zasáhnout, takže automaticky získává bonus +2 do OČ pokud na sobě nemá těžkou zbroj. Vzhledem k používání menších zbraní jsou pulčíkovy fyzické útoky o 1 bod poškození slabší.
 
 ---

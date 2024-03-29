@@ -168,7 +168,7 @@ Okamžitě zabije 1 stvoření poblíž sesilatele (do 25-ti metrů).
 
 ### Léčení
 
-Vyléčíš 1d6+*L* životů stvoření, kterého se dotkneš.
+Vyléčíš 1k6+*L* životů stvoření, kterého se dotkneš.
 
 ---
 
@@ -213,7 +213,7 @@ Můžeš položit *L* otázek zvířeti.
 Tlustá vrstva ledu se roztáhne do okruhu *L* x2 metrů po povrchu, kterého se dotkneš. Dotkneš-li se stvoření platí následující: 
 
 - *Stvoření nižší úrovně* - Zamraženo v kostce ledu (smrt). 
-- *Stvoření stejné nebo vyšší úrovně* - *Ld6* mrazivého poškození.
+- *Stvoření stejné nebo vyšší úrovně* - *Lk6* mrazivého poškození.
 
 ---
 
@@ -259,7 +259,7 @@ Subjekt libovolné velikosti je od tebe odstrkován silou *L* mužů podobu 1 ko
 
 ### Ohnivá exploze
 
-Z prstu ti vyšlehne klikatící se záblesk, který dopadne na určené místo v dosahu. V místě dopadu pak vznikne exploze, která zasáhne všechno v blízkém okolí (do 5-ti metrů) působící *Ld6* ohnivého poškození.
+Z prstu ti vyšlehne klikatící se záblesk, který dopadne na určené místo v dosahu. V místě dopadu pak vznikne exploze, která zasáhne všechno v blízkém okolí (do 5-ti metrů) působící *Lk6* ohnivého poškození.
 
 ---
 
@@ -339,7 +339,7 @@ Dokážeš prohlédnout všechny iluze poblíž (do 25-ti metrů)
 
 ### Rozžhav kov
 
-Rozžhaví kovový předmět v dosahu doběla. Pokud jej někdo drží musí jej ihned pustit nebo dotyčný obdrží *1d6* poškození za každé kolo co předmět drží. 
+Rozžhaví kovový předmět v dosahu doběla. Pokud jej někdo drží musí jej ihned pustit nebo dotyčný obdrží *1k6* poškození za každé kolo co předmět drží. 
 
 - *Záchranný hod* - Je možný pouze proti efektu samotnému, nikoliv způsobenému poškození.
 
@@ -440,7 +440,7 @@ Máš kompletní kontrolu nad tím, co stvoření kterého se dotýkáš vidí.
 
 ### Vysaj život
 
-Stvoření, kterého se dotkneš, způsobíš *Ld4* temného poškození a ubereš mu *L* let života. Způsobené poškození tě vyléčí za stejné množství a ukradené roky života se stávají tvými. 
+Stvoření, kterého se dotkneš, způsobíš *Lk4* temného poškození a ubereš mu *L* let života. Způsobené poškození tě vyléčí za stejné množství a ukradené roky života se stávají tvými. 
 
 - *Maximum životů* - Nemůžeš si vyléčit víc životů než je tvé maximum. 
 - *Záchranný hod* - Uspěje-li cíl v záchranném hodu bude mu způsobeno jen poloviční poškození a nepřijde o žádné roky života.

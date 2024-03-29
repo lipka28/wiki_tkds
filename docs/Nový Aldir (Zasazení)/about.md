@@ -22,7 +22,7 @@ V Aldiru se mluví spoustou jazyků. Avšak všechna inteligentní stvoření ov
 
 ### Běžné jazyky
 
-| D6   |      Jazyk      |           Běžní mluvčí           |
+| k6   |      Jazyk      |           Běžní mluvčí           |
 | ---- | :-------------: | :------------------------------: |
 | 1    |    Gnómština    |             Gnómové              |
 | 2    |   Goblinština   |              Skřeti              |
@@ -36,7 +36,7 @@ V Aldiru se mluví spoustou jazyků. Avšak všechna inteligentní stvoření ov
 
 Pokud má postava dostatek rozumu aby se naučila 2 další běžné jazyky, může se na místo toho naučit 1 exotický jazyk.
 
-| D10  |       Jazyk        |          Běžní mluvčí          |
+| k10  |       Jazyk        |          Běžní mluvčí          |
 | ---- | :----------------: | :----------------------------: |
 | 1    |     Démonština     |             Démoni             |
 | 2    | Dračí řeč (mrtvý)  |             Draci              |

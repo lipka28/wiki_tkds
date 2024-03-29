@@ -8,16 +8,16 @@
 
 | ÚROVEŇ |       HP       | ODEMYKÁ                                                      |
 | :----: | :------------: | :----------------------------------------------------------- |
-|   1    | +1d4+MOD Výdrž | Magie a kouzla; Vyciť magii; Magická střela; Bonus k zásahu +0; Záchranný hod: 16 |
-|   2    | +1d4+MOD Výdrž | Magická odolnost; +1 kouzlo                                  |
-|   3    | +1d4+MOD Výdrž | Bonus k zásahu: +1; Záchranný hod: 14; +1 kouzlo             |
-|   4    | +1d4+MOD Výdrž | Perk; +1 kouzlo                                              |
-|   5    | +1d4+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 12; +1 kouzlo             |
-|   6    | +1d4+MOD Výdrž | Tiché sesílání; +1 kouzlo                                    |
-|   7    | +1d4+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 10; +1 kouzlo             |
-|   8    | +1d4+MOD Výdrž | Perk; +1 kouzlo                                              |
-|   9    | +1d4+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 8; +1 kouzlo              |
-|   10   | +1d4+MOD Výdrž | Umocni magii; +1 kouzlo                                      |
+|   1    | +1k4+MOD Výdrž | Magie a kouzla; Vyciť magii; Magická střela; Bonus k zásahu +0; Záchranný hod: 16 |
+|   2    | +1k4+MOD Výdrž | Magická odolnost; +1 kouzlo                                  |
+|   3    | +1k4+MOD Výdrž | Bonus k zásahu: +1; Záchranný hod: 14; +1 kouzlo             |
+|   4    | +1k4+MOD Výdrž | Perk; +1 kouzlo                                              |
+|   5    | +1k4+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 12; +1 kouzlo             |
+|   6    | +1k4+MOD Výdrž | Tiché sesílání; +1 kouzlo                                    |
+|   7    | +1k4+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 10; +1 kouzlo             |
+|   8    | +1k4+MOD Výdrž | Perk; +1 kouzlo                                              |
+|   9    | +1k4+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 8; +1 kouzlo              |
+|   10   | +1k4+MOD Výdrž | Umocni magii; +1 kouzlo                                      |
 |  10+   |       +1       | ---                                                          |
 
 ## Schopnosti povolání
@@ -72,4 +72,4 @@ Můžeš zdvojnásobit cenu sesílání svého naučeného kouzla aby si umocnil
 Způsoby lze i kombinovat avšak cena kouzla se pak vždy násobí dvěma. 
 
 !!! example "Příklad: Umocněné kouzlo"
-    Medžaj 10. úrovně může za den seslat 10 kouzel. Rozhodne-li se seslat Ohnivou explozi, zvýšit její rozsah na dvojnásobek (10 metrů místo 5), zdvojnásobit její poškození (20d6 na místo 10d6) a dát všem zasaženým nevýhodu na záchranný hod. Tak se vyčarování kouzla bude počítat jako by vyčaroval 8 kouzel. 1x základ, x2 za rozsah, x2 za poškození a x2 za nevýhodu na záchranu.
+    Medžaj 10. úrovně může za den seslat 10 kouzel. Rozhodne-li se seslat Ohnivou explozi, zvýšit její rozsah na dvojnásobek (10 metrů místo 5), zdvojnásobit její poškození (20k6 na místo 10k6) a dát všem zasaženým nevýhodu na záchranný hod. Tak se vyčarování kouzla bude počítat jako by vyčaroval 8 kouzel. 1x základ, x2 za rozsah, x2 za poškození a x2 za nevýhodu na záchranu.

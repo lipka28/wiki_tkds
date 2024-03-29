@@ -35,7 +35,7 @@ Pokud není čas zaobírat se tvorbou vlastních perků, lze využít jeden z pe
 
 - Tvé základní OČ je o 2 nižší.
 - Nemůžeš sesílat kouzla, používat předměty nebo střelné zbraně (Obecně cokoliv co vyžaduje míru soustředění).
-- Máš extrémní sílu - Všechny tvé útoky dávají aspoň 1d6 poškození, všechno tebou udělené poškození se hází s výhodou a tvůj bonus ze síly ke všemu aplikovatelnému je dvojnásobný (ověřování dovedností, zásah, poškození atd...).
+- Máš extrémní sílu - Všechny tvé útoky dávají aspoň 1k6 poškození, všechno tebou udělené poškození se hází s výhodou a tvůj bonus ze síly ke všemu aplikovatelnému je dvojnásobný (ověřování dovedností, zásah, poškození atd...).
 - Neplatí pro tebe postihy za improvizované zbraně a neozbrojený boj.
 
 Po skončení běsnění obdržíš 1 bod únavy.
@@ -44,7 +44,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** *Zuřivost*
 
-**Efekt:** Tvé běsnění trvá *10 kol* a nemůžeš během něj zemřít. Výmaje efektů okamžitého zabití, a poškození, které je stejné nebo větší jako dvojnásobek tvého maximálního zdraví. Pokud máš 0 životů na konci svého běsnění upadneš do bezvědomí na *1d4* směn.
+**Efekt:** Tvé běsnění trvá *10 kol* a nemůžeš během něj zemřít. Výmaje efektů okamžitého zabití, a poškození, které je stejné nebo větší jako dvojnásobek tvého maximálního zdraví. Pokud máš 0 životů na konci svého běsnění zemřeš.
 
 ### Obrovská síla
 
@@ -58,7 +58,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Zručnost >= *9*
 
-**Efekt:** Pokud máš zbraň vyžadující přebíjení a to přebíjení netrvá více než 1 kolo, můžeš se během přebíjení pohybovat.
+**Efekt:** Pokud máš zbraň vyžadující přebíjení a to přebíjení netrvá více než 1 dlouhou akci, můžeš takovou zbraň přebít jako běžnou akci.
 
 ### Rychlý útok
 
@@ -70,22 +70,22 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Zručnost >= *16*
 
-**Efekt:** Pokud nemáš vybaven štít a nebo těžkou nebo těžší zbroj, můžeš obětovat své útočné akce v daném kolem a zaujmout *defenzivní postavení*. 
+**Efekt:** Pokud nemáš vybaven štít a nebo těžkou zbroj, můžeš obětovat své útočné akce v daném kolem a zaujmout *defenzivní postavení*. 
 
 - *Defenzivní postavení* - Pokud je na tebe zaútočeno útokem na blízku, můžeš si vybrat krýt se za pomocí svého OČ nebo hodem na zásah svou zbraní na blízku. Pokud si vybereš hod na zásah, použij modifikátor obratnosti na místo síly. Pokud je tvůj výsledný hod na zásah vyšší než hod na zásah nepřítele, úspěšně si provedl *parry* a tím útok vykryl.
-- *Reakce* -  Po úspěšném *parry* se můžeš jedenkrát za kolo pokusit o bojový manévr (odzbrojení, shození na zem, odšduchnutí, atd...). 
+- *Protiútok* -  Po úspěšném *parry* se můžeš jedenkrát za kolo pokusit o bojový manévr (odzbrojení, shození na zem, odšduchnutí, atd...). 
 
 ### Mistr šermu
 
 **Požadavky:** *Šerm*
 
-**Efekt:** Tvé *defenzivní postavení* je již automatické, nemusíš tedy obětovat své útoky. Navíc můžeš *parriovat* i útoky šípy a hozenými zbraněmi nepůsobící víc než 1 kostku poškození (Na útoky na dálku logicky nelze navázat *reakcí*).
+**Efekt:** Tvé *defenzivní postavení* je již automatické, nemusíš tedy obětovat své útoky. Navíc můžeš *parriovat* i útoky šípy a hozenými zbraněmi nepůsobící víc než 1 kostku poškození (Na útoky na dálku logicky nelze navázat *protiútokem*).
 
 ### Zacházení se štítem
 
 **Požadavky:** Zručnost >= *16*
 
-**Efekt:** Při *reflexním blokování štítem* existuje šance pouze *50 %*, že se tvůj štít poškodí. Navíc můžeš *reflexivně blokovat* ve prospěch spojence stojícího vedle tebe nebo za tebou.
+**Efekt:** Štít v tvých rukou poskytuje o *1* vyšší OČ.
 
 ### Na všechny 4
 
@@ -103,7 +103,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Zručnost >= *21*
 
-**Efekt:** Pokud nemáš těžší jak lehkou zbroj. Můžeš běhat po stěnách svou plnou hybností. Pokud na konci běhu se nemáš čeho za chytit nebo kde stoupnout tak spadneš.
+**Efekt:** Pokud nemáš těžší jak lehkou zbroj. Můžeš běhat po stěnách svou plnou hybností. Pokud na konci běhu se nemáš čeho zachytit nebo kde stoupnout tak spadneš.
 
 ## Výdrž 
 
@@ -111,13 +111,13 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Výdrž >= *9*
 
-**Efekt:** Tvá hybnost je vyšší o *2*.
+**Efekt:** Tvá hybnost je vyšší o *3*.
 
 ### Plavec
 
 **Požadavky:** Výdrž >= *13*
 
-**Efekt:** Tvá rychlost plavání je o *2* vyšší a navíc vydržíš držet dech dvojnásobnou dobu (hodnota výdrže x 2).
+**Efekt:** Tvá rychlost plavání je o *3* vyšší a navíc vydržíš držet dech dvojnásobnou dobu (hodnota výdrže x 2).
 
 ### Houževnatost
 
@@ -125,21 +125,9 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Efekt:** Máš o *5 životů* víc.
 
-### Tuhý kořínek
-
-**Požadavky:** *Houževnatost*
-
-**Efekt:** Tvá šance na přežití při zredukování tvých životů na 0 je *5 z 6-ti*, ztratíš však 1 bod náhodné dovednosti. (Nezávisle na tom, které pravidla pro smrt jsou používány).
-
-### Zvykne si na cokoliv
-
-**Požadavky:** Výdrž >= *18*
-
-**Efekt:** Můžeš spát hladovějící i v té nejtvrdší zbroji uprostřed dračího doupěte a i přesto se vyspíš jako v nejlepším hostinci ve hlavním městě. Přenocování v divočině je pro tebe stejné jako přenocování v civilizaci (tzn. probíhá přirozené léčení a léčení únavy). 
-
 ### Odolný
 
-**Požadavky:** Výdrž >= *21*
+**Požadavky:** Výdrž >= *18*
 
 **Efekt:** Tvůj tabulkový *záchranný hod* je o *2* nižší a tvé základní *OČ* o *1* vyšší.
 
@@ -149,7 +137,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Rozum >= *9*
 
-**Efekt:** Když používáš lékařské nástroje, zvládneš vyléčit *3 životy* na místo 2. Můžeš také léčit jako akci během boje (lékařské nástroje musíš mít mezi vybavenými předměty). Limit pro počet léčení lékařskými nástroji stále platí.
+**Efekt:** Když používáš *lékarničku*, zvládneš vyléčit *3 životy* na místo 2. Můžeš také léčit jako dlouhou akci během boje (lékařské nástroje musíš mít mezi vybavenými předměty). Limit pro počet léčení lékařskými nástroji stále platí.
 
 ### Používání svitků
 
@@ -206,22 +194,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Osobnost >= *16*
 
-**Efekt:** Máš bonus +2 do záchranných hodů proti všem efektům ovlivňující mysl.
-
-### Založit cech (se slevou)
-
-**Požadavky:** Osobnost >= *18*
-
-**Efekt:** Můžeš si založit cech nebo jinou podobnou organizaci a stát se jejím pánem. Vybudování cechu se základním zázemím a *2d6+modifikátor osobnosti* následovníků, tě vyjde na *8000 stříbrných* (80 zlatých).
-
-!!! Note "Cech"
-    Vybudovat cech nebo například školu kouzel či dílnu, lze i bez tohoto perku avšak příchod následovníků není garantovaný a cena vybudování je při nejmenším 16 000 stříbrných (160 zlatých).
-
-### Nadaný vyjednávač
-
-**Požadavky:** Osobnost >= *21*
-
-**Efekt:** Jakékoliv vyjednávání má pro tebe nejlepší možný výsledek.
+**Efekt:** Máš bonus +2 do záchranných hodů *proti ovlivnění mysl*.
 
 ## Ostatní
 
@@ -229,11 +202,11 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Síla a Zručnost >= *13*
 
-**Efekt:** Tvá druhá zbraň poskytuje bonus k zásahu poškození a OČ ve výší *+2* na místo +1. Alternativně se můžeš tohoto bonusu do začátku svého příštího tahu vzdát a zaútočit každou zbraní zvlášť.
+**Efekt:** Tvá druhá zbraň poskytuje bonus k zásahu a poškození ve výší *+2* na místo +1. Alternativně se můžeš tohoto bonusu do začátku svého příštího tahu vzdát a zaútočit každou zbraní zvlášť.
 
 ### Přírodní medicína 
 
 **Požadavky:** Hraničář nebo kdokoliv s dostatečnou znalostí bylin
 
-**Efekt:** Hraničář může strávit 1 směnu v divočině hledáním bylin aby vyléčil sebe nebo další stvoření. Léčení poskytne extra záchranný hod na otravu, paralýzu, či jiný negativní (nemagický) efekt nebo vyléčí *1d4* životů (vždy pouze jeden z daných efektů). V běžných podmínkách (zdravý les) je šance na nalezení bylin stejná jako na sběr jídla. Schopnost se dá použít na dané stvoření jen 1x denně.
+**Efekt:** Hraničář může strávit *1 směnu* v divočině hledáním bylin aby vyléčil sebe nebo další stvoření. Léčení poskytne *extra záchranný hod* na otravu, paralýzu, či jiný negativní (nemagický) efekt nebo vyléčí *1k4* životů (vždy pouze jeden z daných efektů). V běžných podmínkách (zdravý les) je šance na nalezení bylin stejná jako na sběr jídla. Schopnost se dá použít na dané stvoření jen 1x denně.
 

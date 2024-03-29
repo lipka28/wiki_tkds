@@ -8,16 +8,16 @@
 
 | ÚROVEŇ |       HP       | ODEMYKÁ                                                      |
 | :----: | :------------: | :----------------------------------------------------------- |
-|   1    | +1d8+MOD Výdrž | Hraničářský um; Blízko k přírodě; Bonus k zásahu +0; Záchranný hod: 16 |
-|   2    | +1d8+MOD Výdrž | Lovecká značka                                               |
-|   3    | +1d8+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                        |
-|   4    | +1d8+MOD Výdrž | Perk                                                         |
-|   5    | +1d8+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 12                        |
-|   6    | +1d8+MOD Výdrž | Vášnivý lovec; +1 Lovecká značka                             |
-|   7    | +1d8+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 10                        |
-|   8    | +1d8+MOD Výdrž | Perk                                                         |
-|   9    | +1d8+MOD Výdrž | Bonus k zásahu: +8; Záchranný hod: 8                         |
-|   10   | +1d8+MOD Výdrž | Jako vítr; +1 Lovecká značka                                 |
+|   1    | +1k8+MOD Výdrž | Hraničářský um; Blízko k přírodě; Bonus k zásahu +0; Záchranný hod: 16 |
+|   2    | +1k8+MOD Výdrž | Lovecká značka                                               |
+|   3    | +1k8+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                        |
+|   4    | +1k8+MOD Výdrž | Perk                                                         |
+|   5    | +1k8+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 12                        |
+|   6    | +1k8+MOD Výdrž | Vášnivý lovec; +1 Lovecká značka                             |
+|   7    | +1k8+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 10                        |
+|   8    | +1k8+MOD Výdrž | Perk                                                         |
+|   9    | +1k8+MOD Výdrž | Bonus k zásahu: +8; Záchranný hod: 8                         |
+|   10   | +1k8+MOD Výdrž | Jako vítr; +1 Lovecká značka                                 |
 |  10+   |       +1       | ---                                                          |
 
 ## Schopnosti povolání

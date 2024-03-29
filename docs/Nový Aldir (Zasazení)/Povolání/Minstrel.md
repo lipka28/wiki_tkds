@@ -8,16 +8,16 @@
 
 | ÚROVEŇ |       HP       | ODEMYKÁ                                                      |
 | :----: | :------------: | :----------------------------------------------------------- |
-|   1    | +1d6+MOD Výdrž | Dobrá společnost; Talentovaný potížista; Bonus k zásahu +0; Záchranný hod: 16 |
-|   2    | +1d6+MOD Výdrž | Bojová píseň                                                 |
-|   3    | +1d6+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                        |
-|   4    | +1d6+MOD Výdrž | Perk                                                         |
-|   5    | +1d6+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 12                        |
-|   6    | +1d6+MOD Výdrž | Bloudivá mysl                                                |
-|   7    | +1d6+MOD Výdrž | Bonus k zásahu: +5; Záchranný hod: 10                        |
-|   8    | +1d6+MOD Výdrž | Perk                                                         |
-|   9    | +1d6+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 8                         |
-|   10   | +1d6+MOD Výdrž | Výjimečná společnost                                         |
+|   1    | +1k6+MOD Výdrž | Dobrá společnost; Talentovaný potížista; Bonus k zásahu +0; Záchranný hod: 16 |
+|   2    | +1k6+MOD Výdrž | Bojová píseň                                                 |
+|   3    | +1k6+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                        |
+|   4    | +1k6+MOD Výdrž | Perk                                                         |
+|   5    | +1k6+MOD Výdrž | Bonus k zásahu: +3; Záchranný hod: 12                        |
+|   6    | +1k6+MOD Výdrž | Bloudivá mysl                                                |
+|   7    | +1k6+MOD Výdrž | Bonus k zásahu: +5; Záchranný hod: 10                        |
+|   8    | +1k6+MOD Výdrž | Perk                                                         |
+|   9    | +1k6+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 8                         |
+|   10   | +1k6+MOD Výdrž | Výjimečná společnost                                         |
 |  10+   |       +1       | ---                                                          |
 
 ## Schopnosti povolání
@@ -68,4 +68,4 @@ Minstrel má výhodu na všechny záchranné hody proti efektům ovlivňující 
 
 Schopnost [Dobrá společnost](/Nový%20Aldir%20%28Zasazení%29/Povolání/Minstrel/#uroven-1-dobra-spolecnost) léčí dvojnásobné množství životů, léčí únavu jako by všichni přenocovali v civilizaci a poskytne všem zúčastněným (včetně minstrela) 1 Bod naděje.
 
-- *Bod naděje* - Hráč může využít bod naděje aby přehodil některý ze svých D20 hodů (nepočítá se jako výhoda). Hráč může mít v jednu chvíli maximálně 1 bod naděje.
+- *Bod naděje* - Hráč může využít bod naděje aby přehodil některý ze svých K20 hodů (nepočítá se jako výhoda). Hráč může mít v jednu chvíli maximálně 1 bod naděje.

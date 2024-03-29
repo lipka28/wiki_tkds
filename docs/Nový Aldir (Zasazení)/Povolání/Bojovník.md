@@ -8,16 +8,16 @@
 
 | ÚROVEŇ |       HP        | ODEMYKÁ                                            |
 | :----: | :-------------: | :------------------------------------------------- |
-|   1    | +1d10+MOD Výdrž | Extra manévr; Bonus k zásahu +0; Záchranný hod: 16 |
-|   2    | +1d10+MOD Výdrž | Oblíbená zbraň                                     |
-|   3    | +1d10+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14              |
-|   4    | +1d10+MOD Výdrž | Perk                                               |
-|   5    | +1d10+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 12              |
-|   6    | +1d10+MOD Výdrž | Druhý dech                                         |
-|   7    | +1d10+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 10              |
-|   8    | +1d10+MOD Výdrž | Perk                                               |
-|   9    | +1d10+MOD Výdrž | Bonus k zásahu: +8; Záchranný hod: 8               |
-|   10   | +1d10+MOD Výdrž | Extra útok                                         |
+|   1    | +1k10+MOD Výdrž | Extra manévr; Bonus k zásahu +0; Záchranný hod: 16 |
+|   2    | +1k10+MOD Výdrž | Oblíbená zbraň                                     |
+|   3    | +1k10+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14              |
+|   4    | +1k10+MOD Výdrž | Perk                                               |
+|   5    | +1k10+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 12              |
+|   6    | +1k10+MOD Výdrž | Druhý dech                                         |
+|   7    | +1k10+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 10              |
+|   8    | +1k10+MOD Výdrž | Perk                                               |
+|   9    | +1k10+MOD Výdrž | Bonus k zásahu: +8; Záchranný hod: 8               |
+|   10   | +1k10+MOD Výdrž | Extra útok                                         |
 |  10+   |       +1        | ---                                                |
 
 ## Schopnosti povolání
@@ -48,7 +48,7 @@ Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 ### Úroveň 6 - Druhý dech
 
-Bojovník, který je zredukován na 0 životů, si na místo smrti doplní 2d10 životů. Za cenu navýšení své únavy o 1. Tuhle schopnost lze použít pouze pokud byl bojovník od posledního použití této schopnosti vyléčen na plné životy.
+Bojovník, který je zredukován na 0 životů, si na místo smrti doplní 2k10 životů. Za cenu navýšení své únavy o 1. Tuhle schopnost lze použít pouze pokud byl bojovník od posledního použití této schopnosti vyléčen na plné životy.
 
 ### Úroveň 10 - Extra útok
 

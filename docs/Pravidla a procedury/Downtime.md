@@ -182,7 +182,7 @@ Prvním způsobem jak poněkud chaoticky posunout svou postavu někam dál. Je h
 | 1k8  | Efekt                                                        |
 | ---- | ------------------------------------------------------------ |
 | 1    | **Opice** - Postava má těžkou kocovinu a postih -1 na všechny fyzické akce po dobu dalších 3 dní. |
-| 2    | **Rvačka** - Postava se porvala a obdržela *2d4* poškození. Tohle poškození nemůže postavu zabít. |
+| 2    | **Rvačka** - Postava se porvala a obdržela *2k4* poškození. Tohle poškození nemůže postavu zabít. |
 | 3    | **Okraden!** - Postava ztratí 1 náhodný předmět ze své výbavy. |
 | 4    | **Trapný moment** - Postava se ztrapnila na veřejnosti. Obdrží postih -1 na všechny sociální interakce v dané oblasti. Dokud se její pověst nezlepší. |
 | 5    | **To mi uklouzlo** - Postava se podělí o nějaké důležité tajemství. Například souřadnice kobky plné bohatství nebo jiné informace co mohou skupině nebo postavě zavařit. |

@@ -14,16 +14,16 @@
 
 | ÚROVEŇ |       HP       | ODEMYKÁ                                                      |
 | :----: | :------------: | :----------------------------------------------------------- |
-|   1    | +1d8+MOD Výdrž | Příslušnost k řádu, Alchymistické modifikace; Bonus k zásahu +0; Záchranný hod: 16 |
-|   2    | +1d8+MOD Výdrž | Zlom magii                                                   |
-|   3    | +1d8+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                        |
-|   4    | +1d8+MOD Výdrž | Perk                                                         |
-|   5    | +1d8+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 12                        |
-|   6    | +1d8+MOD Výdrž | Přesměruj magii                                              |
-|   7    | +1d8+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 10                        |
-|   8    | +1d8+MOD Výdrž | Perk                                                         |
-|   9    | +1d8+MOD Výdrž | Bonus k zásahu: +8; Záchranný hod: 8                         |
-|   10   | +1d8+MOD Výdrž | Magická imunita                                              |
+|   1    | +1k8+MOD Výdrž | Příslušnost k řádu, Alchymistické modifikace; Bonus k zásahu +0; Záchranný hod: 16 |
+|   2    | +1k8+MOD Výdrž | Zlom magii                                                   |
+|   3    | +1k8+MOD Výdrž | Bonus k zásahu: +2; Záchranný hod: 14                        |
+|   4    | +1k8+MOD Výdrž | Perk                                                         |
+|   5    | +1k8+MOD Výdrž | Bonus k zásahu: +4; Záchranný hod: 12                        |
+|   6    | +1k8+MOD Výdrž | Přesměruj magii                                              |
+|   7    | +1k8+MOD Výdrž | Bonus k zásahu: +6; Záchranný hod: 10                        |
+|   8    | +1k8+MOD Výdrž | Perk                                                         |
+|   9    | +1k8+MOD Výdrž | Bonus k zásahu: +8; Záchranný hod: 8                         |
+|   10   | +1k8+MOD Výdrž | Magická imunita                                              |
 |  10+   |       +1       | ---                                                          |
 
 ## Schopnosti povolání
@@ -54,7 +54,7 @@ Lamači kouzel, během svého výcviku, projdou i pár alchymistickými modifika
 
 ### Úroveň 2 - Zlom magii
 
-Pokud máš volnou ruku, tak můžeš provést neozbrojený útok, který nepůsobí poškození, avšak stvoření zasažené tímto útokem ztrácí schopnost ovládat magii na 1d4+L kol (Stále může používat svitky a magické předměty). 
+Pokud máš volnou ruku, tak můžeš provést neozbrojený útok, který nepůsobí poškození, avšak stvoření zasažené tímto útokem ztrácí schopnost ovládat magii na 1k4+L kol (Stále může používat svitky a magické předměty). 
 
 - *Nat 20* - Při kritickém zásahu je doba prodloužena na 1 směnu.  
 - *Čarující cíl* - Pokud stvoření zrovna čarovalo, kouzlo je okamžitě ztraceno. 
@@ -106,7 +106,7 @@ Extra předměty, ke kterým má přístup lamač kouzel při tvorbě postavy ne
 !!! Note "Lore: Co je to ten černý lotos?"
     Černý lotos je rostlina s výjimečnými anti-magickými vlastnostmi, která roste na jediném místě v celém Aldiru. A to pod přísnou ochranou řádu lamačů kouzel poblíž jejich hlavního sídla v Bílé věži. Přesnou polohu, kde je černý lotos pěstován zná jen pár vyvolených z řádu. Produkty z této rostliny však využívá celý řád. Černý lotos je nepostradatelným nástrojem řádu lamačů kouzel, bez jehož existence by zaručeně řád přestal existovat.
 
-**Inkoust z černého lotosu:** Speciální inkoust, kterým lze na stěnu nakreslit ochranné runy, které znají jen lamači kouzel. Do místnosti chráněné značkou nemůže pak vstoupit, žádné magické či magii užívající stvoření, bez toho aby obdrželo *3d6* poškození (bez záchranného hodu).
+**Inkoust z černého lotosu:** Speciální inkoust, kterým lze na stěnu nakreslit ochranné runy, které znají jen lamači kouzel. Do místnosti chráněné značkou nemůže pak vstoupit, žádné magické či magii užívající stvoření, bez toho aby obdrželo *3k6* poškození (bez záchranného hodu).
 
 - *Rozsah* - Efekt značky pokryje maximálně místnost o rozloze *100 m^2*.
 - *Trvání* - Značka ztratí svou moc po 24 hodinách nebo pokud je zničena.
@@ -115,18 +115,18 @@ Extra předměty, ke kterým má přístup lamač kouzel při tvorbě postavy ne
 
 Pro většinu stvoření se jedné o neškodnou látku a však pro magicky nadané může být velmi nebezpečný. 
 
-- *Na zbrani* - Cíl zasažen tímto jedem musí podstoupit záchranný hod proti jedům nebo ztratit na *1d6* kol schopnost ovládat magii. 
-- *V jídle* - Pokud použito v jídle existuje *80%* šance na odhalení jedu. Při neúspěšné záchraně způsobí paralýzu na 1 směnu. Při úspěchu pak ztrátu  schopnosti ovládat magii na *1d6* kol.
+- *Na zbrani* - Cíl zasažen tímto jedem musí podstoupit záchranný hod proti jedům nebo ztratit na *1k6* kol schopnost ovládat magii. 
+- *V jídle* - Pokud použito v jídle existuje *80%* šance na odhalení jedu. Při neúspěšné záchraně způsobí paralýzu na 1 směnu. Při úspěchu pak ztrátu  schopnosti ovládat magii na *1k6* kol.
 
 **Lamačské zbraně a munice:** Lamačské zbraně jsou vyrobené ze slitiny stříbra a studené oceli a následně kaleny v oleji z černého lotosu. Tyto zbraně obchází naprostou většinou imunit a odolností vůči zbraním, kterými mohou různá magická stvoření disponovat. 
 
-- *Jako munice* - Extra 1d6 poškození při zásahu magického stvoření. 
-- *Jako zbraň* - Zbraň s *+1* bonusem do zásahu a záchranných hodů proti magii. Navíc působí extra *1d6* poškození při zásahu magického stvoření.
+- *Jako munice* - Extra 1k6 poškození při zásahu magického stvoření. 
+- *Jako zbraň* - Zbraň s *+1* bonusem do zásahu a záchranných hodů proti magii. Navíc působí extra *1k6* poškození při zásahu magického stvoření.
 
 **Léčivý lektvar:** Alchymistická substance doplňující energii a urychlující léčení různých zranění.
 
-- *Slabý* - Vyléčí *1d4+1* poškození.
-- *Normální* -Vyléčí *2d6+2* poškození.
+- *Slabý* - Vyléčí *1k4+1* poškození.
+- *Normální* -Vyléčí *2k6+2* poškození.
 
 **Řetízek ochrany:** Ochranný řetízek vyroben ze skořápky ulity cepového hlemíždě. Díky svým anti-magickým vlastnostem ochraňuje nositele proti *10-ti* zásahům *Magické střely*. Po vyčerpání ochrany se nenávratně rozbije.
 
