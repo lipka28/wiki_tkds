@@ -61,7 +61,6 @@ Kouzla z tohohle seznamu, jsou dostupná všem povoláními užívající magii.
 31. Prohoď těla
 32. Promíchej
 33. Pronikavý zrak
-34. Proti-kouzlo
 35. Rozkaz
 36. Rozžhav kov
 37. Slepota
@@ -100,7 +99,7 @@ Následuje podrobný popis efektů dříve zmíněných kouzel. Pokud není spec
 - *Prodloužení kouzla* Probíhající kouzlo můžeš kdykoliv prodloužit za cenu sesílání bez nutnosti opakování kouzla. 
 - *Odvolání* - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal. (pokud nebylo odraženo) 
 - *Záchranný hod* - Cíl každého kouzla může podstoupit záchranný hod a tím se vyvarovat jeho efektu. U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. 
-- *Kombinace efektů* - Více souběžných kouzel, nemůže být použito k navýšení té samé dovednosti (Síla, Zručnost, OČ, Životy a podobně...). 
+- *Kombinace efektů* - Více souběžných kouzel, nemůže být použito k ovlivlnění té samé dovednosti (Síla, Zručnost, OČ, Životy a podobně...). 
 - *Předmět* - Jakýkoliv předmět, který se dá bez problému unést jednou rukou. 
 - *Subjekt* - Je cokoliv až do dvojnásobku velikosti člověka.
 
@@ -332,17 +331,6 @@ Dokážeš prohlédnout všechny iluze poblíž (do 25-ti metrů)
 
 ---
 
-### Proti-kouzlo
-
-Ihned vyruší právě probíhající čarování kouzla jiného sesilatele poblíž (do 25-ti metrů). 
-
-- *Instantní* - Tohle kouzlo lze použít pouze jako instantní akci. 
-- *Rozdíl úrovní* - Lze vyrušit čarování jen u sesilatelů stejné nebo nižší úrovně. 
-- *Porovnání* - O úspěchu proti-kouzla rozhoduje ověření zručnosti obou čarujících.
-- *Úspěch* - Sesílané kouzlo cíle je ztraceno včetně ceny za seslání. Cíl také nemůže *L* kol čarovat. Bez nároku na záchranný hod.
-
----
-
 ### Rozkaz
 
 *L* stvoření poblíž (do 25-ti metrů) uposlechne jednoduchý rozkaz, který jim neublíží, o maximální délce 3 slova.
@@ -494,9 +482,6 @@ Můžeš změnit počasí v oblasti ve které se zrovna nacházíš na jiné. Zm
 ### Zpomal pád
 
 Zpomalí rychlost pádu *L* subjektů v dosahu na 1 meter za sekundu (6 metrů za kolo) a předejde jejich poškození.  
-
-- *Instantní* - Tohle kouzlo lze použít pouze jako instantní akci. 
-- *Konec* - Kouzlo končí buď vypršením doby trvání nebo kontaktem s pevným povrchem (co přijde dřív).
 
 ---
 

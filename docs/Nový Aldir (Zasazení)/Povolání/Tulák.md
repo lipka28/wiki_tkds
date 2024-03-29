@@ -43,7 +43,7 @@ Tulák má bonus ve výši své úrovně, ke všem ověření dovedností týkaj
 
 ### Úroveň 2 - Špinavý trik
 
-V boji se můžeš pokusit ukrást (vyžaduje volnou ruku) nebo umístit předmět na cíli v dosahu (platí bonusy z *"Tulácký um"*) jako instantní akci. Předmět pro ukradení / umístění nesmí zabírat víc jak 1 slot. Pokud chceš ukrást předmět co dotyčný cíl drží v ruce, házíš ověření dovednosti s nevýhodou.
+V boji se můžeš, jako součást útoku na blízko nebo na místo útoku, pokusit ukrást (vyžaduje volnou ruku) nebo umístit předmět na cíli v dosahu (platí bonusy z *"Tulácký um"*). Předmět pro ukradení / umístění nesmí zabírat víc jak 1 slot. Pokud chceš ukrást předmět co dotyčný cíl drží v ruce, házíš ověření dovednosti s nevýhodou.
 
 ### Úroveň 4, 8, 12... - Perk
 
@@ -58,4 +58,4 @@ Vyber si 2 aktivity pokryté v [Tulácký um](/Nový%20Aldir%20%28Zasazení%29/P
 
 ### Úroveň 10 - Úhyb
 
-Když obdržíš poškození, tak můžeš použít instantní akci aby si jej zredukoval na polovinu.
+Když obdržíš poškození, tak se jej můžeš jedenkrát za kolo pokusit zredukoval na polovinu s šancí 3 z 6-ti.

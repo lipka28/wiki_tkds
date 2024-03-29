@@ -31,12 +31,12 @@ Pokud není čas zaobírat se tvorbou vlastních perků, lze využít jeden z pe
 
 **Požadavky:** Síla >= *16*
 
-**Efekt:** Ve chvíli kdy obdržíš poškození a jsi při smyslech nebo zrovna neběsníš, můžeš použít svou instantní akci, aby sis vyléčil *1/2* obdrženého poškození a začal na *5* kol *běsnit*. Během *běsnění* platí následující:
+**Efekt:** Ve chvíli kdy obdržíš poškození a jsi při smyslech nebo zrovna neběsníš, můžeš začít *běsnit* na *5* kol a tím si vyléčit *1/2* posledního obdrženého poškození. Během *běsnění* platí následující:
 
 - Tvé základní OČ je o 2 nižší.
 - Nemůžeš sesílat kouzla, používat předměty nebo střelné zbraně (Obecně cokoliv co vyžaduje míru soustředění).
 - Máš extrémní sílu - Všechny tvé útoky dávají aspoň 1d6 poškození, všechno tebou udělené poškození se hází s výhodou a tvůj bonus ze síly ke všemu aplikovatelnému je dvojnásobný (ověřování dovedností, zásah, poškození atd...).
-- Neplatí pro tebe postihy za improvizované zbraně, neozbrojený boj a únavu.
+- Neplatí pro tebe postihy za improvizované zbraně a neozbrojený boj.
 
 Po skončení běsnění obdržíš 1 bod únavy.
 
@@ -44,7 +44,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** *Zuřivost*
 
-**Efekt:** Tvé běsnění trvá *10 kol* a nemůžeš během něj zemřít. Výmaje efektů instantního zabití a poškození, které je stejné nebo větší jako dvojnásobek tvého maximálního zdraví. Pokud máš 0 životů na konci svého běsnění upadneš do bezvědomí na *1d4* směn.
+**Efekt:** Tvé běsnění trvá *10 kol* a nemůžeš během něj zemřít. Výmaje efektů okamžitého zabití, a poškození, které je stejné nebo větší jako dvojnásobek tvého maximálního zdraví. Pokud máš 0 životů na konci svého běsnění upadneš do bezvědomí na *1d4* směn.
 
 ### Obrovská síla
 
@@ -64,7 +64,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Zručnost >= *13*
 
-**Efekt:** Můžeš zaútočit malou zbraní jako instantní akci. Útok probíhá s nevýhodou a maximálně na efektivní vzdálenost zbraně.
+**Efekt:** Můžeš, jako součást útoku, provést extra útok malou zbraní. Útok probíhá s nevýhodou a maximálně na efektivní vzdálenost zbraně.
 
 ### Šerm
 
@@ -73,7 +73,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 **Efekt:** Pokud nemáš vybaven štít a nebo těžkou nebo těžší zbroj, můžeš obětovat své útočné akce v daném kolem a zaujmout *defenzivní postavení*. 
 
 - *Defenzivní postavení* - Pokud je na tebe zaútočeno útokem na blízku, můžeš si vybrat krýt se za pomocí svého OČ nebo hodem na zásah svou zbraní na blízku. Pokud si vybereš hod na zásah, použij modifikátor obratnosti na místo síly. Pokud je tvůj výsledný hod na zásah vyšší než hod na zásah nepřítele, úspěšně si provedl *parry* a tím útok vykryl.
-- *Reakce* -  Po úspěšném *parry* můžeš pokusit o bojový manévr (odzbrojení, shození na zem, odšduchnutí, atd...) jako instantní akci. 
+- *Reakce* -  Po úspěšném *parry* se můžeš jedenkrát za kolo pokusit o bojový manévr (odzbrojení, shození na zem, odšduchnutí, atd...). 
 
 ### Mistr šermu
 
@@ -97,7 +97,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 **Požadavky:** Zručnost >= *18*
 
-**Efekt:** Pokud máš volnou ruku, můžeš jako instantní akci chytit šíp nebo hozenou zbraň o které víš že na tebe letí. Útok nesmí působit víc jak 1 kostku poškození.
+**Efekt:** Pokud máš volnou ruku, můžeš jedenkrát za kolo chytit šíp nebo hozenou zbraň o které víš že na tebe letí. Útok nesmí působit víc jak 1 kostku poškození.
 
 ### Běhání po stěnách
 

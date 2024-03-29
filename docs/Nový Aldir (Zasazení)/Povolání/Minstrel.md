@@ -51,7 +51,7 @@ Minstrel má bonus ve výši své úrovně, ke všem ověření dovedností týk
 Minstrel můžě obětovat svou akci v daném kole a hrát bojovou píseň pro všechny spojence poblíž (do 25 metrů). Hraní písně se pro účely boje počítá jako sesílání kouzla avšak lze se při něm pohybovat.
 
 - *Efekt písně* - Pokud píseň zní, tak spojenci mají bonus +1 k zásahu, poškození, OČ, záchranným hodům a všechno poškození, které spojenci obdrží je sníženo o 1 za každou kostku poškození v daném útoku.
-- *Rozptýlit* - Pokud píseň zní, může minstrel použít instantní akci aby rozptýlil jednoho nepřítele poblíž (do 25 metrů), krátkou rýmovačkou na jeho zesměšnění. Cíl rozptýlení má 50% šanci, že zapomene co chtěl zrovna dělat bude své soustředění nově upírat na minstrela. 
+- *Rozptýlit* - Pokud píseň zní, může minstrel jedenkrát za kolo rozptýlil jednoho nepřítele poblíž (do 25 metrů), krátkou rýmovačkou na jeho zesměšnění. Cíl rozptýlení má 3 z 6-ti šanci, že bude mít nevýhodu na svůj první následující hod kostkou. 
 
 ### Úroveň 4, 8, 12... - Perk
 

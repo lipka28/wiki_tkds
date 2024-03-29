@@ -68,7 +68,6 @@ Můžeš zdvojnásobit cenu sesílání svého naučeného kouzla aby si umocnil
 
 - **Zdvojnásob aspekt** - Můžeš zdvojnásobit libovolný aspekt tvého kouzla (Dosah, rozsah, počet cílů, trvání, poškození atd...).
 - **Posílit** - Cíl(e) kouzla hází na záchranu s nevýhodou.
-- **Instantní kouzlo (Zvedne cenu kouzla 4x)** - Seslat normální kouzlo jako instantní.
 
 Způsoby lze i kombinovat avšak cena kouzla se pak vždy násobí dvěma. 
 

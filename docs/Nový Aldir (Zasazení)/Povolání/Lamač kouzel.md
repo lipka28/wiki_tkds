@@ -59,7 +59,6 @@ Pokud máš volnou ruku, tak můžeš provést neozbrojený útok, který nepůs
 - *Nat 20* - Při kritickém zásahu je doba prodloužena na 1 směnu.  
 - *Čarující cíl* - Pokud stvoření zrovna čarovalo, kouzlo je okamžitě ztraceno. 
 - *Mimo boj* - Tato schopnost se dá použít i na zrušení trvajícího magického efektu. Ať už na předmětu či stvoření. 
-- *Instantní akce* - Tento útok lze použít i jako instantní akci. Avšak na zásah se pak hází s nevýhodou. 
 
 !!! note "Permanentní magické předměty"
     Pokud je cílem *Zlom magii* permanentní magický předmět. Jako například +2 meč či nějaké prokletí. Je odstranění magického efektu jen dočasné (1 směna).
@@ -73,7 +72,7 @@ Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 ### Úroveň 6 - Přesměruj magii
 
-Pokud hodíš na záchranu proti magii 20 nebo více (včetně bonusů), můžeš jako instantní akci kouzlo odrazit na jiný cíl v dosahu tvého vševidoucího oka.
+Pokud hodíš na záchranu proti magii 20 nebo více (včetně bonusů), můžeš, jedenkrát za kolo, kouzlo odrazit na jiný cíl v dosahu tvého vševidoucího oka.
 
 !!! Note "Hod na záchranu a magická imunita"
     Pro aplikování této schopnosti je třeba, aby si lamač kouzel házel na záchranu proti magii i v případě, že je proti magii imunní.

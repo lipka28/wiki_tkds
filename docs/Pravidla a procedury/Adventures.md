@@ -99,7 +99,7 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 **Přirozená regenerace:** Za každý den nerušeného odpočinku stvoření zregeneruje *2 život*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy. Přirozená regenerace je jedním z mála způsobů jak léčit životy ztracené kvůli únavě.
 
-**Magické léčení:** Léčit lze také pomocí lektvarů, nebo kouzel. Tato forma léčení je většinou instantní. Magické a přirozené léčení lze kombinovat.
+**Magické léčení:** Léčit lze také pomocí lektvarů, nebo kouzel. Tato forma léčení je většinou okamžitá. Magické a přirozené léčení lze kombinovat.
 
 **Smrt:** Monstrum nebo hráč jehož životy jsou zredukovány na *0* nebo méně, je považováno za mrtvé.
 
