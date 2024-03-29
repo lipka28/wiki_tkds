@@ -23,13 +23,13 @@ Pokud není čas zaobírat se tvorbou vlastních perků, lze využít jeden z pe
 
 ### Těžkooděnec
 
-**Požadavky:** Síla >= *13*
+**Požadavky:** Síla >= *9*
 
 **Efekt:** Všechny zbroje a štíty, které máš mezi vybavenými předměty (oblečné) zabírají pro tebe o 1 slot méně. Pokud by tato změna zredukovala váhu na 0 tak je váha daného předmětu L.
 
 ### Zuřivost
 
-**Požadavky:** Síla >= *16*
+**Požadavky:** Síla >= *13*
 
 **Efekt:** Ve chvíli kdy obdržíš poškození a jsi při smyslech nebo zrovna neběsníš, můžeš začít *běsnit* na *5* kol a tím si vyléčit *1/2* posledního obdrženého poškození. Během *běsnění* platí následující:
 
@@ -48,7 +48,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 ### Obrovská síla
 
-**Požadavky:** Síla >= *21*
+**Požadavky:** Síla >= *18*
 
 **Efekt:** Můžeš používat běžné obouruční zbraně jako by byli jednoruční. Případně efektivně bojovat i obřími zbraněmi (Například masivní obouruční meč).
 
@@ -56,19 +56,19 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 ### Přebíjení za pohybu
 
-**Požadavky:** Zručnost >= *9*
+**Požadavky:** Síla >= *9*
 
 **Efekt:** Pokud máš zbraň vyžadující přebíjení a to přebíjení netrvá více než 1 dlouhou akci, můžeš takovou zbraň přebít jako běžnou akci.
 
 ### Rychlý útok
 
-**Požadavky:** Zručnost >= *13*
+**Požadavky:** Zručnost >= *9*
 
 **Efekt:** Můžeš, jako součást útoku, provést extra útok malou zbraní. Útok probíhá s nevýhodou a maximálně na efektivní vzdálenost zbraně.
 
 ### Šerm
 
-**Požadavky:** Zručnost >= *16*
+**Požadavky:** Zručnost >= *13*
 
 **Efekt:** Pokud nemáš vybaven štít a nebo těžkou zbroj, můžeš použít svou běžnou akci k zaujmutí *defenzivního postavení*. 
 
@@ -83,25 +83,25 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 ### Zacházení se štítem
 
-**Požadavky:** Zručnost >= *16*
+**Požadavky:** Zručnost >= *13*
 
 **Efekt:** Štít v tvých rukou poskytuje o *1* vyšší OČ.
 
 ### Na všechny 4
 
-**Požadavky:** Zručnost >= *18*
+**Požadavky:** Zručnost >= *16*
 
 **Efekt:** Pokud nemáš na sobě těžší jak lehkou zbroj. Poškození působené pádem z výšky nebo nuceným pohybem (například když tě něco odhodí proti zdi) je poloviční.
 
 ### Chyť šíp
 
-**Požadavky:** Zručnost >= *18*
+**Požadavky:** Zručnost >= *16*
 
 **Efekt:** Pokud máš volnou ruku, můžeš jedenkrát za kolo chytit šíp nebo hozenou zbraň o které víš že na tebe letí. Útok nesmí působit víc jak 1 kostku poškození.
 
 ### Běhání po stěnách
 
-**Požadavky:** Zručnost >= *21*
+**Požadavky:** Zručnost >= *18*
 
 **Efekt:** Pokud nemáš těžší jak lehkou zbroj. Můžeš běhat po stěnách svou plnou hybností. Pokud na konci běhu se nemáš čeho zachytit nebo kde stoupnout tak spadneš.
 
@@ -115,19 +115,19 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 ### Plavec
 
-**Požadavky:** Výdrž >= *13*
+**Požadavky:** Výdrž >= *9*
 
 **Efekt:** Tvá rychlost plavání je o *3* vyšší a navíc vydržíš držet dech dvojnásobnou dobu (hodnota výdrže x 2).
 
 ### Houževnatost
 
-**Požadavky:** Výdrž >= *16*
+**Požadavky:** Výdrž >= *13*
 
 **Efekt:** Máš o *5 životů* víc.
 
 ### Odolný
 
-**Požadavky:** Výdrž >= *18*
+**Požadavky:** Výdrž >= *16*
 
 **Efekt:** Tvůj tabulkový *záchranný hod* je o *2* nižší a tvé základní *OČ* o *1* vyšší.
 
@@ -141,13 +141,13 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 ### Používání svitků
 
-**Požadavky:** Rozum >= *13*
+**Požadavky:** Rozum >= *9*
 
 **Efekt:** Můžeš používat magické svitky bez nutnosti házet na ověření rozumu.
 
 ### Magický trik
 
-**Požadavky:** Rozum >= *16*
+**Požadavky:** Rozum >= *13*
 
 **Efekt:** Naučil si se *1* kouzlo, které můžeš seslat jako sesilatel *1. úrovně*, *1x denně*.
 
@@ -159,7 +159,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 ### Do hlubin magie
 
-**Požadavky:** Rozum >= *18* a postava umí sesílat nějaké kouzla
+**Požadavky:** Rozum >= *16* a postava umí sesílat nějaké kouzla
 
 **Speciální:** Tento perk si lze vzít opakovaně až *3x*.
 
@@ -167,7 +167,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 ### Poslední přání
 
-**Požadavky:** Rozum >= *21* nebo *do hlubin magie 3x*
+**Požadavky:** Rozum >= *18* nebo *do hlubin magie 3x*
 
 **Efekt:** Můžeš 1x seslat mocné kouzlo, které udělá cokoliv si zamaneš. Použitím tohoto kouzla permanentně ztratíš polovinu svých maximálních životů a schopnost používat magii.
 
@@ -186,13 +186,13 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 ### Ne neuposlechnutelný rozkaz
 
-**Požadavky:** Osobnost >= *13*
+**Požadavky:** Osobnost >= *9*
 
 **Efekt:** Můžeš svému společníkovi dát rozkaz, který nemůže odmítnout navzdory svém přesvědčení (mimo přímo nebezpečných rozkazů typu "zabij se"). Pokud se mu však při vykonávání takového rozkazu něco zlého stane, už nikdy další takový rozkaz neuposlechne. 
 
 ### Síla vůle
 
-**Požadavky:** Osobnost >= *16*
+**Požadavky:** Osobnost >= *13*
 
 **Efekt:** Máš bonus +2 do záchranných hodů *proti ovlivnění mysl*.
 
@@ -200,7 +200,7 @@ Po skončení běsnění obdržíš 1 bod únavy.
 
 ### Boj se dvěma zbraněmi
 
-**Požadavky:** Síla a Zručnost >= *13*
+**Požadavky:** Síla a Zručnost >= *9*
 
 **Efekt:** Tvá druhá zbraň poskytuje bonus k zásahu a poškození ve výší *+2* na místo +1. Alternativně se můžeš tohoto bonusu do začátku svého příštího tahu vzdát a zaútočit každou zbraní zvlášť.
 
