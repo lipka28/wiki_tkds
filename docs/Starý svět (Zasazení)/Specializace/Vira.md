@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/classes/Religion.png)
+![Image title](/assets/OW/classes/Religion.png)
 
 <img src="/assets/sep_line.png"/>
 

@@ -6,7 +6,7 @@
 !!! danger "Pouze lidé"
      Řád lamačů kouzel je exkluzivně lidský. Tohle povolání je tedy k dispozici pouze hráčům hrající za člověka.
 
-![Image title](/assets/classes/spellbreaker.webp)
+![Image title](/assets/NAldir/classes/spellbreaker.webp)
 
 *Řád lamačů kouzel Aldirské republiky je proslulý a obávaný napříč celým Aldirem. Jeho elitně cvičení bojovníci jsou obávaní a respektovaní všude kam přijdou. Lamači kouzel disponují alchymisticky modifikovaným okem, kterému se říká vševidoucí oko. Tímto okem dokáží odhalit i ten nejvíce ukrývaný zdroj magie. Jejich úkol je prostý. Zabít, zničit nebo uvěznit vše, co jen zavání magií. Někteří lamači kouzel si však tohle poslání vykládají po svém a stávají se z nich sběratelé magických artefaktů. Povolání lamače kouzel je vhodné pro všechny co touží po respektu a poslání.*
 

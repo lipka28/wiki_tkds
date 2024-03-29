@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/classes/Wizard.jpeg)
+![Image title](/assets/OW/classes/Wizard.jpeg)
 
 <img src="/assets/sep_line.png"/>
 

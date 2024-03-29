@@ -1,12 +1,12 @@
 # Staří bohové
 
-<img src="/assets/gods/panth_banner.webp" style="zoom:100%;" />
+<img src="/assets/NAldir/gods/panth_banner.webp" style="zoom:100%;" />
 
 V této kapitole je seznam bohů, kteří byli kdysi v Aldiru uctíváni. Dnes už je uctívání božstev spíš vzácné a vyskytuje se spíše v malých lokalizovaných komunitách. 
 
 ## Luménie (Paní světla)
 
-![Image title](/assets/gods/Lumenie_final.webp)
+![Image title](/assets/NAldir/gods/Lumenie_final.webp)
 
 **Domény působnosti:** Oheň, Slunce, Světlo, Léčení 
 
@@ -19,7 +19,7 @@ V této kapitole je seznam bohů, kteří byli kdysi v Aldiru uctíváni. Dnes u
 
 ## Tera (Matka země)
 
-![Image title](/assets/gods/Tera_final.webp)
+![Image title](/assets/NAldir/gods/Tera_final.webp)
 
 **Domény působnosti:** Země, Cestování, Příroda, Rovnost 
 
@@ -31,7 +31,7 @@ V této kapitole je seznam bohů, kteří byli kdysi v Aldiru uctíváni. Dnes u
 
 ## Havranar (Bouřlivý havran)
 
-![Image title](/assets/gods/Havranar_final.webp)
+![Image title](/assets/NAldir/gods/Havranar_final.webp)
 
 **Domény působnosti:** Bouře, Moře, Síla, Ptactvo 
 
@@ -43,7 +43,7 @@ V této kapitole je seznam bohů, kteří byli kdysi v Aldiru uctíváni. Dnes u
 
 ## Noadhir (Otec draků)
 
-![Image title](/assets/gods/Noadhir_final.webp)
+![Image title](/assets/NAldir/gods/Noadhir_final.webp)
 
 **Domény působnosti:** Voda, Zima, Měsíc, Znovuzrození 
 
@@ -56,7 +56,7 @@ V této kapitole je seznam bohů, kteří byli kdysi v Aldiru uctíváni. Dnes u
 
 ## Amorundur (Nebeský strážce)
 
-![Image title](/assets/gods/Amorundur_final.webp)
+![Image title](/assets/NAldir/gods/Amorundur_final.webp)
 
 **Domény působnosti:** Nebe, Vítr, Svoboda, Láska 
 
@@ -68,7 +68,7 @@ V této kapitole je seznam bohů, kteří byli kdysi v Aldiru uctíváni. Dnes u
 
 ## Nekrofos (Smrt)
 
-![Image title](/assets/gods/Nekrofos_final.webp)
+![Image title](/assets/NAldir/gods/Nekrofos_final.webp)
 
 **Domény působnosti:** Smrt, Noc, Nemrtví, Vědomosti 
 
@@ -81,7 +81,7 @@ V této kapitole je seznam bohů, kteří byli kdysi v Aldiru uctíváni. Dnes u
 
 ## Bane (Velký válečník)
 
-![Image title](/assets/gods/Bane_final.webp)
+![Image title](/assets/NAldir/gods/Bane_final.webp)
 
 **Domény působnosti:** Válka, Oheň, Ničení, Odvaha 
 
@@ -93,7 +93,7 @@ V této kapitole je seznam bohů, kteří byli kdysi v Aldiru uctíváni. Dnes u
 
 ## Jaka (Múza)
 
-![Image title](/assets/gods/Jaka_final.webp)
+![Image title](/assets/NAldir/gods/Jaka_final.webp)
 
 **Domény působnosti:** Podvody, Iluze, Slavnosti, Štěstí 
 

@@ -1,6 +1,6 @@
 # Pulčíci
 
-![Image title](/assets/races/halfling.webp)
+![Image title](/assets/NAldir/races/halfling.webp)
 
 **Požadavky:** Zručnost >= 11 a Výdrž <= 9  
 

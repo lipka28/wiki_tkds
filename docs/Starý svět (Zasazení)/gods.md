@@ -16,7 +16,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Vsematka.jpg)
+![Image title](/assets/OW/gods/Vsematka.jpg)
 
 <img src="/assets/sep_line.png"/>
 
@@ -34,7 +34,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Durnak.jpg)
+![Image title](/assets/OW/gods/Durnak.jpg)
 
 <img src="/assets/sep_line.png"/>
 
@@ -52,7 +52,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Alamar.jpg)
+![Image title](/assets/OW/gods/Alamar.jpg)
 
 <img src="/assets/sep_line.png"/>
 
@@ -70,7 +70,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Juna.jpg)
+![Image title](/assets/OW/gods/Juna.jpg)
 
 <img src="/assets/sep_line.png"/>
 
@@ -88,7 +88,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Umdur.jpg)
+![Image title](/assets/OW/gods/Umdur.jpg)
 
 <img src="/assets/sep_line.png"/>
 
@@ -106,7 +106,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/gods/Nightmother.jpg)
+![Image title](/assets/OW/gods/Nightmother.jpg)
 
 <img src="/assets/sep_line.png"/>
 

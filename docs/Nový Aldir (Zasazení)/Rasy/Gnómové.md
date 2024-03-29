@@ -1,6 +1,6 @@
 # Gnómové
 
-![Image title](/assets/races/gnome.webp)
+![Image title](/assets/NAldir/races/gnome.webp)
 
 **Požadavky:** Rozum >= 14 a Zručnost >= 11  
 

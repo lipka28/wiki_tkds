@@ -1,6 +1,6 @@
 # Velkomocní
 
-![Image title](/assets/races/vel.webp)
+![Image title](/assets/NAldir/races/vel.webp)
 
 **Požadavky:** NAT 18 v libovolné dovednosti NEBO žádná dovednost není nižší jak NAT 13  
 

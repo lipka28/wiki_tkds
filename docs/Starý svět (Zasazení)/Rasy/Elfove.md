@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/races/Elf.png)
+![Image title](/assets/OW/races/Elf.png)
 
 <img src="/assets/sep_line.png"/>
 

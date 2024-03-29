@@ -1,6 +1,6 @@
 # Perky
 
-<img src="/assets/talent_banners/SB.webp" style="zoom:100%;" />
+<img src="/assets/NAldir/talent_banners/SB.webp" style="zoom:100%;" />
 
 Perky jsou zvláštní schopnosti, které může hráčova postava získat během hry. Ať už postupem na vyšší úroveň, tak rozhodnutími učiněnými při hře samotné. Pokud není stanoveno jinak každý perk lze mít pouze jednou.
 

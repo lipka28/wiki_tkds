@@ -2,6 +2,10 @@
 
 <img src="/assets/sep_line.png"/>
 
+![Image title](/assets/magic.webp)
+
+<img src="/assets/sep_line.png"/>
+
 Ve starém světě je magie všude kolem. Víří nad hlavami smrtelníků i Povznesených ale nikdo úplně netuší odkud se bere. Existují teorie, že na svět proniká z vyšších sfér, když Povznesení otevřou portál do vyšší sféry. Jiní zase tvrdí, že magie je omezený přírodní zdroj a mělo by se jí šetřit. Nic to však nemění na faktu, že magie je všude kolem. Existují odvážlivci, kteří se naučí formovat magii k obrazu svému. Ti pak většinu svého života stráví zkoumáním nových kouzel a hledáním magických zřídel, která propůjčí kouzelníkovi ohromnou moc.
 
 Hráčské postavy, s vyšší inteligencí, se mohou do zkoumání magie ponořit investováním do specializace na magii. Pravidla pro používání magie jsou následující.

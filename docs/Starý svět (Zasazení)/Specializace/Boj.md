@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/classes/Fighter.jpeg)
+![Image title](/assets/OW/classes/Fighter.jpeg)
 
 <img src="/assets/sep_line.png"/>
 

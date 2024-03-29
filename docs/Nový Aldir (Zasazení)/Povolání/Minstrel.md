@@ -1,6 +1,6 @@
 # Minstrel
 
-![Image title](/assets/classes/bard.webp)
+![Image title](/assets/NAldir/classes/bard.webp)
 
 *Minstrelové jsou potulní hudebníci, zpěváci a baviči. Jejich ohromný talent zaujme i to nejnáročnější publikum. Ať už sedíte večer u táboráku po dlouhé celodenní cestě nebo se nacházíte ve víru boje, minstrelovi melodie a zpěv vás pohladí na duši. Jejich múzické nadání jim běžně otevírá dveře i do vyšších společností, kde jsou ale často zneužíváni jako špioni. Povolání minstrela je vhodné pro každého kdo se rád podělí o svůj talent a nevadí mu se dostat do potíží.*
 

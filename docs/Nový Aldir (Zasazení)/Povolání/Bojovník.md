@@ -1,6 +1,6 @@
 # Bojovník
 
-![Image title](/assets/classes/fighter.webp)
+![Image title](/assets/NAldir/classes/fighter.webp)
 
 *Bojovníci jsou mistři zbraně, kteří vypilovali své bojové schopnosti až na úroveň umění. Ať už bojují za čest, zlato nebo slávu. Jejich smrtelné útoky a obdivuhodné chvaty se hodí vždy když jde do tuhého. Mezi dobrodruhy je jejich úkolem především zabíjet silná monstra a chránit užitečné subjekty. Povolání bojovníka se hodí pro kohokoliv kdo se rád vrhá po hlavě do jakéhokoliv nebezpečí.*
 

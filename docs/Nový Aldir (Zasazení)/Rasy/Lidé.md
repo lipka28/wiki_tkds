@@ -1,6 +1,6 @@
 # Lidé
 
-![Image title](/assets/races/human.webp)
+![Image title](/assets/NAldir/races/human.webp)
 
 **Požadavky:** -  
 

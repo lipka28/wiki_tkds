@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/races/Dwarf.png)
+![Image title](/assets/OW/races/Dwarf.png)
 
 <img src="/assets/sep_line.png"/>
 

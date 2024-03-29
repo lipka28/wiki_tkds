@@ -1,6 +1,6 @@
 # Trpaslíci
 
-![Image title](/assets/races/dwarf.webp)
+![Image title](/assets/NAldir/races/dwarf.webp)
 
 **Požadavky:** Síla >= 14 a Výdrž >= 11  
 
