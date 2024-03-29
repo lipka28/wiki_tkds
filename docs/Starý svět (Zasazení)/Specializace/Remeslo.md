@@ -42,7 +42,7 @@ Zvýšením své specializace v řemeslech. Postava dosáhne na nové schopnosti
 
 ### Body specializace
 
-Postavy specializující se na řemeslo se mohou naučit sadou výjimečných schopností. Ve kterých se mohou následně zlepšovat. V základu postava (až na výjimky) neumí žádnou z těchto schopností. První vylepšení, schopnost odemkne a umožní ji vykonávat s *HU 6*. Další investované body specializace pak *snižují HU o 1* až na *minimální HU 2*.
+Postavy specializující se na řemeslo se mohou naučit sadu výjimečných schopností. Ve kterých se mohou následně zlepšovat. V základu postava (až na výjimky) neumí žádnou z těchto schopností. První vylepšení, schopnost odemkne a umožní ji vykonávat s *HU 6*. Další investované body specializace pak *snižují HU o 1* až na *minimální HU 2*.
 
 !!! warning "Omezení zbroje"
     Provádění některých schopností je penalizováno, pokud na sobě má postava *střední nebo těžší* zbroj. Tyto schopnosti mají v popisku zmíněno *"Omezení zbroje"*. U takových schopností *se zvedá HU o 2 za každý stupeň zbroje nad lehkou*.

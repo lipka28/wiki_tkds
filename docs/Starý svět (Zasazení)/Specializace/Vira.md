@@ -43,7 +43,7 @@ Zvýšením své specializace na víru. Postava dosáhne na nové schopnosti a v
 | 5      | +1k6 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
 | 6      | +1k6 + Mod. Výdrže |  +0  |   -1   | +1 Pomoc, Uškoď nepříteli |
 | 7      | +1k6 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
-| 8      | +1k6 + Mod. Výdrže |  +2  |   -2   |  +1 Pomoc, Pomoc patrona  |
+| 8      | +1k6 + Mod. Výdrže |  +2  |   -2   |    +1 Pomoc, Předtucha    |
 | 9      | +1k6 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
 | 10     | +1k6 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
 
