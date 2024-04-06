@@ -82,7 +82,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 | -------------- | :------------------: |
 | -              | Hadi, Nemoci, Zdraví |
 
-**Speciální schopnost:** Postavy, s výchozí specializací na víru, které uctívají Junu. Získávají na místo schopnosti *zbraň patrona*. Schopnost používat svou pomoc k léčení dotykem. Toto léčení vyléčí *1k4 životů* nebo poskytne *extra záchranný hod proti jedům*. V boji je tato aktivita považována za *běžnou akci*. 
+**Speciální schopnost:** Postavy, s výchozí specializací na víru, které uctívají Junu. Získávají na místo schopnosti *zbraň patrona*. Schopnost používat svou pomoc k léčení dotykem. Toto léčení vyléčí *1k4 životů* nebo poskytne *extra záchranný hod proti jedům*. Obě tyto použití probíhají automaticky s výhodou. V boji je tato aktivita považována za *běžnou akci*. 
 
 <img src="/assets/sep_line.png"/>
 
