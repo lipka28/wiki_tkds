@@ -78,9 +78,11 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 **Symbol:** Stříbrný Uroboros
 
-| Uznávaná zbraň                                           |     Sféry vlivu      |
-| -------------------------------------------------------- | :------------------: |
-| Neozbrojená - Neposkytuje bonus k poškození žádné zbraně | Hadi, Nemoci, Zdraví |
+| Uznávaná zbraň |     Sféry vlivu      |
+| -------------- | :------------------: |
+| -              | Hadi, Nemoci, Zdraví |
+
+**Speciální schopnost:** Postavy, s výchozí specializací na víru, které uctívají Junu. Získávají na místo schopnosti *zbraň patrona*. Schopnost používat svou pomoc k léčení dotykem. Toto léčení vyléčí *1k4 životů* nebo poskytne *extra záchranný hod proti jedům*. V boji je tato aktivita považována za *běžnou akci*. 
 
 <img src="/assets/sep_line.png"/>
 
@@ -117,5 +119,25 @@ Následuje seznam nejčastěji uctívaných povznesených.
 | Uznávaná zbraň |   Sféry vlivu   |
 | -------------- | :-------------: |
 | Nůž            | Duše, Noc, Smrt |
+
+<img src="/assets/sep_line.png"/>
+
+### Múza
+
+<img src="/assets/sep_line.png"/>
+
+==Zde přidat obrázek symbolu až bude hotov==
+
+<img src="/assets/sep_line.png"/>
+
+**Popis:** U múzy není úplně jasné, zda se jedná o povznesenou nebo jen o mocné stvoření s říše Fey. Múza se prý zjevuje ztroskotaným umělcům, aby jim zamotala hlavy. Ti, kteří takové setkání přežijí, jsou pak schopni vyprodukovat překrásná umělecká díla.
+
+**Symbol:** Zlatá harfa
+
+| Uznávaná zbraň | Sféry vlivu |
+| -------------- | :---------: |
+| -              |      -      |
+
+**Speciální schopnost:** Postavy, s výchozí specializací na víru, které uctívají Múzu. Získávají na místo schopnosti *zbraň patrona*. Schopnost [pomoc spojenci](/Starý%20svět%20%28Zasazení%29/Specializace/Vira/#pomoc-spojenci) již od první úrovně a všechna jejich *pomoc* poskytnutá spojencům je s výhodou. Taková postava navíc na úrovni, kdy by měla normálně obdržet schopnost *pomoc spojenci*, obdrží *1 extra bod pomoci*.
 
 <img src="/assets/sep_line.png"/>

@@ -56,6 +56,7 @@ Postavy specializující se na řemeslo se mohou naučit sadu výjimečných sch
 | [Extrakce](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#extrakce) | Sběr vzácných surovin z monster                              |
 | [Jazyk](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#jazyk) | Naučit se specifický jazyk                                   |
 | [Manipuluj mechanizmus](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#manipuluj-mechanizmus) | Odemykání zámků a jiné manipulace drobných mechanizmů        |
+| [Múzický talent](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#muzicky-talent) | Zajištění dobré nálady svou uměleckou schopností.            |
 | [Odezírání ze rtů](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#odezirani-ze-rtu) | Odezírání ze rtů                                             |
 | [Ostražitost](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#ostrazitost) | Šance nebýt překvapen na začátku boje                        |
 | [Práce s jedy](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#prace-s-jedy) | Získání extra použití s jedů                                 |
@@ -136,6 +137,16 @@ Postava se může pokusit odemknout zámek nebo zneškodnit malou mechanickou pa
 - **Opakování:** Manipulace mechanizmu trvá *1 směnu* a vyžaduje *zlodějské náčiní*.
 - **Přirozená 1:** Pokud se jedná o zámek, tak je zámek mimo schopnosti postavy a musí s opakováním počkat do dosažení nové úrovně (nemusí se jednat o novou úroveň řemesla). Jedná-li se o past, ta se spustí.
 - **Omezení zbroje**
+
+<img src="/assets/sep_line.png"/>
+
+#### Múzický talent
+
+Postava ovládá nějaký múzický talent. Ať už je to zpěv, hraní na hudební nástroj, tanec nebo libovolná kombinace. Taková postava se může pokusit o zlepšení nálady ve svém okolí.
+
+- **Při přenocování:** Úspěšné ověření dovednosti vyléčí všem v tábořišti *1 život*. Toto léčení je bráno jako přirozená regenerace a léčí i únavu. Tato aktivita je považována za celovečerní a tudíž na ni nelze aplikovat body pomoci.
+- **Obecně:** Postava může úspěšným hodem na ověření schopnosti zahájit své vystoupení a uchvátit pozornost všech stvoření v okolí až *9 metrů*, která nejsou vůči postavě nepřátelská. Stvoření věnují všechnu svou pozornost postavě dokud nejsou nějak vyrušeni.
+    - **Okouzlení:** Pokud *Úchvatné vystoupení* postavy trvá alespoň *3 směny* a a postava uspěje v dalším hodu na ověření této schopnosti. Tak budou po zbytek dne všechna ovlivněná stvoření k postavě přátelská. (Bonus +2 k reakcím)
 
 <img src="/assets/sep_line.png"/>
 
