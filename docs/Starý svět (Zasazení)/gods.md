@@ -132,7 +132,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 **Popis:** U múzy není úplně jasné, zda se jedná o povznesenou nebo jen o mocné stvoření s říše Fey. Múza se prý zjevuje ztroskotaným umělcům, aby jim zamotala hlavy. Ti, kteří takové setkání přežijí, jsou pak schopni vyprodukovat překrásná umělecká díla.
 
-**Symbol:** Zlatá harfa
+**Symbol:** Tetování harfy
 
 | Uznávaná zbraň | Sféry vlivu |
 | -------------- | :---------: |

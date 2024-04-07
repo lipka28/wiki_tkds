@@ -13,7 +13,7 @@
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
-| *2+1k6+Mod. Výdrže* |     *+0*     |     *15*      |
+| *2+1k6+Mod. Výdrže* |     *+0*     |     *16*      |
 
 **Trénovaná výzbroj:** Postava, která si vybrala magii jako svou výchozí specializaci. Je trénovaná v používání *1 libovolné zbraně* vlastního výběru.
 
@@ -21,7 +21,7 @@
 
 ## Primární odolnost
 
-Postava, jejichž nejčetnější specializace je magie. Získává bonus *+2* k záchranným hodům *proti magii* a *proti ovlivnění mysli*.
+Postava, jejichž nejčetnější specializace je magie. Získává bonus *+3* k záchranným hodům *proti magii* a *proti ovlivnění mysli*.
 
 ## Dosažení nové úrovně specializace
 
@@ -29,15 +29,15 @@ Zvýšením své specializace v magii. Postava dosáhne na nové schopnosti a vy
 
 | Stupeň |       Životy       | Útok | Z. HOD |                          Speciální                           |
 | :----- | :----------------: | :--: | :----: | :----------------------------------------------------------: |
-| 1      | +1k4 + Mod. Výdrže |  +0  |   -0   | Ovládání magie, Magie 1. třídy, +1 kouzlo, +1 sesílání 1. třídy |
+| 1      | +1k4 + Mod. Výdrže |  +0  |   -1   | Ovládání magie, Magie 1. třídy, +1 kouzlo, +1 sesílání 1. třídy |
 | 2      | +1k4 + Mod. Výdrže |  +0  |   -1   |               +1 kouzlo, +2 sesílání 1. třídy                |
-| 3      | +1k4 + Mod. Výdrže |  +0  |   -0   | Magie 2. třídy, +1 kouzlo, +1 sesílání 2. třídy, Základní magický výzkum |
-| 4      | +1k4 + Mod. Výdrže |  +2  |   -2   |               +1 kouzlo, +2 sesílání 2. třídy                |
-| 5      | +1k4 + Mod. Výdrže |  +0  |   -0   |       Magie 3. třídy, +1 kouzlo, +1 sesílání 3. třídy        |
+| 3      | +1k4 + Mod. Výdrže |  +0  |   -1   | Magie 2. třídy, +1 kouzlo, +1 sesílání 2. třídy, Základní magický výzkum |
+| 4      | +1k4 + Mod. Výdrže |  +2  |   -1   |               +1 kouzlo, +2 sesílání 2. třídy                |
+| 5      | +1k4 + Mod. Výdrže |  +0  |   -1   |       Magie 3. třídy, +1 kouzlo, +1 sesílání 3. třídy        |
 | 6      | +1k4 + Mod. Výdrže |  +0  |   -1   |  +1 kouzlo, +2 sesílání 3. třídy, Pokročilý magický výzkum   |
-| 7      | +1k4 + Mod. Výdrže |  +0  |   -0   |       Magie 4. třídy, +1 kouzlo, +1 sesílání 4. třídy        |
-| 8      | +1k4 + Mod. Výdrže |  +2  |   -2   |         +1 kouzlo, +2 sesílání 4. třídy, Meta-magie          |
-| 9      | +1k4 + Mod. Výdrže |  +0  |   -0   |   Magie 5. a vyšší třídy, +1 kouzlo, +1 sesílání 5. třídy    |
+| 7      | +1k4 + Mod. Výdrže |  +0  |   -1   |       Magie 4. třídy, +1 kouzlo, +1 sesílání 4. třídy        |
+| 8      | +1k4 + Mod. Výdrže |  +2  |   -1   |         +1 kouzlo, +2 sesílání 4. třídy, Meta-magie          |
+| 9      | +1k4 + Mod. Výdrže |  +0  |   -1   |   Magie 5. a vyšší třídy, +1 kouzlo, +1 sesílání 5. třídy    |
 | 10     | +1k4 + Mod. Výdrže |  +0  |   -1   |               +1 kouzlo, +2 sesílání 5. třídy                |
 
 ### Ovládání magie

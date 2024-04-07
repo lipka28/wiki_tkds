@@ -21,7 +21,7 @@
 
 ## Primární odolnost
 
-Postava, jejichž nejčetnější specializace je boj. Získává bonus *+2* k záchranným hodům *proti síle*. 
+Postava, jejichž nejčetnější specializace je boj. Získává bonus *+3* k záchranným hodům *proti síle*. 
 
 ## Dosažení nové úrovně specializace
 
@@ -29,15 +29,15 @@ Zvýšením své specializace pro boj. Postava dosáhne na nové schopnosti a vy
 
 | Stupeň |       Životy       | Útok | Z. HOD |                Speciální                 |
 | :----- | :----------------: | :--: | :----: | :--------------------------------------: |
-| 1      | +1k8 + Mod. Výdrže |  +1  |   -0   |              Extra výzbroj               |
+| 1      | +1k8 + Mod. Výdrže |  +1  |   -1   |              Extra výzbroj               |
 | 2      | +1k8 + Mod. Výdrže |  +1  |   -1   |       Bojový talent, Extra výzbroj       |
-| 3      | +1k8 + Mod. Výdrže |  +1  |   -0   |              Extra výzbroj               |
-| 4      | +1k8 + Mod. Výdrže |  +1  |   -2   |              Extra výzbroj               |
-| 5      | +1k8 + Mod. Výdrže |  +1  |   -0   |       Bojový talent, Extra výzbroj       |
+| 3      | +1k8 + Mod. Výdrže |  +1  |   -1   |              Extra výzbroj               |
+| 4      | +1k8 + Mod. Výdrže |  +1  |   -1   |              Extra výzbroj               |
+| 5      | +1k8 + Mod. Výdrže |  +1  |   -1   |       Bojový talent, Extra výzbroj       |
 | 6      | +1k8 + Mod. Výdrže |  +1  |   -1   |              Extra výzbroj               |
-| 7      | +1k8 + Mod. Výdrže |  +1  |   -0   |              Extra výzbroj               |
-| 8      | +1k8 + Mod. Výdrže |  +1  |   -2   | Bojový talent, Extra útok, Extra výzbroj |
-| 9      | +1k8 + Mod. Výdrže |  +1  |   -0   |              Extra výzbroj               |
+| 7      | +1k8 + Mod. Výdrže |  +1  |   -1   |              Extra výzbroj               |
+| 8      | +1k8 + Mod. Výdrže |  +1  |   -1   | Bojový talent, Extra útok, Extra výzbroj |
+| 9      | +1k8 + Mod. Výdrže |  +1  |   -1   |              Extra výzbroj               |
 | 10     | +1k8 + Mod. Výdrže |  +1  |   -1   |              Extra výzbroj               |
 
 ### Extra výzbroj

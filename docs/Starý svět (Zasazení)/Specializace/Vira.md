@@ -16,7 +16,7 @@
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
-| *2+1k6+Mod. Výdrže* |     *+0*     |     *15*      |
+| *2+1k6+Mod. Výdrže* |     *+0*     |     *16*      |
 
 **Patron:** Postava vydávající se na cestu víry si potřebuje v první řadě vybrat *patrona*. Toho lze vybrat ze seznamu [Povznesených](/Starý%20svět%20%28Zasazení%29/gods/). Je dobré myslet na to, že výběr patrona ovlivňuje některé schopnosti věřícího. Postava, která si vybrala víru jako svou výchozí specializaci začíná hru se *Symbolem patrona*. Symbol patrona je nutnou součástí vybavených předmětů pro používání schopností získaných z víry.
 
@@ -36,15 +36,15 @@ Zvýšením své specializace na víru. Postava dosáhne na nové schopnosti a v
 
 | Stupeň |       Životy       | Útok | Z. HOD |         Speciální         |
 | :----- | :----------------: | :--: | :----: | :-----------------------: |
-| 1      | +1k6 + Mod. Výdrže |  +0  |   -0   |     Patron, +1 Pomoc      |
+| 1      | +1k6 + Mod. Výdrže |  +0  |   -1   |     Patron, +1 Pomoc      |
 | 2      | +1k6 + Mod. Výdrže |  +0  |   -1   | +1 Pomoc, Pomoc spojenci  |
-| 3      | +1k6 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
-| 4      | +1k6 + Mod. Výdrže |  +2  |   -2   |         +1 Pomoc          |
-| 5      | +1k6 + Mod. Výdrže |  +0  |   -0   | +1 Pomoc, Uškoď nepříteli |
+| 3      | +1k6 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
+| 4      | +1k6 + Mod. Výdrže |  +2  |   -1   |         +1 Pomoc          |
+| 5      | +1k6 + Mod. Výdrže |  +0  |   -1   | +1 Pomoc, Uškoď nepříteli |
 | 6      | +1k6 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
-| 7      | +1k6 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
-| 8      | +1k6 + Mod. Výdrže |  +2  |   -2   |    +1 Pomoc, Předtucha    |
-| 9      | +1k6 + Mod. Výdrže |  +0  |   -0   |         +1 Pomoc          |
+| 7      | +1k6 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
+| 8      | +1k6 + Mod. Výdrže |  +2  |   -1   |    +1 Pomoc, Předtucha    |
+| 9      | +1k6 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
 | 10     | +1k6 + Mod. Výdrže |  +0  |   -1   |         +1 Pomoc          |
 
 ### Patron

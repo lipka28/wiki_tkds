@@ -13,7 +13,7 @@
 
 |   Výchozí životy    | Výchozí útok | Výchozí z.hod |
 | :-----------------: | :----------: | :-----------: |
-| *2+1k6+Mod. Výdrže* |     *+0*     |     *15*      |
+| *2+1k6+Mod. Výdrže* |     *+0*     |     *16*      |
 
 **Trénovaná výzbroj:** Postava, která si vybrala řemeslo jako svou výchozí specializaci. Je trénovaná v používání *3 libovolných zbraní* vlastního výběru (nebo 2 zbraní a štítu). Také může používat *zbroje lehkého typu*.
 
@@ -21,7 +21,7 @@
 
 ## Primární odolnost
 
-Postava, jejichž nejčetnější specializace je řemeslo. Získává bonus *+2* k záchranným hodům *na úhyb*. Také má bonus *+2 do OČ proti pastím*, které fungují na principu hodu na zásah.
+Postava, jejichž nejčetnější specializace je řemeslo. Získává bonus *+3* k záchranným hodům *na úhyb*. Také má bonus *+3 do OČ proti pastím*, které fungují na principu hodu na zásah.
 
 ## Dosažení nové úrovně specializace
 
@@ -29,15 +29,15 @@ Zvýšením své specializace v řemeslech. Postava dosáhne na nové schopnosti
 
 | Stupeň |       Životy       | Útok | Z. HOD |            Speciální            |
 | :----- | :----------------: | :--: | :----: | :-----------------------------: |
-| 1      | +1k6 + Mod. Výdrže |  +0  |   -0   |      +4 Body specializace       |
+| 1      | +1k6 + Mod. Výdrže |  +0  |   -1   |      +4 Body specializace       |
 | 2      | +1k6 + Mod. Výdrže |  +1  |   -1   |      +4 Body specializace       |
-| 3      | +1k6 + Mod. Výdrže |  +0  |   -0   |      +4 Body specializace       |
-| 4      | +1k6 + Mod. Výdrže |  +2  |   -2   |      +4 Body specializace       |
-| 5      | +1k6 + Mod. Výdrže |  +0  |   -0   |      +4 Body specializace       |
+| 3      | +1k6 + Mod. Výdrže |  +0  |   -1   |      +4 Body specializace       |
+| 4      | +1k6 + Mod. Výdrže |  +2  |   -1   |      +4 Body specializace       |
+| 5      | +1k6 + Mod. Výdrže |  +0  |   -1   |      +4 Body specializace       |
 | 6      | +1k6 + Mod. Výdrže |  +1  |   -1   |      +4 Body specializace       |
-| 7      | +1k6 + Mod. Výdrže |  +0  |   -0   |      +4 Body specializace       |
-| 8      | +1k6 + Mod. Výdrže |  +2  |   -2   | +4 Body specializace, Expertíza |
-| 9      | +1k6 + Mod. Výdrže |  +0  |   -0   |      +4 Body specializace       |
+| 7      | +1k6 + Mod. Výdrže |  +0  |   -1   |      +4 Body specializace       |
+| 8      | +1k6 + Mod. Výdrže |  +2  |   -1   | +4 Body specializace, Expertíza |
+| 9      | +1k6 + Mod. Výdrže |  +0  |   -1   |      +4 Body specializace       |
 | 10     | +1k6 + Mod. Výdrže |  +1  |   -1   |      +4 Body specializace       |
 
 ### Body specializace
