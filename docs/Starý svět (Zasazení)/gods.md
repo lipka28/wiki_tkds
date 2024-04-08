@@ -126,7 +126,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 <img src="/assets/sep_line.png"/>
 
-==Zde přidat obrázek symbolu až bude hotov==
+![Image title](/assets/OW/gods/Muse.jpg)
 
 <img src="/assets/sep_line.png"/>
 
