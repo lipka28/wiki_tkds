@@ -90,13 +90,9 @@ Tyto kategorie mohou být například důležité v situacích kdy záleží na 
 
 ### Dostřel
 
-- **Hozený** - Zbraní, u které to dává smysl, lze hodit do efektivní vzdálenosti dané sílou postavy. K poškození se navíc pak připočítává i modifikátor síly.
-- **Krátký** - Zbraň má efektivní dostřel do vzdálenosti *15 metrů*
-- **Střední** -  Zbraň má efektivní dostřel na vzdálenost do *30 metrů*
-- **Daleký** - Zbraň má efektivní dostřel na vzdálenost do *60 metrů*
-- **!** - Pokud je u dostřelu znak vykřičníku. Znamená to, že zbraní lze útočit pouze na efektivní vzdálenost.
+**Hozené zbraně:** Zbraní, u které to dává smysl, lze hodit do efektivní vzdálenosti dané sílou postavy a neefektivní vzdálenosti dané dvojnásobkem síly postavy. K poškození se navíc pak připočítává i modifikátor síly.
 
-**Neefektivní dostřel:** S většinou střelných a hozených zbraní lze útočit i na takzvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu. Takový útok však probíhá *s nevýhodou* na zásah a způsobuje jen *poloviční poškození*.
+**Neefektivní dostřel:** S většinou střelných a hozených zbraní lze útočit i na takzvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu. Takový útok však probíhá *s nevýhodou* na zásah.
 
 **Nabíjecí zbraně:** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebíjení trvá *dlouhou akci*. Nabíjecí zbraně mívají bonus *+1* k poškození.
 
@@ -182,14 +178,14 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 | Název zbraně    | Typ zbraně | Dostřel | Poškození | Váha | Cena  |
 | --------------- | :--------: | :-----: | :-------: | :--: | :---: |
 | Bola            |    Malá    | Hozený  |     0     |  1   | 3 st  |
-| Dalekonosný luk |   Velká    | Daleký  |    1k8    |  3   | 40 st |
-| Flusačka        |    Malá    | Krátký! |     0     |  1   | 5 st  |
-| Kuše            |  Střední   | Střední |   1k6+1   |  2   | 40 st |
-| Luk             |  Střední   | Střední |    1k6    |  2   | 20 st |
-| Prak            |    Malá    | Střední |    1k2    |  1   | 2 st  |
-| Příruční kuše   |    Malá    | Krátký  |   1k4+1   |  1   | 20 st |
-| Těžká kuše      |   Velká    | Daleký  |   1k8+1   |  3   | 60 st |
-| Vrhací nůž      |    Malá    | Hozený! |    1k4    |  L   | 5 st  |
+| Dalekonosný luk |   Velká    | 60/240  |    1k8    |  3   | 40 st |
+| Flusačka        |    Malá    |   15    |     0     |  1   | 5 st  |
+| Kuše            |  Střední   |  30/60  |   1k6+1   |  2   | 40 st |
+| Luk             |  Střední   |  30/60  |    1k6    |  2   | 20 st |
+| Prak            |    Malá    |  30/60  |    1k2    |  1   | 2 st  |
+| Příruční kuše   |    Malá    |  15/30  |   1k4+1   |  1   | 20 st |
+| Těžká kuše      |   Velká    | 60/120  |   1k8+1   |  3   | 60 st |
+| Vrhací nůž      |    Malá    | Hozený  |    1k4    |  L   | 5 st  |
 
 #### Popisky a speciální efekty střelných zbraní:
 
@@ -198,7 +194,7 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 **Bola:** Dvě závaží svázané lankem. *Speciální:* Cíl zasažený bolou musí každé kolo uspět v záchranném hodu proti síle nebo se nemůže pohybovat; Nepůsobí žádné poškození.
 
-**Dalekonosný luk:** Dlouhý luk vynikající ve střelbě na velké vzdálenosti. *Speciální:* Střelbou balistickým obloukem v dostatečném prostoru lze neefektivní dostřel zdvojnásobit.
+**Dalekonosný luk:** Dlouhý luk vynikající ve střelbě na velké vzdálenosti. *Speciální:* Střelbou balistickým obloukem v dostatečném prostoru lze neefektivním dostřelem dosáhnout až *240 metrů*.
 
 **Flusačka:** Malá nenápadná zbraň připomínající píšťalu. Její šipky nepůsobí žádné poškození a zanechávají jen nenápadný vpich. Extrémně vhodné pro nenápadné vpravení jedu do těla oběti.
 
@@ -212,7 +208,7 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 **Těžká kuše:** Velká a těžší varianta klasické kuše, která dokáže přesně vrhat šipky na obrovské vzdálenosti s ničivou silou. *Speciální:* bonus *+1* k zásahu. Kritický zásah těžkou kuší shodí nepřítele na zem.
 
-**Vrhací nůž:** Lehčí varianta nože, která je specificky určená na házení. Pro boj zblízka je nepoužitelný.
+**Vrhací nůž:** Lehčí varianta nože, která je specificky určená na házení. Pro boj zblízka je nepoužitelný. Lze hodit jen na efektivní vzdálenost.
 
 ### Munice
 
