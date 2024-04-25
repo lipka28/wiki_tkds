@@ -14,31 +14,6 @@ Pro střelné zbraně platí následující pravidla:
 !!! Warning "Selhání s výhodou a nevýhodou"
     Výhoda a nevýhoda má nežádoucí vliv na pravděpodobnost selhání křesadlové zbraně. V případě, že je tedy křesadlová zbraň použita s výhodou nebo nevýhodou, je třeba na selhání brát v potaz jen první hozenou kostku.
 
-## Výbava dobrodruha
-
-| Předmět                                       | Váha | Cena  |
-| --------------------------------------------- | :--: | :---: |
-| Čistící sada na křesadlové braně (10 použití) |  2   | 25 st |
-| Dýmovnice                                     |  1   | 15 st |
-| Podpěra                                       |  2   | 2 st  |
-| Světlice                                      |  1   | 15 st |
-
-**Čistící sada na křesadlové braně (10 použití):**  sada olejíčků, hadříčků a kartáčků, které slouží k údržbě křesadlových zbraní. Použití trvá *1 směnu*.
-
-- *Uvolnění:* Použití uvolní ucpanou křesadlovou zbraň.
-- *Prevence:* Je-li sada použita před selháním zbraně, lze podobu následujících *24 hodin* ignorovat první selhání zbraně. 
-
-**Dýmovnice:** Skleněná lahvička s chemikáliemi, které se při kontaktu se vzduchem promění v hustý kouř v okolí *5 metrů* kolem místa dopadu.
-
-- *Kouř:* Kouř je neprůhledný a všechna stvoření, která se nachází v kouři jsou efektivně slepá. Stvoření, které začínají svůj tah v kouři a potřebují dýchat vzduch, musí uspět v  *záchranném hodu proti smrti* nebo ztratí svůj tah dávivým kašlem.
-- *Trvání:* Dým se na místě udrží *1 směnu* nebo dokud není nějakým způsobem odstraněn.
-
-**Podpěra:** Asi 1 a půl metru dlouhá dřevěná hůl s kovovou vidlicí, která po zapíchnutí do měkkého povrchu slouží jako podpěra pro těžkou mušketu. Připravení podpěry se zbraní ke střelbě zabere *1 běžnou akci*. 
-
-**Světlice:**  Asi 20 čísel dlouhá hůl z motaného papíru, která je nasáta všelijakými chemikáliemi. Poskytuje jasné načervenalé světlo v okolí *12 metrů* a hoří po dobu 30-ti minut (*3 směny*). *Vyžaduje oheň k zapálení*.
-
-- *Světlice vs pochodně:* Světlice záři jasnějším světlem a na rozdíl od pochodní nejsou náchylné na nárazy, takže neuhasnou když z výšky spadnou na zem. Světlice také dokáží hořet i pod vodou (pokud jsou zapáleny na suchu).
-
 ## Střelné zbraně
 
 !!! Warning "Dostřel"
@@ -69,3 +44,28 @@ Pro střelné zbraně platí následující pravidla:
 | Váček munice (20 ks munice) |  1   | 20 st (1 st/ks) |
 
 **Váček munice:** Váček obsahující vatu, kapsle střelného prachu a kule do křesadlových zbraní. Náchylný na promočení.
+
+## Výbava dobrodruha
+
+| Předmět                                       | Váha | Cena  |
+| --------------------------------------------- | :--: | :---: |
+| Čistící sada na křesadlové braně (10 použití) |  2   | 25 st |
+| Dýmovnice                                     |  1   | 15 st |
+| Podpěra                                       |  2   | 2 st  |
+| Světlice                                      |  1   | 15 st |
+
+**Čistící sada na křesadlové braně (10 použití):**  sada olejíčků, hadříčků a kartáčků, které slouží k údržbě křesadlových zbraní. Použití trvá *1 směnu*.
+
+- *Uvolnění:* Použití uvolní ucpanou křesadlovou zbraň.
+- *Prevence:* Je-li sada použita před selháním zbraně, lze podobu následujících *24 hodin* ignorovat první selhání zbraně. 
+
+**Dýmovnice:** Skleněná lahvička s chemikáliemi, které se při kontaktu se vzduchem promění v hustý kouř v okolí *5 metrů* kolem místa dopadu.
+
+- *Kouř:* Kouř je neprůhledný a všechna stvoření, která se nachází v kouři jsou efektivně slepá. Stvoření, které začínají svůj tah v kouři a potřebují dýchat vzduch, musí uspět v  *záchranném hodu proti smrti* nebo ztratí svůj tah dávivým kašlem.
+- *Trvání:* Dým se na místě udrží *1 směnu* nebo dokud není nějakým způsobem odstraněn.
+
+**Podpěra:** Asi 1 a půl metru dlouhá dřevěná hůl s kovovou vidlicí, která po zapíchnutí do měkkého povrchu slouží jako podpěra pro těžkou mušketu. Připravení podpěry se zbraní ke střelbě zabere *1 běžnou akci*. 
+
+**Světlice:**  Asi 20 čísel dlouhá hůl z motaného papíru, která je nasáta všelijakými chemikáliemi. Poskytuje jasné načervenalé světlo v okolí *12 metrů* a hoří po dobu 30-ti minut (*3 směny*). *Vyžaduje oheň k zapálení*.
+
+- *Světlice vs pochodně:* Světlice záři jasnějším světlem a na rozdíl od pochodní nejsou náchylné na nárazy, takže neuhasnou když z výšky spadnou na zem. Světlice také dokáží hořet i pod vodou (pokud jsou zapáleny na suchu).
