@@ -58,7 +58,7 @@ Všichni dobrodruzi disponují 3-mi základními schopnostmi. Výchozí HU pro t
 - *Průzkum* -  Během průzkumu postavy prohledají specifickou oblast.
     - **Vnitřní průzkum:** Postava důkladně prozkoumá 3 metry čtverečné prostoru během 1 směny.
         - *Vnitřní průzkum popisem:* Odhalil by hráčův popsaný postup průzkumu skrytý subjekt v dané oblasti? Průzkum je automaticky úspěšný i bez hodu na ověření.
-    - **Venkovní průzkum:** Postavy prozkoumají oblast v okruhu 5 kilometrů v rámci 1 dne.
+    - **Venkovní průzkum:** Postavy prozkoumají oblast v okruhu 6 kilometrů (většinou představuje 1 hex) v rámci 1 dne.
     - **Tajný hod:** Na tuhle schopnost háže PJ potají, aby hráč neviděl výsledek hodu.
     - **Efekt úspěchu:** Hráči objeví jeden z ukrytých prvků v dané oblasti.
 - *Přežití* - Během cestování se mohou postavy pokusit o sběr plodů, lov malých zvířat a opatření jiných zásob. Tato aktivita nijak neovlivní rychlost pohybu a umožní cestující skupině najít nějaké ty zásoby.
@@ -222,7 +222,7 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 
 **Výběr směru:** Hráči si na základě orientačních bodů, cesty nebo dle světových stran, určí jakým směrem chtějí cestovat.
 
-**Viditelnost:** V běžných podmínkách se předpokládá, že hráči vidí přibližně 4.5 kilometrů kolem sebe. A však v některých situacích, jako je pohyb v lese či vyšplhání na vysokou horu, může být jejich dohled menší nebo větší.
+**Viditelnost:** V běžných podmínkách se předpokládá, že hráči vidí přibližně 5 kilometrů kolem sebe. A však v některých situacích, jako je pohyb v lese či vyšplhání na vysokou horu, může být jejich dohled menší nebo větší.
 
 !!! note "6-ti kilometrový hex"
      Dobrý nápad je používat pro mapování světa *6-ti kilometrové hexy*. Postava uprostřed 6-ti kilometrového hexu by za příznivých podmínek měla vidět až do středu hexů sousedních. Ulehčuje to také výpočet ujité vzdálenosti. Jelikož postava zvládne za den procestovat tolik hexů kolik je její *hybnost / 2*.
