@@ -72,13 +72,13 @@ Osobnost představuje sílu osobnosti, přesvědčivost a schopnost vést. Modif
 
 | Osobnost | Modifikátor | MAx Počet společníků | Loajalita |
 | :------: | :---------: | :------------------: | :-------: |
-|    3     |     -3      |          1           |     4     |
-|  4 - 5   |     -2      |          1           |     5     |
-|  6 - 8   |     -1      |          1           |     6     |
-|  9 - 12  |      0      |          1           |     7     |
-| 13 - 15  |     +1      |          2           |     8     |
-| 16 - 17  |     +2      |          3           |     9     |
-|    18    |     +3      |          4           |    10     |
+|    3     |     -3      |          1           |     5     |
+|  4 - 5   |     -2      |          1           |     6     |
+|  6 - 8   |     -1      |          1           |     7     |
+|  9 - 12  |      0      |          1           |     8     |
+| 13 - 15  |     +1      |          2           |     9     |
+| 16 - 17  |     +2      |          3           |    10     |
+|    18    |     +3      |          4           |    11     |
 
 !!! Note "Společníci"
     Za společníka může být považován jak placený družník, tak zvíře nebo třeba nějaký démon či jiné stvoření účastnící se dobrodružství s postavou.
