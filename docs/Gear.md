@@ -379,7 +379,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 **Zásoby:** Zásoby reprezentují univerzální potřeby k přežití v divočině. 1 Kus zásob může představovat:  Příděl jídla pro 1 osobu na 1 den. Příděl vody pro 1 osobu na den. Příděl dřeva na oheň pro 1 osobu na den.
 
 - *Čerstvé zásoby:* Jsou výrazně levnější, avšak během *3 dnů* se zkazí a stanou se v podstatě nepoužitelnými.
-- Železné zásoby: Odolné zásoby, které vydrží klidně i několik měsíců nebo dokonce let.
+- *Železné zásoby:* Odolné zásoby, které vydrží klidně i několik měsíců nebo dokonce let.
 
 **Zlodějské náčiní:** Zlodějská sada pro odemykání zámků a jiné manipulace drobných mechanismů.
 

@@ -222,10 +222,10 @@ Učitelem může být kdokoliv kdo je mistrem v dané problematice. Například 
 
 | Učitel                                 | Hranice úspěchu pro naučení | Kumulativní bonus za neúspěch |  Cena   |
 | -------------------------------------- | :-------------------------: | :---------------------------: | :-----: |
-| Bez učitele                            |              6              |              +0               |    -    |
-| Běžný (Může být i jiný hráč)           |              5              |              +1               | 400 st  |
-| Výjimečný učitel                       |              4              |              +1               | 800 st  |
-| Mistr ve své oblasti (Vyžaduje konexe) |              3              |              +2               | 1600 st |
+| Bez učitele                            |              6              |              +1               |    -    |
+| Běžný (Může být i jiný hráč)           |              5              |              +2               | 400 st  |
+| Výjimečný učitel                       |              4              |              +2               | 800 st  |
+| Mistr ve své oblasti (Vyžaduje konexe) |              3              |              +3               | 1600 st |
 
 ### Magický výzkum
 
