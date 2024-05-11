@@ -197,7 +197,10 @@ Postava se může pokusit aktivovat magický předmět bez toho, aby věděla ja
 
 #### Přežití
 
-Funguje jako přežití popsáno v [základních schopnostech](/Pravidla%20a%20procedury/Adventures/#zakladni-schopnosti). Navíc při přenocování v divočině si může postava vybrat 1 potřebu, kterou sama obstará. Pokud pak uspěje v ověření této schopnosti, potřeba je úspěšně obstarána.
+Funguje jako přežití popsáno v [základních schopnostech](/Pravidla%20a%20procedury/Adventures/#zakladni-schopnosti). Navíc lze tuto schopnost využít dalšíma dvěma způsoby.
+
+-  **Při přenocování v divočině:** může postava vybrat 1 potřebu, kterou sama obstará. Pokud pak uspěje v ověření této schopnosti, potřeba je úspěšně obstarána.
+- **Při ztrátě směru:** může postava hodit na ověření této schopnosti. Pokud uspěje. Předejde ztracení.
 
 <img src="/assets/sep_line.png"/>
 
