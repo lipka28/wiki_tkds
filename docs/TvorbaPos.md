@@ -16,7 +16,7 @@ Jdi dovednost po dovednosti, v pořadí *Síla*, *Zručnost*, *Výdrž*, *Rozum*
     Pokud má naházená postava každou statistiku hodnoty 8 nebo méně, a nebo má více jak 2 statistiky s hodnotou 6-či méně. Hráč může hodnoty zahodit a naházet nové.
 
 !!! tip "Alternativní pravidlo: Nahazování postav (Fesnův one-shot)"
-    Hráč si nahází *5 x 4k6(zahoď nejnižší číslo)* a každý hod si poznačí. Následně si může naházené hodnoty rozdělit do dovedností jak uzná za vhodné. Alternativně, pokud hráči přijde, že házel mizerně. Může si na místo svých naházených čísel rozmístit následující hodnoty dle vlastního uvážení: *17*, *15*, *12*, *9*, *8*. K jedné z těchto  hodnot pak ještě může hráč přičíst *+1*.
+    Hráč si nahází *5 x 4k6(zahoď nejnižší číslo)* a každý hod si poznačí. Následně si může naházené hodnoty rozdělit do dovedností jak uzná za vhodné. Alternativně, pokud hráči přijde, že házel mizerně. Může si na místo svých naházených čísel rozmístit následující hodnoty dle vlastního uvážení: *17*, *15*, *12*, *9*, *8*.
 
 ## 2. Vyber si rasu a specializaci a zapiš si speciální schopnosti
 
