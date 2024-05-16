@@ -54,7 +54,6 @@ Postavy specializující se na řemeslo se mohou naučit sadu výjimečných sch
 | [Bylinkářství](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#bylinkarstvi) | Sběr bylin a léčení za pomocí bylin                          |
 | [Eskamotáž](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#eskamotaz) | Kradení či podsouvání předmětů a jiné triky                  |
 | [Extrakce](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#extrakce) | Sběr vzácných surovin z monster                              |
-| [Jazyk](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#jazyk) | Naučit se specifický jazyk                                   |
 | [Manipuluj mechanizmus](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#manipuluj-mechanizmus) | Odemykání zámků a jiné manipulace drobných mechanizmů        |
 | [Múzický talent](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#muzicky-talent) | Zajištění dobré nálady svou uměleckou schopností.            |
 | [Odezírání ze rtů](/Starý%20svět%20%28Zasazení%29/Specializace/Remeslo/#odezirani-ze-rtu) | Odezírání ze rtů                                             |
@@ -119,14 +118,6 @@ Postava se může pokusit ukrást malý předmět (max. velikost *1 slot*) ve v�
 Postava se může ze stvoření pokusit získat vzácné materiály a komponenty. Při úspěšném ověření této schopnosti. Získá postava *1k4 vzácného materiálu* z mrtvého stvoření (1 použití / stvoření).
 
 - **Záleží na PJ:** Zda monstrum vůbec obsahuje nějaké vzácné materiály záleží zcela na PJ.
-
-<img src="/assets/sep_line.png"/>
-
-#### Jazyk
-
-Postava se naučí cizí jazyk vlastního výběru. Tato schopnost má jen 3 stupně vylepšení avšak lze se ji naučit opakovaně pro různé jazyky.
-
-- **Vylepšení:** Znalost jazyka se vylepšuje v úrovních *Základní*, *Pokročilá* a *Úplná*. Význam těchto úrovní je popsán [zde](/Starý%20svět%20%28Zasazení%29/about/#jazyk-jako-schopnost).
 
 <img src="/assets/sep_line.png"/>
 
@@ -264,7 +255,5 @@ Postava se může pokusit vybavit si informace o zvířeti nebo jiném přirozen
 ### Expertíza
 
 Vyber si schopnost, do které si investoval aspoň 4 body specializace. V této schopnosti již nemůžeš za žádných okolností selhat. Pokud si do dané schopnosti investoval více jak 4 body. Přebytečné body může přerozdělit do ostatních schopností.
-
-**Výjimečný lingvista:** Výjimkou jsou opět jazyky. Pokud se tvá postava naučila aspoň 6 jazyků na úroveň "Úplná". Můžeš použít expertizu aby se z ní stal výjimečný polyglot. Ovládající všechny ostatní tobě známé i neznámé jazyky na úrovni "Pokročilá".
 
 <img src="/assets/sep_line.png"/>

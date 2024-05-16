@@ -86,7 +86,7 @@ Následuje podrobný popis efektů dříve zmíněných kouzel. Pokud není spec
 - *Sesílání* - Sesílání kouzla trvá *1 běžnou akci*.
 - *Dosah* - Dosah kouzla je *60 metrů*
 - *Trvání* - Pokud má kouzlo delší efekt, tak jeho délka je *L* směn. 
-- *Prodloužení kouzla* Probíhající kouzlo můžeš kdykoliv prodloužit za cenu sesílání bez nutnosti opakování kouzla. 
+- *Prodloužení kouzla* - Probíhající kouzlo můžeš kdykoliv prodloužit za cenu sesílání bez nutnosti opakování kouzla.
 - *Odvolání* - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal. (pokud nebylo odraženo) 
 - *Záchranný hod* - Cíl každého kouzla může podstoupit záchranný hod a tím se vyvarovat jeho efektu. U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. 
 - *Kombinace efektů* - Více souběžných kouzel, nemůže být použito k ovlivlnění té samé dovednosti (Síla, Zručnost, OČ, Životy a podobně...). 

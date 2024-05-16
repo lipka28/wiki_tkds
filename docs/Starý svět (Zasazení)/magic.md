@@ -26,7 +26,7 @@ Postava specializovaná v magii se může naučit libovolné kouzlo třídy, ke 
 
 - **Získávání kouzel:** Postava může získat nové kouzlo zvýšením úrovně magické specializace, rozluštěním magické knihy jiného kouzelníka, naučením od jiného kouzelníka nebo magickým výzkumem.
 - **Přeučení kouzla:** Pokud má postava přístup ke kouzlu, tak jak je popsáno v předešlém bodě. Může nahradit libovolné kouzlo, které umí, tímto novým kouzlem. Případně se jej naučit navíc. Má-li na kouzlo kapacitu. Přeučení kouzla trvá *1 den*.
-- **Limit kouzel:** Postava může umět maximálně tolik kouzel kolik je její úroveň magické specializace. Tento limit se dá potencionálně rozšířit na úkor *kapacity pro schopnosti* stanovenou dovedností rozum.
+- **Limit kouzel:** Postava může umět maximálně tolik kouzel kolik je její *úroveň magické specializace + modifikátor rozumu*.
 
 <img src="/assets/sep_line.png"/>
 

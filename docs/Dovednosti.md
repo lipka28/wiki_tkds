@@ -52,17 +52,17 @@ Výdrž představuje zdraví, odolnost a vytrvalost. Modifikátor výdrže ovliv
 
 ## Rozum
 
-Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnost hráčovy postavy a kolik extra schopností mimo specializaci se může postava pokusit naučit. Modifikátor rozumu se také připočítává k záchranným hodům proti magii.
+Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnost hráčovy postavy a kolik jazyků ovládá. Modifikátor rozumu se také připočítává k záchranným hodům proti magii.
 
-|  Rozum  | Modifikátor | Gramotnost |          Kapacita pro extra schopnosti nebo jazyky           |
-| :-----: | :---------: | :--------: | :----------------------------------------------------------: |
-|    3    |     -3      | Negramotný |                 Pouze jazyk své rasy lámaně                  |
-|  4 - 5  |     -2      | Negramotný |                     Pouze jazyk své rasy                     |
-|  6 - 8  |     -1      | Základní*  | Pouze jazyk své rasy + pokročilé ovládání jazyka společenství |
-| 9 - 12  |      0      |  Gramotný  |                          Rozené +1                           |
-| 13 - 15 |     +1      |  Gramotný  |                          Rozené +2                           |
-| 16 - 17 |     +2      |  Gramotný  |                          Rozené +3                           |
-|   18    |     +3      |  Gramotný  |                          Rozené +4                           |
+|  Rozum  | Modifikátor | Gramotnost |                 jazyky                  |
+| :-----: | :---------: | :--------: | :-------------------------------------: |
+|    3    |     -3      | Negramotný |          1 Rozený jazyk lámaně          |
+|  4 - 5  |     -2      | Negramotný |             1 Rozený jazyk              |
+|  6 - 8  |     -1      | Základní*  | 1 Rozený jazyk + 2. rozený jazyk lámaně |
+| 9 - 12  |      0      |  Gramotný  |                Rozené +0                |
+| 13 - 15 |     +1      |  Gramotný  |                Rozené +1                |
+| 16 - 17 |     +2      |  Gramotný  |                Rozené +2                |
+|   18    |     +3      |  Gramotný  |                Rozené +3                |
 
 *\*Postava se zvládne alespoň podepsat, zvládá jednoduchou matematiku, rozpoznává znaky, ale není schopna porozumět souvislému textu.*
 

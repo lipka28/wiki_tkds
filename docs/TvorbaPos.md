@@ -10,17 +10,14 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Naházej si dovednosti a zaznač si modifikátory
 
-Jdi dovednost po dovednosti, v pořadí *Síla*, *Zručnost*, *Výdrž*, *Rozum* a *Osobnost*. Na každou dovednost si hoď *3k6* a výsledek si zaznač. Pokud chceš, můžeš *1x* prohodit hodnoty dvou libovolných dovedností. Připiš si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.md)) a nakonec si poznač gramotnost danou tvým rozumem.
-
-!!! note "Špatné postavy"
-    Pokud má naházená postava každou statistiku hodnoty 8 nebo méně, a nebo má více jak 2 statistiky s hodnotou 6-či méně. Hráč může hodnoty zahodit a naházet nové.
+Hoď si *5x 4k6(zahoď nejnižší číslo)* a výsledné hodnoty si přiřaď do dovedností dle vlastního uvážení. Připiš si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.md)) a nakonec si poznač gramotnost danou tvým rozumem.
 
 !!! tip "Alternativní pravidlo: Nahazování postav (Fesnův one-shot)"
-    Hráč si nahází *5 x 4k6(zahoď nejnižší číslo)* a každý hod si poznačí. Následně si může naházené hodnoty rozdělit do dovedností jak uzná za vhodné. Alternativně, pokud hráči přijde, že házel mizerně. Může si na místo svých naházených čísel rozmístit následující hodnoty dle vlastního uvážení: *17*, *15*, *12*, *9*, *8*.
+    Pokud hráči přijde, že házel mizerně. Může si na místo svých naházených čísel rozmístit následující hodnoty dle vlastního uvážení: *17*, *15*, *12*, *9*, *8*.
 
 ## 2. Vyber si rasu a specializaci a zapiš si speciální schopnosti
 
-Vyber si jednu z ras, pro kterou splňuješ podmínky, a zaznač si její název do svého deníku postavy. Zaznač si také výchozí specializaci jak popsáno v detailech rasy. Pak si poznamenej všechny zvláštní schopnosti, které tvá postava získala tímto výběrem. Hoď si na životy a zaznač si bonus k útoku a záchranný hod. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na jazyky a hybnost dané tvou rasou.
+Vyber si jednu z ras a zaznač si její název do svého deníku postavy. Zaznač si také výchozí specializaci nebo povolání, které sis pro svou postavu vybral. Pak si poznamenej všechny zvláštní schopnosti, které tvá postava získala těmito výběry. Hoď si na životy v závislosti na vybrané specializaci nebo povolání, zaznač si bonus k útoku a záchranný hod. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na hybnost a případně si vybrat jazyky.
 
 !!! tip "Alternativní pravidlo: Životy na první úrovni (Fesnův one-shot)"
     Hráč začíná hru s tolika životy, kolik je maximum na kostce života jeho vybraného povolání modifikované výdrží.

@@ -17,7 +17,7 @@
 
 **Trénovaná výzbroj:** Postava, která si vybrala magii jako svou výchozí specializaci. Je trénovaná v používání *1 libovolné zbraně* vlastního výběru.
 
-**Magie:** Postava, která si vybrala magii jako svou výchozí specializaci umí sesílat kouzla první třídy jak popsáno v *"Ovládání magie"* níže. Navíc začíná hru s 2-ma kouzly první třídy (to rozšiřuje její limit kouzel na *úroveň specializace + 1*) a 2-mi sesíláními kouzel 1. třídy.
+**Magie:** Postava, která si vybrala magii jako svou výchozí specializaci umí sesílat kouzla první třídy jak popsáno v *"Ovládání magie"* níže. Navíc začíná hru s 2-ma kouzly první třídy a 2-mi sesíláními kouzel 1. třídy.
 
 ## Primární odolnost
 

@@ -7,7 +7,7 @@
 <img src="/assets/sep_line.png"/>
 
 !!! danger "Požadavky"
-    Síla >= *9*; Výdrž >= *13*
+    Síla >= *13*; Výdrž >= *16*
 
 ## Popis
 
@@ -55,9 +55,5 @@ Nejčastěji se dobrodruhy stávají mladí trpaslíci, kteří chtějí dosáhn
 - **Tuhý kořínek** - Při tvorbě postavy hážeš na životy *2+1k8+Mod. Výdrže* na místo běžných 2+1k6+Mod. Výdrže.
 - **Nižší těžiště** - Trpaslíci nemohou používat *obouruční meče* a *dalekonosné luky*. Navíc řemesla, která jsou omezena zbrojí provádíš vždy s postihem, jako by si na sobě měl střední zbroj.
 - **Klanové tetování** - Trpaslíci, kteří náleží k nějakému klanu, disponují klanovým tetováním.
-
-## Výchozí specializace
-
-Výchozí specializací trpaslíků je vždy *řemeslo*.
 
 <img src="/assets/sep_line.png"/>

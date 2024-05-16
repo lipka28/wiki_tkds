@@ -28,20 +28,39 @@ Všechny inteligentní rasy a stvoření Starého světa mluví nějakou formou 
 
 ### Vrozené jazyky
 
-Každá postava začíná s jazyky získanými s výběru rasy. Většinou je to mix *Jazyka společenství* a dalších jazyků.
+Každá postava začíná s jazyky získanými s výběru rasy. Většinou je to mix *Jazyka společenství* a dalších jazyků. Postavy s vyšší inteligencí si mohou vybrat extra jazyky z tabulek níže. Ti co nevědí co si vybrat, si na jazyk mohou hodit.
 
-### Jazyky v závislosti na inteligenci
+### Běžné jazyky
 
-Postavy s nižší inteligencí mohou ovládat omezenější počet jazyků. Naopak postavy s vyšší inteligencí se mohou během hry naučit více jazyků, pokud najdou vhodného učitele nebo investují nějakou tu úroveň specializace. Postavy s vyšší inteligencí však *nezačínají* hru s extra jazyky.
+| k8   |      Jazyk      |           Běžní mluvčí           |
+| ---- | :-------------: | :------------------------------: |
+| 1    |      Aquan      |    Intelifentní stvoření moře    |
+| 2    |    Elfština     |              Elfové              |
+| 3    |    Gnómština    |             Gnómové              |
+| 4    |   Goblinština   |              Skřeti              |
+| 5    |   Jazyk obrů    | Obrové severu, Trollové a Zlobři |
+| 6    |    Orkština     |           Orkské kmeny           |
+| 7    | Pulčický hantec |             Pulčíci              |
+| 8    |  Trpasličtina   |            Trpaslíci             |
+| -    |   Obecná řeč    | Většina inteligentních stvoření  |
 
-### Jazyk jako schopnost
+### Exotické a mrtvé jazyky
 
-Znalost jazyka je učená schopnost, kterou se postava může během hry naučit. Znalost jazyka je rozdělena do 3 úrovní. *Základní*, *Pokročilá* a *Úplná*. Rozlišující schopnost použití a porozumění mluvené řeči či psanému textu.
+Pokud má postava dostatek rozumu aby se naučila 2 další běžné jazyky, může se na místo toho naučit 1 exotický jazyk.
 
-#### Úrovně jazyků
+| k8   |      Jazyk       |          Běžní mluvčí          |
+| ---- | :--------------: | :----------------------------: |
+| 1    |    Démonština    |             Démoni             |
+| 2    |    Dračí řeč     |             Draci              |
+| 3    |  Hlubinný jazyk  |        Stvoření Podzemě        |
+| 4    |    Nebeština     | Andělé a jiná nebeská stvoření |
+| 5    |   Nekrilština    |            Nemrtví             |
+| 6    |      Prima       |          Elementálové          |
+| 7    |    Faeanština    |     Vílí tvorové a druidi      |
+| 8    | Zlodějský hantec |  Zloději, tuláci a podvodníci  |
 
-- *Základní* - Porozumění textu s hranicí úspěchu *5*.
-- *Pokročilá* - Schopnost se dorozumět na základní úrovni. Porozumění textu s hranicí úspěchu *3*.
-- *Úplná* - Kompletní porozumění a ovládnutí jazyka včetně nuancí.
+---
+
+
 
 <img src="/assets/sep_line.png"/>

@@ -7,7 +7,7 @@
 <img src="/assets/sep_line.png"/>
 
 !!! danger "Požadavky"
-    Zručnost >= *9*; Rozum >= *13*
+    Zručnost >= *13*; Rozum >= *16*
 
 ## Popis
 
@@ -51,10 +51,6 @@ Na dobrodružství se často vydávají mladí elfové (100 let nebo méně), ab
 
 - **Původ z Fey** - Vílí původ umožňuje elfům vidět magické subjekty světélkovat na vzdálenost až *18 metrů*. Tato schopnost neumožňuje viděť skrz stěny nebo podobné překážky.
 - **Imunita vůči paralýze** - Elfové mají imunitu proti nemagické paralýze (včetně uspání).
-
-## Výchozí specializace
-
-Výchozí specializací elfů je vždy *magie*.
 
 <img src="/assets/sep_line.png"/>
 

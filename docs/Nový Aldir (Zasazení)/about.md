@@ -17,9 +17,6 @@ Všechny rasy, povolání, výbava a příběhové útržky v těchto pravidlech
 
 V Aldiru se mluví spoustou jazyků. Avšak všechna inteligentní stvoření ovládají aspoň *Obecnou řeč*. Některá vysoce inteligentní stvoření však mohou ovládat jazyků více. 
 
-!!! note "Jazyky za rozum"
-	Jazyky za vyšší hodnotu rozumu jsou na první úrovni přiřazovány *náhodným hodem* nad tabulkou běžných jazyků níže.
-
 ### Běžné jazyky
 
 | k6   |      Jazyk      |           Běžní mluvčí           |

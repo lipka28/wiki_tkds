@@ -205,12 +205,12 @@ Prvním způsobem jak poněkud chaoticky posunout svou postavu někam dál. Je h
 
 ### Naučit se něco navíc
 
-Postavy které mají přebytečnou kapacitu pro schopnosti (danou dovedností rozum) se mohou pokusit naučit něco navíc, třeba i od ostatních specializací. Postava dedikuje týden důkladnému studiu dané problematiky a může se naučit jedno z následujících:
+Postavy které mají modifikátor v relevantní dovednosti vyšší jak 0, se mohou pokusit naučit něco navíc, třeba i od ostatních specializací mimo standardní postup postavy. Postava dedikuje týden důkladnému studiu dané problematiky a může se naučit jedno z následujících (v závorce časté relevantní dovednosti):
 
-- **Bojový talent** - Postava se pokusí naučit nový bojový talent jako jsou ty ve specializaci na [boj](/Starý%20svět%20%28Zasazení%29/Specializace/Boj/).
-- **Nová výzbroj** - Postava se pokusí naučit používat novou výzbroj jako popsáno ve specializaci na [boj](/Starý%20svět%20%28Zasazení%29/Specializace/Boj/).
-- **Řemeslnou schopnost** - Postava se pokusí zvýšit si úroveň schopnosti, jako jsou ty ve specializaci na [řemeslo](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/). Hladina úspěchu takto vytrénované schopnosti však nemůže být nikdy nižší než 3. Vůči kapacitě pro schopnosti se počítá pouze prvotní naučení schopnosti. Nikoliv její následné vylepšování.
-- **Jazyk** - Postava se naučí nový jazyk nebo si zvýší znalost toho stávajícího. Tak jak je popsáno ve specializaci na [řemeslo](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/). Vůči kapacitě pro schopnosti se počítá pouze prvotní naučení jazyka. Nikoliv jeho následné zdokonalování.
+- **Bojový talent (Síla, Zručnost, Výdrž)** - Postava se pokusí naučit nový bojový talent jako jsou ty ve specializaci na [boj](/Starý%20svět%20%28Zasazení%29/Specializace/Boj/).
+- **Nová výzbroj (Síla, Zručnost, Výdrž)** - Postava se pokusí naučit používat novou výzbroj jako popsáno ve specializaci na [boj](/Starý%20svět%20%28Zasazení%29/Specializace/Boj/).
+- **Řemeslnou schopnost (Zručnost, Rozum, Osobnost)** - Postava se pokusí zvýšit si úroveň schopnosti, jako jsou ty ve specializaci na [řemeslo](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/).
+- **Něco jiného (Záleží)** - Pokud máš nápad co nesedí ani do jedné z možností, prober to s PJ.
 
 #### Proces učení
 
