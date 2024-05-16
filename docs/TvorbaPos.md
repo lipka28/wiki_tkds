@@ -15,9 +15,15 @@ Jdi dovednost po dovednosti, v pořadí *Síla*, *Zručnost*, *Výdrž*, *Rozum*
 !!! note "Špatné postavy"
     Pokud má naházená postava každou statistiku hodnoty 8 nebo méně, a nebo má více jak 2 statistiky s hodnotou 6-či méně. Hráč může hodnoty zahodit a naházet nové.
 
+!!! tip "Alternativní pravidlo: nahazování postav (Fesnův one-shot)"
+    Hráč si nahází *5 x 4k6(zahoď nejnižší číslo)* a každý hod si poznačí. Následně si může naházené hodnoty rozdělit do dovedností jak uzná za vhodné. Alternativně, pokud hráči přijde, že házel mizerně. Si může na místo svých naházených čísel rozmístit tyto hodnoty dle vlastního uvážení: *17*, *15*, *12*, *9*, *8*. K těmto hodnotám pak ještě může hráč přičíst *+1*.
+
 ## 2. Vyber si rasu a specializaci a zapiš si speciální schopnosti
 
 Vyber si jednu z ras, pro kterou splňuješ podmínky, a zaznač si její název do svého deníku postavy. Zaznač si také výchozí specializaci jak popsáno v detailech rasy. Pak si poznamenej všechny zvláštní schopnosti, které tvá postava získala tímto výběrem. Hoď si na životy a zaznač si bonus k útoku a záchranný hod. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na jazyky a hybnost dané tvou rasou.
+
+!!! tip "Alternativní pravidlo: Životy na první úrovni (Fesnův one-shot)"
+    Hráč začíná hru s tolika životy, kolik je maximum na kostce života jeho vybraného povolání modifikované výdrží.
 
 ## 3. Poznač si nosnost a nakup výbavu
 
