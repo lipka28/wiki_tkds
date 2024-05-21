@@ -135,7 +135,7 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 - Všechny útoky na blízku proti shozenému stvoření probíhají s výhodou. 
 - Pokud se shozené stvoření pokusí útočit střední nebo větší zbraní, tak jeho útoky probíhají s nevýhodou. 
 - Kdokoliv se může volně vyvázat ze vzájemného ohrožení se shozeným stvořením. 
-- *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem však platí i po zbytek kola, kdy se stvoření postaví zpět na nohy.
+- *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem však platí až do konce tahu daného stvoření.
 
 **Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit si běžnou akci na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. 
 
