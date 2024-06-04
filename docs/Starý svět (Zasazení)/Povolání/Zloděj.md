@@ -28,7 +28,7 @@
 
 **Trénovaná brnění:** Lehké zbroje
 
-**Bonus k záchraně:** +2 na úhyb a OČ proti pastím.
+**Bonus k záchraně:** +3 na úhyb a OČ proti pastím.
 
 ### Zlodějská hantýrka
 
@@ -85,7 +85,7 @@ Zloděj se může pokusit šplhat po stěnách bez očividných úchytů rychlos
 - **Přirozená 1:** Zloděj musí uspět v záchranném hodu na úhyb nebo spadnout.
 - **Omezení zbroje:** HU schopnosti se zvedá o *2* za každý stupeň zbroje *nad lehkou*, kterou má zloděj na sobě při provádění této schopnosti.
 
-### Výjimečná obratnost (3. úroveň)
+### Výjimečná obratnost (úroveň 3)
 
 Od 3. úrovně může zloděj jedenkrát denně dostat své tělo velmi rychle až do nepřirozených poloh. To mu umožňuje se vyhnout fyzickému útoku nebo automaticky uspět v záchranném hodu na úhyb (či proti jiným formám plošných útoků).
 

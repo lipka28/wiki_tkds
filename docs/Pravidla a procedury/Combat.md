@@ -120,7 +120,7 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 ## Ostatní bojové situace
 
-**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných ze specializací, způsobené poškození je poloviční a při útoku zbraní na dálku je navíc k zásahu připočten postih *-1*.
+**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných z povolání, způsobené poškození je poloviční (vyjímaje kritických zásahů) a při útoku zbraní na dálku je navíc k zásahu připočten postih *-1*.
 
 **Netrénované zbroje a štíty:** Poskytují jen poloviční bonus do OČ.
 

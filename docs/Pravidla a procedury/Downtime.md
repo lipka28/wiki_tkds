@@ -205,12 +205,10 @@ Prvním způsobem jak poněkud chaoticky posunout svou postavu někam dál. Je h
 
 ### Naučit se něco navíc
 
-Postavy které mají modifikátor v relevantní dovednosti vyšší jak 0, se mohou pokusit naučit něco navíc, třeba i od ostatních specializací mimo standardní postup postavy. Postava dedikuje týden důkladnému studiu dané problematiky a může se naučit jedno z následujících (v závorce časté relevantní dovednosti):
+Postavy se mohou pokusit naučit něco navíc, třeba i od ostatních povolání mimo standardní postup postavy. Postava dedikuje týden důkladnému studiu a tréninku a hráč s PJ se domluví co se postava naučí.
 
-- **Bojový talent (Síla, Zručnost, Výdrž)** - Postava se pokusí naučit nový bojový talent jako jsou ty ve specializaci na [boj](/Starý%20svět%20%28Zasazení%29/Specializace/Boj/).
-- **Nová výzbroj (Síla, Zručnost, Výdrž)** - Postava se pokusí naučit používat novou výzbroj jako popsáno ve specializaci na [boj](/Starý%20svět%20%28Zasazení%29/Specializace/Boj/).
-- **Řemeslnou schopnost (Zručnost, Rozum, Osobnost)** - Postava se pokusí zvýšit si úroveň schopnosti, jako jsou ty ve specializaci na [řemeslo](/Starý%20svět%20%28Zasazení%29/Specializace/Řemeslo/).
-- **Něco jiného (Záleží)** - Pokud máš nápad co nesedí ani do jedné z možností, prober to s PJ.
+- **Vzácné schopnosti:** Některé schopnosti u kterých tak PJ uzná. Můžou vyžadovat obstarání prerekvizit nebo vyhledání specifického trenéra. Prostě dobrodružství. 
+- **Nedokonalá schopnost:** Nová schopnost by ze začátku měla mít nějaké neduhy nebo nevýhody. Tyto neduhy lze odstranit používáním schopnosti. PJ stanoví kolikrát je třeba schopnost použít než je neduh odstraněn.
 
 #### Proces učení
 
@@ -229,16 +227,17 @@ Učitelem může být kdokoliv kdo je mistrem v dané problematice. Například 
 
 ### Magický výzkum
 
-Magický výzkum je proces. Při kterém se postava zběhlá v magii pokusí prozkoumat zákoutí magie nebo vyrobit magický předmět. Magický výzkum se dělí do dvou kategorií a to *základní magický výzkum* a *pokročilý magický výzkum*. K jak pokročilému magickému výzkumu má postava přístup záleží na úrovni její specializace na magii. Magický výzkum může trvat v rozpětí 1 dne až třeba i několika týdnů. Může však být přerušen a dodělán později.
+Magický výzkum je proces. Při kterém se postava zběhlá v magii pokusí prozkoumat zákoutí magie, připravit rituál nebo vyrobit magický předmět. Magický výzkum může trvat v rozpětí několika hodin až třeba i několika týdnů. Může však být přerušen a dodělán později.
 
-**Šance na selhání:** Každý magický výzkum má šanci *1 z 6-ti*, že se nepovede (alchymie se řídí vlastní stupnicí). V tom případě jsou použité materiály ztraceny a předmět nevznikne. U větších investic (*1000+ st*) se selhání projeví pouze vadou na výsledném produktu.
+**Šance na selhání:** Každý magický výzkum má šanci *1 z 6-ti*, že se nepovede. V tom případě jsou použité materiály ztraceny a předmět nevznikne. U větších investic (*1000+ st*) se selhání projeví pouze vadou na výsledném produktu.
 
 **Substituce ceny:** Postava může nabídnout různé cenné materiály nebo negativní efekty za používání předmětu a tím si od PJ vyžádat snížení výsledné ceny na výrobu předmětu.
 
-- **Základní magický výzkum:**
+- **Příklady magického výzkumu:**
+    
     - [Výroba lektvarů a svitků](/Pravidla%20a%20procedury/Downtime/#vyroba-lektvaru-a-svitku)
     - [Výzkum kouzel](/Pravidla%20a%20procedury/Downtime/#vyzkum-kouzel)
-- **Pokročilý magický výzkum:**
+    
     - [Výroba trvalých magických předmětů](/Pravidla%20a%20procedury/Downtime/#vyroba-trvalych-magickych-predmetu)
     - [Rituály a jiná magie](/Pravidla%20a%20procedury/Downtime/#ritualy-a-jina-magie)
 

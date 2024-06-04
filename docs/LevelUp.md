@@ -26,7 +26,7 @@ Zkušenosti jsou postavám přiděleny na základě aktivit ve hře. Většinou 
 
 ### Dosažení nové úrovně 
 
-Když postava získá dostatečné množství zkušeností, aby dosáhla na novou úroveň. Může tuto úroveň investovat do libovolné specializace, ke které má přístup.
+Když postava získá dostatečné množství zkušeností, aby dosáhla na novou úroveň ve svém povolání.
 
 <img src="/assets/sep_line.png"/>
 
@@ -43,6 +43,6 @@ Když postava získá dostatečné množství zkušeností, aby dosáhla na novo
 |   7    |         800         |
 |   8    |        1200         |
 |   9    |        1800         |
-|   10   |        3000         |
+|  10+   |        3000         |
 
 <img src="/assets/sep_line.png"/>

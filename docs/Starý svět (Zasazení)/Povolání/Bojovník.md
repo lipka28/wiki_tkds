@@ -34,7 +34,7 @@
 
 Na první úrovni si může bojovník vybrat *1* z bojových talentů níže.
 
-**Další bojový talent:** Bojovník si může vybrat další bojový talent na úrovni *4*, *7*.
+**Další bojový talent:** Bojovník si může vybrat další bojový talent na úrovni *4* a *7*.
 
 - **Boj se dvěma zbraněmi** - Tvůj bonus k zásahu a poškození při boji se dvěma zbraněmi o *1* vyšší. Navíc získáváš *+1* OČ proti útokům na blízku.
 - **Hbité ruce** - Můžeš zaútočit malou zbraní na dálku nebo použít malý předmět (ne větší jak 1 slot), bez postihů i pokud se zrovna nachází ve vzájemném ohrožení s nepřítelem.

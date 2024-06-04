@@ -39,9 +39,9 @@ Tvá kůže je na tolik tvrdá, že funguje jako kožené brnění. Pokud na sob
 
 ### Zášť
 
-V trpasličím bijci se hromadí zášť za každý neúspěch v boji, kterou si z radostí vybije na svých nepřátelích. Za každý zásah nebo neúspěšný záchranný hod, který bijec obdrží v boji se zvýší jeho hladina zášti o 1.
+V trpasličím bijci se hromadí zášť za každý neúspěch v boji. Tuto zášť si s radostí vybije na svých nepřátelích. Za každý zásah nebo neúspěšný záchranný hod, který bijec obdrží v boji se zvýší jeho hladina zášti o 1.
 
-- **Šílenství:** Pokud hladina zášti bijce překročí jeho hodnotu výdrže, musí na začátku svého každého tahu co je tato hladina překročena podstoupit záchranný hod proti ovlivnění mysli (bez bonusu za běsnění). Pokud selže, hráč permanentně ztrácí kontrolu nad bijcem a ten začne běsnit (pokud již tak nedělá) a nesystematicky a náhodně útočit na vše živé kolem sebe.
+- **Šílenství:** Pokud hladina zášti překročí bijcovu hodnotu výdrže, musí na začátku svého každého tahu, co je tato hladina překročena, podstoupit záchranný hod proti ovlivnění mysli (bez bonusu za běsnění). Pokud selže, hráč permanentně ztrácí kontrolu nad bijcem a ten začne běsnit (pokud již tak nedělá) a nesystematicky a náhodně útočit na vše živé kolem sebe.
 - **Ztráta zášti:** Jediný známí způsob jak bijce zbavit zášti je, aby začal běsnit a zabíjet.
 
 ### Běsnění

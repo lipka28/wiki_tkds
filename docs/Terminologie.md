@@ -105,13 +105,13 @@ Základní fyzické a psychické dovednosti jsou popsány následujícími pěti
 ### Rasa
 Hráčská postava může být buď člověk nebo některá z ostatních hráčům dostupných ras. různé rasy mají různé speciální schopnosti a volba rasy také může ovlivnit, jak na vás budou ostatní stvoření ve světě reagovat. To však záleží především na PJ, jeho světě a příběhu, který chce vyprávět.
 
-### Specializace
+### Povolání
 
-Každá hráčská postava má své úrovně rozdělené do sady specializací, které určuje její schopnosti. Specializace jsou *Boj*, *Magie*, *Řemeslo* a *Víra*.
+Každá hráčská postava má své povolání dobrodruha, která ji uděluje sadu schopností, které může používat. 
 
 ### Úroveň
 
-Úroveň představuje zkušenost postavy jako dobrodruha. Hráč většinou začíná na úrovni 1 a může svou úroveň zvýšit účastí na dobrodružství. Získané úrovně pak může postava investovat do specializací.
+Úroveň představuje zkušenost postavy jako dobrodruha. Hráč většinou začíná na úrovni 1 a může svou úroveň zvýšit získáváním zkušeností.
 
 !!! warning "Hit dice"
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem *hit dice*. Hit dice je vesměs totéž, co úroveň a často se na základě ní určují životy ale i třeba velikost monster. Pro účely výpočtu životů se tedy předpokládá, že *1 hit dice (HD)* reprezentuje jeden hod *k8*. Například pro určení životů monstra z *3+2 HD* se hází *3k8+2*.
@@ -152,6 +152,6 @@ Hybnost představuje základní rychlost, s jakou se postava zvládá pohybovat 
 Gramotnost a počet jazyků, které se postava může naučit. Je dán rozumem postavy.
 
 ### Schopnosti
-Jsou sadou výjimečných schopností, které postava získá na základě volby rasy a specializací nebo na základě voleb, které učiní při hře samotné.
+Jsou sadou výjimečných schopností, které postava získá na základě volby rasy a povolání nebo na základě voleb, které učiní při hře samotné.
 
 <img src="/assets/sep_line.png"/>

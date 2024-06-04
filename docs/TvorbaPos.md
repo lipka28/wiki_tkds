@@ -15,16 +15,16 @@ Hoď si *5x 4k6(zahoď nejnižší číslo)* a výsledné hodnoty si přiřaď d
 !!! tip "Alternativní pravidlo: Nahazování postav (Fesnův one-shot)"
     Pokud hráči přijde, že házel mizerně. Může si na místo svých naházených čísel rozmístit následující hodnoty dle vlastního uvážení: *17*, *15*, *12*, *9*, *8*.
 
-## 2. Vyber si rasu a specializaci a zapiš si speciální schopnosti
+## 2. Vyber si rasu a povolání a zapiš si speciální schopnosti
 
-Vyber si jednu z ras a zaznač si její název do svého deníku postavy. Zaznač si také výchozí specializaci nebo povolání, které sis pro svou postavu vybral. Pak si poznamenej všechny zvláštní schopnosti, které tvá postava získala těmito výběry. Hoď si na životy v závislosti na vybrané specializaci nebo povolání, zaznač si bonus k útoku a záchranný hod. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na hybnost a případně si vybrat jazyky.
+Vyber si jednu z ras a zaznač si její název do svého deníku postavy. Zaznač si také povolání, které sis pro svou postavu vybral. Pak si poznamenej všechny zvláštní schopnosti, které tvá postava získala těmito výběry. Hoď si na životy v závislosti na vybraném povolání, zaznač si bonus k útoku a záchranný hod. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na hybnost a případně si vybrat jazyky.
 
 !!! tip "Alternativní pravidlo: Životy na první úrovni (Fesnův one-shot)"
     Hráč začíná hru s tolika životy, kolik je maximum na kostce života jeho vybraného povolání modifikované výdrží.
 
 ## 3. Poznač si nosnost a nakup výbavu
 
-Zaznač si svou nosnost (*10 + modifikátor síly* pro *vybavené* předměty a *18 + modifikátor síly* pro *uschované* předměty) a nakup si výbavu. Pokud tvá postava nic nezdědila, začíná s bohatstvím ve výši *3k6 x 10 stříbrných*. Za které si může nakoupit libovolnou výbavu z tabulek v kapitole [Vybavení a nosnost](/Gear/#vybaveni-a-nosnost). Pozor na tvé specializace a rasu, které mohou uvalovat restrikce na výbavu, kterou můžeš koupit nebo používat.
+Zaznač si svou nosnost (*10 + modifikátor síly* pro *vybavené* předměty a *18 + modifikátor síly* pro *uschované* předměty) a nakup si výbavu. Pokud tvá postava nic nezdědila, začíná s bohatstvím ve výši *3k6 x 10 stříbrných*. Za které si může nakoupit libovolnou výbavu z tabulek v kapitole [Vybavení a nosnost](/Gear/#vybaveni-a-nosnost). Pozor na tvé povolání a rasu, které mohou uvalovat restrikce na výbavu, kterou můžeš koupit nebo používat.
 
 !!! warning "Pozor: Rozdělení předmětů"
 	Dbej na rozdělení předmětů na vybavené a uschované.

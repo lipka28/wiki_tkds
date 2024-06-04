@@ -290,7 +290,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Víno (1 litr, obyčejné)                                  |       1        | 2 st  |
 | Víno (1 litr, Kvalitní)                                  |       1        | 25 st |
 | Zápalky (10 použití)                                     |       L        | 5 st  |
-| Zásoba                                                   |       L        | 1 st  |
+| Zásoba                                                   |       L        | 2 st  |
 | Zlodějské náčiní (10 použití)                            |       1        | 25 st |
 | Zrcátko                                                  |       L        | 5 st  |
 | Zvoneček                                                 |       L        | 1 st  |

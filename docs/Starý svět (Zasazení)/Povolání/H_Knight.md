@@ -43,7 +43,7 @@ Rytíř vždy někomu oddaně slouží. Může to být řád, vznešený rod neb
 
 Rytíři striktně dodržují rytířský kodex aby neposkvrnili jméno svého pána a jeho rodu:
 
-- **Čest** - Rytíř se ve všech situacích musí zachovat čestně. Rytíř raději zemře než aby způsobil hanbu jménu svému, svého pána nebo svého rodu. 
+- **Čest** - Rytíř se ve všech situacích musí zachovat čestně. Rytíř raději zemře než aby způsobil hanbu jménu svému, svého pána nebo jeho rodu. 
 - **Služba** - Sloužit svému pánu je nejvyšší čest.
 - **Sláva** - Každý rytíř touží po slávě v boji. Především v boji jeden na jednoho.
 - **Ochránce slabých** - Slabé a bezbranné je třeba ochraňovat za každou cenu. 
@@ -54,7 +54,7 @@ Pro rytíře je těžká zbroj a štít klíčový nástroj k přežití. Rytí�
 
 ### Hrdinská obětavost
 
-Rytíř se nebojí za svého pána nebo své přátele klidně i položit život. Rytíř se může jedenkrát za kolo vrhnout do rány nebo kouzla, které by zasáhli spojence v okolí 2 metrů. Poškození nebo efekt kouzla, který by obdržel spojenec je přenesen na Rytíře. Rytířovo OČ ani záchranné hody nejsou brány v potaz.
+Rytíř se nebojí za svého pána nebo své přátele klidně i položit život. Rytíř se může jedenkrát za kolo vrhnout do rány nebo kouzla, které by zasáhli spojence v okolí 2 metrů. Poškození nebo efekt kouzla, který by obdržel spojenec je přenesen na Rytíře. Rytířovo OČ není bráno v potaz avšak může mít nárok na záchranný hod pokud to přesměrované kouzlo umožňuje.
 
 ### Jezdecký trénink
 
@@ -62,7 +62,7 @@ Rytíř se nebojí za svého pána nebo své přátele klidně i položit život
 
 **V boji:** Při boji na koni nebo na jiném jízdním zvířeti má rytíř bonus *+1* k zásahu.
 
-### Okamžik slávy (3. úroveň)
+### Okamžik slávy (úroveň 3)
 
 Jedině rytíř vítězící na vzdory všem okolnostem může dosáhnout té pravé slávy. Rytíř si může jedenkrát denně přidat *X* dočasných životů (do konce boje) nebo přidat *X* poškození k jednomu svému útoku. *X* reprezentuje nejvyšší úroveň monstra, které kdy rytíř se svou skupinou zabil.
 

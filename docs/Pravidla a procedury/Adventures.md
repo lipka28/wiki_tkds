@@ -46,7 +46,7 @@ Na rozdíl od hodu 20 stěnou kostkou, kde se situační modifikátory pohybují
 
 ## Ověření schopnosti (Skill check)
 
-Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tím rozdílem, že nejsou vázána na žádnou dovednost a hranice úspěchu není 4, ale je stanovena zdrojem schopnosti (třeba úrovní specializace). Například řemeslná schopnost "manipuluj mechanizmus". U spousty schopností taktéž není možné předpokládat základní kompetence u postav, které nejsou v daném oboru trénované. Takové postavy se o danou akci většinou nemohou pokusit.
+Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tím rozdílem, že nejsou vázána na žádnou dovednost a hranice úspěchu není 4, ale je stanovena zdrojem schopnosti (třeba úrovní povolání). U spousty schopností taktéž není možné předpokládat základní kompetence u postav, které nejsou v daném oboru trénované. Takové postavy se o danou akci většinou nemohou pokusit nebo mají vážné postihy na její provedení.
 
 ### Základní schopnosti
 
@@ -62,7 +62,7 @@ Všichni dobrodruzi disponují 3-mi základními schopnostmi. Výchozí HU pro t
     - **Tajný hod:** Na tuhle schopnost háže PJ potají, aby hráč neviděl výsledek hodu.
     - **Efekt úspěchu:** Hráči objeví jeden z ukrytých prvků v dané oblasti.
 - *Přežití* - Během cestování se mohou postavy pokusit o sběr plodů, lov malých zvířat a opatření jiných zásob. Tato aktivita nijak neovlivní rychlost pohybu a umožní cestující skupině najít nějaké ty zásoby.
-    - **Efekt úspěchu:** Skupina najde *1k6 čerstvých zásob*.
+    - **Efekt úspěchu:** Skupina najde *1k6 čerstvých zásob* (Čerstvé zásoby musí být spotřebovány ten den kdy jsou obstarány, jinak se zkazí).
 
 <img src="/assets/sep_line.png"/>
 

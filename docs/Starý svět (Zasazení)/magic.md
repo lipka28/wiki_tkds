@@ -1,4 +1,4 @@
-# Magie ==TODO: Modify to class==
+# Magie
 
 <img src="/assets/sep_line.png"/>
 
@@ -6,43 +6,28 @@
 
 <img src="/assets/sep_line.png"/>
 
-Ve starém světě je magie všude kolem. Víří nad hlavami smrtelníků i Povznesených ale nikdo úplně netuší odkud se bere. Existují teorie, že na svět proniká z vyšších sfér, když Povznesení otevřou portál do vyšší sféry. Jiní zase tvrdí, že magie je omezený přírodní zdroj a mělo by se jí šetřit. Nic to však nemění na faktu, že magie je všude kolem. Existují odvážlivci, kteří se naučí formovat magii k obrazu svému. Ti pak většinu svého života stráví zkoumáním nových kouzel a hledáním magických zřídel, která propůjčí kouzelníkovi ohromnou moc.
-
-Hráčské postavy, s vyšší inteligencí, se mohou do zkoumání magie ponořit investováním do specializace na magii. Pravidla pro používání magie jsou následující.
+Ve starém světě je magie všude kolem. Víří nad hlavami smrtelníků i Povznesených ale nikdo úplně netuší odkud se bere. Existují teorie, že na svět proniká z vyšších sfér, když Povznesení otevřou portál do vyšší sféry. Jiní zase tvrdí, že magie je omezený přírodní zdroj a mělo by se jí šetřit. Nic to však nemění na faktu, že magie je všude kolem. Existují odvážlivci, kteří se naučí formovat magii k obrazu svému. Ti pak většinu svého života stráví zkoumáním nových kouzel a hledáním magických zřídel, která propůjčí kouzelníkovi ohromnou moc. Pravidla pro používání magie jsou následující.
 
 <img src="/assets/sep_line.png"/>
 
 ## Třída kouzel
 
-Kouzla jsou rozdělena do 6-ti základních tříd dle síly. Postavě se zpřístupní nová třída kouzel za každou lichou úroveň dosaženou v magické specializaci. To znamená, že v rozmezí 1. až 9. úrovně se může postava, specializovaná na magii, naučit kouzla 1. až 5. třídy. 
-
-- **Mocná kouzla:** Kouzelníci 9. úrovně mají, díky meta magii, přístup ke kouzlům vyšší než 5. třídy. Této skupině kouzel se říká mocná kouzla a zahrnuje všechna kouzla vyšší jak 5. třídy.
+Kouzla jsou rozdělena do 6-ti základních tříd dle síly (1 - 5 + mocná kouzla). Některým povoláním se postupem na novou úroveň odemykají nové třídy kouzel.
 
 <img src="/assets/sep_line.png"/>
 
 ## Učení se kouzel
 
-Postava specializovaná v magii se může naučit libovolné kouzlo třídy, ke které má přístup. K naučení kouzla je však třeba nejdříve kouzlo získat.
+Mágové se můžou naučit libovolné kouzlo třídy, kterou umí seslat. K naučení kouzla je však třeba nejdříve kouzlo získat.
 
-- **Získávání kouzel:** Postava může získat nové kouzlo zvýšením úrovně magické specializace, rozluštěním magické knihy jiného kouzelníka, naučením od jiného kouzelníka nebo magickým výzkumem.
-- **Přeučení kouzla:** Pokud má postava přístup ke kouzlu, tak jak je popsáno v předešlém bodě. Může nahradit libovolné kouzlo, které umí, tímto novým kouzlem. Případně se jej naučit navíc. Má-li na kouzlo kapacitu. Přeučení kouzla trvá *1 den*.
-- **Limit kouzel:** Postava může umět maximálně tolik kouzel kolik je její *úroveň magické specializace + modifikátor rozumu*.
+- **Získávání kouzel:** Mág může získat nové kouzlo rozluštěním magické knihy jiného kouzelníka, naučením od jiného kouzelníka nebo magickým výzkumem.
+- **Přeučení kouzla:** Pokud má mág přístup ke kouzlu, tak jak je popsáno v předešlém bodě. Může nahradit libovolné kouzlo, které umí, tímto novým kouzlem. Případně se jej naučit navíc. Má-li na kouzlo kapacitu. Přeučení kouzla trvá *1 den*.
 
 <img src="/assets/sep_line.png"/>
 
 ## Sesílání kouzel
 
-Počet kouzel, které může postava s magickou specializací seslat za 1 den. Je omezen dle úrovně magické specializace. Kapacita sesílání se nevztahuje na specifická kouzla, nýbrž na třídu kouzel. Takže mág může například seslat za 1 den 3 libovolná kouzla první třídy.
-
-### Omezení zbroje
-
-Sesílání kouzel je omezeno typem zbroje, kterou má postava na sobě.
-
-- **Beze zbroje** - lze vyčarovat *kouzla libovolné třídy*
-- **Lehká zbroj** - lze vyčarovat maximálně *kouzla 3. třídy*
-- **Střední zbroj** - lze vyčarovat maximálně *kouzla 2. třídy* 
-- **Těžká zbroj** -  lze vyčarovat maximálně *kouzla 1. třídy* 
-- **Štít** - má-li postava štít ve vybavených předmětech, snižuje se maximální třída vyčarovatelných kouzel *o 1 stupeň*
+Počet kouzel, které může kouzelník seslat za 1 den. Je omezen jeho úrovní. Kapacita sesílání se nevztahuje na specifická kouzla, nýbrž na třídu kouzel. Takže mág může například seslat za 1 den 3 libovolná kouzla první třídy.
 
 <img src="/assets/sep_line.png"/>
 
@@ -51,9 +36,8 @@ Sesílání kouzel je omezeno typem zbroje, kterou má postava na sobě.
 Základní pravidla a definice platící pro všechny kouzla ve hře.
 
 - **Sesílání** - Vyčarování kouzla trvá *1 běžnou akci* a vyžaduje hlasité zaříkávání, excentrické pohyby rukou a případně i další komponenty. 
-- **Síla kouzla** - Pokud je kouzlo škálovatelné s úrovní sesilatele. Tak úroveň sesilatele odpovídá úrovni specializace do magie.
 - **Odvolání** - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal (pokud nebylo odraženo).
-- **Koncentrace** - Některá kouzla mohou být udržována za pomocí koncentrace. Koncentrace nijak neomezuje fungování čaroděje. Avšak pokud je čaroděj zasažen nebo neuspěje v záchranném hodu, existuje *3 z 6-ti* šance, že koncentraci ztratí a tím kouzlo ukončí. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí. V jednu chvíli může být aktivní jen jedno kouzlo vyžadující koncentraci.
+- **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje. Avšak pokud je čaroděj zasažen nebo neuspěje v záchranném hodu, existuje *3 z 6-ti* šance, že koncentraci ztratí a tím kouzlo ukončí. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí. V jednu chvíli může být aktivní jen jedno kouzlo vyžadující koncentraci.
 - **Záchranný hod** - Cíl většiny kouzel může podstoupit záchranný hod a tím se vyvarovat jeho efektu. U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě.
 - **Kombinace efektů** - Více souběžných kouzel, nemůže být použito k ovlivnění toho samého atributu (Síla, Zručnost, OČ, Životy a podobně...) avšak protichůdná kouzla se mohou vzájemně vyrušit.
 
@@ -61,7 +45,7 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 
 ## Magický výzkum
 
-Postavy, které jsou dostatečně dedikované své magické specializaci. Dosáhnou na možnost věnovat se magickému výzkumu. Magickým výzkumem lze vyrábět různé lektvary, svitky a magické předměty. Jak funguje výroba samotná se můžete dočíst v kapitole [mezi dobrodružstvími](/Pravidla%20a%20procedury/Downtime/).
+Mágové a některé magii ovládající povolání se mohou věnovat magickému výzkumu. Magickým výzkumem lze vyrábět různé lektvary, svitky a magické předměty. Jak funguje výroba samotná se můžete dočíst v kapitole [mezi dobrodružstvími](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum).
 
 <img src="/assets/sep_line.png"/>
 
@@ -71,13 +55,13 @@ Základní pravidla k běžným magickým předmětům.
 
 ### Lektvary a svitky
 
-Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o jednorázový předmět, který se po použití zničí a jehož výsledkem, je nějaký, většinou magický, efekt. *Kdokoliv může použít jak svitek tak lektvar* (i když přečtení svitku vyžaduje gramotnost). Jediné významné rozdíly jsou v tom jak předmět vypadá, a tedy jak je náchylný na prostředí, a co je potřeba k jeho aktivaci.
+Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o jednorázový předmět, který se po použití zničí a jehož výsledkem, je nějaký, většinou magický, efekt. *Kdokoliv může použít lektvar* a však použití svitku vyžaduje magické nadání a gramotnost.
 
 - **Aktivace předmětu:** Aktivace svitku nebo vypití lektvaru stojí *dlouhou akci*.
 
 ### Magické grimoáry
 
-Grimoáry jsou speciální knihy, do kterých si kouzelníci zapisují svá kouzla. Grimoáry vždy obsahuje několik kouzel, které se lze z grimoáru naučit. Kouzla jsou však vždy psána takovým způsobem, aby jim rozuměl pouze původní majitel. Kouzla  musí tedy před naučením první rozluštěna.
+Grimoáry jsou speciální knihy, do kterých si kouzelníci zapisují svá kouzla. Grimoáry vždy obsahuje několik kouzel, které se lze z grimoáru naučit. Kouzla jsou však vždy psána takovým způsobem, aby jim rozuměl pouze původní majitel. Kouzla musí tedy před naučením první rozluštěna.
 
 - **Další efekty:** Grimoáry mohou mít i různé posilující magické efekty pro držitele.
 
@@ -91,7 +75,7 @@ Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Ef
 
 ### Magické hůlky
 
-Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický efekt. Efekt je většinou stejný jako některé z kouzel, které mohou postavy získat. *Magické hůlky mohou být aktivovány pouze postavami, které investovali aspoň 1 úroveň do specializace na magii*.
+Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický efekt. Efekt je většinou stejný jako některé z kouzel, které může mág získat. *Magické hůlky mohou být aktivovány pouze postavami, kterým to umožňuje jejich povolání*.
 
 - **Počet použití:** Magická hůlka má většinou při nálezu *2k10* použití. 
 - **Aktivace předmětu:** Aktivace hůlky stojí *běžnou akci*.
@@ -99,7 +83,7 @@ Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický 
 
 ### Magické hole
 
-Více jak dvoumetrová magická hůl schopna vyvolávat hned několik různých magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami jejichž výchozí a zároveň nejčetnější specializací je magie*.
+Více jak dvoumetrová magická hůl schopna vyvolávat hned několik různých magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami, kterým to umožňuje jejich povolání*.
 
 - **Počet použití:** Magická hůl má většinou při nálezu *3k10* použití. 
 - **Aktivace předmětu:** Aktivace hole stojí *běžnou akci* a nevztahují se na ni postihy za vzájemné ohrožení.
@@ -117,7 +101,7 @@ Další běžnou podobou magických předmětů jsou zbraně, štíty a zbroje. 
 Při hře se lze setkat i s dalšími "nositelnými" magickými předměty. Obecně platí, že takové magické předměty *mohou být použity kýmkoliv kdo je má jako součást svých vybavených předmětů*.
 
 - **Omezení:** Stvoření může mít naráz vybaven jen 1 magický předmět daného typu (jedny boty, jedna přilba, jeden plášť atd...). Výjimkou jsou magické prsteny. Ty lze mít vybavené 2 (1 na každé ruce). 
-- **Aktivace:** Jak je magický efekt aktivován nemusí být na první pohled jasné. Hráč si na způsob aktivace může přijít experimentováním nebo použitím nějaké identifikační magie. Aktivace předmětu stojí většinou *běžnou akci*.
+- **Aktivace:** Jak je magický předmět aktivován nemusí být na první pohled jasné. Hráč si na způsob aktivace může přijít experimentováním nebo použitím nějaké identifikační magie. Aktivace předmětu stojí většinou *běžnou akci*.
 - **Prokleté předměty:** Některé předměty mohou být prokleté. Nasazený prokletý předmět nelze sundat, dokud není prokletí zlomeno. 
 
 <img src="/assets/sep_line.png"/>
