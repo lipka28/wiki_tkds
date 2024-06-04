@@ -39,8 +39,8 @@ Na rozdíl od hodu 20 stěnou kostkou, kde se situační modifikátory pohybují
 !!! tip "Rada pro PJ: S ověřením dovednosti to nepřehánět."
     Přílišné spoléhání na ověření dovedností může mít neblahý efekt na průběh a zábavnost hry. Pokud se většina situací ve hře dá zredukovat na řešení za pomocí hodu kostkou můžete se rychle začít nudit. Hráči by měli být motivováni interagovat ze světem a hledat řešení v něm. To se ze strany PJ dá podpořit například tím, že pokud hráči přijdou s rozumným proveditelným plánem, jak vyřešit situaci. PJ by měl nechat plán proběhnout bez zbytečných hodů kostkou.
 
-!!! note "Předpokládaná kompetence"
-    Je dobré myslet na to, že hráčské postavy jsou především dobrodruzi. Měli by tedy zvládat základní věci, jako například nerušený šplh po laně nebo jízda na koni, bez zbytečných ověřovacích hodů.
+!!! note "Záklaní kompetence"
+    Je dobré myslet na to, že hráčské postavy jsou především dobrodruzi ve svém povolání. Měli by tedy zvládat základní věci, jako například nerušený šplh po laně nebo jízda na koni, bez zbytečných ověřovacích hodů. Dokonce, pokud to dává smysl, může PJ poskytnout i bonus do dovednosti vyplývající z daného povolání postavy. I když daná aktivita nezapadá do žádné psané schopnosti povolání.  
 
 <img src="/assets/sep_line.png"/>
 

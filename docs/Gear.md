@@ -251,7 +251,6 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 | PŘEDMĚT                                                  |      VÁHA      | CENA  |
 | :------------------------------------------------------- | :------------: | :---: |
-| Běžná sušená bylina (10 ks)                              |       1        | 5 st  |
 | Dalekohled                                               |       1        | 20 st |
 | Dřevěný kabinet na lektvary                              |       2        | 50 st |
 | Dřevěný kůl (5 ks)                                       |       5L       | 1 md  |
@@ -276,12 +275,10 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Pochodeň (5 kusů)                                        |       5L       | 1 st  |
 | Protijed (slabý)                                         |       L        | 30 st |
 | Provaz (10 metrů)                                        |       1        | 2 st  |
-| Přenosná alchymistická sada (10 použití)                 |       2        | 20 st |
 | Psací potřeby (10 použití)                               |       1        | 20 st |
 | Pytel kovových ježků                                     |       1        | 10 st |
 | Rybářské náčiní                                          |       1        | 5 st  |
 | Řetěz (2 metry)                                          |       1        | 6 st  |
-| Sada převleků a líčení (3 použití)                       |       3        | 15 st |
 | Sedlová brašna / Pytel                                   |    1 (Kon.)    | 5 st  |
 | Spacák                                                   |       1        | 2 st  |
 | Stan (pro 1)                                             |       1        | 5 st  |
@@ -293,16 +290,13 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Víno (1 litr, obyčejné)                                  |       1        | 2 st  |
 | Víno (1 litr, Kvalitní)                                  |       1        | 25 st |
 | Zápalky (10 použití)                                     |       L        | 5 st  |
-| Zásoba (Čerstvá)                                         |       L        | 1 st  |
-| Zásoba (Železná)                                         |       L        | 5 st  |
+| Zásoba                                                   |       L        | 1 st  |
 | Zlodějské náčiní (10 použití)                            |       1        | 25 st |
 | Zrcátko                                                  |       L        | 5 st  |
 | Zvoneček                                                 |       L        | 1 st  |
 | A další... (Řekni PJ co potřebuješ)                      |       ??       |  ??   |
 
 **Kontejner (Kon.):** Obsazené předměty s tímto označením zabírají místo v inventáři pouze tehdy, jsou-li v něm uschované. Při běžném použití žádné místo nezabírají. (Místo je zabíráno pouze předměty uschovanými uvnitř)
-
-**Běžná sušená bylina:** Užitečná především v alchymii.
 
 **Dalekohled:** Umožňuje lépe rozeznat věci v dálce.
 
@@ -347,13 +341,9 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 - *Slabé jedy:* Jedy typu *I* nebo *II* a jedy monster , které umožňují záchranný hod s bonusem k hodu jsou považovány za slabé. 
 - *Jiné jedy:* V případě silnějších jedů tento protijed nemá žádný účinek.
 
-**Přenosná alchymistická sada:** Vyžadována pro alchymistické rozbory.
-
 **Psací potřeby:** Sada psacích per, inkoustů, pečetního vosku a listů pergamenu pro běžné poznámky, nákresy či korespondenční účely. 
 
 **Pytel kovových ježků:** Malé kovové bodce, které mohou být rozhozeny po zemi (plocha *3 x 3 metry*). Stvoření pohybující se postiženou oblastí stoupnou na bodec s pravděpodobností *2 z 6-ti*. Stvoření, které stoupne na bodec obdrží *1 poškození* a jeho *rychlost pohybu bude snížena na polovinu* po dobu *24 hodin* nebo dokud neobdrží magické léčení.
-
-**Sada převleků a líčení:** Sada nejrůznějších kostýmů a líčidel, vhodné pro zapadnutí do kterékoliv společnosti. Kompletní nasazení převleku trvá *1 hodinu*.
 
 **Sedlová brašna / Pytel**: Vhodná pro uložení předmětu na koni či jiném stvoření. Kapacita *4 Sloty*.
 
@@ -377,9 +367,6 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 **Zápalky:** Užitečné k zapalování ohňů a pochodní. Použití při vypjatých situacích (například v boji) k úspěšnému zapálení dojde s pravděpodobností *5 z 6-ti*.
 
 **Zásoby:** Zásoby reprezentují univerzální potřeby k přežití v divočině. 1 Kus zásob může představovat:  Příděl jídla pro 1 osobu na 1 den. Příděl vody pro 1 osobu na den. Příděl dřeva na oheň pro 1 osobu na den.
-
-- *Čerstvé zásoby:* Jsou výrazně levnější, avšak během *3 dnů* se zkazí a stanou se v podstatě nepoužitelnými.
-- *Železné zásoby:* Odolné zásoby, které vydrží klidně i několik měsíců nebo dokonce let.
 
 **Zlodějské náčiní:** Zlodějská sada pro odemykání zámků a jiné manipulace drobných mechanismů.
 
