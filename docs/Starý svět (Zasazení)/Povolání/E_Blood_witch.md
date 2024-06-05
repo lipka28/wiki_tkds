@@ -1,4 +1,4 @@
-# Krvavá čarodějnice
+# Elfí krvavá čarodějnice
 
 !!! danger "Požadavky"
     Tohle povolání je dostupné pouze *elfům ženského pohlaví*. Preferovaně *Nufael*.
@@ -13,17 +13,17 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |       HP        |     DE      | Bonus k zásahu | Z.Hod |
-| :----: | :-------------: | :---------: | :------------: | :---: |
-|   1    | 2+1k6+MOD Výdrž | 2+MOD Výdrž |       +0       |  16   |
-|   2    | +1k6+MOD Výdrž  |     +1      |       +1       |  15   |
-|   3    | +1k6+MOD Výdrž  |     +1      |       +1       |  14   |
-|   4    | +1k6+MOD Výdrž  |     +1      |       +2       |  13   |
-|   5    | +1k6+MOD Výdrž  |     +1      |       +2       |  12   |
-|   6    | +1k6+MOD Výdrž  |     +1      |       +3       |  11   |
-|   7    | +1k6+MOD Výdrž  |     +1      |       +3       |  10   |
-|   8    | +1k6+MOD Výdrž  |     +1      |       +4       |   9   |
-|   9    | +1k6+MOD Výdrž  |     +1      |       +4       |   8   |
+| ÚROVEŇ |       HP        |  DE  | Bonus k zásahu | Z.Hod |
+| :----: | :-------------: | :--: | :------------: | :---: |
+|   1    | 2+1k6+MOD Výdrž |  1   |       +0       |  16   |
+|   2    | +1k6+MOD Výdrž  |  2   |       +1       |  15   |
+|   3    | +1k6+MOD Výdrž  |  3   |       +1       |  14   |
+|   4    | +1k6+MOD Výdrž  |  4   |       +2       |  13   |
+|   5    | +1k6+MOD Výdrž  |  6   |       +2       |  12   |
+|   6    | +1k6+MOD Výdrž  |  8   |       +3       |  11   |
+|   7    | +1k6+MOD Výdrž  |  10  |       +3       |  10   |
+|   8    | +1k6+MOD Výdrž  |  12  |       +4       |   9   |
+|   9    | +1k6+MOD Výdrž  |  14  |       +4       |   8   |
 
 ## Schopnosti povolání
 
@@ -40,7 +40,7 @@ Krvavá čarodějnice umí používat divokou magii. To jí dává schopnost akt
 - **Magický výzkum:** Ve volné chvíli se krvavá čarodějnice může zabývat magickým výzkumem. Ten se může týkat čehokoliv magického. Většinou se však jedná o výrobu lektvarů a různé magické rituály napodobující efekty kouzel. Více o magickém výzkumu [zde](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum).
 - **Sesílání kouzel:** Každý den krvavá čarodějnice disponuje divokou energií (DE) dle tabulky postupu [výše](/Starý%20svět%20%28Zasazení%29/Povolání/E_Blood_witch/#tabulka-postupu). Za tu může sesílat naučená kouzla. Cena seslání kouzla odpovídá úrovni kouzla nebo úrovni nestvůry, od které bylo kouzlo získáno / 2 (zaokrouhleno nahoru). Aby krvavá čarodějnice nabrala síly musí mít možnost si odpočinout do dalšího dne (aspoň 8 hodin spánku). Detailní pravidla o kouzlení najdeš v [zde](/Starý%20svět%20%28Zasazení%29/magic/).
 - **Učení se nových kouzel:** Hru začínáš bez znalosti jakýchkoliv kouzel. Krvavá čarodějnice se učí kouzla traumatickými zážitky. Když obdrží poškození nebo se stane cílem negativního efektu, může se danou schopnost naučit jako kouzlo. Naučení kouzla trvá 1 směnu. Nelze se naučit schopnosti s pozitivními efekty a schopnosti vůči, kterým je čarodějnice chráněna či imunní. Nelze se také naučit mocná kouzla. Naučená kouzla se již běžnými způsoby nedají odnaučit.
-- **Maximum kouzel:** Počet kouzel, které se krvavá čarodějnice může naučit odpovídá její *úrovni+modifikátor výdrže*.
+- **Maximum kouzel:** Počet kouzel, které se krvavá čarodějnice může naučit odpovídá její *hodnotě dovednosti výdrž*.
 
 !!! note "Záměr schopnosti"
     Při učení se kouzla by měl být dodržen záměr původní schopnosti a to včetně negativních efektů. 
@@ -73,7 +73,7 @@ Krvavá čarodějnice se může pokusit sníst klíčové části těla krátce 
 
 ### Proměna ve zvíře (Úroveň 5)
 
-Na 5. úrovni získává krvavá čarodějnice schopnost proměnit se do podoby plaza, ptáka a savce (jednou denně každé). Zvíře může být jakékoliv velikosti až do přibližně dvojnásobku objemu normální podoby krvavá čarodějnice. Pokud krvavá čarodějnice ztratil již nějaké životy, při proměně do zvířecí podoby získá zpět 1 život za každou svou úroveň. Veškeré vybavení se vstřebá do zvířecí podoby a znovu se objeví, při proměně zpět.
+Na 5. úrovni získává krvavá čarodějnice schopnost proměnit se do podoby plaza, ptáka a savce (jednou denně každé). Zvíře může být jakékoliv velikosti až do přibližně dvojnásobku objemu normální podoby krvavá čarodějnice. Pokud krvavá čarodějnice ztratil již nějaké životy, při proměně do zvířecí podoby získá zpět *1 život za každou svou úroveň*. Veškeré vybavení se vstřebá do zvířecí podoby a znovu se objeví, při proměně zpět.
 
 - **Seslání:** Proměna trvá *1 běžnou akci*.
 - **Maximální trvání proměny:** Počet směn ve výši úrovně krvavé čarodějnice.

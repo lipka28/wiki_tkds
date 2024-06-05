@@ -26,14 +26,14 @@
 
 | *\**/*\*\** | 1    | 2    | 3    | 4    | 5    | MK        |
 | :---------- | ---- | ---- | ---- | ---- | ---- | --------- |
-| 1           | 2    | -    | -    | -    | -    | -         |
-| 2           | 3    | -    | -    | -    | -    | -         |
-| 3           | 3    | 1    | -    | -    | -    | -         |
-| 4           | 3    | 2    | -    | -    | -    | -         |
+| 1           | 1    | -    | -    | -    | -    | -         |
+| 2           | 2    | -    | -    | -    | -    | -         |
+| 3           | 2    | 1    | -    | -    | -    | -         |
+| 4           | 2    | 2    | -    | -    | -    | -         |
 | 5           | 3    | 2    | 1    | -    | -    | -         |
-| 6           | 4    | 2    | 2    | -    | -    | -         |
-| 7           | 4    | 3    | 2    | 1    | -    | -         |
-| 8           | 4    | 3    | 3    | 2    | -    | -         |
+| 6           | 3    | 2    | 2    | -    | -    | -         |
+| 7           | 3    | 3    | 2    | 1    | -    | -         |
+| 8           | 4    | 3    | 2    | 2    | -    | -         |
 | 9           | 4    | 3    | 3    | 2    | 1    | 1*\*\*\** |
 
 *\* Úroveň mága*
@@ -67,7 +67,7 @@ Mág disponuje schopností používat magii. To znamená, že umí aktivovat ně
 - **Magický výzkum:** Ve volné chvíli se může mág zabývat magickým výzkumem. Ten se může týkat čehokoliv magického. Přes objevování nových kouzel a magických rituálů až po výrobu magických předmětů. Více o magickém výzkumu [zde](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum).
 - **Sesílání kouzel:** Každý den může mág seslat tolik kouzel, kolik určuje tabulka sesílání [výše](/Starý%20svět%20%28Zasazení%29/Povolání/Mág/#tabulka-sesilani). Aby znovu nabral síly musí mít mág možnost si odpočinout do dalšího dne (aspoň 8 hodin spánku). Detailní pravidla o kouzlení najdeš v [zde](/Starý%20svět%20%28Zasazení%29/magic/).
 - **Učení se nových kouzel:** Mág začíná hru s dvěma kouzly dle vlastního výběru. Vybírat můžeš ze [seznamu kouzel](/Star%C3%BD%20sv%C4%9Bt%20%28Zasazen%C3%AD%29/magic/#seznam-kouzel). Další kouzla se může mág naučit od různých mentorů, studováním magických grimoárů jiných kouzelníků nebo magickým výzkumem.
-- **Maximum kouzel:** Počet kouzel, které se mág může naučit, odpovídá hodnotě jeho dovednosti rozum. Pokud mág získá kouzlo a překročí tuhle hranici, musí některé naučené kouzlo zapomenout (Ideálně ho před zapomenutím zapíše do grimoáru).
+- **Maximum kouzel:** Počet kouzel, které se mág může naučit, odpovídá *hodnotě jeho dovednosti rozum*. Pokud mág získá kouzlo a překročí tuhle hranici, musí některé naučené kouzlo zapomenout (Ideálně ho před zapomenutím zapíše do grimoáru).
 
 ### Mocná magie (úroveň 9)
 
