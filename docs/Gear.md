@@ -92,7 +92,7 @@ Tyto kategorie mohou být například důležité v situacích kdy záleží na 
 
 **Hozené zbraně:** Zbraní, u které to dává smysl, lze hodit do efektivní vzdálenosti dané sílou postavy a neefektivní vzdálenosti dané dvojnásobkem síly postavy. K poškození se navíc pak připočítává i modifikátor síly.
 
-**Neefektivní dostřel:** S většinou střelných a hozených zbraní lze útočit i na takzvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu. Takový útok však probíhá *s nevýhodou* na zásah.
+**Neefektivní dostřel:** S většinou střelných a hozených zbraní lze útočit i na takzvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu. Takový útok však probíhá *s postihem -4* na zásah.
 
 **Nabíjecí zbraně:** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebíjení trvá *dlouhou akci*. Nabíjecí zbraně mívají bonus *+1* k poškození.
 
