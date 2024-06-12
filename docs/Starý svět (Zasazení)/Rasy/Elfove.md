@@ -7,7 +7,7 @@
 <img src="/assets/sep_line.png"/>
 
 !!! danger "Požadavky"
-    Zručnost >= *13*; Rozum >= *16*
+    Zručnost >= *11*; Rozum >= *15*
 
 ## Popis
 

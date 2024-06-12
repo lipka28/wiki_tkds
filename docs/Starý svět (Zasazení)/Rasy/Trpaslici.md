@@ -7,7 +7,7 @@
 <img src="/assets/sep_line.png"/>
 
 !!! danger "Požadavky"
-    Síla >= *13*; Výdrž >= *16*
+    Síla >= *11*; Výdrž >= *15*
 
 ## Popis
 
