@@ -29,6 +29,9 @@ Mágové se můžou naučit libovolné kouzlo třídy, kterou umí seslat. K nau
 
 Počet kouzel, které může kouzelník seslat za 1 den. Je omezen jeho úrovní. Kapacita sesílání se nevztahuje na specifická kouzla, nýbrž na třídu kouzel. Takže mág může například seslat za 1 den 3 libovolná kouzla první třídy.
 
+!!! tip "Volitené pravidlo: Upcasting"
+    Kouzla nižších tříd mohou být seslána jako sesílání vyšší třídy. To však nemá inherentní dopad na sílu kouzla. Například pokud má kouzelník kouzlo první třídy a umí během jednoho dne seslat 2 kouzla první třídy a jedno kouzlo druhé třídy. Může všechna 3 tato seslání použít na seslání daného kouzla první třídy.
+
 <img src="/assets/sep_line.png"/>
 
 ## Kouzla obecně

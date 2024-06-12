@@ -4,7 +4,7 @@
 
 ==TODO: Obrázek==
 
-==Upravit popisek==*Medžaj, jméno pocházející ze zapomenutého jazyka. V dnešní době používáno jako hanlivé označení pro čaroděje, šamany, okultisty, prostě kohokoliv kdo zachází s  magickými silami. I přesto, že jsou aktivně loveni lamači kouzel, většina medžajů nevede tak špatný život. Musí se sice ukrývat, ale za to jsou jejich služby extrémně ceněné. Ať už je to příprava všelijakých lektvarů, seslání ohraných kouzel či prokletí. Medžajové zvládnou cokoliv si jen umanou. Povolání medžaje je vhodné pro kohokoliv kdo se rád ponoří do tajů magie.*
+==TODO: Upravit popisek==*Medžaj, jméno pocházející ze zapomenutého jazyka. V dnešní době používáno jako hanlivé označení pro čaroděje, šamany, okultisty, prostě kohokoliv kdo zachází s  magickými silami. I přesto, že jsou aktivně loveni lamači kouzel, většina medžajů nevede tak špatný život. Musí se sice ukrývat, ale za to jsou jejich služby extrémně ceněné. Ať už je to příprava všelijakých lektvarů, seslání ohraných kouzel či prokletí. Medžajové zvládnou cokoliv si jen umanou. Povolání medžaje je vhodné pro kohokoliv kdo se rád ponoří do tajů magie.*
 
 <img src="/assets/sep_line.png"/>
 
