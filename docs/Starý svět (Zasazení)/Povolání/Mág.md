@@ -55,7 +55,7 @@
 
 ### Vyciť magii
 
-Mág se může pokusit vycítit magické vibrace, obklopující všechny magické předměty, stvoření či místa s *HU 6*.
+Mág se může pokusit vycítit magické vibrace, obklopující všechny magické předměty, stvoření či místa s *HU 5*.
 
 - **Požadavky:** Mág se musí dotýkat analyzovaného subjektu podobu *1 směny* a nebýt u toho rušen.
 - **Opakování:** Mág může tuto schopnost opakovat kolikrát chce. Avšak každé opakování zabere *1 směnu* soustředění.
