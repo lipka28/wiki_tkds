@@ -204,7 +204,7 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 **Prak:** Jednoduchá zbraň vytvořená za účely vrhání kamenů. *Speciální:* Munice je zdarma dostupná kdekoliv, kde se dají najít kameny; Prakem lze házet lektvary, granáty a jiné podobné předměty; Pokud je prakem hozen kámen, připočítává se k poškození modifikátor síly útočníka.
 
-**Příruční kuše:** Menší varianta kuše, která se dá lépe schovat. *Speciální:* Lze nabít jako běžnou akci.
+**Příruční kuše:** Menší varianta kuše, která se dá lépe schovat.
 
 **Těžká kuše:** Velká a těžší varianta klasické kuše, která dokáže přesně vrhat šipky na obrovské vzdálenosti s ničivou silou. *Speciální:* bonus *+1* k zásahu. Kritický zásah těžkou kuší shodí nepřítele na zem.
 
