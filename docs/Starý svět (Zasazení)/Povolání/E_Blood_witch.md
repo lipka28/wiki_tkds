@@ -17,13 +17,13 @@
 | :----: | :-------------: | :--: | :------------: | :---: |
 |   1    | 2+1k6+MOD Výdrž |  1   |       +0       |  16   |
 |   2    | +1k6+MOD Výdrž  |  2   |       +1       |  15   |
-|   3    | +1k6+MOD Výdrž  |  3   |       +1       |  14   |
+|   3    | +1k6+MOD Výdrž  |  3   |       +2       |  14   |
 |   4    | +1k6+MOD Výdrž  |  4   |       +2       |  13   |
-|   5    | +1k6+MOD Výdrž  |  6   |       +2       |  12   |
-|   6    | +1k6+MOD Výdrž  |  8   |       +3       |  11   |
-|   7    | +1k6+MOD Výdrž  |  10  |       +3       |  10   |
-|   8    | +1k6+MOD Výdrž  |  12  |       +4       |   9   |
-|   9    | +1k6+MOD Výdrž  |  14  |       +4       |   8   |
+|   5    | +1k6+MOD Výdrž  |  6   |       +3       |  12   |
+|   6    | +1k6+MOD Výdrž  |  8   |       +4       |  11   |
+|   7    | +1k6+MOD Výdrž  |  10  |       +4       |  10   |
+|   8    | +1k6+MOD Výdrž  |  12  |       +5       |   9   |
+|   9    | +1k6+MOD Výdrž  |  14  |       +6       |   8   |
 
 ## Schopnosti povolání
 
@@ -32,6 +32,16 @@
 **Trénovaná brnění:** Žádné
 
 **Bonus k záchraně:** +2 proti smrti a magii
+
+### Vyciť magii
+
+Krvavá čarodějnice se může pokusit vycítit magické vibrace, obklopující všechny magické předměty, stvoření či místa s *HU 6*.
+
+- **Požadavky:** Krvavá čarodějnice se musí dotýkat analyzovaného subjektu podobu *1 směny* a nebýt u toho rušena.
+- **Opakování:** Krvavá čarodějnice může tuto schopnost opakovat kolikrát chce. Avšak každé opakování zabere *1 směnu* soustředění.
+- **Tajný hod:** Na úspěch háže PJ
+- **Automatický úspěch:** Má-li krvavá čarodějnice čas na hodinovou nerušenou meditaci se subjektem, automaticky uspěje.
+- **Vylepšní:** *HU* této schopnosti se sníží o *1* na *3.*, *6.* a *9.* úrovni.
 
 ### Divoká magie
 

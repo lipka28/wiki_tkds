@@ -14,13 +14,13 @@
 | :----: | :-------------: | :------------: | :---: |
 |   1    | 2+1k6+MOD Výdrž |       +0       |  16   |
 |   2    | +1k6+MOD Výdrž  |       +1       |  15   |
-|   3    | +1k6+MOD Výdrž  |       +1       |  14   |
+|   3    | +1k6+MOD Výdrž  |       +2       |  14   |
 |   4    | +1k6+MOD Výdrž  |       +2       |  13   |
-|   5    | +1k6+MOD Výdrž  |       +2       |  12   |
-|   6    | +1k6+MOD Výdrž  |       +3       |  11   |
-|   7    | +1k6+MOD Výdrž  |       +3       |  10   |
-|   8    | +1k6+MOD Výdrž  |       +4       |   9   |
-|   9    | +1k6+MOD Výdrž  |       +4       |   8   |
+|   5    | +1k6+MOD Výdrž  |       +3       |  12   |
+|   6    | +1k6+MOD Výdrž  |       +4       |  11   |
+|   7    | +1k6+MOD Výdrž  |       +4       |  10   |
+|   8    | +1k6+MOD Výdrž  |       +5       |   9   |
+|   9    | +1k6+MOD Výdrž  |       +6       |   8   |
 
 ## Schopnosti povolání
 
@@ -40,7 +40,7 @@ Zloděj je expertem v hledání slabých míst nic netušících nepřátel a do
 
 - **Podmínky:** Útok musí probíhat zezadu a stvoření si nesmí být vědomo zlodějovi přítomnosti (Stačí pokud je zloděj ukryt ve stínu či se úspěšně proplížil ke stvoření).
 - **Cíl útoku:** Může být libovolné člověku podobné stvoření nebo libovolné stvoření, které není více jak 2x větší jak člověk (PJ může povolit speciální okolnosti).
-- **Bonusy a poškození:** Zloděj má při takovém útoku bonus *+6 k zásahu* a jeho útok uděluje *9* (+ modifikátory) poškození.
+- **Bonusy a poškození:** Zloděj má při takovém útoku bonus *+4 k zásahu* a jeho útok uděluje *9* (+ modifikátory) poškození.
 - **Vylepšení:** Každou 3. úroveň (3, 6, 9) se poškození *zvedá o 6*.
 
 ### Zlodějské schopnosti

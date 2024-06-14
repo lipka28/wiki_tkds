@@ -46,6 +46,9 @@
 
 **Trénované zbraně:** nůž + 1 zbraň vlastního výběru
 
+!!! tip "Alternativní pravidlo: Více magie"
+    Hráči, kterým nepřijde možnost ohánět se mečem nebo střílet z luku či kuše dostatečně vhodná pro mága. Můžou ve vizualizacích svých útoků používat magii na místo zbraně. Z pohledu mechanik se nic nemění. Postava je stále trénovaná se zbraní vlastního výběru a tu zbraň si pro účely používání koupí a bude umístěna do výbavy postavy. Dále pokud je to něco jako luk či kuše. Musí do něj dokupovat adekvátní munici (Jak tyto zbraně a munice ve skutečnosti vypadají je na domluvě s PJ) Hráč pak může své bojové útoky převléct za co chce. Může metat blesky, střílet magická kopí nebo se ohánět levitujícím mečem. Volba je čistě na hráči. PJ může také zvážit umožnit takovému mágovy používat *modifikátor rozumu* k hodu na zásah a nepřičítat žádné modifikátory k poškození (například za negativní sílu při ohnání se levitujícím mečem). Je důležité mít ale na paměti, že tyto typy útoku stále působí jen běžné fyzické poškození.
+
 **Trénovaná brnění:** Žádné
 
 **Bonus k záchraně:** +3 proti magii
@@ -54,11 +57,21 @@
 
 Mág se může pokusit vycítit magické vibrace, obklopující všechny magické předměty, stvoření či místa s *HU 6*.
 
-- **Požadavky:** Mág se musí dotýkat analyzovaného subjektu a podobu *1 směny* a nebýt u toho rušen.
+- **Požadavky:** Mág se musí dotýkat analyzovaného subjektu podobu *1 směny* a nebýt u toho rušen.
 - **Opakování:** Mág může tuto schopnost opakovat kolikrát chce. Avšak každé opakování zabere *1 směnu* soustředění.
 - **Tajný hod:** Na úspěch háže PJ
 - **Automatický úspěch:** Má-li mág čas na hodinovou nerušenou meditaci se subjektem, automaticky uspěje.
-- **Vylepšní:** *HU* této schopnosti se sníží o *1* na *3.*, *6.* a *9.* úrovni.
+- **Vylepšení:** *HU* této schopnosti se sníží o *1* na *3.*, *6.* a *9.* úrovni.
+
+### Arkanum
+
+Mág dokáže číst v magii jako v otevřené knize a díky tomu zvládne rozluštit magické texty, rozšifrovat magické grimoáry jiných kouzelníků, porozumět efektům probíhajících kouzel nebo zjistit nějaké informace o stvořeních, která vznikla za pomocí magie. Všechno s *HU 5*.
+
+- **Požadavky:** Mág musí vědět, že daný subjekt je magický nebo magického původu, než se může o tuto schopnost pokusit. U zjevných kouzelných efektů je to jasné. Ale v jiných případech může být nutné první použít schopnost *vyciť magii*.
+- **Trvání použití:** Jak dlouho zabere použití této schopnosti záleží především na využití. Vybavení si informací o magickém monstru může být otázkou *1 běžné akce*. Zatím co rozluštění magického textu či porozumění efektu probíhajícího kouzla může zabrat *1 směnu* nebo více. Výsledně pak aktivity jako je rozluštění grimoáru jiného kouzelníka či úplné porozumění magickému předmětu může trvat i *několik dní*.
+- **Neúspěch:** Magický efekt, je mimo mágovo chápání. O další porozumění danému efektu se může pokusit až s dosažením nové úrovně.
+- **Alternativní využití:** Mág se může pokusit sesílaný svitek povýšit na svou úroveň sesílání. V případě neúspěchu se svitek sešle na původní úrovni na které byl sepsán.
+- **Vylepšení:** *HU* této schopnosti se sníží o *1* na *3.*, *6.* a *9.* úrovni.
 
 ### Magie
 

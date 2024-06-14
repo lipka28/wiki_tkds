@@ -120,11 +120,11 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 ## Ostatní bojové situace
 
-**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných z povolání, způsobené poškození je poloviční (vyjímaje kritických zásahů) a při útoku zbraní na dálku je navíc k zásahu připočten postih *-1*.
+**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných z povolání, způsobené poškození je poloviční (vyjímaje kritických zásahů).
 
 **Netrénované zbroje a štíty:** Poskytují jen poloviční bonus do OČ.
 
-**Neozbrojený boj:** Neozbrojený útok je považován za útok netrénovanou zbraní a  má vždy poškození *1k2+modifikátor síly*. Navíc ozbrojené útoky na blízko proti neozbrojenému cíli jsou vždy s výhodou.
+**Neozbrojený boj:** Neozbrojený útok je považován za útok netrénovanou zbraní a  má vždy poškození *1k2+modifikátor síly*.
 
 **Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus +1 do zásahu a poškození.
 

@@ -94,7 +94,7 @@ Tyto kategorie mohou být například důležité v situacích kdy záleží na 
 
 **Neefektivní dostřel:** S většinou střelných a hozených zbraní lze útočit i na takzvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu. Takový útok však probíhá *s postihem -4* na zásah.
 
-**Nabíjecí zbraně:** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebíjení trvá *dlouhou akci*. Nabíjecí zbraně mívají bonus *+1* k poškození.
+**Nabíjecí zbraně:** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebíjení stojí buď *běžnou akci* a nebo *všechen pohyb v daném kole*. Nabíjecí zbraně mívají bonus *+1* k poškození.
 
 ### Základní zbraně
 

@@ -81,7 +81,12 @@ Akolyta se pokusí rozkázat stvořením v dosahu a její slova naberou magickou
 
 #### Vyciť magii
 
-Akolyta se pokusí *1 směnu* koncentrovat a vycítit magické vibrace v předmětu, stvoření či místě. Neúspěšné pokusy mohou být opakovány, pokud má akolyta dost času.
+Akolyta se pokusí *1 směnu* koncentrovat a vycítit magické vibrace v předmětu, stvoření či místě.
+
+- **Požadavky:** Akolyta se musí dotýkat analyzovaného subjektu podobu *1 směny* a nebýt u toho rušena.
+- **Opakování:** Akolyta může tuto schopnost opakovat kolikrát chce. Avšak každé opakování zabere *1 směnu* soustředění.
+- **Tajný hod:** Na úspěch háže PJ
+- **Automatický úspěch:** Má-li akolyta čas na hodinovou nerušenou meditaci se subjektem, automaticky uspěje.
 
 ### Léčení (2. úroveň)
 

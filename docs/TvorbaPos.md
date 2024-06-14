@@ -17,10 +17,13 @@ Hoď si *5x 4k6(zahoď nejnižší číslo)* a výsledné hodnoty si přiřaď d
 
 ## 2. Vyber si rasu a povolání a zapiš si speciální schopnosti
 
-Vyber si jednu z ras a zaznač si její název do svého deníku postavy. Zaznač si také povolání, které sis pro svou postavu vybral. Pak si poznamenej všechny zvláštní schopnosti, které tvá postava získala těmito výběry. Hoď si na životy v závislosti na vybraném povolání, zaznač si bonus k útoku a záchranný hod. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na hybnost a případně si vybrat jazyky.
+Vyber si jednu z ras a zaznač si její název do svého deníku postavy. Zaznač si také povolání, které sis pro svou postavu vybral. Pak si poznamenej všechny zvláštní schopnosti, které tvá postava získala těmito výběry. Hoď si na životy v závislosti na vybraném povolání, zaznač si bonus k útoku a záchranný hod. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na hybnost a poznačit si, kolik můžeš umět jazyků.
 
 !!! tip "Alternativní pravidlo: Životy na první úrovni (Fesnův one-shot)"
     Hráč začíná hru s tolika životy, kolik je maximum na kostce života jeho vybraného povolání modifikované výdrží.
+
+!!! tip "Alternativní pravidlo: Jazyky"
+    Hráč si nemusí vybírat své jazyky při tvorbě postavy. Na místo toho si jen poznačí, kolik jazyků se může naučit a po té, když se při hře setká z novým jazykem. Může říct, že ho umí a zapsat si ho jako známý jazyk.
 
 ## 3. Poznač si nosnost a nakup výbavu
 
