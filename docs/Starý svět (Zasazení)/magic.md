@@ -178,7 +178,7 @@ Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativn
 
 **Dosah:** *36* metrů
 
-**Popis:** Jedno člověku podobné stvoření musí uspět v *záchranném hodu proti ovlivnění mysli* jinak podlehne okouzlení.
+**Popis:** Jedno člověku podobné stvoření musí uspět v *záchranném hodu proti ovlivnění mysli* a v případě neúspěchu podlehne okouzlení.
 
 - **Přátelství:** Okouzlené stvoření považuje sesilatele za dobrého přítele a spojence. V případě potřeby se jej bude zastávat nebo jej dokonce bránit.
 - **Příkazy:** Pokud mluví společným jazykem, může sesilatel dávat okouzlenému stvoření příkazy a to je bude následovat. Pokud se však jedná o příkaz, které by stvoření způsobil újmu na zdraví nebo je výrazně proti zásadám, či přesvědčení stvoření, tak automaticky odmítne.
@@ -196,7 +196,7 @@ Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativn
 
 **Dosah:** *72* metrů
 
-**Popis:** *2k8* úrovní stvoření, *4. nebo nižší úrovně*, dle sesilatelova výběru. Podstoupí *záchranný hod proti ovlivnění mysli* nebo usnou tvrdým magickým spánkem. Nefunguje na nemrtvé.
+**Popis:** *2k8* úrovní stvoření, *4. nebo nižší úrovně*, dle sesilatelova výběru. Podstoupí *záchranný hod proti ovlivnění mysli* a v případě neúspěchu usnou tvrdým magickým spánkem. Nefunguje na nemrtvé.
 
 - **Výběr cílů:** Sesilatel musí vybrat cíle kouzla předtím, než si hodí na počet ovlivněných úrovní. Kouzlo první ovlivní stvoření nejnižší úrovně. Pro účely vyhodnocení, jsou stvoření nižší jak 1. úrovně považována za stvoření 1. úrovně. Přebytečné nepřiřazené úrovně jsou ztraceny.
 - **Zabití:** Uspaná stvoření, lze ve většině případů okamžitě zabít bodnou nebo sečnou zbraní.
