@@ -113,59 +113,112 @@ Při hře se lze setkat i s dalšími "nositelnými" magickými předměty. Obec
 
 Doporučený seznam a třídy kouzel pro hraní hry. Kouzla v závorkách jsou obrácené verze kouzel. Obrácené verze kouzel jsou považována za odlišná kouzla. Při učení kouzla si lze vybrat, kterou verzi kouzla se chce postava naučit. Pokud se chce postava naučit obě verze musí se kouzlo naučit dvakrát.
 
-| Kouzla 1. třídy                      | Kouzla 2. třídy                      | Kouzla 3. třídy                 | Kouzla 4. třídy                        | Kouzla 5. třídy                     | Mocná kouzla                         |
-| ------------------------------------ | ------------------------------------ | ------------------------------- | -------------------------------------- | ----------------------------------- | ------------------------------------ |
-| Animal Friendship                    | Barkskin                             | Animate Dead, Temporary         | Command Undead                         | Animate Dead                        | Acid Fog                             |
-| Auditory Illusion                    | Bless (Blight)                       | Blacklight                      | Confusion                              | Bonewrack                           | Anti-Magic Shell                     |
-| Colour Spray                         | Blindness / Deafness                 | Bone Staff                      | Corpse Clairvoyance                    | Cloudkill                           | Bonesteel                            |
-| Command Dead                         | Blur                                 | Call Lightning                  | Corpse Mask                            | Commune                             | Death Spell                          |
-| Corpse Visage                        | Bone Armour                          | Carrion Stench                  | Create Water                           | Commune with Nature                 | Deathlessness                        |
-| Cure Light Wounds (Cause Lt. Wounds) | Continual Light (Continual Darkness) | Clairvoyance                    | Cure Serious Wounds (Cause Sr. Wounds) | Commune With Spirit                 | Disintegrate                         |
-| Dancing Lights                       | Death Recall                         | Crypt Sight                     | Curse                                  | Conjure Elemental                   | Doomveil                             |
-| Deathlight                           | Detect Invisible                     | Cure Disease (Cause Disease)    | Dimension Door                         | Contact Higher Plane                | Dream Quest                          |
-| Decay (Ward Against Decay)           | ESP                                  | Death Ward                      | Emotion                                | Control Weather                     | Energy Drain                         |
-| Detect Danger                        | False Aura                           | Dispel Illusion                 | Growth of Plants                       | Create Food                         | Eternal Quest (Remove Eternal Quest) |
-| Detect Evil                          | Fascinate                            | Dispel Magic                    | Charm Monster                          | Demi-Shadow Monsters                | Geas (Remove Geas)                   |
-| Detect Illusion                      | Feign Death                          | Drag From Death’s Door          | Illusory Stamina                       | Dispel Evil                         | Impersonation                        |
-| Detect Magic                         | Find Traps                           | Fear                            | Inter (Exhume)                         | Feeblemind                          | Invisible Stalker                    |
-| Detect Undead                        | Heat Metal                           | Fire Ball                       | Massmorph                              | Gaseous Form                        | Lower Water                          |
-| Entangle                             | Hold Person                          | Fly                             | Minor Creation                         | Guardian Spirit                     | Manifest Dream                       |
-| Faerie Fire                          | Hypnotic Pattern                     | Grave Breath                    | Neutralize Poison                      | Hold Monster                        | Mass Suggestion                      |
-| Floating Disc                        | Choke                                | Growth of Animal                | Phantasmal Killer                      | Hold Undead                         | Mislead                              |
-| Glamour                              | Improved Phantasmal Force            | Growth of Nature                | Polymorph Others                       | Chaos                               | Move Earth                           |
-| Hold Portal                          | Invisibility                         | Hallucinatory Terrain           | Polymorph Self                         | Illusion                            | Necrotic Gaze                        |
-| Hypnotism                            | Knock                                | Haste                           | Protection from Fire and Lightning     | Insect Plague                       | Part Water                           |
-| Charm Person                         | Know Alignment                       | Hold Animal                     | Rainbow Pattern                        | Looking Glass                       | Permanent Illusion                   |
-| Chill Touch                          | Levitate                             | Infravision                     | Reassemble                             | Magic Jar                           | Protection From Undead               |
-| Chromatic Orb                        | Locate Object                        | Invisibility 10' Radius         | Rotting Touch                          | Major Creation                      | Reincarnation                        |
-| Invisibility to Animals              | Magic Mouth                          | Lightning Bolt                  | Shadow Monsters                        | Maze of Mirrors                     | Sacrificial Resurrection             |
-| Light (Darkness)                     | Mirror Image                         | Nondetection                    | Skeletal Wings                         | Pass Plant                          | Shades                               |
-| Locate Plant or Animal               | Obscuring Mist                       | Paralysation                    | Solid Fog                              | Pass-Wall                           | Skeletal Army                        |
-| Magic Missile                        | Paralysing Touch                     | Phantom Steed                   | Speak with Plants                      | Projected Image                     | Spirit Shield                        |
-| Marionette                           | Produce Flame                        | Protection from Evil 10’ Radius | Sticks to Snakes                       | Protection from Plants and Animals  | Stone to Flesh (Flesh to Stone)      |
-| Pass Undead                          | Quasimorph                           | Protection from Normal Missiles | Summon Animals                         | Quest (Remove Quest)                | Through the Looking Glass            |
-| Phantasmal Force                     | Resist Fire                          | Protection from Poison          | Swarm Transformation                   | Raise Dead (Finger of Death)        | Triggered Illusion                   |
-| Predict Weather                      | Seal Tomb (Open Tomb)                | Remove Curse (Curse)            | Temperature Control                    | Seeming                             | True Seeing                          |
-| Protection from Evil                 | Silence 15’ Radius                   | Rope Trick                      | Veil of Abandonment                    | Shadowcast                          | Undead Regeneration                  |
-| Purify Food and Water                | Skeletal Steed                       | Skull Trap                      | Wall of Bones                          | Shadowy Transformation              | Vision                               |
-| Read Languages                       | Skull Sight                          | Spectral Force                  | Wall of Fire                           | Spirit Vision                       |                                      |
-| Read Magic                           | Slow Poison                          | Striking                        | Wall of Ice                            | Summon Undead                       |                                      |
-| Remove Fear (Cause Fear)             | Snake Charm                          | Suggestion                      | Wizard Eye                             | Telekinesis                         |                                      |
-| Resist Cold                          | Speak With Dead                      | Tree Shape                      |                                        | Teleport                            |                                      |
-| Shield                               | Spectral Hand                        | Vampiric Touch                  |                                        | Time Flow                           |                                      |
-| Skull Speech                         | Warp Wood                            | Water Breathing                 |                                        | Transmute Rock to Mud (Mud to Rock) |                                      |
-| Sleep                                | Web                                  | Water Breathing (Air Breathing) |                                        | Veil of Life                        |                                      |
-| Speak with Animals                   | Whispering Wind                      | Wraithform                      |                                        | Visitation                          |                                      |
-| Spook                                | Wizard Lock                          |                                 |                                        | Wall of Gloom                       |                                      |
-| Undead Servitor                      |                                      |                                 |                                        | Wall of Stone                       |                                      |
-| Ventriloquism                        |                                      |                                 |                                        | Wall of Thorns                      |                                      |
-| Wall of Fog                          |                                      |                                 |                                        |                                     |                                      |
+!!! note "Znění kouzel"
+    Efekt kouzel, která mají v tabulce český název. Najdeš rozepsaná pod tabulkou.
+
+| Kouzla 1. třídy                            | Kouzla 2. třídy                      | Kouzla 3. třídy                 | Kouzla 4. třídy                        | Kouzla 5. třídy                     | Mocná kouzla                         |
+| ------------------------------------------ | ------------------------------------ | ------------------------------- | -------------------------------------- | ----------------------------------- | ------------------------------------ |
+| Animal Friendship                          | Barkskin                             | Animate Dead, Temporary         | Command Undead                         | Animate Dead                        | Acid Fog                             |
+| Auditory Illusion                          | Bless (Blight)                       | Blacklight                      | Confusion                              | Bonewrack                           | Anti-Magic Shell                     |
+| Colour Spray                               | Blindness / Deafness                 | Bone Staff                      | Corpse Clairvoyance                    | Cloudkill                           | Bonesteel                            |
+| Command Dead                               | Blur                                 | Call Lightning                  | Corpse Mask                            | Commune                             | Death Spell                          |
+| Corpse Visage                              | Bone Armour                          | Carrion Stench                  | Create Water                           | Commune with Nature                 | Deathlessness                        |
+| Zahoj lehká zranění (Způsob lehká zranění) | Continual Light (Continual Darkness) | Clairvoyance                    | Cure Serious Wounds (Cause Sr. Wounds) | Commune With Spirit                 | Disintegrate                         |
+| Dancing Lights                             | Death Recall                         | Crypt Sight                     | Curse                                  | Conjure Elemental                   | Doomveil                             |
+| Deathlight                                 | Detect Invisible                     | Cure Disease (Cause Disease)    | Dimension Door                         | Contact Higher Plane                | Dream Quest                          |
+| Decay (Ward Against Decay)                 | ESP                                  | Death Ward                      | Emotion                                | Control Weather                     | Energy Drain                         |
+| Detect Danger                              | False Aura                           | Dispel Illusion                 | Growth of Plants                       | Create Food                         | Eternal Quest (Remove Eternal Quest) |
+| Detect Evil                                | Fascinate                            | Dispel Magic                    | Charm Monster                          | Demi-Shadow Monsters                | Geas (Remove Geas)                   |
+| Detect Illusion                            | Feign Death                          | Drag From Death’s Door          | Illusory Stamina                       | Dispel Evil                         | Impersonation                        |
+| Detect Magic                               | Find Traps                           | Fear                            | Inter (Exhume)                         | Feeblemind                          | Invisible Stalker                    |
+| Detect Undead                              | Heat Metal                           | Fire Ball                       | Massmorph                              | Gaseous Form                        | Lower Water                          |
+| Entangle                                   | Hold Person                          | Fly                             | Minor Creation                         | Guardian Spirit                     | Manifest Dream                       |
+| Faerie Fire                                | Hypnotic Pattern                     | Grave Breath                    | Neutralize Poison                      | Hold Monster                        | Mass Suggestion                      |
+| Floating Disc                              | Choke                                | Growth of Animal                | Phantasmal Killer                      | Hold Undead                         | Mislead                              |
+| Glamour                                    | Improved Phantasmal Force            | Growth of Nature                | Polymorph Others                       | Chaos                               | Move Earth                           |
+| Hold Portal                                | Invisibility                         | Hallucinatory Terrain           | Polymorph Self                         | Illusion                            | Necrotic Gaze                        |
+| Hypnotism                                  | Knock                                | Haste                           | Protection from Fire and Lightning     | Insect Plague                       | Part Water                           |
+| Okouzli osobu                              | Know Alignment                       | Hold Animal                     | Rainbow Pattern                        | Looking Glass                       | Permanent Illusion                   |
+| Chill Touch                                | Levitate                             | Infravision                     | Reassemble                             | Magic Jar                           | Protection From Undead               |
+| Chromatic Orb                              | Locate Object                        | Invisibility 10' Radius         | Rotting Touch                          | Major Creation                      | Reincarnation                        |
+| Invisibility to Animals                    | Magic Mouth                          | Lightning Bolt                  | Shadow Monsters                        | Maze of Mirrors                     | Sacrificial Resurrection             |
+| Light (Darkness)                           | Mirror Image                         | Nondetection                    | Skeletal Wings                         | Pass Plant                          | Shades                               |
+| Locate Plant or Animal                     | Obscuring Mist                       | Paralysation                    | Solid Fog                              | Pass-Wall                           | Skeletal Army                        |
+| Magic Missile                              | Paralysing Touch                     | Phantom Steed                   | Speak with Plants                      | Projected Image                     | Spirit Shield                        |
+| Marionette                                 | Produce Flame                        | Protection from Evil 10’ Radius | Sticks to Snakes                       | Protection from Plants and Animals  | Stone to Flesh (Flesh to Stone)      |
+| Pass Undead                                | Quasimorph                           | Protection from Normal Missiles | Summon Animals                         | Quest (Remove Quest)                | Through the Looking Glass            |
+| Phantasmal Force                           | Resist Fire                          | Protection from Poison          | Swarm Transformation                   | Raise Dead (Finger of Death)        | Triggered Illusion                   |
+| Predict Weather                            | Seal Tomb (Open Tomb)                | Remove Curse (Curse)            | Temperature Control                    | Seeming                             | True Seeing                          |
+| Protection from Evil                       | Silence 15’ Radius                   | Rope Trick                      | Veil of Abandonment                    | Shadowcast                          | Undead Regeneration                  |
+| Purify Food and Water                      | Skeletal Steed                       | Skull Trap                      | Wall of Bones                          | Shadowy Transformation              | Vision                               |
+| Read Languages                             | Skull Sight                          | Spectral Force                  | Wall of Fire                           | Spirit Vision                       |                                      |
+| Read Magic                                 | Slow Poison                          | Striking                        | Wall of Ice                            | Summon Undead                       |                                      |
+| Remove Fear (Cause Fear)                   | Snake Charm                          | Suggestion                      | Wizard Eye                             | Telekinesis                         |                                      |
+| Resist Cold                                | Speak With Dead                      | Tree Shape                      |                                        | Teleport                            |                                      |
+| Shield                                     | Spectral Hand                        | Vampiric Touch                  |                                        | Time Flow                           |                                      |
+| Skull Speech                               | Warp Wood                            | Water Breathing                 |                                        | Transmute Rock to Mud (Mud to Rock) |                                      |
+| Sleep                                      | Web                                  | Water Breathing (Air Breathing) |                                        | Veil of Life                        |                                      |
+| Speak with Animals                         | Whispering Wind                      | Wraithform                      |                                        | Visitation                          |                                      |
+| Spook                                      | Wizard Lock                          |                                 |                                        | Wall of Gloom                       |                                      |
+| Undead Servitor                            |                                      |                                 |                                        | Wall of Stone                       |                                      |
+| Ventriloquism                              |                                      |                                 |                                        | Wall of Thorns                      |                                      |
+| Wall of Fog                                |                                      |                                 |                                        |                                     |                                      |
 
 ## Znění kouzel
 
 Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativně lze získat znění kouzel z [OSE Advanced](https://preview.drivethrurpg.com/en/product/336584/old-school-essentials-advanced-fantasy-player-s-tome) a bezplatného doplňku [OSE: The Necromancer](https://preview.drivethrurpg.com/en/product/414657/old-school-essentials-the-necromancer).
 
 ### Kouzla 1. třídy
+
+<img src="/assets/sep_line.png"/>
+
+#### Okouzli osobu
+
+**Trvání:** *1* nebo více dní (viz popisek)
+
+**Dosah:** *36* metrů
+
+**Popis:** Jedno člověku podobné stvoření musí uspět v *záchranném hodu proti ovlivnění mysli* jinak podlehne okouzlení.
+
+- **Přátelství:** Okouzlené stvoření považuje sesilatele za dobrého přítele a spojence. V případě potřeby se jej bude zastávat nebo jej dokonce bránit.
+- **Příkazy:** Pokud mluví společným jazykem, může sesilatel dávat okouzlenému stvoření příkazy a to je bude následovat. Pokud se však jedná o příkaz, které by stvoření způsobil újmu na zdraví nebo je výrazně proti zásadám, či přesvědčení stvoření, tak automaticky odmítne.
+- **Omezení:** Cílem kouzla může být pouze člověku podobné stvoření *4. nebo nižší úrovně*.
+- **Trvání:** Okouzlení trvá potencionálně do nekonečna. Avšak ovlivněné stvoření si může pravidelně házet na *záchranu proti ovlivnění mysli*. Stvoření, které kdykoliv uspěje v záchranném hodu proti tomuto kouzlu, automaticky ví, že bylo okouzleno nebo že se o jeho okouzlení někdo pokusil. Četnost hodů záleží na *rozumu* stvoření.
+    - *Rozum 3 - 8:* Stvoření může házet na záchranu každý měsíc.
+    - *Rozum 9 - 12:* Stvoření může házet na záchranu každý týden.
+    - *Rozum 13 - 18:* Stvoření může házet na záchranu každý den.
+
+<img src="/assets/sep_line.png"/>
+
+#### Spánek
+
+**Trvání:** *4k4* směn
+
+**Dosah:** *72* metrů
+
+**Popis:** *2k8* úrovní stvoření, *4. nebo nižší úrovně*, dle sesilatelova výběru. Podstoupí *záchranný hod proti ovlivnění mysli* nebo usnou tvrdým magickým spánkem. Nefunguje na nemrtvé.
+
+- **Výběr cílů:** Sesilatel musí vybrat cíle kouzla předtím, než si hodí na počet ovlivněných úrovní. Kouzlo první ovlivní stvoření nejnižší úrovně. Pro účely vyhodnocení, jsou stvoření nižší jak 1. úrovně považována za stvoření 1. úrovně. Přebytečné nepřiřazené úrovně jsou ztraceny.
+- **Zabití:** Uspaná stvoření, lze ve většině případů okamžitě zabít bodnou nebo sečnou zbraní.
+- **Probuzení:** Očarovaný cíl probudí pouze zacloumání nebo bolest.
+
+<img src="/assets/sep_line.png"/>
+
+#### Zahoj lehká zranění (Způsob lehká zranění)
+
+**Trvání:** okmažité
+
+**Dosah:** dotek
+
+**Popis:** Kouzlo dotykem vyléčí *1k6+1 životů* a paralýzu.
+
+- **Nemrtví a démoni:** Kouzlo způsobí *1k6+1* poškození. V boji vyžaduje hod na zásah.
+
+##### Obrácená varianta: Způsob lehká zranění
+
+Efekt na nemrtvé(a démony) a na živé se přehodí.
+
+<img src="/assets/sep_line.png"/>
 
 a - z
 
