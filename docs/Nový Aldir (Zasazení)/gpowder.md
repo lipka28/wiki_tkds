@@ -6,7 +6,8 @@ V Aldiru je používání střelného prachu a křesadlových zbraní na denním
 
 Pro střelné zbraně platí následující pravidla:
 
-- **Poškození:** Křesadlové zbraně jsou nejsilnější z nabíjecích zbraní. Mají vždy nejvyšší kostku poškození v dané kategorii.
+- **Poškození:** Křesadlové zbraně jsou nejsilnější z nabíjecích zbraní. Mají vždy nejvyšší poškození v dané střelné kategorii.
+- **Pomalé přebíjení:** Nabití křesadlové zbraně trvá *dlouhou akci*.
 - **Náchylnost na vlhkost:** Jsou náchylné na vlhkost a nevhodné podmínky mohou zvýšit jejich šanci na selhání nebo je udělat kompletně nepoužitelné.
 - **Hlučné:** Použití křesadlových zbraní je extrémně hlučné a může vyvolat nechtěnou pozornost.
 - **Selhání:** Při hodu *NAT 1 až 3* na zásah křesadlová zbraň selže a ucpe se. Takovou zbraň je třeba 1 směnu čistit *čistící sadou na křesadlové zbraně*, aby byla znovu použitelná. 
@@ -19,31 +20,31 @@ Pro střelné zbraně platí následující pravidla:
 !!! Warning "Dostřel"
     Platí stejná pravidla [dostřelu](/Gear/#dostrel).
 
-| Název zbraně  | Typ zbraně | Dostřel | Poškození | Váha |  Cena  |
-| :------------ | :--------: | :-----: | :-------: | :--: | :----: |
-| Bambitka      |    Malá    |  15/30  |   1k6+1   |  1   | 80 st  |
-| Granát        |    Malá    | Hozený  |    2k6    |  1   | 20 st  |
-| Houfnice      |  Střední   |   15    |   1k6+1   |  2   | 100 st |
-| Mušketa       |  Střední   |  30/60  |   1k8+1   |  2   | 120 st |
-| Těžká mušketa |   Velká    | 60/120  |  1k10+1   |  3   | 160 st |
+| Název zbraně | Typ zbraně | Dostřel | Poškození | Váha |  Cena  |
+| :----------- | :--------: | :-----: | :-------: | :--: | :----: |
+| Arkebuza     |  Střední   |  30/60  |   1k8+3   |  2   | 120 st |
+| Bambitka     |    Malá    |  15/30  |   1k6+3   |  1   | 80 st  |
+| Granát       |    Malá    | Hozený  |    2k6    |  1   | 20 st  |
+| Houfnice     |  Střední   |   15    |   1k6+3   |  2   | 100 st |
+| Mušketa      |   Velká    | 60/120  |   2k6+3   |  3   | 160 st |
 
-**Bambitka:** Příruční křesadlová braň *Speciální:* Lze nabít jako *běžnou akci*.
+**Arkebuza:** Běžná křesadlová zbraň se středně dlouhou hlavní a dřevěnou rukojetí. Vhodná pro střelbu na střední vzdálenosti a dokonce i při jízdě na koni.
+
+**Bambitka:** Příruční křesadlová zbraň.
 
 **Granát:** Kovová koule s doutnákem, která při výbuchu působí ohromné poškození v okolí *3 metry kolem* místa výbuchu. *Speciální:* Vyžaduje oheň pro aktivaci; Granát je hozen na místo v dohodové vzdálenosti stvoření a následně se odkutálí *1k4 metrů* náhodným směrem. Poté exploduje. Zasažené cíle mohou podstoupit záchranný hod na úhyb a tím zredukovat obdržené poškození na polovinu. Prohození granátu malými otvory může vyžadovat hod na zásah.
 
 **Houfnice:** Mušketa s rozšířenou hlavní střílející několik kulí naráz. *Speciální:* Na 1 střelu spotřebuje *5 ks munice*; Houfnice zamíří první stvoření v dosahu určeném směru střelby a také všechna stvoření v okolí *3 metry kolem* prvního cíle. Hod na zásah probíhá zvlášť pro každé stvoření. Poškození je uděleno každému zasaženému stvoření v plénem rozsahu; Alternativně se lze houfnicí pokusit zasáhnout cíl, se kterým je držitel houfnice ve vzájemném ohrožení. V případě zásahu je zasažen jen tento jeden cíl a však obdrží *dvojnásobné poškození* (Postihy za střelbu ve vzájemném ohrožení).
 
-**Mušketa:** Běžná křesadlová zbraň s dlouhou kovovou hlavní a dřevěnou rukojetí.
-
-**Těžká mušketa:** Delší a těžší verze muškety, která dokáže metat kule na ohromné vzdálenosti *Speciální:* Pro přesné střílení vyžaduje nějakou formu podpěry. Bez podpěry lze střílet jen na efektivní vzdálenost a ještě k tomu s nevýhodou.
+**Mušketa:** Delší a těžší verze Arkebuzy, která dokáže metat kule na ohromné vzdálenosti *Speciální:* Pro přesné střílení vyžaduje nějakou formu podpěry. Bez podpěry lze střílet jen na efektivní vzdálenost a ještě k tomu s nevýhodou.
 
 ## Munice
 
-| Název munice                | Váha |      Cena       |
-| --------------------------- | :--: | :-------------: |
-| Váček munice (20 ks munice) |  1   | 20 st (1 st/ks) |
+| Název munice                 | Váha |      Cena       |
+| ---------------------------- | :--: | :-------------: |
+| Brašna munice (20 ks munice) |  1   | 20 st (1 st/ks) |
 
-**Váček munice:** Váček obsahující vatu, kapsle střelného prachu a kule do křesadlových zbraní. Náchylný na promočení.
+**Brašna munice:** Brašna obsahující papírové váčky se střelným prachem o kulkami do křesadlových zbraní. Náchylný na promočení.
 
 ## Výbava dobrodruha
 

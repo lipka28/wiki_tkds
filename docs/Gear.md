@@ -333,7 +333,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Nástroj:** Věci jako lopaty, vidle, krumpáče a jim podobné.
 
-**Pochodeň:** Poskytuje světlo v okolí *9 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zasažen nepřítel a nebo je pochodeň upuštěna na zem, existuje šance *3 z 6-ti*, že se zničí a zhasne. 
+**Pochodeň:** Poskytuje světlo v okolí *9 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zasažen nepřítel a nebo je pochodeň upuštěna na zem, existuje šance *1 z 6-ti*, že se zničí a zhasne. 
 
 **Protijed (slabý):**  Slabý protijed ihned vyléčí slabou otravu. 
 
