@@ -17,7 +17,7 @@
 
 **Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést buď *dlouhou akci* a nebo *pohyb* a *běžnou akci*. Hráč může také své kolo prokládat *volnými akcemi*. Jednotlivé akce fungují následovně.:
 
-- *Dlouhá akce:* Za dlouhé akce se považují takové akce, které zabírají celé kolo. Například sesílání kouzla, přebíjení zbraně a nebo vybavení uschovaného předmětu. Vyhodnocení dlouhých akcí probíhá až na konci tahu dané strany.
+- *Dlouhá akce:* Za dlouhé akce se považují takové akce, které zabírají celé kolo. Například vybavení uschovaného předmětu. Vyhodnocení dlouhých akcí probíhá až na konci tahu dané strany.
 - *Pohyb:* Stvoření, které není ve *vzájemném ohrožení* s jiným stvořením a nebo neprovádí dlouhou akci, se může pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně.
 - *Běžná akce:* Za běžnou akci je považován například útok, výměna zbraní a nebo použití vybaveného předmětu.
 - *Volné akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
@@ -25,7 +25,7 @@
 !!! note "Pohyb na čtvercové síti"
     Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*. Na hexagonové síti není třeba tento rozdíl řešit.
 
-**Vyhodnocení dlouhých akcí:** V této fázi se vyhodnotí a dokončí všechny dlouhé akce včetně sesílání kouzel.
+**Vyhodnocení dlouhých akcí:** V této fázi se vyhodnotí a dokončí všechny dlouhé akce.
 
 **Konec trvajících efektů:** Efekty, kterými jsou ovlivněni členové dané skupiny, ukončí své trvání. Pokud tyto efekty mají delší trvání jak 1 kolo, zkrátí se jejich doba trvání o 1 kolo. Působí-li takový efekt poškození (například někdo hoří nebo plave v kyselině), poškození je uděleno v této fázi.
 
@@ -33,7 +33,7 @@
 
 ### Časté bojové situace
 
-**Vzájemné ohrožení:** Stvoření, které provedlo nebo na které byl proveden útok na blízku. Je s daným stvořením ve vzájemném ohrožení. Pro všechna stvoření ve vzájemném ohrožení platí následující omezení:
+**Vzájemné ohrožení:** Stvoření, které provedlo nebo na které byl proveden útok na blízku (i když neúspěšný). Je s daným stvořením ve vzájemném ohrožení. Pro všechna stvoření ve vzájemném ohrožení platí následující omezení:
 
 - *Útoky na dálku* - Mají šanci *3 z 6-ti* že automaticky minou.
 - *Používání nebo manipulace s předměty* - Mají šanci *3 z 6-ti* že se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
@@ -126,7 +126,7 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 **Neozbrojený boj:** Neozbrojený útok je považován za útok netrénovanou zbraní a  má vždy poškození *1k2+modifikátor síly*.
 
-**Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus +1 do zásahu a poškození.
+**Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus *+1 do zásahu a poškození*.
 
 **Bojové manévry:** Stvoření si může vybrat že se na místo útoku pokusí provést bojový manévr. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci. Bojové manévry ve většině případů působí jen symbolické *1 poškození*. Vyhodnocení manévrů záleží zcela na PJ. Může si však pomoc následujícím postupem. *Útočník a obránce* provedou *hod na zásah* včetně aplikovatelných modifikátorů. Pokud útočník *přehodí výsledek soupeře aspoň o 5*, úspěšně provede bojový manévr.
 
@@ -143,9 +143,9 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
     Postava se může hýbat jak během tahu co akci připraví, tak během samotného použití připravené akce. Dohromady se však nemůže pohnout o víc než je hybnost dané postavy.
 
 !!! Warning "Souběh akcí"
-    Připravené akce a kouzla probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
+    Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
 
-**Slepota:** Slepé stvoření se pohybuje hybností maximálně 1 metr. Všechny útoky proti slepému stvoření jsou s výhodou. Sám na blízku útočí s nevýhodou. Útoky na dálku nejsou možné. Při rychlejším pohybu hrozí s pravděpodobností *3 z 6-ti* zakopnutí.
+**Slepota:** Slepé stvoření se pohybuje hybností 1 metr nebo náhodným směrem. Všechny útoky proti slepému stvoření jsou s výhodou. Sám na blízku útočí s nevýhodou. Útoky na dálku nejsou možné. Při rychlejším pohybu hrozí s pravděpodobností *3 z 6-ti* zakopnutí.
 
 **Coup de grâce:** Bezmocní nepřátelé. Jako například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
 
@@ -155,7 +155,7 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 - *Útoky na dálku:* Probíhají s nevýhodou.
 - *Kouzla*: Sesílání selže s pravděpodobností *3 z 6-ti*.
-- *Magické předměty*: Mohou být používány normálně.
+- *Předměty*: Mohou být používány normálně.
 
 !!! note "Magické létání"
     Magické způsoby létání, jako je létající koberec nebo kouzlo létání, není považováno za nestabilní povrch. 

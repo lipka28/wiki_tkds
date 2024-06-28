@@ -14,11 +14,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 ### Všematka (Elfové: Neferité)
 
-<img src="/assets/sep_line.png"/>
-
 ![Image title](/assets/OW/gods/Vsematka.jpg)
-
-<img src="/assets/sep_line.png"/>
 
 **Popis:** Povznesená z řad elfů, často vyobrazovaná jako překrásná elfka v šatech s listí a květů. Královna říše Fey a patronka všeho živého.
 
@@ -28,11 +24,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 ### Durnak (Trpaslíci: Rudovous)
 
-<img src="/assets/sep_line.png"/>
-
 ![Image title](/assets/OW/gods/Durnak.jpg)
-
-<img src="/assets/sep_line.png"/>
 
 **Popis:** Povznesený z řad trpaslíků, často vyobrazován jako trpaslík s ohněm místo vlasů a vousů držící ohromné kladivo. Vládce říše ohně a držitel kladiva bouří. Patron řemeslníků a především kovářů.
 
@@ -42,11 +34,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 ### Alamar (Lidé: Ochránce)
 
-<img src="/assets/sep_line.png"/>
-
 ![Image title](/assets/OW/gods/Alamar.jpg)
-
-<img src="/assets/sep_line.png"/>
 
 **Popis:** Povznesený z řad lidí, často vyobrazován jako rytíř ve zlatém brnění s masivním oboručním mečem. Také nazýván ochránce civilizace. Je symbolem spravedlnosti a patronem všech úředníků a obchodníků.
 
@@ -56,11 +44,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 ### Juna
 
-<img src="/assets/sep_line.png"/>
-
 ![Image title](/assets/OW/gods/Juna.jpg)
-
-<img src="/assets/sep_line.png"/>
 
 **Popis:** Povznesená z řad lidí, často vyobrazována jako žena v bílé róbě s hadem omotaným kolem ruky. Patronka léčitelů a nemocných.
 
@@ -70,11 +54,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 ### Umdur
 
-<img src="/assets/sep_line.png"/>
-
 ![Image title](/assets/OW/gods/Umdur.jpg)
-
-<img src="/assets/sep_line.png"/>
 
 **Popis:** Povznesený neznámého původu, často vyobrazovaný jako Lovec s jelení hlavou a rozsáhlým parožím. Patron lovu a války, ale představuje i svobodu a volnost.
 
@@ -84,11 +64,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 ### Paní noci
 
-<img src="/assets/sep_line.png"/>
-
 ![Image title](/assets/OW/gods/Nightmother.jpg)
-
-<img src="/assets/sep_line.png"/>
 
 **Popis:** Povznesená neznámého původu, často vyobrazovaná jako ženská postava v černé róbě s kápí. Ochránkyně všech co potřebují cestovat nocí a opatrovatelka ztracených duší. Mezi lidmi považována za boha smrti. 
 

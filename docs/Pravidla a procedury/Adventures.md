@@ -142,7 +142,7 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 **Pád z výšky:** Pád z výšky na tvrdý povrch působí *1k6* poškození za každé započaté *3 metry pádu*. Pokud se jedná o vědomý pád (například seskočení z balkónu), poškození se nepočítá za první 3 metry.
 
 !!! note "Rychlost pádu"
-    Pokud postava padá volným pádem, předpokládá se, že první kolo padá rychlostí *25 metrů za vteřinu* (250 metrů za kolo) a všechna následující kola rychlostí *50 metrů za vteřinu* (500 metrů za kolo).
+    Pokud postava padá volným pádem, předpokládá se, že první kolo padá rychlostí *15 metrů za vteřinu* (150 metrů za kolo) a všechna následující kola rychlostí *45 metrů za vteřinu* (450 metrů za kolo).
 
 **Hlad a žízeň:** Pokud postavy jsou déle jak den bez jídla nebo pití, tak si za každý takový den přičtou body únavy za každou chybějící potřebu.
 
@@ -152,9 +152,9 @@ Jednou z nejnebezpečnější překážek,se kterou se postavy mohou setkat, je 
 
 **Rychlost plavání:** Stvoření bez určené hybnosti plavání, mají rychlost plavání odpovídající *polovině své hybnosti*.
 
-**Zadržení dechu:** Postava může zadržet dech na tolik kol kolik je její *hodnota výdrže*. Pokud postava obdrží poškození, neuspěje v záchranném hodu, pokusí se mluvit nebo jí prostě dojde dech, tak se začne topit. Topící se postava musí být vytažena na souš a recitovávána do *výdrž postavy / 3* kol jinak zemře.
+**Zadržení dechu:** Postava může zadržet dech na tolik kol kolik je její *hodnota výdrže*. Pokud postava obdrží kritický zásah, neuspěje v záchranném hodu a obdrží poškození, pokusí se mluvit nebo jí prostě dojde dech, tak se začne topit. Topící se postava musí být vytažena na souš a recitovávána do *výdrž postavy / 3* kol jinak zemře.
 
-**Viditelnost pod vodou:** Stvoření bez ochrany očí nebo schopnosti dýchat pod vodou. Vidí, za ideálních podmínek (čistý otevřený oceán za jasného dne), přibližně *5 metrů* kolem sebe pouze obrysy. Pro účely boje je takové stvoření efektivně slepé. V případě, že stvoření může vidět pod vodou je pak dohled kolem *50 metrů* (za ideálních podmínek).
+**Viditelnost pod vodou:** Stvoření bez ochrany očí nebo schopnosti dýchat pod vodou. Vidí, za ideálních podmínek (čistý otevřený oceán za jasného dne), přibližně *6 metrů* kolem sebe pouze obrysy. Pro účely boje je takové stvoření efektivně slepé. V případě, že stvoření může vidět pod vodou je pak dohled kolem *60 metrů* (za ideálních podmínek).
 
 **Brnění a zátěž:** Postava ve zbroji nebo s velkou zátěží. Má *%* šanci jít ke dnu, každé kolo strávené ve vodě. Rychlost klesání je *6 metrů za kolo*.
 

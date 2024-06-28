@@ -60,7 +60,7 @@ Základní pravidla k běžným magickým předmětům.
 
 Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o jednorázový předmět, který se po použití zničí a jehož výsledkem, je nějaký, většinou magický, efekt. *Kdokoliv může použít lektvar* a však použití svitku vyžaduje magické nadání a gramotnost.
 
-- **Aktivace předmětu:** Aktivace svitku nebo vypití lektvaru stojí *dlouhou akci*.
+- **Aktivace předmětu:** Aktivace svitku nebo vypití lektvaru stojí *běžnou akci*.
 
 ### Magické grimoáry
 
