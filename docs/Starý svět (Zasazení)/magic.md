@@ -147,7 +147,7 @@ Doporučený seznam a třídy kouzel pro hraní hry. Kouzla v závorkách jsou o
 | Magic Missile                              | Paralysing Touch                     | Phantom Steed                   | Speak with Plants                      | Projected Image                     | Spirit Shield                        |
 | Marionette                                 | Produce Flame                        | Protection from Evil 10’ Radius | Sticks to Snakes                       | Protection from Plants and Animals  | Stone to Flesh (Flesh to Stone)      |
 | Pass Undead                                | Quasimorph                           | Protection from Normal Missiles | Summon Animals                         | Quest (Remove Quest)                | Through the Looking Glass            |
-| Phantasmal Force                           | Resist Fire                          | Protection from Poison          | Swarm Transformation                   | Raise Dead (Finger of Death)        | Triggered Illusion                   |
+| Vizuální iluze                             | Resist Fire                          | Protection from Poison          | Swarm Transformation                   | Raise Dead (Finger of Death)        | Triggered Illusion                   |
 | Predict Weather                            | Seal Tomb (Open Tomb)                | Remove Curse (Curse)            | Temperature Control                    | Seeming                             | True Seeing                          |
 | Protection from Evil                       | Silence 15’ Radius                   | Rope Trick                      | Veil of Abandonment                    | Shadowcast                          | Undead Regeneration                  |
 | Purify Food and Water                      | Skeletal Steed                       | Skull Trap                      | Wall of Bones                          | Shadowy Transformation              | Vision                               |
@@ -201,6 +201,21 @@ Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativn
 - **Výběr cílů:** Sesilatel musí vybrat cíle kouzla předtím, než si hodí na počet ovlivněných úrovní. Kouzlo první ovlivní stvoření nejnižší úrovně. Pro účely vyhodnocení, jsou stvoření nižší jak 1. úrovně považována za stvoření 1. úrovně. Přebytečné nepřiřazené úrovně jsou ztraceny.
 - **Zabití:** Uspaná stvoření, lze ve většině případů okamžitě zabít bodnou nebo sečnou zbraní.
 - **Probuzení:** Očarovaný cíl probudí pouze zacloumání nebo bolest.
+
+<img src="/assets/sep_line.png"/>
+
+#### Vizuální iluze
+
+**Trvání:** *koncentrace*
+
+**Dosah:** *72* metrů
+
+**Popis:** V krychlové oblasti o délce hrany *6 metrů* se zjeví čistě vizuální iluze čehokoliv, co si sesilatel zamane. Iluze může být cokoliv přes změnu vzhledu zasažené oblasti až po iluzorní útok či monstrum. V žádném případě však iluze nemůže opustit vymezenou oblast ve které byla vyvolána.
+
+- **Monstrum:** Jakékoliv iluzorní monstrum má vždy *OČ 10* a při úspěšném zásahu se rozplyne. Rozplynutím monstra si cíl uvědomí, že se jedná o iluzi.
+- **Zranění:** Jakákoliv zranění způsobená iluzemi nejsou skutečná a to včetně smrti. Pokud například cíl jako součást iluze zkamení, tak je pouze paralyzován. Pokud zemře, upadne pouze do bezvědomí. Takové stavy netrvají déle než *1k4 směn*. Stvoření, které je zraněno iluzí má nárok na *záchranný hod proti kouzlům*. Uspěje-li, uvědomí si, že se jedná o iluzi a ta na něj přestane působit (včetně obdržených zranění).
+- **Rozplynutí:** Nejedná-li se o útok či monstrum, iluze se při dotyku rozplyne.
+- **Iluze vymyšleného:** Iluze napodobující něco co sesilatel nikdy předtím neviděl. Poskytuje *výhodu* k případným záchranným hodům či ověření morálky, které iluze mohla způsobit.
 
 <img src="/assets/sep_line.png"/>
 
