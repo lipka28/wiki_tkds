@@ -179,7 +179,7 @@ Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativn
 
 **Dosah:** *sesilatel*
 
-**Popis:** Sesilatel jako svůj poslední vzdor sešle rychlé kouzlo, které tlakovou vlnou shodí všechny stvoření v okolí 2 metrů na zem.
+**Popis:** Sesilatel jako svůj poslední vzdor sešle rychlé kouzlo, které tlakovou vlnou shodí všechny stvoření v okolí *2* metrů na zem.
 
 - **Rychlé kouzlo:** Sesílání kouzla není ovlivněno běžnými postihy na sesílání, jako jsou vzájemné ohrožení nebo nestabilní povrchy.
 - **Stvoření vyšší úrovně než sesilatel:** Mají nárok na *záchranný hod proti síle*, aby efektu odolali.
@@ -262,7 +262,7 @@ a - z
 
 **Dosah:** *18* metrů
 
-**Popis:** Spojenci v okolí 3 metrů kolem místa seslání získají bonus *+1* k zásahu, poškození a morálce.
+**Popis:** Spojenci v okolí *3* metrů kolem místa seslání získají bonus *+1* k zásahu, poškození a morálce.
 
 ##### Obrácená varianta: Unavit
 
