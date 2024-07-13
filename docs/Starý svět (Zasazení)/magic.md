@@ -119,7 +119,7 @@ Doporučený seznam a třídy kouzel pro hraní hry. Kouzla v závorkách jsou o
 | Kouzla 1. třídy                            | Kouzla 2. třídy                      | Kouzla 3. třídy                 | Kouzla 4. třídy                        | Kouzla 5. třídy                     | Mocná kouzla                         |
 | ------------------------------------------ | ------------------------------------ | ------------------------------- | -------------------------------------- | ----------------------------------- | ------------------------------------ |
 | Animal Friendship                          | Barkskin                             | Animate Dead, Temporary         | Command Undead                         | Animate Dead                        | Acid Fog                             |
-| Auditory Illusion                          | Bless (Blight)                       | Blacklight                      | Confusion                              | Bonewrack                           | Anti-Magic Shell                     |
+| Auditory Illusion                          | Povzbudit (Unavit)                   | Blacklight                      | Confusion                              | Bonewrack                           | Anti-Magic Shell                     |
 | Colour Spray                               | Blindness / Deafness                 | Bone Staff                      | Corpse Clairvoyance                    | Cloudkill                           | Bonesteel                            |
 | Command Dead                               | Blur                                 | Call Lightning                  | Corpse Mask                            | Commune                             | Death Spell                          |
 | Corpse Visage                              | Bone Armour                          | Carrion Stench                  | Create Water                           | Commune with Nature                 | Deathlessness                        |
@@ -163,12 +163,27 @@ Doporučený seznam a třídy kouzel pro hraní hry. Kouzla v závorkách jsou o
 | Undead Servitor                            |                                      |                                 |                                        | Wall of Stone                       |                                      |
 | Ventriloquism                              |                                      |                                 |                                        | Wall of Thorns                      |                                      |
 | Wall of Fog                                |                                      |                                 |                                        |                                     |                                      |
+| Hromový vzdor                              |                                      |                                 |                                        |                                     |                                      |
 
 ## Znění kouzel
 
 Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativně lze získat znění kouzel z [OSE Advanced](https://preview.drivethrurpg.com/en/product/336584/old-school-essentials-advanced-fantasy-player-s-tome) a bezplatného doplňku [OSE: The Necromancer](https://preview.drivethrurpg.com/en/product/414657/old-school-essentials-the-necromancer).
 
 ### Kouzla 1. třídy
+
+<img src="/assets/sep_line.png"/>
+
+#### Hromový vzdor
+
+**Trvání:** *okamžité*
+
+**Dosah:** *sesilatel*
+
+**Popis:** Sesilatel jako svůj poslední vzdor sešle rychlé kouzlo, které tlakovou vlnou shodí všechny stvoření v okolí 2 metrů na zem.
+
+- **Rychlé kouzlo:** Sesílání kouzla není ovlivněno běžnými postihy na sesílání, jako jsou vzájemné ohrožení nebo nestabilní povrchy.
+- **Stvoření vyšší úrovně než sesilatel:** Mají nárok na *záchranný hod proti síle*, aby efektu odolali.
+- **Poškození:** Shozeným stvořením je uděleno symbolické *1* poškození za pád na zem. Tohle poškození nemůže zabít.
 
 <img src="/assets/sep_line.png"/>
 
@@ -221,9 +236,9 @@ Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativn
 
 #### Zahoj lehká zranění (Způsob lehká zranění)
 
-**Trvání:** okmažité
+**Trvání:** *okamžité*
 
-**Dosah:** dotek
+**Dosah:** *dotek*
 
 **Popis:** Kouzlo dotykem vyléčí *1k6+1 životů* a paralýzu.
 
@@ -239,7 +254,21 @@ a - z
 
 ### Kouzla 2. třídy
 
-a - z
+<img src="/assets/sep_line.png"/>
+
+#### Povzbudit (Unavit)
+
+**Trvání:** *6* směn
+
+**Dosah:** *18* metrů
+
+**Popis:** Spojenci v okolí 3 metrů kolem místa seslání získají bonus *+1* k zásahu, poškození a morálce.
+
+##### Obrácená varianta: Unavit
+
+Na místo spojenců funguje na nepřátele a uděluje postih *-1* k zásahu, poškození a morálce.
+
+<img src="/assets/sep_line.png"/>
 
 ### Kouzla 3. třídy
 
