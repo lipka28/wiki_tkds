@@ -16,7 +16,7 @@
 
 **Speciální vlastnosti:**
 
-- *Nadaný* - Člověk získává 2 extra dovednostní body do dovedností vlastního výběru. Výsledkem nesmí být dovednosti vyšší jak 18 bodů. Nebo si může na místo dovednostních bodů vybrat [perk](/Nový%20Aldir%20%28Zasazení%29/perks/), pro který splňuje požadavky.
+- *Nadaný* - Člověk získává 2 extra dovednostní body do dovedností vlastního výběru. Výsledkem nesmí být dovednosti vyšší jak 18 bodů. Nebo si může na místo dovednostních bodů vybrat [perk](/Zasazení%20%28Žánry%29/Nový%20Aldir%20%28Fantasy%29/perks/), pro který splňuje požadavky.
 
 ---
 

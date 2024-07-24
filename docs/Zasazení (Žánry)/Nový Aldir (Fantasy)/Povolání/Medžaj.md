@@ -31,8 +31,8 @@
 Disponuješ schopností používat magii. To znamená, že umíš aktivovat magické hole, sesílat kouzla z magických svitků a také učit se vlastní kouzla a sesílat je za pomocí zaříkaní a magických gest.  
 
 - *Magický výzkum* - Ve volná chvíli se můžeš zabývat magickým výzkumem. Ten se může týkat čehokoliv magického. Přes objevování nových kouzel a magických rituálů až po výrobu magických předmětů. 
-- *Sesílání kouzel* - Každý den můžeš seslat stejný počet naučených kouzel jako je tvá úroveň. Aby si znovu nabral síly musíš mít možnost si odpočinout do dalšího dne (aspoň 8 hodin spánku). Detailní pravidla o kouzlení najdeš v [zde](/Nový%20Aldir%20%28Zasazení%29/magic/). 
-- *Učení se nových kouzel* - Hru začínáš s dvěma kouzly dle tvého výběru. Vybírat můžeš ze [seznamu kouzel](/Nový%20Aldir%20%28Zasazení%29/magic/#kouzla). Další 1 kouzlo získáváš z každou novou úrovní dokud nedosáhneš 10. úrovně. 
+- *Sesílání kouzel* - Každý den můžeš seslat stejný počet naučených kouzel jako je tvá úroveň. Aby si znovu nabral síly musíš mít možnost si odpočinout do dalšího dne (aspoň 8 hodin spánku). Detailní pravidla o kouzlení najdeš v [zde](/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Nov%C3%BD%20Aldir%20%28Fantasy%29/magic/). 
+- *Učení se nových kouzel* - Hru začínáš s dvěma kouzly dle tvého výběru. Vybírat můžeš ze [seznamu kouzel](/Zasazení%20%28Žánry%29/Nový%20Aldir%20%28Fantasy%29/magic/#kouzla). Další 1 kouzlo získáváš z každou novou úrovní dokud nedosáhneš 10. úrovně. 
 - *Maximum kouzel* - Počet kouzel, které se můžeš naučit, odpovídá hodnotě tvé dovednosti rozum. Pokud bys získal kouzlo a překročil tuhle hodnotu, musíš některé naučené kouzlo zapomenout.
 
 ### Úroveň 1 - Vyciť magii
@@ -56,7 +56,7 @@ Tvůj blízký vztah k magii ti dává bonus *+3*, ke všem záchranným hodům 
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 - Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z [existujících perků](/Nov%C3%BD%20Aldir%20%28Zasazen%C3%AD%29/perks/), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
+- Vybrat si 1 perk z [existujících perků](/Zasazení%20%28Žánry%29/Nový%20Aldir%20%28Fantasy%29/perks/), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
 
 ### Úroveň 6 - Tiché sesílání
 

@@ -54,7 +54,7 @@ Hraničář může dotykem nebo zásahem některým ze svých útoků, umístit 
 Každou čtvrtou úroveň si může tvá postava vybrat mezi těmito možnostmi:
 
 - Rozdělit si 2 body mezi libovolné dovednosti.
-- Vybrat si 1 perk z [existujících perků](/Nov%C3%BD%20Aldir%20%28Zasazen%C3%AD%29/perks/), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
+- Vybrat si 1 perk z [existujících perků](/Zasazení%20%28Žánry%29/Nový%20Aldir%20%28Fantasy%29/perks/), pro které splňuješ požadavky. Nebo si nějaký perk ve spolupráci s PJ vymyslet.
 
 ### Úroveň 6 - Vášnivý lovec
 
