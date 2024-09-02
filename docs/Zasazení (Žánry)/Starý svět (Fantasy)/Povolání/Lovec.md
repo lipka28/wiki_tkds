@@ -2,7 +2,9 @@
 
 <img src="/assets/sep_line.png"/>
 
-==TODO: Obrázek==
+![Image title](/assets/OW/classes/Hunter.png)
+
+<img src="/assets/sep_line.png"/>
 
 ==TODO:Upravit popisek==*Hraničáři jsou nepřekonatelní průvodci divočinou. Díky svým znalostem přírody a stopovacím schopnostem. Jsou nepostradatelní v každé skupině dobrodruhů. Hraničáři často žijí na okraji civilizace. Většina jich věří, že civilizace musí být chráněna před divočinou. Najdou se však i takoví, kteří trvají na tom, že divočina musí být chráněna před civilizací. Povolání hraničáře je vhodné pro kohokoliv kdo má blízko k přírodě a rád zneškodňuje nepřátele dřív, než se k němu dostanou.*
 

@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-<img src="/assets/book_shelf.webp" style="zoom:120%;" />
+<img src="/assets/Basics.png"/>
 
 <img src="/assets/sep_line.png"/>
 
@@ -49,6 +49,8 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 **Tajný hod (TH)**: Je druh hodu, který hází DM a hráč nevidí přímý výsledek hodu kostky. Tajný hod se používá například při prozkoumávání oblastí, kdy hráč neví, jestli nic nenašel, protože v dané oblasti nic není nebo proto, že výsledek ověřovacího hodu byl špatný.
 
 **Zaokrouhlování:** pokud není stanoveno jinak, tak se dělené hodnoty zaokrouhlují vždy dolů.
+
+**Kostky použití:** 
 
 <img src="/assets/sep_line.png"/>
 

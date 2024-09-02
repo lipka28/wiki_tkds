@@ -2,6 +2,10 @@
 
 <img src="/assets/sep_line.png"/>
 
+<img src="/assets/Combat.png"/>
+
+<img src="/assets/sep_line.png"/>
+
 ## Souboje
 
 | BOJOVÁ SEKVENCE KAŽDÉ KOLO                                   |

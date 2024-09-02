@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-<img src="/assets/OW/bg_w.png" style="zoom:100%;" />
+<img src="/assets/OW/Old_world.png"/>
 
 <img src="/assets/sep_line.png"/>
 

@@ -2,7 +2,9 @@
 
 <img src="/assets/sep_line.png"/>
 
-==TODO: Obrázek==
+![Image title](/assets/OW/classes/Acolyte.png)
+
+<img src="/assets/sep_line.png"/>
 
 ==TODO: Popis==
 

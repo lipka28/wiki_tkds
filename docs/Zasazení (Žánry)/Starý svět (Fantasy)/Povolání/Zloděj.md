@@ -2,7 +2,9 @@
 
 <img src="/assets/sep_line.png"/>
 
-==TODO:Obrázek==
+![Image title](/assets/OW/classes/Thief.png)
+
+<img src="/assets/sep_line.png"/>
 
 ==TODO: Upravit popisek==*Tuláci jsou nepředvídatelní oportunisti žijící na okraji společnosti. Za pomocí svých šikovných rukou a hbitých reflexů, dosáhnou všeho čeho si zamanou. Žádná špinavá práce jim není cizí. Potřebujete někoho odpravit? Něco ukrást? Není problém! Tuláci zvládnou vše a bez zanechání stop. A co zákony? Pro tuláky jsou to spíš taková neohrabaná doporučení. Povolání tuláka je vhodné pro každého kdo má rád všechny své akce důkladně promyšlené a nechce se zbytečně omezovat pravidly.*
 

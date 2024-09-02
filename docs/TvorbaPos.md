@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-<img src="/assets/char_create.webp" style="zoom:100%;" />
+<img src="/assets/Tvorba_postavy.png"/>
 
 <img src="/assets/sep_line.png"/>
 

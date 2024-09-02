@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-<img src="/assets/armory.jpg" style="zoom:100%;" />
+<img src="/assets/Adventure_gear.png"/>
 
 <img src="/assets/sep_line.png"/>
 

@@ -2,6 +2,10 @@
 
 <img src="/assets/sep_line.png"/>
 
+<img src="/assets/Adventure.png"/>
+
+<img src="/assets/sep_line.png"/>
+
 ## Organizace skupiny
 
 **Formace:** Před začátkem průzkumu by si hráči měli rozhodnout formaci, ve které budou postupovat. Například se hráči mohou rozhodnout, že budou postupovat ve formaci pyramidy. Obrněnec ve předu, čaroděj uprostřed  a 2 válečníci po stranách. Formaci lze kdykoliv změnit a dokonce lze definovat i různé formace pro různé situace. Jako třeba otevírání dveří, boj, průzkum atd.

@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-<img src="/assets/levelUp.webp" style="zoom:100%;" />
+<img src="/assets/Level_up.png"/>
 
 <img src="/assets/sep_line.png"/>
 

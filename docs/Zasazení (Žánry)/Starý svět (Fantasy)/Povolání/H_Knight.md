@@ -5,7 +5,9 @@
 
 <img src="/assets/sep_line.png"/>
 
-==TODO:Obrázek==
+![Image title](/assets/OW/classes/Knight.png)
+
+<img src="/assets/sep_line.png"/>
 
 ==TODO: Popisek==
 

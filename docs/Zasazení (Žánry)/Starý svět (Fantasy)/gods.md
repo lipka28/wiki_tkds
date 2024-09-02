@@ -2,6 +2,10 @@
 
 <img src="/assets/sep_line.png"/>
 
+<img src="/assets/OW/gods/Pantheon.png"/>
+
+<img src="/assets/sep_line.png"/>
+
 Povznesení, jsou stvoření s obrovskou magickou mocí, která se povznesla na vyšší úroveň bytí. Povznesení se příliš nezajímají o životy smrtelníků a sledují své vlastní cíle. Často však smrtelníků zneužívají k dosažení těchto cílů.
 
 <img src="/assets/sep_line.png"/>

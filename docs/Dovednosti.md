@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-<img src="/assets/abilities.webp" style="zoom:100%;" />
+<img src="/assets/Dovednosti.png" />
 
 <img src="/assets/sep_line.png"/>
 

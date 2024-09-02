@@ -2,6 +2,10 @@
 
 <img src="/assets/sep_line.png"/>
 
+<img src="/assets/Downtime.png"/>
+
+<img src="/assets/sep_line.png"/>
+
 Úspěšní dobrodruzi se s výprav vrací většinou s hromadou pokladů, které potřebují zpeněžit.  Výdělek pak mohou použít na zahojení ran, nákupu nové výbavy na další dobrodružství a nebo do investic, které mohou zamávat s rovnováhou moci ve světě.
 
 | Sekvence využití volného času                                |
@@ -234,7 +238,7 @@ Magický výzkum je proces. Při kterém se postava zběhlá v magii pokusí pro
 **Substituce ceny:** Postava může nabídnout různé cenné materiály nebo negativní efekty za používání předmětu a tím si od PJ vyžádat snížení výsledné ceny na výrobu předmětu.
 
 - **Příklady magického výzkumu:**
-    
+  
     - [Výroba lektvarů a svitků](/Pravidla%20a%20procedury/Downtime/#vyroba-lektvaru-a-svitku)
     - [Výzkum kouzel](/Pravidla%20a%20procedury/Downtime/#vyzkum-kouzel)
     

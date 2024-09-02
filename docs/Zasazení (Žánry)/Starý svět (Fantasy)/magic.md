@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/magic.webp)
+<img src="/assets/Magic.png"/>
 
 <img src="/assets/sep_line.png"/>
 
