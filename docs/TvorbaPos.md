@@ -15,6 +15,9 @@ Hoď si *5x 4k6(zahoď nejnižší číslo)* a výsledné hodnoty si přiřaď d
 !!! tip "Alternativní pravidlo: Nahazování postav (Fesnův one-shot)"
     Pokud hráči přijde, že házel mizerně. Může si na místo svých naházených čísel rozmístit následující hodnoty dle vlastního uvážení: *17*, *15*, *12*, *9*, *8*.
 
+!!! tip "Alternativní pravidlo: Pravděpodobná budoucí verze"
+    Hoď si *5x 3k6* a výsledné hodnoty si přiřaď do dovedností dle vlastního uvážení. Navíc s každou dosaženou úrovní si můžeš k libovolné dovednosti přičíst *1* bod.
+
 ## 2. Vyber si rasu a povolání a zapiš si speciální schopnosti
 
 Vyber si jednu z ras a zaznač si její název do svého deníku postavy. Zaznač si také povolání, které sis pro svou postavu vybral. Pak si poznamenej všechny zvláštní schopnosti, které tvá postava získala těmito výběry. Hoď si na životy v závislosti na vybraném povolání, zaznač si bonus k útoku a záchranný hod. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na hybnost a poznačit si, kolik můžeš umět jazyků.
