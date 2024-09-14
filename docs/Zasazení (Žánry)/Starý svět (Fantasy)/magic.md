@@ -130,7 +130,7 @@ Doporučený seznam a třídy kouzel pro hraní hry. Kouzla v závorkách jsou o
 | Detect Danger                              | False Aura                           | Dispel Illusion                 | Growth of Plants                       | Create Food                         | Eternal Quest (Remove Eternal Quest) |
 | Detect Evil                                | Fascinate                            | Dispel Magic                    | Charm Monster                          | Demi-Shadow Monsters                | Geas (Remove Geas)                   |
 | Detect Illusion                            | Feign Death                          | Drag From Death’s Door          | Illusory Stamina                       | Dispel Evil                         | Impersonation                        |
-| Detect Magic                               | Find Traps                           | Fear                            | Inter (Exhume)                         | Feeblemind                          | Invisible Stalker                    |
+| Odhal magii                                | Find Traps                           | Fear                            | Inter (Exhume)                         | Feeblemind                          | Invisible Stalker                    |
 | Detect Undead                              | Heat Metal                           | Fire Ball                       | Massmorph                              | Gaseous Form                        | Lower Water                          |
 | Entangle                                   | Hold Person                          | Fly                             | Minor Creation                         | Guardian Spirit                     | Manifest Dream                       |
 | Faerie Fire                                | Hypnotic Pattern                     | Grave Breath                    | Neutralize Poison                      | Hold Monster                        | Mass Suggestion                      |
@@ -152,7 +152,7 @@ Doporučený seznam a třídy kouzel pro hraní hry. Kouzla v závorkách jsou o
 | Protection from Evil                       | Silence 15’ Radius                   | Rope Trick                      | Veil of Abandonment                    | Shadowcast                          | Undead Regeneration                  |
 | Purify Food and Water                      | Skeletal Steed                       | Skull Trap                      | Wall of Bones                          | Shadowy Transformation              | Vision                               |
 | Read Languages                             | Skull Sight                          | Spectral Force                  | Wall of Fire                           | Spirit Vision                       |                                      |
-| Read Magic                                 | Slow Poison                          | Striking                        | Wall of Ice                            | Summon Undead                       |                                      |
+| Read Magic                                 | Zpomal jed                           | Striking                        | Wall of Ice                            | Summon Undead                       |                                      |
 | Remove Fear (Cause Fear)                   | Snake Charm                          | Suggestion                      | Wizard Eye                             | Telekinesis                         |                                      |
 | Resist Cold                                | Speak With Dead                      | Tree Shape                      |                                        | Teleport                            |                                      |
 | Shield                                     | Spectral Hand                        | Vampiric Touch                  |                                        | Time Flow                           |                                      |
@@ -184,6 +184,16 @@ Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativn
 - **Rychlé kouzlo:** Sesílání kouzla není ovlivněno běžnými postihy na sesílání, jako jsou vzájemné ohrožení nebo nestabilní povrchy.
 - **Stvoření vyšší úrovně než sesilatel:** Mají nárok na *záchranný hod proti síle*, aby efektu odolali.
 - **Poškození:** Shozeným stvořením je uděleno symbolické *1* poškození za pád na zem. Tohle poškození nemůže zabít.
+
+<img src="/assets/sep_line.png"/>
+
+#### Odhal magii
+
+**Trvání:** *3 směny*
+
+**Dosah:** *sesilatel*
+
+**Popis:** Sesilatel očaruje oblast v okolí *18 metrů* kolem sebe. Všechno magické v této obalsti, začne světélkovat.
 
 <img src="/assets/sep_line.png"/>
 
@@ -238,7 +248,7 @@ Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativn
 
 **Trvání:** *okamžité*
 
-**Dosah:** *dotek*
+**Dosah:** *dotyk*
 
 **Popis:** Kouzlo dotykem vyléčí *1k6+1 životů* a paralýzu.
 
@@ -249,8 +259,6 @@ Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativn
 Efekt na nemrtvé(a démony) a na živé se přehodí.
 
 <img src="/assets/sep_line.png"/>
-
-a - z
 
 ### Kouzla 2. třídy
 
@@ -270,9 +278,37 @@ Na místo spojenců funguje na nepřátele a uděluje postih *-1* k zásahu, po�
 
 <img src="/assets/sep_line.png"/>
 
+#### Zpomal jed
+
+**Trvání:** *1 hodina* za každou úroveň sesialtele.
+
+**Dosah:** *dotyk*
+
+**Popis:** Efekty jedu na očarovaný subjekt jsou výrazně zpomaleny. Poskytujíc čas na nalezení protilátky.
+
+- **Efekt jedu:** Pokud jed působil poškození nebo smrt, tak očarovaný subjekt dostává *1 poškození za směnu* avšak tohle poškození jej *nemůže zabít*. Jiné efekty jedu jsou po dobu trvání kouzla potalčeny. Pokud má jed omezené trvání, jeho trvání je prodlouženo o délku trvání tohoto kouzla.
+- **Stvoření zabité jedem:** Stvoření, které zemřelo na následky jedu v posledních *tolika směnách, kolik je úroveň sesialtele*. Může být tímto kouzlem přivedeno zpět k životu (s *1 životem*).
+- **Konec kouzla:** Po konci kouzla se efekt jedu znovu plně projeví. Pokud byl cíl mrtev, znovu zemře.
+
+<img src="/assets/sep_line.png"/>
+
 ### Kouzla 3. třídy
 
-a - z
+<img src="/assets/sep_line.png"/>
+
+#### Přízračná forma
+
+**Trvání:** *1 směna*
+
+**Dosah:** *sesilatel*
+
+**Popis:** Sesilatel se, včetně své výbavy, promění na poloprůhledný přízrak. Tento přízrak sice nelétá ale vznáší se lehce nad zemí. Jeho polo-fyzická forma mu umožňuje se protáhnout malými škvírami a otvory (jako je třeba klíčová dírka).
+
+- **Akce:** V přízračné formě nelze manipulovat fyzický prostor lze však sesílat kouzla. V Přízračné formě lze také útočit ale pouze jen na ostatní přízračná stvoření (jako třeba duchy).
+- **Nezranitelnost:** Přízrak mohou zranit pouze magické útoky a jiná přízračná stvoření.
+- **Nemrtví:** *Nemrtví nižší jak 10. úrovně* si nebudou přízraku všímat, jelikož jej budou považovat jen za nějakého ducha. *Nemrtví 10. a vyšší úrovně* mohou uspět v *záchranném hodu proti kouzlům* s *postihem - 4* a rozpoznat, že se jedná o iluzi. 
+
+<img src="/assets/sep_line.png"/>
 
 ### Kouzla 4. třídy
 
