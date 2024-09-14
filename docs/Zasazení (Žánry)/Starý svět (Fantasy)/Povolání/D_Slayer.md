@@ -33,26 +33,40 @@
 
 **Trénovaná brnění:** žádné
 
-**Bonus k záchraně:** +1 až +3 proti smrti, síle a ovlivnění mysli (pouze když běsní)
+**Bonus k záchraně:** +1 proti smrti, síle a ovlivnění mysli (+3 když běsní)
 
 ### Tvrdá kůže
 
 Tvá kůže je na tolik tvrdá, že funguje jako kožené brnění. Pokud na sobě nemáš žádnou zbroj, získáváš bonus *+2* do OČ.
-
-### Zášť
-
-V trpasličím bijci se hromadí zášť za každý neúspěch v boji. Tuto zášť si s radostí vybije na svých nepřátelích. Za každý zásah nebo neúspěšný záchranný hod, který bijec obdrží v boji se zvýší jeho hladina zášti o 1.
-
-- **Šílenství:** Pokud hladina zášti překročí bijcovu hodnotu výdrže, musí na začátku svého každého tahu, co je tato hladina překročena, podstoupit záchranný hod proti ovlivnění mysli (bez bonusu za běsnění). Pokud selže, hráč permanentně ztrácí kontrolu nad bijcem a ten začne běsnit (pokud již tak nedělá) a nesystematicky a náhodně útočit na vše živé kolem sebe.
-- **Ztráta zášti:** Jediný známí způsob jak bijce zbavit zášti je, aby začal běsnit a zabíjet.
+**Vylepšení:** Na 3., 6. a 9. úrovni se tento bonus zvedne o +1.
 
 ### Běsnění
 
-Pokud bijec nashromáždil aspoň 5 zášti, může začít běsnit. Běsnění poskytuje bonusy a postihy popsané níže, v závislosti na nashromážděné zášti. Každý tah co bijec běsní klesá jeho zášť o 1. Bijec nemůže přestat běsnit dokud jeho zášť neklesne na 0.
+Bijec může *1x denně*, po obdržení poškození, začít běsnit. To mu poskytne následující bonusy a postihy. 
 
-- **zášť < 10:** Bonus +2 k zásahu a poškození; Bonus +1 k záchranným hodům proti smrti, síle a ovlivnění mysli; Postih -2 k OČ; Při NAT 1 na zásah se ožene po spojenci, který je poblíž nebo ve vzájemném ohrožení se stejným nepřítelem jako bijec (nový hod na zásah)
-- **zášť < 15:** Bonus +3 k zásahu a poškození; Bonus +2 k záchranným hodům proti smrti, síle a ovlivnění mysli; Postih -1 k OČ; Tvé útoky zraňují i nezranitelná stvoření; Při NAT 2 a méně na zásah se ožene po spojenci, který je poblíž nebo ve vzájemném ohrožení se stejným nepřítelem jako bijec (nový hod na zásah)
-- **zášť 15+:** Bonus +4 k zásahu a poškození; Bonus +3 k záchranným hodům proti smrti, síle a ovlivnění mysli; Tvé útoky zraňují i nezranitelná stvoření; Při NAT 3 a méně na zásah se ožene po spojenci, který je poblíž nebo ve vzájemném ohrožení se stejným nepřítelem jako bijec (nový hod na zásah)
-- **Šílenství (> Výdrž):** Stejná jako 15+ ale zášť již neklesá; hráč ztrácí kontrolu (postava je efektivně mrtvá); bijec útočí chaoticky a náhodně do všeho.
+- **Ignorování bolesti:** Bijec obdrží *dočasné životy* ve výši poloviny poškození, na základě kterého začal běsnit. Pokud ho dané poškození nezredukovalo na 0 životů.
+- **Bonus k zásahu a poškození:** Bijec obdrží bonus *+1 k zásahu a poškození* svými útoky a jeho poškození působí i na stvoření, která jsou normálně imunní vůči nemagickým útokům.
+- **Záchranné hody:** Bijcův bonus k *záchranným hodům proti smrti, síle a ovlivnění mysli* se zvýší z +1 na *+3*.
+- **Bezohlednost:** Bijec obdrží *postih -1 k OČ* a při hodu *NAT 1 na zásah* se ožene po spojenci, který je poblíž nebo ve vzájemném ohrožení se stejným nepřítelem jako bijec (nový hod na zásah)
+- **Zášť:** Bijec získává 1 bod zášť i za každý útok, kterým zasáhne.
+- **Konec běsnění:** Běsnění končí buď uběhnutím *10-ti kol*, tím, že bijec upadne do *bezvědomí* nebo pokud v *daném kole nezaútočí*. (na cokoliv, nemusí uspět).
+
+### Zášť
+
+V trpasličím bijci se hromadí zášť za každý neúspěch v boji. Bijec obdrží *1 bod* zášti za každý *neúspěšný hod na zásah* nebo na *záchranu* a také získává zášť, *za každé 2 body poškození, které obdrží*.
+
+- **Šílenství:** Pokud hladina zášti překročí bijcův *limit zášti*, který je dán součtem bijcovi *hodnoty výdrže a osobnosti*, musí na začátku svého každého tahu, co je tato hladina překročena, podstoupit záchranný hod proti ovlivnění mysli. Pokud selže, hráč permanentně ztrácí kontrolu nad bijcem (postava je efektivně mrtvá) a ten začne běsnit (pokud již tak nedělá) a nesystematicky a náhodně útočit na vše živé kolem sebe. Jeho zášť již neklesá.
+- **Ztráta zášti:** Jediný známí způsob jak bijce zbavit zášti je použití jedné z následujících schopností proti živému cíli.
+- **Kombinace schopností:** Bijec může aktivovat pouze 1 schopnost za kolo.
+
+| Cena zášti |                       Efekt schopnosti                       |
+| ---------- | :----------------------------------------------------------: |
+| 3          | **Zběsilí úder** - Bijec má bonus +1 k zásahu a poškození na svůj první útok v tomhle kole. |
+| 8          | **Zářez** - Povýší neúspěšný zásah na úspěšný nebo úspěšný na kritický zásah. |
+| 18         | **Zabít** - Cíl od bijce automaticky obdrží zásah a musí uspět v *záchranném hodu proti smrti* nebo zemřít. |
+
+### Vyčerpávající běsnění (Úroveň 5)
+
+Od 5. úrovně může bijec běsnit *vícekrát než 1x denně*. Avšak za každé další běsnění, mimo to první, obdrží bijec body únavy ve výši své úrovně.
 
 <img src="/assets/sep_line.png"/>
