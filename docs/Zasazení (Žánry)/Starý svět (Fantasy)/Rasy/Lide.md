@@ -6,9 +6,6 @@
 
 <img src="/assets/sep_line.png"/>
 
-!!! success "Požadavky"
-    Žádné
-
 ## Popis
 
 *Odkud se vzali lidé nikdo přesně neví. Lidé na světě existovali již před záchranou světa a existují nadále i po ní. Spousta lidí věří, že, jako všechno živé, je stvořila Všematka. Elfové však vědí, že to není možné. Neferité, kterou lidé označují jako Všematku, se totiž stala povznesenou až po událostech spojených se záchranou světa.*

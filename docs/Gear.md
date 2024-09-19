@@ -131,9 +131,9 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 !!! note "Předpokládaný nepřítel"
 	Pro všechny speciální efekty popsané níže je předpokládaným nepřítelem stvoření podobné člověku. Pokud je zbraň použita proti jinému nepříteli nemusí být speciální efekt aplikovatelný.
 
-**Bič:** 3 metry dlouhý nástroj z pletené kůže. Využíván především ke krocení zvěře. Jeho poškození nejsou ani tak ničivá, avšak velmi bolestivá. Touhle zbraní nelze zabít. *Speciální:* Pokud je zbraní zasaženo zvíře netrénované pro boj, musí podstoupit ověření morálky; Zbraň poskytuje bonus *+1* k manévrům na zachycení.
+**Bič:** 3 metry dlouhý nástroj z pletené kůže. Využíván především ke krocení zvěře. Jeho poškození nejsou ani tak ničivá, avšak velmi bolestivá. Touhle zbraní nelze zabít. *Speciální:* Pokud je zbraní zasaženo zvíře netrénované pro boj, musí podstoupit ověření morálky.
 
-**Bojová hůl:** Dřevěná pokovovaná hůl dlouhá asi 1,5 metru. Používaná ve spoustě bojových umění. *Speciální:* Zbraň poskytuje bonus *+1* k manévrům na shození na zem.
+**Bojová hůl:** Dřevěná pokovovaná hůl dlouhá asi 1,5 metru. Používaná ve spoustě bojových umění.
 
 **Cep:** Kovová koule (někdy i ostnatá) připevněná za pomocí krátkého řetězu k rukojeti. *Speciální:* Zbraň ignoruje *1 OČ*  ze soupeřova štítu.
 
@@ -145,11 +145,11 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 **Kopí:** Dlouhá dřevěná tyč s bodcem. *Speciální:* Pokud použito na koni, stačí držet v jedné ruce. 
 
-**Krátké kopí:** Kratší varianta kopí. Vhodné jak pro jednoruční tak obouruční použití. *Speciální:* Lze hodit
+**Krátké kopí:** Kratší varianta kopí. Vhodné jak pro jednoruční tak obouruční použití. *Speciální:* Lze hodit.
 
 **Krátký meč:** Meč podobající se spíše většímu noži. Kombinuje praktickou přenosnost nože a nebezpečnost meče.
 
-**Nůž:** Nenápadné dobře uchopitelné malé ostří. Vhodná jako záložní zraň, když není nic lepšího po ruce. *Speciální:* Lze hodit (jen na efektivní vzdálenost)
+**Nůž:** Nenápadné dobře uchopitelné malé ostří. Vhodná jako záložní zraň, když není nic lepšího po ruce. *Speciální:* Lze hodit (jen na efektivní vzdálenost).
 
 **Obouruční meč:** Masivní meč, jehož hlavní výhodou oproti jiným těžkým zbraním je jeho verzatilní využití. *Speciální:* Kritický zásah obouručním mečem shodí nepřítele na zem.
 
@@ -171,7 +171,7 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 **Válečná sekera:** Masivní obouruční sekera, která přetne takřka cokoliv. *Speciální:* Kritický zásah válečnou sekerou umožní opakovat útok na blízku do jiného cíle v dosahu; Lze obouručně hodit (jen na efektivní vzdálenost).
 
-**Válečné kladivo:** Kovová tyč s masivní hlavicí, která působí masivní drtivá poškození. *Speciální:* Kritický zásah válečným kladivem odhodí nepřítele *1k4 mertrů* a shodí jej na zem.
+**Válečné kladivo:** Kovová tyč s masivní hlavicí, která působí masivní drtivá poškození. *Speciální:* Zbraň ignoruje *1 OČ* se zbroje nepřítele; Kritický zásah válečným kladivem odhodí nepřítele *1k4 mertrů* a shodí jej na zem.
 
 ### Střelné zbraně
 
@@ -217,8 +217,6 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 | Kámen do praku (1)                     |  L   |     Zdarma      |
 | Postříbřený šíp / šipka                |  L   |      5 st       |
 | Šíp "Kladivoun"                        |  L   |    2 md / ks    |
-| Šíp "Otvírák"                          |  L   |    5 md / ks    |
-| Šíp "Tyran"                            |  L   |    1 st / ks    |
 | Šíp s lankem                           |  1   |    5 st / ks    |
 | Šipky do flusačky (Pytlík 10-ti šipek) |  1   | 1 st (1 md/ks)  |
 | Šipky do kuše (Pouzdro 20-ti šipek)    |  1   | 10 st (5 md/ks) |
@@ -234,10 +232,6 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 	Všechny níže popsané speciální šípy lze použít pouze se střední a větší kuší a nebo lukem. Také všechny speciální šípy snižují dostřel zbraně, se kterou jsou použity na polovinu (o stupeň dolů).
 
 **Šíp "Kladivoun":** Šíp s tupou hlavicí působící *1k4* tupého poškození (nahrazuje poškození použité střelné zbraně). Pokud je šípem zasaženo nic netušící stvoření, tak je omráčeno na *1k4 směn*.
-
-**Šíp "Otvírák":** Speciálně upravený šíp na lovení ryb. Lze ním střílet bez postihů do vody až do hloubky *5 metrů*.
-
-**Šíp "Tyran":** Šíp se speciálně upravenou hlavicí působící rozsáhlá trhavá zranění. Při kritickém zásahu šíp přetrhá svalstvo v končetině cíle a učiní ji nepoužitelnou. Končetina není použitelná *7 dní* nebo dokud není magicky vyléčena.
 
 **Šíp s lankem:** Šíp s *9-ti metrovým* lankem, který se bezpečně přichytí k jakémukoliv měkčímu pevnému povrchu (např. dřevo). Šípem lze, vzhledem k jeho váze, střílet jen na efektivní vzdálenosti.
 
@@ -266,6 +260,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Křída (10)                                               |     1(10L)     | 1 st  |
 | Lahvička kyseliny                                        |       1        | 20 st |
 | Lahvička oleje                                           |       1        | 5 st  |
+| Lahvička svěcené vody                                    |       1        | 25 st |
 | Lahvička s korkovou zátkou                               |       1        | 1 st  |
 | Lékárnička (10 použití)                                  |       1        | 50 st |
 | Lucerna                                                  |       1        | 10 st |
@@ -284,7 +279,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Stan (pro 1)                                             |       1        | 5 st  |
 | Stan (pro 2)                                             |       2        | 15 st |
 | Stan (pro 4)                                             |       3        | 40 st |
-| Symbol patrona                                           |       L        | 5 st  |
+| Symbol církve                                            |       L        | 5 st  |
 | Truhla se zámkem (dřevěná, malá)                         |    1 (Kon.)    | 2 st  |
 | Truhla se zámkem (dřevěná, velká)                        |   10 (Kon.)    | 8 st  |
 | Víno (1 litr, obyčejné)                                  |       1        | 2 st  |
@@ -325,6 +320,11 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 - *Bojové užití:* Cíl pokrytý hořícím olejem obdrží *1k8* poškození za kolo po dobu *2 kol* nebo dokud není uhašen. 
 - *Rozlitý olej:* Rozlitý olej hoří *1 směnu*.
 
+**Lahvička svěcené vody:** Lahvička vody vysvěcená ve jménu šesti strážců.
+
+- *Bojové užití:* Cíl je pokryt svěcenou vodou. Pokud je cíl *nemrtvý* nebo *démon* obdrží *1k8* poškození po dobu *2 kol*. 
+- *Jiné užití:* Používá se i jako součást náboženských rituálů.
+
 **Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. 
 
 - *Léčení:* použití trvá *1 směnu* a umožňuje vyléčit *2 životy denně*. (1 použití / cíl)
@@ -357,7 +357,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Stan:** Nutný pro přenocování ve špatných povětrnostních podmínkách. Nepřítomnost stanu automaticky způsobuje ve špatných podmínkách *1 bod únavy* nezávisle na úspěchu přenocování v divočině. V extrémně špatném počasí může znamenat i další postihy.
 
-**Symbol patrona:** Nutný pro vykonávání náboženských aktivit.
+**Symbol církve:** Náboženský symbol většinou ve formě přívěšku.
 
 **Truhla:** Úložný prostor se zámkem a klíčem.
 

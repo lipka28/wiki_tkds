@@ -6,9 +6,6 @@
 
 <img src="/assets/sep_line.png"/>
 
-!!! danger "Požadavky"
-    Síla >= *11*; Výdrž >= *15*
-
 ## Popis
 
 *Dle trpasličích pověr, jsou trpaslíci z oživlého kamene, který se utvořil v hlubinách země kolem legendárního trpasličího města Durg’Hajakor (v lidské řeči: město srdečního kamene). Od dávných dob trpaslíci budovali chodby a masivní podzemní města ve snaze najít vyhovující domov, pro jejich stále rostoucí počet. Jejich hledání skončilo ve chvíli, kdy se první s trpaslíků prokutali až na samotný zemský povrch. Zde nalezli úrodnou půdu a téměř neomezený prostor k životu. Svá impozantní města začali tesat do skal a postupem času zapomněli na svůj hlubinný původ. Jejich staré podzemní města zchátrala a tunely do Durg’Hajakor se zhroutily. Dnes již žádný trpaslík netuší, kde legendární město leží. Avšak představa jeho bohatství je i nadále velkým lákadlem nejen pro trpaslíky.*

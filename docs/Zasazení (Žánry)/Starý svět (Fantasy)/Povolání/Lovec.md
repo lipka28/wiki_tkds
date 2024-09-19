@@ -6,7 +6,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-==TODO:Upravit popisek==*Hraničáři jsou nepřekonatelní průvodci divočinou. Díky svým znalostem přírody a stopovacím schopnostem. Jsou nepostradatelní v každé skupině dobrodruhů. Hraničáři často žijí na okraji civilizace. Většina jich věří, že civilizace musí být chráněna před divočinou. Najdou se však i takoví, kteří trvají na tom, že divočina musí být chráněna před civilizací. Povolání hraničáře je vhodné pro kohokoliv kdo má blízko k přírodě a rád zneškodňuje nepřátele dřív, než se k němu dostanou.*
+*Lovci jsou nepřekonatelní průvodci divočinou. Díky svým znalostem přírody a stopovacím schopnostem. Jsou nepostradatelní v každé skupině dobrodruhů, která plánuje cestu do neznáma. Lovci jsou mistři lukostřelby a jejich vybroušené smysly jim pomohou se vyhnout kde jaké léčce. Často chodí ověšení, kde jakými zuby, či lebkami na symbol toho, jak silná monstra dokázali ulovit. Lovec také nikdy není sám, jelikož mu dělá společnost perfektně vycvičené zvíře, které samo dokáže zahnat ne jednoho protivníka. Povolání Lovce je vhodné pro kohokoliv kdo má blízko k přírodě a rád zneškodňuje nepřátele dřív, než se k němu dostanou.*
 
 <img src="/assets/sep_line.png"/>
 
@@ -26,9 +26,9 @@
 
 ## Schopnosti povolání
 
-**Trénované zbraně:** 4 zbraně vlastního výběru
+**Trénované zbraně:** Všechny
 
-**Trénovaná brnění:** Lehké a střední zbroje
+**Trénovaná brnění:** Lehké včetně štítů
 
 **Bonus k záchraně:** +2 na úhyb a proti síle
 
@@ -46,8 +46,10 @@ Lovec se může pokusit utvořit pouto s nalezeným zvířetem. Pokud je pokus �
 
 - **Navázání pouta:** Lovec musí přistoupit k osamělému zvířeti a 1 směnu s ním mírumilovně interagovat. Lovec si pak hodí na ověření *osobnosti*. Pokud uspěje, zvíře se stane lovcovým věrným společníkem.
 - **Typ zvířete:** Pouto lze navázat s jakýmkoliv, v daném světě, běžným zvířetem. Ne větší než zvířecí inteligence. Magická zvířata a obří verze zvířat mohou být povolena od PJ.
-- **Limit:** Lovec může mít silné pouto *pouze s jedním zvířecím společníkem*, jehož úroveň není vyšší než úroveň lovce. To však nějak neomezuje počet zvířecích společníků, které lovec získal mimo tuto schopnost.
+- **Limit:** Lovec může mít silné pouto *pouze s jedním zvířecím společníkem*, jehož úroveň nesmí převýšit úroveň lovce. To však nějak neomezuje počet zvířecích společníků, které lovec získal mimo tuto schopnost.
 - **Chování:** Věrný zvířecí společník bude oddaně bojovat po boku lovce a nikdy nemusí ověřovat morálku. Také bude následovat jednoduché pokyny bez toho, aby pro ně musel být předtím trénován. (I takové pokyny, které třeba nejsou pro daný zvířecí druh běžné.)
+- **Zvíře do začátku:** Pokud si lovec přeje, může začínat hru s [loveckým psem](/Gear/#lovecky-pes) zdarma, který bude fungovat jako jeho věrný společník. 
+- **Zíksávání zkušeností:** Věrný zvířecí společník *získává zkušenosti* stejnou rychlostí jako lovec. S každou dosaženou úrovní obdrží *+3 životy*. S každou druhou dosaženou úrvní bonus *+1* k zásahu, poškození a záchranným hodům, a s každou třetí dosaženou úrvoní bonus *+1* k OČ. Dosažené úrovně se počítají od úrovně na které se zvíře stalo věrným společníkem.
 
 ### Schopnosti lovce
 

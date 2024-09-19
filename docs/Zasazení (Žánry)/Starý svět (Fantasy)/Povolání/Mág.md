@@ -6,7 +6,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-==TODO: Upravit popisek==*Medžaj, jméno pocházející ze zapomenutého jazyka. V dnešní době používáno jako hanlivé označení pro čaroděje, šamany, okultisty, prostě kohokoliv kdo zachází s  magickými silami. I přesto, že jsou aktivně loveni lamači kouzel, většina medžajů nevede tak špatný život. Musí se sice ukrývat, ale za to jsou jejich služby extrémně ceněné. Ať už je to příprava všelijakých lektvarů, seslání ohraných kouzel či prokletí. Medžajové zvládnou cokoliv si jen umanou. Povolání medžaje je vhodné pro kohokoliv kdo se rád ponoří do tajů magie.*
+*Mágové začínají svou cestu dobroduha jako zranitelní a slabí knihomolové, kteří teprve začali oběvovat tajemství magie. Ze začátku ovládají jen pár kouzel z knihy co dostali od svého mistra, což je činí snadným terčem pro zkušenější nepřátele. Avšak s každým novým získaným kouzlem jejich moc roste. Postupem času mág dokáže ohýbat samotnou realitu, rozproudit elementární síly a sesílat zničující kouzla. Povolání mága je vhodné pro kohokoliv, kdo se chce ponořit do zkoumání magie a rád vymýšlí neotřelá řešení problémů.*
 
 <img src="/assets/sep_line.png"/>
 
@@ -28,15 +28,15 @@
 
 | *\**/*\*\** | 1    | 2    | 3    | 4    | 5    | MK        |
 | :---------- | ---- | ---- | ---- | ---- | ---- | --------- |
-| 1           | 1    | -    | -    | -    | -    | -         |
-| 2           | 2    | -    | -    | -    | -    | -         |
-| 3           | 2    | 1    | -    | -    | -    | -         |
-| 4           | 2    | 2    | -    | -    | -    | -         |
-| 5           | 3    | 2    | 1    | -    | -    | -         |
-| 6           | 3    | 2    | 2    | -    | -    | -         |
-| 7           | 3    | 3    | 2    | 1    | -    | -         |
-| 8           | 4    | 3    | 2    | 2    | -    | -         |
-| 9           | 4    | 3    | 3    | 2    | 1    | 1*\*\*\** |
+| 1           | 2    | -    | -    | -    | -    | -         |
+| 2           | 3    | -    | -    | -    | -    | -         |
+| 3           | 3    | 1    | -    | -    | -    | -         |
+| 4           | 3    | 2    | -    | -    | -    | -         |
+| 5           | 4    | 2    | 1    | -    | -    | -         |
+| 6           | 4    | 2    | 2    | -    | -    | -         |
+| 7           | 4    | 3    | 2    | 1    | -    | -         |
+| 8           | 4    | 4    | 2    | 2    | -    | -         |
+| 9           | 4    | 4    | 3    | 2    | 1    | 1*\*\*\** |
 
 *\* Úroveň mága*
 
@@ -46,14 +46,16 @@
 
 ## Schopnosti povolání
 
-**Trénované zbraně:** nůž + 1 zbraň vlastního výběru
+**Trénované zbraně:** [Základní zbraně](/Gear/#zakladni-zbrane), nože a 1 malá zbraň vlastního výběru
 
 !!! tip "Alternativní pravidlo: Více magie"
-    Hráči, kterým nepřijde možnost ohánět se mečem nebo střílet z luku či kuše dostatečně vhodná pro mága. Můžou ve vizualizacích svých útoků používat magii na místo zbraně. Z pohledu mechanik se nic nemění. Postava je stále trénovaná se zbraní vlastního výběru a tu zbraň si pro účely používání koupí a bude umístěna do výbavy postavy. Dále pokud je to něco jako luk či kuše. Musí do něj dokupovat adekvátní munici (Jak tyto zbraně a munice ve skutečnosti vypadají je na domluvě s PJ) Hráč pak může své bojové útoky převléct za co chce. Může metat blesky, střílet magická kopí nebo se ohánět levitujícím mečem. Volba je čistě na hráči. PJ může také zvážit umožnit takovému mágovy používat *modifikátor rozumu* k hodu na zásah a nepřičítat žádné modifikátory k poškození (například za negativní sílu při ohnání se levitujícím mečem). Je důležité mít ale na paměti, že tyto typy útoku stále působí jen běžné fyzické poškození.
+    Hráči, kterým nepřijde možnost ohánět se krátkým mečem nebo střílet z příruční kuše dostatečně vhodná pro mága. Můžou ve vizualizacích svých útoků používat magii na místo zbraně. Z pohledu mechanik se nic nemění. Postava je stále trénovaná jen s danými zbraněmi a zbraň si pro účely používání koupí a umístí do výbavy postavy. Dále pokud zbraň vyžaduje munici. Musí do ní adekvátní munici dokupovat (Jak tyto zbraně a munice ve skutečnosti vypadají je na domluvě s PJ) Hráč pak může své bojové útoky převléct za co chce. Může metat blesky, střílet magická kopí nebo se ohánět levitujícím mečem. Volba je čistě na hráči. Je důležité mít ale na paměti, že tyto typy útoku stále působí jen běžné fyzické poškození.
 
 **Trénovaná brnění:** Žádné
 
 **Bonus k záchraně:** +3 proti magii
+
+**Extra výbava:** Kniha kouzel (1 slot)
 
 ### Vyciť magii
 
@@ -72,20 +74,36 @@ Mág dokáže číst v magii jako v otevřené knize a díky tomu zvládne rozlu
 - **Požadavky:** Mág musí vědět, že daný subjekt je magický nebo magického původu, než se může o tuto schopnost pokusit. U zjevných kouzelných efektů je to jasné. Ale v jiných případech může být nutné první použít schopnost *vyciť magii*.
 - **Trvání použití:** Jak dlouho zabere použití této schopnosti záleží především na využití. Vybavení si informací o magickém monstru může být otázkou *1 běžné akce*. Zatím co rozluštění magického textu či porozumění efektu probíhajícího kouzla může zabrat *1 směnu* nebo více. Výsledně pak aktivity jako je rozluštění grimoáru jiného kouzelníka či úplné porozumění magickému předmětu může trvat i *několik dní*.
 - **Neúspěch:** Magický efekt, je mimo mágovo chápání. O další porozumění danému efektu se může pokusit až s dosažením nové úrovně.
-- **Alternativní využití:** Mág se může pokusit sesílaný svitek povýšit na svou úroveň sesílání. V případě neúspěchu se svitek sešle na původní úrovni na které byl sepsán.
+- **Učení kouzel ze svitků:** Pokud svitek obsahuje kouzlo úrovně, které mág umí seslat. Mág může strávit hodinu času, aby se pokusil přijít na to, jak bylo vytvořeno kouzlo na svitku a tím se ho naučit. Svitek je následně zničen. Nezávisle na tom, zda se učení podařilo nebo ne. 
 - **Vylepšení:** *HU* této schopnosti se sníží o *1* na *3.*, *6.* a *9.* úrovni.
 
 ### Magie
 
 Mág disponuje schopností používat magii. To znamená, že umí aktivovat některé magické hole a hůlky, sesílat kouzla z magických svitků a také učit se vlastní kouzla a sesílat je za pomocí zaříkaní a magických gest.
 
+- **Kinha kouzel:** Mág začíná hru s knihou kouzel, která obsahuje *2 kouzla 1. třídy* a *1 kouzlo 2. třídy*, kterou nejspíše dostal od svého mistra. Hráč si může vybrat knihu kouzel z tabulky [níže](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Mág/#knihy-kouzel). Pokud hráč nechce ani jednu z nabízených knih. PJ mu přidělí knihu s náhodnými kouzly.
 - **Magický výzkum:** Ve volné chvíli se může mág zabývat magickým výzkumem. Ten se může týkat čehokoliv magického. Přes objevování nových kouzel a magických rituálů až po výrobu magických předmětů. Více o magickém výzkumu [zde](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum).
 - **Sesílání kouzel:** Každý den může mág seslat tolik kouzel, kolik určuje tabulka sesílání [výše](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Mág/#tabulka-sesilani). Aby znovu nabral síly musí mít mág možnost si odpočinout do dalšího dne (aspoň 8 hodin spánku). Detailní pravidla o kouzlení najdeš v [zde](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/).
-- **Učení se nových kouzel:** Mág začíná hru s *dvěma* kouzly dle vlastního výběru. Vybírat můžeš ze [seznamu kouzel](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#seznam-kouzel). Další kouzla se může mág naučit od různých mentorů, studováním magických grimoárů jiných kouzelníků nebo magickým výzkumem.
+- **Učení se nových kouzel:** Mág se může naučit další kouzla od různých mentorů, studováním magických svitků či dešifrování cizích grimoárů nebo magickým výzkumem.
 - **Maximum kouzel:** Počet kouzel, které se mág může naučit, odpovídá *hodnotě jeho dovednosti rozum*. Pokud mág získá kouzlo a překročí tuhle hranici, musí některé naučené kouzlo zapomenout (Ideálně ho před zapomenutím zapíše do grimoáru).
 
 ### Mocná magie (úroveň 9)
 
 Od 9. úrovně mohou mágové sesílat mocná kouzla. To jsou kouzla vyšší než páté třídy. Na rozdíl od běžných kouzel. Mocná kouzla lze sesílat jen *1x týdně* a jednotlivá kouzla mohou mít další požadavky a omezení.
+
+<img src="/assets/sep_line.png"/>
+
+## Knihy kouzel
+
+| Název knihy       |                       Kouzla 1. třídy                        |                       Kouzlo 2. třídy                        |
+| ----------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Lexicon Aureum    | [Světlo](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#svetlo-tma), [Zahoj lehká zranění](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#zahoj-lehka-zraneni-zpusob-lehka-zraneni) | [Povzbudit](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#povzbudit-unavit) |
+| Nex Arcanum       | [Vyciť nemrtvé](/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#vycit-nemrtve), [Nemrtvý sluha](/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#nemrtvy-sluha) | [Mluv s mrtvými](/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#mluv-s-mrtvymi) |
+| Voces Silvarum    | [Zvířecí přítel](/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#zvireci-pritel), [Zamotání](/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#zamotani) | [Zpomal jed](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#zpomal-jed) |
+| Flamma Aeternum   | [Podpálit](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#podpalit-uhasit), [Uhasit](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#podpalit-uhasit) | [Tancující plameny](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#tancujici-plameny) |
+| Gelida Mysteria   | [Ledový nůž](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#ledovy-nuz), [Mrazivý dotyk](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#mrazivy-dotyk) | [Odolej mrazu](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#odolej-ohni-odolej-mrazu) |
+| Somnium Mentis    | [Spánek](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#spanek), [Prozři iluze](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#prozri-iluze) | [Zadrž osobu](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#zadrz-osobu) |
+| Materia Structura | [Levitujici disk](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#levitujici-disk), [Oprav](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#oprav) | [Rozpal kov](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#rozpal-kov) |
+| Siarë Eldaron     | [Zapomeň](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#zapomen), [Glamour](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#glamour) | [Neviditelnost](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/#neviditelnost) |
 
 <img src="/assets/sep_line.png"/>

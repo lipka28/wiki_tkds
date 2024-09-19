@@ -6,27 +6,27 @@
 
 <img src="/assets/sep_line.png"/>
 
-==TODO: Upravit popisek==*Minstrelové jsou potulní hudebníci, zpěváci a baviči. Jejich ohromný talent zaujme i to nejnáročnější publikum. Ať už sedíte večer u táboráku po dlouhé celodenní cestě nebo se nacházíte ve víru boje, minstrelovi melodie a zpěv vás pohladí na duši. Jejich múzické nadání jim běžně otevírá dveře i do vyšších společností, kde jsou ale často zneužíváni jako špioni. Povolání minstrela je vhodné pro každého kdo se rád podělí o svůj talent a nevadí mu se dostat do potíží.*
+*Minstrelové jsou potulní hudebníci, zpěváci a baviči. Jejich ohromný talent zaujme i to nejnáročnější publikum. Ať už sedíte večer u táboráku nebo prohledáváte kobky starého hradu, minstrelova melodie a zpěv vás pohladí na duši. Jejich poutavá muzika jim běžně otevírá dveře i do vyšších společností, kde jsou ale často zneužíváni jako špioni. Povolání minstrela je vhodné pro každého kdo se rád podělí o svůj talent a nevadí mu se dostat do potíží.*
 
 <img src="/assets/sep_line.png"/>
 
 ## Tabulka postupu
 
-| ÚROVEŇ |       HP        | Bonus k zásahu | Z.Hod |
-| :----: | :-------------: | :------------: | :---: |
-|   1    | 2+1k6+MOD Výdrž |       +0       |  16   |
-|   2    | +1k6+MOD Výdrž  |       +1       |  15   |
-|   3    | +1k6+MOD Výdrž  |       +1       |  14   |
-|   4    | +1k6+MOD Výdrž  |       +2       |  13   |
-|   5    | +1k6+MOD Výdrž  |       +2       |  12   |
-|   6    | +1k6+MOD Výdrž  |       +3       |  11   |
-|   7    | +1k6+MOD Výdrž  |       +3       |  10   |
-|   8    | +1k6+MOD Výdrž  |       +4       |   9   |
-|   9    | +1k6+MOD Výdrž  |       +4       |   8   |
+| ÚROVEŇ |       HP        | Jazyky | Bonus k zásahu | Z.Hod |
+| :----: | :-------------: | :----: | :------------: | :---: |
+|   1    | 2+1k6+MOD Výdrž |   1    |       +0       |  16   |
+|   2    | +1k6+MOD Výdrž  |   2    |       +1       |  15   |
+|   3    | +1k6+MOD Výdrž  |   2    |       +1       |  14   |
+|   4    | +1k6+MOD Výdrž  |   3    |       +2       |  13   |
+|   5    | +1k6+MOD Výdrž  |   3    |       +2       |  12   |
+|   6    | +1k6+MOD Výdrž  |   4    |       +3       |  11   |
+|   7    | +1k6+MOD Výdrž  |   4    |       +3       |  10   |
+|   8    | +1k6+MOD Výdrž  |   5    |       +4       |   9   |
+|   9    | +1k6+MOD Výdrž  |   5    |       +4       |   8   |
 
 ## Schopnosti povolání
 
-**Trénované zbraně:** 2 zbraně vlastního výběru
+**Trénované zbraně:** [Základní zbraně](/Gear/#zakladni-zbrane), malé a střední zbraně
 
 **Trénovaná brnění:** Lehké zbroje
 
@@ -39,6 +39,15 @@
 Minstrel může *tolikrát denně kolik je jeho úroveň*. Zahrát krátkou melodii (jako *běžnou akci*) a tím poskytnout spojenci inspiraci.
 
 - **Inspirace:** Inspirace trvá *1 směnu* a může být využita k bonusu *+1* k ověření dovednosti nebo schopnosti.
+
+### Jazyky
+
+Minstrel se může naučit 1 libovolný jazyk.
+
+- **Vylepšní:** Každou sudou úroveň se může naučit další jazyk.
+
+!!! tip "Alternativní pravidlo: Jazyky"
+    Hráč si nemusí vybírat své jazyky předem. Na místo toho si jen poznačí, kolik jazyků se může naučit a po té, když se při hře setká z novým jazykem. Může říct, že ho umí a zapsat si ho jako známý jazyk.
 
 ### Okouzlující vystoupení
 
@@ -107,9 +116,5 @@ Minstrel se může pokusit vybavit si informace o libovolném monstru, hrdinovy,
 
 !!! example "Nepřipravené téma"
     Pokud PJ nedokáže na danou tématiku nic odpovědět. Nemusí odpovídat nic. Lepší přístup je však nechat hráče si něco vymyslet a vzájemnou kolaborací dojít k odpovědi, která se stane pravdou.
-
-### Jazyky (Úroveň 3, 6, 9)
-
-Od 3. úrovně a každou následující 3. úroveň. Se může minstrel naučit 1 libovolný jazyk.
 
 <img src="/assets/sep_line.png"/>

@@ -97,7 +97,7 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 | *3. Stanov OČ:* Postavy i monstra mají OČ napsané ve svém stat-bloku. |
 | *4. Výsledek:* Pokud je výsledek útoku stejný nebo vyšší než OČ cíle útok byl úspěšný, můžeš házet na poškození. |
 
-**NAT 1 a NAT 20:** Hody přirozené *1* jsou považovány za neúspěch. Hod přirozené *20* je považován za kritický zásah. 
+**NAT 1 a NAT 20:** Hod přirozené *1* je považován za neúspěch. Hod přirozené *20* je považován za kritický zásah. 
 
 **Kritické zásahy:** Uděluje maximální možné poškození (Určené maximální hodnotou na kostce poškození dané zbraně včetně bonusů).
 
@@ -128,11 +128,11 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 **Netrénované zbroje a štíty:** Poskytují jen poloviční bonus do OČ.
 
-**Neozbrojený boj:** Neozbrojený útok je považován za útok netrénovanou zbraní a  má vždy poškození *1k2+modifikátor síly*.
+**Neozbrojený boj:** Má vždy poškození *1k2+modifikátor síly*.
 
 **Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus *+1 do zásahu a poškození*.
 
-**Bojové manévry:** Stvoření si může vybrat že se na místo útoku pokusí provést bojový manévr. Bojové manévry jsou věci jako: odstrčení protivníka, shození na zem, přidržení, odzbrojení a další podobné věci. Bojové manévry ve většině případů působí jen symbolické *1 poškození*. Vyhodnocení manévrů záleží zcela na PJ. Může si však pomoc následujícím postupem. *Útočník a obránce* provedou *hod na zásah* včetně aplikovatelných modifikátorů. Pokud útočník *přehodí výsledek soupeře aspoň o 5*, úspěšně provede bojový manévr.
+**Bojové manévry:** Hráči se mohou chtít pokusit o neobvyklé způsoby boje, jako je hození písku do očí, shození na zem, zasáhnout šípem specifickou část těla a podobně. Vyhodnocení těchto "manévrů" je plně v režiji PJ a většinou se řeší dle kontextu daného situace a manévru. V případě monster jsou manévry často součástí krytických útoků.
 
 **Shození na zem:** Je-li stvoření shozeno na zem platí následující pravidla:
 

@@ -26,9 +26,9 @@
 
 ## Schopnosti povolání
 
-**Trénované zbraně:** Všechny 
+**Trénované zbraně:** Všechny
 
-**Trénovaná brnění:** Všechny včetně štítů.
+**Trénovaná brnění:** Všechny včetně štítů
 
 **Bonus k záchraně:** +2 proti smrti a síle
 
@@ -36,7 +36,7 @@
 
 Na první úrovni si může bojovník vybrat *1* z bojových talentů níže.
 
-**Další bojový talent:** Bojovník si může vybrat další bojový talent na úrovni *4* a *7*.
+**Další bojový talent:** Bojovník si může vybrat další bojový talent na úrovni *3*, *6* a *9*.
 
 - **Boj se dvěma zbraněmi** - Při boji dvěma zbraněmi je tvůj bonus k zásahu a poškozeni *+2* na místo +1. Také máš při boji dvěma zbraněmi bonus *+1 k OČ* proti útokům na blízko.
 - **Hbité ruce** - Můžeš zaútočit malou zbraní na dálku nebo použít malý předmět (ne větší jak 1 slot), bez postihů i pokud se zrovna nachází ve vzájemném ohrožení s nepřítelem.
@@ -45,5 +45,10 @@ Na první úrovni si může bojovník vybrat *1* z bojových talentů níže.
 - **Vřítit se do šarvátky** - V prvním kole boje. Se můžeš pohnout až dvojnásobkem své hybnosti po přímé linii a ještě k tomu zaútočit. Pokud při náběhu uběhne aspoň *15 metrů* tvé první způsobené poškození na blízku bude dvojnásobné.
 - **Vůdce** - Spojenci v okolí 12 metrů kolem tebe mají bonus *+1* k morálce a záchranným hodům proti ovlivnění mysli.
 - **Zbraňová specializace** - Vyber si typ zbraně nebo štít. Získáváš bonus *+1* k zásahu a poškození touhle zbraní. Pokud sis vybral štít, tak všechny štíty mají pro tebe o *1* vyšší OČ. Tento talent si lze vybrat opakovaně i pro stejné zbraně (mimo štítu). 
+- **Vlastní** - Zkus přijít s něčím vlastním.
+
+### Extra útok (Úroveň 9)
+
+Od 9. úrovně může bojovník provést *2 útoky* jako součást jedné *běžné akce*.
 
 <img src="/assets/sep_line.png"/>

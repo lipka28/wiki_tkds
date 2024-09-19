@@ -1,4 +1,4 @@
-# Povznesení
+# Církev a povznesení
 
 <img src="/assets/sep_line.png"/>
 
@@ -10,9 +10,14 @@ Povznesení, jsou stvoření s obrovskou magickou mocí, která se povznesla na 
 
 <img src="/assets/sep_line.png"/>
 
-## Nejznámější Povznesení
+## Církev šesti strážců
 
-Následuje seznam nejčastěji uctívaných povznesených.
+Původně čistě lidské náboženství ve kterém, však postupem času našli zalíbení i někteří elfové a trpaslíci. Se stalo nejrozšířenější církví v civilizované části Starého světa (především ve městech). Tato církev uctívá šestici povznesených, které považuje za strážce a ochránce světového řádu. Těmito strážci jsou *Alamar*, *Durnak*, *Juna*, *Paní noci*, *Umdur* a *Všematka*.
+
+- **Symbol:** Symbolem církve je zlaté šesticípé slunce s výřezem ve tvaru vodorovného měsíce uprostřed. Lze se však setkat i se symbolikou samotných bohů (viz níže).
+- **Úděl:** Hlavním údělem církve je sjednocovat civilizovaný svět pod jednotnou myšlenku o fungování světa. 
+- **Moc:** Nemá žádnou výjimečnou zákonem stanovenou moc a však její popularita a rozsah otevírá jejím představitelům dveře i do ne jednoho královského dvora. 
+- **Světlonoši:** Jsou speciální církevní polo-vojenský oddíl, jehož oficiálním údělem je pomáhat církvi bojovat proti temným silám. Většinu času, však světlonoši tráví lovením monster po venkovech za extra peníz.
 
 <img src="/assets/sep_line.png"/>
 
@@ -50,7 +55,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 
 ![Image title](/assets/OW/gods/Juna.jpg)
 
-**Popis:** Povznesená z řad lidí, často vyobrazována jako žena v bílé róbě s hadem omotaným kolem ruky. Patronka léčitelů a nemocných.
+**Popis:** Povznesená z řad lidí, často vyobrazována jako žena v bílé róbě s hadem omotaným kolem ruky. Patronka léčitelů a ochránkyně slabých a nemocných.
 
 **Symbol:** Stříbrný Uroboros
 
@@ -75,3 +80,7 @@ Následuje seznam nejčastěji uctívaných povznesených.
 **Symbol:** Oko noci (diagonálně pozicované oko s ležícím srpem měsíce na místo sítnice)
 
 <img src="/assets/sep_line.png"/>
+
+## Staří bohové
+
+V místech kde tradice umírá pomalu se lze stále setkat s uctíváním starých bohů. Jako jsou slunce, voda, velké stromy nebo podivně tvarované kameny.

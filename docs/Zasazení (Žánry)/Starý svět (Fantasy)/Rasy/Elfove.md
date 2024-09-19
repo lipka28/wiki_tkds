@@ -6,9 +6,6 @@
 
 <img src="/assets/sep_line.png"/>
 
-!!! danger "Požadavky"
-    Zručnost >= *11*; Rozum >= *15*
-
 ## Popis
 
 *Po záchraně světa se část bytostí z Fey, oddělila od svých druhů a začala žít ve světě smrtelníků. Postupem času ztratili své vílí rysy, avšak některé své neobvyklé návyky si ponechali. Začalo se jim říkat elfové.*

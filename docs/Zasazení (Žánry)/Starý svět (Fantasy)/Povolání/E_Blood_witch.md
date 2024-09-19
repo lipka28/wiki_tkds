@@ -9,7 +9,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-==TODO: Popisek==
+Druidky krvavého měsíce. Někdy také hanlivě označovány jako krvavé čarodějnice. Je kruh přijímající do učení pouze elfské ženy, které životní okolnosti dohnali k samotě. Druidky se naučí manipulovat prastaré divoké esence, které jim umožní učit se schopnostem jiných stvoření. Ty zkušenější se pak dokáží i na jiná stvoření proměňovat. Vyškolené druidky pak vyráží do světla za poznáním nových schopností a esencí. Krvavá čarodějnice je vhodné povolání pro kohokoliv kdo touží vrátit monstrům stejnou mincí.
 
 <img src="/assets/sep_line.png"/>
 
@@ -17,19 +17,19 @@
 
 | ÚROVEŇ |       HP        |  DE  | Bonus k zásahu | Z.Hod |
 | :----: | :-------------: | :--: | :------------: | :---: |
-|   1    | 2+1k6+MOD Výdrž |  1   |       +0       |  16   |
-|   2    | +1k6+MOD Výdrž  |  2   |       +1       |  15   |
-|   3    | +1k6+MOD Výdrž  |  3   |       +2       |  14   |
-|   4    | +1k6+MOD Výdrž  |  4   |       +2       |  13   |
-|   5    | +1k6+MOD Výdrž  |  6   |       +3       |  12   |
-|   6    | +1k6+MOD Výdrž  |  8   |       +4       |  11   |
-|   7    | +1k6+MOD Výdrž  |  10  |       +4       |  10   |
-|   8    | +1k6+MOD Výdrž  |  12  |       +5       |   9   |
-|   9    | +1k6+MOD Výdrž  |  14  |       +6       |   8   |
+|   1    | 2+1k6+MOD Výdrž |  2   |       +0       |  16   |
+|   2    | +1k6+MOD Výdrž  |  3   |       +1       |  15   |
+|   3    | +1k6+MOD Výdrž  |  4   |       +2       |  14   |
+|   4    | +1k6+MOD Výdrž  |  5   |       +2       |  13   |
+|   5    | +1k6+MOD Výdrž  |  7   |       +3       |  12   |
+|   6    | +1k6+MOD Výdrž  |  9   |       +4       |  11   |
+|   7    | +1k6+MOD Výdrž  |  11  |       +4       |  10   |
+|   8    | +1k6+MOD Výdrž  |  13  |       +5       |   9   |
+|   9    | +1k6+MOD Výdrž  |  15  |       +6       |   8   |
 
 ## Schopnosti povolání
 
-**Trénované zbraně:** Nože + 1 zbraň vlastního výběru
+**Trénované zbraně:** [Základní zbraně](/Gear/#zakladni-zbrane), nože, luky (krátké luky) a 1 malá zbraň vlastního výběru
 
 **Trénovaná brnění:** Žádné
 

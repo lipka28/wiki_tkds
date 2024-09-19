@@ -9,7 +9,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-==TODO:Popis==
+Bíjci jsou trpaslíci, kteří ve svém původním životě utrpěli vážnou ztrátu. Neschopni nalézt klid, se rozhodli zahodit svůj předchozí život a zavázat se sekeře. Bíjec vyhledává jen ty nejnebezpečnější bestie, u kterých doufá, že jej konečně zbaví utrpení života. Hlavní hnací sílou bíjce je jeho zášť nad vlastní existencí. Nebojí se ničeho a smrtelné nebezpečí vítá s otevřenou náručí. To dělá z bíjců výjimečné a extrémně nebezpečné bojovníky. Povolání bíjce je vhodné pro kohokoliv, kdo se neštítí věčné zatracení.
 
 <img src="/assets/sep_line.png"/>
 
@@ -29,7 +29,7 @@
 
 ## Schopnosti povolání
 
-**Trénované zbraně:** Všechny druhy seker
+**Trénované zbraně:** [Základní zbraně](/Gear/#zakladni-zbrane) a všechny druhy seker
 
 **Trénovaná brnění:** žádné
 
