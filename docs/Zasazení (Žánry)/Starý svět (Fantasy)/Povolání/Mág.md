@@ -87,6 +87,12 @@ Mág disponuje schopností používat magii. To znamená, že umí aktivovat ně
 - **Učení se nových kouzel:** Mág se může naučit další kouzla od různých mentorů, studováním magických svitků či dešifrování cizích grimoárů nebo magickým výzkumem.
 - **Maximum kouzel:** Počet kouzel, které se mág může naučit, odpovídá *hodnotě jeho dovednosti rozum*. Pokud mág získá kouzlo a překročí tuhle hranici, musí některé naučené kouzlo zapomenout (Ideálně ho před zapomenutím zapíše do grimoáru).
 
+### Upcasting (Úroveň 3)
+
+Od 3. úrovně může mág používat sesílání vyšších třídy na sesílání kouzel nižších tříd. To však nemá inherentní dopad na sílu kouzla.
+
+- **Příklad:** pokud mág zná kouzlo první třídy a umí během jednoho dne seslat 2 kouzla první třídy a jedno kouzlo druhé třídy. Může všechna 3 tato seslání použít na seslání daného kouzla první třídy.
+
 ### Mocná magie (úroveň 9)
 
 Od 9. úrovně mohou mágové sesílat mocná kouzla. To jsou kouzla vyšší než páté třídy. Na rozdíl od běžných kouzel. Mocná kouzla lze sesílat jen *1x týdně* a jednotlivá kouzla mohou mít další požadavky a omezení.

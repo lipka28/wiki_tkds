@@ -264,7 +264,7 @@ Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativn
 
 **Dosah:** *dotyk*
 
-**Popis:** Dotyk sesilatele způsobí výboj extrémního mrazu, který působí *1k4 poškození* nebo drobné enviromentální efekty. Jako jsou zmražení vody, části provazu, zámků a podobně. Ovlivněná oblast nemůže být objemem větší než než *1 slot*.
+**Popis:** Dotyk sesilatele způsobí výboj extrémního mrazu, který působí *1k6 poškození* nebo drobné enviromentální efekty. Jako jsou zmražení vody, části provazu, zámků a podobně. Ovlivněná oblast nemůže být objemem větší než než *1 slot*.
 
 - **Záměr:** Sesilatel má nad kouzlem dostatečnou kontrolu, takže hodně záleží na tom co chce kouzlem dokázat. Například někdy může chtít zamrazit ocelový zámek aby šel roztříštit jindy zas jen aby nešel odemknout.
 - **V boji:** Vyžaduje hod na zásah.
