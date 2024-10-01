@@ -98,7 +98,7 @@ Od 3. úrovně může akolyta spotřebovat na dluh více přízně než má k di
 - **Prohloubení dluhu:** Zadlužená akolyta může svůj dluh kdykoliv zvětšit. Pokud však dosáhne *0 maximální přízně* upadá v nelibost svého patrona.
 
 !!! note "Příklad dluhu"
-    Akolyta 3. úrovně má 4 přízně. Rozhodne se vyčarovat rituál, který napodobuje kouzlo 5. úrovně a tedy stojí 5 přízně. Po provedení rituálu má akolyta 0 přízně a její maximální přízeň klesla na 3 (4-(4-5)).
+    Akolyta *3. úrovně* má *4* přízně. Rozhodne se vyčarovat rituál, který napodobuje kouzlo *5. třídy* a tedy stojí *5* přízně. Po provedení rituálu má akolyta *0* přízně a její maximální přízeň klesla na *3* (4+(4-5)).
 
 ### Mocné rituály (Úroveň 9)
 
@@ -126,7 +126,7 @@ Od 9. úrovně může strávit *1 směnu* vyvoláváním mocného rituálu, kter
 **Dary:** 
 
 - **Dar první:** *Hůl slabého léčení*. Hůl umí dotykem vyléčit *1k3+1* životů a má neomezený počet použití. Opakovaná použití na stejné stvoření v jeden den však nemají žádný efekt.
-- **Dar druhý:** Stáváš se imunní vůči jedům, nemocem a nemagické paralýze. 
-- **Dar třetí:** Při sesílání léčebných rituálů máš výhodu na reakci patrona a veškeré tebou poskytnuté léčení je taktéž házeno s výhodou.
+- **Dar druhý:** Stáváš se *imunní* vůči jedům, nemocem a nemagické paralýze. 
+- **Dar třetí:** Při sesílání léčebných rituálů máš *výhodu na reakci patrona* a veškeré tebou poskytnuté léčení je taktéž házeno s *výhodou*.
 
 <img src="/assets/sep_line.png"/>
