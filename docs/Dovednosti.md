@@ -68,17 +68,17 @@ Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnos
 
 ## Osobnost
 
-Osobnost představuje sílu osobnosti, přesvědčivost a schopnost vést. Modifikátor osobnosti ovlivňuje to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě, kolik může postava mít nehráčských společníků a to, jak jsou daní společníci loajální. Připočítává se také k záchranným hodům proti ovlivnění mysli.
+Osobnost představuje sílu osobnosti, přesvědčivost a schopnost vést. Modifikátor osobnosti ovlivňuje to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě a kolik může postava mít nehráčských společníků. Připočítává se také k záchranným hodům proti ovlivnění mysli a morálce družiníků.
 
-| Osobnost | Modifikátor | MAx Počet společníků | Loajalita |
-| :------: | :---------: | :------------------: | :-------: |
-|    3     |     -3      |          1           |     5     |
-|  4 - 5   |     -2      |          1           |     6     |
-|  6 - 8   |     -1      |          1           |     7     |
-|  9 - 12  |      0      |          1           |     8     |
-| 13 - 15  |     +1      |          2           |     9     |
-| 16 - 17  |     +2      |          3           |    10     |
-|    18    |     +3      |          4           |    11     |
+| Osobnost | Modifikátor | MAx Počet společníků |
+| :------: | :---------: | :------------------: |
+|    3     |     -3      |          1           |
+|  4 - 5   |     -2      |          1           |
+|  6 - 8   |     -1      |          1           |
+|  9 - 12  |      0      |          1           |
+| 13 - 15  |     +1      |          2           |
+| 16 - 17  |     +2      |          3           |
+|    18    |     +3      |          4           |
 
 !!! Note "Společníci"
     Za společníka může být považován jak placený družník, tak zvíře nebo třeba nějaký démon či jiné stvoření účastnící se dobrodružství s postavou.

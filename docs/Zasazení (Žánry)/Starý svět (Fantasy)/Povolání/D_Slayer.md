@@ -38,7 +38,8 @@ Bíjci jsou trpaslíci, kteří ve svém původním životě utrpěli vážnou z
 ### Tvrdá kůže
 
 Tvá kůže je na tolik tvrdá, že funguje jako kožené brnění. Pokud na sobě nemáš žádnou zbroj, získáváš bonus *+2* do OČ.
-**Vylepšení:** Na 3., 6. a 9. úrovni se tento bonus zvedne o +1.
+
+- **Vylepšení:** Na 3., 6. a 9. úrovni se tento bonus zvedne o +1.
 
 ### Běsnění
 

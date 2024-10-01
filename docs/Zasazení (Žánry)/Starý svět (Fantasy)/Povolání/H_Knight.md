@@ -70,7 +70,7 @@ Rytíř se nebojí za svého pána nebo své přátele klidně i položit život
 
 ### Okamžik slávy (úroveň 3)
 
-Jedině rytíř vítězící na vzdory všem okolnostem může dosáhnout té pravé slávy. Rytíř disponuje zdrojem zvaným *sláva*, který odpovídá nejvyšší úrovni monstra, které kdy rytíř se svou skupinou zabil. Sláva může být použita následujícími způsoby:
+Jedině rytíř vítězící na vzdory všem okolnostem může dosáhnout té pravé slávy. Rytíř disponuje zdrojem zvaným *sláva*, který odpovídá nejvyšší úrovni monstra, které kdy rytíř se svou skupinou zabil. Sláva může být použita následujícími způsoby a doplňuje se každý den.
 
 - **Druhý dech (jedenkrát za boj):** Rytíř si do konce boje přidá tolik *dočasných životů*, kolik spotřebuje *slávy*.
 - **Vítězný úder**: Rytíř si při útoku přidá bonus ve výši spotřebované *slávy* k *zásahu nebo poškození*.

@@ -279,7 +279,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Stan (pro 1)                                             |       1        | 5 st  |
 | Stan (pro 2)                                             |       2        | 15 st |
 | Stan (pro 4)                                             |       3        | 40 st |
-| Symbol církve                                            |       L        | 5 st  |
+| Symbol církve / patrona                                  |       L        | 5 st  |
 | Truhla se zámkem (dřevěná, malá)                         |    1 (Kon.)    | 2 st  |
 | Truhla se zámkem (dřevěná, velká)                        |   10 (Kon.)    | 8 st  |
 | Víno (1 litr, obyčejné)                                  |       1        | 2 st  |
@@ -357,7 +357,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Stan:** Nutný pro přenocování ve špatných povětrnostních podmínkách. Nepřítomnost stanu automaticky způsobuje ve špatných podmínkách *1 bod únavy* nezávisle na úspěchu přenocování v divočině. V extrémně špatném počasí může znamenat i další postihy.
 
-**Symbol církve:** Náboženský symbol většinou ve formě přívěšku.
+**Symbol církve / patrona:** Náboženský symbol většinou ve formě přívěšku.
 
 **Truhla:** Úložný prostor se zámkem a klíčem.
 

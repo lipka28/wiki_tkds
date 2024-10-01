@@ -220,7 +220,7 @@ Proces učení probíhá tak, že postava na konci týdne a zaplacení nákladů
 
 **Učitel**
 
-Učitelem může být kdokoliv kdo je mistrem v dané problematice. Například plné ovládání jazyka nebo maximálně vylepšená schopnost. Kvalita učitele snižuje *HU* potřebnou k naučení se schopnosti avšak podepíše se na jeho ceně.
+Učitelé ulehčují učení se nových schopností. Učitelem může být kdokoliv kdo je mistrem v dané problematice. Například plné ovládání jazyka nebo maximálně vylepšená schopnost. Kvalita učitele snižuje *HU* potřebnou k naučení se schopnosti avšak podepíše se na jeho ceně.
 
 | Učitel                                 | Hranice úspěchu pro naučení | Kumulativní bonus za neúspěch |  Cena   |
 | -------------------------------------- | :-------------------------: | :---------------------------: | :-----: |
@@ -233,7 +233,7 @@ Učitelem může být kdokoliv kdo je mistrem v dané problematice. Například 
 
 Magický výzkum je proces. Při kterém se postava zběhlá v magii pokusí prozkoumat zákoutí magie, připravit rituál nebo vyrobit magický předmět. Magický výzkum může trvat v rozpětí několika hodin až třeba i několika týdnů. Může však být přerušen a dodělán později.
 
-**Šance na selhání:** Každý magický výzkum má šanci *1 z 6-ti*, že se nepovede. V tom případě jsou použité materiály ztraceny a předmět nevznikne. U větších investic (*1000+ st*) se selhání projeví pouze vadou na výsledném produktu.
+**Šance na selhání:** Každý magický výzkum má šanci *1 z 6-ti*, že se zkomplikuje. Komplikací může být cokoliv co PJ uzná za vhodné. Například si čaroděj musí obstarat klíčovou ingredienci nebo předmět bude mít nepředvídatelný efekt.
 
 **Substituce ceny:** Postava může nabídnout různé cenné materiály nebo negativní efekty za používání předmětu a tím si od PJ vyžádat snížení výsledné ceny na výrobu předmětu.
 

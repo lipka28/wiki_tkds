@@ -12,9 +12,6 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 Hoď si *5x 4k6(zahoď nejnižší číslo)* a výsledné hodnoty si přiřaď do dovedností dle vlastního uvážení. Připiš si modifikátory dovedností (více v kapitole [Dovednosti](Dovednosti.md)) a nakonec si poznač gramotnost danou tvým rozumem.
 
-!!! tip "Alternativní pravidlo: Nahazování postav (Fesnův one-shot)"
-    Pokud hráči přijde, že házel mizerně. Může si na místo svých naházených čísel rozmístit následující hodnoty dle vlastního uvážení: *17*, *15*, *12*, *9*, *8*.
-
 !!! tip "Alternativní pravidlo: Pravděpodobná budoucí verze"
     Hoď si *5x 3k6* a výsledné hodnoty si přiřaď do dovedností dle vlastního uvážení. Navíc s každou dosaženou úrovní si můžeš k libovolné dovednosti přičíst *1* bod.
 
