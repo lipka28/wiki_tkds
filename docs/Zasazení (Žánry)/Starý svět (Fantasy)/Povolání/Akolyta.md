@@ -88,7 +88,7 @@ Akolyta může strávit *1 směnu* prováděním zázračného rituálu, který 
 - **Aspekty:** Rituál a jeho efekt musí být blízko (nebo aspoň připodobněn) aspektům patrona akolyty. Patron léčení a hadů neumožní své akolytě metat blesky.
 - **Výsledek:** Efekt rituálu rozhodne PJ dle *reakce na zázračný rituál* dle [tabulky reakcí patrona](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-reakci-patrona).
 - **Komponenty:** Akolyta může do rituálu přidat cenné nebo relevantní komponenty a tím si zvýšit šanci na úspěch.
-- **Vylepšení:** Od 6. úrovně lze seslat zázračný rituál jako běžnou akci.
+- **Vylepšení:** Od *6. úrovně* lze seslat zázračný rituál jako *běžnou akci*.
 
 ### Nebezpečný dluh (Úroveň 3)
 
