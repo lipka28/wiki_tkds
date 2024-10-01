@@ -104,7 +104,7 @@ Od 3. úrovně může akolyta spotřebovat na dluh více přízně než má k di
 
 Od 9. úrovně může strávit *1 směnu* vyvoláváním mocného rituálu, který může napodobit efekty mocných kouzel (kouzla vyšší jak 5. třídy).
 
-- **Cena:** Vyvolání mocného rituálu stojí vždy 6 maximální přízně. Je tedy vždy bráno na dluh a to i přesto, že by akolyta měla zbývající přízeň.
+- **Cena:** Vyvolání mocného rituálu stojí vždy *6 maximální přízně*. Je tedy vždy bráno na dluh a to i přesto, že by akolyta měla zbývající přízeň.
 - **Výsledek:** Efekt rituálu rozhodne PJ dle *reakce na zázračný rituál* dle [tabulky reakcí patrona](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-reakci-patrona).
 
 <img src="/assets/sep_line.png"/>
