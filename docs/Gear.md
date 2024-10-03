@@ -264,6 +264,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Lahvička s korkovou zátkou                               |       1        | 1 st  |
 | Lékárnička (10 použití)                                  |       1        | 50 st |
 | Lucerna                                                  |       1        | 10 st |
+| Maskovací sada (10 použití)                              |       1        | 25 st |
 | Motouz (30 metrů)                                        |       1        | 1 st  |
 | Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo atd...) |     1 - 2      | 5 st  |
 | Píšťalka                                                 |       L        | 1 st  |
@@ -330,6 +331,8 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 - *Léčení:* použití trvá *1 směnu* a umožňuje vyléčit *2 životy denně*. (1 použití / cíl)
 
 **Lucerna:** Poskytuje světlo v oblasti *9 metrů* a má posuvnou clonu, kterou lze světlo zakrýt nebo namířit jen jedním směrem. K fungování vyžaduje olej. 
+
+**Maskovací sada:** Sada líčidel, paruk a převleků vhodná pro jakékoliv maskovací potřeby.
 
 **Nástroj:** Věci jako lopaty, vidle, krumpáče a jim podobné.
 

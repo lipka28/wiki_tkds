@@ -47,7 +47,7 @@ Krvavá čarodějnice se může pokusit vycítit magické vibrace, obklopující
 
 ### Divoká magie
 
-Krvavá čarodějnice umí používat divokou magii. To jí dává schopnost aktivovat některé magické hole a hůlky, sesílat kouzla z magických svitků a sesílat vlastní kouzla.
+Krvavá čarodějnice umí používat divokou magii. To jí dává schopnost aktivovat některé magické hole, sesílat kouzla z magických svitků a sesílat vlastní kouzla.
 
 - **Magický výzkum:** Ve volné chvíli se krvavá čarodějnice může zabývat magickým výzkumem. Ten se může týkat čehokoliv magického. Většinou se však jedná o výrobu lektvarů a různé magické rituály napodobující efekty kouzel. Více o magickém výzkumu [zde](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum).
 - **Sesílání kouzel:** Každý den krvavá čarodějnice disponuje divokou energií (DE) dle tabulky postupu [výše](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/E_Blood_witch/#tabulka-postupu). Za tu může sesílat naučená kouzla. Cena seslání kouzla odpovídá úrovni kouzla nebo úrovni nestvůry, od které bylo kouzlo získáno / 2 (zaokrouhleno nahoru). Aby krvavá čarodějnice nabrala síly musí mít možnost si odpočinout do dalšího dne (aspoň 8 hodin spánku). Detailní pravidla o kouzlení najdeš v [zde](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/magic/).

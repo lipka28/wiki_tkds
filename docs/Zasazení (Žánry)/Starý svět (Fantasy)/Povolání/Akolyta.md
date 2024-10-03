@@ -48,7 +48,7 @@
 
 ### Patron
 
-Každá akolyta má silné spojení se svým patronem, který ji poskytuje jisté nadpřirozené schopnosti. Patronem může být jakékoliv mocné stvoření. Počínaje povznesenými přes elementály a stvoření z Fey až po draky. Patron však nepropůjčuje svou moc akolytě zadarmo. Očekává, že akolyta bude sloužit v jeho prospěch.
+Každá akolyta má silné spojení se svým patronem, který ji poskytuje jisté nadpřirozené schopnosti. Patronem může být jakékoliv mocné stvoření. Počínaje povznesenými přes elementály a stvoření z Fey až po draky. Patron však nepropůjčuje svou moc akolytě zadarmo. Očekává, že akolyta bude sloužit v jeho prospěch. Moc patrona umožňuje akolytě aktivovat některé magické hole, sesílat kouzla z magických svitků a praktikovat vlastní magické rituály. 
 
 - **Výběr patrona:** Postava začíná hru buď jako akolyta [Juny](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#juna-priklad-patrona) nebo si může ve spolupráci s PJ vytvořit vlastního patrona (dle vzoru Juny).
 - **Přízeň:** Akolyta disponuje přízní svého patrona (viz. [tabulka postupu](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-postupu)), kterou potřebuje k používání některých svých schopností. Pokud akolyta neupadne v nelibost svého patrona, přízeň se jí vždy *každý den doplní*.

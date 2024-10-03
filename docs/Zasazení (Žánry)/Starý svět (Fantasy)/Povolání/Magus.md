@@ -62,7 +62,7 @@ Magus se může pokusit vycítit magické vibrace, obklopující všechny magick
 
 ### Bojová magie
 
-Magus disponuje schopností používat magii. V jeho případě to znamená, že umí aktivovat některé magické hůlky a učit se vlastní kouzla, které následně může sesílat za pomocí zaříkaní a magických gest nebo své vázané zbraně.
+Magus disponuje schopností používat magii. V jeho případě to znamená, že umí aktivovat magické hůlky a učit se vlastní kouzla, které následně může sesílat za pomocí zaříkaní a magických gest nebo své vázané zbraně.
 
 - **Získávání kouzel:** Magus na začátku hry zná *1* kouzlo *1. třídy* vlastního výběru. Magus získá nové kouzlo *2. třídy* na *3. úrovni* a kouzlo *3. třídy* na *5. úrvoni*. Magus se může naučit další kouzla od různých mentorů nebo magickým výzkumem. Magus se může učit pouze kouzla, která jsou užitečná v boji. Ostatní kouzla magus nepovažuje za důležitá.
 - **Sobecký mág:** Magus může sesílat kouzla pouze na sebe nebo své nepřátele. Pokud se magus naučí podpůrné kouzlo, které lze seslat na spojence (včetně plošných podpůrných kouzel), může jej seslat pouze na sebe.

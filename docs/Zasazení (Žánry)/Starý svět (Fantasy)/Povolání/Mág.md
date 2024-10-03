@@ -79,7 +79,7 @@ Mág dokáže číst v magii jako v otevřené knize a díky tomu zvládne rozlu
 
 ### Magie
 
-Mág disponuje schopností používat magii. To znamená, že umí aktivovat některé magické hole a hůlky, sesílat kouzla z magických svitků a také učit se vlastní kouzla a sesílat je za pomocí zaříkaní a magických gest.
+Mág disponuje schopností používat magii. To znamená, že umí aktivovat magické hůlky, některé magické hole, sesílat kouzla z magických svitků a také učit se vlastní kouzla a sesílat je za pomocí zaříkaní a magických gest.
 
 - **Kinha kouzel:** Mág začíná hru s knihou kouzel, která obsahuje *2 kouzla 1. třídy* a *1 kouzlo 2. třídy*, kterou nejspíše dostal od svého mistra. Hráč si může vybrat knihu kouzel z tabulky [níže](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Mág/#knihy-kouzel). Pokud hráč nechce ani jednu z nabízených knih. PJ mu přidělí knihu s náhodnými kouzly.
 - **Magický výzkum:** Ve volné chvíli se může mág zabývat magickým výzkumem. Ten se může týkat čehokoliv magického. Přes objevování nových kouzel a magických rituálů až po výrobu magických předmětů. Více o magickém výzkumu [zde](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum).

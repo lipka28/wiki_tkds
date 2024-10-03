@@ -97,3 +97,15 @@ Lovci jsou vášniví sběratelé trofejí. Lovec si může z mrtvého monstra v
 - **Výhoda:** Pokud má lovec trofej u sebe neb třeba vystavenou doma, funguje jako talisman pro štěstí. Lovec získává bonus *+1* k zásahu a poškození a také bonus *+1* k záchranným hodům proti monstrům stejného druhu a jejich schopnostem (nesčítá se).
 
 <img src="/assets/sep_line.png"/>
+
+# Osamělý lovec - varianta lovce
+
+Varianta lovce pro hráče, kteří by chtěli hrát za lovce ale zvířátka nejsou úplně jejich šálek kávy.
+
+## Změny
+
+- **Kostka života:** Od *2. úrovně* háže osamělý lovec na životy *1k8* na místo 1k6.
+- **Věrný společník:** Osamělý lovec ztrácí tuhle schopnost.
+- **Bojové talenty:** Osamělý lovec obdrží [bojový talent](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Bojovník/#bojove-talenty) na *4.* a *8.* úrovni.
+
+<img src="/assets/sep_line.png"/>
