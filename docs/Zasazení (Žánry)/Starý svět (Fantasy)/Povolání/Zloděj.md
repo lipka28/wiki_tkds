@@ -105,11 +105,11 @@ Od 3. úrovně může zloděj jedenkrát denně použít svou exprtízu a tím p
 
 <img src="/assets/sep_line.png"/>
 
-# Asasín - varianta zloděje
+## Asasín - varianta zloděje
 
 Varianta zlodějě soustředěná na boj, infiltraci a nenápadnou vraždu. Vhodná spíše pro příběhy odehrávající se převážně v civilizaci.
 
-## Změny
+### Změny
 
 - **Kostka života:** Od *2. úrovně* háže asasín na životy *1k6* na místo 1k4.
 - **Trénované zbraně:** Asasín je trénovaný se všemi zbraněmi.
@@ -117,7 +117,7 @@ Varianta zlodějě soustředěná na boj, infiltraci a nenápadnou vraždu. Vhod
 - **Nedostupné schopnosti:** Asasín nedisponuje schopnostmi [eskamotáž](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Zloděj/#eskamotaz), [manipuluj mechanizmus](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Zloděj/#manipuluj-mechanizmus) a [prohledat](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Zloděj/#prohledat).
 - **Získané schopnosti:** Asasín navíc disponuje schopnostmi [odezírání ze rtů](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Minstrel/#odezirani-ze-rtu), [šaráda](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Zloděj/#sarada) a [práce s jedy](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Zloděj/#prace-s-jedy)
 
-### Šaráda
+#### Šaráda
 
 Asasín se může pokusit dokonale napodobit libovolného představitele své nebo podobné rasy (i opačného pohlaví) a to včetně dokonalého napodobení hlasu a nuancí.
 
@@ -128,7 +128,7 @@ Asasín se může pokusit dokonale napodobit libovolného představitele své ne
 - **Opakování hodu:** V případě, že je zamaskovaný asasín důkladně prověřen někým kdo cíl šarády zná. Hod na úspěch se musí opakovat (Například muž políbí manželku, která je ve skutečnosti asasín v přestrojení).
 - **Omezení zbroje** - V závislosti na kontextu se může HU schopnosti se zvedá o *2* za každý stupeň zbroje.
 
-### Práce s jedy
+#### Práce s jedy
 
 Asasín podávající či aplikující jed na zbraň se může pokusit o ověření této schopnosti. Pokud uspěje aplikovaný jed se nepoužije celý a lze ho znovu použít.
 

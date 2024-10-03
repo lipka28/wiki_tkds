@@ -98,11 +98,11 @@ Lovci jsou vášniví sběratelé trofejí. Lovec si může z mrtvého monstra v
 
 <img src="/assets/sep_line.png"/>
 
-# Osamělý lovec - varianta lovce
+## Osamělý lovec - varianta lovce
 
 Varianta lovce pro hráče, kteří by chtěli hrát za lovce ale zvířátka nejsou úplně jejich šálek kávy.
 
-## Změny
+### Změny
 
 - **Kostka života:** Od *2. úrovně* háže osamělý lovec na životy *1k8* na místo 1k6.
 - **Věrný společník:** Osamělý lovec ztrácí tuhle schopnost.
