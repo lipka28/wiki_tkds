@@ -110,7 +110,7 @@ Další běžnou podobou magických předmětů jsou zbraně, štíty a zbroje. 
 
 ### Ostatní magické předměty
 
-Při hře se lze setkat i s dalšími "nositelnými" magickými předměty. Obecně platí, že takové magické předměty *mohou být použity kýmkoliv kdo je má jako součást svých vybavených předmětů*.
+Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že takové magické předměty *mohou být použity kýmkoliv kdo je má jako součást svých vybavených předmětů*.
 
 - **Omezení:** Stvoření může mít naráz vybaven jen 1 magický předmět daného typu (jedny boty, jedna přilba, jeden plášť atd...). Výjimkou jsou magické prsteny. Ty lze mít vybavené 2 (1 na každé ruce). 
 - **Aktivace:** Jak je magický předmět aktivován nemusí být na první pohled jasné. Hráč si na způsob aktivace může přijít experimentováním nebo použitím nějaké identifikační magie. Aktivace předmětu stojí většinou *běžnou akci*.

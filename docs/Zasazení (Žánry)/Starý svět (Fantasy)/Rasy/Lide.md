@@ -38,7 +38,7 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 ## Vlastnosti
 
-**Vrozené jazyky:** Jazyk společenství + (Případný další jazyk, pokud pochází z území mimo "známého" světa)
+**Vrozené jazyky:** Jazyk společenství + (Případný další jazyk, pokud pochází z území mimo "známý" světa)
 
 **Hybnost:** 12 metrů
 
@@ -47,6 +47,6 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 ## Speciální vlastnosti
 
 - **Přirozeně ambiciózní** - Lidé mají bonus *+1* do jedné libovolné dovednosti. Vylepšená dovednost nesmí přesáhnout *18*.
-- **Sklony k náboženství** - Člověk si může při tvorbě postavy vybrat [patrona](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/gods/#povzneseni). To mu umožní *1x denně* přehodit hod na ověření dovednosti nebo schopnosti, hod na zásah nebo záchranný hod a vzít si lepší výsledek.
+- **Sklony k víře** - Člověk si může při tvorbě postavy vybrat [patrona](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/gods/#povzneseni). To mu umožní *1x denně* přehodit hod na ověření dovednosti nebo schopnosti, hod na zásah nebo záchranný hod a vzít si lepší výsledek.
 
 <img src="/assets/sep_line.png"/>
