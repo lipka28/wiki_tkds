@@ -46,7 +46,7 @@ Na dobrodružství se často vydávají mladí elfové (100 let nebo méně), ab
 
 ## Speciální vlastnosti
 
-- **Původ z Fey** - Každý elf umí *1 kouzlo 1. třídy*, které může seslat *1x denně* jako mág poloviční úrovně. Pokud je elf zároveň i mág, tohle bonusové kouzlo a sesílání se mágovi připočte k počátečním kouzlům a počtu sesílání.
+- **Původ z Fey** - Každý elf umí *1 kouzlo 1. třídy*, které může seslat *1x denně* jako mág poloviční úrovně. Pokud je elf zároveň i povolání užívající třídy kouzel, tohle bonusové kouzlo a sesílání se mu připočte k počátečním kouzlům a počtu sesílání.
 - **Imunita vůči paralýze** - Elfové mají imunitu proti nemagické paralýze (včetně uspání).
 
 <img src="/assets/sep_line.png"/>
