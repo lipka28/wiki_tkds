@@ -48,9 +48,6 @@
 
 **Trénované zbraně:** [Základní zbraně](/Gear/#zakladni-zbrane), nože a 1 malá zbraň vlastního výběru
 
-!!! tip "Alternativní pravidlo: Více magie"
-    Hráči, kterým nepřijde možnost ohánět se krátkým mečem nebo střílet z příruční kuše dostatečně vhodná pro mága. Můžou ve vizualizacích svých útoků používat magii na místo zbraně. Z pohledu mechanik se nic nemění. Postava je stále trénovaná jen s danými zbraněmi a zbraň si pro účely používání koupí a umístí do výbavy postavy. Dále pokud zbraň vyžaduje munici. Musí do ní adekvátní munici dokupovat (Jak tyto zbraně a munice ve skutečnosti vypadají je na domluvě s PJ) Hráč pak může své bojové útoky převléct za co chce. Může metat blesky, střílet magická kopí nebo se ohánět levitujícím mečem. Volba je čistě na hráči. Je důležité mít ale na paměti, že tyto typy útoku stále působí jen běžné fyzické poškození.
-
 **Trénovaná brnění:** Žádné
 
 **Bonus k záchraně:** +3 proti magii

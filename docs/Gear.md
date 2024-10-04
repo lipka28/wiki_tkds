@@ -50,8 +50,8 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 
 - **Oblečení** - Plní funkci běžného oblečení. Nevyžaduje trénink.
 - **Lehká** - Flexibilní, lze v ní spát a neomezuje v pohybu. 
-- **Střední** - Omezuje v pohybu, nedá se v ní plížit ani pohodlně spát, *bonus k OČ ze zručnosti je poloviční* (zaokrouhleno nahoru). Stvoření ve střední zbroji *nemá vyšší hybnost než 9 metrů*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
-- **Těžká** - Hlučná, omezuje v pohybu, nedá se v ní plížit ani pohodlně spát, *bonus k OČ ze zručnosti je negován*. Stvoření v těžké zbroji *nemá vyšší hybnost než 6 metrů*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Střední** - Omezuje v pohybu, nedá se v ní plížit ani pohodlně spát, *bonus k OČ a záchranným hodům získaný ze zručnosti je poloviční* (zaokrouhleno nahoru). Stvoření ve střední zbroji *nemá vyšší hybnost než 9 metrů*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Těžká** - Hlučná, omezuje v pohybu, nedá se v ní plížit ani pohodlně spát, *bonus k OČ a záchranným hodům získaný ze zručnosti je negován*. Stvoření v těžké zbroji *nemá vyšší hybnost než 6 metrů*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
 - **Štít** - Zvyšuje OČ nositele, většinou držen v jedné ruce.
 
 | ZBROJE                     |   TYP    |  OČ  | POTŘEBNÁ SÍLA | Váha  |   CENA   |
