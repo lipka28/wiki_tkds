@@ -113,7 +113,10 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 !!! note "Příklad: Ohnivý elementál"
     Ohnivému elementálovi, by zásah ohnivou koulí asi nic moc neudělal. Avšak smetením vodním proudem by mělo devastující účinky. 
 
-**Nezranitelnost:** Některá stvoření jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození.
+**Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna:
+
+- Jinými nezranitelnými monstry
+- Monstry 5. a vyšší úrovně.
 
 **Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny.
 

@@ -74,7 +74,7 @@ Krvavá čarodějnice může spotřebováním *1 divoké energie* seslat magick�
 
 ### V jedno tělo
 
-Krvavá čarodějnice se může pokusit sníst klíčové části těla krátce mrtvého monstra a tím získat jednu z jeho nadpřirozených pasivních schopnost.
+Krvavá čarodějnice se může pokusit sníst klíčové části těla krátce mrtvého monstra a tím získat jednu z jeho nadpřirozených pasivních nebo obranných schopností.
 
 - **Požití:** Požití části těla trvá *1 směnu*. Krvavá čarodějnice se musí pokusit o *záchranný hod proti smrti*. Pokud uspěje, schopnost se úspěšně naučí. Pokud neuspěje, pozvrací se a tím znehodnotí tělo monstra.
 - **Aktivace:** Pasivní schopnost je stále aktivní a tedy permanentně svou cenou redukuje dostupnou divokou energii krvavé čarodějnice.
