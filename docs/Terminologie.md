@@ -116,7 +116,7 @@ Každá hráčská postava má své povolání dobrodruha, která ji uděluje sa
 Úroveň představuje zkušenost postavy jako dobrodruha. Hráč většinou začíná na úrovni 1 a může svou úroveň zvýšit získáváním zkušeností.
 
 !!! warning "Hit dice"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem *hit dice*. Hit dice je vesměs totéž, co úroveň a často se na základě ní určují životy ale i třeba velikost monster. Pro účely výpočtu životů se tedy předpokládá, že *1 hit dice (HD)* reprezentuje jeden hod *k8+1*. Například pro určení životů monstra z *3+2 HD* se hází *3k8+(3+2)*.
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem *hit dice*. Hit dice je vesměs totéž, co úroveň a často se na základě ní určují životy ale i třeba velikost monster. Pro účely výpočtu životů se tedy předpokládá, že *1 hit dice (HD)* reprezentuje jeden hod *k8*. Například pro určení životů monstra z *3+2 HD* se hází *3k8+2*.
 
 ### Zkušenostní body (XP)
 Postup postavy ve hře je reprezentován kumulací zkušenostních bodů. Když hráčova postava získá dostatek zkušenostních bodů, postoupí na další úroveň. Počet potřebných zkušenostních bodů k dosažení nové úrovně a způsoby získávání zkušeností naleznete popsané [zde](/LevelUp).
