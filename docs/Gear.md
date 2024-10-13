@@ -111,7 +111,7 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 | Halapartna      |   Dlouhá   |   1k8+1   |  3   | 20 st |
 | Hůl             |  Střední   |   1k4+1   |  2   | 1 st  |
 | Kopí            |   Dlouhá   |   1k8+1   |  3   | 12 st |
-| Krátké kopí     |  Střední   | 1k6/1k8+1 |  2   | 2 st  |
+| Krátké kopí     |  Střední   | 1k4/1k6+1 |  2   | 2 st  |
 | Krátký meč      |    Malá    |    1k6    |  1   | 15 st |
 | Nůž             |    Malá    |    1k4    |  1   | 3 st  |
 | Obouruční meč   |   Velká    |  1k10+1   |  3   | 50 st |
