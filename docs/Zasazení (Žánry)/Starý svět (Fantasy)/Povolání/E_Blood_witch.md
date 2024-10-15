@@ -29,7 +29,7 @@ Druidky krvavého měsíce. Někdy také hanlivě označovány jako krvavé čar
 
 ## Schopnosti povolání
 
-**Trénované zbraně:** [Základní zbraně](/Gear/#zakladni-zbrane), nože, luky (krátké luky) a 1 malá zbraň vlastního výběru
+**Trénované zbraně:** [Základní zbraně](/Gear/#zakladni-zbrane), nože, střední luky a 1 malá zbraň vlastního výběru
 
 **Trénovaná brnění:** Žádné
 

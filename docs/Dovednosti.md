@@ -68,7 +68,7 @@ Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnos
 
 ## Osobnost
 
-Osobnost představuje sílu osobnosti, přesvědčivost a schopnost vést. Modifikátor osobnosti ovlivňuje to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě a kolik může postava mít nehráčských společníků. Připočítává se také k záchranným hodům proti ovlivnění mysli a morálce družiníků.
+Osobnost představuje sílu osobnosti a schopnost vést. Modifikátor osobnosti může ovlivňovat to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě a kolik může postava mít nehráčských společníků. Připočítává se také k záchranným hodům proti ovlivnění mysli a morálce družiníků.
 
 | Osobnost | Modifikátor | MAx Počet společníků |
 | :------: | :---------: | :------------------: |

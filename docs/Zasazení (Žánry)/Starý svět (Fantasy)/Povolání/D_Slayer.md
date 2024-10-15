@@ -1,4 +1,4 @@
-# Trpasličí bíjec
+# Trpasličí bijec
 
 !!! danger "Požadavky"
     Tohle povolání je dostupné pouze *trpaslíkům*.
@@ -9,7 +9,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-Bíjci jsou trpaslíci, kteří ve svém původním životě utrpěli vážnou ztrátu. Neschopni nalézt klid, se rozhodli zahodit svůj předchozí život a zavázat se sekeře. Bíjec vyhledává jen ty nejnebezpečnější bestie, u kterých doufá, že jej konečně zbaví utrpení života. Hlavní hnací sílou bíjce je jeho zášť nad vlastní existencí. Nebojí se ničeho a smrtelné nebezpečí vítá s otevřenou náručí. To dělá z bíjců výjimečné a extrémně nebezpečné bojovníky. Povolání bíjce je vhodné pro kohokoliv, kdo se neštítí věčné zatracení.
+Bijci jsou trpaslíci, kteří ve svém původním životě utrpěli vážnou ztrátu. Neschopni nalézt klid, se rozhodli zahodit svůj předchozí život a zavázat se sekeře. Bijec vyhledává jen ty nejnebezpečnější bestie, u kterých doufá, že jej konečně zbaví utrpení života. Hlavní hnací sílou bijce je jeho zášť nad vlastní existencí. Nebojí se ničeho a smrtelné nebezpečí vítá s otevřenou náručí. To dělá z bijců výjimečné a extrémně nebezpečné bojovníky. Povolání bijce je vhodné pro kohokoliv, kdo se neštítí věčné zatracení.
 
 <img src="/assets/sep_line.png"/>
 
