@@ -60,7 +60,7 @@ Pro rytíře je těžká zbroj a štít klíčový nástroj k přežití. Rytí�
 
 ### Hrdinská obětavost
 
-Rytíř se nebojí za svého pána nebo své přátele klidně i položit život. Rytíř se může jedenkrát za kolo vrhnout do rány nebo kouzla, které by zasáhli spojence v okolí 2 metrů. Poškození nebo efekt kouzla, který by obdržel spojenec je přenesen na Rytíře. Rytířovo OČ není bráno v potaz avšak může mít nárok na záchranný hod pokud to přesměrované kouzlo umožňuje. Pokud by měl rytíř na základě své obětavosti obdržet poškození, tohle poškození je sníženo o 1 za každou kostku poškození.
+Rytíř se nebojí za svého pána nebo své přátele klidně i položit život. Rytíř se může jedenkrát za kolo vrhnout do rány nebo kouzla, které by zasáhli spojence v okolí *2 metrů*. Poškození nebo efekt kouzla, který by obdržel spojenec je přenesen na Rytíře. Rytířovo OČ není bráno v potaz avšak může mít nárok na *záchranný hod* pokud to přesměrované kouzlo umožňuje. Pokud by měl rytíř na základě své obětavosti obdržet poškození, tohle *poškození je sníženo o 1 za každou kostku poškození*.
 
 ### Jezdecký trénink
 
@@ -73,6 +73,6 @@ Rytíř se nebojí za svého pána nebo své přátele klidně i položit život
 Jedině rytíř vítězící na vzdory všem okolnostem může dosáhnout té pravé slávy. Rytíř disponuje zdrojem zvaným *sláva*, který odpovídá nejvyšší úrovni monstra, které kdy rytíř se svou skupinou zabil. Sláva může být použita následujícími způsoby a doplňuje se každý den.
 
 - **Druhý dech (jedenkrát za boj):** Rytíř si do konce boje přidá tolik *dočasných životů*, kolik spotřebuje *slávy*.
-- **Vítězný úder**: Rytíř si při útoku přidá bonus ve výši spotřebované *slávy* k *zásahu nebo poškození*.
+- **Vítězný úder**: Rytíř si při útoku přidá bonus ve výši spotřebované *slávy* k *zásahu nebo poškození*. Použití schopnosti lze ohlásit až po hodu na zásah.
 
 <img src="/assets/sep_line.png"/>
