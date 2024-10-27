@@ -95,16 +95,16 @@ Mohou nastat situace, kdy postava potřebuje najmout extra pracovní nebo vojens
 
 ### Specialisté
 
-Specialista představuje nehráčskou postavu s nějakou specifickou odborností či schopností. Specialisté jsou najímáni za jinými účely než je dobrodružství nebo boj a nepočítají se tedy do limitu společníků postavy která je najala. Minimální doba najmutí specialisty je 1 měsíc.
+Specialista představuje nehráčskou postavu s nějakou specifickou odborností či schopností. Specialisté jsou najímáni za jinými účely než je dobrodružství nebo boj a nepočítají se tedy do limitu společníků postavy která je najala. Minimální doba najmutí specialisty je 1 týden.
 
-**Zaopatření a mzda:** Každý najatý specialista pobírá měsíční mzdu. Ta zahrnuje náklady na život a nástroje potřebné pro výkon jeho činnosti. Zakázkové výroby mohou požadovat extra finance na materiál.
+**Zaopatření a mzda:** Každý najatý specialista pobírá týdenní mzdu. Ta zahrnuje náklady na život a nástroje potřebné pro výkon jeho činnosti. Zakázkové výroby mohou požadovat extra finance na materiál.
 
-| Specialista                                                  | Měsíční mzda |
+| Specialista                                                  | Týdenní mzda |
 | :----------------------------------------------------------- | :----------: |
-| Pracovní síla (např. veslař nebo dělník)                     |    20 st     |
-| Běžné řemeslo (např. kovář, tesař nebo zbrojíř)              |    60 st     |
-| Neobvyklé řemeslo (např. Kapitán lodi nebo cvičitel divoké zvěře) |    400 st    |
-| Vzácné řemeslo (např. alchymista, čaroděj nebo mudrc)        |   2000 st    |
+| Pracovní síla (např. veslař nebo dělník)                     |     2 st     |
+| Běžné řemeslo (např. kovář, tesař nebo zbrojíř)              |    30 st     |
+| Neobvyklé řemeslo (např. Kapitán lodi nebo cvičitel divoké zvěře) |    200 st    |
+| Vzácné řemeslo (např. alchymista, čaroděj nebo mudrc)        |   1000 st    |
 | Nelegální řemeslo (např. pašerák, špión nebo vrah)           | dle zakázky  |
 
 #### Alchymista
@@ -133,22 +133,22 @@ Družníci jsou doprovodné nehráčské postavy, které doprovádí hráčské 
 
 Žoldáci jsou nezávislá vojenské uskupení, jenž si postava může najmout za účelem vykonání určité činnosti. Žoldáci působí pouze jako celek větší vojenské síly. Nikdy se přímo nevydávají na dobrodružství s postavami. Proto se nepočítají vůči limitu společníků postavy.
 
-- **Zaopatření a výbava:** Žoldák pobírá měsíční mzdu dle svého typu (v tabulce níže). Mzda zahrnuje jídlo a základní výbavu žoldáka. Žoldáci přichází do služby s vlastní výbavou
+- **Zaopatření a výbava:** Žoldák pobírá týdenní mzdu dle svého typu (v tabulce níže). Mzda zahrnuje jídlo a základní výbavu žoldáka. Žoldáci přichází do služby s vlastní výbavou
 - **Mzda v době války:** V dobách války jsou žoldáci extra žádaní. Jejich mzda je dvojnásobná.
 - **Jiné rasy:** Žoldáci jiné rasy než lidské požadují o 10 stříbrných vyšší mzdu.
 
-| Žoldák                     | Měsíční mzda |
-| :------------------------- | :----------: |
-| Jízda, lehká               |    60 st     |
-| Jízda, střední             |    70 st     |
-| Jízda, těžká               |    80 st     |
-| Kušník                     |    40 st     |
-| Lučištník                  |    35 st     |
-| Lučištník, dalekonosný luk |    70 st     |
-| Lučištník, jízdní          |    70 st     |
-| Mušketýr                   |    80 st     |
-| Pěšák, lehký               |    20 st     |
-| Pěšák, těžký               |    30 st     |
+| Žoldák                     | Morálka | Týdenní mzda |
+| :------------------------- | :-----: | :----------: |
+| Jízda, lehká               |    9    |    10 st     |
+| Jízda, střední             |    9    |    15 st     |
+| Jízda, těžká               |    9    |    20 st     |
+| Kušník                     |    8    |     4 st     |
+| Lučištník                  |    8    |     5 st     |
+| Lučištník, dalekonosný luk |    8    |    10 st     |
+| Lučištník, jízdní          |    9    |    15 st     |
+| Pěšák, lehký               |    8    |     4 st     |
+| Pěšák, těžký               |    8    |     5 st     |
+| Vesničan                   |    6    |     2 st     |
 
 Žoldáci disponují následující výbavou.
 
@@ -164,6 +164,8 @@ Družníci jsou doprovodné nehráčské postavy, které doprovádí hráčské 
 - **Pěšák:**
     - *Lehký:* Meč, štít, lehká zbroj
     - *Těžký:* Meč, štít, střední zbroj
+- **Vesničan:**
+    - bez speciální výbavy
 
 <img src="/assets/sep_line.png"/>
 
@@ -339,7 +341,7 @@ Postava může strávit týden vyřizováním potřebných povolení a pokud má
 - **Vyčištění oblasti:** Před začátkem větší stavby. Je třeba vyčistit oblast *5-ti kilometrů* v okolí stavby od nestvůr.
 - **Plány:** Hráči navrhnou podobu a rozložení stavby.
 - **Posouzení:** PJ posoudí jejich návrh a stanoví cenu. Stavba ve větších městech je o *50 % levnější*.
-- **Najmutí stavitelů:** Hráči zaplatí cenu stavby a najmou *1 stavitele za každých 1000 zlatých* utracených za stavbu. Stavitel stojí *400 stříbrných / měsíc* (neobvyklé řemeslo, viz. specialisté)
+- **Najmutí stavitelů:** Hráči zaplatí cenu stavby a najmou *1 stavitele za každých 1000 zlatých* utracených za stavbu. Stavitel stojí *200 stříbrných / týden* (neobvyklé řemeslo, viz. specialisté)
 - **Stavba:** Jakmile je oblast vyčištěna a vše je připraveno ke stavbě, stavba může začít. Stavba potrvá *cena stavby ve zlatě / 5* dní. Postavy se nemusí stavby přímo účastnit.
 - **Příprava na osadníky:** Pokud postavy plánují založit panství. Musí od monster vyčistit větší okolní oblast.
 
