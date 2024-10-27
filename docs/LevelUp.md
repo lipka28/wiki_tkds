@@ -18,7 +18,7 @@ Zkušenosti jsou postavám přiděleny na základě aktivit ve hře. Většinou 
 - *2 zk* - získání magického předmětu; dokončení úkolu; obtížný souboj (úroveň skupiny nepřátel > úroveň postav)
 - *3+ zk* - dokončení rozsáhlého úkolu; souboj s velmi silným monstrem (úroveň skupiny nepřátel >>> úroveň postav)
 
-**Dělení zkušeností:** Zkušenosti se nedělí. Každý člen výpravy obdrží plný rozsah získaných zkušeností na kterých se podílel.
+**Dělení zkušeností:** Zkušenosti se nedělí. Každý člen výpravy obdrží plný rozsah získaných zkušeností ze sezeních na kterých se účastnil.
 
 **Extra odměna:** PJ může odměnit specifické hráče extra zkušenostními body, aby odměnil určitá chování při hře. Například zajímavé ztvárnění postavy. 
 
@@ -26,7 +26,9 @@ Zkušenosti jsou postavám přiděleny na základě aktivit ve hře. Většinou 
 
 ### Dosažení nové úrovně 
 
-Když postava získá dostatečné množství zkušeností, aby dosáhla na novou úroveň ve svém povolání.
+Když postava získá dostatečné množství zkušeností, aby dosáhla na novou úroveň ve svém povolání, zvýší se její úroveň. To většinou obnáší minimálně *hod na životy* a *každou sudou úroveň +1 dovedností bod*. 
+
+- **Hod na životy:** Hráč si může vybrat, zda si chce na zvýšení svých životů hodit, nebo si vezme polovinu maxima (např. 1k6 -> 3). Hráč si musí své rozhodnutí dobře rozmyslet, jelikož mu nebudou umožněno si opravit nízký hod.
 
 <img src="/assets/sep_line.png"/>
 

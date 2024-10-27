@@ -6,11 +6,11 @@
 
 <img src="/assets/sep_line.png"/>
 
-Dovednostní body určují, zda má hráčova postava nějaké bonusy či penalizace při vykonávání různých akcí ve hře.  Co jaké dovednosti ovlivňují, je popsáno níže.
+Dovednostní body určují, zda hráčova postava vyniká, nebo je naopak horší v některých aktivitách.
 
 ## Síla
 
-Svaly a fyzická síla. Hlavní využití síly je v boji a při nošení těžkých břemen. Síla poskytuje modifikátor k útoku a poškození zbraněmi nablízku a také modifikuje tvou nosnost. Připočítává se také k záchranným hodům proti síle.
+Svaly a fyzická síla. Hlavní využití síly je při manipulaci s těžkými předměty. Modifikátor síly se přičítá k poškození většiny zbraní.
 
 |  Síla   | Modifikátor |
 | :-----: | :---------: |
@@ -22,9 +22,9 @@ Svaly a fyzická síla. Hlavní využití síly je v boji a při nošení těžk
 | 16 - 17 |     +2      |
 |   18    |     +3      |
 
-## Zručnost
+## Obratnost
 
-Zručnost, reflexy a rovnováha. Modifikátor zručnosti ovlivňuje především schopnosti vyhýbat se útokům (OČ) a zasáhnout útoky na dálku. Do poškození se však nepřičítá. Připočítává se také k záchranným hodům na úhyb.
+Pohyblivost, reflexy a rovnováha. Hodí se na příklad při šplhání nebo přeskakování překážek. Modifikátor obratnosti pak ovlivňuje především schopnost vyhýbat se útokům (OČ).
 
 | Zručnost | Modifikátor |
 | :------: | :---------: |
@@ -36,9 +36,23 @@ Zručnost, reflexy a rovnováha. Modifikátor zručnosti ovlivňuje především
 | 16 - 17  |     +2      |
 |    18    |     +3      |
 
-## Výdrž
+## Zručnost
 
-Výdrž představuje zdraví, odolnost a vytrvalost. Modifikátor výdrže ovlivňuje hlavně zdraví stvoření a také se připočítává k záchranným hodům proti smrti.
+Šikovnost a manipulace se zbraněmi a nástroji. Užitečná obzvlášť při titěrných pracích rukama. Modifikátor zručnosti ovlivňuje především schopnost zasáhnout zbraněmi.
+
+| Zručnost | Modifikátor |
+| :------: | :---------: |
+|    3     |     -3      |
+|  4 - 5   |     -2      |
+|  6 - 8   |     -1      |
+|  9 - 12  |      0      |
+| 13 - 15  |     +1      |
+| 16 - 17  |     +2      |
+|    18    |     +3      |
+
+## Vytrvalost
+
+Vytrvalost představuje zdraví a odolnost. Na vytrvalosti záleží jak při zadržování dechu tak i při boji o holý život. Modifikátor výdrže ovlivňuje hlavně zdraví.
 
 |  Výdrž  | Modifikátor |
 | :-----: | :---------: |
@@ -50,9 +64,9 @@ Výdrž představuje zdraví, odolnost a vytrvalost. Modifikátor výdrže ovliv
 | 16 - 17 |     +2      |
 |   18    |     +3      |
 
-## Rozum
+## Vzdělání
 
-Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnost hráčovy postavy a kolik jazyků ovládá. Modifikátor rozumu se také připočítává k záchranným hodům proti magii.
+Vzdělání představuje rozsah vzdělání, jaké bylo postavě poskytnuto, ale i do jisté míry to, jak zvládá pracovat s informacemi. Vzdělání určuje gramotnost hráčovy postavy a modifikátor Vzdělání za to, kolik jazyků postava ovládá.
 
 |  Rozum  | Modifikátor | Gramotnost |  jazyky   |
 | :-----: | :---------: | :--------: | :-------: |
@@ -68,19 +82,16 @@ Rozum představuje schopnost učit se, paměť a rozum. Rozumu určuje gramotnos
 
 ## Osobnost
 
-Osobnost představuje sílu osobnosti a schopnost vést. Modifikátor osobnosti může ovlivňovat to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě a kolik může postava mít nehráčských společníků. Připočítává se také k záchranným hodům proti ovlivnění mysli a morálce družiníků.
+Osobnost představuje sílu osobnosti a schopnost vést. Osobnost může ovlivňovat to jak na hráčovu postavu budou reagovat ostatní stvoření ve světě a modifikátor osobnosti se připočítává k morálce nehráčských společníků pod vedením postavy.
 
-| Osobnost | Modifikátor | MAx Počet společníků |
-| :------: | :---------: | :------------------: |
-|    3     |     -3      |          1           |
-|  4 - 5   |     -2      |          1           |
-|  6 - 8   |     -1      |          1           |
-|  9 - 12  |      0      |          1           |
-| 13 - 15  |     +1      |          2           |
-| 16 - 17  |     +2      |          3           |
-|    18    |     +3      |          4           |
-
-!!! Note "Společníci"
-    Za společníka může být považován jak placený družník, tak zvíře nebo třeba nějaký démon či jiné stvoření účastnící se dobrodružství s postavou.
+| Osobnost | Modifikátor |
+| :------: | :---------: |
+|    3     |     -3      |
+|  4 - 5   |     -2      |
+|  6 - 8   |     -1      |
+|  9 - 12  |      0      |
+| 13 - 15  |     +1      |
+| 16 - 17  |     +2      |
+|    18    |     +3      |
 
 <img src="/assets/sep_line.png"/>

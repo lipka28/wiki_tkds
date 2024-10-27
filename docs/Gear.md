@@ -6,39 +6,31 @@
 
 <img src="/assets/sep_line.png"/>
 
-## Nosnost
+## Nosnost a skladnost
 
-Nosnost postavy se měří v abstraktní jednotce zvané *Sloty* a drobnější jednotce označované jako *L*.
+Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava v jednu chvíli u sebe. Výbava postavy se umisťuje do tak zvaných *Slotů*. Obecně platí, že *1 předmět zabírá 1 slot* a postava má *10 slotů*. Některé předměty však mohou mít různou *skladnost*, která ovlivňuje jejich manipulaci. Dělí se do následujících kategorií:
 
-- **1 Slot** - Abstraktní jednotka zatížení, pro zjednoduší výpočtů nosnosti postavy. Odpovídá váze přibližně *3 kilogramy* (6 - 7 liber) nebo předmětu, kterým lze efektivně manipulovat jednou rukou.
-- **L** - *1/10 Slotu* - Abstraktní jednotka zatížení pro drobné a lehké předměty.
+- **Normální:** Předmět zabírající *1 slot*.
+- **Lehká:** Předmět zabírající *1 slot*. *3* lehké předměty stejného typu mohou být ve stejném slotu.
+- **Těžká:** Předmět zabírající 1 slot. Způsobuje zatížení.
+- **Těžkopádná:** Předmět se nevejde do slotů, musí být nesen v rukou nebo dokonce několika postavami či povozem. Uděluje podstatné postihy k hybnosti postav, které jej nesou.
+- **Mince:** Speciální případ, do 1 slotu se vejde 100 mincí.
 
-Postava může mít maximálně *10+Modifikátor Síly* slotů vybavených předmětů a maximálně *18+Modifikátor Síly* slotů uschovaných předmětů v inventáři.
+### Zatížení
 
-!!! warning "Přepočet z B/X mincí"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů, často narazíte na pojem *"mince"* jako jednotku váhy. Pro referenci *100 mincí* odpovídá přibližně váze *1 slotu*.
-
-**Lehké předměty:** Předměty, které mají váhu označenou jako *L*, nezabírají žádné místo v inventáři, dokud není součet všech *L* předmětů v inventáři *10*. Tyto předměty se pak počítají jako *1 slot*.
-
-**Vybavené předměty:** Za vybavené předměty jsou považovány ty předměty, které má postava oblečené na sobě nebo je chce mít v boji po ruce. Vybavené předměty lze v boji vzít a použít jako součást *1 běžné akce*. (Například: Tasit meč a zaútočit, nebo vzít si lektvar z opasku a vypít ho)
-
-**Uschované předměty:** Uschované předměty jsou ty, které má dobrodruh v "batohu". Předmět je nutné před použitím z batohu vyndat. Vyndání předmětu trvá *1 dlouhou akci*.
-
-### Mince a nosnost
-
-Každá hráčská postava má měšec s kapacitou *100 mincí* (libovolné hodnoty), který se nezapočítává do celkové nosnosti postavy. Předpokládá se, že měšec je součástí vybavených předmětů postavy. Postava, která si přeje u sebe nosit větší obnos peněz, musí tak udělat na úkor své nosnosti. *100 mincí* zabírá *1 slot* a *10 mincí* zabírá *L* místa v invetnáři.
+Postava je *zatížená* pokud má ve výbavě *těžký předmět* nebo má více jak *10* obsazených slotů. Pj může zatíženým postavám udělit postihy při vykonávání některých aktivit (například šplhání a plavání).
 
 ### Váha běžných pokladů
 
-| TYP POKLADU   | VÁHA |
-| :------------ | :--: |
-| Drahokam      |  L   |
-| 1 kus šperku  |  L   |
-| Lektvar       |  1   |
-| Hůlka / žezlo |  1   |
-| Svitek        |  1   |
-| Kniha         |  1   |
-| Hůl           |  2   |
+| TYP POKLADU   | skladnost |
+| :------------ | :-------: |
+| Drahokam      |   lehká   |
+| 1 kus šperku  |   lehká   |
+| Lektvar       |   lehká   |
+| Hůlka / žezlo | normální  |
+| Svitek        | normální  |
+| Kniha         | normální  |
+| Hůl           | normální  |
 
 <img src="/assets/sep_line.png"/>
 
@@ -49,22 +41,20 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 ### Typy zbrojí:
 
 - **Oblečení** - Plní funkci běžného oblečení. Nevyžaduje trénink.
-- **Lehká** - Flexibilní, lze v ní spát a neomezuje v pohybu. 
-- **Střední** - Omezuje v pohybu, nedá se v ní plížit ani pohodlně spát, *bonus k OČ a záchranným hodům získaný ze zručnosti je poloviční* (zaokrouhleno nahoru). Stvoření ve střední zbroji *nemá vyšší hybnost než 9 metrů*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
-- **Těžká** - Hlučná, omezuje v pohybu, nedá se v ní plížit ani pohodlně spát, *bonus k OČ a záchranným hodům získaný ze zručnosti je negován*. Stvoření v těžké zbroji *nemá vyšší hybnost než 6 metrů*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Lehká** - Flexibilní, lze v ní i spát.
+- **Střední** - Omezuje v pohybu, nedá se v ní plížit ani pohodlně spát. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Těžká** - Hlučná, omezuje v pohybu, nedá se v ní plížit ani pohodlně spát. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
 - **Štít** - Zvyšuje OČ nositele, většinou držen v jedné ruce.
 
-| ZBROJE                     |   TYP    |  OČ  | POTŘEBNÁ SÍLA | Váha  |   CENA   |
-| :------------------------- | :------: | :--: | :-----------: | :---: | :------: |
-| Obyčejné oblečení          | Oblečení |  +0  |       -       | 1 (1) | - (1 st) |
-| Noblesní oblečení          | Oblečení |  +0  |       -       | 1 (1) |  100 st  |
-| Vycpávaná / kožená zbroj   |  Lehká   |  +2  |       -       | 1 (2) |  20 st   |
-| Šupinová / kroužková zbroj | Střední  |  +4  |      10       | 2 (4) |  40 st   |
-| Půl plát s kyrysem         |  Těžká   |  +6  |      12       | 3 (6) |  160 st  |
-| Plná plátová zbroj na míru |  Těžká   |  +8  |      14       | 4 (8) | 1000 st  |
-| Štít                       |   Štít   |  +1  |      10       | 2 (2) |  20 st   |
-
-**Váha:** Váha nošené zbroje (V závorce váha jako uschovaný předmět) .
+| ZBROJE                     |   TYP    |  OČ  | POTŘEBNÁ SÍLA | skladnost |   CENA   |
+| :------------------------- | :------: | :--: | :-----------: | :-------: | :------: |
+| Obyčejné oblečení          | Oblečení |  +0  |       -       | normální  | - (1 st) |
+| Noblesní oblečení          | Oblečení |  +0  |       -       | normální  |  100 st  |
+| Vycpávaná / kožená zbroj   |  Lehká   |  +2  |       -       | normální  |  20 st   |
+| Šupinová / kroužková zbroj | Střední  |  +4  |      10       | normální  |  40 st   |
+| Půl plát s kyrysem         |  Těžká   |  +6  |      12       |   těžká   |  60 st   |
+| Plná plátová zbroj na míru |  Těžká   |  +7  |      14       |   těžká   | 1000 st  |
+| Štít                       |   Štít   |  +1  |      10       |   těžká   |  10 st   |
 
 **OČ:** Bonus k obrannému číslu. 
 
@@ -74,14 +64,14 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 
 ## Zbraně
 
-Zbraně se dělí do 2 základních kategorií. Zbraně na blízku a zbraně na dálku. Zbraně na blízku umožňují boj s nepřáteli vzdálených ne více než 1 metr a zbraně na dálku umožňují zasáhnou nepřátele ve vzdálenosti 2 metry a více. Tyto 2 kategorie jsou dále děleny dle velikosti a u zbraní na dálku také dle dostřelu.
+Zbraně se dělí do 2 základních kategorií. Zbraně na blízku a zbraně na dálku. Zbraně na blízku umožňují boj s nepřáteli vzdálených ne více než 1 metr a zbraně na dálku umožňují zasáhnou nepřátele ve vzdálenosti 2 metry a více. Tyto 2 kategorie jsou dále děleny na jednoruční a obouruční zbraně.
 
 ### Velikost
 
 - **Malá** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou či střední zbraní.
-- **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou zbraní. Některé střední zbraně na blízku lze také použít *jako obouruční* s *vyšší kostkou poškození* a bonusem *+1* k poškození. V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
-- **Velká** -  Nejničivější typ zbraní. Tyto zbraně jsou vždy obouruční a jejich verze na blízku mají bonus *+1* k poškození. Použití v malých prostorech může způsobovat postihy nebo nemusí být vůbec možné.
-- **Dlouhá** - Tato kategorie se týká pouze zbraní na blízku. Tyto zbraně jsou jako velké zbraně obouruční a poskytují bonus *+1* k poškození. Dlouhé zbraně umožňují zasáhnout nepřítele útokem na blízku až na *2 metry* i když v cestě stojí spojenci.
+- **Střední** - Tyto zbraně jsou jednoruční a lze je tedy kombinovat se štítem nebo jinou malou zbraní. V případě střelných zbraní, jsou tyto zbraně vždy obouruční.
+- **Velká** -  Tyto zbraně jsou vždy obouruční. Použití v malých prostorech může způsobovat postihy nebo nemusí být vůbec možné.
+- **Dlouhá** - Tato kategorie se týká pouze zbraní na blízku. Tyto zbraně jsou jako velké zbraně obouruční a umožňují zasáhnout nepřítele útokem na blízku až na *2 metry*.
 
 Tyto kategorie mohou být například důležité v situacích kdy záleží na prioritě zásahu. Třeba když na sebe útočí 2 jedinci ve stejnou chvíli (například díky připravenému útoku). Celkové pořadí priority při vzájemném útoku je: *neozbrojený / malá* < *střední* < *velká* < *dlouhá* < *hozená* < *střelná* 
 
@@ -90,41 +80,38 @@ Tyto kategorie mohou být například důležité v situacích kdy záleží na 
 
 ### Dostřel
 
-**Hozené zbraně:** Zbraní, u které to dává smysl, lze hodit do efektivní vzdálenosti dané sílou postavy a neefektivní vzdálenosti dané dvojnásobkem síly postavy. K poškození se navíc pak připočítává i modifikátor síly.
+**Hozené zbraně:** Zbraní, u které to dává smysl, lze hodit do efektivní vzdálenosti dané sílou postavy a neefektivní vzdálenosti dané dvojnásobkem síly postavy.
 
 **Neefektivní dostřel:** S většinou střelných a hozených zbraní lze útočit i na takzvaně neefektivní dostřel. Ten je vždy dvojnásobkem efektivního dostřelu. Takový útok však probíhá *s postihem -4* na zásah.
 
-**Nabíjecí zbraně:** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebíjení stojí buď *běžnou akci* a nebo *všechen pohyb v daném kole*. Nabíjecí zbraně mívají bonus *+1* k poškození.
+**Nabíjecí zbraně:** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebíjení stojí buď *běžnou akci* a nebo *všechen pohyb v daném kole*.
 
 ### Základní zbraně
 
-Základní zbraně jsou takové zbraně, které nevyžadují speciální trénink pro efektivní používání v boji. Ze základní výbavy mezi tyto zbraně patří *hůl* a *palice*.
+Základní zbraně jsou takové zbraně, které nevyžadují speciální trénink pro efektivní používání v boji. Ze základní výbavy mezi tyto zbraně patří *hůl*, *palice* a *prak*.
 
 ### Zbraně na blízku
 
-| Název zbraně    | Typ zbraně | Poškození | Váha | Cena  |
-| :-------------- | :--------: | :-------: | :--: | :---: |
-| Bič             |    Malá    |    1k2    |  1   | 5 st  |
-| Bojová hůl      |  Střední   |   1k6+1   |  2   | 10 st |
-| Cep             |  Střední   |    1k6    |  2   | 15 st |
-| Dlouhý meč      |  Střední   | 1k6/1k8+1 |  2   | 25 st |
-| Halapartna      |   Dlouhá   |   1k8+1   |  3   | 20 st |
-| Hůl             |  Střední   |   1k4+1   |  2   | 1 st  |
-| Kopí            |   Dlouhá   |   1k8+1   |  3   | 12 st |
-| Krátké kopí     |  Střední   | 1k4/1k6+1 |  2   | 2 st  |
-| Krátký meč      |    Malá    |    1k6    |  1   | 15 st |
-| Nůž             |    Malá    |    1k4    |  1   | 3 st  |
-| Obouruční meč   |   Velká    |  1k10+1   |  3   | 50 st |
-| Obušek          |    Malá    |    1k2    |  1   | 5 st  |
-| Palcát          |  Střední   | 1k6/1k8+1 |  2   | 15 st |
-| Palice          |    Malá    |    1k4    |  1   | 1 st  |
-| Sekyra          |  Střední   | 1k6/1k8+1 |  2   | 12 st |
-| Sekyrka         |    Malá    |    1k4    |  1   | 4 st  |
-| Síť             |  Střední   |     0     |  2   | 5 st  |
-| Stříbrný nůž    |    Malá    |    1k4    |  1   | 30 st |
-| Škrtící drát    |    Malá    |    1k4    |  1   | 1 st  |
-| Válečná sekera  |   Velká    |  1k10+1   |  3   | 40 st |
-| Válečné kladivo |   Velká    |  1k10+1   |  3   | 50 st |
+| Název zbraně    | Typ zbraně | Poškození | Skladnost | Cena  |
+| :-------------- | :--------: | :-------: | :-------: | :---: |
+| Bič             |  střední   |    1k2    | normální  | 10 st |
+| Halapartna      |   dlouhá   |    1k8    |   těžká   | 7 st  |
+| Hůl             |   velká    |    1k4    | normální  | 2 st  |
+| Kopí            |   dlouhá   |    1k6    | normální  | 4 st  |
+| Krátký meč      |    malá    |    1k6    | normální  | 7 st  |
+| Nůž             |    malá    |    1k4    |   lehká   | 3 st  |
+| Meč             |  střední   |    1k8    | normální  | 10 st |
+| Obouruční meč   |   velká    |   1k10    |   těžká   | 15 st |
+| Obušek          |    malá    |    1k2    | normální  | 1 st  |
+| Oštěp           |  střední   |    1k4    | normální  | 1 st  |
+| Palcát          |  střední   |    1k6    | normální  | 5 st  |
+| Palice          |    malá    |    1k4    | normální  | 3 st  |
+| Sekyra          |  střední   |    1k6    | normální  | 4 st  |
+| Síť             |  střední   |     0     | normální  | 5 st  |
+| Stříbrný nůž    |    malá    |    1k4    |   lehká   | 30 st |
+| Škrtící drát    |    malá    |    1k4    | normální  | 1 st  |
+| Válečná sekera  |   velká    |    1k8    |   těžká   | 7 st  |
+| Válečné kladivo |   velká    |    1k8    |   těžká   | 5 st  |
 
 #### Popisky a speciální efekty zbraní na blízku:
 
@@ -132,12 +119,6 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 	Pro všechny speciální efekty popsané níže je předpokládaným nepřítelem stvoření podobné člověku. Pokud je zbraň použita proti jinému nepříteli nemusí být speciální efekt aplikovatelný.
 
 **Bič:** 3 metry dlouhý nástroj z pletené kůže. Využíván především ke krocení zvěře. Jeho poškození nejsou ani tak ničivá, avšak velmi bolestivá. Touhle zbraní nelze zabít. *Speciální:* Pokud je zbraní zasaženo zvíře netrénované pro boj, musí podstoupit ověření morálky.
-
-**Bojová hůl:** Dřevěná pokovovaná hůl dlouhá asi 1,5 metru. Používaná ve spoustě bojových umění.
-
-**Cep:** Kovová koule (někdy i ostnatá) připevněná za pomocí krátkého řetězu k rukojeti. *Speciální:* Zbraň ignoruje *1 OČ*  ze soupeřova štítu.
-
-**Dlouhý meč:** Vyvážený meč s dlouhou čepelí. Vhodný jak pro jednoruční tak obouruční použití.
 
 **Halapartna:** Sekera a bodec v jednom na dlouhé tyči. Vynikající pro udržování si odstupu od nepřátel.
 
@@ -151,6 +132,8 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 **Nůž:** Nenápadné dobře uchopitelné malé ostří. Vhodná jako záložní zraň, když není nic lepšího po ruce. *Speciální:* Lze hodit (jen na efektivní vzdálenost).
 
+**Meč:** Vyvážený meč s dlouhou čepelí. Vhodný jak pro jednoruční tak obouruční použití.
+
 **Obouruční meč:** Masivní meč, jehož hlavní výhodou oproti jiným těžkým zbraním je jeho verzatilní využití. *Speciální:* Kritický zásah obouručním mečem shodí nepřítele na zem.
 
 **Obušek:** Kožený obušek plněný pískem nebo s olověným jádrem. Vhodný na nenápadné omráčení nepřátel. *Speciální:* Cíl překvapený zásahem zezadu musí podstoupit záchranný hod proti síle nebo být omráčen na *1k6 směn*.
@@ -160,8 +143,6 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 **Palice:** Kus lehce rozšířeného klacku, někdy s pokovovaným koncem. *Speciální:* Zbraň nevyžaduje trénink. Kdokoliv ji může použít.
 
 **Sekyra:** Středně velká sekyra s jednostrannou nebo oboustrannou hlavou. Vhodné jak pro jednoruční tak obouruční použití. *Speciální:* Lze hodit jednoručně (jen na efektivní vzdálenost) i obouručně.
-
-**Sekyrka:** Malá příruční sekyrka. Vhodná především na házení. *Speciální:* Lze hodit.
 
 **Síť:** Síť se zátěží určená k zamotání do nepřítele a znemožnění mu pohybu. Nepůsobí žádné poškození. Cíl zasažen sítí musí každé kolo podstoupit záchranný hod proti síle jinak se nemůže hýbat. Úspěch znamená, že se dotyčný ze sítě dostal.
 
@@ -175,17 +156,15 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 ### Střelné zbraně
 
-| Název zbraně    | Typ zbraně | Dostřel | Poškození | Váha | Cena  |
-| --------------- | :--------: | :-----: | :-------: | :--: | :---: |
-| Bola            |    Malá    | Hozený  |     0     |  1   | 3 st  |
-| Dalekonosný luk |   Velká    | 60/240  |    1k8    |  3   | 40 st |
-| Flusačka        |    Malá    |   15    |     0     |  1   | 5 st  |
-| Kuše            |  Střední   |  30/60  |   1k6+1   |  2   | 40 st |
-| Luk             |  Střední   |  30/60  |    1k6    |  2   | 20 st |
-| Prak            |    Malá    |  30/60  |    1k2    |  1   | 2 st  |
-| Příruční kuše   |    Malá    |  15/30  |   1k4+1   |  1   | 20 st |
-| Těžká kuše      |   Velká    | 60/120  |   1k8+1   |  3   | 60 st |
-| Vrhací nůž      |    Malá    | Hozený  |    1k4    |  L   | 5 st  |
+| Název zbraně    | Typ zbraně | Dostřel | Poškození | Skladnost | Cena  |
+| --------------- | :--------: | :-----: | :-------: | :-------: | :---: |
+| Bola            |  střední   | Hozený  |     0     | normální  | 5 st  |
+| Dalekonosný luk |   velká    | 60/240  |    1k6    | normální  | 40 st |
+| Flusačka        |  střední   |   10    |     0     | normální  | 3 st  |
+| Krátký luk      |  střední   |  30/60  |    1k6    | normální  | 25 st |
+| Kuše            |  střední   |  30/60  |    1k6    | normální  | 30 st |
+| Prak            |  střední   |  15/30  |    1k2    | normální  | 2 st  |
+| Příruční kuše   |    malá    |  15/30  |    1k4    | normální  | 20 st |
 
 #### Popisky a speciální efekty střelných zbraní:
 
@@ -206,22 +185,18 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 **Příruční kuše:** Menší varianta kuše, která se dá lépe schovat.
 
-**Těžká kuše:** Velká a těžší varianta klasické kuše, která dokáže přesně vrhat šipky na obrovské vzdálenosti s ničivou silou. *Speciální:* bonus *+1* k zásahu. Kritický zásah těžkou kuší shodí nepřítele na zem.
-
-**Vrhací nůž:** Lehčí varianta nože, která je specificky určená na házení. Pro boj zblízka je nepoužitelný. Lze hodit jen na efektivní vzdálenost.
-
 ### Munice
 
-| Název munice                           | Váha |      Cena       |
-| -------------------------------------- | :--: | :-------------: |
-| Kámen do praku (1)                     |  L   |     Zdarma      |
-| Postříbřený šíp / šipka                |  L   |      5 st       |
-| Šíp "Kladivoun"                        |  L   |    2 md / ks    |
-| Šíp s lankem                           |  1   |    5 st / ks    |
-| Šipky do flusačky (Pytlík 10-ti šipek) |  1   | 1 st (1 md/ks)  |
-| Šipky do kuše (Pouzdro 20-ti šipek)    |  1   | 10 st (5 md/ks) |
-| Šípy (Toulec 20-ti šípů)               |  1   | 4 st (2 md/ks)  |
-| Zápalný šíp                            |  1   |    5 md / ks    |
+| Název munice                           | Skladnost |      Cena       |
+| -------------------------------------- | :-------: | :-------------: |
+| Kámen do praku (1)                     |     L     |     Zdarma      |
+| Postříbřený šíp / šipka                |     L     |      5 st       |
+| Šíp "Kladivoun"                        |     L     |    2 md / ks    |
+| Šíp s lankem                           |     1     |    5 st / ks    |
+| Šipky do flusačky (Pytlík 10-ti šipek) |     1     | 1 st (1 md/ks)  |
+| Šipky do kuše (Pouzdro 20-ti šipek)    |     1     | 10 st (5 md/ks) |
+| Šípy (Toulec 20-ti šípů)               |     1     | 4 st (2 md/ks)  |
+| Zápalný šíp                            |     1     |    5 md / ks    |
 
 #### Speciální efekty munice:
 
@@ -243,7 +218,7 @@ Základní zbraně jsou takové zbraně, které nevyžadují speciální trénin
 
 Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě postavy. Ceny a dostupnost předmětů, během hry samotné se mohou výrazně lišit.
 
-| PŘEDMĚT                                                  |      VÁHA      | CENA  |
+| PŘEDMĚT                                                  |   Skladnost    | CENA  |
 | :------------------------------------------------------- | :------------: | :---: |
 | Dalekohled                                               |       1        | 20 st |
 | Dřevěný kabinet na lektvary                              |       2        | 50 st |

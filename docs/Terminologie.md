@@ -12,7 +12,7 @@
 
 **Hráčova Postava (PC):** Je hráčova reprezentace v imaginárním kolektivním světě. Tahle postava má své statistiky, schopnosti a výbavu, které může aplikovat na řešení problémů ve světě. Hráčova postava není nutně hrdinou příběhu. Nýbrž jen další proměnou, která má dopad na fungování společného světa.
 
-**Deník Postavy:** Je libovolný list papíru, sešit či elektronický záznam, ve kterém jsou zapsány všechny údaje a statistiky hráčovy postavy. Pokud chcete deník postavy pro specificky tuhle verzi pravidel, můžete jej najít [zde](https://www.tkds.cz/). 
+**Deník Postavy:** Je libovolný list papíru, sešit či elektronický záznam, ve kterém jsou zapsány všechny údaje a statistiky hráčovy postavy. Pokud chcete deník postavy pro specificky tuhle verzi pravidel, můžete jej najít [zde](https://www.tkds.cz/). ==TODO: New Link==
 
 **Cizí Postavy (NPC):** Jsou všechny ostatní postavy, které jsou ovládány pánem jeskyně a se kterými se mohou setkat a interagovat.
 
@@ -38,19 +38,17 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Modifikátory:** Někdy může být třeba přičíst k hozeným kostkám nějaký bonus, nebo odečíst postih. Tyto modifikátory se připojují znaménkem *+* nebo *-* za hodnotu kostky. Například *3k6+2* znamená:  Sečti výsledek hodu tří šesti-stranných kostek a přičti 2.
 
-**Výhoda a Nevýhoda:** Pokud hráč hází s výhodou, znamená to že může hodit dvakrát a nechat si přívětivější výsledek. Pokud hráč hází s nevýhodou, ze dvou hodů si nechá ten horší. Pokud má hráč z nějakého důvodu výhodu a nevýhodu najednou, efekty se vzájemně vyruší. Více instancí výhody či nevýhody se jinak nesčítají.
+**Výhoda a Nevýhoda:** Pokud hráč hází s výhodou, znamená to že může hodit dvakrát a nechat si přívětivější výsledek. Pokud hráč hází s nevýhodou, ze dvou hodů si nechá ten horší. Pokud má hráč z nějakého důvodu výhodu a nevýhodu najednou, efekty se vzájemně vyruší. Více výhod či nevýhod se jinak nesčítá.
 
 **Procentní hody:** Někdy může být třeba vyhodnotit akci s procentuální šancí na úspěch. K tomu slouží procentní hod, značen jako *k%* nebo *k100*. Takový hod se hází za pomocí *2k10*, kdy si hráč předem určí, která kostka představuje desítky a která jednotky. Ve výsledném hodu pak dvě nuly reprezentují *100*. Pokud je výsledek na kostce nižší nebo stejný jako je stanovená šance, tak je hod úspěšný.
 
 **Hod s hranicí úspěchu X (HU)**: Je jedním z běžných způsobů vyhodnocení akcí, se kterým se setkáte. Hráč musí hodit *X* nebo *více* na *k6*. Případně jiné uvedené kostce.
 
-**X ze Y**: Je často používán u aktivit, ve kterých rozhoduje spíš náhoda než schopnosti hráčovy postavy. Na kostce je třeba hodit *X* nebo *méně* kostkou *Y*. Například *2 z 6-ti*.
+**X ze Y**: Je často používán u aktivit, ve kterých rozhoduje spíš náhoda než schopnosti hráčovy postavy. Na kostce je třeba hodit *X* nebo *méně* kostkou *Y*. Například *2 z 6-ti*. Pokud je hod zapsán touto notací na místo HU. Ve většině případů to znamená, že má kostku házet PJ.
 
-**Tajný hod (TH)**: Je druh hodu, který hází DM a hráč nevidí přímý výsledek hodu kostky. Tajný hod se používá například při prozkoumávání oblastí, kdy hráč neví, jestli nic nenašel, protože v dané oblasti nic není nebo proto, že výsledek ověřovacího hodu byl špatný.
+**Tajný hod (TH)**: Je druh hodu, který hází PJ a hráč nevidí přímý výsledek hodu kostky. Tajný hod se používá například při prozkoumávání oblastí, kdy hráč neví, jestli nic nenašel, protože v dané oblasti nic není nebo proto, že výsledek ověřovacího hodu byl špatný.
 
 **Zaokrouhlování:** pokud není stanoveno jinak, tak se dělené hodnoty zaokrouhlují vždy dolů.
-
-**Kostky použití:** 
 
 <img src="/assets/sep_line.png"/>
 
@@ -60,7 +58,7 @@ Vysvětlivky speciálních jednotek používaných při hře.
 
 ### Váha
 
-K měření váhy se používají standardní jednotky metrického systému (gramy, kilogramy, tuny atd..) Lze se však čistě z herního hlediska setkat s dalšími dvěma jednotkami a to *Sloty* a *L* (Více o těchto jednotkách [zde](/Gear/#nosnost)).
+K měření váhy se používají standardní jednotky metrického systému (gramy, kilogramy, tuny atd..) Lze se však čistě z herního hlediska setkat s pojmem *Slot*. Více o vahách a nosnostech zde. ==TODO: Odkaz==
 
 ### Vzdálenost
 
@@ -92,17 +90,17 @@ Peníze jsou základním platidlem a odměnou za dobře odvedenou práci. Peníz
 Hra používá takzvaný stříbrný standard. To znamená, že stříbrné mince jsou nejběžnějším platidlem a také, že naprostá většina cen v těchto pravidlech je uvedená ve stříbře.
 
 !!! warning "Přepočet bohatství"
-	Rozhodnete-li se čerpat dobrodružství z jiných OSR či B/X D&D materiálů. Bude získávání pokladu, tak jak psáno v takových předlohách, poskytovat postavám více zkušeností než je vhodné.  Poklad je třeba překonvertovat z často používaného zlatého standardu na ten stříbrný. Konverze je jednoduchá. Původní hodnota *měděných se zahodí*, *zlato* a *stříbro* se konvertuje *1:1 o stupeň dolů* (zl -> st, st -> md) a případné *platinové mince* se překonvertují na zlaté *vydělením 10-ti*.
+	Rozhodnete-li se čerpat dobrodružství z jiných OSR či B/X D&D materiálů. Bude získávání pokladu, tak jak psáno v takových předlohách, poskytovat postavám více bohatství než je vhodné.  Poklad je třeba překonvertovat z často používaného zlatého standardu na ten stříbrný. Konverze je jednoduchá. Původní hodnota *měděných se zahodí*, *zlato* a *stříbro* se konvertuje *1:1 o stupeň dolů* (zl -> st, st -> md) a případné *platinové mince* se překonvertují na zlaté *vydělením 10-ti*.
 
 <img src="/assets/sep_line.png"/>
 
 ## Herní statistiky
 
-Hráčské postavy jsou popsány souborem statistik, které definují jejich schopnosti, síly a slabosti. Vysvětlivky k těmto statistikám najdete níže.
+Hráčské postavy jsou popsány souborem statistik, které definují jejich schopnosti a silné a slabé stránky. Vysvětlivky k těmto statistikám najdete níže.
 
 ### Dovednosti
 
-Základní fyzické a psychické dovednosti jsou popsány následujícími pěti statistikami.  *Síla*, *Zručnost*, *Výdrž*, *Rozum* a *Osobnost*. V těchto statistikách je hráčova postava ohodnocena na stupnici 3 až 18 , kdy 3 je nejhorší a 18 nejlepší. Více o tom, co jaká dovednost ovlivňuje, najdete [zde](/Dovednosti).
+Každá hráčská postava je popsáná šesti základními fyzickými a mentálními parametry. Těmi jsou: *Síla*, *Obratnost*, *Zručnost*, *Vytrvalost*, *Vzdělání* a *Osobnost*. V těchto statistikách je hráčova postava ohodnocena na stupnici 3 až 18 , kdy 3 je nejhorší a 18 nejlepší. Více o tom, co jaká dovednost ovlivňuje, najdete [zde](/Dovednosti).
 
 ### Rasa
 Hráčská postava může být buď člověk nebo některá z ostatních hráčům dostupných ras. různé rasy mají různé speciální schopnosti a volba rasy také může ovlivnit, jak na vás budou ostatní stvoření ve světě reagovat. To však záleží především na PJ, jeho světě a příběhu, který chce vyprávět.
@@ -116,7 +114,7 @@ Každá hráčská postava má své povolání dobrodruha, která ji uděluje sa
 Úroveň představuje zkušenost postavy jako dobrodruha. Hráč většinou začíná na úrovni 1 a může svou úroveň zvýšit získáváním zkušeností.
 
 !!! warning "Hit dice"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem *hit dice*. Hit dice je vesměs totéž, co úroveň a často se na základě ní určují životy ale i třeba velikost monster. Pro účely výpočtu životů se tedy předpokládá, že *1 hit dice (HD)* reprezentuje jeden hod *k8*. Například pro určení životů monstra z *3+2 HD* se hází *3k8+2*.
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem *hit dice*. Hit dice je vesměs totéž, co úroveň a často se na základě ní určují životy ale i třeba velikost monster. Pro účely výpočtu životů se tedy předpokládá, že *1 hit dice (HD)* reprezentuje jeden hod *k8*. Například pro určení životů monstra s *3+2 HD* se hází *3k8+2*.
 
 ### Zkušenostní body (XP)
 Postup postavy ve hře je reprezentován kumulací zkušenostních bodů. Když hráčova postava získá dostatek zkušenostních bodů, postoupí na další úroveň. Počet potřebných zkušenostních bodů k dosažení nové úrovně a způsoby získávání zkušeností naleznete popsané [zde](/LevelUp).
@@ -132,13 +130,13 @@ Určuje schopnost postavy vyhnout se nebo vykrýt útok. Obranné číslo je mod
 !!! warning "Přepočet descending AC"
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na AC (OČ), které se s vylepšováním snižuje na místo zvyšování. Pro přepočet na OČ *odečtěte* hodnotu psanou v materiálu *od 19-ti*. Například zbroj poskytující *5 DAC* přepočítáte na OČ následovně: *19 - 5 = 14 OČ*.
 
-### Záchranný hod
+### Záchranné hody
 
-Určuje schopnost postavy vyhnout se některým nebezpečným či dokonce smrtelným efektům. Více o záchranných hodech [zde](/Pravidla a procedury/Adventures/#zachranne-hody)
+Určují schopnost postavy vyhnout se některým nebezpečným či dokonce smrtelným efektům. Více o záchranných hodech [zde](/Pravidla a procedury/Adventures/#zachranne-hody)
 
 ### Modifikátor zásahu
 
-Určuje schopnost postavy zasáhnout nepřítele v boji. Výše tohoto modifikátoru je určena převážné specializacemi postavy a její úrovní. Přičítá se však i modifikátor síly (pro útok na blízku) nebo zručnosti (pro útok na dálku).
+Určuje schopnost postavy zasáhnout nepřítele v boji. Výše tohoto modifikátoru je určena převážné specializacemi postavy a její úrovní. Mohou na něj však mít vliv i některé dovednosti.
 
 !!! warning "Přepočet THAC0"
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem THAC0 (To Hit AC 0), který se s vylepšováním snižuje namísto zvyšování. Pro přepočet THAC0 na modifikátor zásahu *odečtete* hodnotu psanou v materiálu *od 19-ti*. Například útok s *THAC0 10* přepočítáte na ToHit následovně: *19 - 10 = +9 ToHit*.
@@ -151,7 +149,7 @@ Hybnost představuje základní rychlost, s jakou se postava zvládá pohybovat 
 
 ### Gramotnost a jazyky
 
-Gramotnost a počet jazyků, které se postava může naučit. Je dán rozumem postavy.
+Gramotnost a počet jazyků, které se postava může naučit. Je dána především vzděláním postavy.
 
 ### Schopnosti
 Jsou sadou výjimečných schopností, které postava získá na základě volby rasy a povolání nebo na základě voleb, které učiní při hře samotné.
