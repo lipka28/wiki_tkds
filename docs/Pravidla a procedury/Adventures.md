@@ -1,4 +1,4 @@
-# Pravidla dobrodružství ==zkontroluj všechny pravděpodobnosti u procedur==
+# Pravidla dobrodružství
 
 <img src="/assets/sep_line.png"/>
 
@@ -30,13 +30,21 @@ Pro některé skupiny může být zajímavé nebo dokonce nutné, rozdělit ve s
 
 Během hry mohou nastat situace, kdy výsledek nějaké situace není úplně jednoznačný. Nejasné situace by měl PJ řešit první vyhovující metodou z následujícího seznamu:
 
-- **Herní procedura** - Situace, která má jasně popsanou proceduru v pravidlech, by měla být vyhodnocena dle dané procedury. Příkladem takových procedur může být boj, sesílání kouzel nebo třeba používání schopností postav.
-- **Popis akce** - Hráč důkladně popíše jak by danou aktivitu prováděl a jaký výsledek z ní očekává. PJ vyhodnotí zda je to reálné a případně umožní hráči akci vykonat bez nutnosti nějakého hodu. Při vyhodnocování by měl PJ vzít v potaz především hráčovu specializaci a jeho ostatní vlastnosti.
-- **Ověřovací hody** - Pokud PJ usoudí, že je akce možná ale nikoliv bez rizika. Může po hráči chtít jeden z ověřovacích hodů. Základními ověřovacími hody jsou *hod na zásah*, *ověření specializace*, *ověření dovednosti*, *záchranný hod* nebo *přímý hod*. Více o nich dále.
-- **Zakázat akci** - Pj má samozřejmě právo akci zakázat pokud mu přijde nesmyslná.
+- **Řešení herní procedurou** - Situace, která má jasně popsanou proceduru v pravidlech, by měla být vyhodnocena dle dané procedury. Příkladem takových procedur může být boj, sesílání kouzel nebo třeba používání schopností postav.
+- **Řešení popisem** - Hráč důkladně popíše jak by danou aktivitu prováděl a jaký výsledek z ní očekává. PJ vyhodnotí zda je to reálné a případně umožní hráči akci vykonat bez nutnosti nějakého hodu. Při vyhodnocování by měl PJ vzít v potaz především hráčovu specializaci a jeho ostatní vlastnosti.
+- **Řešení ověřovacím hodem** - Pokud PJ usoudí, že je akce možná ale nikoliv bez rizika. Může po hráči chtít jeden z ověřovacích hodů. Základními ověřovacími hody jsou *hod na zásah*, *ověření specializace*, *ověření dovednosti*, *záchranný hod* nebo *přímý hod*. Více o nich dále.
+- **Zamítnutí** - Pj má samozřejmě právo akci zakázat pokud mu přijde nesmyslná.
 
-!!! note "Záklaní kompetence"
-    Je dobré myslet na to, že hráčské postavy jsou především dobrodruzi ve své specializaci. Měli by tedy zvládat základní věci, jako například nerušený šplh po laně nebo jízda na koni, bez zbytečných ověřovacích hodů. Případně by jim měli být umožněny ověřovací hody na aktivity, které sice vylívají s jejich povolání, ale nejsou nikde popsány.   
+### Základní kompetence dobrodruha
+
+Při řešení nejasných situací je dobré, aby PJ měl na paměti to, že hráčské postavy jsou především dobrodruzi. I z toho nejkřehčího mága se potýkáním z nástrahami kobek a divočiny stal schopný dobrodruh. S tím se pojí schopnosti provádět určité akce bez nutnosti ověřovacích hodů. Základními kompetencemi jsou:
+
+- **Kempování:** Nalezení vhodného místa, postavení stanů, zakládání táboráků a příprava jídla.
+- **Jízda na koních:** Aktivity spojené se základním obstarávání koní a ježdění na nich.
+- **Cestování:** Odhadování vzdáleností, efektivní balení výbavy, plánování cesty a orientace v terénu.
+- **Používání lana:** Šplhání, házení a běžné uzly.
+- **Plavání:** Šlapání vody a plavání na krátké vzdálenosti.
+- **Odhadování ceny:** Odhad ceny pokladů, obrazů a jiných cenností.
 
 ### Ověřovací hody
 
@@ -187,22 +195,9 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 
 <img src="/assets/sep_line.png"/>
 
-## Přenocování v divočině ==rework==
+## Přenocování v divočině 
 
-Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i dobrý plán a hlavně zásoby. Dobrodružné výpravy totiž málo kdy trvají jen 1 den. Při přenocování v divočině je potřeba podstoupit následující kroky.
-
-1. Pokus o utáboření
-2. Vyhodnocení 
-3. Přičtení únavy či odečet zásob
-
-**Pokus o utáboření:** Při pokusu o utáboření musí postavy obstarat 3 základní potřeby k přežití: *jídlo, vodu a útočiště*. To udělají tak, že kolektivně hodí *3k6*. Kde každá k6 představuje jednu z těchto potřeb. 
-
-- *Kouzla:* Některé kouzla mohou úplně nahradit potřebu pro některý hod. V těchto případech může PJ hod prominout.  
-- *Hlídka a náhodná setkání:* Při táboření může v průběhu noci dojít k náhodným setkáním. Také se automaticky předpokládá, že se postavy střídají na hlídce.
-
-**Vyhodnocení:** Výsledek *4 nebo více* na *k6* je považován za úspěšné obstarání dané potřeby. V opačném případě se jedná o neúspěch.
-
-**Přičtení únavy či odečet zásob:** Za každou neúspěšně opatřenou potřebu si pak hráči mohou vybrat. Buď utrpí 1 bod únavy a nebo spotřebují 1 zásobu. (Viz zásoby v kapitole *Výbava*)
+Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i dobrý plán a hlavně zásoby. Dobrodružné výpravy totiž málo kdy trvají jen 1 den. Pro úspěšné přenocování potřebuje postava *cestovní výbavu* a *1 den zásob*. Jakékoliv následky za nesplnění těchto podmínek jsou v režii PJ.
 
 **Přenocování v kobce:** Ve většině případů není možné, protože by postavy byly celou noc rušeny putujícími monstry. Může však existovat výjimka v podobě dobře ukrytého a zabezpečeného místa uvnitř kobky, kde se dá nerušeně přenocovat.
 
@@ -290,32 +285,30 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 <img src="/assets/sep_line.png"/>
 
-## Náhlá setkání ==todo spojit iniciativu a překvapení do jednoho k12 hodu==
+## Náhlá setkání
 
 | POSTUP PŘI NÁHODNÉM SETKÁNÍ                                  |
 | :----------------------------------------------------------- |
-| *1. Překvapení:* PJ Hodí na překvapení (pokud aplikovatelné) |
+| *1. Iniciativa:* PJ nebo hráč hodí na iniciativu (pokud aplikovatelné) |
 | *2. Vzdálenost setkání:* PJ rozhodne jak daleko jsou od sebe hráči a monstrum |
-| *3. Iniciativa:* Každá strana, která není překvapena, hodí *1k10*. (remíza jde ve prospěch hráčů) |
-| *4. Akce:* Každá strana, která není překvapená se rozhodne jak bude na setkání reagovat a setkání se odehraje |
-| *5. Závěr:* Uběhne 1 kolo                                    |
+| *3. Akce:* Každá strana, která není překvapená se rozhodne jak bude na setkání reagovat a setkání se odehraje |
+| *4. Závěr:* Uběhne 1 kolo                                    |
 
-==TODO: spojit hod na překvapení a na iniciativu pod jeden d10 hod== 
+**Hod na iniciativu a překvapení:** Pokud to není jasné ze vzniklé situace PJ si může vyžádat hod na iniciativu. Ten probíhá tak, že hráč nebo PJ hodí *1k12* a vyhodnotí výsledek:
 
-**Hod na překvapení:** Pokud to není jasné ze vzniklé situace PJ si může vyžádat hod na překvapení. Ten probíhá tak, že obě strany hodí *1k6*. Výsledek *1* nebo *2* znamená, že daná strana je překvapená. (Výsledky mohou být také ovlivněny schopnostmi postav či monster nebo situačními modifikátory.) 
+- *Výsledek 7 a výš:* Hráči jsou na řadě první. Pokud na kostce padlo *11* nebo *12* nepřítel je překvapen a vynechá své první kolo.
+- *Výsledek 6 a méně:* Nepřátelé jsou na řadě první. Pokud na kostce padlo 1 nebo 2 hráči jsou překvapeni a vynechají své první kolo.
+- *Výjimky z překvapení:* Překvapení není vždy aplikovatelné, například pokud protistrany vědí o své přítomnosti před začátkem setkání.
+- *Plížení v iniciativě:* Někdy se mohou hráči chtít proplížit kolem nepřátel. Jejich postavy zůstanou ukryty každé kolo, co vyhrají iniciativu.
 
-- *Jen jedna ze stran je překvapená* - Pokud je jen některá ze stran překvapená tak překvapená strana 1 kolo vynechá.
-- *Obě strany jsou překvapené* - Pokud jsou obě strany překvapené dojde jen k chvilkovému zaváhání na obou stranách a žádná strana nemá výhodu. 
+!!! Warning "Iniciativa neznamená vždycky boj"
+    Iniciativa při náhodných setkání neznamená boj. Pouze určení pořadí všech účastníků setkání.
+    
 
 **Vzdálenost setkání:** Situace při které k setkání dojde většinou určuje vzdálenost mezi účastníky. Pokud však není na první pohled jasné jak jsou účastníci daleko od sebe, je možné určit vzdálenost náhodným hodem dle místa setkání:
 
 - *Vnitřní prostory:* *2k6 x 3* metrů (nebo *1k4 x 3* metrů pokud je některá ze stran překvapená).
 - *Divočina, moře nebo vzduch:* *4k6 x 10* metrů (nebo *1k4 x 10* metrů pokud je některá ze stran překvapená).
-
-**Iniciativa:** Hoď *1k10* Za každou účastnící se stranu. 
-
-- *Vítěz:* Strana s nejvyšším hodem je na tahu jako první, ostatní jsou na řadě v pořadí od nejvyššího hodu po nejnižší.  
-- *Remíza:* Remíza jde ve prospěch hráčů. 
 
 **Akce** **Hráčů:** Hráči si rozhodnou co chtějí dělat 
 

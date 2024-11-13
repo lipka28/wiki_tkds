@@ -36,6 +36,9 @@
     - **Dostupnost zboží** - Všechno včetně výzbroje. Výbava dobrodruha za *trojnásobné ceny* oproti cenám při tvorbě postavy. Se správnými známostmi lze sehnat i zajímavější zboží.
     - **Dostupnost řemeslníků a služeb** - Dostupný je jakýkoliv druh řemeslníků a služeb i těch nejpodivnějších. K těm nejlepším je však třeba se dostat přes známosti
 
+!!! note "Zásoby"
+    Až na výjimky zásoby by měli být hráčům vždy dostupné za základní cenu.
+
 <img src="/assets/sep_line.png"/>
 
 ## Služby a základní aktivity

@@ -39,18 +39,18 @@ Nejčastěji se dobrodruhy stávají mladí trpaslíci, kteří chtějí dosáhn
 
 ## Vlastnosti
 
+**Dovednosti:** *Síla*, *Výdrž* a *1 libovolný dovednostní bod*
+
 **Vrozené jazyky:** Trpasličtina + Jazyk společenství
 
-**Hybnost:** 9 metrů 
+**Hybnost:** 8 metrů
 
 **Doba přirozeného dožití:** 200 - 250 let
 
 ## Speciální vlastnosti
 
 - **Vidění ve tmě** - Trpaslíci vidí ve tmě na vzdálenost *12 metrů*. Více informací o této schopnosti [zde](/Pravidla%20a%20procedury/Adventures/#nebezpeci-a-nastrahy).
-- **Šestý smysl** - Trpaslíci dokáží přibližně odhadnout v jaké výšce, vůči mořské hladině, se nachází.
-- **Tuhý kořínek** - Při tvorbě postavy hážeš na životy *2+1k8+Mod. Výdrže* na místo běžných 2+1k6+Mod. Výdrže.
+- **Šestý smysl** - Trpaslíci dokáží přibližně odhadnout v jaké výšce, vůči mořské hladině, se nachází, rozeznají cenné kovy a poznají pravost drahokamů. Navíc dokáží vycítit(čuchem) cenné kovy až na vzdálenost 6 metrů.
 - **Nižší těžiště** - Trpaslíci nemohou používat *obouruční meče* a *dalekonosné luky*.
-- **Klanové tetování** - Trpaslíci, kteří náleží k nějakému klanu, disponují klanovým tetováním.
 
 <img src="/assets/sep_line.png"/>

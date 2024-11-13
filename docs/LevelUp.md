@@ -32,7 +32,7 @@ Zkušenosti jsou postavám přiděleny na základě aktivit ve hře. Většinou 
 Když postava získá dostatečné množství zkušeností, aby dosáhla na novou úroveň ve svém povolání, zvýší se její úroveň. To většinou obnáší minimálně *hod na životy* a někdy i extra *dovednostní bod*.
 
 - **Hod na životy:** Hráč si může vybrat, zda si chce na zvýšení svých životů hodit, nebo si vezme polovinu maxima (např. 1k6 -> 3). Hráč si musí své rozhodnutí dobře rozmyslet, jelikož mu nebudou umožněno si opravit nízký hod.
-- **Dovednostní bod:** Počínaje *3.* úrovní a následně každou druhou úroveň obdrží postava *1 dovednostní bod*.
+- **Dovednostní bod:** Každou *3.* úroveň obdrží postava *1 dovednostní bod*.
 
 <img src="/assets/sep_line.png"/>
 

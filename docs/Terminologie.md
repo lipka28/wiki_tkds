@@ -18,6 +18,18 @@
 
 <img src="/assets/sep_line.png"/>
 
+## Hlavní herní smyčka
+
+Ať už je vaše dobrodružství založeno na prozkoumání kobek, rozplétání politických intrik ve velkém městském státě a nebo chcete prozkoumávat hloubky vesmíru. Hra se vždy řídí následující herní smyčkou.
+
+1. **Popis:** PJ popíše situaci ve které se hráčské postavy nachází. Prostředí, smyslové vjemy, objekty, monstra a jiné zajímavosti.
+2. **Doptávání:** Hráči se doptají PJ na nejasnosti, aby mohli udělat dobře informované rozhodnutí.
+3. **Akce:** Když hráči usoudí, že mají všechny potřebné informace. Vžijí se do svých postav a rozhodnou se jak budou jejich postavy v nastíněné situaci reagovat a co budou dělat.
+4. **Rozhodnutí PJ:** Na základě popisů od hráčů se PJ rozhodne jak bude jejich akce vyhodnocovat. Jaká pravidla jsou aplikovatelná a zda bude třeba házet kostkami.
+5. **Rozřešení:** Akce postav jsou rozřešeny, pokud je třeba kostky jsou vrženy. PJ popíše následky těchto akci a co se děje dál. Zpět na krok 1. 
+
+<img src="/assets/sep_line.png"/>
+
 ## Kostky
 
 Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně tvarovaných kostek. Tyto kostky používají následující notaci:

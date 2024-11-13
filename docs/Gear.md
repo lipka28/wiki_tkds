@@ -186,11 +186,8 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 
 **Příruční kuše:** Menší varianta kuše, která se dá lépe schovat. 
 
-- *SP:* Záporný modifikátor rozvahy se nepřičítá k hodu na zásah příruční kuší.
-
-**Síť:** Síť se zátěží určená k zamotání do cíle a znemožnění mu účastnit se boje. 
-
-- *SP:* Cíl zasažen sítí musí uspět v záchranném hodu proti trikům jinak je chycen. Chycenému stvoření trvá *1k4+1 kol*, než se osvobodí nebo *1 kolo*, pokud síť někdo rozsekne.
+- *SP1:* Záporný modifikátor rozvahy se nepřičítá k hodu na zásah příruční kuší.
+- *SP2:* S příruční kuší lze střílet i na vzdálenost menší jak *2* metry.
 
 <img src="/assets/sep_line.png"/>
 
@@ -298,9 +295,9 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 - *Malá:* Kapacita *2 sloty*. (Jako pytel lze nést v jedné ruce)
 - *Velká:* Kapacita 4 slotů. (Jako pytel potřeba nést v obou rukách)
 
-**Spacák:** Nutný pro přenocování v divočině nebo v kobkách. Nepřítomnost spacáku automaticky způsobuje *1 bod únavy* nezávisle na úspěchu přenocování v divočině.
+**Síť:** Síť se zátěží určená k zamotání do cíle a znemožnění mu účastnit se boje. Síť lze hodit až na vzdálenost 3 metry. Cíl musí uspět v *záchranném hodu proti trikům* jinak je chycen.
 
-**Stan:** Nutný pro přenocování ve špatných povětrnostních podmínkách. Nepřítomnost stanu automaticky způsobuje ve špatných podmínkách *1 bod únavy* nezávisle na úspěchu přenocování v divočině. V extrémně špatném počasí může znamenat i další postihy.
+- *Chycené stvoření:* Chycenému stvoření trvá *1k4+1 kol*, než se osvobodí nebo *1 kolo* pokud mu někdo pomůže.
 
 **Symbol církve / patrona:** Náboženský symbol většinou ve formě přívěšku.
 
