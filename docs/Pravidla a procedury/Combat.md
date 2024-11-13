@@ -19,17 +19,15 @@
 !!! note "Příklad: Zvraty v boji"
     Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
 
-**Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést buď *dlouhou akci* a nebo *pohyb* a *běžnou akci*. Hráč může také své kolo prokládat *volnými akcemi*. Jednotlivé akce fungují následovně.:
+**Odehrání tahu:** ==todo modifikovat znění akcí== Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést buď *dlouhou akci* a nebo *pohyb* a *běžnou akci*. Hráč může také své kolo prokládat *volnými akcemi*. Jednotlivé akce fungují následovně.:
 
-- *Dlouhá akce:* Za dlouhé akce se považují takové akce, které zabírají celé kolo. Například vybavení uschovaného předmětu. Vyhodnocení dlouhých akcí probíhá až na konci tahu dané strany.
-- *Pohyb:* Stvoření, které není ve *vzájemném ohrožení* s jiným stvořením a nebo neprovádí dlouhou akci, se může pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně.
 - *Běžná akce:* Za běžnou akci je považován například útok, výměna zbraní a nebo použití vybaveného předmětu.
+- *Rychlá akce:* Některé postavy disponují schopnostmi, které se dají použít jako rychlá akce. Tyto speciální akce se dají použít kdykoliv během kola a to i včetně tahu soupeře. Jejich použití je však omezeno na *1x za kolo*.
+- *Pohyb:* Stvoření, které není ve *vzájemném ohrožení* s jiným stvořením a nebo neprovádí dlouhou akci, se může pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně.
 - *Volné akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
 
 !!! note "Pohyb na čtvercové síti"
     Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*. Na hexagonové síti není třeba tento rozdíl řešit.
-
-**Vyhodnocení dlouhých akcí:** V této fázi se vyhodnotí a dokončí všechny dlouhé akce.
 
 **Konec trvajících efektů:** Efekty, kterými jsou ovlivněni členové dané skupiny, ukončí své trvání. Pokud tyto efekty mají delší trvání jak 1 kolo, zkrátí se jejich doba trvání o 1 kolo. Působí-li takový efekt poškození (například někdo hoří nebo plave v kyselině), poškození je uděleno v této fázi.
 
@@ -37,23 +35,11 @@
 
 ### Časté bojové situace
 
-**Vzájemné ohrožení:** Stvoření, které provedlo nebo na které byl proveden útok na blízku (i když neúspěšný). Je s daným stvořením ve vzájemném ohrožení. Pro všechna stvoření ve vzájemném ohrožení platí následující omezení:
-
-- *Útoky na dálku* - Mají šanci *3 z 6-ti* že automaticky minou.
-- *Používání nebo manipulace s předměty* - Mají šanci *3 z 6-ti* že se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
-- *Čarování kouzel* - Má šanci *3 z 6-ti* že se kouzlo nepovedlo seslat a je ztraceno.
-- *Strategický pohyb* - Stvoření se může pohnout polovinou své maximální hybnosti. Pokud je pohybující se stvoření na konci svého tahu mimo dosah ohrožení. Stav vzájemného ohrožení je zrušen.
-- *Útěk* - Stvoření se vzdá své akce a může se pohybovat svou plnou rychlostí.
-
 **Sprint:** Stvoření, které není ve vzájemném ohrožení s jiným stvořením, může v daném kole obětovat svou běžnou akci a tím se pohybovat až dvojnásobkem své hybnosti.
 
 **Dosah útoků:** Dosah útoku je dán velikostí a typem zbraně.
 
 **Cíl v úkrytu:** Cíle co jsou kompletně schované v úkrytu není možné trefit střelnou zbraní. Cíle co jsou v částečném úkrytu mohou mít bonus do OČ, proti střelným zbraním, v rozsahu +1 až +4 dle uvážení. (malý stůl může být +1, zatímco hustý les může být +4)
-
-**Střelba do šarvátky:** Pokusí-li se stvoření o útok na dálku proti nepříteli, které je v vzájemném ohrožení s jiným stvořením. Je útok na zásah modifikován postihem *-2*. Neplatí u výrazně větších cílů.
-
-
 
 <img src="/assets/sep_line.png"/>
 
@@ -88,12 +74,12 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 <img src="/assets/sep_line.png"/>
 
-## Útok obecně
+## Útok obecně ==todo Gear typy poškození==
 
 | HODY NA ÚTOK                                                 |
 | :----------------------------------------------------------- |
 | *1. Hoď 1k20*                                                |
-| *2. Připočti modifikátory:* Bonus k útoku. Modifikátor síly při boji zblízka a zručnosti při boji na dálku. Nezapomeň také na krytí. Monstra mají modifikátory útoku ve svém stat-bloku. |
+| *2. Připočti modifikátory:* Bonus k útoku. Sílu při boji zblízka a rozvahu při boji na dálku. Nezapomeň také na krytí. Monstra mají modifikátory útoku ve svém stat-bloku. |
 | *3. Stanov OČ:* Postavy i monstra mají OČ napsané ve svém stat-bloku. |
 | *4. Výsledek:* Pokud je výsledek útoku stejný nebo vyšší než OČ cíle útok byl úspěšný, můžeš házet na poškození. |
 
@@ -108,15 +94,9 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 !!! note "Minimální poškození"
     Úspěšný zásah vždy udělí aspoň 1 poškození. (Pokud cíl není imunní)
 
-**Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. 
+**Typy poškození:** ==todo převzít damage types z PF2== Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. 
 
-!!! note "Příklad: Ohnivý elementál"
-    Ohnivému elementálovi, by zásah ohnivou koulí asi nic moc neudělal. Avšak smetením vodním proudem by mělo devastující účinky. 
-
-**Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna:
-
-- Jinými nezranitelnými monstry
-- Monstry 5. a vyšší úrovně.
+**Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna jinými nezranitelnými monstry.
 
 **Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny.
 
@@ -127,24 +107,19 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 ## Ostatní bojové situace
 
-**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných z povolání, způsobené poškození je poloviční (vyjímaje kritických zásahů).
+**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných z povolání, způsobené poškození je poloviční (vyjímaje kritických zásahů) a většina speciálních schopností zbraní není aplikovatelná.
 
 **Netrénované zbroje a štíty:** Poskytují jen poloviční bonus do OČ.
 
-**Neozbrojený boj:** Má vždy poškození *1k2+modifikátor síly*.
-
-**Boj dvěma zbraněmi:** Pokud postava používá 2 zbraně. Musí si při útoku vybrat, kterou útočí. Jsou-li obě zbraně na blízku a postava je s oběma trénovaná, získává bonus *+1 do zásahu a poškození*.
-
-**Bojové manévry:** Hráči se mohou chtít pokusit o neobvyklé způsoby boje, jako je hození písku do očí, shození na zem, zasáhnout šípem specifickou část těla a podobně. Vyhodnocení těchto "manévrů" je plně v režiji PJ a většinou se řeší dle kontextu daného situace a manévru. V případě monster jsou manévry často součástí krytických útoků.
+**Neozbrojený boj:** Uděluje *1k2+Síla* poškození. Na rozdíl od útoků zbraněmi. Neozbrojené útoky mohou udělit *0* poškození. Neozbrojené útoky běžně nejsou smrtelné.
 
 **Shození na zem:** Je-li stvoření shozeno na zem platí následující pravidla:
 
 - Všechny útoky na blízku proti shozenému stvoření probíhají s výhodou. 
-- Pokud se shozené stvoření pokusí útočit střední nebo větší zbraní, tak jeho útoky probíhají s nevýhodou. 
-- Kdokoliv se může volně vyvázat ze vzájemného ohrožení se shozeným stvořením. 
-- *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole. Postihy za shození na zem však platí až do konce tahu daného stvoření.
+- Pokud se shozené stvoření pokusí útočit větší jak jednoruční zbraní, tak jeho útoky probíhají s nevýhodou. 
+- *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole.
 
-**Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit si běžnou akci na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. 
+**Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *rychlou akci*.
 
 !!! Note "Připravené akce a pohyb"
     Postava se může hýbat jak během tahu co akci připraví, tak během samotného použití připravené akce. Dohromady se však nemůže pohnout o víc než je hybnost dané postavy.
@@ -156,12 +131,12 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 **Coup de grâce:** Bezmocní nepřátelé. Jako například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
 
-**Přemožení:** Postava nebo inteligentní monstrum si může u svého smrtícího útoku vybrat, zda chce svůj cíl zabít nebo jen zneškodnit. Zneškodněný cíl je poražen ale ne zabit. Jak se poražení projevuje je na domluvě mezi hráčem a PJ. 
+**Přemožení:** Postava si může u svého smrtícího útoku vybrat, zda chce svůj cíl zabít nebo jen zneškodnit. Zneškodněný cíl je poražen ale ne zabit. Jak se poražení projevuje je na domluvě mezi hráčem a PJ.
 
 **Nestabilní povrchy:** Pokud postavy bojují na nestabilním povrchu, jako jsou lodě na rozbouřeném moři nebo třeba když letí na hřbetu jiného stvoření. Tak jsou ovlivněni následujícími omezeními:
 
 - *Útoky na dálku:* Probíhají s nevýhodou.
-- *Kouzla*: Sesílání selže s pravděpodobností *3 z 6-ti*.
+- *Kouzla*: Sesílání selže s pravděpodobností *3 z 6-ti* ==todo zkontrolovat pravděpodobnost==.
 - *Předměty*: Mohou být používány normálně.
 
 !!! note "Magické létání"

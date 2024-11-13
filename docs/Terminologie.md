@@ -42,11 +42,13 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Procentní hody:** Někdy může být třeba vyhodnotit akci s procentuální šancí na úspěch. K tomu slouží procentní hod, značen jako *k%* nebo *k100*. Takový hod se hází za pomocí *2k10*, kdy si hráč předem určí, která kostka představuje desítky a která jednotky. Ve výsledném hodu pak dvě nuly reprezentují *100*. Pokud je výsledek na kostce nižší nebo stejný jako je stanovená šance, tak je hod úspěšný.
 
-**Hod s hranicí úspěchu X (HU)**: Je jedním z běžných způsobů vyhodnocení akcí, se kterým se setkáte. Hráč musí hodit *X* nebo *více* na *k6*. Případně jiné uvedené kostce.
+**Hod s hranicí úspěchu X (HU)**: Je jedním z běžných způsobů vyhodnocení akcí, se kterým se setkáte. Hráč musí hodit *X* nebo *více* na *k12*. Případně jiné uvedené kostce.
 
-**X ze Y**: Je často používán u aktivit, ve kterých rozhoduje spíš náhoda než schopnosti hráčovy postavy. Na kostce je třeba hodit *X* nebo *méně* kostkou *Y*. Například *2 z 6-ti*. Pokud je hod zapsán touto notací na místo HU. Ve většině případů to znamená, že má kostku házet PJ.
+**X ze Y**: Je často používán u aktivit, ve kterých rozhoduje spíš náhoda než schopnosti hráčovy postavy. Na kostce je třeba hodit *X* nebo *méně* kostkou *Y*. Například *2 z 6-ti*. Pokud je hod zapsán touto notací na místo HU. Pokud je hod popsán touhle notací znamená to, že kostku hází PJ.
 
-**Tajný hod (TH)**: Je druh hodu, který hází PJ a hráč nevidí přímý výsledek hodu kostky. Tajný hod se používá například při prozkoumávání oblastí, kdy hráč neví, jestli nic nenašel, protože v dané oblasti nic není nebo proto, že výsledek ověřovacího hodu byl špatný.
+**Přímý hod:** Je nemodifikovaný hod kostkou proti určité HU. Vhodný například pro vyřešení čistě náhodných situací.
+
+**Tajný hod (TH)**: Je druh hodu, který hází DM a hráč  nevidí přímý výsledek hodu kostky. Tajný hod se používá například při  prozkoumávání oblastí, kdy hráč neví, jestli nic nenašel, protože v dané oblasti nic není nebo proto, že výsledek ověřovacího hodu byl špatný.
 
 **Zaokrouhlování:** pokud není stanoveno jinak, tak se dělené hodnoty zaokrouhlují vždy dolů.
 
@@ -98,23 +100,23 @@ Hra používá takzvaný stříbrný standard. To znamená, že stříbrné minc
 
 Hráčské postavy jsou popsány souborem statistik, které definují jejich schopnosti a silné a slabé stránky. Vysvětlivky k těmto statistikám najdete níže.
 
-### Dovednosti
+### Dovednosti 
 
-Každá hráčská postava je popsáná šesti základními fyzickými a mentálními parametry. Těmi jsou: *Síla*, *Obratnost*, *Zručnost*, *Vytrvalost*, *Vzdělání* a *Osobnost*. V těchto statistikách je hráčova postava ohodnocena na stupnici 3 až 18 , kdy 3 je nejhorší a 18 nejlepší. Více o tom, co jaká dovednost ovlivňuje, najdete [zde](/Dovednosti).
+Každá hráčská postava je popsáná šesti základními fyzickými a mentálními parametry. Těmi jsou: *Síla*, *Obratnost*, *Výdrž*, *Vzdělání*, *Rozvaha* a *Osobnost*. V těchto statistikách je hráčova postava ohodnocena na stupnici -3 až 3. Více o tom, co jaká dovednost ovlivňuje, najdete [zde](/Dovednosti).
 
 ### Rasa
 Hráčská postava může být buď člověk nebo některá z ostatních hráčům dostupných ras. různé rasy mají různé speciální schopnosti a volba rasy také může ovlivnit, jak na vás budou ostatní stvoření ve světě reagovat. To však záleží především na PJ, jeho světě a příběhu, který chce vyprávět.
 
-### Povolání
+### Specializace
 
-Každá hráčská postava má své povolání dobrodruha, která ji uděluje sadu schopností, které může používat. 
+Každá hráčská postava má svou specializaci dobrodruha, která ji uděluje sadu schopností, které může aplikovat na řešení problémů. 
 
 ### Úroveň
 
 Úroveň představuje zkušenost postavy jako dobrodruha. Hráč většinou začíná na úrovni 1 a může svou úroveň zvýšit získáváním zkušeností.
 
 !!! warning "Hit dice"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem *hit dice*. Hit dice je vesměs totéž, co úroveň a často se na základě ní určují životy ale i třeba velikost monster. Pro účely výpočtu životů se tedy předpokládá, že *1 hit dice (HD)* reprezentuje jeden hod *k8*. Například pro určení životů monstra s *3+2 HD* se hází *3k8+2*.
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem *hit dice*. Hit dice je vesměs totéž, co úroveň a často se na základě ní určují životy ale i třeba velikost monster. Pro účely konverze životů na tento systém. Lze předpokládat, že *1 hit dice (HD)* reprezentuje jeden hod buď dle povolání, *k8* pokud nemá povolání a pro nehumanoidní monstra pak *k12*. Například pro určení životů nehumanodního monstra s *3+2 HD* se hází *3k12+2*.
 
 ### Zkušenostní body (XP)
 Postup postavy ve hře je reprezentován kumulací zkušenostních bodů. Když hráčova postava získá dostatek zkušenostních bodů, postoupí na další úroveň. Počet potřebných zkušenostních bodů k dosažení nové úrovně a způsoby získávání zkušeností naleznete popsané [zde](/LevelUp).
@@ -141,7 +143,16 @@ Určuje schopnost postavy zasáhnout nepřítele v boji. Výše tohoto modifiká
 !!! warning "Přepočet THAC0"
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem THAC0 (To Hit AC 0), který se s vylepšováním snižuje namísto zvyšování. Pro přepočet THAC0 na modifikátor zásahu *odečtete* hodnotu psanou v materiálu *od 19-ti*. Například útok s *THAC0 10* přepočítáte na ToHit následovně: *19 - 10 = +9 ToHit*.
 
+### Body hrdinství (BH)
+
+==todo domyslet usecase== 
+
+- 1 na začátku hry, získávají se postupně za dobrý RP (taky s +1 xp),  lze mít maximálně 3
+- Využití 1 reroll
+- Všechny zpátky k životu s +1 vyčerpání.
+
 ### Hybnost
+
 Hybnost představuje základní rychlost, s jakou se postava zvládá pohybovat za 1 kolo. Při cestování na velké vzdálenosti (například putování divočinou) je počet kilometrů, které může postava v přívětivých podmínkách ujít za den, trojnásobkem této hybnosti. 
 
 !!! note "Příklad: Putování mezi městy"

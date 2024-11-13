@@ -1,4 +1,4 @@
-# Mezi dobrodružstvími
+# Mezi dobrodružstvími ==zkontrolovat hody a pravděpodobnosti==
 
 <img src="/assets/sep_line.png"/>
 

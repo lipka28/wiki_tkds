@@ -1,4 +1,4 @@
-# Pravidla dobrodružství
+# Pravidla dobrodružství ==zkontroluj všechny pravděpodobnosti u procedur==
 
 <img src="/assets/sep_line.png"/>
 
@@ -19,73 +19,66 @@ Pro některé skupiny může být zajímavé nebo dokonce nutné, rozdělit ve s
 - **Kartograf** - Pokud PJ neposkytne hráčům mapu oblasti nebo kobky ve které se nachází. Je dobrý nápad, aby jeden z hráčů kreslil vlastní mapu prozkoumaných oblastí. Skupina se pak může lépe orientovat a také identifikovat neprozkoumané oblasti.
 - **Vůdce** - V obzvlášť velkých skupinách je dobré zvolit vůdce skupiny. Který funguje jako takový most mezi hráči a PJ. Vůdce na základě diskuze se skupinou vyhodnotí co budou hráči jako skupina dělat a pak předá tyto informace PJ. Ten pak už jen vyhodnotí aktivity, které mu sděli vůdce.
 - **Zapisovatel** - Podobná role jako kartograf. Hráč zaznamenává zajímavé události během hry, aby si tímto záznamem mohli hráči v budoucnu připomenout co se vlastně ve hře dělo. 
-- **Zásobovač (Světlonoš)** - V neposlední řadě je dobré mít ve skupině někoho, kdo kontroluje stav zásob, má na starosti pochodně a společnou výbavu skupiny. Případně i nájemnou sílu.
+- **Zásobovač (nosič pochodní)** - V neposlední řadě je dobré mít ve skupině někoho, kdo kontroluje stav zásob, má na starosti pochodně a společnou výbavu skupiny. Případně i nájemnou sílu.
 
 !!! Note "Extra zkušenostní body"
     Hráči, kteří iniciativně přímou tyto úlohy, mohou být odměněni extra zkušenostními body nebo si vyloudit od svých spoluhráčů větší podíl pokladu. 
 
 <img src="/assets/sep_line.png"/>
 
-## Ověření dovednosti (Ability check)
+## Řešení nejasných situací
 
-Během hry mohou nastat situace, kdy výsledek nějaké situace není úplně jednoznačný. Nejasné situace může PJ řešit tím, že požádá hráče o hod na ověření dovednosti. Hod probíhá následovně: Hráč hodí *1k6* a přičte relevantní modifikátory, které lze na takovou aktivitu aplikovat. Například modifikátor relevantní dovednosti.  
+Během hry mohou nastat situace, kdy výsledek nějaké situace není úplně jednoznačný. Nejasné situace by měl PJ řešit první vyhovující metodou z následujícího seznamu:
 
-- *Větší rovno 4:* Pokud je výsledek větší nebo roven *4 (Hranice úspěchu - HU)*, tak je hod úspěšný. 
-- *Nižší než 4:* V případě nižších výsledků se jedná o neúspěch. 
-- *NAT 1 a NAT 6:* V případě přirozené *1* se vždy jedná o neúspěch  a v případě přirozených *6* se vždy jedná o úspěch.  
-- *Bonusy a postihy:* PJ může také na takový hod uvalit výhodu, nevýhodu nebo jiné bonusy čí postihy, dle dané situace.
-- *Obtížnosti:* Obtížnost *4* je vhodná pro libovlné běžné situace s prvkem náhody. PJ však může usoudit, že je aktivita o kterou se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *5* a *6* pro těžkou a velmi těžkou aktivitu a *3* a *2* pro lehkou a velmi lehkou aktivitu. 
-
-### Modifikátory
-
-Na rozdíl od hodu 20 stěnou kostkou, kde se situační modifikátory pohybují v rozmezí *-4* až *+4*, tak v případě ověření dovednosti (a schopnosti) by měl být situační modifikátor maximálně v rozmezí *-2* až *+2*. V obou případech se však dá použít mechanika výhody a nevýhody. Nebo kombinace obou mechanik.
-
-!!! tip "Rada pro PJ: S ověřením dovednosti to nepřehánět."
-    Přílišné spoléhání na ověření dovedností může mít neblahý efekt na průběh a zábavnost hry. Pokud se většina situací ve hře dá zredukovat na řešení za pomocí hodu kostkou můžete se rychle začít nudit. Hráči by měli být motivováni interagovat ze světem a hledat řešení v něm. To se ze strany PJ dá podpořit například tím, že pokud hráči přijdou s rozumným proveditelným plánem, jak vyřešit situaci. PJ by měl nechat plán proběhnout bez zbytečných hodů kostkou.
+- **Herní procedura** - Situace, která má jasně popsanou proceduru v pravidlech, by měla být vyhodnocena dle dané procedury. Příkladem takových procedur může být boj, sesílání kouzel nebo třeba používání schopností postav.
+- **Popis akce** - Hráč důkladně popíše jak by danou aktivitu prováděl a jaký výsledek z ní očekává. PJ vyhodnotí zda je to reálné a případně umožní hráči akci vykonat bez nutnosti nějakého hodu. Při vyhodnocování by měl PJ vzít v potaz především hráčovu specializaci a jeho ostatní vlastnosti.
+- **Ověřovací hody** - Pokud PJ usoudí, že je akce možná ale nikoliv bez rizika. Může po hráči chtít jeden z ověřovacích hodů. Základními ověřovacími hody jsou *hod na zásah*, *ověření specializace*, *ověření dovednosti*, *záchranný hod* nebo *přímý hod*. Více o nich dále.
+- **Zakázat akci** - Pj má samozřejmě právo akci zakázat pokud mu přijde nesmyslná.
 
 !!! note "Záklaní kompetence"
-    Je dobré myslet na to, že hráčské postavy jsou především dobrodruzi ve svém povolání. Měli by tedy zvládat základní věci, jako například nerušený šplh po laně nebo jízda na koni, bez zbytečných ověřovacích hodů. Případně by jim měli být umožněny ověřovací hody na aktivity, které sice vylívají s jejich povolání, ale nejsou nikde popsány.   
+    Je dobré myslet na to, že hráčské postavy jsou především dobrodruzi ve své specializaci. Měli by tedy zvládat základní věci, jako například nerušený šplh po laně nebo jízda na koni, bez zbytečných ověřovacích hodů. Případně by jim měli být umožněny ověřovací hody na aktivity, které sice vylívají s jejich povolání, ale nejsou nikde popsány.   
+
+### Ověřovací hody
+
+Zjednodušeně řečeno, ověřovací hod je hod kostkou proti nějaké cílové hodnotě. V této hře jsou to většinou kostky *k20* a *k12*. *K20* se používá na vše co by mohlo potencionálně ovlivnit zdraví postavy. Jako jsou *hody na zásah* (o nich více v kapitole ==todo link==) či *záchranné hody*. *K12* se pak používá na všechny ostatní ověřovací hody, jako jsou *hod na ověření dovednosti* či *hod na ověření specializace*.
+
+#### Ověření dovednosti
+
+Ověření dovednosti probíhá jako hod modifikovaný dovedností postavy. Hráč si hodí *1k12* a přičte dovednost, kterou ověřuje.
+
+- *Větší rovno 7:* Pokud je výsledek větší nebo roven *7 (Hranice úspěchu - HU)*, tak je hod úspěšný. V opačném případě se jedná o neúspěch.
+- *Přirozená 1 a přirozených 12:* Pokud na kostce padne *1* hod je neúspěšný nezávisle na modifikátorech či hranici úspěchu. Naopak pokud na kostce padne *12* je hod vždy úspěšný.
+- *Bonusy a postihy:* PJ může také na takový hod uvalit výhodu, nevýhodu nebo jiné bonusy čí postihy, dle dané situace.
+- *Modifikace obtížnosti:* Obtížnost *7* je vhodná pro libovlné běžné  situace s prvkem náhody. PJ však může usoudit, že je aktivita o kterou  se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *9* a *11* pro těžkou a velmi těžkou aktivitu a *5* pro lehkou. 
+
+#### Ověření specializace
+
+Je varianta ověření dovednosti, která však není modifikována žádnou dovedností a její HU není stanovena od PJ ale pevně dána specializací postavy (označováno jako *hranice úspěchu specializace*). Často je používána k vyhodnocování speciálních akcí, specifických pro danou specializaci (například zloděj odemykající dveře či, mág studující magické runy).
+
+- *Ověření:* Hráč si hodí *1k12* a musí hodit stejně nebo více jako jeho poznačená *HU specializace*, aby v akci uspěl.
+- *Přirozená 1 a přirozených 12:* Pokud na kostce padne *1* hod je neúspěšný nezávisle na modifikátorech či hranici úspěchu. Naopak pokud na kostce padne *12* je hod vždy úspěšný.
+- *Bonusy a postihy:* PJ může také na takový hod uvalit výhodu, nevýhodu nebo jiné bonusy čí postihy, dle dané situace. Často se používá rozdíl úrovní postavy a stvoření, které má být cílem akce.
+
+#### Přímý hod
+
+Pokud jde v prováděné akci čistě o náhodu. PJ může stanovit pevnou pravděpodobnost (hodnota na libovolné kostce), kterou musí hráč přehodit a tím situaci vyřešit.
 
 <img src="/assets/sep_line.png"/>
 
-## Ověření schopnosti (Skill check)
+## Záchranné hod
 
-Ověření schopnosti funguje ve směs stejně jako ověření dovednosti. S tím rozdílem, že nejsou vázána na žádnou dovednost a hranice úspěchu není 4, ale je stanovena zdrojem schopnosti (třeba úrovní povolání). U spousty schopností taktéž není možné předpokládat základní kompetence u postav, které nejsou v daném oboru trénované. Takové postavy se o danou akci většinou nemohou pokusit nebo mají vážné postihy na její provedení.
+Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli plnému efektu kouzel, pastí a jiných škodlivých efektů. Jelikož jde při záchranných hodech většinou o život hází se za pomocí *k20*.
 
-### Základní schopnosti
+**Typ záchranných hodů:** Každá postava má jednu univerzální hodnotu, která funguje jako hranice úspěchu záchranného hodu. Hod samotný je pak modifikován dovednostmi a specializací postavy v závislosti na efektu, který na postavu působí. Možné kategorie jsou následující:
 
-Všichni dobrodruzi disponují 3-mi základními schopnostmi. Výchozí HU pro tyto schopnosti je *6*. Tyto schopnosti jsou:
-
-- *Plížení* -  Postavy se mohou nenápadně proplížit kolem skupiny nepřátel.
-    - **Překvapení:** Na rozdíl od ostatních základních schopností, je úspěch určen hodem na překvapení. (viz. [Hod na překvapení v Náhlých setkání](/Pravidla%20a%20procedury/Adventures/#nahla-setkani)). 
-    - **Efekt úspěchu:** Pokud jsou nepřátelé překvapeni. Znamená to, že se postavy mohou bez problému proplížit okolo. (Pokud to rozložení terénu umožňuje) Tento hod je třeba opakovat každé kolo co se postavy plíží kolem nepřátel.
-- *Průzkum* -  Během průzkumu postavy prohledají specifickou oblast.
-    - **Vnitřní průzkum:** Postava důkladně prozkoumá 3 metry čtverečné prostoru během 1 směny.
-        - *Vnitřní průzkum popisem:* Odhalil by hráčův popsaný postup průzkumu skrytý subjekt v dané oblasti? Průzkum je automaticky úspěšný i bez hodu na ověření.
-    - **Venkovní průzkum:** Postavy prozkoumají oblast v okruhu 6 kilometrů (většinou představuje 1 hex) v rámci 1 dne.
-    - **Tajný hod:** Na tuhle schopnost háže PJ potají, aby hráč neviděl výsledek hodu.
-    - **Efekt úspěchu:** Hráči objeví jeden z ukrytých prvků v dané oblasti.
-- *Přežití* - Během cestování se mohou postavy pokusit o sběr plodů, lov malých zvířat a opatření jiných zásob. Tato aktivita nijak neovlivní rychlost pohybu a umožní cestující skupině najít nějaké ty zásoby.
-    - **Efekt úspěchu:** Skupina najde *1k6 čerstvých zásob* (Čerstvé zásoby musí být spotřebovány ten den kdy jsou obstarány, jinak se zkazí).
-
-<img src="/assets/sep_line.png"/>
-
-## Záchranné hody
-
-Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli plnému efektu kouzel, pastí a jiných škodlivých efektů.
-
-**Typ záchranných hodů:** Každá postava má jednu univerzální hodnotu, která funguje jako hranice úspěchu záchranného hodu. Hod samotný je pak modifikován dovednostmi postavy v závislosti na efektu, který na postavu působí. Možné kategorie jsou následující:
-
-| Dovednost    | Název                     | záchrana proti efektům                                       |
-| ------------ | :------------------------ | :----------------------------------------------------------- |
-| **Síla**     | **Proti síle**            | *Působení externí síly, nucený pohyb, držení na místě, silný náraz atd..* |
-| **Zručnost** | **Na úhyb**               | *Spuštění pasti, exploze, záchyt při pádu z výšky, dračí oheň, paprsek atd...* |
-| **Výdrž**    | **Proti smrti**           | *Okamžitá smrt, působení jedů, okamžité zničení atd...*      |
-| **Rozum**    | **Proti magii**           | *Zásah magií, působení magických efektů atd...*              |
-| **Osobnost** | **Proti ovlivnění mysli** | *Strach, šílenství, magie ovlivňující mysl atd...*           |
+| Dovednost     | Název            | záchrana proti efektům                                       |
+| ------------- | :--------------- | :----------------------------------------------------------- |
+| **Výdrž**     | **Proti zhoubě** | *Okamžitá smrt, působení jedů, nemoci atd...*                |
+| **Obratnost** | **Proti trikům** | *Spuštění pasti, záchyt při pádu z výšky, speciální schopnosti monster atd...* |
+| **Vzdělání**  | **Proti magii**  | *Zásah magií, působení magických efektů a efektů ovlivňující mysl atd...* |
 
 !!! warning "Mapování B/X záchranných hodů"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na výčet jiných záchranných hodů. Ty se mapují následovně: *Paralýza* = Proti síle, *Dech* / *Hůlky* = Na úhyb, *Smrt* / *Jed* = Proti smrti, *Kouzla* / *Hole* = Proti magii. Záchranný hod proti ovlivnění mysli přímo nezapadá do žádné B/X kategorie. PJ však může dle vlastního uvážení požadovat tento záchranný hod na strach a efekty ovlivňující mysl.
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na výčet jiných záchranných hodů. Ty se mapují následovně: *Paralýza a Dech /hůlky* = Proti trikům, *Smrt* / *Jed* = Proti zhoubě, *Kouzla* / *Hole* = Proti magii.
 
 **Hod záchranného hodu:** Když PJ vyžaduje záchranný hod, tak si hráč hodí *1k20*, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako záchranný hod ve svém deníku postavy. 
 
@@ -95,37 +88,32 @@ Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli pln�
 
 <img src="/assets/sep_line.png"/>
 
-## Poškození, léčení a smrt
+## Léčení a smrt
 
 Všechny postavy a monstra mají celkový počet životů, který reprezentuje jejich schopnost se vyhýbat smrti. Všechny formy poškození odečítají z tohoto celkového počtu.
 
 ### Léčení
 
-**Přirozená regenerace:** Za každý celý den nerušeného odpočinku stvoření zregeneruje *2 život*. Pokud je odpočinek přerušen, nedoplní se v ten den stvoření žádné životy. Přirozená regenerace je jedním z mála způsobů jak léčit životy ztracené kvůli únavě.
+**Přirozená regenerace:** Za každé přenocování postava zregeneruje *2+Odolnost života*.
 
 **Magické léčení:** Léčit lze také pomocí lektvarů, nebo kouzel. Tato forma léčení je většinou okamžitá. Magické a přirozené léčení lze kombinovat.
 
-**Smrt:** Monstrum nebo hráč jehož životy jsou zredukovány na *0* nebo méně, je považováno za mrtvé.
+### Smrt
 
-!!! example "Přemožení"
-    Postava nebo inteligentní monstrum si může u svého smrtícího útoku vybrat,     zda chce svůj cíl zabít nebo jen zneškodnit. Zneškodněný cíl je poražen ale ne zabit. Jak se poražení projevuje je na domluvě mezi hráčem a PJ. 
+Klesnou-li životy hráčské postavy na 0, upadá do bezvědomí a dostává se na práh smrti. Zde o ní rozhodne jen časná pomoc spojenců nebo *mince smrti*.
 
-**Zničení předmětů:** Pokud byla postava zabita destruktivním kouzlem nebo speciálním efektem (jako je úder blesku, dračí oheň a podobné), její výbava je považována za zničenou.
+**Beznaděj:** Ve hře existují způsoby jak zemřít bez možnosti záchrany. Většinou ve formě různých pastí, jedů, kouzel okamžitého zabití či masivního poškození.
 
-**Zničení magických předmětů:** Magické předměty mají šanci na přežití takto destruktivního útoku. O jejich přežití rozhodne záchranný hod, pro jehož vyhodnocení se použijí statistiky postavy, která předmět měla u sebe. 
+**Masivní poškození:** Pokud postava obdrží v jednom úderu větší poškození než je dvojnásobek jejího maximální počtu životů umře bez možnosti záchrany.
 
-- *Záchranný hod:* Záchranný hod je třeba udělat za každý magický předmět co měla postava u sebe. Počítají se také aplikovatelné bonusy(a postihy), kterými postava disponuje proti danému efektu.  
-- *Bonusy:* Magické předměty poskytující bonus pro boj (jako například zbraň dává +2 pro zásah a poškození, nebo zbroj dává +1 k OČ. ) mohou tento bonus také přičíst k záchrannému hodu.
+#### Mince smrti
 
-#### Na prahu smrti (Optional)
+Na místo svého tahu si hráč hodí mincí. Pokud padne *hlava* poznačí si *1 úspěch*. Padne-li orel, přičte si bod vyčerpání.
 
-Skupiny, které chtějí snížit smrtelnost hry mohou použít volitelné pravidlo pro mírnější systém smrti. Hráčská postavy, jejichž životy klesnou na 0, upadají do bezvědomí a objevují se *na prahu smrti* (neplatí pro smrt následkem otravy nebo destruktivní smrti).
+- **Návrat z prahu smrti:** Nasbírá-li hráč *3 úspěchy* nebo je jeho postava vyléčena za libovolné množství životů. Jeho postava přežije s jedním životem (nebo vyléčeným množstvím) a stráví dalších *1k4* směn v bezvědomí. Postava se navrátí z prahu smrti vždy s minimálně 1 bodem vyčerpání.
+- **Smrt:** Nasbírá-li postava *6 bodů vyčerpání*, tak zemře (viz. vyčerpání ==todo odkaz==).
 
-**Efekt:** Postava *na prahu smrti* je v neurčitém stavu (Po dobu 24 hodin), kdy není jasné jestli je mrtvá či živá. Kdokoliv může zkontrolovat nebo vyléčit tělo padlé postavy a zjistit, jak na tom ve skutečnosti je.
 
-**Kontrola:** Šance *3 z 6-ti* že je postava na živu. Postava je na živu s *1 životem* a únavou ve výši aktuální úrovně postavy. Postava také návratem z prahu smrti permanentně ztratí *1 náhodný dovednostní bod* a zůstává v bezvědomí na *1k4* směn.
-
-**Vyléčení:** Stejný efekt jako kontrola. Jen šance, že postava je na živu, je *4 z 6-ti* a její životy odpovídají vyléčenému množství.
 
 <img src="/assets/sep_line.png"/>
 
@@ -150,7 +138,7 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 !!! note "Rychlost pádu"
     Pokud postava padá volným pádem, předpokládá se, že první kolo padá rychlostí *15 metrů za vteřinu* (150 metrů za kolo) a všechna následující kola rychlostí *45 metrů za vteřinu* (450 metrů za kolo).
 
-**Hlad a žízeň:** Pokud postavy jsou déle jak den bez jídla nebo pití, tak si za každý takový den přičtou body únavy za každou chybějící potřebu.
+**Hlad a žízeň:** Pokud postavy jsou déle jak den bez jídla nebo pití, tak si za každý takový den přičtou bod vyčerpání.
 
 ### Voda a plavání
 
@@ -178,11 +166,11 @@ Jednou z nejnebezpečnější překážek,se kterou se postavy mohou setkat, je 
 
 <img src="/assets/sep_line.png"/>
 
-## Únava
+## Vyčerpání
 
 Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žízeň či neklidné noci v chladu. Neustále psychické a fyzické vypětí se může lehce podepsat na kdejakém dobrodruhovy.
 
-**Důvody k získání únavy:** PJ může hráči udělit poškození únavou kdykoliv uzná za vhodné. Doporučuje se to a však minimálně v těchto případech:
+**Důvody k získání vyčerpání:** PJ může hráči udělit bod vyčerpání za extrémně náročné situace. Doporučuje se to a však minimálně v těchto případech:
 
 - Den a noc bez spánku
 - Den a noc bez jídla či vody
@@ -191,11 +179,15 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 - Přežití vlastní smrti
 - Magie
 
-**Efekty únavy:** Hráč obdrží *1 poškození*. Toto poškození může být vyléčeno ve většině případů pouze přirozenou regenerací.
+**Efekty vyčerpání:** Každý bod vyčerpání představuje postih do všech *ověřovacích a záchranných hodů*, *hodů na poškození*, *Obraného čísla* a *hybnosti*. Navíc vyčerpaná postava pokoušející se seslat kouzlo musí uspět v *přímém hodu* proti HU odpovídající počtu bodům vyčerpání, jinak sesílání kouzla selže.
+
+**Smrt z vyčerpání:** Dosáhne-li postava *6-ti* bodů vyčerpání, tak zemře.
+
+**Zbavení se vyčerpání:** Vyčerpání se lze zbavit buďto magií nebo celodenním odpočinkem v bezpečí civilizace, kdy každý den takového odpočinku *vyléčí jeden bod vyčerpání*.
 
 <img src="/assets/sep_line.png"/>
 
-## Přenocování v divočině
+## Přenocování v divočině ==rework==
 
 Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i dobrý plán a hlavně zásoby. Dobrodružné výpravy totiž málo kdy trvají jen 1 den. Při přenocování v divočině je potřeba podstoupit následující kroky.
 
@@ -237,7 +229,7 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 
 - *Obtížný terén:* Pokud postavy cestují obtížným terénem, tak se pohybují o poloviční rychlostí a tudíž ujdou poloviční vzdálenost.
 - *Cesty:* Cesta umožňuje pohyb i s vozem. 
-- *Cestování dnem i nocí:* Hráči se mohou rozhodnout, že chtějí cestovat dnem i nocí bez přestávky. To jim umožní, se během jednoho dne cestování posunout o polovinu vzdálenosti více. A však každá z postav obdrží *1 bod únavy*.
+- *Cestování dnem i nocí:* Hráči se mohou rozhodnout, že chtějí cestovat dnem i nocí bez přestávky. To jim umožní, se během jednoho dne cestování posunout o polovinu vzdálenosti více. A však každá z postav obdrží *1 bod vyčerpání*.
 
 **Ztráta směru:** Pokud hráči necestují po cestě nebo dle nějakého orientačního bodu. (Jako je třeba řeka, hora nebo podobné.) Existuje šance, že ztratí směr. Šance na ztrátu směru je *2 z 6-ti*. V *Obtížném terénu* pak *3 z 6-ti*. Postavy co ztratí směr se pohnou náhodným směrem a nebo stráví den blouděním a na konci dne se vrátí tam odkud vyrazily.
 
@@ -298,7 +290,7 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 <img src="/assets/sep_line.png"/>
 
-## Náhlá setkání
+## Náhlá setkání ==todo spojit iniciativu a překvapení do jednoho k12 hodu==
 
 | POSTUP PŘI NÁHODNÉM SETKÁNÍ                                  |
 | :----------------------------------------------------------- |
@@ -307,6 +299,8 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 | *3. Iniciativa:* Každá strana, která není překvapena, hodí *1k10*. (remíza jde ve prospěch hráčů) |
 | *4. Akce:* Každá strana, která není překvapená se rozhodne jak bude na setkání reagovat a setkání se odehraje |
 | *5. Závěr:* Uběhne 1 kolo                                    |
+
+==TODO: spojit hod na překvapení a na iniciativu pod jeden d10 hod== 
 
 **Hod na překvapení:** Pokud to není jasné ze vzniklé situace PJ si může vyžádat hod na překvapení. Ten probíhá tak, že obě strany hodí *1k6*. Výsledek *1* nebo *2* znamená, že daná strana je překvapená. (Výsledky mohou být také ovlivněny schopnostmi postav či monster nebo situačními modifikátory.) 
 
@@ -325,15 +319,15 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 
 **Akce** **Hráčů:** Hráči si rozhodnou co chtějí dělat 
 
-**Akce monster:** Pokud ze situace není jasné jak by monstrum reagovalo. Lze to rozhodnout pomocí hodu na reakci dle tabulky níže. Došlo-li na komunikaci mezi hráči a monstrem, tak k hodu na reakci lze přičíst modifikátor osobnosti hráče, který komunikaci vedl. 
+**Akce monster:** Pokud ze situace není jasné jak by monstrum reagovalo. Lze to rozhodnout pomocí hodu na reakci dle tabulky níže. Došlo-li na komunikaci mezi hráči a monstrem, tak k hodu na reakci lze přičíst modifikátor osobnosti hráče, který komunikaci vedl.
 
-| 2k6         | VÝSLEDEK                                               |  REAKCE NA JINÉ NPC INTERAKCE  |
-| :---------- | :----------------------------------------------------- | :----------------------------: |
-| 2 nebo méně | Nepřátelský, zaútočí                                   |           Negativní            |
-| 3 - 5       | Nepřátelský, může zaútočit (hoď znovu další kolo s -4) | Neutrální, příklon k negativní |
-| 6 - 8       | Neutrální, nejistý (hoď znovu další kolo)              |     Neutrální (zkus znovu)     |
-| 9 - 11      | Lhostejný, může vyjednávat (hoď znovu další kolo s +4) | Neutrální, příklon k pozitivní |
-| 12 +        | Přátelský, nápomocný                                   |           Pozitivní            |
+| 2k6         | VÝSLEDEK                                               |
+| :---------- | :----------------------------------------------------- |
+| 2 nebo méně | Nepřátelský, zaútočí                                   |
+| 3 - 5       | Nepřátelský, může zaútočit (hoď znovu další kolo s -4) |
+| 6 - 8       | Neutrální, nejistý (hoď znovu další kolo)              |
+| 9 - 11      | Lhostejný, může vyjednávat (hoď znovu další kolo s +4) |
+| 12 +        | Přátelský, nápomocný                                   |
 
 **Konec setkání:** Pokud setkání přeroste v boj. Následuj pravidla boje popsané [zde](/Pravidla%20a%20procedury/Combat/). Předpokládá se, že náhlá setkání (včetně bojů) trvají nejméně *1 směnu* a zaokrouhlují se k nejbližší směně nahoru. Je brán v potaz čas na odpočinek po boji, čištění výzbroje, obvázání ran a podobných aktivit.
 

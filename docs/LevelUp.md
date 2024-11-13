@@ -18,6 +18,9 @@ Zkušenosti jsou postavám přiděleny na základě aktivit ve hře. Většinou 
 - *2 zk* - získání magického předmětu; dokončení úkolu; obtížný souboj (úroveň skupiny nepřátel > úroveň postav)
 - *3+ zk* - dokončení rozsáhlého úkolu; souboj s velmi silným monstrem (úroveň skupiny nepřátel >>> úroveň postav)
 
+!!! note "Získáváme málo zkušeností!"
+	Pokud hráčům přijde, že získávají zkušenosti moc pomalu, měli by se podívat na možnost proměnit své [zlato na zkušenosti](https://osr.tkds.cz/Pravidla%20a%20procedury/Downtime/#hyreni-promena-zlata-za-zkusenosti).
+
 **Dělení zkušeností:** Zkušenosti se nedělí. Každý člen výpravy obdrží plný rozsah získaných zkušeností ze sezeních na kterých se účastnil.
 
 **Extra odměna:** PJ může odměnit specifické hráče extra zkušenostními body, aby odměnil určitá chování při hře. Například zajímavé ztvárnění postavy. 
@@ -26,9 +29,10 @@ Zkušenosti jsou postavám přiděleny na základě aktivit ve hře. Většinou 
 
 ### Dosažení nové úrovně 
 
-Když postava získá dostatečné množství zkušeností, aby dosáhla na novou úroveň ve svém povolání, zvýší se její úroveň. To většinou obnáší minimálně *hod na životy* a *každou sudou úroveň +1 dovedností bod*. 
+Když postava získá dostatečné množství zkušeností, aby dosáhla na novou úroveň ve svém povolání, zvýší se její úroveň. To většinou obnáší minimálně *hod na životy* a někdy i extra *dovednostní bod*.
 
 - **Hod na životy:** Hráč si může vybrat, zda si chce na zvýšení svých životů hodit, nebo si vezme polovinu maxima (např. 1k6 -> 3). Hráč si musí své rozhodnutí dobře rozmyslet, jelikož mu nebudou umožněno si opravit nízký hod.
+- **Dovednostní bod:** Počínaje *3.* úrovní a následně každou druhou úroveň obdrží postava *1 dovednostní bod*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -37,14 +41,15 @@ Když postava získá dostatečné množství zkušeností, aby dosáhla na novo
 | ÚROVEŇ | Potřebné zkušenosti |
 | :----: | :-----------------: |
 |   1    |          -          |
-|   2    |         10          |
-|   3    |         40          |
-|   4    |         100         |
-|   5    |         200         |
-|   6    |         400         |
-|   7    |         800         |
-|   8    |        1200         |
-|   9    |        1800         |
-|  10+   |        3000         |
+|   2    |         15          |
+|   3    |         35          |
+|   4    |         70          |
+|   5    |         120         |
+|   6    |         210         |
+|   7    |         380         |
+|   8    |         730         |
+|   9    |        1300         |
+|   10   |        2300         |
+|  11+   |        +1000        |
 
 <img src="/assets/sep_line.png"/>

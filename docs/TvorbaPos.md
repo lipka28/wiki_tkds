@@ -8,35 +8,46 @@
 
 Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://www.tkds.cz/). ==TODO: Nový odkaz== Jak budeš připraven, následuj tyto kroky.
 
-## 1. Naházej si dovednosti a zaznač si modifikátory
+## 1. Dovednosti, výběr rasy a specializace
 
-Vyber si zda chceš svou postavu *objevit* nebo *vytvořit*. Vybírej s rozmyslem, jelikož budeš muset se svým rozhodnutím žít. Minimálně tak dlouho jak bude žít tvá postava.
+Ke všem svým dovednostem si zapiš hodnotu *-1*. V následujících krocích si budeš vybírat *rasu* a *specializaci* a na základě nich modifikovat své dovednosti. V rámci žádného následujícího kroku si nesmíš přidat do jednotlivé vědomosti více jak 1 bod.
 
-- **Objevit:** Dovednosti objevených postav jsou v podstatě náhodné. Zato však mohou být jejich dovednosti daleko vyšší (ale i nižší) než u vytvořených postav. Chceš-li objevit svou postavu, hoď si na každou dovednost v pořadí *Síla*, *Obratnost*, *Zručnost*, *Vytrvalost*, *Vzdělání* a *Osobnost* *3k6* a zapiš si výsledky, tak jak ti vyšli.
-- **Vytvořit:** Dovednosti vytvořených postav jsou vcelku průměrné, hráč má ale absolutní kontrolu nad jejich přiřazením. Chceš-li si vytvořit postavu, přiděl si čísla *14*, *12*, *11*, *10*, *9* a *7* do svých dovedností dle vlastního uvážení.
+- Vyber si *rasu*, zapiš si její název do deníku postavy a modifikuj dovednosti své postavy tak jak ti udává vybraná rasa.
+- Vyber si *specializaci* dobrodruha, zapiš si její název do deníku postavy a modifikuj dovednosti své postavy tak jak ti udává vybraná specializace.
+- Jako závěrečný krok určení dovedností tvé postavy si ještě rozděl *4* dovednostní body.
 
-Když máš dovednosti, připiš si k nim modifikátory (více v kapitole [Dovednosti](Dovednosti.md)) a nakonec si poznač gramotnost a počet ovládaných jazyků (není třeba specifikovat předem), dané tvým rozumem.
+Co všechno tvé dovednosti ovlivňují se můžeš dozvědět v kapitole [Dovednosti](Dovednosti.md)
 
-## 2. Vyber si rasu a povolání a zapiš si speciální schopnosti
+## 2. Životy a magie
 
-Vyber si jednu z ras a zaznač si její název do svého deníku postavy. Zaznač si také povolání, které sis pro svou postavu vybral. Pak si poznamenej všechny zvláštní schopnosti, které tvá postava získala těmito výběry. Poznač si životy v závislosti na vybraném povolání, zaznač si bonus k útoku a záchranné hody. Popřípadě učiň volbu u schopností, které to vyžadují. Nezapomeň také na hybnost a vrozené jazyky.
+Poznač si počáteční životy a magii. Jsou popsány v tabulce postupu tebou vybraného povolání. Denní regenerace magie odpovídá formuli *2+Úroveň+Rozvaha*.
 
-## 3. Nakup výbavu
+## 3. Schopnosti
 
-Pokud tvá postava nic nezdědila, začíná hru s bohatstvím ve výši *3k6 x 10 stříbrných*. Za které si může nakoupit libovolnou výbavu. Jakou výbavu si můžeš koupit a co všechno se počítá do *10-ti* slotů, které uneseš se dozvíš [zde](/Gear/#vybaveni-a-nosnost). Pozor na tvé povolání a rasu, které mohou uvalovat restrikce na výbavu, kterou můžeš koupit nebo používat.
+Zapiš si všechny schopnosti získané výběrem rasy a specializace. Případně učiň volbu u schopností které to vyžadují.
 
-## 4. Poznač si obranné číslo
+## 4. Nakup výbavu
 
-Obranné číslo tvé postavy je stanoveno třemi faktory. A to konstantou *10*, *brněním*, které sis vybral v předchozím kroku, a modifikátorem *obratnosti*.
+Co se týče počátečního bohatství má hráč možnost si vybrat jednu z následujících možností:
+
+- **Standardní bohatství:** Postava začíná hru s *110 stříbrnými*.
+- **Náhodné bohatství:** Hráč si hodí *3k6* a výslednou hodnotu *vynásobí 10-ti*. Tolik má jeho postava počátečního stříbra.
+- **Dědictví:** Postava může zdědit majetek a bohatství předchozí postavy. Převod dědictví je daněn *10-ti %* z celé hodnoty majetku. Což může fungovat jako motivační prvek, jelikož postava může potencionálně začínat hru s dluhem.
+
+Za získané bohatství si může postava nakoupit výbavu. Jakou výbavu si může koupit, a jak je to s nosností tvé postavy se dozvíš [zde](/Gear/#vybaveni-a-nosnost). Pozor na tvé povolání a rasu, které mohou uvalovat restrikce na výbavu, kterou můžeš koupit nebo používat.
+
+## 5. Poznač si obranné číslo
+
+Obranné číslo tvé postavy je stanoveno tvou zbrojí a je modifikováno obratností.
 
 !!! note "Obranné číslo bez brnění"
-	Pokud tvá postava nemá žádné brnění, její základní *OČ* je *10 + modifikátor obratnosti*.
+	Pokud tvá postava nemá žádné brnění, její základní *OČ* je většinou *10 + modifikátor obratnosti*.
 
-## 5. Poznač si úroveň a zkušenostní body
+## 6. Poznač si úroveň a zkušenostní body
 
-Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1* s *0 zkušenostními body* a cílem *10 zkušenostních bodů* do další úrovně.
+Pokud nebylo stanoveno jinak, tvá postava začíná na *úrovni 1* s *0 zkušenostními body* a cílem *15 zkušenostních bodů* do další úrovně.
 
-## 6. Původ a jméno
+## 7. Původ a jméno
 
 Dej své postavě jméno a zformuluj aspoň *jednu výstižnou větu*, která charakterizuje tvou postavu. Když máš vše hotové, můžeš začít hrát.
 

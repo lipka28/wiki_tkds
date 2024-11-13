@@ -12,25 +12,24 @@ Ve starém světě je magie všude kolem. Víří nad hlavami smrtelníků i Pov
 
 ## Třída kouzel
 
-Kouzla jsou rozdělena do 6-ti základních tříd dle síly (1 - 5 + mocná kouzla). Některým povoláním se postupem na novou úroveň odemykají nové třídy kouzel.
+Kouzla jsou rozdělena do 6-ti základních tříd dle síly (1 - 5 + mocná kouzla). K jaké třídě kouzel má specializace přístup většinou záleží na postupu v samotné specializaci.
 
 <img src="/assets/sep_line.png"/>
 
-## Učení se kouzel
+## Magická energie
 
-Mágové se můžou naučit libovolné kouzlo třídy, kterou umí seslat. K naučení kouzla je však třeba nejdříve kouzlo získat.
+Specializace ovládající magii disponují schopností manipulovat a schraňovat magickou energii (označována jen jako magie). Jakým množstvím magie daná specializace disponuje, záleží na postupu ve specializaci samotné.
 
-- **Získávání kouzel:** Mág může získat nové kouzlo rozluštěním magické knihy jiného kouzelníka, naučením od jiného kouzelníka nebo magickým výzkumem.
-- **Přeučení kouzla:** Pokud má mág přístup ke kouzlu, tak jak je popsáno v předešlém bodě. Může nahradit libovolné kouzlo, které umí, tímto novým kouzlem. Případně se jej naučit navíc. Má-li na kouzlo kapacitu. Přeučení kouzla trvá *1 den*.
+- **Cena kouzel:** Je stanovena v popisku kouzel samotných.
+- **Regenerace magie:** Stvoření ovládající magii si za každé přenocování většinou doplní *2+úroveň+Rozvaha* magické energii.
+
+==todo conversion note (ceny mana u npc atd, viz excel)==
 
 <img src="/assets/sep_line.png"/>
 
-## Sesílání kouzel
+## Učení se nových kouzel
 
-Počet kouzel, které může kouzelník seslat za 1 den. Je omezen jeho úrovní. Kapacita sesílání se nevztahuje na specifická kouzla, nýbrž na třídu kouzel. Takže mág může například seslat za 1 den 3 libovolná kouzla první třídy.
-
-!!! tip "Volitené pravidlo: Upcasting"
-    Kouzla nižších tříd mohou být seslána jako sesílání vyšší třídy. To však nemá inherentní dopad na sílu kouzla. Například pokud má kouzelník kouzlo první třídy a umí během jednoho dne seslat 2 kouzla první třídy a jedno kouzlo druhé třídy. Může všechna 3 tato seslání použít na seslání daného kouzla první třídy.
+Postavy se specializací ovládající magii, se můžou naučit libovolné kouzlo třídy, kterou umí seslat. K naučení kouzla je však třeba nejdříve kouzlo získat. Většinou postupem na vyšší úroveň. Kouzla lze však získat i s jiných zdrojů.
 
 <img src="/assets/sep_line.png"/>
 
@@ -38,10 +37,10 @@ Počet kouzel, které může kouzelník seslat za 1 den. Je omezen jeho úrovní
 
 Základní pravidla a definice platící pro všechny kouzla ve hře.
 
-- **Sesílání** - Vyčarování kouzla trvá *1 běžnou akci* a vyžaduje hlasité zaříkávání, excentrické pohyby rukou a případně i další komponenty. 
+- **Sesílání** - Vyčarování kouzla trvá *1 běžnou akci* a vyžaduje hlasité zaříkávání, aspoň 1 volnou ruku a případně i další komponenty. 
 - **Odvolání** - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal (pokud nebylo odraženo).
-- **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje. Avšak pokud je čaroděj zasažen nebo neuspěje v záchranném hodu, existuje *3 z 6-ti* šance, že koncentraci ztratí a tím kouzlo ukončí. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí. V jednu chvíli může být aktivní jen jedno kouzlo vyžadující koncentraci.
-- **Záchranný hod** - Cíl většiny kouzel může podstoupit záchranný hod a tím se vyvarovat jeho efektu. U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě.
+- **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje. Avšak pokud je čaroděj zasažen nebo neuspěje v záchranném hodu, ==todo class check==, že koncentraci ztratí a tím kouzlo ukončí. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí. V jednu chvíli může být aktivní jen jedno kouzlo vyžadující koncentraci.
+- **Záchranný hod** - Cíl většiny kouzel může podstoupit *záchranný hod proti magii* a tím se vyvarovat jeho efektu. U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě. Hod *přirozených 20* znamená, že můžeš efekt kouzla kompletně ignorovat. Hod *přirozených 1* znamená, že ti kouzlo uděluje plné poškození nebo má dvojnásobné trvání.
 - **Maximální poškození** - Kouzlo může udělit na nejvýš *20* kostek poškození. 
 - **Kombinace efektů** - Více souběžných kouzel, nemůže být použito k ovlivnění toho samého atributu (Síla, Zručnost, OČ, Životy a podobně...) avšak protichůdná kouzla se mohou vzájemně vyrušit.
 
@@ -49,7 +48,7 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 
 ## Magický výzkum
 
-Mágové a některé magii ovládající povolání se mohou věnovat magickému výzkumu. Magickým výzkumem lze vyrábět různé lektvary, svitky a magické předměty. Jak funguje výroba samotná se můžete dočíst v kapitole [mezi dobrodružstvími](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum).
+Postavy s některými magii ovládajícími specializacemi se mohou věnovat magickému výzkumu. Magickým výzkumem lze vyrábět různé lektvary, svitky a magické předměty. Jak funguje výroba samotná se můžete dočíst v kapitole [mezi dobrodružstvími](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum).
 
 <img src="/assets/sep_line.png"/>
 
@@ -59,7 +58,7 @@ Základní pravidla k běžným magickým předmětům.
 
 ### Lektvary a svitky
 
-Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o jednorázový předmět, který se po použití zničí a jehož výsledkem, je nějaký, většinou magický, efekt. *Kdokoliv může použít lektvar* a však použití svitku vyžaduje magické nadání a gramotnost.
+Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o jednorázový předmět, který se po použití zničí a jehož výsledkem, je nějaký, většinou magický, efekt. *Kdokoliv může použít lektvar* a však použití svitku vyžaduje *magické nadání a gramotnost*.
 
 - **Aktivace předmětu:** Aktivace svitku nebo vypití lektvaru stojí *běžnou akci*.
 - **Úroveň svitků:** Na rozdíl od sesílání běžných kouzel, jsou kouzla na svitcích uchována na specifické úrovni. Neřídí se tedy úrovní sesilatele. Kouzla na svitcích jsou dle třídy kouzla většinou sesílány následujících úrovních.
@@ -68,7 +67,7 @@ Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. J
     - **Kouzla 3.třídy:** Jako sesilatel 5. úrovně.
     - **Kouzla 4.třídy:** Jako sesilatel 7. úrovně.
     - **Kouzla 5.třídy:** Jako sesilatel 9. úrovně.
-    - **Mocná kouzla:** se na svitcích nenachází.
+    - **Mocná kouzla:** Jako sesilatel 10. úrovně.
 
 
 ### Magické grimoáry
@@ -82,12 +81,12 @@ Grimoáry jsou speciální knihy, do kterých si kouzelníci zapisují svá kouz
 Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Efekt je většinou sesílán formou úderu nebo poklepáním žezlem. *Žezla mohou být použita a aktivována kýmkoliv, bez magického nadání*.
 
 - **Počet použití:** Žezlo má většinou při nálezu *1k10* použití.
-- **Aktivace předmětu:** Aktivace žezla stojí *běžnou akci*. V některých případech (například použití jako součást útoku) se na aktivaci nevztahují postihy za vzájemné ohrožení.
+- **Aktivace předmětu:** Aktivace žezla stojí *běžnou akci*.
 - **Dobytí:** Nelze, ale PJ může udělat výjimku. 
 
 ### Magické hůlky
 
-Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický efekt. Efekt je většinou stejný jako některé z kouzel, které může mág získat. *Magické hůlky mohou být aktivovány pouze postavami, kterým to umožňuje jejich povolání*.
+Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický efekt. Efekt je většinou stejný jako některé z kouzel. *Magické hůlky mohou být aktivovány pouze postavami, kterým to umožňuje jejich specializace*.
 
 - **Počet použití:** Magická hůlka má většinou při nálezu *2k10* použití. 
 - **Aktivace předmětu:** Aktivace hůlky stojí *běžnou akci*.
@@ -95,10 +94,10 @@ Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický 
 
 ### Magické hole
 
-Více jak dvoumetrová magická hůl schopna vyvolávat hned několik různých magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami, kterým to umožňuje jejich povolání*.
+Více jak dvoumetrová magická hůl schopna vyvolávat hned několik různých magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami, kterým to umožňuje jejich specializace*.
 
 - **Počet použití:** Magická hůl má většinou při nálezu *3k10* použití. 
-- **Aktivace předmětu:** Aktivace hole stojí *běžnou akci* a nevztahují se na ni postihy za vzájemné ohrožení.
+- **Aktivace předmětu:** Aktivace hole stojí *běžnou akci*.
 - **Dobytí:** Nelze, ale PJ může udělat výjimku. 
 
 ### Zbraně a zbroje
@@ -118,7 +117,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 <img src="/assets/sep_line.png"/>
 
-## Seznam kouzel
+## Seznam kouzel ==todo mana costy a modifikace kouzel==
 
 Doporučený seznam a třídy kouzel pro hraní hry. Kouzla v závorkách jsou obrácené verze kouzel. Obrácené verze kouzel jsou považována za odlišná kouzla. Při učení kouzla si lze vybrat, kterou verzi kouzla se chce postava naučit. Pokud se chce postava naučit obě verze musí se kouzlo naučit dvakrát.
 
@@ -207,7 +206,6 @@ Znění kouzel ti dá k dispozici PJ (Možná bude někdy doplněno) Alternativn
 
 **Popis:** Sesilatel jako svůj poslední vzdor sešle rychlé kouzlo, které tlakovou vlnou shodí všechny stvoření v okolí *2* metrů na zem.
 
-- **Rychlé kouzlo:** Sesílání kouzla není ovlivněno běžnými postihy na sesílání, jako jsou vzájemné ohrožení nebo nestabilní povrchy.
 - **Stvoření vyšší úrovně než sesilatel:** Mají nárok na *záchranný hod proti síle*, aby efektu odolali.
 - **Poškození:** Shozeným stvořením je uděleno symbolické *1* poškození za pád na zem. Tohle poškození nemůže zabít.
 
@@ -536,7 +534,7 @@ Na místo spojenců funguje na nepřátele a uděluje postih *-1* k zásahu, po�
 
 **Popis:** Kolem ramen sesilatele vzplanou tancující plameny. Sesilatel může každé kolo trvání kouzla. Přikázat plamenům, aby *sežehli* stvoření do vzdálenosti *12 metrů*. Stvoření musí uspět v *záchranném hodu proti magii*, jinak obdrží *1k6 poškození*.
 
-- **Sežehnutí:** Je *volná akce*, kterou může sesilatel použít jedenkrát během svého tahu. Včetně tahu, kdy bylo kouzlo vyvoláno. *Sežehnutí* není ovlivněno běžnými postihy na sesílání, jako jsou vzájemné ohrožení nebo nestabilní povrchy.
+- **Sežehnutí:** Je *volná akce*, kterou může sesilatel použít jedenkrát během svého tahu. Včetně tahu, kdy bylo kouzlo vyvoláno.
 
 <img src="/assets/sep_line.png"/>
 
