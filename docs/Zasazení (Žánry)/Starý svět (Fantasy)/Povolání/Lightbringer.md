@@ -75,6 +75,10 @@ Světlonoš se pokusí *1 směnu* koncentrovat a vycítit magické vibrace v př
 - **Tajný hod:** Na úspěch háže PJ
 - **Automatický úspěch:** Má-li světlonoš čas na hodinovou nerušenou meditaci se subjektem, automaticky uspěje.
 
+### Používání svitků
+
+Světlonoš může aktivovat magické svitky.
+
 ### Léčení
 
 Světlonoš může, tolikrát denně kolik je jeho úroveň, *dotykem* vyléčit *1k4* životů.
