@@ -108,7 +108,7 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 ### Smrt
 
-Klesnou-li životy hráčské postavy na 0, upadá do bezvědomí a dostává se na práh smrti. Zde o ní rozhodne jen časná pomoc spojenců nebo *mince smrti*.
+Klesnou-li životy hráčské postavy na 0, obdrží 1 bod vyčerpání, upadá do bezvědomí a dostává se na práh smrti. Zde o ní rozhodne jen časná pomoc spojenců nebo *mince smrti*.
 
 **Beznaděj:** Ve hře existují způsoby jak zemřít bez možnosti záchrany. Většinou ve formě různých pastí, jedů, kouzel okamžitého zabití či masivního poškození.
 
@@ -118,12 +118,17 @@ Klesnou-li životy hráčské postavy na 0, upadá do bezvědomí a dostává se
 
 Na místo svého tahu si hráč hodí mincí. Pokud padne *hlava* poznačí si *1 úspěch*. Padne-li orel, přičte si bod vyčerpání.
 
-- **Návrat z prahu smrti:** Nasbírá-li hráč *3 úspěchy* nebo je jeho postava vyléčena za libovolné množství životů. Jeho postava přežije s jedním životem (nebo vyléčeným množstvím) a stráví dalších *1k4* směn v bezvědomí. Postava se navrátí z prahu smrti vždy s minimálně 1 bodem vyčerpání.
+- **Návrat z prahu smrti:** Nasbírá-li hráč *3 úspěchy* nebo je jeho postava vyléčena za libovolné množství životů. Jeho postava přežije s *1 životem* (nebo vyléčeným množstvím) a stráví dalších *1k4* směn v bezvědomí.
 - **Smrt:** Nasbírá-li postava *6 bodů vyčerpání*, tak zemře (viz. vyčerpání ==todo odkaz==).
 
-
-
 <img src="/assets/sep_line.png"/>
+
+## Body hrdinství (BH)
+
+Hráči začínají každé sezení s *1 bodem hrdinství*. PJ může během hry přidělit hráčům další body hrdinství. Ty se většinou dostávají za hrdinské až opovážlivé činy nebo prostě za dobrý role-play. S každým obdrženým bodem hrdinství (mimo ten první) hráčská postava také obdrží *1 zkušenostní bod*. V jednu chvíli nemůže mít hráč více než *3 body hrdinství*. Body hrdinství mají následující využití: 
+
+- **1 BH za přehození ověření:** Hráč může přehodit jeden svůj libovolný hod na ověření (včetně hodů na zásah, záchranných hodů a přímých hodů). Nelze použít opakovaně na jeden hod.
+- **Všechny BH za vyhnutí se smrti (minimálně 1)**: Pokud se hráčova postava nachází na prahu smrti. může použít všechny své body hrdinství a tím se stabilizovat s 1 životem a být při vědomí.
 
 ## Nebezpečí a nástrahy
 

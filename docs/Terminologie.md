@@ -155,14 +155,6 @@ Určuje schopnost postavy zasáhnout nepřítele v boji. Výše tohoto modifiká
 !!! warning "Přepočet THAC0"
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem THAC0 (To Hit AC 0), který se s vylepšováním snižuje namísto zvyšování. Pro přepočet THAC0 na modifikátor zásahu *odečtete* hodnotu psanou v materiálu *od 19-ti*. Například útok s *THAC0 10* přepočítáte na ToHit následovně: *19 - 10 = +9 ToHit*.
 
-### Body hrdinství (BH)
-
-==todo domyslet usecase== 
-
-- 1 na začátku hry, získávají se postupně za dobrý RP (taky s +1 xp),  lze mít maximálně 3
-- Využití 1 reroll
-- Všechny zpátky k životu s +1 vyčerpání.
-
 ### Hybnost
 
 Hybnost představuje základní rychlost, s jakou se postava zvládá pohybovat za 1 kolo. Při cestování na velké vzdálenosti (například putování divočinou) je počet kilometrů, které může postava v přívětivých podmínkách ujít za den, trojnásobkem této hybnosti. 

@@ -4,51 +4,121 @@
 
 ![Image title](/assets/OW/classes/Fighter.png)
 
-<img src="/assets/sep_line.png"/>==
+<img src="/assets/sep_line.png"/>
 
-*Bojovníci jsou mistři zbraně, kteří vypilovali své bojové schopnosti až na úroveň umění. Ať už bojují za čest, zlato nebo slávu. Jejich smrtelné útoky a obdivuhodné chvaty se hodí vždy když jde do tuhého. Mezi dobrodruhy je jejich úkolem především zabíjet silná monstra a chránit užitečné subjekty. Povolání bojovníka se hodí pro kohokoliv kdo se rád vrhá po hlavě do jakéhokoliv nebezpečí.*
+*Bojovníci jsou mistři zbraně, kteří vypilovali své bojové schopnosti až na úroveň umění. Ať už bojují za čest, zlato nebo slávu. Jejich smrtelné útoky a obdivuhodné chvaty se hodí vždy když jde do tuhého. Mezi dobrodruhy je jejich úkolem především zabíjet silná monstra a chránit užitečné subjekty. Specializace bojovníka se hodí pro kohokoliv kdo se rád vrhá po hlavě do jakéhokoliv nebezpečí.*
 
 <img src="/assets/sep_line.png"/>
 
 ## Tabulka postupu
 
-| ÚROVEŇ |       HP        | Bonus k zásahu | Z.Hod |
-| :----: | :-------------: | :------------: | :---: |
-|   1    | 2+1k6+MOD Výdrž |       +0       |  16   |
-|   2    | +1k8+MOD Výdrž  |       +1       |  15   |
-|   3    | +1k8+MOD Výdrž  |       +2       |  14   |
-|   4    | +1k8+MOD Výdrž  |       +3       |  13   |
-|   5    | +1k8+MOD Výdrž  |       +4       |  12   |
-|   6    | +1k8+MOD Výdrž  |       +5       |  11   |
-|   7    | +1k8+MOD Výdrž  |       +6       |  10   |
-|   8    | +1k8+MOD Výdrž  |       +7       |   9   |
-|   9    | +1k8+MOD Výdrž  |       +8       |   8   |
+| ÚROVEŇ |     HP      | Zásah | Z.Hod | HU Spec. |                            Extra                            |
+| :----: | :---------: | :---: | :---: | :------: | :---------------------------------------------------------: |
+|   1    |  10+Výdrž   |  +0   |  16   |    8     | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
+|   2    | +1k10+Výdrž |  +1   |  15   |    7     |                           Talent                            |
+|   3    | +1k10+Výdrž |  +2   |  14   |    7     |                     +1 Dovednostní bod                      |
+|   4    | +1k10+Výdrž |  +3   |  13   |    6     |                           Zastav                            |
+|   5    | +1k10+Výdrž |  +4   |  12   |    6     |                           Talent                            |
+|   6    | +1k10+Výdrž |  +5   |  11   |    5     |                     +1 Dovednostní bod                      |
+|   7    | +1k10+Výdrž |  +6   |  10   |    5     |                      Nával adrenalinu                       |
+|   8    | +1k10+Výdrž |  +7   |   9   |    4     |                           Talent                            |
+|   9    | +1k10+Výdrž |  +8   |   8   |    4     |                     +1 Dovednostní bod                      |
+|   10   | +1k10+Výdrž |  +9   |   7   |    3     |                         Extra útok                          |
+|  11+   |     +1      |  +9   |   7   |    3     |              Talent (a každou další 3. úroveň)              |
 
-## Schopnosti povolání
+## Schopnosti specializace
 
 **Trénované zbraně:** Všechny
 
 **Trénovaná brnění:** Všechny včetně štítů
 
-**Bonus k záchraně:** +2 proti smrti a síle
+**Bonusy k záchranným hodům:** +2 proti zhoubě a +1 proti trikům
 
-### Bojové talenty
+### Um
 
-Na první úrovni si může bojovník vybrat *1* z bojových talentů níže.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro bojovníka je to převážně boj, avšak určitě se najdou i jiné věci, ve kterých by mohl vynikat. Jako jsou odhadování humanoidních soupeřů, posouzení kvality zbraní, zbrojí či koní. Prostě cokoliv, nesouvisícího s bojem, co ti dává smysl, že by tvá postava měla jako bojovník umět, je pokryto touto schopností. Pokud máš na základě této schopnosti házet kostkou používá se *ověření specializace*. Hod *1k12* proti *HU Spec.* z tabulky postupu výše.
 
-**Další bojový talent:** Bojovník si může vybrat další bojový talent na úrovni *3*, *6* a *9*.
+### Boj se dvěma zbraněmi
 
-- **Boj se dvěma zbraněmi** - Při boji dvěma zbraněmi je tvůj bonus k zásahu a poškozeni *+2* na místo +1. Také máš při boji dvěma zbraněmi bonus *+1 k OČ* proti útokům na blízko.
-- **Hbité ruce** - Můžeš zaútočit malou zbraní na dálku nebo použít malý předmět (ne větší jak 1 slot), bez postihů i pokud se zrovna nachází ve vzájemném ohrožení s nepřítelem.
-- **Ochránce** - Stvoření, které je v blízkém boji s bojovníkem, má postih *-2* na zásah ke všem útokům, které směřují na někoho jiného.
-- **Rozmetat** - Zabiješ-li útokem na blízku nepřítele. Může se pokusit o další útok na blízku s postihem *-2* do jiného nepřítele v dosahu.
-- **Vřítit se do šarvátky** - V prvním kole boje. Se můžeš pohnout až dvojnásobkem své hybnosti po přímé linii a ještě k tomu zaútočit. Pokud při náběhu uběhne aspoň *15 metrů* tvé první způsobené poškození na blízku bude dvojnásobné.
-- **Vůdce** - Spojenci v okolí 12 metrů kolem tebe mají bonus *+1* k morálce a záchranným hodům proti ovlivnění mysli.
-- **Zbraňová specializace** - Vyber si typ zbraně nebo štít. Získáváš bonus *+1* k zásahu a poškození touhle zbraní. Pokud sis vybral štít, tak všechny štíty mají pro tebe o *1* vyšší OČ. Tento talent si lze vybrat opakovaně i pro stejné zbraně (mimo štítu). 
-- **Vlastní** - Zkus přijít s něčím vlastním.
+Bojovník je mistrem všech zbraní a dokáže efektivně používat 2 jednoruční zbraně naráz. Lze kombinovat 2 libovolné jednoruční zbraně nebo 1 jeden-a-půl-ruční a 1 jednoruční zbraň.
 
-### Extra útok (Úroveň 9)
+- **Útok:** Pokud chce bojovník útočit oběma zbraněmi a má rozličné modifikátory na zásah jednou z jeho zbraní. Útočí s tím vyšším modifikátorem.
+- **Poškození:** Poškození se hodí na obou zbraní a aplikuje se vyšší výsledek (včetně modifikátorů).
+- **Neozbrojený útok:** Pokud má bojovník jen jednu zbraň může pro *"útok dvěma zbraněmi"* použít volnou ruku jako *neozbrojený útok*.
 
-Od 9. úrovně může bojovník provést *2 útoky* jako součást jedné *běžné akce*.
+### Bojové manévry
+
+Bojovník si jako součást každého svého hodu na zásah, hází také na *ověření specializace*. Pokud zasáhne cíl a zároveň uspěje v ověření specializace, může ke svému útoku přidat i bojový manévr jako *volnou akci*. Cíl manévru má nárok na relevantní záchranný hod, aby manévru odolal.
+
+- **Kritický zásah:** Úspěch v ověření specializace v kombinaci s kritickým zásahem. Připraví cíl o možnost záchranného horu.
+
+### Momentum
+
+Bojovník v boji získává *momentum*, které mu umožňuje obratněji bojovat.
+
+- **Získávání:** Bojovník získá momentum za každého zabitého protivníka v boji.
+- **Maximum:** Neexistuje limit kolik momentum může bojovník za boj nasbírat avšak nevyužité momentum na konci boji vyprchá.
+- **Využití:** Bojovník může spotřebovat jedno momentum a provést útok jako *rychlou akci* na cíl v dosahu a to i během tahu soupeře.
+
+### Zastav (Úroveň 4)
+
+Bojovník se může pokusit využít nepozornost soupeře a přerušit jeho akci. Bojovník se může jako *rychlou akci* (během tahu soupeře) pokusit přerušit *pohyb* nebo *běžnou akci*, které sám není cílem. Cíl musí uspět v *záchranném hodu proti trikům* jinak je jeho akce přerušena.
+
+### Na dluh (Úroveň 7)
+
+V těch nejhorších situacích může bojovník sáhnout do svých psychických a fyzických rezerv a dosáhnout vítězství. Bojovník si může jako *volnou akci* způsobit *1 bod vyčerpání* a tím získat *5 dočasných životů* a *1 momentum*.
+
+- **Opakované použití:** Bojovník může tuhle schopnost použít kolikrát chce dokonce i vícekrát jako součást jednoho použití. Nesmí však přesáhnout 5 bodů vyčerpání (6 pokud je smířený s tím, že na konci umře).
+- **Postihy za vyčerpání:** Postihy za vyčerpání se neprojeví ihned, ale až po boji, kdy byla schopnost použita.
+
+### Extra útok (Úroveň 10)
+
+Od 10. úrovně může bojovník provést 2 útoky jako součást jedné *běžné akce*.
+
+<img src="/assets/sep_line.png"/>
+
+## Talenty ==todo seřadit dle abecedy==
+
+Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro bojovníka níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
+
+<img src="/assets/sep_line.png"/>
+
+### Rychlý start
+
+**Požadavek:** -
+
+**Efekt:** Na začátku boje obdrží bojovník *1 momentum*.
+
+<img src="/assets/sep_line.png"/>
+
+### Zbraňová specializace
+
+**Požadavek:** -
+
+**Efekt:** Vyber si typ zbraně se kterým jsi trénovaný. Získáváš bonus *+1* k zásahu a poškození touhle zbraní. Tento talent si lze vybrat opakovaně. Dokonce i pro stejnou zbraň (pro stejnou zbraň maximálně 2x).
+
+<img src="/assets/sep_line.png"/>
+
+### Běsnění
+
+**Požadavek:** -
+
+**Efekt:** Bojovník může jako *rychlou akci* během svého tahu začít běsnit. Běsnění uděluje bonus *+2* do všech hodů na sílu a výdrž (ověření dovedností, hod na zásah, poškození zbraní na blízku, záchranné hody atd...). Bojovník může na jedno použití běsnit až *5 kol*. Na konci běsnění obdrží *1 bod vyčerpání*.
+
+<img src="/assets/sep_line.png"/>
+
+### Vřítit se do šarvátky
+
+**Požadavek:** -
+
+**Efekt:** V prvním kole boje. Se může bojovník pohnout až dvojnásobkem své hybnosti po přímé linii a ještě k tomu zaútočit. Pokud při náběhu uběhne aspoň *15 metrů* a zasáhne svůj cíl. Jeho způsobené poškození je dvojnásobné.
+
+<img src="/assets/sep_line.png"/>
+
+### Štítová zeď
+
+**Požadavek:** -
+
+**Efekt:** Všechny štíty v rukou bojovníka dávají extra *+1 OČ*. Navíc může bojovník použít svou *běžnou akci* na obranu spojence. Tím se jeho bonus do OČ za štít připočítává jak bojovníkovi samotnému tak i spojenci.
 
 <img src="/assets/sep_line.png"/>

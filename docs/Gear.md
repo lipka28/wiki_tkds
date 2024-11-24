@@ -82,7 +82,7 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 | Kopí            |    1+R, h, sp     |  1k6/1k8 P  |     1     | 7 st  |
 | Krátký meč      |        1R         |   1k6 S/P   |     1     | 10 st |
 | Krátké kopí     |    ZZ, 1R, dh     |    1k6 P    |     1     | 1 st  |
-| Nůž             |       1R, h       |   1k4 S/P   |     L     | 5 st  |
+| Nůž             |     ZZ, 1R, h     |   1k4 S/P   |     L     | 5 st  |
 | Obouruční meč   |      2R, sp       |   2k6 S/P   |     1     | 30 st |
 | Obušek          |    ZZ, 1R, sp     |    1k4 T    |     1     | 2 st  |
 | Palcát          |      1+R, sp      |  1k6/1k8 T  |     1     | 10 st |
@@ -100,7 +100,7 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 | Krátký luk      |        2R         |  30/60  |   1k6 P   |     1     | 10 st |
 | Kuše            |   ZZ, 2R, N, sp   | 60/120  |   1k8 P   |     1     | 20 st |
 | Prak            |      1+R, sp      |  30/60  |   1k3 T   |     1     | 1 st  |
-| Příruční kuše   |  ZZ, 1+R, N, sp   |  10/20  |   1k6 P   |     1     | 30 st |
+| Příruční kuše   |  ZZ, 1+R, N, sp   |  10/20  |   1k6 P   |     1     | 35 st |
 
 ### Munice
 
