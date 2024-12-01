@@ -10,28 +10,37 @@
 
 | BOJOVÁ SEKVENCE KAŽDÉ KOLO                                   |
 | :----------------------------------------------------------- |
-| *1. Strana s iniciativou je na řadě:*<br /> a. Ověření morálky (je-li třeba)<br /> b. Odehrání tahu <br /> c. Konec trvajících efektů |
-| *2. Ostatní strany jsou na řadě:* V pořadí iniciativy        |
-| *3. Zpět na krok 1 dokud není souboj nebo setkání ukončeno.* |
+| *1. Taste zbraně!*                                           |
+| *2. Strana co je na řadě:*<br /> a. Ověření morálky (je-li třeba)<br /> b. Odehrání tahu <br /> c. Konec trvajících efektů |
+| *2. Ostatní strany jsou na řadě*                             |
+| *3. Zpět na krok 2 dokud není souboj ukončen.*               |
+
+**Taste zbraně!:** Každá strana hodí *1k20*, strana s nejvyšším hodem začíná (remíza jde ve prospěch hráčů).
 
 **Ověření morálky:** Stvoření mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se vzdát nebo dát na útěk. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti. 
 
 !!! note "Příklad: Zvraty v boji"
     Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
 
-**Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést *pohyb*, jednu *rychlou akci* a jednu *běžnou akci*. Hráč může také své kolo prokládat *volnými akcemi*. Jednotlivé akce fungují následovně.:
+<p><img src="/assets/round.png" alt="Kolo" width="15"> <span><b>Odehrání tahu:</b> Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést <i>pohyb</i>, jednu <i>rychlou akci</i> a jednu <i>běžnou akci</i>. Hráč může také své kolo prokládat <i>volnými akcemi</i>. Všechny tyto "akce" se postavě obnoví pokaždé, když přijde na řadu. Jednotlivé akce fungují následovně.:</span></p>
 
-- *Běžná akce:* Za běžnou akci je považován například útok, výměna zbraní a nebo použití vybaveného předmětu. *Provedení běžné akce ukončuje tah!*
-- *Rychlá akce:* Některé postavy disponují schopnostmi, které se dají použít jako rychlá akce.
-- *Pohyb:* Stvoření se může za kolo pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně.
-- *Volné akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí a podobně.
+- <p><img src="/assets/action.png" alt="běžná akce" width="15"> <span><i>Běžná akce:</i> Za běžnou akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzla, použití předmětu či významná obměna výzbroje (změna držených zbraní). Provedení běžné akce <i>znemožňuje další pohyb</i> v daném tahu!</span></p>
+
+- <p><img src="/assets/faction.png" alt="rychlá akce" width="15"> <span><i>Rychlá akce:</i> Některé postavy disponují schopnostmi, které se dají použít jako rychlé akce a to někdy i během tahu soupeře. Alternativně se dá použít rychlá akce k posílení některých kouzel.</span></p>
+
+- <p><img src="/assets/move.png" alt="pohyb" width="15"> <span><i>Pohyb:</i> Stvoření se může za kolo pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Alternativně se dá použít celý pohyb k posílení některých kouzel.</span></p>
+
+- <p><img src="/assets/free.png" alt="volná akce" width="15"> <span><i>Volná akce:</i> Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.</span></p>
 
 !!! note "Pohyb na čtvercové síti"
     Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*. Na hexagonové síti není třeba tento rozdíl řešit.
 
+!!! note "Tah monster"
+    Monstra se řídí stejnými pravidly boje jako hráči. Silná monstra však mohou mít výjimky z těchto pravidel. Jako například více útoků součástí jedné běžné akce nebo víc jak jednu rychlou akci.
+
 **Konec trvajících efektů:** Efekty, kterými jsou ovlivněni členové skupiny, která je na tahu, ukončí své trvání. Pokud tyto efekty mají delší trvání jak 1 kolo, zkrátí se jejich doba trvání o 1 kolo. Působí-li takový efekt poškození (například někdo hoří nebo plave v kyselině), poškození je uděleno v této fázi.
 
-**Další na tahu:** Opakuj kroky *1a* až *1c* pro každou stranu konfliktu v pořadí iniciativy.
+**Další na tahu:** Opakuj kroky *2a* až *2c* pro každou stranu konfliktu v pořadí iniciativy.
 
 ### Časté bojové situace
 
@@ -101,8 +110,8 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 **Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
 
 - **Fyzické:** A jeho varianty sečné, průrazné a tupé poškození.
-- **Energetické a magické:** Kyselina, Oheň, Mráz, Elektřina, Síla (čistá energie), Psychické.
-- **Pozitivní a negativní:** Pozitivní ubližuje všemu nemrtvému či démonickému ale pro vše živé je neškodné. Negativní funguje obráceně.
+- **Energetické a magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá energie), Psychické.
+- **Pozitivní a negativní:** Pozitivní ubližuje všemu nemrtvému či démonickému ale pro vše živé je léčivé. Negativní funguje obráceně.
 
 **Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna jinými nezranitelnými monstry.
 

@@ -65,7 +65,7 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 
 - **Základní zbraň (ZZ):** Zbraň, která nevyžaduje speciální trénink pro efektivní používání v boji.
 - **Manipulace (1R/1+R/2R):** Pro efektivní použití v boji mohou zbraně potřebovat různý počet volných ruk. Jsou zbraně co jsou jednoruční, takové lze kombinovat s jinými jednoručními zbraněmi a štítem. Jeden a půl ruční, které lze využít jak jako jednoruční tak obouruční zbraň a v neposlední řadě obouruční, většinou s největší kostkou poškození nebo dosahem.
-- **Hozené (h/dh):** Zbraně, které lze hodit na vzdálenost danou dvojnásobkem síly postavy. Ty označené "dh" umožňují i hod na neefektivní vzdálenost. Hozené zbraně připočítávají *sílu* ke svému poškození.
+- **Hozené (h/dh):** ==todo: potřebuje předělat== Zbraně, které lze hodit na vzdálenost *10 metrů*. Ty označené "dh" umožňují i hod na neefektivní vzdálenost *20 metrů*. Hozené zbraně připočítávají *sílu* k hodu na zásah.
 - **Nabíjecí zbraň (N):** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebití zbraně vyžaduje *běžnou akci*.
 - **Dostřel:** Popisuje na jakou vzdálenost lze útočit střelnou zbraní. Obsahuje 2 hodnoty a to efektivní a neefektivní vzdálenost. Většinou střelných zbraní lze střílet i na neefektivní vzdálenost. Ten je vždy dvojnásobkem efektivního dostřelu (nebo dohodu) zbraně. Takový útok však probíhá *s postihem -4* na zásah. Střelnými zbraněmi nelze útočit na vzdálenost menší jak *2 metry*.
 - **Typ poškození:** Každá zbraň má aspoň jeden ze tří typů poškození. Typy poškození jsou S - Sečné, P - Průrazné a T - Tupé poškození.
@@ -84,7 +84,7 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 | Krátké kopí     |    ZZ, 1R, dh     |    1k6 P    |     1     | 1 st  |
 | Nůž             |     ZZ, 1R, h     |   1k4 S/P   |     L     | 5 st  |
 | Obouruční meč   |      2R, sp       |   2k6 S/P   |     1     | 30 st |
-| Obušek          |    ZZ, 1R, sp     |    1k4 T    |     1     | 2 st  |
+| Obušek          |      1R, sp       |    1k4 T    |     1     | 2 st  |
 | Palcát          |      1+R, sp      |  1k6/1k8 T  |     1     | 10 st |
 | Palice          |      ZZ, 1R       |    1k4 T    |     1     | 5 md  |
 | Sekyra          |    1+R, h, sp     |  1k6/1k8 S  |     1     | 10 st |
@@ -146,7 +146,8 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 
 **Obušek:** Kožený obušek plněný pískem nebo s olověným jádrem. 
 
-- *SP:* Obuškem nelze zabít. Cíl jehož životy klesnou na *0* po útoku obuškem je omráčen. ==todo reword pro rogunu== Alternativně cíl překvapený zásahem obuškem zezadu musí podstoupit záchranný hod proti síle nebo být omráčen. Omráčení trvá *1k6 směn*.
+- *SP1:* Obuškem nelze zabít. Cíl jehož životy klesnou na *0* po útoku obuškem je omráčen na *1k6 směn*.
+- SP2: Pro vyhodnocení lotrových talentů je tato zbraň považována za nůž.
 
 **Oštěp:** Kratší a lehčí verze kopí. Uzpůsobená především na házení.
 

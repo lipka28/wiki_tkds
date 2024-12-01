@@ -1,4 +1,4 @@
-# Člověk
+# Skřítek ==TODO: make + Goblin as alt==
 
 <img src="/assets/sep_line.png"/>
 
@@ -45,9 +45,5 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 **Hybnost:** 9 metrů
 
 **Doba přirozeného dožití:** 50 - 70 let
-
-## Speciální vlastnosti
-
-- **Rychle se učí** - Hranice úspěchu pro ověření specializace je pro tebe vždy o *1* nižší než je psáno v tabulce postupu pro specializaci, kterou sis vybral. 
 
 <img src="/assets/sep_line.png"/>

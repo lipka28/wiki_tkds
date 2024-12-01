@@ -1,4 +1,4 @@
-# Trpaslíci
+# Trpaslík
 
 <img src="/assets/sep_line.png"/>
 
@@ -39,7 +39,7 @@ Nejčastěji se dobrodruhy stávají mladí trpaslíci, kteří chtějí dosáhn
 
 ## Vlastnosti
 
-**Dovednosti:** *Síla*, *Výdrž* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *Síla*, *Výdrž* a *1 libovolný dovednostní bod*
 
 **Vrozené jazyky:** Trpasličtina + Jazyk společenství
 

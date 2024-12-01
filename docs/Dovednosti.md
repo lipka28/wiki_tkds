@@ -1,4 +1,4 @@
-# Dovednostni
+# Dovednostni ==todo Reword dle nových účelů==
 
 <img src="/assets/sep_line.png"/>
 
@@ -10,7 +10,7 @@ Dovednostní body určují, zda hráčova postava vyniká, nebo je naopak horš�
 
 ## Síla
 
-Svaly a fyzická síla. Hlavní využití síly je při manipulaci s těžkými předměty. Modifikátor síly se přičítá k poškození většiny zbraní.
+Svaly a fyzická síla. Hlavní využití síly je při manipulaci s těžkými předměty. Modifikátor síly se přičítá k poškození většiny zbraní a k hodům na zásah zbraněmi na blízku nebo hozenými zbraněmi. 
 
 ## Obratnost
 
@@ -20,7 +20,7 @@ Pohyblivost, reflexy a rovnováha. Hodí se na příklad při šplhání nebo p�
 
 Vytrvalost představuje zdraví a odolnost. Na vytrvalosti záleží jak při zadržování dechu tak i při boji o holý život. Modifikátor výdrže ovlivňuje hlavně zdraví.
 
-## Vzdělání
+## Vzdělání ==todo zmínit gramotnost==
 
 Vzdělání představuje rozsah vzdělání, jaké bylo postavě poskytnuto, ale i do jisté míry to, jak zvládá pracovat s informacemi. Vzdělání určuje gramotnost hráčovy postavy a modifikátor Vzdělání za to, kolik jazyků postava ovládá.
 

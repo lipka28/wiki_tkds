@@ -12,7 +12,7 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP      | Zásah | Z.Hod | HU Spec. |                            Extra                            |
+| ÚROVEŇ |     HP      | Zásah | Z.Hod | HU Spec. |                           Odemyká                           |
 | :----: | :---------: | :---: | :---: | :------: | :---------------------------------------------------------: |
 |   1    |  10+Výdrž   |  +0   |  16   |    8     | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
 |   2    | +1k10+Výdrž |  +1   |  15   |    7     |                           Talent                            |
@@ -24,9 +24,11 @@
 |   8    | +1k10+Výdrž |  +7   |   9   |    4     |                           Talent                            |
 |   9    | +1k10+Výdrž |  +8   |   8   |    4     |                     +1 Dovednostní bod                      |
 |   10   | +1k10+Výdrž |  +9   |   7   |    3     |                         Extra útok                          |
-|  11+   |     +1      |  +9   |   7   |    3     |              Talent (a každou další 3. úroveň)              |
+|  11+   |     +3      |  +9   |   7   |    3     |              Talent (a každou další 3. úroveň)              |
 
 ## Schopnosti specializace
+
+**Získané Dovednosti:** *Síla* a *1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Všechny
 
@@ -56,7 +58,7 @@ Bojovník si jako součást každého svého hodu na zásah, hází také na *ov
 
 Bojovník v boji získává *momentum*, které mu umožňuje obratněji bojovat.
 
-- **Získávání:** Bojovník získá momentum za každého zabitého protivníka v boji.
+- **Získávání:** Bojovník získá momentum za každého zabitého protivníka v boji nebo za kritický zásah.
 - **Maximum:** Neexistuje limit kolik momentum může bojovník za boj nasbírat avšak nevyužité momentum na konci boji vyprchá.
 - **Využití:** Bojovník může spotřebovat jedno momentum a provést útok jako *rychlou akci* na cíl v dosahu a to i během tahu soupeře.
 

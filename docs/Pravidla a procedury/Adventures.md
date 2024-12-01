@@ -31,7 +31,7 @@ Pro některé skupiny může být zajímavé nebo dokonce nutné, rozdělit ve s
 Během hry mohou nastat situace, kdy výsledek nějaké situace není úplně jednoznačný. Nejasné situace by měl PJ řešit první vyhovující metodou z následujícího seznamu:
 
 - **Řešení herní procedurou** - Situace, která má jasně popsanou proceduru v pravidlech, by měla být vyhodnocena dle dané procedury. Příkladem takových procedur může být boj, sesílání kouzel nebo třeba používání schopností postav.
-- **Řešení popisem** - Hráč důkladně popíše jak by danou aktivitu prováděl a jaký výsledek z ní očekává. PJ vyhodnotí zda je to reálné a případně umožní hráči akci vykonat bez nutnosti nějakého hodu. Při vyhodnocování by měl PJ vzít v potaz především hráčovu specializaci a jeho ostatní vlastnosti.
+- **Řešení popisem** - Hráč důkladně popíše jak by danou aktivitu prováděl a jaký výsledek z ní očekává. PJ vyhodnotí zda je to reálné a jestli existuje šance selhání. V případě, kdy je šance na selhání zanedbatelná umožní hráči akci vykonat bez nutnosti nějakého hodu.
 - **Řešení ověřovacím hodem** - Pokud PJ usoudí, že je akce možná ale nikoliv bez rizika. Může po hráči chtít jeden z ověřovacích hodů. Základními ověřovacími hody jsou *hod na zásah*, *ověření specializace*, *ověření dovednosti*, *záchranný hod* nebo *přímý hod*. Více o nich dále.
 - **Zamítnutí** - Pj má samozřejmě právo akci zakázat pokud mu přijde nesmyslná.
 
@@ -71,6 +71,9 @@ Je varianta ověření dovednosti, která však není modifikována žádnou dov
 
 Pokud jde v prováděné akci čistě o náhodu. PJ může stanovit pevnou pravděpodobnost (hodnota na libovolné kostce), kterou musí hráč přehodit a tím situaci vyřešit.
 
+!!! note "Akce cizích specializací"
+    Pokud se hráčova postava chce pokusit o aktivitu, která je pro ní reálná ale je předmětem cizí specializace (Například, když se bojovník pokusí odemknout zámek zlodějskými nástroji nebo mág chce stopovat nestvůru). Lze ji řešit *ověřením dovednosti* nebo *přímým hodem*. Hladina úspěchu pro takové ověření však nebude nikdy nižší než *12*.
+
 <img src="/assets/sep_line.png"/>
 
 ## Záchranné hod
@@ -88,7 +91,7 @@ Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli pln�
 !!! warning "Mapování B/X záchranných hodů"
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na výčet jiných záchranných hodů. Ty se mapují následovně: *Paralýza a Dech /hůlky* = Proti trikům, *Smrt* / *Jed* = Proti zhoubě, *Kouzla* / *Hole* = Proti magii.
 
-**Hod záchranného hodu:** Když PJ vyžaduje záchranný hod, tak si hráč hodí *1k20*, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako záchranný hod ve svém deníku postavy. 
+**Hod záchranného hodu:** Když PJ vyžaduje záchranný hod, tak si hráč hodí *1k20*, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako záchranný hod ve svém deníku postavy.
 
 - *Větší rovno:* Pokud je výsledek větší nebo roven, tak je hod úspěšný. 
 - *Nižší:* V případě nižších výsledků se jedná o neúspěch. 
@@ -102,7 +105,7 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 ### Léčení
 
-**Přirozená regenerace:** Za každé přenocování postava zregeneruje *2+Odolnost života*.
+**Přirozená regenerace:** Za každý odpočinek stvoření zregeneruje *2+Odolnost* životů.
 
 **Magické léčení:** Léčit lze také pomocí lektvarů, nebo kouzel. Tato forma léčení je většinou okamžitá. Magické a přirozené léčení lze kombinovat.
 
@@ -194,17 +197,19 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 
 **Efekty vyčerpání:** Každý bod vyčerpání představuje postih do všech *ověřovacích a záchranných hodů*, *hodů na poškození*, *Obraného čísla* a *hybnosti*. Navíc vyčerpaná postava pokoušející se seslat kouzlo musí uspět v *přímém hodu* proti HU odpovídající počtu bodům vyčerpání, jinak sesílání kouzla selže.
 
-**Smrt z vyčerpání:** Dosáhne-li postava *6-ti* bodů vyčerpání, tak zemře.
+**Smrt z vyčerpání:** Dosáhne-li postava *6-ti* bodů vyčerpání, tak ihned umírá.
 
-**Zbavení se vyčerpání:** Vyčerpání se lze zbavit buďto magií nebo celodenním odpočinkem v bezpečí civilizace, kdy každý den takového odpočinku *vyléčí jeden bod vyčerpání*.
+**Zbavení se vyčerpání:** Vyčerpání se lze zbavit buďto magií nebo celodenním odpočinkem, kdy každý den takového odpočinku *vyléčí jeden bod vyčerpání*.
 
 <img src="/assets/sep_line.png"/>
 
-## Přenocování v divočině 
+## Odpočinek ==todo zformulovat (najít všechny zmínky přenocování a nahradit)==
 
-Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i dobrý plán a hlavně zásoby. Dobrodružné výpravy totiž málo kdy trvají jen 1 den. Pro úspěšné přenocování potřebuje postava *cestovní výbavu* a *1 den zásob*. Jakékoliv následky za nesplnění těchto podmínek jsou v režii PJ.
+Po dostatečně dlouhém průzkumu si hráčské postavy mohou chtít odpočinout. Za odpočinek se většinou považuje přenocování do dalšího dne na bezpečném místě. Reálně se však jedná o libovolný odpočinek, při kterém má každá z postav možnost si odpočinout aspoň 8 hodin a provést veškeré nutné přípravy, aby mohla pokrčovat v dobrodružství.
 
-**Přenocování v kobce:** Ve většině případů není možné, protože by postavy byly celou noc rušeny putujícími monstry. Může však existovat výjimka v podobě dobře ukrytého a zabezpečeného místa uvnitř kobky, kde se dá nerušeně přenocovat.
+- **Potřebná výbava:** K získání všech benefitů z odpočinku (jako je třeba přirozená regenerace) musí mít postava k dispozici minimálně *cestovní výbavu* a *1 den zásob*. V horších klimatech však může být potřeba další výbava.
+
+**Celodenní odpočinek:** Pokud si hráč přeje, může deklarovat že jeho postava celý den nic nedělá a jen odpočívá. Tím jsou benefity odpočinku zdvojnásobené a lze se tak zbavit únavy.
 
 <img src="/assets/sep_line.png"/>
 
@@ -216,7 +221,7 @@ Na dobrodružství většinou nestačí mít jen zbraně. Často je potřeba i d
 | *2. Ztráta směru* - PJ Rozhodne zda se hráči po cestě ztratí. |
 | *3. Náhodná setkání* - PJ hodí aplikovatelné hody, aby rozhodl zda se během cesty něco přihodí. |
 | *4. Popis* - PJ hráčům popíše cestu a všechny události co se během ní staly. |
-| *5. Konec dne* - PJ aktualizuje časové záznamy a upraví dobu trvání kouzel. Hráči si také musí odpočinout po dni cesty. (viz. [Přenocování v divočině](/Pravidla%20a%20procedury/Adventures/#prenocovani-v-divocine)) |
+| *5. Konec dne* - PJ aktualizuje časové záznamy a upraví dobu trvání kouzel. Hráči si také musí odpočinout po dni cesty. (viz. [Odpočinek](/Pravidla%20a%20procedury/Adventures/#odpocinek)) |
 
 **Výběr směru:** Hráči si na základě orientačních bodů, cesty nebo dle světových stran, určí jakým směrem chtějí cestovat.
 
@@ -255,11 +260,11 @@ Alternativní metodou jak řešit cestování, je "rychlé cestování". Vhodné
 | *3. Popis* - PJ hráčům popíše co se stalo a jaký efekt měli jejich akce. |
 | *4. Konec směny* - PJ aktualizuje časové záznamy a upraví dobu trvání kouzel či zdrojů světla. |
 
-**Putující monstra:** V kobkách se hráči mohou často setkat s putujícími monstry. Ve výsledku je to mechanismus omezující kolik času jsou hráči schopni vydržet v kobce než se budou muset stáhnout.  
+**Náhlá sektání a putující monstra:** V kobkách se hráči mohou často setkat s putujícími monstry. Ve výsledku je to mechanismus omezující kolik času jsou hráči schopni vydržet v kobce než se budou muset stáhnout.  
 
-- *Frekvence:* Hod na putující monstra probíhá většinou jednou za 2 kola. (Publikovaná dobrodružství však mohou používat i jinou frekvenci) 
+- *Frekvence:* Hod na putující monstra probíhá většinou jednou za směnu. (Publikovaná dobrodružství však mohou používat i jinou frekvenci) 
 - *Hlasité zvuky:* Alternativně lze hodit na putující monstra i v případě, že hráči svým chováním způsobí nějaký randál. 
-- *Šance:* Šance na setkání s putujícím monstrem je většinou *2 z 6-ti*.
+- *Šance:* Šance na setkání s putujícím monstrem je většinou *1 z 6-ti*.
 
 ### Nejčastější akce při průzkumu kobek
 
@@ -283,41 +288,38 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 **Pasti:** Pasti jsou další nepostradatelnou součástí kobek. Existují 2 kategorie pastí. Skryté a nápadné. Pasti jsou postavami buď automaticky sponzorovány a nebo by PJ měl poskytnout hráčům dostatek vodítek, že se v dané lokalitě vyskytuje past. Takovou pastí může být třeba díra s bodci uprostřed chodby, podezřelé pravidelně rozmístěné otvory ve stěnách místnosti nebo velké kladivo visící nad dveřmi. 
 
 - *Spouštěcí mechanizmus:* Každá past má svůj spouštěcí mechanizmus. (Jako otevření dveří, přejití přes určitou oblast či narušení magických run. atd...) 
-- *Šance na spuštění:* Převážná většina pastí v kobkách jsou staré a nespolehlivé. Taková past má šanci na spuštění *2 z 6-ti*.
 
 !!! tip "Rada pro PJ: Neschovávej své pasti."
     Tvé pasti by měli mít vždy dostatek vodítek aby je hráči mohli odhalit dřív než do nich stoupnou. Výzva v překonání pasti by měla být vždy v tom jak past projít / obejít, nikoliv v tom jak ji odhalit. Gotcha momenty, kdy past zabije nic netušícího hráče, nejsou dlouhodobě zábavné pro nikoho.
 
 <img src="/assets/sep_line.png"/>
 
-## Náhlá setkání
+## Setkání ==todo překopat==
 
-| POSTUP PŘI NÁHODNÉM SETKÁNÍ                                  |
+| POSTUP sestavení náhodných setkání                           |
 | :----------------------------------------------------------- |
-| *1. Iniciativa:* PJ nebo hráč hodí na iniciativu (pokud aplikovatelné) |
-| *2. Vzdálenost setkání:* PJ rozhodne jak daleko jsou od sebe hráči a monstrum |
-| *3. Akce:* Každá strana, která není překvapená se rozhodne jak bude na setkání reagovat a setkání se odehraje |
-| *4. Závěr:* Uběhne 1 kolo                                    |
+| *1. Překvapení:* Zda nějaká strana nebyla zastihnuta ve zranitelné situaci |
+| *2. Vzdálenost setkání:* Jak daleko jsou od sebe hráči a monstrum v době setkání nachází |
+| *3. Akce hráčů:* Hráči si určí co chtějí dělat (pokud nejsou překvapeni) |
+| *4. Reakce monster:* Jak bude monstrum na hráče reagovat.    |
 
-**Hod na iniciativu a překvapení:** Pokud to není jasné ze vzniklé situace PJ si může vyžádat hod na iniciativu. Ten probíhá tak, že hráč nebo PJ hodí *1k12* a vyhodnotí výsledek:
+**Hod na překvapení:** Hod *1k6* výsledek >=5 monstrum je překvapeno, <=2 hráči jsou překvapeni. V situacích kdy nejsou hráči překvapeni, mohou reagovat jako první.
 
-- *Výsledek 7 a výš:* Hráči jsou na řadě první. Pokud na kostce padlo *11* nebo *12* nepřítel je překvapen a vynechá své první kolo.
-- *Výsledek 6 a méně:* Nepřátelé jsou na řadě první. Pokud na kostce padlo 1 nebo 2 hráči jsou překvapeni a vynechají své první kolo.
-- *Výjimky z překvapení:* Překvapení není vždy aplikovatelné, například pokud protistrany vědí o své přítomnosti před začátkem setkání.
-- *Plížení v iniciativě:* Někdy se mohou hráči chtít proplížit kolem nepřátel. Jejich postavy zůstanou ukryty každé kolo, co vyhrají iniciativu.
-
-!!! Warning "Iniciativa neznamená vždycky boj"
-    Iniciativa při náhodných setkání neznamená boj. Pouze určení pořadí všech účastníků setkání.
-    
+- *Překvapení jako plížení:* Někdy se mohou hráči chtít proplížit kolem nepřátel. Jejich postavy zůstanou ukryty každé kolo, co zůstane soupeř překvapen (ověřováno každé kolo).    
 
 **Vzdálenost setkání:** Situace při které k setkání dojde většinou určuje vzdálenost mezi účastníky. Pokud však není na první pohled jasné jak jsou účastníci daleko od sebe, je možné určit vzdálenost náhodným hodem dle místa setkání:
 
 - *Vnitřní prostory:* *2k6 x 3* metrů (nebo *1k4 x 3* metrů pokud je některá ze stran překvapená).
 - *Divočina, moře nebo vzduch:* *4k6 x 10* metrů (nebo *1k4 x 10* metrů pokud je některá ze stran překvapená).
 
-**Akce** **Hráčů:** Hráči si rozhodnou co chtějí dělat 
+**Akce hráčů:** Pokud hráči nejsou překvapeni, mohou si jako první vybrat jak budou na vzniklé setkání reagovat. Akce může být v podstatě cokoliv ale časté reakce jsou:
 
-**Akce monster:** Pokud ze situace není jasné jak by monstrum reagovalo. Lze to rozhodnout pomocí hodu na reakci dle tabulky níže. Došlo-li na komunikaci mezi hráči a monstrem, tak k hodu na reakci lze přičíst modifikátor osobnosti hráče, který komunikaci vedl.
+- **Vyjednávání:** Hráči nebo stvoření se pokusí vyjednávat s opozicí.
+- **Útok:** Hráči nebo stvoření zaútočí (viz Taste zbraně! ==todo odkaz==).
+- **Útok s překvapením:** Hráč nebo libovolné stvoření může zaútočit před hodem na tasení a tím pro sebe získat bonusový tah (takto může zaútočit i více stvoření za ráz, pokud se jedná o nějakou předem domluvenou strategii). 
+- **Útěk:** Hráči nebo stvoření se dá na útěk. Na proti straně pak záleží zda chtějí pronásledovat (viz únik a pronásledování ==todo==).
+
+**Reakce monster:** Pokud ze situace není jasné jak by monstrum reagovalo. Lze to rozhodnout pomocí hodu na reakci dle tabulky níže. Došlo-li na komunikaci mezi hráči a monstrem, tak k hodu na reakci lze přičíst modifikátor osobnosti hráče, který komunikaci vedl.
 
 | 2k6         | VÝSLEDEK                                               |
 | :---------- | :----------------------------------------------------- |
@@ -327,11 +329,9 @@ V kobkách můžou na hráče čekat všelijaké nástrahy. Od monster přes pas
 | 9 - 11      | Lhostejný, může vyjednávat (hoď znovu další kolo s +4) |
 | 12 +        | Přátelský, nápomocný                                   |
 
-**Konec setkání:** Pokud setkání přeroste v boj. Následuj pravidla boje popsané [zde](/Pravidla%20a%20procedury/Combat/). Předpokládá se, že náhlá setkání (včetně bojů) trvají nejméně *1 směnu* a zaokrouhlují se k nejbližší směně nahoru. Je brán v potaz čas na odpočinek po boji, čištění výzbroje, obvázání ran a podobných aktivit.
-
 <img src="/assets/sep_line.png"/>
 
-## Únik a pronásledování
+## Únik a pronásledování ==TODO přidat nějké pravděpodobnosti na únik v rámci checků==
 
 Pokud se hráč nebo monstrum nechce účastnit setkání nebo boje. Může se pokusit o únik.
 

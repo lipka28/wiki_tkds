@@ -30,6 +30,10 @@ Ať už je vaše dobrodružství založeno na prozkoumání kobek, rozplétání
 
 <img src="/assets/sep_line.png"/>
 
+## Konkrétní pravidla přebíjí obecná
+
+Ve hře se nachází spousta obecných pravidel a procedur, které by se měli následovat. Hráči však často získají různé výjimky z těchto pravidel v podobě schopností, kouzel či magických předmětů. Proto je dobré míti na paměti, že specifická pravidla, jako je třeba popis fungování kouzla, vždy přebíjí ta obecná. 
+
 ## Kostky
 
 Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně tvarovaných kostek. Tyto kostky používají následující notaci:
