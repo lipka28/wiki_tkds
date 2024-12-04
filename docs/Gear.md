@@ -65,7 +65,7 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 
 - **Základní zbraň (ZZ):** Zbraň, která nevyžaduje speciální trénink pro efektivní používání v boji.
 - **Manipulace (1R/1+R/2R):** Pro efektivní použití v boji mohou zbraně potřebovat různý počet volných ruk. Jsou zbraně co jsou jednoruční, takové lze kombinovat s jinými jednoručními zbraněmi a štítem. Jeden a půl ruční, které lze využít jak jako jednoruční tak obouruční zbraň a v neposlední řadě obouruční, většinou s největší kostkou poškození nebo dosahem.
-- **Hozené (h/dh):** ==todo: potřebuje předělat== Zbraně, které lze hodit na vzdálenost *10 metrů*. Ty označené "dh" umožňují i hod na neefektivní vzdálenost *20 metrů*. Hozené zbraně připočítávají *sílu* k hodu na zásah.
+- **Hozené (h/dh):** ==todo: potřebuje předělat== Zbraně, které lze hodit na vzdálenost *5 metrů*. Ty označené "dh" umožňují i hod na neefektivní vzdálenost *10 metrů*. Hozené zbraně připočítávají *sílu* k hodu na zásah.
 - **Nabíjecí zbraň (N):** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebití zbraně vyžaduje *běžnou akci*.
 - **Dostřel:** Popisuje na jakou vzdálenost lze útočit střelnou zbraní. Obsahuje 2 hodnoty a to efektivní a neefektivní vzdálenost. Většinou střelných zbraní lze střílet i na neefektivní vzdálenost. Ten je vždy dvojnásobkem efektivního dostřelu (nebo dohodu) zbraně. Takový útok však probíhá *s postihem -4* na zásah. Střelnými zbraněmi nelze útočit na vzdálenost menší jak *2 metry*.
 - **Typ poškození:** Každá zbraň má aspoň jeden ze tří typů poškození. Typy poškození jsou S - Sečné, P - Průrazné a T - Tupé poškození.
@@ -96,10 +96,10 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 
 | Název zbraně    | Vlastnosti zbraně | Dostřel | Poškození | Skladnost | Cena  |
 | --------------- | :---------------: | :-----: | :-------: | :-------: | :---: |
-| Dalekonosný luk |        2R         | 60/240  |   1k6 P   |     1     | 15 st |
+| Dalekonosný luk |        2R         | 60/120  |   1k6 P   |     1     | 15 st |
 | Krátký luk      |        2R         |  30/60  |   1k6 P   |     1     | 10 st |
-| Kuše            |   ZZ, 2R, N, sp   | 60/120  |   1k8 P   |     1     | 20 st |
-| Prak            |      1+R, sp      |  30/60  |   1k3 T   |     1     | 1 st  |
+| Kuše            |   ZZ, 2R, N, sp   |  20/40  |   1k8 P   |     1     | 20 st |
+| Prak            |      1+R, sp      |  15/30  |   1k3 T   |     1     | 1 st  |
 | Příruční kuše   |  ZZ, 1+R, N, sp   |  10/20  |   1k6 P   |     1     | 35 st |
 
 ### Munice

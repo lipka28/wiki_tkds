@@ -97,6 +97,14 @@ Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli pln�
 - *Nižší:* V případě nižších výsledků se jedná o neúspěch. 
 - *NAT1 a NAT20:* V případě přirozené 1 se vždy jedná o neúspěch a v případě přirozených 20 je hod vždy úspěšný. 
 
+### Bojová únava
+
+Pokaždé, když stvoření *uspěje v záchranném hodu* a tím se kompletně vyvaruje nějakému efektu (mimo hodu přirozených 20). Obdrží *1 bod bojové únavy*. Bojová únava uděluje postih *-1 do všech záchranných hodů*.
+
+- **Trvání:** Bojová únava trvá vždy jen do konce boje, případně aktuální směny (co přijde později)
+- **Limit získávání:** V jednom kole nelze získat víc jak *1* bod bojové únavy.
+- **Maximum:** Stvoření může mít maximálně *5* bodu bojové únavy najednou.
+
 <img src="/assets/sep_line.png"/>
 
 ## Léčení a smrt
@@ -203,13 +211,15 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 
 <img src="/assets/sep_line.png"/>
 
-## Odpočinek ==todo zformulovat (najít všechny zmínky přenocování a nahradit)==
+## Odpočinek
 
 Po dostatečně dlouhém průzkumu si hráčské postavy mohou chtít odpočinout. Za odpočinek se většinou považuje přenocování do dalšího dne na bezpečném místě. Reálně se však jedná o libovolný odpočinek, při kterém má každá z postav možnost si odpočinout aspoň 8 hodin a provést veškeré nutné přípravy, aby mohla pokrčovat v dobrodružství.
 
 - **Potřebná výbava:** K získání všech benefitů z odpočinku (jako je třeba přirozená regenerace) musí mít postava k dispozici minimálně *cestovní výbavu* a *1 den zásob*. V horších klimatech však může být potřeba další výbava.
 
 **Celodenní odpočinek:** Pokud si hráč přeje, může deklarovat že jeho postava celý den nic nedělá a jen odpočívá. Tím jsou benefity odpočinku zdvojnásobené a lze se tak zbavit únavy.
+
+**Odpočinek v kobce:** Ve většině případů není možné, protože by postavy byly celou noc rušeny putujícími monstry. Může však existovat výjimka v podobě dobře ukrytého a zabezpečeného místa uvnitř kobky, kde se dá nerušeně odpočinout.
 
 <img src="/assets/sep_line.png"/>
 

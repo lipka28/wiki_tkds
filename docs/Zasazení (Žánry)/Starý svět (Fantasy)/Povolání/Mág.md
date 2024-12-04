@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     |    Magie     | Zásah | Z.Hod | HU Spec. |                           Odemyká                            |
-| :----: | :--------: | :----------: | :---: | :---: | :------: | :----------------------------------------------------------: |
-|   1    |  6+Výdrž   |  8+Rozvaha   |  +0   |  16   |    8     | Um, Magie, Jednoduchá kouzla, Magická střela, Improvizovaná kouzla |
-|   2    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  15   |    7     |                      Talent, +1 Kouzlo                       |
-|   3    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  14   |    7     |        +1 Dovednostní bod, +1 Kouzlo, Kouzla 2. třídy        |
-|   4    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  13   |    6     |                  Nebezpečný dluh, +1 Kouzlo                  |
-|   5    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  12   |    6     |              Talent, +1 Kouzlo, Kouzla 3. třídy              |
-|   6    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  11   |    5     |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   7    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  10   |    5     |     Pokročilý magický výzkum, +1 Kouzlo, Kouzla 4. třídy     |
-|   8    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   9   |    4     |                      Talent, +1 Kouzlo                       |
-|   9    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   8   |    4     |        +1 Dovednostní bod, +1 Kouzlo, Kouzla 5. třídy        |
-|   10   | +1k6+Výdrž | +1k8+Rozvaha |  +5   |   7   |    3     |                    Mocná magie, +1 Kouzlo                    |
-|  11+   |     +1     |      +1      |  +5   |   7   |    3     |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
+| ÚROVEŇ |     HP     |     Magie     | Zásah | Z.Hod | HU Spec. |                           Odemyká                            |
+| :----: | :--------: | :-----------: | :---: | :---: | :------: | :----------------------------------------------------------: |
+|   1    |  6+Výdrž   |  10+Rozvaha   |  +0   |  16   |    8     | Um, Magie, Jednoduchá kouzla, Magická střela, Improvizovaná kouzla |
+|   2    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  15   |    7     |                      Talent, +1 Kouzlo                       |
+|   3    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  14   |    7     |        +1 Dovednostní bod, +1 Kouzlo, Kouzla 2. třídy        |
+|   4    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  13   |    6     |                  Nebezpečný dluh, +1 Kouzlo                  |
+|   5    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  12   |    6     |              Talent, +1 Kouzlo, Kouzla 3. třídy              |
+|   6    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  11   |    5     |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   7    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  10   |    5     |     Pokročilý magický výzkum, +1 Kouzlo, Kouzla 4. třídy     |
+|   8    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   9   |    4     |                      Talent, +1 Kouzlo                       |
+|   9    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   8   |    4     |        +1 Dovednostní bod, +1 Kouzlo, Kouzla 5. třídy        |
+|   10   | +1k6+Výdrž | +1k10+Rozvaha |  +5   |   7   |    3     |                    Mocná magie, +1 Kouzlo                    |
+|  11+   |     +1     |      +3       |  +5   |   7   |    3     |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
 
 ## Schopnosti povolání
 
