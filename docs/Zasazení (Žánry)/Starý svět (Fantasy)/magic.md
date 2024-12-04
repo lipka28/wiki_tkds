@@ -6,7 +6,15 @@
 
 <img src="/assets/sep_line.png"/>
 
+<span class="twemoji">
+  {% include ".icons/fontawesome/brands/action.png" %} 
+</span>
+
 Ve starém světě je magie všude kolem. Víří nad hlavami smrtelníků i Povznesených ale nikdo úplně netuší odkud se bere. Existují teorie, že na svět proniká z vyšších sfér, když Povznesení otevřou portál do vyšší sféry. Jiní zase tvrdí, že magie je omezený přírodní zdroj a mělo by se jí šetřit. Nic to však nemění na faktu, že magie je všude kolem. Existují odvážlivci, kteří se naučí formovat magii k obrazu svému. Ti pak většinu svého života stráví zkoumáním nových kouzel a hledáním magických zřídel, která propůjčí kouzelníkovi ohromnou moc. Pravidla pro používání magie jsou následující.
+
+:action:
+:twemoji/action:
+:twemoji-action:
 
 <img src="/assets/sep_line.png"/>
 
