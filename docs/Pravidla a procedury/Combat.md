@@ -22,7 +22,7 @@
 !!! note "Příklad: Zvraty v boji"
     Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
 
-<p><img src="/assets/round.png" alt="Kolo" width="15"> <span><b>Odehrání tahu:</b> Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést <i>pohyb</i>, jednu <i>rychlou akci</i> a jednu <i>běžnou akci</i>. Hráč může také své kolo prokládat <i>volnými akcemi</i>. Všechny tyto "akce" se postavě obnoví pokaždé, když přijde na řadu. Jednotlivé akce fungují následovně.:</span></p>
+<p><img src="/assets/round.png" alt="Kolo" width="15"> <span><b>Odehrání tahu:</b> Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést *pohyb*, jednu *rychlou akci* a jednu *běžnou akci*. Hráč může také své kolo prokládat *volnými akcemi*. Všechny tyto "akce" se postavě obnoví pokaždé, když přijde na řadu. Jednotlivé akce fungují následovně.:</span></p>
 
 - <p><img src="/assets/action.png" alt="běžná akce" width="15"> <span><i>Běžná akce:</i> Za běžnou akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzla, použití předmětu či významná obměna výzbroje (změna držených zbraní). Provedení běžné akce <i>znemožňuje další pohyb</i> v daném tahu!</span></p>
 
