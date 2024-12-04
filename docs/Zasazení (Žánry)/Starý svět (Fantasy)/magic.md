@@ -473,7 +473,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <p><img src="/assets/empower.png" width="15"> <span><i>8 magie:</i> Kouzlo již nevyžaduje dotyk a lze seslat až na vzdálenost 10 metrů. Vyléčí <i>1k8+8</i> životů.</span></p>
+- <img src="/assets/empower.png" width="15">*8 magie:* Kouzlo již nevyžaduje dotyk a lze seslat až na vzdálenost 10 metrů. Vyléčí *1k8+8* životů.
 
 - <p><img src="/assets/round.png" width="15"> <span><i>12 magie:</i> Vyléčí stejné množství jako první posílení avšak na místo seslání na cíl, vyvolá vlnu léčivé pozitivní energie, která vyjde ze sesilatele a rozprostře se do okolí 10-ti metrů léčící vše v dosahu.</span></p>
 
