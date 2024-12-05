@@ -22,15 +22,12 @@
 !!! note "Příklad: Zvraty v boji"
     Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
 
-<p><img src="/assets/round.png" alt="Kolo" width="15"> <span><b>Odehrání tahu:</b> Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést *pohyb*, jednu *rychlou akci* a jednu *běžnou akci*. Hráč může také své kolo prokládat *volnými akcemi*. Všechny tyto "akce" se postavě obnoví pokaždé, když přijde na řadu. Jednotlivé akce fungují následovně.:</span></p>
+<img src="/assets/round.png" width="15"> **Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést *pohyb*, jednu *rychlou akci* a jednu *běžnou akci*. Hráč může také své kolo prokládat *volnými akcemi*. Všechny tyto "akce" se postavě obnoví pokaždé, když začne její tah. Jednotlivé akce fungují následovně.:
 
-- <p><img src="/assets/action.png" alt="běžná akce" width="15"> <span><i>Běžná akce:</i> Za běžnou akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzla, použití předmětu či významná obměna výzbroje (změna držených zbraní). Provedení běžné akce <i>znemožňuje další pohyb</i> v daném tahu!</span></p>
-
-- <p><img src="/assets/faction.png" alt="rychlá akce" width="15"> <span><i>Rychlá akce:</i> Některé postavy disponují schopnostmi, které se dají použít jako rychlé akce a to někdy i během tahu soupeře. Alternativně se dá použít rychlá akce k posílení některých kouzel.</span></p>
-
-- <p><img src="/assets/move.png" alt="pohyb" width="15"> <span><i>Pohyb:</i> Stvoření se může za kolo pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Alternativně se dá použít celý pohyb k posílení některých kouzel.</span></p>
-
-- <p><img src="/assets/free.png" alt="volná akce" width="15"> <span><i>Volná akce:</i> Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.</span></p>
+- <img src="/assets/action.png" width="15"> *Běžná akce:* Za běžnou akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzla, použití předmětu či významná obměna výzbroje (změna držených zbraní). Provedení běžné akce *znemožňuje další pohyb* v daném tahu!
+- <img src="/assets/faction.png" width="15"> *Rychlá akce:* Některé postavy disponují schopnostmi, které se dají použít jako rychlé akce a to někdy i během tahu soupeře. Alternativně se dá použít rychlá akce k posílení některých kouzel. 
+- <img src="/assets/move.png" width="15"> *Pohyb:* Stvoření se může za kolo pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Alternativně se dá použít celý pohyb k posílení některých kouzel.
+- <img src="/assets/free.png" width="15"> *Volná akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
 
 !!! note "Pohyb na čtvercové síti"
     Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*. Na hexagonové síti není třeba tento rozdíl řešit.

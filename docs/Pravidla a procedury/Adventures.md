@@ -121,7 +121,7 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 Klesnou-li životy hráčské postavy na 0, obdrží 1 bod vyčerpání, upadá do bezvědomí a dostává se na práh smrti. Zde o ní rozhodne jen časná pomoc spojenců nebo *mince smrti*.
 
-**Beznaděj:** Ve hře existují způsoby jak zemřít bez možnosti záchrany. Většinou ve formě různých pastí, jedů, kouzel okamžitého zabití či masivního poškození.
+**Beznaděj:** Ve hře existují způsoby jak zemřít bez možnosti záchrany. Většinou ve formě různých pastí, kouzel okamžitého zabití či masivního poškození.
 
 **Masivní poškození:** Pokud postava obdrží v jednom úderu větší poškození než je dvojnásobek jejího maximální počtu životů umře bez možnosti záchrany.
 
@@ -136,7 +136,7 @@ Na místo svého tahu si hráč hodí mincí. Pokud padne *hlava* poznačí si *
 
 ## Body hrdinství (BH)
 
-Hráči začínají každé sezení s *1 bodem hrdinství*. PJ může během hry přidělit hráčům další body hrdinství. Ty se většinou dostávají za hrdinské až opovážlivé činy nebo prostě za dobrý role-play. S každým obdrženým bodem hrdinství (mimo ten první) hráčská postava také obdrží *1 zkušenostní bod*. V jednu chvíli nemůže mít hráč více než *3 body hrdinství*. Body hrdinství mají následující využití: 
+Hráči začínají každé sezení s *3-mi body hrdinství*, které jsou společné pro celou skupinu. PJ může během hry přidělit hráčům další body hrdinství. Ty se většinou dostávají za hrdinské až opovážlivé činy nebo prostě za dobrý role-play. S každým obdrženým bodem hrdinství (mimo ty do začátku) hráčské postavy také obdrží *1 zkušenostní bod*. V jednu chvíli nemůže mít hráč více než *3 body hrdinství*. Body hrdinství mají následující využití: 
 
 - **1 BH za přehození ověření:** Hráč může přehodit jeden svůj libovolný hod na ověření (včetně hodů na zásah, záchranných hodů a přímých hodů). Nelze použít opakovaně na jeden hod.
 - **Všechny BH za vyhnutí se smrti (minimálně 1)**: Pokud se hráčova postava nachází na prahu smrti. může použít všechny své body hrdinství a tím se stabilizovat s 1 životem a být při vědomí.
