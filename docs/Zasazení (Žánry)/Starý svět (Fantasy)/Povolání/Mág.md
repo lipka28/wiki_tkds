@@ -1,4 +1,4 @@
-# Šedý Mág ==todo: rebuild based on magic rework==
+# Mág
 
 <img src="/assets/sep_line.png"/>
 
@@ -14,15 +14,15 @@
 
 | ÚROVEŇ |     HP     |     Magie     | Zásah | Z.Hod | HU Spec. |                           Odemyká                            |
 | :----: | :--------: | :-----------: | :---: | :---: | :------: | :----------------------------------------------------------: |
-|   1    |  6+Výdrž   |  10+Rozvaha   |  +0   |  16   |    8     | Um, Magie, Jednoduchá kouzla, Magická střela, Improvizovaná kouzla |
+|   1    |  6+Výdrž   |  10+Rozvaha   |  +0   |  16   |    8     | Um, Praktická magie, Jednoduchá kouzla, Magická střela, Krystalizovaná magie |
 |   2    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  15   |    7     |                      Talent, +1 Kouzlo                       |
-|   3    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  14   |    7     |        +1 Dovednostní bod, +1 Kouzlo, Kouzla 2. třídy        |
-|   4    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  13   |    6     |                  Nebezpečný dluh, +1 Kouzlo                  |
-|   5    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  12   |    6     |              Talent, +1 Kouzlo, Kouzla 3. třídy              |
+|   3    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  14   |    7     |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   4    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  13   |    6     |                Improvizovaná magie, +1 Kouzlo                |
+|   5    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  12   |    6     |                      Talent, +1 Kouzlo                       |
 |   6    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  11   |    5     |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   7    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  10   |    5     |     Pokročilý magický výzkum, +1 Kouzlo, Kouzla 4. třídy     |
+|   7    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  10   |    5     |                  Nebezpečný dluh, +1 Kouzlo                  |
 |   8    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   9   |    4     |                      Talent, +1 Kouzlo                       |
-|   9    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   8   |    4     |        +1 Dovednostní bod, +1 Kouzlo, Kouzla 5. třídy        |
+|   9    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   8   |    4     |                +1 Dovednostní bod, +1 Kouzlo                 |
 |   10   | +1k6+Výdrž | +1k10+Rozvaha |  +5   |   7   |    3     |                    Mocná magie, +1 Kouzlo                    |
 |  11+   |     +1     |      +3       |  +5   |   7   |    3     |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
 
@@ -38,17 +38,16 @@
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro mága jsou to zaručeně věci jako vycítění a identifikace magie, manipulace magických energií, luštění magických run či učení se kouzel z různých zdrojů. Mimo magii je však mág i velmi vzdělaný jedinec, který má rozsáhlé znalosti historie, světa a stvoření v nich žijících. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako mág umět, je pokryto touto schopností. Pokud máš na základě této schopnosti házet kostkou používá se *ověření specializace*. Hod *1k12* proti *HU Spec.* z tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro mága jsou to zaručeně věci jako vycítění a identifikace magie, magický výzkum, manipulace magických energií, luštění magických run či učení se kouzel z různých zdrojů. Mimo magii je však mág i velmi vzdělaný jedinec, který má rozsáhlé znalosti historie, světa a stvoření v nich žijících. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako mág umět, je pokryto touto schopností. Pokud máš na základě této schopnosti házet kostkou používá se *ověření specializace*. Hod *1k12* proti *HU Spec.* z tabulky postupu výše.
 
-### Magie
+### Praktická magie
 
-Mág disponuje schopností používat magii. To znamená, že umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a také učit se vlastní kouzla a sesílat je za pomocí zaříkaní a magických gest.
+Mág disponuje schopností používat magii spadající do disciplíny *praktické magie*. To znamená, že mág umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
 
-- **Magie:** Mág disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Mágové mají díky svému citu pro magii zrychlenou regeneraci a to rychlostí *2+úroveň+Rozvaha* magie za odpočinek.
-- **Kouzla:** Mág začína hru s *1+Vzdělání* kouzel dle vlastního výběru ze seznamu zde ==todo odkaz==. Pokaždé když získá novou úroveň nebo se mu zvýší dovednost vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Mág udrží v paměti maximálně *10+Vzdělání* kouzel. Mágové jsou však často vášniví sběratelé kouzel a tak si přebytečná kouzla často zapisují do různých grimoárů, aby v nich mohly v případě nutnosti čerpat.
-- **Třídy kouzel:** Mág může sesílat kouzla maximálně takové třídy jako mu povoluje jeho tabulka postupu.
-- **Magický výzkum:** Ve volné chvíli se mág může zabývat magickým výzkumem. Mágové nižších úrovní se mohou věnovat pouze výzkumu nových kouzel a výrobě jednorázových magických přemětů. Jako jsou svitky nebo lektvary. Více o magickém výzkumu [zde](/Pravidla%20a%20procedury/Downtime/#magicky-vyzkum).
+- **Magie:** Mág disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Mágové mají díky své vazbě na magii zrychlenou regeneraci magie a to rychlostí *2+úroveň+Rozvaha* magie za odpočinek.
+- **Kouzla:** Mág začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé když získá novou úroveň nebo se mu zvýší dovednost vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Mág udrží v paměti maximálně *10+Vzdělání* kouzel. Mágové jsou však často vášniví sběratelé kouzel a tak si přebytečná kouzla zapisují do různých grimoárů, aby v nich mohly v případě nutnosti čerpat. Zapsané kouzlo lze pak v rámci aktivity trvající *1 směnu* zaměnit za kouzlo zapamatované.
 - **Učení se kouzel navíc:** Mág se může naučit další kouzla od různých mentorů, studováním magických svitků či dešifrování cizích grimoárů nebo magickým výzkumem.
+- **Magický výzkum:** Ve volné chvíli se mág může zabývat magickým výzkumem. Mágové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků) nebo podobných efektů. Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
 
 ### Jednoduchá kouzla
 
@@ -56,77 +55,38 @@ Mág může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. M�
 
 ### Magická střela
 
-Mág ovládá základní kouzlo *magická střela* jenž může seslat až na vzdálenost až *10 metrů* (hod na zásah zbraní na dálku) a která působí *1k4* silového poškození. Seslání nestojí žádnou magii a probíhá jako *běžná akce*.
+Mág ovládá základní kouzlo *magická střela* jenž může seslat až na vzdálenost až *10 metrů* (hod na zásah zbraní na dálku) a která působí *1k4 silového* poškození. Seslání nestojí žádnou magii a probíhá jako *běžná akce*.
 
-### Improvizovaná magie
+### Krystalizovaná magie
 
-Mág se může pokusit vytvořit improvizovaný magický efekt, který nevychází z žádného jeho naučeného kouzla. Takto sesílaná kouzla jsou daleko dražší než sesílání naučených kouzel. Postup sesílání je následující:
+Mág může strávit *1 den* vytvářením krystalizované magie. Krystalizovaná magie je předmět zabírající *1 slot* obsahující až *10 magie*.
+
+- **Tvorba:** Funguje konverzí *2 bodů magie* na *1 bod krystalizované* magie. Vytvořený krystal může mít v sobě *1* až *10* magie.
+- **Použití:** Pro alchymistickou či magickou *výrobu* nebo jako komponenta k sesílání kouzel pro jakoukoliv magii využívající specializaci (vyžaduje volnou ruku). Použití krystalizované magie pro seslání kouzla zredukuje jeho cenou o magii uloženou v crystalu (použije se vždy celý krystal).
+- **Krystaly do začátku:** Mág začíná hru s *3-mi* krystaly krystalizované magie, každý obsahujíc 3 magie.
+
+### Improvizovaná magie (úroveň 4)
+
+Mág se může od 4. úrovně pokusit vytvořit improvizovaný magický efekt, který nevychází z žádného jeho naučeného kouzla avšak patří do jeho magické disciplíny. Takto sesílaná kouzla jsou daleko dražší než sesílání naučených kouzel. Postup sesílání je následující:
 
 - **Hráč:** Popíše jaký magický efekt chce seslat.
-- **PJ:** Vyhodnotí zda kouzlo spadá do třídy, kterou může mág seslat a stanoví cenu kouzla (většinou hodí tolik *k4* kolik je třída kouzla).
-- **Vyčarování:** Pokud hráč souhlasí hodí si na *ověření specializace*. Když uspěje, zaplatí cenu kouzla a kouzlo se neprovede. Pokud neuspěje zaplatí polovinu ceny kouzla a kouzlo selže.
+- **PJ:** Stanoví cenu kouzla. Cena nemusí být konzistentní napříč opakovanými pokusy a to ani při opakování toho samého efektu. 
+- **Vyčarování:** Pokud hráč souhlasí hodí si na *ověření specializace*. Když uspěje, zaplatí cenu kouzla a kouzlo se provede. Pokud neuspěje zaplatí polovinu ceny kouzla a kouzlo selže. Seslání improvizovaného kouzla trvá *plné kolo*.
 
-### Nebezpečný dluh (úroveň 4)
+### Nebezpečný dluh (úroveň 7)
 
 Pokud mág nemá dostatek magie, aby seslal kouzlo. Může spálit libovolný počet svých dovednostních bodů a tím si magii doplnit.
 
 - **Konverze:** Každý spálený dovednostní bod dodá mágovy *3* body magie.
 - **Zahojení:** Spálené dovednostní body se hojí rychlostí *1 za den*. Pokud bylo spáleno více různých dovednostních bodů, jejich priorita léčení je následující: *Osobnost*, *Rozvaha*, *Vzdělání*, *Výdrž*, *Obratnost*, *Síla*.
 
-### Pokročilý magický výzkum (úroveň 7)
+### Proti-kouzlo (úroveň 10)
 
-Od 7. úrovně může mág, za pomocí svého magického výzkumu, vytvářet permanentní magické předměty a efekty.
+Mág se může od 10. úrovně jako *rychlou akci* (během tahu soupeře) pokusit vyrušit sesílání kouzla někoho jiného. Mág provede *ověření specializace* modifikované rozdílem úrovní mezi ním a cílem proti-kouzla.
 
-### Mocná magie (úroveň 10)
-
-Od 10. úrovně mohou mágové sesílat mocná kouzla. To jsou kouzla vyšší než páté třídy.
-
-<img src="/assets/sep_line.png"/>
-
-## Rudý mág - varianta šedého mága
-
-Varianta šedého mága. Rudý mág zasvětil celý svůj život ofenzivní magii a její zdokonalování pro účely boje.
-
-### Změny
-
-- **Modifikace magie:** Rudý mág se nemůže učit podpůrná kouzla jejichž cílem jsou spojenci a léčivá kouzla.
-- **Modifikace magie:** Kouzla působící na nepřátele jsou pro tebe o *1 magii levnější* (minimum 1).
-- **Modifikace magie:** Ostatní kouzla jsou pro tebe o *1 magii dražší*.
-- **Modifikace magie:** Všechna kouzla působící poškození (včetně základního kouzla magická střela) působí extra 1 poškození za každou kostku poškození, kterou udělují.
-
-<img src="/assets/sep_line.png"/>
-
-## Bílý mág - varianta šedého mága
-
-Varianta šedého mága. Filozofie bílých mágů je především pomáhat slabším. Proto zasvětili své studia zdokonalování podpůrné magie.
-
-### Změny
-
-- **Modifikace magie:** Bílý mág se nemůže učit útočná kouzla jejichž cílem jsou nepřátelé.
-- **Modifikace magie:** Kouzla působící na spojence jsou pro tebe o *1 magii levnější* (minimum 1).
-- **Modifikace magie:** Ostatní kouzla jsou pro tebe o *1 magii dražší*.
-- **Změna schopnosti** Bílý mág neumí používat základní kouzlo magická střela, ale na místo toho může přímým spotřebováním magie léčit dotykem. *1* spotřebovaná magie = *1* vyléčený život.
-
-<img src="/assets/sep_line.png"/>
-
-## Hnědý mág - varianta šedého mága
-
-Varianta šedého mága. Hnědého mága již omrzelo mocenské čachrování mágů a rozhodl se pro poklidný a izolovaný život druida.
-
-### Změny
-
-- **Extra schopnost:** Ověřování osobnosti a reakce zvířat nebo vílích bytostí na hnědého mága je vždy modifikována bonusem *+2* nezávisle na jeho dovednosti osobnost.
-- **Modifikace magie:** Hnědý mág může sesílat pouze ta kouzla, které mají něco společného s přírodou, zvířaty, počasím, zemí, vodou a nebo vzduchem. Jejich sesílání je pro něj však o *1 magii levnější* (minimálně 1).
-- **Změna schopnosti:** Hnědý mág neumí používat základní kouzlo magická střela, ale na místo toho se může *2x denně* přeměnit ve zvíře.
-
-### Přeměna ve zvíře
-
-Hnědý mág se může dvakrát denně proměnit podoby plaza, ryby a nebo savce. Zvíře může být jakékoliv velikosti až do přibližně dvojnásobku objemu normální podoby mága.
-
-- **Seslání:** Proměna probíhá jako *běžná akce*.
-- **Omezení:** V proměně nelze mluvit, sesílat kouzla či aktivovat předměty. Všechny předměty co má mág ve výbavě se stanou součástí těla přeměněného zvířete.
-- **Statistiky:** Mág získá všechny statistiky a fyziologické schopnosti přeměněného stvoření.
-- **Smrt zvířete:** Pokud je mágova zvířecí podoba zabita, mág se vrátí do své původní podoby a obdrží všechno poškození, které obdržel ve zvířecí podobě.
+- **Úspěch:** Mág a protivník oba zaplatí plnou cenu sesílaného kouzla a kouzlo se vyruší.
+- **NAT 12:** Pokud na ověřovací kostce padne *12*, je efekt stejný jako úspěch ale kouzlo se sešle jako odražené. Mág odrazující kouzlo může vybrat kdo nebo co je jeho cílem.
+- **Neúspěch:** Pokud šedý mág neuspěje nebo nemůže zaplatit plnou cenu sesílaného kouzla, zaplatí polovinu a kouzlo se sešle bez přerušení.
 
 <img src="/assets/sep_line.png"/>
 
@@ -156,19 +116,19 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 <img src="/assets/sep_line.png"/>
 
-### Ochranné kouzlo
+### Magická výjimka
 
-**Požadavek:** Bílý mág
+**Požadavek:** úroveň 5+
 
-**Efekt:** Bílý mág může jako *rychlou akci (i v tahu soupeře)* a cenu *2* magie. Seslat na sebe nebo jednoho spojence v okolí *9* metrů, ochranné kouzlo. Ochranné kouzlo přidá očarovanému cíli bonus *+2* do OČ a všech záchranných hodů na první útok, kouzlo nebo efekt, který se ho pokusí ovlivnit.
+**Efekt:** Mág může zaštítit tolik stvoření, kolik je jeho úroveň, před svými hromadnými kouzly.
 
 <img src="/assets/sep_line.png"/>
 
-### Zvěromág
+### Ochranné kouzlo
 
-**Požadavek:** Hnědý mág *5.* nebo vyšší úrovně
+**Požadavek:** -
 
-**Efekt:** Hnědý mág získá extra *2* proměny za den a také se může měnit do podoby ptáka.
+**Efekt:** Mág může jako *rychlou akci (i v tahu soupeře)* a cenu *2* magie. Seslat na sebe nebo jednoho spojence v okolí *9* metrů, ochranné kouzlo. Ochranné kouzlo přidá očarovanému cíli bonus *+2* do OČ a všech záchranných hodů na první útok, kouzlo nebo efekt, který se ho pokusí ovlivnit v následující směně.
 
 <img src="/assets/sep_line.png"/>
 
@@ -176,24 +136,21 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 **Požadavek:** -
 
-**Efekt:** Ve chvilce osvěty si objevil nová kouzla. Můžeš se naučit *2* kouzla, která můžeš seslat. 
+**Efekt:** Ve chvilce osvěty si objevil nová kouzla. Můžeš se naučit *2* extra kouzla ze své magické disciplíny. 
 
 <img src="/assets/sep_line.png"/>
 
-### Proti-kouzlo
+### Hranice magických disciplín
 
-**Požadavek:** Šedý mág
+**Požadavek:** Eureka a vzdělání >= 3
 
-**Efekt:** Šedý mág se může jako *rychlou akci* pokusit vyrušit sesílání kouzla jiného čaroděje. Mág provede *ověření specializace* modifikované rozdílem úrovní mezi ním a cílem proti-kouzla.
-
-- **Úspěch:** Šedý mág a protivník oba zaplatí plnou cenu sesílaného kouzla a kouzlo se vyruší.
-- **Neúspěch:** Pokud šedý mág neuspěje nebo nemůže zaplatit plnou cenu sesílaného kouzla, zaplatí polovinu a kouzlo se sešle bez přerušení.
+**Efekt:** Pomocí extrémně chytré manipulace magických esencí si objevil způsob, jak napodobit kouzlo z jiné magické disciplíny. Můžeš se naučit 1 extra kouzlo, které nespadá pod *praktickou magii*.  
 
 <img src="/assets/sep_line.png"/>
 
 ### Energetická střela
 
-**Požadavek:** Rudý mág
+**Požadavek:** -
 
 **Efekt:** Při použití tvého základního kouzla magická střela máš bonus *+2* k zásahu a poškození. Navíc si vyber jeden typ ==todo odkaz== energetického poškození a při sesílání si můžeš vybrat jestli chceš, aby tvá střela působila *vybrané poškození* nebo pouhé *silové poškození*. 
 

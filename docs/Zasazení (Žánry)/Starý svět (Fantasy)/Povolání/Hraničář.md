@@ -44,19 +44,19 @@ asd
 
 asd
 
-### Zručný střelec (L1)
+### Zručný střelec
 
 Lovec je expertem v používání luků a jiných střelných zbraní. Lovec má bonus *+1* k zásahu útoky na dálku. větší dostřel a no friendly obscure.
 
-### Přírodní medicína
+### Přítel zvířat
 
-Jako použít lékarničku bez lékarničky
+bonus to reactions and charisma checks against beast and faeries.
 
-### Ostražitý (posunout na později)
+### Samotář (nebo Věrný společník)
 
-Lov nebezpečných zvířat a monster naučil lovce nikdy nepolevovat ve své ostražitosti. Lovec není překvapen a je na tahu jako první pokud v hodu na překvapení nepadne *1*.
+Někteří hraničáři preferují nevyužívat zvířata k boji a radši se spoléhají jen na své schopnosti. Hraničář, který si vabere cestu hraničáře obdrží větší kostku života (*k10*) a na první úrovni získává extra *talent*. 
 
-### Věrný společník (udělat alt classy pro fey touched a lone ranger)
+### Věrný společník (nebo Samotář)
 
 Lovec se může pokusit utvořit pouto s nalezeným zvířetem. Pokud je pokus úspěšný, zvíře se stane věrným společníkem lovce.
 
@@ -67,45 +67,29 @@ Lovec se může pokusit utvořit pouto s nalezeným zvířetem. Pokud je pokus �
 - **Zvíře do začátku:** Pokud si lovec přeje, může začínat hru s [loveckým psem](/Gear/#lovecky-pes) zdarma, který bude fungovat jako jeho věrný společník. 
 - **Zíksávání zkušeností:** Věrný zvířecí společník *získává zkušenosti* stejnou rychlostí jako lovec. S každou dosaženou úrovní obdrží *+3 životy*. S každou druhou dosaženou úrvní bonus *+1* k zásahu, poškození a záchranným hodům, a s každou třetí dosaženou úrvoní bonus *+1* k OČ. Dosažené úrovně se počítají od úrovně na které se zvíře stalo věrným společníkem.
 
-### Přítel divočiny (L1)
+### Přírodní medicína (Úroveň 4)
 
-bonus to reactions and charisma checks against beast and faeries.
+sběr bylin a jejich používání na místo lékarničky?
 
-### Zastav (Úroveň 4)
+### Ignore počasí (Úroveň 7)
 
-Bojovník se může pokusit využít nepozornost soupeře a přerušit jeho akci. Bojovník se může jako *rychlou akci* (během tahu soupeře) pokusit přerušit *pohyb* nebo *běžnou akci*, které sám není cílem. Cíl musí uspět v *záchranném hodu proti trikům* jinak je jeho akce přerušena.
+Ignoruj efekty počasí (mimo damage)?
 
-### Na dluh (Úroveň 7)
+### Ostražitost (Úroveň 10)
 
-V těch nejhorších situacích může bojovník sáhnout do svých psychických a fyzických rezerv a dosáhnout vítězství. Bojovník si může jako *volnou akci* způsobit *1 bod vyčerpání* a tím získat *5 dočasných životů* a *1 momentum*.
-
-- **Opakované použití:** Bojovník může tuhle schopnost použít kolikrát chce dokonce i vícekrát jako součást jednoho použití. Nesmí však přesáhnout 5 bodů vyčerpání (6 pokud je smířený s tím, že na konci umře).
-- **Postihy za vyčerpání:** Postihy za vyčerpání se neprojeví ihned, ale až po boji, kdy byla schopnost použita.
-
-### Extra útok (Úroveň 10)
-
-Od 10. úrovně může bojovník provést 2 útoky jako součást jedné *běžné akce*.
+asd extra první kolo mimo iniciativu.
 
 <img src="/assets/sep_line.png"/>
 
-## Lovec - varianta hraničáře
+## Talenty ==todo seřadit dle abecedy==
 
-Varianta hraničáře pro hráče, kteří by chtěli hrát za hraničáře ale zvířátka nejsou úplně jejich šálek kávy ale nechtějí se věnovat magii.
-
-### Změny
-
-- **Kostka života:** Na první úrovni obdrží lovec *10+Výdrž* životů a jeho kosta životů pro následující úrovně se zvedne na *1k10*. Po 10. úrovni získává *3* životy za úroveň.
-- **Věrný společník:** Lovec ztrácí tuhle schopnost a na místo ní si může vybrat na 1. úrovni *talent*.
+Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro hraničáře níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 
-## Strážce Fey - varianta hraničáře
-
-Varianta hraničáře pro hráče, kteří by chtěli hrát za hraničáře obdrařeného magickými schopnostmi.
-
-### Změny
-
-- **Věrný společník:** Strážce Fey ztrácí tuhle schopnost.
-- **Magie:** ==todo: magii vymyslet==
-
-<img src="/assets/sep_line.png"/>
+- two weapon fighting
+- Fey magic
+- extra magic
+- Přírodní medicína
+- Lovecká střela
+- fast mark

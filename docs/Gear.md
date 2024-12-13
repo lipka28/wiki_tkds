@@ -257,16 +257,16 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 **Lahvička kyseliny:** Lahvička plná žíravé substance. Vhodná pro boj, nebo na rozpouštění drobných předmětů.  
 
 - *Efekt:* Kyselina se prožere pěti centimetry organického materiálu nebo jedním centimetrem běžného kovu. 
-- *Bojové užití:* Cíl pokrytý žíravou látkou obdrží *1k6* poškození za kolo po dobu *2 kol*. 
+- *Bojové užití:* Cíl pokrytý žíravou látkou obdrží *1k6 perzistentního poškození*. 
 
 **Lahvička oleje:** Lahvička plná kluzké a hořlavé substance. Vhodná pro boj, nebo jako palivo do lucerny na *4 hodiny* (24 směn) 
 
-- *Bojové užití:* Cíl pokrytý hořícím olejem obdrží *1k8* poškození za kolo po dobu *2 kol* nebo dokud není uhašen. 
+- *Bojové užití:* Cíl pokrytý hořícím olejem obdrží *1k8 perzistentního poškození*. 
 - *Rozlitý olej:* Rozlitý olej hoří *1 směnu*.
 
 **Lahvička svěcené vody:** Lahvička vody vysvěcená ve jménu šesti strážců.
 
-- *Bojové užití:* Cíl je pokryt svěcenou vodou. Pokud je cíl *nemrtvý* nebo *démon* obdrží *1k8* poškození po dobu *2 kol*. 
+- *Bojové užití:* Cíl je pokryt svěcenou vodou. Pokud je cíl *nemrtvý* nebo *démon* obdrží *1k8 perzistentního poškození*. 
 - *Jiné užití:* Používá se i jako součást náboženských rituálů.
 
 **Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. 

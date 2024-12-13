@@ -76,7 +76,7 @@ Lotr si může v civilizaci koupit libovolný počet *balíků neznámého obsah
 
 ### Obratný úhyb (úroveň 4)
 
-Pokud by měl být lotr zasažen cíleným nebo plošným útokem, může si jako *rychlou akci* připočítat jednorázový bonus ve výši své *obratnosti* do *OČ* nebo *záchranného hodu* (lze deklarovat až po hodu).
+Pokud by měl být lotr zasažen cíleným nebo plošným útokem, může si jako *rychlou akci* připočítat jednorázový bonus ve výši své *obratnosti* do *OČ* nebo *záchrannéh hodu* (lze deklarovat až po hodu).
 
 ### Přelsti magii (úroveň 7)
 

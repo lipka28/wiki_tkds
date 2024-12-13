@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP      | Zásah | Z.Hod | HU Spec. |                           Odemyká                           |
-| :----: | :---------: | :---: | :---: | :------: | :---------------------------------------------------------: |
-|   1    |  10+Výdrž   |  +0   |  16   |    8     | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
-|   2    | +1k10+Výdrž |  +1   |  15   |    7     |                           Talent                            |
-|   3    | +1k10+Výdrž |  +2   |  14   |    7     |                     +1 Dovednostní bod                      |
-|   4    | +1k10+Výdrž |  +3   |  13   |    6     |                           Zastav                            |
-|   5    | +1k10+Výdrž |  +4   |  12   |    6     |                           Talent                            |
-|   6    | +1k10+Výdrž |  +5   |  11   |    5     |                     +1 Dovednostní bod                      |
-|   7    | +1k10+Výdrž |  +6   |  10   |    5     |                      Nával adrenalinu                       |
-|   8    | +1k10+Výdrž |  +7   |   9   |    4     |                           Talent                            |
-|   9    | +1k10+Výdrž |  +8   |   8   |    4     |                     +1 Dovednostní bod                      |
-|   10   | +1k10+Výdrž |  +9   |   7   |    3     |                         Extra útok                          |
-|  11+   |     +3      |  +9   |   7   |    3     |              Talent (a každou další 3. úroveň)              |
+| ÚROVEŇ |     HP      | Mod. Zásahu | Z.Hod | HU Spec. |                           Odemyká                           |
+| :----: | :---------: | :---------: | :---: | :------: | :---------------------------------------------------------: |
+|   1    |  10+Výdrž   |     +0      |  16   |    8     | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
+|   2    | +1k10+Výdrž |     +1      |  15   |    7     |                           Talent                            |
+|   3    | +1k10+Výdrž |     +2      |  14   |    7     |                     +1 Dovednostní bod                      |
+|   4    | +1k10+Výdrž |     +3      |  13   |    6     |                           Zastav                            |
+|   5    | +1k10+Výdrž |     +4      |  12   |    6     |                           Talent                            |
+|   6    | +1k10+Výdrž |     +5      |  11   |    5     |                     +1 Dovednostní bod                      |
+|   7    | +1k10+Výdrž |     +6      |  10   |    5     |                      Nával adrenalinu                       |
+|   8    | +1k10+Výdrž |     +7      |   9   |    4     |                           Talent                            |
+|   9    | +1k10+Výdrž |     +8      |   8   |    4     |                     +1 Dovednostní bod                      |
+|   10   | +1k10+Výdrž |     +9      |   7   |    3     |                         Extra útok                          |
+|  11+   |     +3      |     +9      |   7   |    3     |              Talent (a každou další 3. úroveň)              |
 
 ## Schopnosti specializace
 
@@ -46,13 +46,10 @@ Bojovník je mistrem všech zbraní a dokáže efektivně používat 2 jednoruč
 
 - **Útok:** Pokud chce bojovník útočit oběma zbraněmi a má rozličné modifikátory na zásah jednou z jeho zbraní. Útočí s tím vyšším modifikátorem.
 - **Poškození:** Poškození se hodí na obou zbraní a aplikuje se vyšší výsledek (včetně modifikátorů).
-- **Neozbrojený útok:** Pokud má bojovník jen jednu zbraň může pro *"útok dvěma zbraněmi"* použít volnou ruku jako *neozbrojený útok*.
 
 ### Bojové manévry
 
-Bojovník si jako součást každého svého hodu na zásah, hází také na *ověření specializace*. Pokud zasáhne cíl a zároveň uspěje v ověření specializace, může ke svému útoku přidat i bojový manévr jako *volnou akci*. Cíl manévru má nárok na relevantní záchranný hod, aby manévru odolal.
-
-- **Kritický zásah:** Úspěch v ověření specializace v kombinaci s kritickým zásahem. Připraví cíl o možnost záchranného horu.
+Bojovník, který úspěšně zasáhne cíl. Může jako *rychlou akci* přidat bojový manévr (jako je skopnutí na zem, odhození, odzbrojení a podobné). Cíl má nárok na *záchranný hod proti trikům*, aby efektu odolal.
 
 ### Momentum
 
@@ -105,7 +102,7 @@ Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat 
 
 **Požadavek:** -
 
-**Efekt:** Bojovník může jako *rychlou akci* během svého tahu začít běsnit. Běsnění uděluje bonus *+2* do všech hodů na sílu a výdrž (ověření dovedností, hod na zásah, poškození zbraní na blízku, záchranné hody atd...). Bojovník může na jedno použití běsnit až *5 kol*. Na konci běsnění obdrží *1 bod vyčerpání*.
+**Efekt:** Bojovník může jako *rychlou akci* během svého tahu začít běsnit. Běsnění přidává bonus *+2* do všech hodů na sílu a výdrž (ověření dovedností, hod na zásah, poškození zbraní na blízku, záchranné hody atd...) a uděluje postih *-1* k OČ. Bojovník může na jedno použití běsnit až *5 kol*. Na konci běsnění obdrží *1 bod vyčerpání*.
 
 <img src="/assets/sep_line.png"/>
 
