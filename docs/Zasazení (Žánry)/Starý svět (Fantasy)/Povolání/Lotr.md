@@ -46,16 +46,16 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 
 Lotr dokáže efektivně používat 2 jednoruční zbraně naráz pokud je aspoň jedna z nich nůž. Lze kombinovat nůž s libovolnou jednoruční zbraní.
 
-- **Útok:** Pokud chce lotr útočit oběma zbraněmi a má rozličné modifikátory na zásah jednou z jeho zbraní. Útočí s tím vyšším modifikátorem.
+- **Útok:** Pokud chce lotr útočit oběma zbraněmi a má rozličné modifikátory na zásah jednou z jeho zbraní. Hází na zásah s tím vyšším modifikátorem.
 - **Poškození:** Poškození se hodí na obou zbraní a aplikuje se vyšší výsledek (včetně modifikátorů).
 
 ### Přepadení
 
 Lotr je expertem v hledání slabých míst nic netušících nepřátel. Pokud lotr zaútočí na nic netušícího oběť jednoruční nebo střelnou zbraní, útočí s bonusem *+4* k zásahu.
 
-- **Nic netušící oběť:** Za nic netušící oběť se považuje útok před hodem na tasení nebo v prvním kole boje (za předpokladu, že jde lotrova skupina první na řadě)
+- **Nic netušící oběť:** Za útok na nic netušící oběť se považuje, útok před hodem na tasení, útok v prvním kole boje (za předpokladu, že jde lotrova skupina první na řadě) nebo první útok kdykoliv během boje pokud nepřítel netuší o lotrově přítomnosti.
 - **Cíl útoku:** Může být libovolné člověku podobné stvoření nebo humanoidní monstrum, které není více jak 2x větší jak člověk (PJ může povolit speciální okolnosti).
-- **Bonusy k poškození:** Při úspěšném zásahu lotrův útok uděluje *7+(úroveň\*2)* (+ modifikátory) poškození.
+- **Bonusy k poškození:** Při úspěšném zásahu lotrův útok uděluje *7+(úroveň\*2)+modifikátory* poškození.
 
 ### Cech (Dobrovolné, jinak talent)
 
@@ -88,7 +88,7 @@ Lotr se může, jako *běžnou akci*, pokusit aktivovat nebo dočasně vyřadit 
 
 ### Studnice štěstí (úroveň 10)
 
-Lotr disponuje *21 body štěstí*, které může použít k modifikaci svých hodů nebo hodů, kterých se ho týkají.
+Lotr disponuje *21 body štěstí*, které může použít k modifikaci svých hodů nebo hodů, které se ho týkají.
 
 - **Validní hody:** Kterýkoliv otevřený hody týkající se exkluzivně lotra, jehož výsledek se projeví během 1 směny.
 - **Modifikace:** Modifikace může být pozitivní nebo negativní ve výměnném poměru *1:1* za bod štěstí.

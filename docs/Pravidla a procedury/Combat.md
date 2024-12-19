@@ -15,7 +15,7 @@
 | *2. Ostatní strany jsou na řadě*                             |
 | *3. Zpět na krok 2 dokud není souboj ukončen.*               |
 
-**Taste zbraně!:** Každá strana hodí *1k20*, strana s nejvyšším hodem začíná (remíza jde ve prospěch hráčů).
+**Taste zbraně!:** Každá strana hodí *1k20*, strana s nejvyšším hodem začíná (remíza jde ve prospěch hráčů) a ostatní strany se seřadí do iniciativy dle výše jejich hodů.
 
 **Ověření morálky:** Stvoření mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se vzdát nebo dát na útěk. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti. 
 

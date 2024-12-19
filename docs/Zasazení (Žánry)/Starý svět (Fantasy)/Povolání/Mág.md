@@ -144,7 +144,7 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 **Požadavek:** Eureka a vzdělání >= 3
 
-**Efekt:** Pomocí extrémně chytré manipulace magických esencí si objevil způsob, jak napodobit kouzlo z jiné magické disciplíny. Můžeš se naučit 1 extra kouzlo, které nespadá pod *praktickou magii*.  
+**Efekt:** Pomocí extrémně chytré manipulace magických esencí si objevil způsob, jak napodobit kouzlo z jiné magické disciplíny. Můžeš se naučit *1* extra kouzlo, které nespadá pod *praktickou magii*.
 
 <img src="/assets/sep_line.png"/>
 

@@ -1,8 +1,4 @@
-# Bojovník
-
-<img src="/assets/sep_line.png"/>
-
-![Image title](/assets/OW/classes/Fighter.png)
+# <img src="/assets/OW/classes/Fighter.png"> Bojovník
 
 <img src="/assets/sep_line.png"/>
 
@@ -49,15 +45,15 @@ Bojovník je mistrem všech zbraní a dokáže efektivně používat 2 jednoruč
 
 ### Bojové manévry
 
-Bojovník, který úspěšně zasáhne cíl. Může jako *rychlou akci* přidat bojový manévr (jako je skopnutí na zem, odhození, odzbrojení a podobné). Cíl má nárok na *záchranný hod proti trikům*, aby efektu odolal.
+Bojovník, který úspěšně zasáhne cíl. Může jako *rychlou akci* přidat bojový manévr (jako je skopnutí na zem, odhození, odzbrojení a podobné). Cíl má nárok na *záchranný hod proti trikům*, aby efektu odolal. Při kritickém zásahu lze tuto schopnost použít jako *volnou akci*.
 
 ### Momentum
 
 Bojovník v boji získává *momentum*, které mu umožňuje obratněji bojovat.
 
-- **Získávání:** Bojovník získá momentum za každého zabitého protivníka v boji nebo za kritický zásah.
+- **Získávání:** Bojovník získá momentum za každého vlastnoručně zabitého protivníka v boji.
 - **Maximum:** Neexistuje limit kolik momentum může bojovník za boj nasbírat avšak nevyužité momentum na konci boji vyprchá.
-- **Využití:** Bojovník může spotřebovat jedno momentum a provést útok jako *rychlou akci* na cíl v dosahu a to i během tahu soupeře.
+- **Využití:** Bojovník může spotřebovat jedno momentum a provést útok jako *volnou akci* na cíl v dosahu a to i během tahu soupeře. Pokud je takový útok proveden obouruční zbraní nebo dvěma zbraněmi, probíhá s postihem *-2* na zásah.
 
 ### Zastav (Úroveň 4)
 
@@ -102,7 +98,7 @@ Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat 
 
 **Požadavek:** -
 
-**Efekt:** Bojovník může jako *rychlou akci* během svého tahu začít běsnit. Běsnění přidává bonus *+2* do všech hodů na sílu a výdrž (ověření dovedností, hod na zásah, poškození zbraní na blízku, záchranné hody atd...) a uděluje postih *-1* k OČ. Bojovník může na jedno použití běsnit až *5 kol*. Na konci běsnění obdrží *1 bod vyčerpání*.
+**Efekt:** Bojovník může jako *rychlou akci* během svého tahu začít běsnit. Běsnění přidává bonus *+2* do všech hodů na sílu a výdrž (ověření dovedností, hod na zásah, poškození zbraní na blízku, záchranné hody atd...) a uděluje postih *-1* k OČ. Bojovník může na jedno použití běsnit až *5 kol* a během běsnění neobdržuje postihy za vyčerpání. Na konci běsnění obdrží *1 bod vyčerpání*.
 
 <img src="/assets/sep_line.png"/>
 

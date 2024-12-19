@@ -207,7 +207,7 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 
 **Smrt z vyčerpání:** Dosáhne-li postava *6-ti* bodů vyčerpání, tak ihned umírá.
 
-**Zbavení se vyčerpání:** Vyčerpání se lze zbavit buďto magií nebo celodenním odpočinkem, kdy každý den takového odpočinku *vyléčí jeden bod vyčerpání*.
+**Zbavení se vyčerpání:** Vyčerpání se lze zbavit buďto magií nebo celodenním odpočinkem v bezpečí civilizace, kdy každý den takového odpočinku *vyléčí jeden bod vyčerpání*.
 
 <img src="/assets/sep_line.png"/>
 
