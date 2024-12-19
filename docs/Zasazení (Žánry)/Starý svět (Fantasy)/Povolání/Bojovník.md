@@ -1,4 +1,6 @@
-# <img src="/assets/OW/classes/Fighter.png" width="15"> Bojovník
+![Image title](/assets/OW/classes/Fighter.png)
+
+# Bojovník
 
 <img src="/assets/sep_line.png"/>
 
