@@ -129,8 +129,8 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 **Shození na zem:** Je-li stvoření shozeno na zem platí následující pravidla:
 
-- Všechny útoky na blízku proti shozenému stvoření probíhají s výhodou. 
-- Pokud se shozené stvoření pokusí útočit větší jak jednoruční zbraní, tak jeho útoky probíhají s nevýhodou. 
+- Všechny útoky na blízku proti shozenému stvoření probíhají s bonusem *+4* na zásah. 
+- Pokud se shozené stvoření pokusí útočit větší jak jednoruční zbraní, tak jeho útoky probíhají s potihem *-4* na zásah. 
 - *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole.
 
 **Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *rychlou akci*.
@@ -141,7 +141,7 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 !!! Warning "Souběh akcí"
     Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
 
-**Slepota:** Slepé stvoření se pohybuje hybností 3 metry. Všechny útoky proti slepému stvoření jsou s výhodou. Sám na blízku útočí s nevýhodou. Útoky na dálku nejsou možné.
+**Slepota:** Slepé stvoření se pohybuje hybností 3 metry. Všechny útoky proti slepému stvoření jsou s bonusem *+4* k zásahu. Sám na blízku útočí s postihem *-4* k zásahu. Útoky na dálku nejsou možné.
 
 **Coup de grâce:** Bezmocní nepřátelé. Jako například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
 
@@ -149,7 +149,7 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 **Nestabilní povrchy:** Pokud postavy bojují na nestabilním povrchu, jako jsou lodě na rozbouřeném moři nebo třeba když letí na hřbetu jiného stvoření. Tak jsou ovlivněni následujícími omezeními:
 
-- *Útoky na dálku:* Probíhají s nevýhodou.
+- *Útoky na dálku:* Probíhají s postihem -4.
 - *Kouzla*: Sesílání selže s pravděpodobností 50%.
 - *Předměty*: Mohou být používány normálně.
 

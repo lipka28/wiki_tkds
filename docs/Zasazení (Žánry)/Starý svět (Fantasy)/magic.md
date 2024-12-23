@@ -355,7 +355,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/empower.png" width="15"> *10 magie:* Stejné jako základní efekt avšak cíl má při pokusu o přesun nevýhodu na daný záchranný hod.
+- <img src="/assets/empower.png" width="15"> *10 magie:* Stejné jako základní efekt avšak cíl má při pokusu o přesun postih *-4* k danému záchrannému hodu.
 - <img src="/assets/round.png" width="15"> *20 magie:* Stejný efekt jako první posílení avšak kouzlo je pernamentí (bez nutnosti koncentrace). Navíc pokud zasažené stvoření *3x* neuspěje v přemístění už se nikdy nemůže přemístit.
 
 <img src="/assets/sep_line.png"/>

@@ -54,8 +54,6 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Modifikátory:** Někdy může být třeba přičíst k hozeným kostkám nějaký bonus, nebo odečíst postih. Tyto modifikátory se připojují znaménkem *+* nebo *-* za hodnotu kostky. Například *3k6+2* znamená:  Sečti výsledek hodu tří šesti-stranných kostek a přičti 2.
 
-**Výhoda a Nevýhoda:** Pokud hráč hází s výhodou, znamená to že může hodit dvakrát a nechat si přívětivější výsledek. Pokud hráč hází s nevýhodou, ze dvou hodů si nechá ten horší. Pokud má hráč z nějakého důvodu výhodu a nevýhodu najednou, efekty se vzájemně vyruší. Více výhod či nevýhod se jinak nesčítá.
-
 **Procentní hody:** Někdy může být třeba vyhodnotit akci s procentuální šancí na úspěch. K tomu slouží procentní hod, značen jako *k%* nebo *k100*. Takový hod se hází za pomocí *2k10*, kdy si hráč předem určí, která kostka představuje desítky a která jednotky. Ve výsledném hodu pak dvě nuly reprezentují *100*. Pokud je výsledek na kostce nižší nebo stejný jako je stanovená šance, tak je hod úspěšný.
 
 **Hod s hranicí úspěchu X (HU)**: Je jedním z běžných způsobů vyhodnocení akcí, se kterým se setkáte. Hráč musí hodit *X* nebo *více* na *k12*. Případně jiné uvedené kostce.

@@ -56,7 +56,7 @@ Ověření dovednosti probíhá jako hod modifikovaný dovedností postavy. Hrá
 
 - *Větší rovno 7:* Pokud je výsledek větší nebo roven *7 (Hranice úspěchu - HU)*, tak je hod úspěšný. V opačném případě se jedná o neúspěch.
 - *Přirozená 1 a přirozených 12:* Pokud na kostce padne *1* hod je neúspěšný nezávisle na modifikátorech či hranici úspěchu. Naopak pokud na kostce padne *12* je hod vždy úspěšný.
-- *Bonusy a postihy:* PJ může také na takový hod uvalit výhodu, nevýhodu nebo jiné bonusy čí postihy, dle dané situace.
+- *Bonusy a postihy:* PJ může také na takový hod uvalit různé bonusy či postihy, dle dané situace.
 - *Modifikace obtížnosti:* Obtížnost *7* je vhodná pro libovlné běžné  situace s prvkem náhody. PJ však může usoudit, že je aktivita o kterou  se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *9* a *11* pro těžkou a velmi těžkou aktivitu a *5* pro lehkou. 
 
 #### Ověření specializace
@@ -65,7 +65,7 @@ Je varianta ověření dovednosti, která však není modifikována žádnou dov
 
 - *Ověření:* Hráč si hodí *1k12* a musí hodit stejně nebo více jako jeho poznačená *HU specializace*, aby v akci uspěl.
 - *Přirozená 1 a přirozených 12:* Pokud na kostce padne *1* hod je neúspěšný nezávisle na modifikátorech či hranici úspěchu. Naopak pokud na kostce padne *12* je hod vždy úspěšný.
-- *Bonusy a postihy:* PJ může také na takový hod uvalit výhodu, nevýhodu nebo jiné bonusy čí postihy, dle dané situace. Často se používá rozdíl úrovní postavy a stvoření, které má být cílem akce.
+- *Bonusy a postihy:* PJ může také na takový hod uvalit rúzné bonusy či postihy, dle dané situace. Často se používá rozdíl úrovní postavy a stvoření, které má být cílem akce.
 
 #### Přímý hod
 
