@@ -1,4 +1,4 @@
-# Hraničář ==TODO remake==
+# Hraničář
 
 <img src="/assets/sep_line.png"/>
 
@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     | Zásah | Z.Hod | HU Spec. |              Odemyká              |
-| :----: | :--------: | :---: | :---: | :------: | :-------------------------------: |
-|   1    |  8+Výdrž   |  +0   |  16   |    8     |          Um, base class           |
-|   2    | +1k8+Výdrž |  +1   |  15   |    7     |              Talent               |
-|   3    | +1k8+Výdrž |  +2   |  14   |    7     |        +1 Dovednostní bod         |
-|   4    | +1k8+Výdrž |  +3   |  13   |    6     |         base class bonus          |
-|   5    | +1k8+Výdrž |  +4   |  12   |    6     |              Talent               |
-|   6    | +1k8+Výdrž |  +5   |  11   |    5     |        +1 Dovednostní bod         |
-|   7    | +1k8+Výdrž |  +6   |  10   |    5     |         base class bonus          |
-|   8    | +1k8+Výdrž |  +7   |   9   |    4     |              Talent               |
-|   9    | +1k8+Výdrž |  +8   |   8   |    4     |        +1 Dovednostní bod         |
-|   10   | +1k8+Výdrž |  +9   |   7   |    3     |          Base class ult           |
-|  11+   |     +2     |  +9   |   7   |    3     | Talent (a každou další 3. úroveň) |
+| ÚROVEŇ |     HP     | Zásah | Z.Hod | HU Spec. |                           Odemyká                            |
+| :----: | :--------: | :---: | :---: | :------: | :----------------------------------------------------------: |
+|   1    |  8+Výdrž   |  +0   |  16   |    8     | Um, Kořist, Za jedno s přírodou, Přítel divočiny, Samotář nebo Věrný společník |
+|   2    | +1k8+Výdrž |  +1   |  15   |    7     |                            Talent                            |
+|   3    | +1k8+Výdrž |  +2   |  14   |    7     |                      +1 Dovednostní bod                      |
+|   4    | +1k8+Výdrž |  +3   |  13   |    6     |                      Přírodní medicína                       |
+|   5    | +1k8+Výdrž |  +4   |  12   |    6     |                            Talent                            |
+|   6    | +1k8+Výdrž |  +5   |  11   |    5     |                      +1 Dovednostní bod                      |
+|   7    | +1k8+Výdrž |  +6   |  10   |    5     |                    Mistrovská ostražitost                    |
+|   8    | +1k8+Výdrž |  +7   |   9   |    4     |                            Talent                            |
+|   9    | +1k8+Výdrž |  +8   |   8   |    4     |                      +1 Dovednostní bod                      |
+|   10   | +1k8+Výdrž |  +9   |   7   |    3     |                        Smrtící střela                        |
+|  11+   |     +2     |  +9   |   7   |    3     |              Talent (a každou další 3. úroveň)               |
 
 ## Schopnosti povolání
 
@@ -97,6 +97,12 @@ Hraničář může od 10. úrovně za cenu *celého tahu* provést útok na dál
 
 asd
 
+- psovitá
+- kočkovitá
+- medvěd
+- Pták
+- Raptor ?
+
 <img src="/assets/sep_line.png"/>
 
 ## Talenty ==todo seřadit dle abecedy==
@@ -160,11 +166,17 @@ Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybra
 
 **Požadavek:** -
 
-**Efekt:** asd
+**Efekt:** Hraničář se od víl naučil nějaké kouzla *živelné magie*. To znamená, že hraničář může aktivovat magické hůlky, sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
+
+- **Magie:** Hraničář disponuje *6+Rozvaha* magické energie zvané magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Přirozená regenerace magie odpovídá *2+Rozvaha* za přenocování.
+- **Kouzla:** Hraničář obdrží *1+Vzdělání* (min. 1) kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé když získá bod dovednosti do vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Hraničář nemůže mít nebo se naučit více kouzel, než které získá z tohohle či jiného magického talentu (většinou 1+vzdělání).
 
 <img src="/assets/sep_line.png"/>
 
+### Extra magie
 
+**Požadavek:** Vílí magie
 
-- Fey magic
-- extra magic
+**Efekt:** Hraničář obdrží *1k6+Rozvaha* magie (lze vzít polovinu na kostce) a naučí se *1 extra kouzlo* ze seznamu kouzel pro *živelnou magii*. Tím se také zvedne maximální počet kouzel, které hraničář může umět o 1. Tento talent si lze vzít opakovaně.
+
+<img src="/assets/sep_line.png"/>

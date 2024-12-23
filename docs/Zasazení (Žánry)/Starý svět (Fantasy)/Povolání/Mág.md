@@ -14,7 +14,7 @@
 
 | ÚROVEŇ |     HP     |     Magie     | Zásah | Z.Hod | HU Spec. |                           Odemyká                            |
 | :----: | :--------: | :-----------: | :---: | :---: | :------: | :----------------------------------------------------------: |
-|   1    |  6+Výdrž   |  10+Rozvaha   |  +0   |  16   |    8     | Um, Praktická magie, Jednoduchá kouzla, Magická střela, Krystalizovaná magie |
+|   1    |  6+Výdrž   |  10+Rozvaha   |  +0   |  16   |    8     | Um, Praktická magie, Magická jistota, Magická střela, Krystalizovaná magie |
 |   2    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  15   |    7     |                      Talent, +1 Kouzlo                       |
 |   3    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  14   |    7     |                +1 Dovednostní bod, +1 Kouzlo                 |
 |   4    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  13   |    6     |                Improvizovaná magie, +1 Kouzlo                |
@@ -23,7 +23,7 @@
 |   7    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  10   |    5     |                  Nebezpečný dluh, +1 Kouzlo                  |
 |   8    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   9   |    4     |                      Talent, +1 Kouzlo                       |
 |   9    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   8   |    4     |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   10   | +1k6+Výdrž | +1k10+Rozvaha |  +5   |   7   |    3     |                    Mocná magie, +1 Kouzlo                    |
+|   10   | +1k6+Výdrž | +1k10+Rozvaha |  +5   |   7   |    3     |                   Proti-kouzlo, +1 Kouzlo                    |
 |  11+   |     +1     |      +3       |  +5   |   7   |    3     |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
 
 ## Schopnosti povolání
@@ -48,10 +48,11 @@ Mág disponuje schopností používat magii spadající do disciplíny *praktick
 - **Kouzla:** Mág začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé když získá novou úroveň nebo se mu zvýší dovednost vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Mág udrží v paměti maximálně *10+Vzdělání* kouzel. Mágové jsou však často vášniví sběratelé kouzel a tak si přebytečná kouzla zapisují do různých grimoárů, aby v nich mohly v případě nutnosti čerpat. Zapsané kouzlo lze pak v rámci aktivity trvající *1 směnu* zaměnit za kouzlo zapamatované.
 - **Učení se kouzel navíc:** Mág se může naučit další kouzla od různých mentorů, studováním magických svitků či dešifrování cizích grimoárů nebo magickým výzkumem.
 - **Magický výzkum:** Ve volné chvíli se mág může zabývat magickým výzkumem. Mágové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků) nebo podobných efektů. Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
+- **Jednoduchá kouzla:** Mág může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. Může se jednat o věci jako jsou: drobné vizuální efekty, slabá telekineze, přihřátí čaje, očištění předmětu či změna jeho barvy. Efektivně by však nemělo použití takového kouzla vézt k řešení nějakého problému.
 
-### Jednoduchá kouzla
+### Magická jistota
 
-Mág může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. Může se jednat o věci jako jsou: drobné vizuální efekty, slabá telekineze, přihřátí čaje, očištění předmětu či změna jeho barvy. Efektivně by však nemělo použití takového kouzla vézt k řešení nějakého problému.
+Pokud mág sesílá kouzlo, jehož některé efekty jsou určeny hodem kostkou (např. poškození, léčení, trvání atd.). Může jako *volnou akci* tyto kostky přehodit a vzít si lepší výsledek. Mág může za den přehodit tolik *jednotlivých kostek*, *kolik je jeho úroveň*.
 
 ### Magická střela
 
@@ -67,7 +68,7 @@ Mág může strávit *1 den* vytvářením krystalizované magie. Krystalizovan�
 
 ### Improvizovaná magie (úroveň 4)
 
-Mág se může od 4. úrovně pokusit vytvořit improvizovaný magický efekt, který nevychází z žádného jeho naučeného kouzla avšak patří do jeho magické disciplíny. Takto sesílaná kouzla jsou daleko dražší než sesílání naučených kouzel. Postup sesílání je následující:
+Mág se může od 4. úrovně pokusit vytvořit improvizovaný magický efekt jako *běžnou akci*, který nevychází z žádného jeho naučeného kouzla avšak patří do jeho magické disciplíny. Takto sesílaná kouzla jsou daleko dražší než sesílání naučených kouzel. Postup sesílání je následující:
 
 - **Hráč:** Popíše jaký magický efekt chce seslat.
 - **PJ:** Stanoví cenu kouzla. Cena nemusí být konzistentní napříč opakovanými pokusy a to ani při opakování toho samého efektu. 

@@ -106,8 +106,8 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 
 **Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
 
-- **Fyzické:** A jeho varianty sečné, průrazné a tupé poškození.
-- **Energetické a magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá energie), Psychické.
+- **Fyzické:** A jeho varianty sečné, průrazné, tupé a jedové poškození.
+- **Energetické a magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá ničivá energie), Mentální.
 - **Pozitivní a negativní:** Pozitivní ubližuje všemu nemrtvému či démonickému ale pro vše živé je léčivé. Negativní funguje obráceně.
 
 **Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna jinými nezranitelnými monstry.
