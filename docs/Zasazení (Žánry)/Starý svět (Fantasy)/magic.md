@@ -331,7 +331,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 ### Černočerná tma
 
-**Cena:** <img src="/assets/action.png" width="15"> *4* magie
+**Cena:** <img src="/assets/action.png" width="20"> *4* magie
 
 **Dosah:** *20* metrů; **Cíl:** *1* stvoření
 
@@ -339,14 +339,14 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="15"> *6 magie:* Stejné jako základní efekt avšak očarovaný cíl je oslepen na *1k4 směn*.
-- <img src="/assets/round.png" width="15"> *12 magie:* Na místo očarování cíle, vyčaruje v oblasti *6-ti metrů*, kolem místa dopadu kouzla, kopuli absolutní černoty, která následně existuje podobu *1+1k6 směn*. Kopule je neprůhledná a všechna stvoření v ní jsou efektivně slepá. Veškeré nemagické zdroje světla zasažené kopulí jsou ihned uhašeny. Zasažená magická světla poskytují světlo jen na vzdálenost 1 metru.
+- <img src="/assets/round.png" width="20"> *6 magie:* Stejné jako základní efekt avšak očarovaný cíl je oslepen na *1k4 směn*.
+- <img src="/assets/round.png" width="20"> *12 magie:* Na místo očarování cíle, vyčaruje v oblasti *6-ti metrů*, kolem místa dopadu kouzla, kopuli absolutní černoty, která následně existuje podobu *1+1k6 směn*. Kopule je neprůhledná a všechna stvoření v ní jsou efektivně slepá. Veškeré nemagické zdroje světla zasažené kopulí jsou ihned uhašeny. Zasažená magická světla poskytují světlo jen na vzdálenost 1 metru.
 
 <img src="/assets/sep_line.png"/>
 
 ### Dimenzionální kotva
 
-**Cena:** <img src="/assets/action.png" width="15"> *7 magie* + *koncentrace*
+**Cena:** <img src="/assets/action.png" width="20"> *7 magie* + *koncentrace*
 
 <p><span><b>Cena:</b></span> <i>7</i> magie + <i>koncentrace</i></p>
 
@@ -356,14 +356,14 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="15"> *10 magie:* Stejné jako základní efekt avšak cíl má při pokusu o přesun postih *-4* k danému záchrannému hodu.
-- <img src="/assets/round.png" width="15"> *20 magie:* Stejný efekt jako první posílení avšak kouzlo je pernamentí (bez nutnosti koncentrace). Navíc pokud zasažené stvoření *3x* neuspěje v přemístění už se nikdy nemůže přemístit.
+- <img src="/assets/round.png" width="20"> *10 magie:* Stejné jako základní efekt avšak cíl má při pokusu o přesun postih *-4* k danému záchrannému hodu.
+- <img src="/assets/round.png" width="20"> *20 magie:* Stejný efekt jako první posílení avšak kouzlo je pernamentí (bez nutnosti koncentrace). Navíc pokud zasažené stvoření *3x* neuspěje v přemístění už se nikdy nemůže přemístit.
 
 <img src="/assets/sep_line.png"/>
 
 ### Duševní pouto
 
-**Cena:** <img src="/assets/action.png" width="15"> *2* magie
+**Cena:** <img src="/assets/action.png" width="20"> *2* magie
 
 **Dosah:** *10* metrů; **Cíl:** *1* ochotné stvoření
 
@@ -374,13 +374,13 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="15"> *4+ magie:* Stejné jako základní efekt ale přenáší *4 životy* nebo extra 2 životy za každé 2 magie navíc, použité k vyčarování tohoto kouzla.
+- <img src="/assets/round.png" width="20"> *4+ magie:* Stejné jako základní efekt ale přenáší *4 životy* nebo extra 2 životy za každé 2 magie navíc, použité k vyčarování tohoto kouzla.
 
 <img src="/assets/sep_line.png"/>
 
 ### Dýchací bublina
 
-**Cena:** <img src="/assets/action.png" width="15"> *2* magie
+**Cena:** <img src="/assets/action.png" width="20"> *2* magie
 
 **Dosah:** *20* metrů; **Cíl:** *1* stvoření
 
@@ -388,14 +388,14 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="15"> *2+ magie:* Stejné jako základní efekt ale za každou extra 1 magii může cílit na další stvoření v dosahu.
-- <img src="/assets/round.png" width="15"> *(2+)x2 magie:* Stejné jako první posílení ale efekt kouzla trvá celý den.
+- <img src="/assets/round.png" width="20"> *2+ magie:* Stejné jako základní efekt ale za každou extra 1 magii může cílit na další stvoření v dosahu.
+- <img src="/assets/round.png" width="20"> *(2+)x2 magie:* Stejné jako první posílení ale efekt kouzla trvá celý den.
 
 <img src="/assets/sep_line.png"/>
 
 ### Iluzorní podoba
 
-**Cena:** <img src="/assets/action.png" width="15"> *3* magie + *koncentrace*
+**Cena:** <img src="/assets/action.png" width="20"> *3* magie + *koncentrace*
 
 **Dosah:** *10* metrů; **Cíl:** *1* ochotné stvoření či předmět
 
@@ -403,14 +403,14 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="15"> *5+ magie:* Stejné jako základní efekt avšak za každých 2 magie navíc použité pro seslání kouzla, lze vybrat 1 extra cíl k očarování.
-- <img src="/assets/round.png" width="15"> *6 magie:* Stejné jako základní efekt avšak lze napodobit vzhled i hlas specifického jedince či předmětu. Sesilatel jej však musel někdy vidět a nebo slyšet. Pro napodobení těchto aspektů. Lze kombinovat s první posílením, za každý cíl přeměněný na specifický subjekt je však třeba zaplatit *6 magie*.
+- <img src="/assets/round.png" width="20"> *5+ magie:* Stejné jako základní efekt avšak za každých 2 magie navíc použité pro seslání kouzla, lze vybrat 1 extra cíl k očarování.
+- <img src="/assets/round.png" width="20"> *6 magie:* Stejné jako základní efekt avšak lze napodobit vzhled i hlas specifického jedince či předmětu. Sesilatel jej však musel někdy vidět a nebo slyšet. Pro napodobení těchto aspektů. Lze kombinovat s první posílením, za každý cíl přeměněný na specifický subjekt je však třeba zaplatit *6 magie*.
 
 <img src="/assets/sep_line.png"/>
 
 ### Kořeny
 
-**Cena:** <img src="/assets/action.png" width="15"> *4* magie
+**Cena:** <img src="/assets/action.png" width="20"> *4* magie
 
 **Dosah:** *20* metrů; **Cíl:** *1* stvoření
 
@@ -418,13 +418,13 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="15"> *6+ magie:* Stejné jako základní efekt avšak za každých 2 magie navíc použité pro seslání kouzla, lze vybrat 1 extra cíl k zachycení.
+- <img src="/assets/round.png" width="20"> *6+ magie:* Stejné jako základní efekt avšak za každých 2 magie navíc použité pro seslání kouzla, lze vybrat 1 extra cíl k zachycení.
 
 <img src="/assets/sep_line.png"/>
 
 ### Kouzlo smrti
 
-**Cena:** <img src="/assets/action.png" width="15"> *20+* magie
+**Cena:** <img src="/assets/action.png" width="20"> *20+* magie
 
 **Dosah:** *10* metrů; **Cíl:** *1* živý cíl
 
@@ -432,13 +432,13 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="15"> *20+ magie* a *2 dovednostní body vlastního výběru:* Stejné jako základní efekt avšak cíl nemá nárok na záchranný hod. Dovednostní body použité k seslání kouzla jsou permanentně ztraceny.
+- <img src="/assets/round.png" width="20"> *20+ magie* a *2 dovednostní body vlastního výběru:* Stejné jako základní efekt avšak cíl nemá nárok na záchranný hod. Dovednostní body použité k seslání kouzla jsou permanentně ztraceny.
 
 <img src="/assets/sep_line.png"/>
 
 ### Kůra místo kůže
 
-**Cena:** <img src="/assets/action.png" width="15"> *5* magie
+**Cena:** <img src="/assets/action.png" width="20"> *5* magie
 
 **Dosah:** *Dotyk*; **Cíl:** *1* ochotné stvoření
 
@@ -448,14 +448,14 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="15"> *10 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 2.
-- <img src="/assets/round.png" width="15"> *15 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 3.
+- <img src="/assets/round.png" width="20"> *10 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 2.
+- <img src="/assets/round.png" width="20"> *15 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 3.
 
 <img src="/assets/sep_line.png"/>
 
 ### Léčení
 
-**Cena:** <img src="/assets/action.png" width="15"> *4* magie
+**Cena:** <img src="/assets/action.png" width="20"> *4* magie
 
 **Dosah:** *Dotyk*; **Cíl:** *1* stvoření
 
@@ -463,14 +463,14 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="15"> *8 magie:* Kouzlo již nevyžaduje dotyk a lze seslat až na vzdálenost 10 metrů. Vyléčí *1k8+8* životů.
-- <img src="/assets/round.png" width="15"> *12 magie:* Vyléčí stejné množství jako první posílení avšak na místo seslání na cíl, vyvolá vlnu léčivé pozitivní energie, která vyjde ze sesilatele a rozprostře se *do okolí 10-ti metrů* léčící vše v dosahu.
+- <img src="/assets/round.png" width="20"> *8 magie:* Kouzlo již nevyžaduje dotyk a lze seslat až na vzdálenost 10 metrů. Vyléčí *1k8+8* životů.
+- <img src="/assets/round.png" width="20"> *12 magie:* Vyléčí stejné množství jako první posílení avšak na místo seslání na cíl, vyvolá vlnu léčivé pozitivní energie, která vyjde ze sesilatele a rozprostře se *do okolí 10-ti metrů* léčící vše v dosahu.
 
 <img src="/assets/sep_line.png"/>
 
 ### Název kouzla
 
-<p><span><b>Cena:</b></span><img src="/assets/action.png" width="15"> <i>XX</i> magie</p>
+<p><span><b>Cena:</b></span><img src="/assets/action.png" width="20"> <i>XX</i> magie</p>
 
 **Dosah:** asd; **Cíl:** asd
 
@@ -480,6 +480,6 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 - <p><img src="/assets/empower.png" width="15"> <span><i>mana_cost:</i></span></p>
 
-- <p><img src="/assets/round.png" width="15"> <span><i>mana_cost:</i></span></p>
+- <p><img src="/assets/round.png" width="20"> <span><i>mana_cost:</i></span></p>
 
 <img src="/assets/sep_line.png"/>
