@@ -48,6 +48,6 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 ## Speciální vlastnosti
 
-- **Rychle se učí** - Hranice úspěchu pro ověření specializace je pro tebe vždy o *1* nižší než je psáno v tabulce postupu pro specializaci, kterou sis vybral. 
+- **Rychle se učí** - ==todo: něco vymyslet==
 
 <img src="/assets/sep_line.png"/>

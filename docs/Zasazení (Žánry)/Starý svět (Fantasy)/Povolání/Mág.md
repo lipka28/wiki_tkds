@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     |     Magie     | Zásah | Z.Hod | HU Spec. |                           Odemyká                            |
-| :----: | :--------: | :-----------: | :---: | :---: | :------: | :----------------------------------------------------------: |
-|   1    |  6+Výdrž   |  10+Rozvaha   |  +0   |  16   |    8     | Um, Praktická magie, Magická jistota, Magická střela, Krystalizovaná magie |
-|   2    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  15   |    7     |                      Talent, +1 Kouzlo                       |
-|   3    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  14   |    7     |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   4    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  13   |    6     |                Improvizovaná magie, +1 Kouzlo                |
-|   5    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  12   |    6     |                      Talent, +1 Kouzlo                       |
-|   6    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  11   |    5     |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   7    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  10   |    5     |                  Nebezpečný dluh, +1 Kouzlo                  |
-|   8    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   9   |    4     |                      Talent, +1 Kouzlo                       |
-|   9    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   8   |    4     |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   10   | +1k6+Výdrž | +1k10+Rozvaha |  +5   |   7   |    3     |                   Proti-kouzlo, +1 Kouzlo                    |
-|  11+   |     +1     |      +3       |  +5   |   7   |    3     |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
+| ÚROVEŇ |     HP     |     Magie     | Zásah | Z.Hod |                           Odemyká                            |
+| :----: | :--------: | :-----------: | :---: | :---: | :----------------------------------------------------------: |
+|   1    |  6+Výdrž   |  10+Rozvaha   |  +0   |  16   | Um, Praktická magie, Magická jistota, Magická střela, Krystalizovaná magie |
+|   2    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  15   |                      Talent, +1 Kouzlo                       |
+|   3    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  14   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   4    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  13   |                Improvizovaná magie, +1 Kouzlo                |
+|   5    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  12   |                      Talent, +1 Kouzlo                       |
+|   6    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  11   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   7    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  10   |                  Nebezpečný dluh, +1 Kouzlo                  |
+|   8    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   9   |                      Talent, +1 Kouzlo                       |
+|   9    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   8   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   10   | +1k6+Výdrž | +1k10+Rozvaha |  +5   |   7   |                   Proti-kouzlo, +1 Kouzlo                    |
+|  11+   |     +1     |      +3       |  +5   |   7   |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
 
 ## Schopnosti povolání
 
@@ -38,7 +38,9 @@
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro mága jsou to zaručeně věci jako vycítění a identifikace magie, magický výzkum, manipulace magických energií, luštění magických run či učení se kouzel z různých zdrojů. Mimo magii je však mág i velmi vzdělaný jedinec, který má rozsáhlé znalosti historie, světa a stvoření v nich žijících. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako mág umět, je pokryto touto schopností. Pokud máš na základě této schopnosti házet kostkou používá se *ověření specializace*. Hod *1k12* proti *HU Spec.* z tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro mága jsou to zaručeně věci jako vycítění a identifikace magie, magický výzkum, manipulace magických energií, luštění magických run či učení se kouzel z různých zdrojů. Mimo magii je však mág i velmi vzdělaný jedinec, který má rozsáhlé znalosti historie, světa a stvoření v nich žijících. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako mág umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by mág měl vynikat. Můžeš si k hodu aplikovat bonus *+1*.
+
+- **Vylepšení:** Tento bonus se zvedá o 1 na *4.*, *7.* a *10.* úrovni.
 
 ### Praktická magie
 
@@ -72,7 +74,7 @@ Mág se může od 4. úrovně strávit celé kolo tvorbou improvizovaného magic
 
 - **Hráč:** Popíše jaký magický efekt chce seslat.
 - **PJ:** Stanoví cenu kouzla. Cena nemusí být konzistentní napříč opakovanými pokusy a to ani při opakování toho samého efektu. 
-- **Vyčarování:** Pokud hráč souhlasí hodí si na *ověření specializace*. Když uspěje, zaplatí cenu kouzla a kouzlo se provede. Pokud neuspěje zaplatí polovinu ceny kouzla a kouzlo selže. Seslání improvizovaného kouzla trvá *plné kolo*.
+- **Vyčarování:** Pokud hráč souhlasí hodí si na *ověření dovednosti Rozum*. Když uspěje, zaplatí cenu kouzla a kouzlo se provede. Pokud neuspěje zaplatí polovinu ceny kouzla a kouzlo selže. Seslání improvizovaného kouzla trvá *plné kolo*.
 
 ### Nebezpečný dluh (úroveň 7)
 
@@ -83,7 +85,7 @@ Pokud mág nemá dostatek magie, aby seslal kouzlo. Může jako *volnou akci* sp
 
 ### Proti-kouzlo (úroveň 10)
 
-Mág se může od 10. úrovně pokusit vyrušit sesílání kouzla někoho jiného. Pokud mág vidí sesílání kouzla, může použít svou *reakci* a provést *ověření specializace* modifikované rozdílem úrovní mezi ním a cílem proti-kouzla.
+Mág se může od 10. úrovně pokusit vyrušit sesílání kouzla někoho jiného. Pokud mág vidí sesílání kouzla, může použít svou *reakci* a provést *ověření dovednosti Rozum*. Hranice úspěchu je *8+rozdíl úrovní mezi mágem a cílem proti-kouzla*.
 
 - **Úspěch:** Mág a protivník oba zaplatí plnou cenu sesílaného kouzla a kouzlo se vyruší.
 - **NAT 12:** Pokud na ověřovací kostce padne *12*, je efekt stejný jako úspěch ale kouzlo se sešle jako odražené. Mág odrazující kouzlo může vybrat kdo nebo co je jeho cílem.

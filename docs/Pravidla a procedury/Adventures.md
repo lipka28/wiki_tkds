@@ -32,7 +32,7 @@ Během hry mohou nastat situace, kdy výsledek nějaké situace není úplně je
 
 - **Řešení herní procedurou** - Situace, která má jasně popsanou proceduru v pravidlech, by měla být vyhodnocena dle dané procedury. Příkladem takových procedur může být boj, sesílání kouzel nebo třeba používání schopností postav.
 - **Řešení popisem** - Hráč důkladně popíše jak by danou aktivitu prováděl a jaký výsledek z ní očekává. PJ vyhodnotí zda je to reálné a jestli existuje šance selhání. V případě, kdy je šance na selhání zanedbatelná umožní hráči akci vykonat bez nutnosti nějakého hodu.
-- **Řešení ověřovacím hodem** - Pokud PJ usoudí, že je akce možná ale nikoliv bez rizika. Může po hráči chtít jeden z ověřovacích hodů. Základními ověřovacími hody jsou *hod na zásah*, *ověření specializace*, *ověření dovednosti*, *záchranný hod* nebo *přímý hod*. Více o nich dále.
+- **Řešení ověřovacím hodem** - Pokud PJ usoudí, že je akce možná ale nikoliv bez rizika. Může po hráči chtít jeden z ověřovacích hodů. Základními ověřovacími hody jsou *hod na zásah*, *ověření dovednosti*, *záchranný hod* nebo *přímý hod*. Více o nich dále.
 - **Zamítnutí** - Pj má samozřejmě právo akci zakázat pokud mu přijde nesmyslná.
 
 ### Základní kompetence dobrodruha
@@ -48,31 +48,20 @@ Při řešení nejasných situací je dobré, aby PJ měl na paměti to, že hr�
 
 ### Ověřovací hody
 
-Zjednodušeně řečeno, ověřovací hod je hod kostkou proti nějaké cílové hodnotě. V této hře jsou to většinou kostky *k20* a *k12*. *K20* se používá na vše co by mohlo potencionálně ovlivnit zdraví postavy. Jako jsou *hody na zásah* (o nich více v kapitole ==todo link==) či *záchranné hody*. *K12* se pak používá na všechny ostatní ověřovací hody, jako jsou *hod na ověření dovednosti* či *hod na ověření specializace*.
+Zjednodušeně řečeno, ověřovací hod je hod kostkou proti nějaké cílové hodnotě. V této hře jsou to většinou kostky *k20* a *k12*. *K20* se používá na vše co by mohlo potencionálně ovlivnit zdraví postavy. Jako jsou *hody na zásah* (o nich více v kapitole ==todo link==) či *záchranné hody*. *K12* se pak používá na *ověření dovednosti*.
 
 #### Ověření dovednosti
 
 Ověření dovednosti probíhá jako hod modifikovaný dovedností postavy. Hráč si hodí *1k12* a přičte dovednost, kterou ověřuje.
 
-- *Větší rovno 7:* Pokud je výsledek větší nebo roven *7 (Hranice úspěchu - HU)*, tak je hod úspěšný. V opačném případě se jedná o neúspěch.
+- *Větší rovno 8:* Pokud je výsledek větší nebo roven *8 (Hranice úspěchu - HU)*, tak je hod úspěšný. V opačném případě se jedná o neúspěch.
 - *Přirozená 1 a přirozených 12:* Pokud na kostce padne *1* hod je neúspěšný nezávisle na modifikátorech či hranici úspěchu. Naopak pokud na kostce padne *12* je hod vždy úspěšný.
-- *Bonusy a postihy:* PJ může také na takový hod uvalit různé bonusy či postihy, dle dané situace.
-- *Modifikace obtížnosti:* Obtížnost *7* je vhodná pro libovlné běžné  situace s prvkem náhody. PJ však může usoudit, že je aktivita o kterou  se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *9* a *11* pro těžkou a velmi těžkou aktivitu a *5* pro lehkou. 
-
-#### Ověření specializace
-
-Je varianta ověření dovednosti, která však není modifikována žádnou dovedností a její HU není stanovena od PJ ale pevně dána specializací postavy (označováno jako *hranice úspěchu specializace*). Často je používána k vyhodnocování speciálních akcí, specifických pro danou specializaci (například zloděj odemykající dveře či, mág studující magické runy).
-
-- *Ověření:* Hráč si hodí *1k12* a musí hodit stejně nebo více jako jeho poznačená *HU specializace*, aby v akci uspěl.
-- *Přirozená 1 a přirozených 12:* Pokud na kostce padne *1* hod je neúspěšný nezávisle na modifikátorech či hranici úspěchu. Naopak pokud na kostce padne *12* je hod vždy úspěšný.
-- *Bonusy a postihy:* PJ může také na takový hod uvalit rúzné bonusy či postihy, dle dané situace. Často se používá rozdíl úrovní postavy a stvoření, které má být cílem akce.
+- *Bonusy a postihy:* Schopnosti postav mohou aplikovat další různé modifikátory.
+- *Modifikace obtížnosti:* Obtížnost *8* je nejběžnější a vhodná pro libovolné situace s prvkem náhody. Pokud není psáno jinak ověření dovednosti má *HU 8*. PJ však může usoudit, že je aktivita o kterou  se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *10* a *12* pro těžkou a velmi těžkou aktivitu a *6* pro lehkou. 
 
 #### Přímý hod
 
 Pokud jde v prováděné akci čistě o náhodu. PJ může stanovit pevnou pravděpodobnost (hodnota na libovolné kostce), kterou musí hráč přehodit a tím situaci vyřešit.
-
-!!! note "Akce cizích specializací"
-    Pokud se hráčova postava chce pokusit o aktivitu, která je pro ní reálná ale je předmětem cizí specializace (Například, když se bojovník pokusí odemknout zámek zlodějskými nástroji nebo mág chce stopovat nestvůru). Lze ji řešit *ověřením dovednosti* nebo *přímým hodem*. Hladina úspěchu pro takové ověření však nebude nikdy nižší než *12*.
 
 <img src="/assets/sep_line.png"/>
 

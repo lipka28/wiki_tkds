@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     |    Magie     | Zásah | Z.Hod | HU Spec. |                   Odemyká                    |
-| :----: | :--------: | :----------: | :---: | :---: | :------: | :------------------------------------------: |
-|   1    |  6+Výdrž   |  8+Rozvaha   |  +0   |  16   |    8     |                   Um, asd                    |
-|   2    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  15   |    7     |              Talent, +1 Kouzlo               |
-|   3    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  14   |    7     |        +1 Dovednostní bod, +1 Kouzlo         |
-|   4    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  13   |    6     |                asd, +1 Kouzlo                |
-|   5    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  12   |    6     |              Talent, +1 Kouzlo               |
-|   6    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  11   |    5     |        +1 Dovednostní bod, +1 Kouzlo         |
-|   7    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  10   |    5     |                asd, +1 Kouzlo                |
-|   8    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   9   |    4     |              Talent, +1 Kouzlo               |
-|   9    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   8   |    4     |        +1 Dovednostní bod, +1 Kouzlo         |
-|   10   | +1k6+Výdrž | +1k8+Rozvaha |  +5   |   7   |    3     |                asd, +1 Kouzlo                |
-|  11+   |     +1     |      +2      |  +5   |   7   |    3     | Talent (a každou další 3. úroveň), +1 Kouzlo |
+| ÚROVEŇ |     HP     |    Magie     | Zásah | Z.Hod |                   Odemyká                    |
+| :----: | :--------: | :----------: | :---: | :---: | :------------------------------------------: |
+|   1    |  6+Výdrž   |  8+Rozvaha   |  +0   |  16   |                   Um, asd                    |
+|   2    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  15   |              Talent, +1 Kouzlo               |
+|   3    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  14   |        +1 Dovednostní bod, +1 Kouzlo         |
+|   4    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  13   |                asd, +1 Kouzlo                |
+|   5    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  12   |              Talent, +1 Kouzlo               |
+|   6    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  11   |        +1 Dovednostní bod, +1 Kouzlo         |
+|   7    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  10   |                asd, +1 Kouzlo                |
+|   8    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   9   |              Talent, +1 Kouzlo               |
+|   9    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   8   |        +1 Dovednostní bod, +1 Kouzlo         |
+|   10   | +1k6+Výdrž | +1k8+Rozvaha |  +5   |   7   |                asd, +1 Kouzlo                |
+|  11+   |     +1     |      +2      |  +5   |   7   | Talent (a každou další 3. úroveň), +1 Kouzlo |
 
 ## Schopnosti povolání
 
@@ -38,7 +38,9 @@
 
 ### Um
 
-Pro každou specializaci existují nějaké předpokládané aktivity, ve kterých by měla vynikat. Pro druida jsou to především věci jako identifikaci a znalosti o rostlinách, vílách, zvířatech a přírodních fenoménech, porozumění cyklům přírody, předpověď počasí. Druid se rovněž vyzná v dávných tradicích a mytologii, spojených s přírodou a její ochranou. Prostě cokoliv, co ti dává smysl, že by tvá postava měla jako druid umět, je pokryto touto schopností. Pokud máš na základě této schopnosti házet kostkou, používá se *ověření specializace*. Hod *1k12* proti *HU Spec.* z tabulky postupu výše.
+Pro každou specializaci existují nějaké předpokládané aktivity, ve kterých by měla vynikat. Pro druida jsou to především věci jako identifikaci a znalosti o rostlinách, vílách, zvířatech a přírodních fenoménech, porozumění cyklům přírody, předpověď počasí. Druid se rovněž vyzná v dávných tradicích a mytologii, spojených s přírodou a její ochranou. Prostě cokoliv, co ti dává smysl, že by tvá postava měla jako druid umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by druid měl vynikat. Můžeš si k hodu aplikovat bonus *+1*.
+
+- **Vylepšení:** Tento bonus se zvedá o 1 na *4.*, *7.* a *10.* úrovni.
 
 ### Cyklus života
 

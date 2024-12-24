@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     | Zásah | Z.Hod | HU Spec. |                           Odemyká                            |
-| :----: | :--------: | :---: | :---: | :------: | :----------------------------------------------------------: |
-|   1    |  8+Výdrž   |  +0   |  16   |    8     | Um, Kořist, Za jedno s přírodou, Přítel divočiny, Samotář nebo Věrný společník |
-|   2    | +1k8+Výdrž |  +1   |  15   |    7     |                            Talent                            |
-|   3    | +1k8+Výdrž |  +2   |  14   |    7     |                      +1 Dovednostní bod                      |
-|   4    | +1k8+Výdrž |  +3   |  13   |    6     |                      Přírodní medicína                       |
-|   5    | +1k8+Výdrž |  +4   |  12   |    6     |                            Talent                            |
-|   6    | +1k8+Výdrž |  +5   |  11   |    5     |                      +1 Dovednostní bod                      |
-|   7    | +1k8+Výdrž |  +6   |  10   |    5     |                    Mistrovská ostražitost                    |
-|   8    | +1k8+Výdrž |  +7   |   9   |    4     |                            Talent                            |
-|   9    | +1k8+Výdrž |  +8   |   8   |    4     |                      +1 Dovednostní bod                      |
-|   10   | +1k8+Výdrž |  +9   |   7   |    3     |                        Smrtící střela                        |
-|  11+   |     +2     |  +9   |   7   |    3     |              Talent (a každou další 3. úroveň)               |
+| ÚROVEŇ |     HP     | Zásah | Z.Hod |                           Odemyká                            |
+| :----: | :--------: | :---: | :---: | :----------------------------------------------------------: |
+|   1    |  8+Výdrž   |  +0   |  16   | Um, Kořist, Za jedno s přírodou, Přítel divočiny, Samotář nebo Věrný společník |
+|   2    | +1k8+Výdrž |  +1   |  15   |                            Talent                            |
+|   3    | +1k8+Výdrž |  +2   |  14   |                      +1 Dovednostní bod                      |
+|   4    | +1k8+Výdrž |  +3   |  13   |                      Přírodní medicína                       |
+|   5    | +1k8+Výdrž |  +4   |  12   |                            Talent                            |
+|   6    | +1k8+Výdrž |  +5   |  11   |                      +1 Dovednostní bod                      |
+|   7    | +1k8+Výdrž |  +6   |  10   |                    Mistrovská ostražitost                    |
+|   8    | +1k8+Výdrž |  +7   |   9   |                            Talent                            |
+|   9    | +1k8+Výdrž |  +8   |   8   |                      +1 Dovednostní bod                      |
+|   10   | +1k8+Výdrž |  +9   |   7   |                        Smrtící střela                        |
+|  11+   |     +2     |  +9   |   7   |              Talent (a každou další 3. úroveň)               |
 
 ## Schopnosti povolání
 
@@ -38,7 +38,9 @@
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro hraničáře jsou to věci jako stopování, stahování z kůží, identifikaci a znalosti o rostlinách, vílách a zvířatům podobných monster, příprava pastí a obecně věci spojené s přežitím v divočině. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako hraničář umět, je pokryto touto schopností. Pokud máš na základě této schopnosti házet kostkou používá se *ověření specializace*. Hod *1k12* proti *HU Spec.* z tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro hraničáře jsou to věci jako stopování, stahování z kůží, identifikaci a znalosti o rostlinách, vílách a zvířatům podobných monster, příprava pastí a obecně věci spojené s přežitím v divočině. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako hraničář umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by hraničář měl vynikat. Můžeš si k hodu aplikovat bonus *+1*.
+
+- **Vylepšení:** Tento bonus se zvedá o 1 na *4.*, *7.* a *10.* úrovni.
 
 ### Kořist
 
@@ -63,7 +65,7 @@ Někteří hraničáři preferují nevyužívat zvířata k boji a radši se spo
 
 Hraničář se může pokusit utvořit pouto s nalezeným zvířetem. Pokud je pokus úspěšný, zvíře se stane jeho věrným společníkem.
 
-- **Navázání pouta:** Hraničář musí přistoupit k osamělému zvířeti a 1 směnu s ním mírumilovně interagovat. Lovec si pak hodí na *ověření specializace*. Pokud uspěje, zvíře se stane jeho věrným společníkem.
+- **Navázání pouta:** Hraničář musí přistoupit k osamělému zvířeti a 1 směnu s ním mírumilovně interagovat. Lovec si pak hodí na *ověření dovednosti Rozvaha*. Pokud uspěje, zvíře se stane jeho věrným společníkem.
 - **Typ zvířete:** Pouto lze navázat s jakýmkoliv zvířetem nebo monstrem ne větší než zvířecí inteligence.
 - **Limit:** Lovec může mít silné pouto *pouze s jedním zvířecím společníkem*, jehož úroveň nesmí převýšit úroveň lovce.
 - **Chování:**  Zvířecí společník bude následovat jednoduché pokyny bez toho, aby pro ně musel být předtím trénován. (I takové pokyny, které třeba nejsou pro daný zvířecí druh běžné.)

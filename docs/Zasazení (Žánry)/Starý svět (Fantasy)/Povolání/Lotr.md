@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     | Zásah | Z.Hod | HU Spec. |                           Odemyká                            |
-| :----: | :--------: | :---: | :---: | :------: | :----------------------------------------------------------: |
-|   1    |  8+Výdrž   |  +0   |  16   |    8     | Um, Boj se dvěma zbraněmi, Přepadení, Cech nebo talent, Dobrá příprava, |
-|   2    | +1k8+Výdrž |  +1   |  15   |    7     |                            Talent                            |
-|   3    | +1k8+Výdrž |  +2   |  14   |    7     |                      +1 Dovednostní bod                      |
-|   4    | +1k8+Výdrž |  +3   |  13   |    6     |                         Obratný úhyb                         |
-|   5    | +1k8+Výdrž |  +3   |  12   |    6     |                            Talent                            |
-|   6    | +1k8+Výdrž |  +4   |  11   |    5     |                      +1 Dovednostní bod                      |
-|   7    | +1k8+Výdrž |  +5   |  10   |    5     |                        Přelsti magii                         |
-|   8    | +1k8+Výdrž |  +6   |   9   |    4     |                            Talent                            |
-|   9    | +1k8+Výdrž |  +6   |   8   |    4     |                      +1 Dovednostní bod                      |
-|   10   | +1k8+Výdrž |  +7   |   7   |    3     |                       Studnice štěstí                        |
-|  11+   |     +2     |  +7   |   7   |    3     |              Talent (a každou další 3. úroveň)               |
+| ÚROVEŇ |     HP     | Zásah | Z.Hod |                           Odemyká                            |
+| :----: | :--------: | :---: | :---: | :----------------------------------------------------------: |
+|   1    |  8+Výdrž   |  +0   |  16   | Um, Boj se dvěma zbraněmi, Přepadení, Cech nebo talent, Dobrá příprava, |
+|   2    | +1k8+Výdrž |  +1   |  15   |                            Talent                            |
+|   3    | +1k8+Výdrž |  +2   |  14   |                      +1 Dovednostní bod                      |
+|   4    | +1k8+Výdrž |  +3   |  13   |                         Obratný úhyb                         |
+|   5    | +1k8+Výdrž |  +3   |  12   |                            Talent                            |
+|   6    | +1k8+Výdrž |  +4   |  11   |                      +1 Dovednostní bod                      |
+|   7    | +1k8+Výdrž |  +5   |  10   |                        Přelsti magii                         |
+|   8    | +1k8+Výdrž |  +6   |   9   |                            Talent                            |
+|   9    | +1k8+Výdrž |  +6   |   8   |                      +1 Dovednostní bod                      |
+|   10   | +1k8+Výdrž |  +7   |   7   |                       Studnice štěstí                        |
+|  11+   |     +2     |  +7   |   7   |              Talent (a každou další 3. úroveň)               |
 
 ## Schopnosti povolání
 
@@ -38,8 +38,9 @@
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro lotra jsou to aktivity typické pro běžný "rogue-archtype". Jako je odemykání zámků, vybírání kapes a podobně. Lotr se však v rámci své "class-fantasy" může pokusit i o věci, které hraničí s nadpřirozenem. Jako je zmizení ve stínech nebo šplhání po hladkých stěnách bez očividných úchytů. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako lotr umět, je pokryto touto schopností. Pokud máš na základě této schopnosti házet kostkou používá se *ověření specializace*. Hod *1k12* proti *HU Spec.* z tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro lotra jsou to aktivity typické pro běžný "rogue-archtype". Jako je odemykání zámků, vybírání kapes a podobně. Lotr se však v rámci své "class-fantasy" může pokusit i o věci, které hraničí s nadpřirozenem. Jako je zmizení ve stínech nebo šplhání po hladkých stěnách bez očividných úchytů. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako lotr umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by lotr měl vynikat. Můžeš si k hodu aplikovat bonus *+1*.
 
+- **Vylepšení:** Tento bonus se zvedá o 1 na *4.*, *7.* a *10.* úrovni.
 - **Zlodějské nástroje:** Aktivity jako odemykání zámků, či jiné manipulace mechanizmů vyžadují zlodějské nástroje. 
 
 ### Boj se dvěma zbraněmi
@@ -82,7 +83,7 @@ Pokud je lotr cílem útoku nebo plošného útoku, může si jako *reakci* při
 
 Lotr se může, jako *akci*, pokusit aktivovat nebo dočasně vyřadit magický předmět nebo mechanizmus. Bez hlubšího pochopení pro jeho fungování.
 
-- **Ověření:** Lotr podstoupí ověření specializace modifikovaný postihem *-2*.
+- **Ověření:** Lotr podstoupí *ověření dovednosti Vzdělání*.
 - **Úspěch:** Jednorázová aktivace magického předmětu či mechanizmu nebo jeho vyřazení na *1 směnu*.
 - **Neúspěch:** O nový pokus se lze pokusit až další den.
 
@@ -132,7 +133,7 @@ Lotr může jako *strategickou akci* hodit nůž co má u sebe. Hod na zásah t�
 
 **Požadavek:** -
 
-Při úspěšném zásahu útokem na blízku se může lotr jako *strategickou akci* a úspěšným *ověření specializace* pokusit ukrást, umístit předmět nebo sabotovat kus výbavy nepřítele.
+Při úspěšném zásahu útokem na blízku se lotr může jako *strategickou akci* a úspěšným *ověřením dovednosti Obratnost* pokusit ukrást, umístit předmět nebo sabotovat kus výbavy nepřítele.
 
 - **Ukradení předmětu:** Lotr musí mít volnou ruku. Kradený předmět nesmí být aktivně používán a cíl má nárok na záchranný hod proti trikům aby odolal.
 - **Umístění předmětu:** Lotr musí mít volnou ruku nebo v ruce musí být umísťovaný předmět. Předmět se musí efektivně vejít do dlaně.
@@ -156,7 +157,7 @@ Lotr se může pokusit úspěšným *ověřením specializace* napodobit hlas ji
 
 Lotr se může pokusit zamaskovat jako jiného humanoidního stvoření, které není výrazně větší nebo menší než on sám a se kterým se někdy setkal.
 
-- **Převlek:** Připravení převleku trvá *1 hodinu* a vyžaduje *maskovací sadu* a hod na *ověření specializace*.
+- **Převlek:** Připravení převleku trvá *1 hodinu* a vyžaduje *maskovací sadu* a hod na *ověření dovednosti osobnost*.
 - **Tajný hod:** Ověření na šarádu by měl být tajný hod.
 - **Opakování hodu:** V případě, že je zamaskovaný lotr důkladně prověřen někým kdo cíl  šarády zná. Hod na úspěch se musí opakovat (Například muž políbí  manželku, která je ve skutečnosti lotr v přestrojení).
 

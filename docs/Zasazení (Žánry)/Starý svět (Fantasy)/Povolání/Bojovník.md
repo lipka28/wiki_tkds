@@ -10,19 +10,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP      | Mod. Zásahu | Z.Hod | HU Spec. |                           Odemyká                           |
-| :----: | :---------: | :---------: | :---: | :------: | :---------------------------------------------------------: |
-|   1    |  10+Výdrž   |     +0      |  16   |    8     | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
-|   2    | +1k10+Výdrž |     +1      |  15   |    7     |                           Talent                            |
-|   3    | +1k10+Výdrž |     +2      |  14   |    7     |                     +1 Dovednostní bod                      |
-|   4    | +1k10+Výdrž |     +3      |  13   |    6     |                     Příležitostný útok                      |
-|   5    | +1k10+Výdrž |     +4      |  12   |    6     |                           Talent                            |
-|   6    | +1k10+Výdrž |     +5      |  11   |    5     |                     +1 Dovednostní bod                      |
-|   7    | +1k10+Výdrž |     +6      |  10   |    5     |                      Nával adrenalinu                       |
-|   8    | +1k10+Výdrž |     +7      |   9   |    4     |                           Talent                            |
-|   9    | +1k10+Výdrž |     +8      |   8   |    4     |                     +1 Dovednostní bod                      |
-|   10   | +1k10+Výdrž |     +9      |   7   |    3     |                         Extra útok                          |
-|  11+   |     +3      |     +9      |   7   |    3     |              Talent (a každou další 3. úroveň)              |
+| ÚROVEŇ |     HP      | Mod. Zásahu | Z.Hod |                           Odemyká                           |
+| :----: | :---------: | :---------: | :---: | :---------------------------------------------------------: |
+|   1    |  10+Výdrž   |     +0      |  16   | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
+|   2    | +1k10+Výdrž |     +1      |  15   |                           Talent                            |
+|   3    | +1k10+Výdrž |     +2      |  14   |                     +1 Dovednostní bod                      |
+|   4    | +1k10+Výdrž |     +3      |  13   |                     Příležitostný útok                      |
+|   5    | +1k10+Výdrž |     +4      |  12   |                           Talent                            |
+|   6    | +1k10+Výdrž |     +5      |  11   |                     +1 Dovednostní bod                      |
+|   7    | +1k10+Výdrž |     +6      |  10   |                      Nával adrenalinu                       |
+|   8    | +1k10+Výdrž |     +7      |   9   |                           Talent                            |
+|   9    | +1k10+Výdrž |     +8      |   8   |                     +1 Dovednostní bod                      |
+|   10   | +1k10+Výdrž |     +9      |   7   |                         Extra útok                          |
+|  11+   |     +3      |     +9      |   7   |              Talent (a každou další 3. úroveň)              |
 
 ## Schopnosti specializace
 
@@ -36,7 +36,9 @@
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro bojovníka je to převážně boj, avšak určitě se najdou i jiné věci, ve kterých by mohl vynikat. Jako jsou odhadování humanoidních soupeřů, posouzení kvality zbraní, zbrojí či koní. Prostě cokoliv, nesouvisícího s bojem, co ti dává smysl, že by tvá postava měla jako bojovník umět, je pokryto touto schopností. Pokud máš na základě této schopnosti házet kostkou používá se *ověření specializace*. Hod *1k12* proti *HU Spec.* z tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro bojovníka je to převážně boj, avšak určitě se najdou i jiné věci, ve kterých by mohl vynikat. Jako jsou odhadování humanoidních soupeřů, posouzení kvality zbraní, zbrojí či koní, ukázky síly. Prostě cokoliv, nesouvisícího s bojem, co ti dává smysl, že by tvá postava měla jako bojovník umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by bojovník měl vynikat. Můžeš si k hodu aplikovat bonus *+1*.
+
+- **Vylepšení:** Tento bonus se zvedá o 1 na *4.*, *7.* a *10.* úrovni.
 
 ### Boj se dvěma zbraněmi
 

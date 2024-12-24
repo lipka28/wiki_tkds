@@ -45,7 +45,7 @@ Postavy se specializací ovládající magii, se můžou naučit libovolné kouz
 Základní pravidla a definice platící pro všechny kouzla ve hře.
 
 - **Sesílání** - Vyčarování kouzla trvá většinou *akci* a vyžaduje hlasité zaříkávání, aspoň 1 volnou ruku a případně i další komponenty. Existují však i kouzla, které lze seslat jako *strategickou akci*, *reakci* či kombinaci více akcí.
-- **Posílení kouzla:** Většina kouzel lze seslat v posílené verzi. Posílení kouzla vyžaduje použití *více magie* a často i kombinace *běžné akce*, *rychlé akce* a nebo *pohybu* k jeho seslání (*rychlá akce* a *pohyb* jsou při posílení kouzla zaměnitelné). Jaký efekt posílení kouzla má je popsáno v popisku kouzla.
+- **Posílení kouzla:** Většina kouzel lze seslat v posílené verzi. Posílení kouzla vyžaduje použití *více magie* a často i kombinace *více akcí* k jeho seslání. Jaký efekt posílení kouzla má je popsáno v popisku kouzla.
 - **Odvolání** - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal (pokud nebylo odraženo nebo se jeho sesílání nějak nepokazilo).
 - **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje ale pouze jedno kouzlo vyžadující koncentraci může být aktivní v jednu chvíli. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí.
 - **Přerušení kouzla** - Pokud čaroděj obdrží poškození během sesílání kouzla nebo koncentrace, musí uspět v *záchranném hodu proti zhoubě* jinak je kouzlo či koncentrace ztracena. Pokud k přerušení dojde vy chvíli, kdy kouzelník udržuje koncentraci a zároveň sesílá kouzlo. Musí podstoupit záchranný hod za každou s aktivit.
