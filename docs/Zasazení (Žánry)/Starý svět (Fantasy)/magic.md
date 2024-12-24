@@ -339,7 +339,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="20"> *6 magie:* Stejné jako základní efekt avšak očarovaný cíl je oslepen na *1k4 směn*.
+- <img src="/assets/action.png" width="20"> *6 magie:* Stejné jako základní efekt avšak očarovaný cíl je oslepen na *1k4 směn*.
 - <img src="/assets/round.png" width="20"> *12 magie:* Na místo očarování cíle, vyčaruje v oblasti *6-ti metrů*, kolem místa dopadu kouzla, kopuli absolutní černoty, která následně existuje podobu *1+1k6 směn*. Kopule je neprůhledná a všechna stvoření v ní jsou efektivně slepá. Veškeré nemagické zdroje světla zasažené kopulí jsou ihned uhašeny. Zasažená magická světla poskytují světlo jen na vzdálenost 1 metru.
 
 <img src="/assets/sep_line.png"/>
@@ -348,15 +348,13 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Cena:** <img src="/assets/action.png" width="20"> *7 magie* + *koncentrace*
 
-<p><span><b>Cena:</b></span> <i>7</i> magie + <i>koncentrace</i></p>
-
 **Dosah:** *10* metrů; **Cíl:** *1* stvoření
 
 **Efekt:** Cíl zasažený tímto kouzlem musí, při každém pokusu o přemístění či přechod mezi dimenzemi, uspět v záchranném hodu, nebo jeho pokus o přesun selže. To platí po celou dobu trvání kouzla.
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="20"> *10 magie:* Stejné jako základní efekt avšak cíl má při pokusu o přesun postih *-4* k danému záchrannému hodu.
+- <img src="/assets/action.png" width="20"> *10 magie:* Stejné jako základní efekt avšak cíl má při pokusu o přesun postih *-4* k danému záchrannému hodu.
 - <img src="/assets/round.png" width="20"> *20 magie:* Stejný efekt jako první posílení avšak kouzlo je pernamentí (bez nutnosti koncentrace). Navíc pokud zasažené stvoření *3x* neuspěje v přemístění už se nikdy nemůže přemístit.
 
 <img src="/assets/sep_line.png"/>
@@ -414,7 +412,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Dosah:** *20* metrů; **Cíl:** *1* stvoření
 
-**Efekt:** Ze země vyrazí kořeny stromů, keřů a rostlin, které se pokusí zabránit cíli, nacházejícímu se v přírodním prostředí, v pohybu. Cíl musí uspět v *záchranném hodu* jinak se nemůže *pohybovat* dokud není použito *1k4 běžných akcí* k jeho osvobození. Cíl může stále provádět ostatní akce mimo pohybu.
+**Efekt:** Ze země vyrazí kořeny stromů, keřů a rostlin, které se pokusí zabránit cíli, nacházejícímu se v přírodním prostředí, v pohybu. Cíl musí uspět v *záchranném hodu* jinak se nemůže *pohybovat* dokud není použito *1k4 akcí* k jeho osvobození. Cíl může stále provádět ostatní aktivity mimo pohybu.
 
 **Posílení:**
 
@@ -448,8 +446,8 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="20"> *10 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 2.
-- <img src="/assets/round.png" width="20"> *15 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 3.
+- <img src="/assets/action.png" width="20"> *10 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 2.
+- <img src="/assets/action.png" width="20"> *15 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 3.
 
 <img src="/assets/sep_line.png"/>
 
@@ -464,7 +462,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 **Posílení:**
 
 - <img src="/assets/round.png" width="20"> *8 magie:* Kouzlo již nevyžaduje dotyk a lze seslat až na vzdálenost 10 metrů. Vyléčí *1k8+8* životů.
-- <img src="/assets/round.png" width="20"> *12 magie:* Vyléčí stejné množství jako první posílení avšak na místo seslání na cíl, vyvolá vlnu léčivé pozitivní energie, která vyjde ze sesilatele a rozprostře se *do okolí 10-ti metrů* léčící vše v dosahu.
+- <img src="/assets/round.png" width="20"> *12 magie:* Vyléčí stejné množství jako první posílení avšak na místo seslání na cíl, vyvolá vlnu léčivé *pozitivní energie*, která vyjde ze sesilatele a rozprostře se *do okolí 10-ti metrů* léčící vše v dosahu.
 
 <img src="/assets/sep_line.png"/>
 
@@ -478,7 +476,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <p><img src="/assets/empower.png" width="15"> <span><i>mana_cost:</i></span></p>
+- <p><img src="/assets/round.png" width="15"> <span><i>mana_cost:</i></span></p>
 
 - <p><img src="/assets/round.png" width="20"> <span><i>mana_cost:</i></span></p>
 
