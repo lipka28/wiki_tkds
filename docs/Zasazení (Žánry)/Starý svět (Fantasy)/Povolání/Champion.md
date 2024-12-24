@@ -81,6 +81,6 @@ Světlonoš se pokusí *1 směnu* koncentrovat a vycítit magické vibrace v př
 
 Světlonoš může, tolikrát denně kolik je jeho úroveň, *dotykem* vyléčit *1k4* životů.
 
-- **Sesílání:** Sesílání probíhá jako *běžná akce* a lze spojit několik použití do jednoho seslání. Například na 3. úrovni vyléčit dotykem 3k4 životů. 
+- **Sesílání:** Sesílání probíhá jako *akce* a lze spojit několik použití do jednoho seslání. Například na 3. úrovni vyléčit dotykem 3k4 životů. 
 
 <img src="/assets/sep_line.png"/>

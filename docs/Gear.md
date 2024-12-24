@@ -66,7 +66,7 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 - **Základní zbraň (ZZ):** Zbraň, která nevyžaduje speciální trénink pro efektivní používání v boji.
 - **Manipulace (1R/1+R/2R):** Pro efektivní použití v boji mohou zbraně potřebovat různý počet volných ruk. Jsou zbraně co jsou jednoruční, takové lze kombinovat s jinými jednoručními zbraněmi a štítem. Jeden a půl ruční, které lze využít jak jako jednoruční tak obouruční zbraň a v neposlední řadě obouruční, většinou s největší kostkou poškození nebo dosahem.
 - **Hozené (h/dh):** ==todo: potřebuje předělat== Zbraně, které lze hodit na vzdálenost *5 metrů*. Ty označené "dh" umožňují i hod na neefektivní vzdálenost *10 metrů*. Hozené zbraně připočítávají *sílu* k hodu na zásah.
-- **Nabíjecí zbraň (N):** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebití zbraně vyžaduje *běžnou akci*.
+- **Nabíjecí zbraň (N):** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebití zbraně vyžaduje *akci*.
 - **Dostřel:** Popisuje na jakou vzdálenost lze útočit střelnou zbraní. Obsahuje 2 hodnoty a to efektivní a neefektivní vzdálenost. Většinou střelných zbraní lze střílet i na neefektivní vzdálenost. Ten je vždy dvojnásobkem efektivního dostřelu (nebo dohodu) zbraně. Takový útok však probíhá *s postihem -4* na zásah. Střelnými zbraněmi nelze útočit na vzdálenost menší jak *2 metry*.
 - **Typ poškození:** Každá zbraň má aspoň jeden ze tří typů poškození. Typy poškození jsou S - Sečné, P - Průrazné a T - Tupé poškození.
 - **Speciální (sp):** Zbraně s touhle vlastností mají speciální schopnosti nebo využití. Podívej se do popisku zbraně, aby si zjistil jaké.

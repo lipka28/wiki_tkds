@@ -22,26 +22,26 @@
 !!! note "Příklad: Zvraty v boji"
     Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
 
-<img src="/assets/round.png" width="15"> **Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést *pohyb*, jednu *rychlou akci* a jednu *běžnou akci*. Hráč může také své kolo prokládat *volnými akcemi*. Všechny tyto "akce" se postavě obnoví pokaždé, když začne její tah. Jednotlivé akce fungují následovně.:
+<img src="/assets/round.png" width="15"> **Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést  *jednu strategickou akci*, *jednu akci* a *jednu reakci*. Hráč může také své kolo prokládat *volnými akcemi*. Všechny tyto "akce" se postavě obnoví pokaždé, když začne její tah. Jednotlivé akce fungují následovně.:
 
-- <img src="/assets/action.png" width="15"> *Běžná akce:* Za běžnou akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzla, použití předmětu či významná obměna výzbroje (změna držených zbraní). Provedení běžné akce *znemožňuje další pohyb* v daném tahu!
-- <img src="/assets/faction.png" width="15"> *Rychlá akce:* Některé postavy disponují schopnostmi, které se dají použít jako rychlé akce a to někdy i během tahu soupeře. Alternativně se dá použít rychlá akce k posílení některých kouzel. 
-- <img src="/assets/move.png" width="15"> *Pohyb:* Stvoření se může za kolo pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Alternativně se dá použít celý pohyb k posílení některých kouzel.
+- <img src="/assets/saction.png" width="15"> *Strategická akce:* Za strategickou akci je považován převážně pohyb. Postavy a monstra však mají spoustu schopností, které lze aktivovat jako strategickou akci. Co se. Co se pohybu týče, stvoření se může pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Alternativně se dá použít celý pohyb k posílení některých kouzel.
+- <img src="/assets/action.png" width="15"> *Akce:* Za akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzla, použití předmětu či významná obměna výzbroje (změna držených zbraní). Akci lze také použít pro provedení aktivity vyžadující strategickou akci.
+- <img src="/assets/reaction.png" width="15"> *Reakce:* Reakce je speciální akce, která umožní provést aktivitu i mimo tah stvoření, pokud jsou splněny podmínky jejího spouštěče.
 - <img src="/assets/free.png" width="15"> *Volná akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
+
+**Příležitostné útoky a úkrok:** Ta monstra, která lze považovat za trénované bojovníky, mají často schopnost *příležitostného útoku*, které jim umožňuje zaútočit jako reakci, když stvoření v okolí provede cokoliv jiného než útok na ně. Těmto příležitostným útokům se lze vyvarovat tím, že ohrožené stvoření provede *úkrok* jako *strategickou akci* a tím se posune o *1 metr* mimo dosah nepřítele.
 
 !!! note "Pohyb na čtvercové síti"
     Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*. Na hexagonové síti není třeba tento rozdíl řešit.
 
 !!! note "Tah monster"
-    Monstra se řídí stejnými pravidly boje jako hráči. Silná monstra však mohou mít výjimky z těchto pravidel. Jako například více útoků součástí jedné běžné akce nebo víc jak jednu rychlou akci.
+    Monstra se většinou řídí stejnými pravidly boje jako hráči. Silná monstra však mohou mít výjimky z těchto pravidel. Jako například více útoků součástí jedné akce nebo více strategických akcí či reakcí.
 
 **Konec trvajících efektů:** Efekty, kterými jsou ovlivněni členové skupiny, která je na tahu, ukončí své trvání. Pokud tyto efekty mají delší trvání jak 1 kolo, zkrátí se jejich doba trvání o 1 kolo. Působí-li takový efekt poškození (například někdo hoří nebo plave v kyselině), poškození je uděleno v této fázi.
 
 **Další na tahu:** Opakuj kroky *2a* až *2c* pro každou stranu konfliktu v pořadí iniciativy.
 
 ### Časté bojové situace
-
-**Sprint:** Stvoření, které není ve vzájemném ohrožení s jiným stvořením, může v daném kole obětovat svou běžnou akci a tím se pohybovat až dvojnásobkem své hybnosti.
 
 **Dosah útoků:** Dosah útoku je dán velikostí a typem zbraně.
 
@@ -50,37 +50,6 @@
 **Střelba přes spojence:** Je penalizována postihem -2 k zásahu. Větší množství spojenců v cestě může střelbu znemožnit.
 
 **Střelba na blízko:** Střelnou zbraní nelze střílet na cíle co jsou blíže jak 2 metry. 
-
-<img src="/assets/sep_line.png"/>
-
-### Divadlo mysli (Optional)
-
-Divadlo mysli (TotM - Theatre of the Mind) je alternativním způsobem jak odehrát boje bez nutnosti mapy či strategické čtvercové sítě. Jeho hlavními výhodami jsou plynulejší přechod mezi průzkumem a bojem, více "cinematické" vyobrazení boje a rychlejší odehrání boje samotného. Tato metoda však není vhodná pro všechny situace a skupiny hráčů. Například není vhodná pro boje s velkým množstvím účastníků. Pro boje, kde záleží na specifickém pozicování  a také není vhodná pro skupiny, které mají tendenci při boji nedávat pozor.
-
-#### Procedura boje v TotM
-
-Je v podstatě stejná jako při použití mřížky. Hodí se na iniciativu (pokud iniciativa nevyplývá ze situace) a strany se střídají v tazích. PJ popisuje scénu a tahy nepřátel a hráči popisují to co chtějí dělat. Pj jejich akce následně vyhodnotí.
-
-#### Rady pro TotM
-
-- **Být schovávaný:** Pokud to není absolutně nesmyslné, hráč je vždy tam kde potřebuje být, aby provedl svou akci.
-- **Nepoužívat specifika:** V žádném případě se při použití TotM nesmí používat specifické vzdálenosti. Ve chvíli, kdy začnete měřit vzdálenosti přesně, stane se souboj obtížnější udržet jen ve vaší představivosti. Je lepší používat fráze jako *"Na dosah středně velké střelné zbraně"*, *"Když se přesuneš můžeš do něj zaútočit"* nebo *"Tvá ohnivá koule zasáhne všechno v zóně u baru"* (o zónách více níže).
-- **Detailnější popisy nepřátel:** Hráči se v TotM lépe orientují, když nejsou nepřátele popsáni jen jako goblin-1 a goblin-2. Ale například jako goblin s páskou přes oko a goblin s třemi pletenými copánky až na zem. 
-- **Shrnutí akci:** Na konci každé strany je dobré shrnout její akce pro lepší přehlednost a více plynulý zážitek.
-- **Nebát se opakovat:** To co v hlavě vidí PJ se zaručeně nikdy nepřenese do představ hráčů. PJ by se neměl bát opakovat scénu klidně i pro každého hráče.
-- **Zóny:** Používejte zóny pro komplexní scény.
-
-#### Zóny
-
-Zóny jako koncept umožňují rozdělit komplexní bojiště do menších na sebe libovolně navazujících částí. Například potyčka v královské síni se dá rozdělit na zóny: "Vstupní brána", "Hala", "Královský trůn" a "Balkón (Který není přístupný z této místnosti, ale mohu na něm být stráže a střílet dolů na nepřátele.)". Díky zónám lze pak přehledně hlídat, kdo se kde nachází a s kým zrovna bojuje.  
-
-#### Modifikace pravidel boje pro TotM
-
-Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat následující modifikace.
-
-- **Dostřel a rozsah (třeba kouzel):** Je čistě v režii PJ. 
-- **Pohyb:** Běžným pohybem se lze přesunout v rámci jedné zóny nebo mezi sousedícími zónami. Sprintem se lze přesunout napříč několika navazujícími zónami (většinou 2).
-- **Vzájemné ohrožení:** Stvoření ve vzájemném ohrožení nemůže opustit sovu aktuální zónu ale může útočit na jiná stvoření ve stejné zóně.
 
 <img src="/assets/sep_line.png"/>
 
@@ -133,10 +102,7 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 - Pokud se shozené stvoření pokusí útočit větší jak jednoruční zbraní, tak jeho útoky probíhají s potihem *-4* na zásah. 
 - *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole.
 
-**Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *rychlou akci*.
-
-!!! Note "Připravené akce a pohyb"
-    Postava se může hýbat jak během tahu co akci připraví, tak během samotného použití připravené akce. Dohromady se však nemůže pohnout o víc než je hybnost dané postavy.
+**Připravená akce:** Postava nebo stvoření může obětovat svou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *reakci*.
 
 !!! Warning "Souběh akcí"
     Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.

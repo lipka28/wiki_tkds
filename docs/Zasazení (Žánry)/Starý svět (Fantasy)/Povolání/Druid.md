@@ -67,11 +67,11 @@ Druid se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se dru
 
 Druidova *osobnost* je považována za *+2* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
 
-### Přeměna ve zvíře (úroveň 4)
+### Přeměna ve zvíře (úroveň 4) ==todo: reword==
 
 Na 4. úrovni získává druid schopnost se *3x denně* proměnit do podoby libovolného zvířete, které kdy potkal. Zvíře musí být plaz, pták, ryba nebo savec a nesmí mít větší úroveň než je *druidova úroveň/2* (zaokrouhleno nahoru).
 
-- **Seslání:** Proměna trvá *1 běžnou akci*.
+- **Seslání:** Proměna stojí *akci*.
 - **Maximální trvání proměny:** 1 směna.
 - **Omezení:** V proměně nelze mluvit, sesílat kouzla či aktivovat předměty jelikož veškeré vybavení se vstřebá do zvířecí podoby a znovu se objeví, při proměně zpět.
 - **Statistiky:** Druid získává všechny statistiky a fyziologické schopnosti přeměněného stvoření. Mimo životů, ty zůstávají původní.
@@ -107,7 +107,7 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 <img src="/assets/sep_line.png"/>
 
-### Malý společník
+### Malý společník ==TODO: Překopírovat==
 
 **Požadavek:** -
 
@@ -115,7 +115,7 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 - **Statistiky:** *HP:* 1; *OČ:* 10; *ZH:* 14; *Hybnost:* 12 m
 - **Smrt:** Pokud magický společník zemře automaticky se vrátí k životu po *1 týdnu*.
-- **Záchrana života:** Mág může jako *rychlou akci* povolat svého společníka a tím se zachránit před přímým poškozením (neplatí na hromadné útoky). Magický společník obdrží poškození na místo mága a zemře.
+- **Záchrana života:** Mág může jako *akci* povolat svého společníka a tím se zachránit před přímým poškozením (neplatí na hromadné útoky). Magický společník obdrží poškození na místo mága a zemře.
 
 <img src="/assets/sep_line.png"/>
 

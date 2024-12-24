@@ -76,11 +76,11 @@ Lotr si může v civilizaci koupit libovolný počet *balíků neznámého obsah
 
 ### Obratný úhyb (úroveň 4)
 
-Pokud by měl být lotr zasažen cíleným nebo plošným útokem, může si jako *rychlou akci* připočítat jednorázový bonus ve výši své *obratnosti* do *OČ* nebo *záchrannéh hodu* (lze deklarovat až po hodu).
+Pokud je lotr cílem útoku nebo plošného útoku, může si jako *reakci* připočítat jednorázový bonus ve výši své *obratnosti* do *OČ* nebo *záchrannéh hodu*. Tento bonus je jen na útok, který spustil tuto reakci.
 
 ### Přelsti magii (úroveň 7)
 
-Lotr se může, jako *běžnou akci*, pokusit aktivovat nebo dočasně vyřadit magický předmět nebo mechanizmus. Bez hlubšího pochopení pro jeho fungování.
+Lotr se může, jako *akci*, pokusit aktivovat nebo dočasně vyřadit magický předmět nebo mechanizmus. Bez hlubšího pochopení pro jeho fungování.
 
 - **Ověření:** Lotr podstoupí ověření specializace modifikovaný postihem *-2*.
 - **Úspěch:** Jednorázová aktivace magického předmětu či mechanizmu nebo jeho vyřazení na *1 směnu*.
@@ -124,7 +124,7 @@ Lotr útočící nožem, může použít svou obratnost (na místo síly) jako m
 
 **Požadavek:** Mistr nožů a aspoň 5. úroveň
 
-Lotr může jako *rychlou akci* (i během tahu soupeře) hodit nůž co má u sebe. Hod na zásah tímto nožem má postih *-2* k zásahu.
+Lotr může jako *strategickou akci* hodit nůž co má u sebe. Hod na zásah tímto nožem má postih *-2* k zásahu.
 
 <img src="/assets/sep_line.png"/>
 
@@ -132,7 +132,7 @@ Lotr může jako *rychlou akci* (i během tahu soupeře) hodit nůž co má u se
 
 **Požadavek:** -
 
-Při úspěšném zásahu útokem na blízku se může lotr jako *rychlou akci* a úspěšném *ověření specializace* pokusit ukrást, umístit předmět nebo sabotovat kus výbavy nepřítele.
+Při úspěšném zásahu útokem na blízku se může lotr jako *strategickou akci* a úspěšným *ověření specializace* pokusit ukrást, umístit předmět nebo sabotovat kus výbavy nepřítele.
 
 - **Ukradení předmětu:** Lotr musí mít volnou ruku. Kradený předmět nesmí být aktivně používán a cíl má nárok na záchranný hod proti trikům aby odolal.
 - **Umístění předmětu:** Lotr musí mít volnou ruku nebo v ruce musí být umísťovaný předmět. Předmět se musí efektivně vejít do dlaně.

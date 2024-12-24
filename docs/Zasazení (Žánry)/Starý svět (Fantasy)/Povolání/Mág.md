@@ -56,7 +56,7 @@ Pokud mág sesílá kouzlo, jehož některé efekty jsou určeny hodem kostkou (
 
 ### Magická střela
 
-Mág ovládá základní kouzlo *magická střela* jenž může seslat až na vzdálenost až *10 metrů* (hod na zásah zbraní na dálku) a která působí *1k4 silového* poškození. Seslání nestojí žádnou magii a probíhá jako *běžná akce*.
+Mág ovládá základní kouzlo *magická střela* jenž může seslat až na vzdálenost až *10 metrů* (hod na zásah zbraní na dálku) a která působí *1k4 silového* poškození. Seslání nestojí žádnou magii a probíhá jako *akce*.
 
 ### Krystalizovaná magie
 
@@ -68,7 +68,7 @@ Mág může strávit *1 den* vytvářením krystalizované magie. Krystalizovan�
 
 ### Improvizovaná magie (úroveň 4)
 
-Mág se může od 4. úrovně pokusit vytvořit improvizovaný magický efekt jako *běžnou akci*, který nevychází z žádného jeho naučeného kouzla avšak patří do jeho magické disciplíny. Takto sesílaná kouzla jsou daleko dražší než sesílání naučených kouzel. Postup sesílání je následující:
+Mág se může od 4. úrovně strávit celé kolo tvorbou improvizovaného magického efektu, který nevychází z žádného jeho naučeného kouzla avšak patří do jeho magické disciplíny. Takto sesílaná kouzla jsou daleko dražší než sesílání naučených kouzel. Postup sesílání je následující:
 
 - **Hráč:** Popíše jaký magický efekt chce seslat.
 - **PJ:** Stanoví cenu kouzla. Cena nemusí být konzistentní napříč opakovanými pokusy a to ani při opakování toho samého efektu. 
@@ -76,14 +76,14 @@ Mág se může od 4. úrovně pokusit vytvořit improvizovaný magický efekt ja
 
 ### Nebezpečný dluh (úroveň 7)
 
-Pokud mág nemá dostatek magie, aby seslal kouzlo. Může spálit libovolný počet svých dovednostních bodů a tím si magii doplnit.
+Pokud mág nemá dostatek magie, aby seslal kouzlo. Může jako *volnou akci* spálit libovolný počet svých dovednostních bodů a tím si magii doplnit.
 
 - **Konverze:** Každý spálený dovednostní bod dodá mágovy *3* body magie.
 - **Zahojení:** Spálené dovednostní body se hojí rychlostí *1 za den*. Pokud bylo spáleno více různých dovednostních bodů, jejich priorita léčení je následující: *Osobnost*, *Rozvaha*, *Vzdělání*, *Výdrž*, *Obratnost*, *Síla*.
 
 ### Proti-kouzlo (úroveň 10)
 
-Mág se může od 10. úrovně jako *rychlou akci* (během tahu soupeře) pokusit vyrušit sesílání kouzla někoho jiného. Mág provede *ověření specializace* modifikované rozdílem úrovní mezi ním a cílem proti-kouzla.
+Mág se může od 10. úrovně pokusit vyrušit sesílání kouzla někoho jiného. Pokud mág vidí sesílání kouzla, může použít svou *reakci* a provést *ověření specializace* modifikované rozdílem úrovní mezi ním a cílem proti-kouzla.
 
 - **Úspěch:** Mág a protivník oba zaplatí plnou cenu sesílaného kouzla a kouzlo se vyruší.
 - **NAT 12:** Pokud na ověřovací kostce padne *12*, je efekt stejný jako úspěch ale kouzlo se sešle jako odražené. Mág odrazující kouzlo může vybrat kdo nebo co je jeho cílem.
@@ -105,7 +105,7 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 - **Statistiky:** *HP:* 1; *OČ:* 10; *ZH:* 14; *Hybnost:* 12 m
 - **Smrt:** Pokud magický společník zemře automaticky se vrátí k životu po *1 týdnu*.
-- **Záchrana života:** Mág může jako *rychlou akci* povolat svého společníka a tím se zachránit před přímým poškozením (neplatí na hromadné útoky). Magický společník obdrží poškození na místo mága a zemře.
+- **Záchrana života:** Pokud má mág obdržet poškození s přímého útoku může jako *reakci* povolat svého společníka a tím se zachránit před poškozením (neplatí na hromadné útoky). Magický společník obdrží poškození na místo mága a zemře.
 
 <img src="/assets/sep_line.png"/>
 
@@ -125,19 +125,11 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 <img src="/assets/sep_line.png"/>
 
-### Ochranné kouzlo
-
-**Požadavek:** -
-
-**Efekt:** Mág může jako *rychlou akci (i v tahu soupeře)* a cenu *2* magie. Seslat na sebe nebo jednoho spojence v okolí *9* metrů, ochranné kouzlo. Ochranné kouzlo přidá očarovanému cíli bonus *+2* do OČ a všech záchranných hodů na první útok, kouzlo nebo efekt, který se ho pokusí ovlivnit v následující směně.
-
-<img src="/assets/sep_line.png"/>
-
 ### Eureka
 
 **Požadavek:** -
 
-**Efekt:** Ve chvilce osvěty si objevil nová kouzla. Můžeš se naučit *2* extra kouzla ze své magické disciplíny. 
+**Efekt:** Ve chvilce osvěty si objevil nová kouzla. Můžeš se naučit *2* extra kouzla ze své magické disciplíny.
 
 <img src="/assets/sep_line.png"/>
 
@@ -145,7 +137,7 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 **Požadavek:** Eureka a vzdělání >= 3
 
-**Efekt:** Pomocí extrémně chytré manipulace magických esencí si objevil způsob, jak napodobit kouzlo z jiné magické disciplíny. Můžeš se naučit *1* extra kouzlo, které nespadá pod *praktickou magii*.
+**Efekt:** Pomocí extrémně chytré manipulace magických esencí si objevil způsob, jak napodobit kouzlo z jiné magické disciplíny. Můžeš se naučit *1* extra kouzlo, které nespadá pod *praktickou magii*. Tento talent si lze vzít opakovaně.
 
 <img src="/assets/sep_line.png"/>
 

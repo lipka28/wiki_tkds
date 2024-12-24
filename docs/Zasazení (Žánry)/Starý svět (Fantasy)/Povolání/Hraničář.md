@@ -42,7 +42,7 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 
 ### Kořist
 
-Hraničář jako *rychlou akci* označí *1 stvoření*, které vidí, slyší nebo zrovna stopuje, jako svou kořist. 
+Hraničář může jako *strategickou akci* označit *1 stvoření*, které vidí, slyší nebo zrovna stopuje, jako svou kořist. 
 
 - **Bonusy:** Hraničář má bonus *+1* k *zásahu* a *ověření dovedností* nebo *specializace* proti označenému stvoření a také označené stvoření má postih -1 k záchranným hodům proti hraničáři. Navíc při útocích na označené stvoření je hraničářův *dostřel* a *neefektivní dostřel* dvojnásobný a spojenci stojící v cestě neudělují postihy k zásahu za překážení.
 - **Příkaz:** Pokud si hraničář přeje, může jako *volnou akci* součástí této schopnosti, přikázat svému zvířecímu společníkovi útok na označené stvoření. 
@@ -68,7 +68,7 @@ Hraničář se může pokusit utvořit pouto s nalezeným zvířetem. Pokud je p
 - **Limit:** Lovec může mít silné pouto *pouze s jedním zvířecím společníkem*, jehož úroveň nesmí převýšit úroveň lovce.
 - **Chování:**  Zvířecí společník bude následovat jednoduché pokyny bez toho, aby pro ně musel být předtím trénován. (I takové pokyny, které třeba nejsou pro daný zvířecí druh běžné.)
 - **Chování v boji:** Věrný zvířecí společník bude oddaně bojovat po boku lovce a nikdy nemusí ověřovat morálku. V boji zvířecí společník drží po boku lovce a chrání jej, pokud mu není dán jiný příkaz.
-- **Příkaz:** Hraničář může obětovat část svého tahu (*běžnou akci* a nebo *rychlou akci*) aby dal svému zvířeti příkaz. Zvíře pak vykonává příkaz tak dlouho dokud jej nedokončí nebo dokud nedostane jiný příkaz. 
+- **Příkaz:** Hraničář může použít svou *strategickou akci*, aby dal svému zvířeti příkaz. Zvíře pak vykonává příkaz tak dlouho dokud jej nedokončí nebo dokud nedostane jiný příkaz.
 - **Zvíře do začátku:** Pokud si lovec přeje, může začínat hru se [zvířetem vlastního výběru](/Gear/#lovecky-pes) zdarma, který bude fungovat jako jeho věrný společník.  ==todo výběr zvířat do začátku==
 - **Získávání zkušeností:** Věrný zvířecí společník, po ochočení, začíná s tolika zkušenostmi kolik je nutné minimum pro jeho aktuální úroveň a *získává zkušenosti* jako další člen skupiny. S každou dosaženou úrovní obdrží *+4 životy*. S každou druhou dosaženou úrovní bonus *+1* k zásahu, poškození a záchranným hodům, a s každou třetí dosaženou úrovní bonus *+1* k OČ. Dosažené úrovně se počítají od úrovně na které se zvíře stalo věrným společníkem. Zvířecí společník nemůže tímto způsobem nikdy přesáhnout 10. úroveň avšak hraničář si může ochočit zvířecího společníka vyšší než 10. úrovně pokud na to sám má úroveň.
 - **Smrt:** Pro věrného zvířecího společníka platí stejná pravidla smrti jako pro hráče. Pokud i tak přesto zemře. Hraničář může strávit *týden* hledáním a tréninkem, a získat tak obdobného zvířecího společníka stejné úrovně jako ten předchozí. Neplatí pro neobvyklá a vzácná zvířata. Také veškeré speciální magické efekty a nabyté zkušenosti předchozího společníka jsou ztraceny.
@@ -150,7 +150,7 @@ Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybra
 
 **Požadavek:** Aspoň 5. úroveň
 
-**Efekt:** Hraničář může jako *rychlou akci* (i během tahu soupeře) vystřelit na svou kořist s postihem *-3* na zásah.
+**Efekt:** Hraničář může jako *strategickou akci* vystřelit na svou kořist s postihem *-3* na zásah.
 
 <img src="/assets/sep_line.png"/>
 
@@ -158,7 +158,7 @@ Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybra
 
 **Požadavek:** -
 
-**Efekt:** Hraničář může mít v jednu chvíli označené až *3 stvoření* jako svou kořist. Pokud si přeje může jako *běžnou akci* označit 3 stvoření naráz.
+**Efekt:** Hraničář může mít v jednu chvíli označené až *3 stvoření* jako svou kořist. Pokud si přeje může jako *akci* označit 3 stvoření naráz.
 
 <img src="/assets/sep_line.png"/>
 

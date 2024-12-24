@@ -15,7 +15,7 @@
 |   1    |  10+Výdrž   |     +0      |  16   |    8     | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
 |   2    | +1k10+Výdrž |     +1      |  15   |    7     |                           Talent                            |
 |   3    | +1k10+Výdrž |     +2      |  14   |    7     |                     +1 Dovednostní bod                      |
-|   4    | +1k10+Výdrž |     +3      |  13   |    6     |                           Zastav                            |
+|   4    | +1k10+Výdrž |     +3      |  13   |    6     |                     Příležitostný útok                      |
 |   5    | +1k10+Výdrž |     +4      |  12   |    6     |                           Talent                            |
 |   6    | +1k10+Výdrž |     +5      |  11   |    5     |                     +1 Dovednostní bod                      |
 |   7    | +1k10+Výdrž |     +6      |  10   |    5     |                      Nával adrenalinu                       |
@@ -47,19 +47,19 @@ Bojovník je mistrem všech zbraní a dokáže efektivně používat 2 jednoruč
 
 ### Bojové manévry
 
-Bojovník, který úspěšně zasáhne cíl. Může jako *rychlou akci* přidat bojový manévr (jako je skopnutí na zem, odhození, odzbrojení a podobné). Cíl má nárok na *záchranný hod proti trikům*, aby efektu odolal. Při kritickém zásahu lze tuto schopnost použít jako *volnou akci*.
+Bojovník může po úspěšném zásahu útokem provést bojový manévr jako *strategickou akci*. Bojové manévry jsou věci jako skopnutí na zem, odhození, odzbrojení a podobné. Cíl má nárok na *záchranný hod proti trikům*, aby efektu odolal.
 
 ### Momentum
 
 Bojovník v boji získává *momentum*, které mu umožňuje obratněji bojovat.
 
-- **Získávání:** Bojovník získá momentum za každého vlastnoručně zabitého protivníka v boji.
-- **Maximum:** Neexistuje limit kolik momentum může bojovník za boj nasbírat avšak nevyužité momentum na konci boji vyprchá.
-- **Využití:** Bojovník může spotřebovat jedno momentum a provést útok jako *volnou akci* na cíl v dosahu a to i během tahu soupeře. Pokud je takový útok proveden obouruční zbraní nebo dvěma zbraněmi, probíhá s postihem *-2* na zásah.
+- **Získávání:** Bojovník získá momentum za každého protivníka v boji, kterému udeřil smrtící ránu.
+- **Maximum:** Neexistuje limit kolik momentum může bojovník za boj nasbírat avšak nevyužité momentum na konci boje vyprchá.
+- **Využití:** Bojovník může spotřebovat jedno momentum a provést útok jako *volnou akci* na cíl v dosahu.
 
-### Zastav (Úroveň 4)
+### Příležitostný útok (Úroveň 4)
 
-Bojovník se může pokusit využít nepozornost soupeře a přerušit jeho akci. Bojovník se může jako *rychlou akci* (během tahu soupeře) pokusit přerušit *pohyb* nebo *běžnou akci*, které sám není cílem. Cíl musí uspět v *záchranném hodu proti trikům* jinak je jeho akce přerušena.
+Bojovník se může pokusit zasáhnout soupeře ve chvilce nepozornosti. Provádí-li stvoření v dosahu bojovníkových útoků na blízku jinou aktivitu než: *úkrok*, *útok na blízku* a nebo *sesílání kouzla na bojovníka*. Bojovník může použít svou *reakci* a provést tak útok na blízku proti takovému stvoření. Pokud je výsledkem kritický zásah, akce je přerušena a tah zasaženého stvoření je ukončen.
 
 ### Na dluh (Úroveň 7)
 
@@ -70,7 +70,7 @@ V těch nejhorších situacích může bojovník sáhnout do svých psychických
 
 ### Extra útok (Úroveň 10)
 
-Od 10. úrovně může bojovník provést 2 útoky jako součást jedné *běžné akce*.
+Od 10. úrovně může bojovník provést 2 útoky jako součást jedné *akce*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -100,7 +100,7 @@ Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat 
 
 **Požadavek:** -
 
-**Efekt:** Bojovník může jako *rychlou akci* během svého tahu začít běsnit. Běsnění přidává bonus *+2* do všech hodů na sílu a výdrž (ověření dovedností, hod na zásah, poškození zbraní na blízku, záchranné hody atd...) a uděluje postih *-1* k OČ. Bojovník může na jedno použití běsnit až *5 kol* a během běsnění neobdržuje postihy za vyčerpání. Na konci běsnění obdrží *1 bod vyčerpání*.
+**Efekt:** Bojovník může jako *strategickou akci* začít běsnit. Běsnění přidá bojovníkovi dočasné životy ve výši jeho *úrovně+Výdrž* a také bonus *+1* do všech hodů na *Sílu* a *Výdrž* (ověření dovedností, hod na zásah, poškození zbraní na blízku, záchranné hody atd...) a uděluje postih *-1* k OČ. Běsnící bojovník nemůže provádět aktivity, které vyžadují nějaké soustředění. Jaké akce vyžadují soustředění je v nežiji PJ avšak minimálně se jedná o věci jako sesílání kouzel či používání střelných zbraní. Bojovník může na jedno použití běsnit až *6 kol* a během běsnění neobdržuje postihy za vyčerpání. Na konci běsnění obdrží *1 bod vyčerpání*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -108,7 +108,7 @@ Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat 
 
 **Požadavek:** -
 
-**Efekt:** V prvním kole boje. Se může bojovník pohnout až dvojnásobkem své hybnosti po přímé linii a ještě k tomu zaútočit. Pokud při náběhu uběhne aspoň *15 metrů* a zasáhne svůj cíl. Jeho způsobené poškození je dvojnásobné.
+**Efekt:** Bojovník se může *pohnout* o svou hybnost a *zaútočit* jako součást jedné *akce*. Pokud se ve svém tahu přesunul o aspoň *15 metrů* a zasáhne svůj cíl. Jeho způsobené poškození je dvojnásobné.
 
 <img src="/assets/sep_line.png"/>
 
@@ -116,6 +116,6 @@ Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat 
 
 **Požadavek:** -
 
-**Efekt:** Všechny štíty v rukou bojovníka dávají extra *+1 OČ*. Navíc může bojovník použít svou *běžnou akci* na obranu spojence. Tím se jeho bonus do OČ za štít připočítává jak bojovníkovi samotnému tak i spojenci.
+**Efekt:** Všechny štíty v rukou bojovníka dávají extra *+1 OČ*. Navíc pokud je spojenec v okolí 1 metru kolem bojovníka cílem útoku. Bojovník může použít svou *reakci* a poskytnout tak svému spojenci bonus do OČ ve výši bonusu svého štítu. Tento bonus je jen na útok, který spustil tuto reakci.
 
 <img src="/assets/sep_line.png"/>

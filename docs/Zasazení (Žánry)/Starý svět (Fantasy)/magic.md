@@ -44,10 +44,11 @@ Postavy se specializací ovládající magii, se můžou naučit libovolné kouz
 
 Základní pravidla a definice platící pro všechny kouzla ve hře.
 
-- **Sesílání** - Vyčarování kouzla trvá většinou *1 běžnou akci* a vyžaduje hlasité zaříkávání, aspoň 1 volnou ruku a případně i další komponenty. Existují však i kouzla, které lze seslat jako *rychlou akci*.
+- **Sesílání** - Vyčarování kouzla trvá většinou *akci* a vyžaduje hlasité zaříkávání, aspoň 1 volnou ruku a případně i další komponenty. Existují však i kouzla, které lze seslat jako *strategickou akci*, *reakci* či kombinaci více akcí.
 - **Posílení kouzla:** Většina kouzel lze seslat v posílené verzi. Posílení kouzla vyžaduje použití *více magie* a často i kombinace *běžné akce*, *rychlé akce* a nebo *pohybu* k jeho seslání (*rychlá akce* a *pohyb* jsou při posílení kouzla zaměnitelné). Jaký efekt posílení kouzla má je popsáno v popisku kouzla.
 - **Odvolání** - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal (pokud nebylo odraženo nebo se jeho sesílání nějak nepokazilo).
-- **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje. Avšak pokud je čaroděj zasažen nebo neuspěje v záchranném hodu, musí uspět v *záchranném hodu proti zhoubě* jinak koncentraci ztratí a tím kouzlo ukončí. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí. V jednu chvíli může být aktivní jen jedno kouzlo vyžadující koncentraci.
+- **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje ale pouze jedno kouzlo vyžadující koncentraci může být aktivní v jednu chvíli. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí.
+- **Přerušení kouzla** - Pokud čaroděj obdrží poškození během sesílání kouzla nebo koncentrace, musí uspět v *záchranném hodu proti zhoubě* jinak je kouzlo či koncentrace ztracena. Pokud k přerušení dojde vy chvíli, kdy kouzelník udržuje koncentraci a zároveň sesílá kouzlo. Musí podstoupit záchranný hod za každou s aktivit.
 - **Záchranný hod** - Cíl naprosté většiny kouzel může podstoupit *záchranný hod proti magii* a tím se vyvarovat jeho efektu (a obdržet bod *bojové únavy* ==todo: odkaz==). U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě. Hod *přirozených 20* znamená, že můžeš efekt kouzla kompletně ignorovat. Hod *přirozených 1* znamená, že ti kouzlo uděluje plné poškození nebo má plné trvání (či jiný efekt dle rozhodnutí PJ).
 - **Maximální poškození** - Kouzlo může udělit na nejvýš *20* kostek poškození najednou.
 - **Kombinace efektů** - Více souběžných kouzel, nemůže být použito k ovlivnění toho samého atributu (Síla, Obratnost, OČ, Životy a podobně...) avšak protichůdná kouzla se mohou vzájemně vyrušit.
@@ -68,8 +69,9 @@ Základní pravidla k běžným magickým předmětům.
 
 Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o *jednorázový* předmět, který se po použití zničí a jehož výsledkem, je nějaký většinou magický nebo magii podobný efekt. Lektvary jsou považovány za alchymistické předměty (nikoliv magické) a může je aktivovat (vypít nebo hodit) *kdokoliv*. Svitek může být seslán pouze *postavami ovládající stejnou magickou disciplínu* jako tu do které spadá svitek.
 
-- **Aktivace předmětu:** Aktivace svitku nebo vypití lektvaru stojí *běžnou akci*.
+- **Aktivace předmětu:** Vypití lektvaru stojí *akci*. Aktivace svitku pak stojí tolik akcí kolik vyžaduje aktivace kouzla na něm zapsaném.
 - **Síla svitků a lektvarů:** Síla svitku nebo lektvaru je vždy určena při jeho výrobě (nebo nalezení). Úroveň či síla užvatele nemá na sílu jejich efektu žádný vliv.
+- **Posílení svitku:** Kouzlo zapsané na svitku nemůže být sesláno s jiným efektem než tím, který je zaznamenán na svitku. Je-li na svitku běžná verze kouzla, lze seslat pouze běžnou verzi. 
 
 
 ### Magické grimoáry
@@ -83,7 +85,7 @@ Grimoáry jsou speciální knihy, do kterých si kouzelníci zapisují svá kouz
 Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Efekt je většinou sesílán formou úderu nebo poklepáním žezlem. *Žezla mohou být použita a aktivována kýmkoliv, bez magického nadání*.
 
 - **Počet použití:** Žezlo má většinou při nálezu *1k10* použití.
-- **Aktivace předmětu:** Aktivace žezla stojí *běžnou akci*.
+- **Aktivace předmětu:** Aktivace žezla stojí *akci*.
 - **Dobytí:** Nelze, ale PJ může udělat výjimku. 
 
 ### Magické hůlky
@@ -91,16 +93,15 @@ Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Ef
 Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický efekt. Efekt je většinou stejný jako některé z kouzel. *Magické hůlky mohou být aktivovány pouze postavami, které ovládají relevantní magickou disciplínu*.
 
 - **Počet použití:** Magická hůlka má většinou při nálezu *2k10* použití.
-- **Aktivace předmětu:** Aktivace hůlky stojí *běžnou akci*.
-- **Dobytí:** Nelze, ale PJ může udělat výjimku. 
+- **Aktivace předmětu:** Aktivace hůlky stojí *akci*.
+- **Dobytí:** Nelze, ale PJ může udělat výjimku.
 
 ### Magické hole
 
-Více jak dvoumetrová magická hůl schopna vyvolávat hned několik různých magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami, které ovládají relevantní magickou disciplínu*.
+Více jak dvoumetrová magická hůl schopna uchovávat několik magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami, které ovládají relevantní magickou disciplínu*.
 
-- **Počet použití:** Magická hůl má většinou při nálezu *3k10* použití. 
-- **Aktivace předmětu:** Aktivace hole stojí *běžnou akci*.
-- **Dobytí:** Nelze, ale PJ může udělat výjimku. 
+- **Použití:** Magické hole většinou nemají počet použití. Na místo toho poskytují sadu kouzel, které čaroděj může sesílat za poloviční cenu. Pokud hůl obsahuje kouzlo, které čaroděj nezná. Může ho i tak při používání hole sesílat. 
+- **Aktivace předmětu:** Aktivace hole stojí vždy tolik akcí kolik je potřeba k seslání požadovaného kouzla z hole.
 
 ### Zbraně a zbroje
 
@@ -114,7 +115,7 @@ Další běžnou podobou magických předmětů jsou zbraně, štíty a zbroje. 
 Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že takové magické předměty *mohou být použity kýmkoliv kdo je má jako součást své výbavy*.
 
 - **Omezení:** Stvoření může mít naráz vybaven jen 1 magický předmět daného typu (jedny boty, jedna přilba, jeden plášť atd...). Výjimkou jsou magické prsteny. Ty lze mít vybavené 2 (1 na každé ruce). 
-- **Aktivace:** Jak je magický předmět aktivován nemusí být na první pohled jasné. Hráč si na způsob aktivace může přijít *identifikací* Aktivace předmětu stojí většinou *běžnou akci*.
+- **Aktivace:** Jak je magický předmět aktivován nemusí být na první pohled jasné. Hráč si na způsob aktivace může přijít *identifikací* Aktivace předmětu stojí většinou *akci*.
 - **Prokleté předměty:** Některé předměty mohou být prokleté. Nasazený prokletý předmět nelze sundat, dokud není prokletí zlomeno. 
 
 <img src="/assets/sep_line.png"/>
@@ -338,7 +339,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/empower.png" width="15"> *6 magie:* Stejné jako základní efekt avšak očarovaný cíl je oslepen na *1k4 směn*.
+- <img src="/assets/round.png" width="15"> *6 magie:* Stejné jako základní efekt avšak očarovaný cíl je oslepen na *1k4 směn*.
 - <img src="/assets/round.png" width="15"> *12 magie:* Na místo očarování cíle, vyčaruje v oblasti *6-ti metrů*, kolem místa dopadu kouzla, kopuli absolutní černoty, která následně existuje podobu *1+1k6 směn*. Kopule je neprůhledná a všechna stvoření v ní jsou efektivně slepá. Veškeré nemagické zdroje světla zasažené kopulí jsou ihned uhašeny. Zasažená magická světla poskytují světlo jen na vzdálenost 1 metru.
 
 <img src="/assets/sep_line.png"/>
@@ -355,7 +356,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/empower.png" width="15"> *10 magie:* Stejné jako základní efekt avšak cíl má při pokusu o přesun postih *-4* k danému záchrannému hodu.
+- <img src="/assets/round.png" width="15"> *10 magie:* Stejné jako základní efekt avšak cíl má při pokusu o přesun postih *-4* k danému záchrannému hodu.
 - <img src="/assets/round.png" width="15"> *20 magie:* Stejný efekt jako první posílení avšak kouzlo je pernamentí (bez nutnosti koncentrace). Navíc pokud zasažené stvoření *3x* neuspěje v přemístění už se nikdy nemůže přemístit.
 
 <img src="/assets/sep_line.png"/>
@@ -373,7 +374,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/empower.png" width="15"> *4+ magie:* Stejné jako základní efekt ale přenáší *4 životy* nebo extra 2 životy za každé 2 magie navíc, použité k vyčarování tohoto kouzla.
+- <img src="/assets/round.png" width="15"> *4+ magie:* Stejné jako základní efekt ale přenáší *4 životy* nebo extra 2 životy za každé 2 magie navíc, použité k vyčarování tohoto kouzla.
 
 <img src="/assets/sep_line.png"/>
 
@@ -387,7 +388,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/empower.png" width="15"> *2+ magie:* Stejné jako základní efekt ale za každou extra 1 magii může cílit na další stvoření v dosahu.
+- <img src="/assets/round.png" width="15"> *2+ magie:* Stejné jako základní efekt ale za každou extra 1 magii může cílit na další stvoření v dosahu.
 - <img src="/assets/round.png" width="15"> *(2+)x2 magie:* Stejné jako první posílení ale efekt kouzla trvá celý den.
 
 <img src="/assets/sep_line.png"/>
@@ -402,8 +403,8 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/empower.png" width="15"> *5+ magie:* Stejné jako základní efekt avšak za každých 2 magie navíc použité pro seslání kouzla, lze vybrat 1 extra cíl k očarování.
-- <img src="/assets/empower.png" width="15"> *6 magie:* Stejné jako základní efekt avšak lze napodobit vzhled i hlas specifického jedince či předmětu. Sesilatel jej však musel někdy vidět a nebo slyšet. Pro napodobení těchto aspektů. Lze kombinovat s první posílením, za každý cíl přeměněný na specifický subjekt je však třeba zaplatit *6 magie*.
+- <img src="/assets/round.png" width="15"> *5+ magie:* Stejné jako základní efekt avšak za každých 2 magie navíc použité pro seslání kouzla, lze vybrat 1 extra cíl k očarování.
+- <img src="/assets/round.png" width="15"> *6 magie:* Stejné jako základní efekt avšak lze napodobit vzhled i hlas specifického jedince či předmětu. Sesilatel jej však musel někdy vidět a nebo slyšet. Pro napodobení těchto aspektů. Lze kombinovat s první posílením, za každý cíl přeměněný na specifický subjekt je však třeba zaplatit *6 magie*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -417,7 +418,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- *6+ magie:* Stejné jako základní efekt avšak za každých 2 magie navíc použité pro seslání kouzla, lze vybrat 1 extra cíl k zachycení.
+- <img src="/assets/round.png" width="15"> *6+ magie:* Stejné jako základní efekt avšak za každých 2 magie navíc použité pro seslání kouzla, lze vybrat 1 extra cíl k zachycení.
 
 <img src="/assets/sep_line.png"/>
 
@@ -431,7 +432,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/empower.png" width="15"> *20+ magie* a *2 dovednostní body vlastního výběru:* Stejné jako základní efekt avšak cíl nemá nárok na záchranný hod. Dovednostní body použité k seslání kouzla jsou pernamentně ztraceny.
+- <img src="/assets/round.png" width="15"> *20+ magie* a *2 dovednostní body vlastního výběru:* Stejné jako základní efekt avšak cíl nemá nárok na záchranný hod. Dovednostní body použité k seslání kouzla jsou permanentně ztraceny.
 
 <img src="/assets/sep_line.png"/>
 
@@ -447,8 +448,8 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/empower.png" width="15"> *10 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 2.
-- <img src="/assets/empower.png" width="15"> *15 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 3.
+- <img src="/assets/round.png" width="15"> *10 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 2.
+- <img src="/assets/round.png" width="15"> *15 magie:* Stejné jako základní efekt ale redukce poškození se zvedne na 3.
 
 <img src="/assets/sep_line.png"/>
 
@@ -462,7 +463,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/empower.png" width="15"> *8 magie:* Kouzlo již nevyžaduje dotyk a lze seslat až na vzdálenost 10 metrů. Vyléčí *1k8+8* životů.
+- <img src="/assets/round.png" width="15"> *8 magie:* Kouzlo již nevyžaduje dotyk a lze seslat až na vzdálenost 10 metrů. Vyléčí *1k8+8* životů.
 - <img src="/assets/round.png" width="15"> *12 magie:* Vyléčí stejné množství jako první posílení avšak na místo seslání na cíl, vyvolá vlnu léčivé pozitivní energie, která vyjde ze sesilatele a rozprostře se *do okolí 10-ti metrů* léčící vše v dosahu.
 
 <img src="/assets/sep_line.png"/>

@@ -88,7 +88,7 @@ Akolyta může strávit *1 směnu* prováděním zázračného rituálu, který 
 - **Aspekty:** Rituál a jeho efekt musí být blízko (nebo aspoň připodobněn) aspektům patrona akolyty. Patron léčení a hadů neumožní své akolytě metat blesky.
 - **Výsledek:** Efekt rituálu rozhodne PJ dle *reakce na zázračný rituál* dle [tabulky reakcí patrona](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-reakci-patrona).
 - **Komponenty:** Akolyta může do rituálu přidat cenné nebo relevantní komponenty a tím si zvýšit šanci na úspěch.
-- **Vylepšení:** Od *6. úrovně* lze seslat zázračný rituál jako *běžnou akci*.
+- **Vylepšení:** Od *6. úrovně* lze seslat zázračný rituál jako *akci*.
 
 ### Nebezpečný dluh (Úroveň 3)
 
@@ -128,6 +128,6 @@ Od 9. úrovně může strávit *1 směnu* vyvoláváním mocného rituálu, kter
 
 - **Dar první:** *Hůl slabého léčení*. Hůl umí dotykem vyléčit *1k3+1* životů a má neomezený počet použití. Opakovaná použití na stejné stvoření v jeden den však nemají žádný efekt.
 - **Dar druhý:** Stáváš se *imunní* vůči jedům, nemocem a nemagické paralýze. 
-- **Dar třetí:** Při sesílání léčebných rituálů máš *výhodu na reakci patrona* a veškeré tebou poskytnuté léčení je taktéž házeno s *výhodou*.
+- **Dar třetí:** Při sesílání léčebných rituálů máš *výhodu na reakci patrona* a veškeré tebou poskytnuté léčení je taktéž házeno s *výhodou*. (nepoužívat výhodu a nevýhodu)
 
 <img src="/assets/sep_line.png"/>
