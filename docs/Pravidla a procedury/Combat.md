@@ -25,7 +25,7 @@
 <img src="/assets/round.png" width="20"> **Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést  *jednu strategickou akci*, *jednu akci* a *jednu reakci*. Hráč může také své kolo prokládat *volnými akcemi*. Všechny tyto "akce" se postavě obnoví pokaždé, když začne její tah. Jednotlivé akce fungují následovně.:
 
 - <img src="/assets/action.png" width="20"> *Akce:* Za akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzla, použití předmětu či významná obměna výzbroje (změna držených zbraní). Akci lze také použít pro provedení aktivity vyžadující strategickou akci.
-- <img src="/assets/saction.png" width="20"> *Strategická akce:* Za strategickou akci je považován převážně pohyb. Postavy a monstra však mají spoustu schopností, které lze aktivovat jako strategickou akci. Co se. Co se pohybu týče, stvoření se může pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Alternativně se dá použít celý pohyb k posílení některých kouzel.
+- <img src="/assets/saction.png" width="20"> *Strategická akce:* Za strategickou akci je považován převážně pohyb. Postavy a monstra však mají spoustu schopností, které lze aktivovat jako strategickou akci. Co se pohybu týče, stvoření se může pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Alternativně se dá použít celý pohyb k posílení některých kouzel.
 - <img src="/assets/reaction.png" width="15"> *Reakce:* Reakce je speciální akce, která umožní provést aktivitu i mimo tah stvoření, pokud jsou splněny podmínky jejího spouštěče.
 - <img src="/assets/free.png" width="20"> *Volná akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
 
@@ -58,11 +58,11 @@
 | HODY NA ÚTOK                                                 |
 | :----------------------------------------------------------- |
 | *1. Hoď 1k20*                                                |
-| *2. Připočti modifikátory:* Bonus k útoku. Sílu při boji zblízka a rozvahu při boji na dálku. Nezapomeň také na krytí. Monstra mají modifikátory útoku ve svém stat-bloku. |
+| *2. Připočti modifikátory a bonusy:* Bonus k útoku. Sílu při boji zblízka a Rozvahu při boji na dálku. Připočítávají se také různé bonusy a postihy z kouzel, předmětů a podobně. Monstra mají modifikátory útoku ve svém stat-bloku. |
 | *3. Stanov OČ:* Postavy i monstra mají OČ napsané ve svém stat-bloku. |
 | *4. Výsledek:* Pokud je výsledek útoku stejný nebo vyšší než OČ cíle útok byl úspěšný, můžeš házet na poškození. |
 
-**NAT 1 a NAT 20:** Hod přirozené *1* je považován za neúspěch. Hod přirozené *20* je považován za kritický zásah. 
+**NAT 1 a NAT 20:** Hod přirozené *1* je považován za neúspěch. Hod přirozené *20* je považován za kritický zásah (pokud by čistě modifikovaný hod znamenal úspěch, v opačném případě se pouze stupeň úspěchu zvedá o krok výš). 
 
 **Kritické zásahy:** Uděluje maximální možné poškození (Určené maximální hodnotou na kostkách poškození dané zbraně včetně bonusů).
 

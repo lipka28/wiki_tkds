@@ -44,20 +44,22 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 - **Střední** - Hlučná, nedá se v ní spát. Způsobuje zatížení. Součástí zbroje je i přilbice, která chrání před traumaty hlavy. Hybnost postavy ve střední zbroji nemůže být vyšší jak *9*.
 - **Těžká a velmi těžká** - Hlučná, nedá se v ní spát. Způsobuje zatížení. Součástí zbroje je i přilbice, která chrání před traumaty hlavy. Hybnost postavy v těžké nebo velmi těžké zbroji nemůže být vyšší jak *6*.
 - **Štít** - Zvyšuje OČ nositele, většinou držen v jedné ruce.
+- **Zvířecí brnění:** Brnění určená pro zvěř, jako jsou koně a psy. PJ může za příplatek povolit použití i na jiná zvířata.
 
-| ZBROJE                     |     TYP     |   OČ   | skladnost |   CENA   |
-| :------------------------- | :---------: | :----: | :-------: | :------: |
-| Obyčejné oblečení          |  Oblečení   | - (10) |     1     | - (1 st) |
-| Noblesní oblečení          |  Oblečení   | - (10) |     1     |  100 st  |
-| Kožená zbroj               |    Lehká    |   12   |     T     |  20 st   |
-| Šupinová zbroj             |   Střední   |   14   |     T     |  40 st   |
-| Půl plát s kyrysem         |    Těžká    |   16   |     T     |  60 st   |
-| Plná plátová zbroj na míru | Velmi těžká |   17   |     T     | 1000 st  |
-| Štít                       |    Štít     |   +1   |     T     |  10 st   |
+| ZBROJE                     |      TYP       |   OČ   | skladnost |   CENA   |
+| :------------------------- | :------------: | :----: | :-------: | :------: |
+| Obyčejné oblečení          |    Oblečení    | - (10) |     1     | - (1 st) |
+| Noblesní oblečení          |    Oblečení    | - (10) |     1     |  100 st  |
+| Kožená zbroj               |     Lehká      |   12   |     T     |  20 st   |
+| Šupinová zbroj             |    Střední     |   14   |     T     |  40 st   |
+| Půl plát s kyrysem         |     Těžká      |   16   |     T     |  60 st   |
+| Plná plátová zbroj na míru |  Velmi těžká   |   17   |     T     | 1000 st  |
+| Štít                       |      Štít      |   +1   |     T     |  10 st   |
+| Zvířecí brnění             | Zvířecí brnění |   +2   |     1     |  25 st   |
 
 <img src="/assets/sep_line.png"/>
 
-## Zbraně ==reword==
+## Zbraně ==reword a fix... todo==
 
 Zbraně se dělí do několika kategorií, především dle určitých vlastností.
 
@@ -65,7 +67,7 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 
 - **Základní zbraň (ZZ):** Zbraň, která nevyžaduje speciální trénink pro efektivní používání v boji.
 - **Manipulace (1R/1+R/2R):** Pro efektivní použití v boji mohou zbraně potřebovat různý počet volných ruk. Jsou zbraně co jsou jednoruční, takové lze kombinovat s jinými jednoručními zbraněmi a štítem. Jeden a půl ruční, které lze využít jak jako jednoruční tak obouruční zbraň a v neposlední řadě obouruční, většinou s největší kostkou poškození nebo dosahem.
-- **Hozené (h/dh):** ==todo: potřebuje předělat== Zbraně, které lze hodit na vzdálenost *5 metrů*. Ty označené "dh" umožňují i hod na neefektivní vzdálenost *10 metrů*. Hozené zbraně připočítávají *sílu* k hodu na zásah.
+- **Hozené (h/dh):** Zbraně, které lze hodit na vzdálenost *5 metrů*. Ty označené "dh" umožňují i hod na neefektivní vzdálenost *10 metrů*. Hozené zbraně připočítávají *sílu* k hodu na zásah.
 - **Nabíjecí zbraň (N):** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebití zbraně vyžaduje *akci*.
 - **Dostřel:** Popisuje na jakou vzdálenost lze útočit střelnou zbraní. Obsahuje 2 hodnoty a to efektivní a neefektivní vzdálenost. Většinou střelných zbraní lze střílet i na neefektivní vzdálenost. Ten je vždy dvojnásobkem efektivního dostřelu (nebo dohodu) zbraně. Takový útok však probíhá *s postihem -4* na zásah. Střelnými zbraněmi nelze útočit na vzdálenost menší jak *2 metry*.
 - **Typ poškození:** Každá zbraň má aspoň jeden ze tří typů poškození. Typy poškození jsou S - Sečné, P - Průrazné a T - Tupé poškození.
@@ -313,7 +315,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Zásoby pro zvíře:** Levnější varianta zásob pro vaše mazlíčky.
 
-**Zlodějské náčiní:** Zlodějská sada pro odemykání zámků a jiné manipulace drobných mechanismů.
+**Zlodějské náčiní:** Zlodějská sada potřebná pro odemykání zámků a jiné manipulace mechanizmů.
 
 <img src="/assets/sep_line.png"/>
 
@@ -326,10 +328,9 @@ Hráči mohou mít v průběhu hry přístup k nejrůznějším jedům.
 
 ### Efekty jedů
 
-Oběť otravy musí podstoupit *záchranný hod zhoubě* s modifikátorem závislým na síle jedu. Efekt samotného jedu pak závisí na úspěchu či neúspěchu v záchranném hodu a tom, jestli byl jed pozřen nebo vstoupil do těla zraněním.  
+Oběť otravy musí podstoupit *záchranný hod zhoubě* s modifikátorem závislým na síle jedu. Při úspěchu obdrží cíl poloviční poškození (nebo ignoruje jiný efekt jedu, pokud nějký) a při *NAT 20* může poškození z jedu kompletně ignorovat. Na druhou stranu při *NAT 1* obdrží cíl plné poškození (nebo plný rozsah jiného efektu jedu, pokud nějaký).
 
-- **Pozření:** V případě pozření má cíl otravy šanci jed odhalit dřív než jej pozře a při konzumaci určité poškození obdrží i když uspěje v záchranném hodu.
-- **Zranění:** V případě zranění cíl obdrží poškození pouze při neúspěchu v záchranném hodu.
+- **Pozření:** V případě pozření má cíl otravy šanci jed odhalit dřív než jej pozře.
 
 ### Aplikace jedu na zbraň
 
@@ -339,13 +340,13 @@ Aplikace na zbraň trvá *1 směnu*. Jednou lahvičkou jedu lze pokrýt *1 velko
 
 ### Běžné jedy
 
-| TYP  |   CENA   | zach. MOD. | ODHALENÍ*\** | prodleva  |  EFEKT*\** (U)  |    EFEKT (N)    |
-| :--: | :------: | :--------: | :----------: | :-------: | :-------------: | :-------------: |
-|  I   |  10 st   |     +6     |     80%      |  2k4 kol  | 5 hp poškození  | 10 hp poškození |
-|  II  |  75 st   |     +5     |     65%      | 1k4+1 kol | 10 hp poškození | 20 hp poškození |
-| III  |  300 st  |     +4     |     40%      |  1k2 kol  | 15 hp poškození | 30 hp poškození |
-|  IV  |  800 st  |     +3     |     15%      |   Ihned   | 20 hp poškození | 40 hp poškození |
-|  V   | 1 300 st |     +2     |      0%      |   Ihned   | 25 hp poškození | 50 hp poškození |
+| TYP  |   CENA   | zach. MOD. | ODHALENÍ*\** | prodleva  |          EFEKT          |
+| :--: | :------: | :--------: | :----------: | :-------: | :---------------------: |
+|  I   |  10 st   |     +6     |     80%      |  2k4 kol  | 2k6 jedového poškození  |
+|  II  |  75 st   |     +5     |     65%      | 1k4+1 kol | 4k6 jedového poškození  |
+| III  |  300 st  |     +4     |     40%      |  1k2 kol  | 6k6 jedového poškození  |
+|  IV  |  800 st  |     +3     |     15%      |   Ihned   | 8k6 jedového poškození  |
+|  V   | 1 300 st |     +2     |      0%      |   Ihned   | 10k6 jedového poškození |
 
 *\*Platí jen při konzumaci*
 
@@ -355,9 +356,7 @@ Aplikace na zbraň trvá *1 směnu*. Jednou lahvičkou jedu lze pokrýt *1 velko
 
 **Prodleva** - Doba, než jed začne působit 
 
-**Efekt (U)** - Efekt při úspěšném hodu na záchranu v případě pozřeného jedu.  
-
-**Efekt (N)** - Efekt při neúspěšném hodu na záchranu.
+**Efekt** - Efekt jedu.
 
 <img src="/assets/sep_line.png"/>
 
@@ -367,37 +366,20 @@ Aplikace na zbraň trvá *1 směnu*. Jednou lahvičkou jedu lze pokrýt *1 velko
 
 <img src="/assets/sep_line.png"/>
 
-### Lovecký pes
+### Pes
 
 Domestikované plemeno vybírané především pro svou inteligenci a stopovací schopnosti.
 
-**Lvl:** 1, **HP:** 6, **OČ:** 12, **ToHIT:** +1,  **Hybnost:** 18, **Z.Hod:** 14, **Morálka:** 10
+**Lvl:** 1; **HP:** 6; **OČ:** 12; **ToHIT:** +1;  **Hybnost:** 18; **Z.Hody:** *Z:*15 / *T:*14 / *M:* 16; **Morálka:** 10
 
 **Útoky:** 1x Kousnutí *1k6*
 
 **Speciální schopnosti:**
 
-- *Stopování:* Čichem. Jakmile začne stopovat, je velmi obtížné jej svést z cesty. 
+- *Stopování:* Poskytuje bonus *+4* ke stopování.
 - *Na příkaz:* Trénovaný, aby útočil na příkaz majitele.
 
-**Cena:** 17 st
-
-<img src="/assets/sep_line.png"/>
-
-### Válečný pes
-
-Velké domestikované plemeno. Vybrané především pro svou velikost a svou divokou náturu.
-
-**Lvl:** 2, **HP:** 11, **OČ:** 11, **ToHIT:** +2,  **Hybnost:** 12, **Z.Hod:** 14, **Morálka:** 11
-
-**Útoky:** 1x Kousnutí *2k4*
-
-**Speciální schopnosti:**
-
-- *Brnění:* Trénován aby nosil brnění. (Lze dokoupit za *25 st*. Poskytuje extra *+2 OČ*).
-- *Na příkaz:* Trénovaný, aby útočil na příkaz majitele. 
-
-**Cena:** 25 st
+**Cena:** 20 st
 
 <img src="/assets/sep_line.png"/>
 
@@ -405,69 +387,34 @@ Velké domestikované plemeno. Vybrané především pro svou velikost a svou di
 
 Tvrdohlavý kříženec koně a osla.
 
-**Lvl:** 2, **HP:** 9, **OČ:** 12, **ToHIT:** +1,  **Hybnost:** 12, **Z.Hod:** 16, **Morálka:** 9
+**Lvl:** 2; **HP:** 8; **OČ:** 12; **ToHIT:** +1;  **Hybnost:** 12; **Z.Hod:** *Z:*14 / *T:*16 / *M:* 16; **Morálka:** 9
 
 **Útoky:** 1x Kopanec *1k4* nebo 1x Kousnutí *1k3*
 
 **Speciální schopnosti:**
 
 - *Lhostejný:* Nechá se zavést téměř kamkoli, dokonce i do podzemí. 
-- *Defenzivní:* Může zaútočit pokud ohrožen, nemůže však být vycvičen k útoku.
+- *Defenzivní:* Může zaútočit pokud ohrožen, nemůže však být vycvičena k boji.
 - *Nosnost:* Lze vybavit 4-mi malými nebo 2-mi velkými sedlovými brašnami.
 
 **Cena:** 30 st
 
 <img src="/assets/sep_line.png"/>
 
-### Jezdecký kůň
+### Kůň
 
 Lehce stavěný kůň určený pro rychlou jízdu.
 
-**Lvl:** 2, **HP:** 9, **OČ:** 12, **ToHIT:** +1,  **Hybnost:** 24, **Z.Hod:** 14, **Morálka:** 7
+**Lvl:** 2; **HP:** 8; **OČ:** 12; **ToHIT:** +1;  **Hybnost:** 24; **Z.Hod:** *Z:*14 / *T:*15 / *M:* 16; **Morálka:** 7
 
 **Útoky:** 2x Kopanec *1k4*
 
 **Speciální schopnosti:**
 
-- *Bojácný:* Pokud je napaden, tak uteče. 
-- *Nenáročný:* Může přežít čistě na zeleni, tam kde je dostupná. 
+- *Bojácný:* Pokud je napaden musí ověřit morálku. Při neúspěchu uteče.
 - *Nosnost:* Lze vybavit 2-mi malými nebo 1 velkou sedlovou brašnou.
 
 **Cena:** 75 st
-
-<img src="/assets/sep_line.png"/>
-
-### Tažný kůň
-
-Vyšlechtěný kůň k tažení velké zátěže.
-
-**Lvl:** 3, **HP:** 13, **OČ:** 12, **ToHIT:** +2,  **Hybnost:** 9, **Z.Hod:** 14, **Morálka:** 6
-
-**Útoky:** 1x Kopanec *1k4* nebo 1x Kousnutí *1k3*
-
-**Speciální schopnosti:**
-
-- *Bojácný:* Pokud je napaden, tak uteče. 
-- *Nosnost:* Lze vybavit 4-mi malými nebo 2-mi velkými sedlovými brašnami.
-
-**Cena:** 40 st
-
-<img src="/assets/sep_line.png"/>
-
-### Válečný kůň
-
-Vyšlechtěný kůň k síle a odvaze v boji. Vhodný pro krátké rychlé nájezdy a ne pro cestování na velké vzdálenosti.
-
-**Lvl:** 3, **HP:** 13, **OČ:** 12, **ToHIT:** +2,  **Hybnost:** 12, **Z.Hod:** 14, **Morálka:** 9
-
-**Útoky:** 2x Kopanec *1k6*
-
-**Speciální schopnosti:**
-
-- *Boj zblízka:* Při boji zblízka mohou jak jezdec tak kůň útočit naráz.
-- *Nosnost:* Lze vybavit 2-mi malými nebo 1 velkou sedlovou brašnou.
-
-**Cena:** 250 st
 
 <img src="/assets/sep_line.png"/>
 
@@ -475,7 +422,7 @@ Vyšlechtěný kůň k síle a odvaze v boji. Vhodný pro krátké rychlé náje
 
 Dvoukolá kárka s velkou kapacitou.
 
-**SP:** 2, **OČ:** 10, **Max hybnost:** 4, **Minimum zvířat:** 2 muly nebo 1 tažný kůň.
+**SP:** 2; **OČ:** 10; **Max hybnost:** 4, **Minimum zvířat:** 2 muly nebo 1 kůň.
 
 **Speciální schopnosti:**
 
@@ -490,7 +437,7 @@ Dvoukolá kárka s velkou kapacitou.
 
 Čtyřkolový otevřený vůz
 
-**SP:** 4, **OČ:** 10, **Max hybnost:** 4, **Minimum zvířat:** 4 muly nebo 2 tažné koně.
+**SP:** 4; **OČ:** 10; **Max hybnost:** 4, **Minimum zvířat:** 4 muly nebo 2 koně.
 
 **Speciální schopnosti:**
 
@@ -500,7 +447,7 @@ Dvoukolá kárka s velkou kapacitou.
 **Cena:** 200 st
 
 !!! note "SP: Životy struktur"
-	Struktury nelze poškodit běžnými zbraněmi (meče, luky, sekery atd..). Avšak velká stvoření, kouzla a obléhací zbraně je poškodit mohou. Za každých *5 poškození*, které útokem způsobí obléhací zbraň, kouzlo nebo velká nestvůra. *Obdrží struktura 1 bod poškození*.
+	Struktury nelze poškodit běžnými zbraněmi (meče, luky, sekery atd..). Avšak velká stvoření, kouzla a obléhací zbraně je poškodit mohou. Za každých *5 poškození*, které útokem způsobí obléhací zbraň, kouzlo nebo velká nestvůra. *Obdrží struktura 1 bod poškození*. Pokud by měla struktura podstoupit záchranný hod, automaticky selže.
 
 <img src="/assets/sep_line.png"/>
 

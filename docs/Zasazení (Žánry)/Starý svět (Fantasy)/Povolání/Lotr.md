@@ -41,14 +41,13 @@
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro lotra jsou to aktivity typické pro běžný "rogue-archtype". Jako je odemykání zámků, vybírání kapes a podobně. Lotr se však v rámci své "class-fantasy" může pokusit i o věci, které hraničí s nadpřirozenem. Jako je zmizení ve stínech nebo šplhání po hladkých stěnách bez očividných úchytů. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako lotr umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by lotr měl vynikat. Můžeš si k hodu aplikovat bonus *+1*.
 
 - **Vylepšení:** Tento bonus se zvedá o 1 na *4.*, *7.* a *10.* úrovni.
-- **Zlodějské nástroje:** Aktivity jako odemykání zámků, či jiné manipulace mechanizmů vyžadují zlodějské nástroje. 
 
 ### Boj se dvěma zbraněmi
 
 Lotr dokáže efektivně používat 2 jednoruční zbraně naráz pokud je aspoň jedna z nich nůž. Lze kombinovat nůž s libovolnou jednoruční zbraní.
 
-- **Útok:** Pokud chce lotr útočit oběma zbraněmi a má rozličné modifikátory na zásah jednou z jeho zbraní. Hází na zásah s tím vyšším modifikátorem.
-- **Poškození:** Poškození se hodí na obou zbraní a aplikuje se vyšší výsledek (včetně modifikátorů).
+- **Útok:** Při běžném útoku útočí lotr svou primární (větší) zbraní.
+- **Extra útok:** Lotr může provést extra útok svým nožem jako *strategickou akci*. Takový útok probíhá s postihem *-2* k zásahu.
 
 ### Přepadení
 
@@ -125,7 +124,7 @@ Lotr útočící nožem, může použít svou obratnost (na místo síly) jako m
 
 **Požadavek:** Mistr nožů a aspoň 5. úroveň
 
-Lotr může jako *strategickou akci* hodit nůž co má u sebe. Hod na zásah tímto nožem má postih *-2* k zásahu.
+Lotr může jako *akci* hodit dva nože co má u sebe. Hod na zásah těmito noži má postih *-2* k zásahu.
 
 <img src="/assets/sep_line.png"/>
 

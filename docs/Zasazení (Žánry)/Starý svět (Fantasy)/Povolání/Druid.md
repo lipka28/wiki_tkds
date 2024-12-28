@@ -1,4 +1,4 @@
-# Druid ==zkusit vymyslet==
+# Druid
 
 <img src="/assets/sep_line.png"/>
 
@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     |    Magie     | Zásah | Z.Hod |                   Odemyká                    |
-| :----: | :--------: | :----------: | :---: | :---: | :------------------------------------------: |
-|   1    |  6+Výdrž   |  8+Rozvaha   |  +0   |  16   |                   Um, asd                    |
-|   2    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  15   |              Talent, +1 Kouzlo               |
-|   3    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  14   |        +1 Dovednostní bod, +1 Kouzlo         |
-|   4    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  13   |                asd, +1 Kouzlo                |
-|   5    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  12   |              Talent, +1 Kouzlo               |
-|   6    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  11   |        +1 Dovednostní bod, +1 Kouzlo         |
-|   7    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  10   |                asd, +1 Kouzlo                |
-|   8    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   9   |              Talent, +1 Kouzlo               |
-|   9    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   8   |        +1 Dovednostní bod, +1 Kouzlo         |
-|   10   | +1k6+Výdrž | +1k8+Rozvaha |  +5   |   7   |                asd, +1 Kouzlo                |
-|  11+   |     +1     |      +2      |  +5   |   7   | Talent (a každou další 3. úroveň), +1 Kouzlo |
+| ÚROVEŇ |     HP     |    Magie     | Zásah | Z.Hod |                           Odemyká                            |
+| :----: | :--------: | :----------: | :---: | :---: | :----------------------------------------------------------: |
+|   1    |  6+Výdrž   |  8+Rozvaha   |  +0   |  16   | Um, Cyklus života, Živelná magie, Za jedno s přírodou, Přítel divočiny |
+|   2    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  15   |                      Talent, +1 Kouzlo                       |
+|   3    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  14   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   4    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  13   |                 Přeměna ve zvíře, +1 Kouzlo                  |
+|   5    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  12   |                      Talent, +1 Kouzlo                       |
+|   6    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  11   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   7    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  10   |                  Živelná afinita, +1 Kouzlo                  |
+|   8    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   9   |                      Talent, +1 Kouzlo                       |
+|   9    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   8   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   10   | +1k6+Výdrž | +1k8+Rozvaha |  +5   |   7   |                Kombinovaná přeměna, +1 Kouzlo                |
+|  11+   |     +1     |      +2      |  +5   |   7   |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
 
 ## Schopnosti povolání
 
@@ -69,9 +69,9 @@ Druid se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se dru
 
 Druidova *osobnost* je považována za *+2* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
 
-### Přeměna ve zvíře (úroveň 4) ==todo: reword==
+### Přeměna ve zvíře (úroveň 4)
 
-Na 4. úrovni získává druid schopnost se *3x denně* proměnit do podoby libovolného zvířete, které kdy potkal. Zvíře musí být plaz, pták, ryba nebo savec a nesmí mít větší úroveň než je *druidova úroveň/2* (zaokrouhleno nahoru).
+Na 4. úrovni získává druid schopnost se *2x denně* proměnit do podoby libovolného zvířete, které kdy potkal. Zvíře musí být plaz, pták, ryba nebo savec a nesmí mít větší úroveň než je *druidova úroveň/2* (zaokrouhleno nahoru).
 
 - **Seslání:** Proměna stojí *akci*.
 - **Maximální trvání proměny:** 1 směna.
@@ -80,32 +80,27 @@ Na 4. úrovni získává druid schopnost se *3x denně* proměnit do podoby libo
 
 ### Živelná afinita (úroveň 7)
 
-asd - Energy resistance
+Od 7. úrovně si druid může vybrat jeden z živlů (*Země*, *Oheň*, *Voda*, *Vzduch*) a získá následující bonusy k sesílání kouzel využívající tento živel nebo působící adekvátní energetické poškození (popořadě: *žíravinové*, *ohnivé*, *mrazivé*, *elektrické*).
 
-- Země - žíravina a jedy
-- Oheň - oheň
-- voda - Voda a mráz
-- Vítr - Elektřina
+- **Bonusy:** Sesílání takových kouzel stojí o *2* many méně a o *4* many méně pro posílená kouzla (min 1). Pokud takové kouzlo vyžaduje záchranný hod, cíl obdrží postih *-2* k záchranně proti efektu kouzla.
+- **Připodobnění kouzel:** Většina kouzel nevyužívá specifické elementy. Hráč může však popisem sesílání kouzla a jeho efektu, připodobnit kouzlo k vybranému elementu. Pokud PJ uzná, že připodobnění dává smysl, mohou být bonusy této schopnosti aplikovány.
 
-Žíravina, Oheň, Mráz, Elektřina, Síla (čistá ničivá energie), Mentální.
+### Kombinovaná přeměna (úroveň 10)
 
-A jeho varianty sečné, průrazné, tupé a jedové poškození.
-
-### Živelná forma (úroveň 10)
-
-asd - Živelná forma (odvozená od energy resistance)
+Druid může od 10. úrovně použít přeměnu ve zvíře jen na vybranou část svého těla. To mu umožňuje (dle přeměny) získat schopnosti proměny bez nutnosti ztratit schopnost mluvit, sesílat kouzla či používat předměty. Každá část těla přeměněná na rozlišené zvíře se počítá jako jedna přeměna. Například přeměna ruk na medvědí tlapy a uší na netopýří se počítá jako 2 přeměny.
 
 <img src="/assets/sep_line.png"/>
 
-## Talenty ==todo seřadit dle abecedy==
+## Talenty ==todo seřadit dle abecedy a dodělat==
 
 Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro mága níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
 
-- more shapes level
-- Dragon shape
+- more shapes a level
+- humanoid shape
 - Familiar
 - Animal companion
-- Partial shape
+- improv rituál
+- improv magie
 
 <img src="/assets/sep_line.png"/>
 
@@ -115,9 +110,8 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 **Efekt:** Mág si najde malého magického společníka velkého asi 30 centimetrů. Tento společník může mít libovolnou (neměnnou) formu, umí létat, telepaticky komunikovat s mágem a pokud je do *3* metrů od mága tak i přecházet mezi hmotnou a nehmotnou (neviditelnou) formou bytí. Nemůže však působit poškození nebo zručně manipulovat s předměty.
 
-- **Statistiky:** *HP:* 1; *OČ:* 10; *ZH:* 14; *Hybnost:* 12 m
+- **Statistiky:** *HP:* 1; *OČ:* 10; *ZH:* *Z:*16 / *T:*15 / *M:*14; *Hybnost:* 12 m
 - **Smrt:** Pokud magický společník zemře automaticky se vrátí k životu po *1 týdnu*.
 - **Záchrana života:** Mág může jako *akci* povolat svého společníka a tím se zachránit před přímým poškozením (neplatí na hromadné útoky). Magický společník obdrží poškození na místo mága a zemře.
 
 <img src="/assets/sep_line.png"/>
-

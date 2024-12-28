@@ -6,27 +6,29 @@
 
 <img src="/assets/sep_line.png"/>
 
-*Akolyty jsou oddaní služebníci svého mocného patrona, kterému na základě vzájemného paktu slouží. Patronem může být jakékoliv mocné stvoření přes vílu až po démona. Život akolyty je věčné zápolení s neviditelnými pouty patrona a balancování a hranici vlastní svobody a loajality k patronovi. Svoboda je sice důležitá ale často trestána. Zato loajalita je odměněna mocnými dary. Povolání akolyty je vhodné pro kohokoliv kdo hledá velkou moc a nebojí se pro ni upsat třeba i ďáblu.*
+*==todo rewrite?==Akolyty jsou oddaní služebníci svého mocného patrona, kterému na základě vzájemného paktu slouží. Patronem může být jakékoliv mocné stvoření přes vílu až po démona. Život akolyty je věčné zápolení s neviditelnými pouty patrona a balancování a hranici vlastní svobody a loajality k patronovi. Svoboda je sice důležitá ale často trestána. Zato loajalita je odměněna mocnými dary. Povolání akolyty je vhodné pro kohokoliv kdo hledá velkou moc a nebojí se pro ni upsat třeba i ďáblu.*
 
 <img src="/assets/sep_line.png"/>
 
 ## Tabulka postupu
 
-| ÚROVEŇ |       HP        | Přízeň | Bonus k zásahu | Z.Hod |
-| :----: | :-------------: | :----: | :------------: | :---: |
-|   1    | 2+1k6+MOD Výdrž |   2    |       +0       |  15   |
-|   2    | +1k4+MOD Výdrž  |   3    |       +1       |  14   |
-|   3    | +1k4+MOD Výdrž  |   4    |       +1       |  13   |
-|   4    | +1k4+MOD Výdrž  |   5    |       +2       |  12   |
-|   5    | +1k4+MOD Výdrž  |   7    |       +2       |  11   |
-|   6    | +1k4+MOD Výdrž  |   9    |       +3       |  10   |
-|   7    | +1k4+MOD Výdrž  |   11   |       +3       |   9   |
-|   8    | +1k4+MOD Výdrž  |   13   |       +4       |   8   |
-|   9    | +1k4+MOD Výdrž  |   15   |       +4       |   7   |
+| ÚROVEŇ |     HP     |    Magie     | Zásah | Z.Hod |                           Odemyká                            |
+| :----: | :--------: | :----------: | :---: | :---: | :----------------------------------------------------------: |
+|   1    |  6+Výdrž   |  8+Rozvaha   |  +0   |  16   | Um, Cyklus života, Živelná magie, Za jedno s přírodou, Přítel divočiny |
+|   2    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  15   |                      Talent, +1 Kouzlo                       |
+|   3    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  14   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   4    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  13   |                 Přeměna ve zvíře, +1 Kouzlo                  |
+|   5    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  12   |                      Talent, +1 Kouzlo                       |
+|   6    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  11   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   7    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  10   |                  Živelná afinita, +1 Kouzlo                  |
+|   8    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   9   |                      Talent, +1 Kouzlo                       |
+|   9    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   8   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   10   | +1k6+Výdrž | +1k8+Rozvaha |  +5   |   7   |                Kombinovaná přeměna, +1 Kouzlo                |
+|  11+   |     +1     |      +2      |  +5   |   7   |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
 
 ## Tabulka reakcí patrona
 
-| 2k6*\**     | Reakce na zázračný rituál | REAKCE NA Spojení |
+| 2k6         | Reakce na zázračný rituál | REAKCE NA Spojení |
 | :---------- | :-----------------------: | :---------------: |
 | 2 nebo méně |            Ne             |       Ticho       |
 | 3 - 5       |    Ne ... ale (výsada)    |       Ticho       |
@@ -34,15 +36,15 @@
 | 9 - 11      |            Ano            |       Vize        |
 | 12 +        |     Ano ...a (výsada)     |   Přímá odpověď   |
 
-*\* Hod může být modifikován externími vlivy avšak nikdy osobností akolyty*
-
 ## Schopnosti povolání
 
-**Trénované zbraně:** [Základní zbraně](/Gear/#zakladni-zbrane) a všechny malé zbraně
+**Získané Dovednosti:** *Rozvaha* a *1 libovolný dovednostní bod*
+
+**Trénované zbraně:** Základní zbraně
 
 **Trénovaná brnění:** Žádné
 
-**Bonus k záchraně:** +1 proti všemu (již započítáno v Z.HOD v tabulce postupu)
+**Bonusy k záchranným hodům:** +1 proti magii a +2 proti zhoubě
 
 **Extra výbava:** Symbol patrona (L slotu)
 

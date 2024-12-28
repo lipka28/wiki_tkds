@@ -70,9 +70,10 @@ Hraničář se může pokusit utvořit pouto s nalezeným zvířetem. Pokud je p
 - **Limit:** Lovec může mít silné pouto *pouze s jedním zvířecím společníkem*, jehož úroveň nesmí převýšit úroveň lovce.
 - **Chování:**  Zvířecí společník bude následovat jednoduché pokyny bez toho, aby pro ně musel být předtím trénován. (I takové pokyny, které třeba nejsou pro daný zvířecí druh běžné.)
 - **Chování v boji:** Věrný zvířecí společník bude oddaně bojovat po boku lovce a nikdy nemusí ověřovat morálku. V boji zvířecí společník drží po boku lovce a chrání jej, pokud mu není dán jiný příkaz.
-- **Příkaz:** Hraničář může použít svou *strategickou akci*, aby dal svému zvířeti příkaz. Zvíře pak vykonává příkaz tak dlouho dokud jej nedokončí nebo dokud nedostane jiný příkaz.
+- **Příkaz:** Hraničář může použít svou *strategickou akci*, aby dal svému zvířeti příkaz. Zvíře pak vykonává příkaz tak dlouho dokud jej nedokončí nebo dokud nedostane jiný příkaz. Zvíře má na vykonání příkazů, každé kolo k dispozici *akci* a *strategickou akci*.
 - **Zvíře do začátku:** Pokud si lovec přeje, může začínat hru se [zvířetem vlastního výběru](/Gear/#lovecky-pes) zdarma, který bude fungovat jako jeho věrný společník.  ==todo výběr zvířat do začátku==
 - **Získávání zkušeností:** Věrný zvířecí společník, po ochočení, začíná s tolika zkušenostmi kolik je nutné minimum pro jeho aktuální úroveň a *získává zkušenosti* jako další člen skupiny. S každou dosaženou úrovní obdrží *+4 životy*. S každou druhou dosaženou úrovní bonus *+1* k zásahu, poškození a záchranným hodům, a s každou třetí dosaženou úrovní bonus *+1* k OČ. Dosažené úrovně se počítají od úrovně na které se zvíře stalo věrným společníkem. Zvířecí společník nemůže tímto způsobem nikdy přesáhnout 10. úroveň avšak hraničář si může ochočit zvířecího společníka vyšší než 10. úrovně pokud na to sám má úroveň.
+- **Ježdění:** Zvířecí společníci 5. a vyšší úrovně, jsou dostatečně velcí aby na nich mohli jezdit stvoření velikostí podobná člověku.
 - **Smrt:** Pro věrného zvířecího společníka platí stejná pravidla smrti jako pro hráče. Pokud i tak přesto zemře. Hraničář může strávit *týden* hledáním a tréninkem, a získat tak obdobného zvířecího společníka stejné úrovně jako ten předchozí. Neplatí pro neobvyklá a vzácná zvířata. Také veškeré speciální magické efekty a nabyté zkušenosti předchozího společníka jsou ztraceny.
 
 ### Přírodní medicína (Úroveň 4)
@@ -95,15 +96,50 @@ Hraničář může od 10. úrovně za cenu *celého tahu* provést útok na dál
 
 <img src="/assets/sep_line.png"/>
 
-## Zvířata do začátku ==todo==
+## Zvířata do začátku
 
-asd
+### Psovitá šelma
 
-- psovitá
-- kočkovitá
-- medvěd
-- Pták
-- Raptor ?
+**Lvl:** 1; **HP:** 8; **OČ:** 13; **ToHIT:** +1;  **Hybnost:** 15; **Z.Hody:** *Z:*15 / *T:*14 / *M:*16; **Útok:** Kousnutí *1k6*
+
+**Speciální:**
+
+- *Stopování:* Poskytuje bonus *+4* ke stopování.
+- *Shození na zem:* Při kritickém zásahu svým útokem, shodí protivníka na zem.
+
+### Kočkovitá šelma
+
+**Lvl:** 1; **HP:** 6; **OČ:** 14; **ToHIT:** +1;  **Hybnost:** 21; **Z.Hody:** *Z:*16  / *T:*15 / *M:*14; **Útok:** Kousnutí *1k6* nebo *2x* škrábanec *1k3*
+
+**Speciální:**
+
+- *Plížení:* Pokud jeho skupina je první na řadě po tasení zbraní a okolní prostředí to umožňuje. Začíná boj, skryta před zraky nepřátel.
+- *Zaskočit:* První útok na na nic netušící cíl (jako následek *plížení*). Má bonus *+4* k zásahu a poškození.
+
+### Medvěd
+
+**Lvl:** 1; **HP:** 10; **OČ:** 12; **ToHIT:** +1;  **Hybnost:** 12; **Z.Hody:** *Z:*14 / *T:*15 / *M:*16; **Útok:** Kousnutí *1k6* nebo *2x* škrábanec *1k3*
+
+**Speciální:**
+
+- *Medvědí obětí:* Pokud v jednom tahu, uspěje oběma svými škrábavými útoky. Může jako *strategickou akci* automaticky způsobit extra *2k8* poškození. toto poškození se nezvedá s úrovní medvěda.
+
+### Pták
+
+**Lvl:** 1; **HP:** 4; **OČ:** 14; **ToHIT:** +1;  **Hybnost:** 24; **Z.Hody:** *Z:*14  / *T:*14 / *M:*14; **Útok:** Klování a drápy *1k4*
+
+**Speciální:**
+
+- *Nálet:* Po provedení útoku, se může pohnout až za polovinu své hybnosti jako *volnou akci*.
+
+### Kůň
+
+**Lvl:** 1; **HP:** 8; **OČ:** 12; **ToHIT:** +1;  **Hybnost:** 24; **Z.Hody:** *Z:*14 / *T:*15 / *M:*16; **Útok:** *2x* kopanec *1k4*
+
+**Speciální:**
+
+- *Jezdecký:* Lze na něm jezdit již od 1. úrovně
+- *Nosnost:* Lze vybavit 2-mi malými nebo 1 velkou sedlovou brašnou.
 
 <img src="/assets/sep_line.png"/>
 
@@ -117,10 +153,10 @@ Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybra
 
 **Požadavek:** Obratnost nebo Síla >= 2
 
-**Efekt:** Hraničář dokáže efektivně používat 2 jednoruční zbraně naráz. Lze kombinovat 2 libovolné jednoruční zbraně nebo 1 jeden-a-půl-ruční a 1 jednoruční zbraň.
+**Efekt:** Hraničář je mistrem všech zbraní a dokáže efektivně používat 2 jednoruční zbraně naráz. Lze kombinovat 2 libovolné jednoruční zbraně nebo 1 jeden-a-půl-ruční a 1 jednoruční zbraň.
 
-- **Útok:** Pokud chce hraničář útočit oběma zbraněmi a má rozličné modifikátory na zásah jednou z jeho zbraní. Útočí s tím vyšším modifikátorem.
-- **Poškození:** Poškození se hodí na obou zbraní a aplikuje se vyšší výsledek (včetně modifikátorů).
+- **Útok:** Při běžném útoku útočí hraničář svou primární (větší) zbraní.
+- **Extra útok:** Hraničář může provést extra útok svou druhou (menší) zbraní jako *strategickou akci*. Takový útok probíhá s postihem *-2* k zásahu.
 
 <img src="/assets/sep_line.png"/>
 

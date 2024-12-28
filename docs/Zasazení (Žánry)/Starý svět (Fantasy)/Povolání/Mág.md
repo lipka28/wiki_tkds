@@ -70,7 +70,7 @@ Mág může strávit *1 den* vytvářením krystalizované magie. Krystalizovan�
 
 ### Improvizovaná magie (úroveň 4)
 
-Mág se může od 4. úrovně strávit celé kolo tvorbou improvizovaného magického efektu, který nevychází z žádného jeho naučeného kouzla avšak patří do jeho magické disciplíny. Takto sesílaná kouzla jsou daleko dražší než sesílání naučených kouzel. Postup sesílání je následující:
+Mág se může od 4. úrovně strávit *celé kolo* tvorbou improvizovaného magického efektu, který nevychází z žádného jeho naučeného kouzla avšak patří do jeho magické disciplíny. Takto sesílaná kouzla jsou daleko dražší než sesílání naučených kouzel. Postup sesílání je následující:
 
 - **Hráč:** Popíše jaký magický efekt chce seslat.
 - **PJ:** Stanoví cenu kouzla. Cena nemusí být konzistentní napříč opakovanými pokusy a to ani při opakování toho samého efektu. 
@@ -105,7 +105,7 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 **Efekt:** Mág si najde malého magického společníka velkého asi 30 centimetrů. Tento společník může mít libovolnou (neměnnou) formu, umí létat, telepaticky komunikovat s mágem a pokud je do *3* metrů od mága tak i přecházet mezi hmotnou a nehmotnou (neviditelnou) formou bytí. Nemůže však působit poškození nebo zručně manipulovat s předměty.
 
-- **Statistiky:** *HP:* 1; *OČ:* 10; *ZH:* 14; *Hybnost:* 12 m
+- **Statistiky:** *HP:* 1; *OČ:* 10; *ZH:* *T:*15 / *Z:*16 / *M:*14; *Hybnost:* 12 m
 - **Smrt:** Pokud magický společník zemře automaticky se vrátí k životu po *1 týdnu*.
 - **Záchrana života:** Pokud má mág obdržet poškození s přímého útoku může jako *reakci* povolat svého společníka a tím se zachránit před poškozením (neplatí na hromadné útoky). Magický společník obdrží poškození na místo mága a zemře.
 
