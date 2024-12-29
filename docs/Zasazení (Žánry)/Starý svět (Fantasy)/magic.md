@@ -48,8 +48,9 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 - **Posílení kouzla:** Většina kouzel lze seslat v posílené verzi. Posílení kouzla vyžaduje použití *více magie* a často i kombinace *více akcí* k jeho seslání. Jaký efekt posílení kouzla má je popsáno v popisku kouzla.
 - **Odvolání** - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal (pokud nebylo odraženo nebo se jeho sesílání nějak nepokazilo).
 - **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje ale pouze jedno kouzlo vyžadující koncentraci může být aktivní v jednu chvíli. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí.
-- **Přerušení kouzla** - Pokud čaroděj obdrží poškození během sesílání kouzla nebo koncentrace, musí uspět v *záchranném hodu proti zhoubě* jinak je kouzlo či koncentrace ztracena. Pokud k přerušení dojde vy chvíli, kdy kouzelník udržuje koncentraci a zároveň sesílá kouzlo. Musí podstoupit záchranný hod za každou s aktivit.
-- **Záchranný hod** - Cíl naprosté většiny kouzel může podstoupit *záchranný hod proti magii* a tím se vyvarovat jeho efektu (a obdržet bod *bojové únavy* ==todo: odkaz==). U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě. Hod *přirozených 20* znamená, že můžeš efekt kouzla kompletně ignorovat (pokud by čistě modifikovaný hod znamenal úspěch, v opačném případě se pouze stupeň úspěchu zvedá o krok výš). Hod *přirozených 1* znamená, že ti kouzlo uděluje plné poškození nebo má plné trvání (či jiný efekt dle rozhodnutí PJ) (pokud by čistě modifikovaný hod znamenal neúspěch, v opačném případě se pouze stupeň úspěchu klesá o krok níž).
+- **Přerušení kouzla** - Pokud čaroděj obdrží poškození během sesílání kouzla nebo koncentrace, musí uspět v *záchranném hodu na zdatnost* jinak je kouzlo či koncentrace ztracena. Pokud k přerušení dojde vy chvíli, kdy kouzelník udržuje koncentraci a zároveň sesílá kouzlo. Musí podstoupit záchranný hod za každou s aktivit.
+- **Záchranný hod** - Cíl naprosté většiny kouzel může podstoupit relevantní *záchranný hod* a tím se vyvarovat jeho efektu (a obdržet bod *bojové únavy* ==todo: odkaz==). U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě. Hod *přirozených 20* znamená, že můžeš efekt kouzla kompletně ignorovat (pokud by čistě modifikovaný hod znamenal úspěch, v opačném případě se pouze z neúspěchu stává úspěch). Hod *přirozených 1* znamená, že ti kouzlo uděluje plné poškození nebo má plné trvání (či jiný efekt dle rozhodnutí PJ) (pokud by čistě modifikovaný hod znamenal neúspěch, v opačném případě se pouze z úspěchu stane neúspěch).
+- **Hod na zásah dotykem:** Je speciální varianta hodu na zásah, která se může používat k sesílání některých kouzel. Funguje jako obyčejný neozbrojený hod na zásah modifikovaný *Obratností* na místo Síly. Cílem je pak trefit základní OČ soupeře (*10+Obratnost*). Bonusy za zbroje, štíty a podobnou výbavu se nepřičítají. PJ může dle vlastního uvážení však přičítat bonusy za ochranná kozla nebo schopnosti pomáhající v uhýbání.
 - **Maximální poškození** - Kouzlo může udělit na nejvýš *20* kostek poškození najednou.
 - **Kombinace efektů** - Více souběžných kouzel, nemůže být použito k ovlivnění toho samého atributu (Síla, Obratnost, OČ, Životy a podobně...) avšak protichůdná kouzla se mohou vzájemně vyrušit.
 
@@ -105,7 +106,7 @@ Více jak dvoumetrová magická hůl schopna uchovávat několik magických efek
 
 ### Zbraně a zbroje
 
-Další běžnou podobou magických předmětů jsou zbraně, štíty a zbroje. Ty lze většinou poznat pomocí modifikátoru vedle názvu. Například *"Meč ničitel +2"*. Tento modifikátor se připočítává jak k hodům na zásah tak poškození provedenému touto zbraní. U štítů a brnění se pak tento bonus přičítá k OČ. *Magické zbraně a zbroje mohou být použity kýmkoliv kdo je trénovaný v používání výbavy stejného typu*.
+Další běžnou podobou magických předmětů jsou zbraně, štíty a zbroje. Ty lze většinou poznat pomocí modifikátoru vedle názvu. Například *"Meč ničitel +2"*. Tento předmětový modifikátor se připočítává jak k hodům na zásah tak poškození provedenému touto zbraní. U štítů a brnění se pak tento modifikátor přičítá k jejich OČ bonusu. *Magické zbraně a zbroje mohou být použity kýmkoliv kdo je trénovaný v používání výbavy stejného typu*.
 
 - **Další efekty:** Magické zbraně a zbroje mívají často i další aktivovatelné nebo pasivní.
 - **Rozsah modifikátorů:**  *+1* (Nejběžnější magický předmět) až *+3* (Legendární zbraň nebo zbroj)
@@ -335,7 +336,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Dosah:** *20* metrů; **Cíl:** *1* stvoření
 
-**Efekt:** Zrak cíle je zastíněn stínovou magií. Pokud cíl neuspěje v záchranném hodu je oslepen na *1k4 kol*. 
+**Efekt:** Zrak cíle je zastíněn stínovou magií. Pokud cíl neuspěje v *záchranném hodu na zdatnost* je oslepen na *1k4 kol*. 
 
 **Posílení:**
 
@@ -350,7 +351,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Dosah:** *10* metrů; **Cíl:** *1* stvoření
 
-**Efekt:** Cíl zasažený tímto kouzlem musí, při každém pokusu o přemístění či přechod mezi dimenzemi, uspět v záchranném hodu, nebo jeho pokus o přesun selže. To platí po celou dobu trvání kouzla.
+**Efekt:** Cíl zasažený tímto kouzlem musí, při každém pokusu o přemístění či přechod mezi dimenzemi, uspět v *záchranném hodu na vůli*, nebo jeho pokus o přesun selže. To platí po celou dobu trvání kouzla.
 
 **Posílení:**
 
@@ -412,7 +413,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Dosah:** *20* metrů; **Cíl:** *1* stvoření
 
-**Efekt:** Ze země vyrazí kořeny stromů, keřů a rostlin, které se pokusí zabránit cíli, nacházejícímu se v přírodním prostředí, v pohybu. Cíl musí uspět v *záchranném hodu* jinak se nemůže *pohybovat* dokud není použito *1k4 akcí* k jeho osvobození. Cíl může stále provádět ostatní aktivity mimo pohybu.
+**Efekt:** Ze země vyrazí kořeny stromů, keřů a rostlin, které se pokusí zabránit cíli, nacházejícímu se v přírodním prostředí, v pohybu. Cíl musí uspět v *záchranném hodu na reflexy* jinak se nemůže *pohybovat* dokud není použito *1k4 akcí* k jeho osvobození. Cíl může stále provádět ostatní aktivity mimo pohyb.
 
 **Posílení:**
 
@@ -426,7 +427,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Dosah:** *10* metrů; **Cíl:** *1* živý cíl
 
-**Efekt:** Paprsek smrtelné energie zasáhne cíl a způsobí tolik negativního poškození, kolik bylo použito magie pro vyvolání tohoto kouzla *x2*. Zasažený cíl může úspěšným záchranným hodem zredukovat obdržené poškození na polovinu. Pokud je cíl tímto kouzlem zabit, okamžitě umírá.
+**Efekt:** Paprsek smrtelné energie zasáhne cíl a způsobí tolik negativního poškození, kolik bylo použito magie pro vyvolání tohoto kouzla *x2*. Zasažený cíl může úspěšným *záchranným hodem na zdatnost* zredukovat obdržené poškození na polovinu. Pokud je cíl tímto kouzlem zredukován na 0 životů, okamžitě umírá.
 
 **Posílení:**
 
@@ -440,7 +441,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Dosah:** *Dotyk*; **Cíl:** *1* ochotné stvoření
 
-**Efekt:** Na *1 směnu* se kůže očarované stvoření promění na kůru. To má za efekt, že útoky působící sečné, průrazné nebo tupé poškození působí o 1 menší zranění za každou kostku uděleného poškození. Ohnivá poškození mají však opačný efekt.
+**Efekt:** Na *1 směnu* se kůže očarované stvoření promění na kůru. To má za efekt, že útoky působící sečné, průrazné nebo tupé poškození působí o 1 menší zranění za každou kostku uděleného poškození. Ohnivá poškození mají však opačný efekt. Tyto redukce a navýšení poškození jsou považovány za stavový modifikátor.
 
 - **Příklad:** 2k6 tupého poškození by způsobilo 2k6-2 zranění (minimálně 1).
 
@@ -457,7 +458,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Dosah:** *Dotyk*; **Cíl:** *1* stvoření
 
-**Efekt:** Dotykem pozitivní energií vyléčí *1k8+1* životů žijícímu stvoření. Pokud je cílem stvoření, kterému pozitivní energie ubližuje, může se pokusit uspět v záchranném hodu a tím zredukovat poškození na polovinu. V boji může pokus o dotyk vyžadovat hod na zásah útokem na blízku.
+**Efekt:** Dotykem pozitivní energií vyléčí *1k8+1* životů žijícímu stvoření. Pokud je cílem stvoření, kterému pozitivní energie ubližuje, může se pokusit uspět v záchranném hodu a tím zredukovat poškození na polovinu. V boji může pokus o dotyk vyžadovat *hod na zásah dotykem*.
 
 **Posílení:**
 

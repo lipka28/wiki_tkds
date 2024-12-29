@@ -1,4 +1,4 @@
-# Mezi dobrodružstvími ==zkontrolovat hody a pravděpodobnosti==
+# Mezi dobrodružstvími ==zkontrolovat hody a pravděpodobnosti a typy modifikátorů==
 
 <img src="/assets/sep_line.png"/>
 

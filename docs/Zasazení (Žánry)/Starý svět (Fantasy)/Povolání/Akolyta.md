@@ -12,29 +12,29 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     |    Magie     | Zásah | Z.Hod |                           Odemyká                            |
-| :----: | :--------: | :----------: | :---: | :---: | :----------------------------------------------------------: |
-|   1    |  6+Výdrž   |  8+Rozvaha   |  +0   |  16   | Um, Cyklus života, Živelná magie, Za jedno s přírodou, Přítel divočiny |
-|   2    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  15   |                      Talent, +1 Kouzlo                       |
-|   3    | +1k6+Výdrž | +1k8+Rozvaha |  +1   |  14   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   4    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  13   |                 Přeměna ve zvíře, +1 Kouzlo                  |
-|   5    | +1k6+Výdrž | +1k8+Rozvaha |  +2   |  12   |                      Talent, +1 Kouzlo                       |
-|   6    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  11   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   7    | +1k6+Výdrž | +1k8+Rozvaha |  +3   |  10   |                  Živelná afinita, +1 Kouzlo                  |
-|   8    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   9   |                      Talent, +1 Kouzlo                       |
-|   9    | +1k6+Výdrž | +1k8+Rozvaha |  +4   |   8   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   10   | +1k6+Výdrž | +1k8+Rozvaha |  +5   |   7   |                Kombinovaná přeměna, +1 Kouzlo                |
-|  11+   |     +1     |      +2      |  +5   |   7   |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
+| ÚROVEŇ |     HP     |    Přízeň     | Zásah |  Um  | Z.Hod |                   Odemyká                    |
+| :----: | :--------: | :-----------: | :---: | :--: | :---: | :------------------------------------------: |
+|   1    |  6+Výdrž   |  8+Osobnost   |  +0   |  +1  |  16   |                   Um, asd                    |
+|   2    | +1k6+Výdrž | +1k8+Osobnost |  +1   |  +1  |  15   |              Talent, +1 Kouzlo               |
+|   3    | +1k6+Výdrž | +1k8+Osobnost |  +1   |  +1  |  14   |        +1 Dovednostní bod, +1 Kouzlo         |
+|   4    | +1k6+Výdrž | +1k8+Osobnost |  +2   |  +2  |  13   |                asd, +1 Kouzlo                |
+|   5    | +1k6+Výdrž | +1k8+Osobnost |  +2   |  +2  |  12   |              Talent, +1 Kouzlo               |
+|   6    | +1k6+Výdrž | +1k8+Osobnost |  +3   |  +2  |  11   |        +1 Dovednostní bod, +1 Kouzlo         |
+|   7    | +1k6+Výdrž | +1k8+Osobnost |  +3   |  +3  |  10   |                asd, +1 Kouzlo                |
+|   8    | +1k6+Výdrž | +1k8+Osobnost |  +4   |  +3  |   9   |              Talent, +1 Kouzlo               |
+|   9    | +1k6+Výdrž | +1k8+Osobnost |  +4   |  +3  |   8   |        +1 Dovednostní bod, +1 Kouzlo         |
+|   10   | +1k6+Výdrž | +1k8+Osobnost |  +5   |  +4  |   7   |                asd, +1 Kouzlo                |
+|  11+   |     +1     |      +2       |  +5   |  +4  |   7   | Talent (a každou další 3. úroveň), +1 Kouzlo |
 
 ## Tabulka reakcí patrona
 
-| 2k6         | Reakce na zázračný rituál | REAKCE NA Spojení |
+| 2k12        | Reakce na zázračný rituál | REAKCE NA Spojení |
 | :---------- | :-----------------------: | :---------------: |
 | 2 nebo méně |            Ne             |       Ticho       |
-| 3 - 5       |    Ne ... ale (výsada)    |       Ticho       |
-| 6 - 8       |  Ano ...ale (komplikace)  |      Znamení      |
-| 9 - 11      |            Ano            |       Vize        |
-| 12 +        |     Ano ...a (výsada)     |   Přímá odpověď   |
+| 3 - 9       |    Ne ... ale (výsada)    |       Ticho       |
+| 10 - 16     |  Ano ...ale (komplikace)  |      Znamení      |
+| 17 - 23     |            Ano            |       Vize        |
+| 24 +        |     Ano ...a (výsada)     |   Přímá odpověď   |
 
 ## Schopnosti povolání
 
@@ -44,36 +44,27 @@
 
 **Trénovaná brnění:** Žádné
 
-**Bonusy k záchranným hodům:** +1 proti magii a +2 proti zhoubě
+**Bonusy k záchranným hodům:** +1 Vůle a +2 Zdatnost
 
-**Extra výbava:** Symbol patrona (L slotu)
+### Um ==todo: reowrd pro akolytu==
+
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro mága jsou to zaručeně věci jako vycítění a identifikace magie, magický výzkum, manipulace magických energií, luštění magických run či učení se kouzel z různých zdrojů. Mimo magii je však mág i velmi vzdělaný jedinec, který má rozsáhlé znalosti historie, světa a stvoření v nich žijících. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako mág umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by mág měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
 
 ### Patron
 
-Každá akolyta má silné spojení se svým patronem, který ji poskytuje jisté nadpřirozené schopnosti. Patronem může být jakékoliv mocné stvoření. Počínaje povznesenými přes elementály a stvoření z Fey až po draky. Patron však nepropůjčuje svou moc akolytě zadarmo. Očekává, že akolyta bude sloužit v jeho prospěch. Moc patrona umožňuje akolytě aktivovat některé magické hole, sesílat kouzla z magických svitků a praktikovat vlastní magické rituály. 
+asd vytvoř si patrona, cíle a přesvědčení, spell list a familiár, komunikace, regeneraci magie a života (podobně jako druid)
 
-- **Výběr patrona:** Postava začíná hru buď jako akolyta [Juny](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#juna-priklad-patrona) nebo si může ve spolupráci s PJ vytvořit vlastního patrona (dle vzoru Juny).
-- **Přízeň:** Akolyta disponuje přízní svého patrona (viz. [tabulka postupu](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-postupu)), kterou potřebuje k používání některých svých schopností. Pokud akolyta neupadne v nelibost svého patrona, přízeň se jí vždy *každý den doplní*.
-- **Symbol patrona:** Každá akolyta začíná hru se symbolem svého patrona. Ten je potřebný pro komunikaci s patronem a tedy i používání schopností [spojení](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#spojeni), [zázračný rituál](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#zazracny-ritual) a [mocné rituály](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#mocne-ritualy)
-- **Kontrakt:** Každá akolyta je se svým patronem svázána magickým kontraktem. Kontrakt, je seznam pravidel na základě kterých poskytuje patron svou moc akolytě. Kontrakt se liší patron od patrona, jedno však mají společné. Akolyta se nesmí s nikým (mimo svého patrona) bavit o obsahu svého kontraktu.
-- **Poslání:** Patron může také své akolytě udělit *poslání*, za jehož splnění akolyta obdrží [dar](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#dary).
-- **Nelibost patrona:** Upadne-li akolyta v nelibost patrona, může obdržet postihy k používání svých schopností nebo je úplně ztratit. Akolyta pak musí podstoupit řadu strastí, aby získala svou plnou sílu zpět. 
+### Patronská magie
 
-!!! note "Chování patrona"
-    Chování patrona a interakce s ním, jsou čistě v režii PJ.
+asd 
 
 ### Ochranná ruka patrona
 
-Patron drží nad svou akolytou ochranou ruku. To jí dává přirozený bonus *+2 do OČ*. Navíc pokud akolyta *hází na záchranu* a hodí na kostce *20* může kompletně ignorovat efekt vůči kterému se zachraňovala.
+Patron drží nad svou akolytou ochranou ruku. To jí dává stavový bonus *+2* do OČ.
 
-- **Vylepšení:** od 5. úrovně se kompletně zachrání již při hodu *19* na kostce.
+### Požehnání
 
-### Dary
-
-Každá akolyta může obdržet za plnění *poslání* pro svého patrona dary. Minimálně však obdrží dar na *1.*, *4.* a *8.* úrovni. Darem může být cokoliv. Magický předmět, nová schopnost, poklady, jiné stvoření atd.
-
-- **První dar:** Akolyta Juny začíná hru s *holí slabého léčení*. Ta umí dotykem vyléčit *1k3+1* životů a má neomezený počet použití. Opakovaná použití na stejné stvoření v jeden den však nemají žádný efekt.
-- **Dary a poslání:** Akolyta neobdrží dar na předepsané úrovni, pokud má zrovna nedokončené *poslání*. Dar pro danou úroveň obdrží až po jeho dokončení.
+asd přidej svůj Um spojenci na aktivitu v doménách tvého patrona, stojí to 1k4 přízně
 
 ### Spojení
 
@@ -82,7 +73,7 @@ Akolyta může strávit *1 směnu* meditací a pokusit se navázat spojení se s
 - **Pravdivost odpovědi:** Většina patronů odpovídá pravdivě (například Juna) avšak někteří patroni mohou odpovídat čistě dle vlastních zájmů.
 - **Vylepšení:** Hod na *reakci na spojení* je modifikován *+1* na *3.*, *+2* na *6.* a *+3* na *9.* úrovni.
 
-### Zázračný rituál
+### Zázračný rituál (Úroveň 4) ==todo: reword==
 
 Akolyta může strávit *1 směnu* prováděním zázračného rituálu, který vytvoří magický efekt podobný libovolnému kozlu.
 
@@ -92,22 +83,13 @@ Akolyta může strávit *1 směnu* prováděním zázračného rituálu, který 
 - **Komponenty:** Akolyta může do rituálu přidat cenné nebo relevantní komponenty a tím si zvýšit šanci na úspěch.
 - **Vylepšení:** Od *6. úrovně* lze seslat zázračný rituál jako *akci*.
 
-### Nebezpečný dluh (Úroveň 3)
+### asd (Úroveň 7)
 
-Od 3. úrovně může akolyta spotřebovat na dluh více přízně než má k dipozici. Takto spotřebovaná přízeň se odečte z maximální přízně akolyty a doplní se až tehdy, pokud akolyta podstoupí dostatečné pokání nebo splní *poslání* pro svého patrona.
+asd
 
-- **Navýšení přízně:** Dosáhne-li zadlužená akolyta vyšší úrovně její přízeň se nezvýší dokud se nezbaví dluhu.
-- **Prohloubení dluhu:** Zadlužená akolyta může svůj dluh kdykoliv zvětšit. Pokud však dosáhne *0 maximální přízně* upadá v nelibost svého patrona.
+### asd (Úroveň 10)
 
-!!! note "Příklad dluhu"
-    Akolyta *3. úrovně* má *4* přízně. Rozhodne se vyčarovat rituál, který napodobuje kouzlo *5. třídy* a tedy stojí *5* přízně. Po provedení rituálu má akolyta *0* přízně a její maximální přízeň klesla na *3* (4+(4-5)).
-
-### Mocné rituály (Úroveň 9)
-
-Od 9. úrovně může strávit *1 směnu* vyvoláváním mocného rituálu, který může napodobit efekty mocných kouzel (kouzla vyšší jak 5. třídy).
-
-- **Cena:** Vyvolání mocného rituálu stojí vždy *6 maximální přízně*. Je tedy vždy bráno na dluh a to i přesto, že by akolyta měla zbývající přízeň.
-- **Výsledek:** Efekt rituálu rozhodne PJ dle *reakce na zázračný rituál* dle [tabulky reakcí patrona](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-reakci-patrona).
+asd
 
 <img src="/assets/sep_line.png"/>
 

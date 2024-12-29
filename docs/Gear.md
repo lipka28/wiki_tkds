@@ -1,4 +1,4 @@
-# Vybavení a nosnost
+# Vybavení a nosnost ==todo: Celé překopat kvůli variantám modifikátorů a nové action ecconomy==
 
 <img src="/assets/sep_line.png"/>
 
@@ -41,21 +41,27 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 
 - **Oblečení** - Plní funkci běžného oblečení.
 - **Lehká** - Flexibilní, lze v ní i spát.
-- **Střední** - Hlučná, nedá se v ní spát. Způsobuje zatížení. Součástí zbroje je i přilbice, která chrání před traumaty hlavy. Hybnost postavy ve střední zbroji nemůže být vyšší jak *9*.
-- **Těžká a velmi těžká** - Hlučná, nedá se v ní spát. Způsobuje zatížení. Součástí zbroje je i přilbice, která chrání před traumaty hlavy. Hybnost postavy v těžké nebo velmi těžké zbroji nemůže být vyšší jak *6*.
-- **Štít** - Zvyšuje OČ nositele, většinou držen v jedné ruce.
+- **Střední** - Hlučná, nedá se v ní spát. Způsobuje zatížení. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Těžká a velmi těžká** - Hlučná, nedá se v ní spát. Způsobuje zatížení. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Štít** - Stvoření držící štít, může jako *strategickou akci* štít zvednout a tím si připočítat jeho OČ jako *situační bonus ke svému OČ*.
 - **Zvířecí brnění:** Brnění určená pro zvěř, jako jsou koně a psy. PJ může za příplatek povolit použití i na jiná zvířata.
 
-| ZBROJE                     |      TYP       |   OČ   | skladnost |   CENA   |
-| :------------------------- | :------------: | :----: | :-------: | :------: |
-| Obyčejné oblečení          |    Oblečení    | - (10) |     1     | - (1 st) |
-| Noblesní oblečení          |    Oblečení    | - (10) |     1     |  100 st  |
-| Kožená zbroj               |     Lehká      |   12   |     T     |  20 st   |
-| Šupinová zbroj             |    Střední     |   14   |     T     |  40 st   |
-| Půl plát s kyrysem         |     Těžká      |   16   |     T     |  60 st   |
-| Plná plátová zbroj na míru |  Velmi těžká   |   17   |     T     | 1000 st  |
-| Štít                       |      Štít      |   +1   |     T     |  10 st   |
-| Zvířecí brnění             | Zvířecí brnění |   +2   |     1     |  25 st   |
+| ZBROJE                       |      TYP       |   OČ   | Postih obrat. | skladnost |   CENA   |
+| :--------------------------- | :------------: | :----: | :-----------: | :-------: | :------: |
+| Obyčejné oblečení dobrodruha |    Oblečení    | - (10) |       -       |     1     | - (1 st) |
+| Noblesní oblečení            |    Oblečení    | - (10) |       -       |     1     |  100 st  |
+| Kožená zbroj                 |     Lehká      |   +2   |      -1       |     T     |  20 st   |
+| Šupinová zbroj               |    Střední     |   +4   |      -2       |     T     |  40 st   |
+| Půl plát s kyrysem           |     Těžká      |   +6   |      -3       |     T     |  60 st   |
+| Plná plátová zbroj na míru   |  Velmi těžká   |   +7   |      -3       |     T     | 1000 st  |
+| Štít                         |      Štít      |   +2   |       -       |     T     |  15 st   |
+| Zvířecí brnění               | Zvířecí brnění |   +2   |       -       |     1     |  25 st   |
+
+### Postih obratnosti:
+
+Některé zbroje (viz. tabulka zbrojí výše) poskytují *předmětový postih do Obratnosti*. Každý pozitivní bod Síly co nositel má redukuje postih obratnosti o *1*. Například postava se Sílou 2 a Obratností 2, nosící půl plát s kyrysem (postih -3) bude mít celkovou Obratnost 1.
+
+- **Obratnost < 3**: Pokud by hrozilo, že obratnost stvoření klesne pod 3, stvoření se nemůže ve zbroji hýbat.
 
 <img src="/assets/sep_line.png"/>
 
@@ -122,7 +128,7 @@ Zbraně se dělí do několika kategorií, především dle určitých vlastnost
 
 - *SP1:* Bičem nelze zabít. Cíl jehož životy klesnou na *0* po útoku bičem je paralyzován bolestí na *1 směnu*. Bič nepůsobí žádné poškození nepřátelům ve střední nebo těžší zbroji či monstrům s tvrdou kůží (*OČ 14+*)
 - *SP2:* Hody na zásah bičem jsou modifikovány *obratností* na místo síly.
-- *SP3:* Při úspěšném zásahu cíle bičem, se útočník může vzdát poškození a místo toho cíli omotat končetinu. Cíl musí uspět v *záchranném hodu proti trikům* nebo nemůže používat danou končetinu. To mu může znemožnit útočit, používat štít nebo se volně pohybovat. Ve všech případech však obdrží postih *-2 do OČ*. K osvobození je třeba přeseknout bič (*OČ 12*) nebo se vymotat (nový pokus o záchranný hod).
+- *SP3:* Při úspěšném zásahu cíle bičem, se útočník může vzdát poškození a místo toho cíli omotat končetinu. Cíl musí uspět v *záchranném hodu na reflexy* nebo nemůže používat danou končetinu. To mu může znemožnit útočit, používat štít nebo se volně pohybovat. Ve všech případech však obdrží postih *-2 do OČ*. K osvobození je třeba přeseknout bič (*OČ 12*) nebo se vymotat (nový pokus o záchranný hod).
 
 **Bojová hůl:** Pokovovaná nebo celo kovová hůl uzpůsobena pro boj z blízka.
 
@@ -298,7 +304,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 - *Malá:* Kapacita *2 sloty*. (Jako pytel lze nést v jedné ruce)
 - *Velká:* Kapacita 4 slotů. (Jako pytel potřeba nést v obou rukách)
 
-**Síť:** Síť se zátěží určená k zamotání do cíle a znemožnění mu účastnit se boje. Síť lze hodit až na vzdálenost 3 metry. Cíl musí uspět v *záchranném hodu proti trikům* jinak je chycen.
+**Síť:** Síť se zátěží určená k zamotání do cíle a znemožnění mu účastnit se boje. Síť lze hodit až na vzdálenost 3 metry. Cíl musí uspět v *záchranném hodu na reflexy* jinak je chycen.
 
 - *Chycené stvoření:* Chycenému stvoření trvá *1k4+1 kol*, než se osvobodí nebo *1 kolo* pokud mu někdo pomůže.
 

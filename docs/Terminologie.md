@@ -52,7 +52,7 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Více kostková notace:** Pokud je vyžadován hod více kostek naráz, je počet hozených kostek indikován před *k*. Například *3k6* znamená: Hoď 3 šesti-stranné kostky a sečti výsledek.
 
-**Modifikátory:** Někdy může být třeba přičíst k hozeným kostkám nějaký bonus, nebo odečíst postih. Tyto modifikátory se připojují znaménkem *+* nebo *-* za hodnotu kostky. Například *3k6+2* znamená:  Sečti výsledek hodu tří šesti-stranných kostek a přičti 2.
+**Modifikátory:** Někdy může být třeba přičíst k hozeným kostkám nějaký bonus, nebo odečíst postih. Tyto modifikátory se připojují znaménkem *+* nebo *-* za hodnotu kostky. Například *3k6+2* znamená:  Sečti výsledek hodu tří šesti-stranných kostek a přičti 2. Více o modifikátorech zde ==todo odkaz na typy==
 
 **Procentní hody:** Někdy může být třeba vyhodnotit akci s procentuální šancí na úspěch. K tomu slouží procentní hod, značen jako *k%* nebo *k100*. Takový hod se hází za pomocí *2k10*, kdy si hráč předem určí, která kostka představuje desítky a která jednotky. Ve výsledném hodu pak dvě nuly reprezentují *100*. Pokud je výsledek na kostce nižší nebo stejný jako je stanovená šance, tak je hod úspěšný.
 

@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     | Zásah | Z.Hod |                           Odemyká                            |
-| :----: | :--------: | :---: | :---: | :----------------------------------------------------------: |
-|   1    |  8+Výdrž   |  +0   |  16   | Um, Boj se dvěma zbraněmi, Přepadení, Cech nebo talent, Dobrá příprava, |
-|   2    | +1k8+Výdrž |  +1   |  15   |                            Talent                            |
-|   3    | +1k8+Výdrž |  +2   |  14   |                      +1 Dovednostní bod                      |
-|   4    | +1k8+Výdrž |  +3   |  13   |                         Obratný úhyb                         |
-|   5    | +1k8+Výdrž |  +3   |  12   |                            Talent                            |
-|   6    | +1k8+Výdrž |  +4   |  11   |                      +1 Dovednostní bod                      |
-|   7    | +1k8+Výdrž |  +5   |  10   |                        Přelsti magii                         |
-|   8    | +1k8+Výdrž |  +6   |   9   |                            Talent                            |
-|   9    | +1k8+Výdrž |  +6   |   8   |                      +1 Dovednostní bod                      |
-|   10   | +1k8+Výdrž |  +7   |   7   |                       Studnice štěstí                        |
-|  11+   |     +2     |  +7   |   7   |              Talent (a každou další 3. úroveň)               |
+| ÚROVEŇ |     HP     | mod.Zásahu |  Um  | Z.Hod |                           Odemyká                            |
+| :----: | :--------: | :--------: | :--: | :---: | :----------------------------------------------------------: |
+|   1    |  8+Výdrž   |     +0     |  +1  |  16   | Um, Boj se dvěma zbraněmi, Přepadení, Cech nebo talent, Dobrá příprava, |
+|   2    | +1k8+Výdrž |     +1     |  +1  |  15   |                            Talent                            |
+|   3    | +1k8+Výdrž |     +1     |  +1  |  14   |                      +1 Dovednostní bod                      |
+|   4    | +1k8+Výdrž |     +3     |  +2  |  13   |                         Obratný úhyb                         |
+|   5    | +1k8+Výdrž |     +3     |  +2  |  12   |                            Talent                            |
+|   6    | +1k8+Výdrž |     +4     |  +2  |  11   |                      +1 Dovednostní bod                      |
+|   7    | +1k8+Výdrž |     +4     |  +3  |  10   |                        Přelsti magii                         |
+|   8    | +1k8+Výdrž |     +5     |  +3  |   9   |                            Talent                            |
+|   9    | +1k8+Výdrž |     +5     |  +3  |   8   |                      +1 Dovednostní bod                      |
+|   10   | +1k8+Výdrž |     +7     |  +4  |   7   |                       Studnice štěstí                        |
+|  11+   |     +2     |     +7     |  +4  |   7   |              Talent (a každou další 3. úroveň)               |
 
 ## Schopnosti povolání
 
@@ -34,13 +34,13 @@
 
 **Trénovaná brnění:** Lehké
 
-**Bonusy k záchranným hodům:** +2 proti trikům a +1 proti zhoubě
+**Bonusy k záchranným hodům:** +2 Reflexy a +1 Zdatnost
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro lotra jsou to aktivity typické pro běžný "rogue-archtype". Jako je odemykání zámků, vybírání kapes a podobně. Lotr se však v rámci své "class-fantasy" může pokusit i o věci, které hraničí s nadpřirozenem. Jako je zmizení ve stínech nebo šplhání po hladkých stěnách bez očividných úchytů. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako lotr umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by lotr měl vynikat. Můžeš si k hodu aplikovat bonus *+1*.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro lotra jsou to aktivity typické pro běžný "rogue-archtype". Jako je odemykání zámků, vybírání kapes a podobně. Lotr se však v rámci své "class-fantasy" může pokusit i o věci, které hraničí s nadpřirozenem. Jako je zmizení ve stínech nebo šplhání po hladkých stěnách bez očividných úchytů. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako lotr umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by lotr měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
 
-- **Vylepšení:** Tento bonus se zvedá o 1 na *4.*, *7.* a *10.* úrovni.
+- **Hybridní specializace:** Polovina tvého umu se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
 
 ### Boj se dvěma zbraněmi
 
@@ -51,11 +51,11 @@ Lotr dokáže efektivně používat 2 jednoruční zbraně naráz pokud je aspo�
 
 ### Přepadení
 
-Lotr je expertem v hledání slabých míst nic netušících nepřátel. Pokud lotr zaútočí na nic netušícího oběť jednoruční nebo střelnou zbraní, útočí s bonusem *+4* k zásahu.
+Lotr je expertem v hledání slabých míst nic netušících nepřátel. Pokud lotr zaútočí na nic netušícího oběť jednoruční nebo střelnou zbraní, útočí se sitaučním bonusem *+4* k zásahu.
 
 - **Nic netušící oběť:** Za útok na nic netušící oběť se považuje, útok před hodem na tasení, útok v prvním kole boje (za předpokladu, že jde lotrova skupina první na řadě) nebo první útok kdykoliv během boje pokud nepřítel netuší o lotrově přítomnosti.
 - **Cíl útoku:** Může být libovolné člověku podobné stvoření nebo humanoidní monstrum, které není více jak 2x větší jak člověk (PJ může povolit speciální okolnosti).
-- **Bonusy k poškození:** Při úspěšném zásahu lotrův útok uděluje *7+(úroveň\*2)+modifikátory* poškození.
+- **Poškození:** Při úspěšném zásahu lotrův útok uděluje *7+(úroveň\*2)+modifikátory* poškození.
 
 ### Cech (Dobrovolné, jinak talent)
 
@@ -76,7 +76,7 @@ Lotr si může v civilizaci koupit libovolný počet *balíků neznámého obsah
 
 ### Obratný úhyb (úroveň 4)
 
-Pokud je lotr cílem útoku nebo plošného útoku, může si jako *reakci* připočítat jednorázový bonus ve výši své *obratnosti* do *OČ* nebo *záchrannéh hodu*. Tento bonus je jen na útok, který spustil tuto reakci.
+Pokud je lotr cílem útoku nebo plošného útoku, může si jako *reakci* připočítat jednorázový situčaní bonus ve výši své *obratnosti* do *OČ* nebo *záchrannéh hodu*. Tento bonus je jen na útok, který spustil tuto reakci.
 
 ### Přelsti magii (úroveň 7)
 
@@ -88,10 +88,10 @@ Lotr se může, jako *akci*, pokusit aktivovat nebo dočasně vyřadit magický 
 
 ### Studnice štěstí (úroveň 10)
 
-Lotr disponuje *21 body štěstí*, které může použít k modifikaci svých hodů nebo hodů, které se ho týkají.
+Lotr disponuje *21 body štěstí*, které může použít k úpravě svých hodů nebo hodů, které se ho týkají.
 
 - **Validní hody:** Kterýkoliv otevřený hody týkající se exkluzivně lotra, jehož výsledek se projeví během 1 směny.
-- **Modifikace:** Modifikace může být pozitivní nebo negativní ve výměnném poměru *1:1* za bod štěstí.
+- **Úprava:** Úprava může být pozitivní nebo negativní ve výměnném poměru *1:1* za bod štěstí. Úprava přímo modifikuje výsledek kostky, nelze tedy přesáhnout maximální a minimální hodnoty, jenž mohou padnout na upravované kostce.
 - **Regenerace:** Lotrovi se doplňují *3 body za den*, nikdy však nemůže přesáhnout hranici *21 bodů*.
 
 <img src="/assets/sep_line.png"/>
@@ -134,9 +134,9 @@ Lotr může jako *akci* hodit dva nože co má u sebe. Hod na zásah těmito no�
 
 Při úspěšném zásahu útokem na blízku se lotr může jako *strategickou akci* a úspěšným *ověřením dovednosti Obratnost* pokusit ukrást, umístit předmět nebo sabotovat kus výbavy nepřítele.
 
-- **Ukradení předmětu:** Lotr musí mít volnou ruku. Kradený předmět nesmí být aktivně používán a cíl má nárok na záchranný hod proti trikům aby odolal.
+- **Ukradení předmětu:** Lotr musí mít volnou ruku. Kradený předmět nesmí být aktivně používán a cíl má nárok na záchranný hod na reflexy aby odolal.
 - **Umístění předmětu:** Lotr musí mít volnou ruku nebo v ruce musí být umísťovaný předmět. Předmět se musí efektivně vejít do dlaně.
-- **Sabotáž:** Sabotovaný předmět musí mít nějaký poškoditelný mechanizmus. Například vázání štítu či zbroje, tětiva luku nebo střílecí mechanizmus kuše. Cíl má nárok na záchranný hod proti trikům.
+- **Sabotáž:** Sabotovaný předmět musí mít nějaký poškoditelný mechanizmus. Například vázání štítu či zbroje, tětiva luku nebo střílecí mechanizmus kuše. Cíl má nárok na záchranný hod na reflexy.
 
 <img src="/assets/sep_line.png"/>
 

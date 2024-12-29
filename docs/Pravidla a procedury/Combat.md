@@ -17,7 +17,7 @@
 
 **Taste zbraně!:** Každá strana hodí *1k20*, strana s nejvyšším hodem začíná (remíza jde ve prospěch hráčů) a ostatní strany se seřadí do iniciativy dle výše jejich hodů.
 
-**Ověření morálky:** Stvoření mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se vzdát nebo dát na útěk. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti. 
+**Ověření morálky:** Stvoření mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se vzdát nebo dát na útěk. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti.
 
 !!! note "Příklad: Zvraty v boji"
     Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
@@ -75,13 +75,13 @@
 
 **Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
 
-- **Fyzické:** A jeho varianty sečné, průrazné, tupé a jedové poškození.
+- **Fyzické:** A jeho varianty sečné, průrazné, tupé, jedové a krvácivé.
 - **Energetické a magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá ničivá energie), Mentální.
 - **Pozitivní a negativní:** Pozitivní ubližuje všemu nemrtvému či démonickému ale pro vše živé je léčivé. Negativní funguje obráceně.
 
 **Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna jinými nezranitelnými monstry.
 
-**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny. Pokaždé když stvoření obdrží perzistentní poškození, může podstoupit *přímý hod* s *HU 9* a tím efekt ukončit. Perzistentní poškození může být také předčasně ukončeno relevantní akci (například, když hořící stvoření skočí do vody).
+**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny. Pokaždé když stvoření obdrží perzistentní poškození, může podstoupit *přímý hod* s *HU 8* a tím efekt ukončit. Perzistentní poškození může být také předčasně ukončeno relevantní akci (například, když hořící stvoření skočí do vody). Více instancí perzistentního poškození stejného typu se nesčítá.
 
 !!! note "Příklad: Hořící nestvůra"
     Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
@@ -90,7 +90,7 @@
 
 ## Ostatní bojové situace
 
-**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných z povolání, způsobené poškození je poloviční (vyjímaje kritických zásahů) a většina speciálních schopností zbraní není aplikovatelná.
+**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných ze specializace, způsobené poškození je poloviční (vyjímaje kritických zásahů) a většina speciálních schopností zbraní není aplikovatelná.
 
 **Netrénované zbroje a štíty:** Poskytují jen poloviční bonus do OČ.
 
@@ -98,8 +98,8 @@
 
 **Shození na zem:** Je-li stvoření shozeno na zem platí následující pravidla:
 
-- Všechny útoky na blízku proti shozenému stvoření probíhají s bonusem *+4* na zásah. 
-- Pokud se shozené stvoření pokusí útočit větší jak jednoruční zbraní, tak jeho útoky probíhají s potihem *-4* na zásah. 
+- Všechny útoky na blízku proti shozenému stvoření probíhají se situačním bonusem *+4* na zásah. 
+- Pokud se shozené stvoření pokusí útočit větší jak jednoruční zbraní, tak jeho útoky probíhají se situačním postihem *-4* na zásah. 
 - *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole.
 
 **Připravená akce:** Postava nebo stvoření může obětovat svou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *reakci*.
@@ -107,7 +107,7 @@
 !!! Warning "Souběh akcí"
     Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
 
-**Slepota:** Slepé stvoření se pohybuje hybností 3 metry. Všechny útoky proti slepému stvoření jsou s bonusem *+4* k zásahu. Sám na blízku útočí s postihem *-4* k zásahu. Útoky na dálku nejsou možné.
+**Slepota:** Slepé stvoření se pohybuje hybností 3 metry. Všechny útoky proti slepému stvoření jsou se sitaučním bonusem *+4* k zásahu. Sám na blízku útočí se situačním postihem *-4* k zásahu. Útoky na dálku nejsou možné.
 
 **Coup de grâce:** Bezmocní nepřátelé. Jako například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
 
@@ -115,8 +115,8 @@
 
 **Nestabilní povrchy:** Pokud postavy bojují na nestabilním povrchu, jako jsou lodě na rozbouřeném moři nebo třeba když letí na hřbetu jiného stvoření. Tak jsou ovlivněni následujícími omezeními:
 
-- *Útoky na dálku:* Probíhají s postihem -4.
-- *Kouzla*: Sesílání selže s pravděpodobností 50%.
+- *Útoky na dálku:* Probíhají se sitaučním postihem -4.
+- *Kouzla*: Sesílání selže s pravděpodobností 50%. ==todo: předělat na přímý hod==
 - *Předměty*: Mohou být používány normálně.
 
 !!! note "Magické létání"

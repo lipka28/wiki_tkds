@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     | Zásah | Z.Hod |                           Odemyká                            |
-| :----: | :--------: | :---: | :---: | :----------------------------------------------------------: |
-|   1    |  8+Výdrž   |  +0   |  16   | Um, Kořist, Za jedno s přírodou, Přítel divočiny, Samotář nebo Věrný společník |
-|   2    | +1k8+Výdrž |  +1   |  15   |                            Talent                            |
-|   3    | +1k8+Výdrž |  +2   |  14   |                      +1 Dovednostní bod                      |
-|   4    | +1k8+Výdrž |  +3   |  13   |                      Přírodní medicína                       |
-|   5    | +1k8+Výdrž |  +4   |  12   |                            Talent                            |
-|   6    | +1k8+Výdrž |  +5   |  11   |                      +1 Dovednostní bod                      |
-|   7    | +1k8+Výdrž |  +6   |  10   |                    Mistrovská ostražitost                    |
-|   8    | +1k8+Výdrž |  +7   |   9   |                            Talent                            |
-|   9    | +1k8+Výdrž |  +8   |   8   |                      +1 Dovednostní bod                      |
-|   10   | +1k8+Výdrž |  +9   |   7   |                        Smrtící střela                        |
-|  11+   |     +2     |  +9   |   7   |              Talent (a každou další 3. úroveň)               |
+| ÚROVEŇ |     HP     | Zásah |  Um  | Z.Hod |                           Odemyká                            |
+| :----: | :--------: | :---: | :--: | :---: | :----------------------------------------------------------: |
+|   1    |  8+Výdrž   |  +1   |  +1  |  16   | Um, Kořist, Za jedno s přírodou, Přítel divočiny, Samotář nebo Věrný společník |
+|   2    | +1k8+Výdrž |  +2   |  +1  |  15   |                            Talent                            |
+|   3    | +1k8+Výdrž |  +2   |  +1  |  14   |                      +1 Dovednostní bod                      |
+|   4    | +1k8+Výdrž |  +4   |  +2  |  13   |                      Přírodní medicína                       |
+|   5    | +1k8+Výdrž |  +4   |  +2  |  12   |                            Talent                            |
+|   6    | +1k8+Výdrž |  +5   |  +2  |  11   |                      +1 Dovednostní bod                      |
+|   7    | +1k8+Výdrž |  +6   |  +3  |  10   |                    Mistrovská ostražitost                    |
+|   8    | +1k8+Výdrž |  +7   |  +3  |   9   |                            Talent                            |
+|   9    | +1k8+Výdrž |  +7   |  +3  |   8   |                      +1 Dovednostní bod                      |
+|   10   | +1k8+Výdrž |  +9   |  +4  |   7   |                        Smrtící střela                        |
+|  11+   |     +2     |  +9   |  +4  |   7   |              Talent (a každou další 3. úroveň)               |
 
 ## Schopnosti povolání
 
@@ -34,19 +34,19 @@
 
 **Trénovaná brnění:** Lehké a střední zbroje včetně štítů
 
-**Bonusy k záchranným hodům:** +2 proti trikům a +1 proti magii
+**Bonusy k záchranným hodům:** +2 Reflexy a +1 Vůle
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro hraničáře jsou to věci jako stopování, stahování z kůží, identifikaci a znalosti o rostlinách, vílách a zvířatům podobných monster, příprava pastí a obecně věci spojené s přežitím v divočině. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako hraničář umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by hraničář měl vynikat. Můžeš si k hodu aplikovat bonus *+1*.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro hraničáře jsou to věci jako stopování, stahování z kůží, identifikaci a znalosti o rostlinách, vílách a zvířatům podobných monster, příprava pastí a obecně věci spojené s přežitím v divočině. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako hraničář umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by hraničář měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
 
-- **Vylepšení:** Tento bonus se zvedá o 1 na *4.*, *7.* a *10.* úrovni.
+- **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
 
 ### Kořist
 
 Hraničář může jako *strategickou akci* označit *1 stvoření*, které vidí, slyší nebo zrovna stopuje, jako svou kořist. 
 
-- **Bonusy:** Hraničář má bonus *+1* k *zásahu* a *ověření dovedností* nebo *specializace* proti označenému stvoření a také označené stvoření má postih -1 k záchranným hodům proti hraničáři. Navíc při útocích na označené stvoření je hraničářův *dostřel* a *neefektivní dostřel* dvojnásobný a spojenci stojící v cestě neudělují postihy k zásahu za překážení.
+- **Bonusy:** Hraničář má situační bonus *+1* k *zásahu* a *ověření dovedností* nebo *specializace* proti označenému stvoření a také označené stvoření má sitauční postih -1 k záchranným hodům proti hraničáři. Navíc při útocích na označené stvoření je hraničářův *dostřel* a *neefektivní dostřel* dvojnásobný a spojenci stojící v cestě neudělují postihy k zásahu za překážení.
 - **Příkaz:** Pokud si hraničář přeje, může jako *volnou akci* součástí této schopnosti, přikázat svému zvířecímu společníkovi útok na označené stvoření. 
 
 ### Za jedno s přírodou
@@ -104,7 +104,7 @@ Hraničář může od 10. úrovně za cenu *celého tahu* provést útok na dál
 
 **Speciální:**
 
-- *Stopování:* Poskytuje bonus *+4* ke stopování.
+- *Stopování:* Poskytuje sitauční bonus *+4* ke stopování.
 - *Shození na zem:* Při kritickém zásahu svým útokem, shodí protivníka na zem.
 
 ### Kočkovitá šelma
@@ -114,7 +114,7 @@ Hraničář může od 10. úrovně za cenu *celého tahu* provést útok na dál
 **Speciální:**
 
 - *Plížení:* Pokud jeho skupina je první na řadě po tasení zbraní a okolní prostředí to umožňuje. Začíná boj, skryta před zraky nepřátel.
-- *Zaskočit:* První útok na na nic netušící cíl (jako následek *plížení*). Má bonus *+4* k zásahu a poškození.
+- *Zaskočit:* První útok na na nic netušící cíl (jako následek *plížení*). Má situační bonus *+4* k zásahu a poškození.
 
 ### Medvěd
 
@@ -172,7 +172,7 @@ Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybra
 
 **Požadavek:** -
 
-**Efekt:** Hraničář má bonus *+1* k OČ a záchranným hodům proti útokům a schopnostem stvoření, které má označené jako svou kořist.
+**Efekt:** Hraničář má situační bonus *+1* k OČ a záchranným hodům proti útokům a schopnostem stvoření, které má označené jako svou kořist.
 
 <img src="/assets/sep_line.png"/>
 

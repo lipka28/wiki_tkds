@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     |     Magie     | Zásah | Z.Hod |                           Odemyká                            |
-| :----: | :--------: | :-----------: | :---: | :---: | :----------------------------------------------------------: |
-|   1    |  6+Výdrž   |  10+Rozvaha   |  +0   |  16   | Um, Praktická magie, Magická jistota, Magická střela, Krystalizovaná magie |
-|   2    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  15   |                      Talent, +1 Kouzlo                       |
-|   3    | +1k6+Výdrž | +1k10+Rozvaha |  +1   |  14   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   4    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  13   |                Improvizovaná magie, +1 Kouzlo                |
-|   5    | +1k6+Výdrž | +1k10+Rozvaha |  +2   |  12   |                      Talent, +1 Kouzlo                       |
-|   6    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  11   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   7    | +1k6+Výdrž | +1k10+Rozvaha |  +3   |  10   |                  Nebezpečný dluh, +1 Kouzlo                  |
-|   8    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   9   |                      Talent, +1 Kouzlo                       |
-|   9    | +1k6+Výdrž | +1k10+Rozvaha |  +4   |   8   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   10   | +1k6+Výdrž | +1k10+Rozvaha |  +5   |   7   |                   Proti-kouzlo, +1 Kouzlo                    |
-|  11+   |     +1     |      +3       |  +5   |   7   |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
+| ÚROVEŇ |     HP     |     Magie     | Mod.Zásahu |  Um  | Z.Hod |                           Odemyká                            |
+| :----: | :--------: | :-----------: | :--------: | :--: | :---: | :----------------------------------------------------------: |
+|   1    |  6+Výdrž   |  10+Rozvaha   |     +0     |  +1  |  16   | Um, Praktická magie, Magická jistota, Magická střela, Krystalizovaná magie |
+|   2    | +1k6+Výdrž | +1k10+Rozvaha |     +1     |  +1  |  15   |                      Talent, +1 Kouzlo                       |
+|   3    | +1k6+Výdrž | +1k10+Rozvaha |     +1     |  +1  |  14   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   4    | +1k6+Výdrž | +1k10+Rozvaha |     +2     |  +2  |  13   |                Improvizovaná magie, +1 Kouzlo                |
+|   5    | +1k6+Výdrž | +1k10+Rozvaha |     +2     |  +2  |  12   |                      Talent, +1 Kouzlo                       |
+|   6    | +1k6+Výdrž | +1k10+Rozvaha |     +3     |  +2  |  11   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   7    | +1k6+Výdrž | +1k10+Rozvaha |     +3     |  +3  |  10   |                  Nebezpečný dluh, +1 Kouzlo                  |
+|   8    | +1k6+Výdrž | +1k10+Rozvaha |     +4     |  +3  |   9   |                      Talent, +1 Kouzlo                       |
+|   9    | +1k6+Výdrž | +1k10+Rozvaha |     +4     |  +3  |   8   |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   10   | +1k6+Výdrž | +1k10+Rozvaha |     +5     |  +4  |   7   |                   Proti-kouzlo, +1 Kouzlo                    |
+|  11+   |     +1     |      +3       |     +5     |  +4  |   7   |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
 
 ## Schopnosti povolání
 
@@ -34,13 +34,11 @@
 
 **Trénovaná brnění:** Žádné
 
-**Bonusy k záchranným hodům:** +2 proti magii a +1 proti zhoubě
+**Bonusy k záchranným hodům:** +2 Vůle a +1 Zdatnost
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro mága jsou to zaručeně věci jako vycítění a identifikace magie, magický výzkum, manipulace magických energií, luštění magických run či učení se kouzel z různých zdrojů. Mimo magii je však mág i velmi vzdělaný jedinec, který má rozsáhlé znalosti historie, světa a stvoření v nich žijících. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako mág umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by mág měl vynikat. Můžeš si k hodu aplikovat bonus *+1*.
-
-- **Vylepšení:** Tento bonus se zvedá o 1 na *4.*, *7.* a *10.* úrovni.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro mága jsou to zaručeně věci jako vycítění a identifikace magie, magický výzkum, manipulace magických energií, luštění magických run či učení se kouzel z různých zdrojů. Mimo magii je však mág i velmi vzdělaný jedinec, který má rozsáhlé znalosti historie, světa a stvoření v nich žijících. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako mág umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by mág měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
 
 ### Praktická magie
 
@@ -111,11 +109,11 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 <img src="/assets/sep_line.png"/>
 
-### Zřídlo
+### Zřídlo ==todo: opravit redukci záchraného hodu, dle nového==
 
 **Požadavek:** -
 
-**Efekt:** Objevíš v sobě dřímající magický potenciál. Získáš extra *6* magie a *+3* přirozené regenerace magie. Kvůli vyšší citlivosti na magii se však tvůj záchranný hod proti magii sníží o -4.
+**Efekt:** Objevíš v sobě dřímající magický potenciál. Získáš extra *6* magie a *+3* přirozené regenerace magie. Kvůli vyšší citlivosti na magii se však tvůj záchranný hod na vůli sníží o -4.
 
 <img src="/assets/sep_line.png"/>
 
@@ -147,6 +145,6 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 **Požadavek:** -
 
-**Efekt:** Při použití tvého základního kouzla magická střela máš bonus *+2* k zásahu a poškození. Navíc si vyber jeden typ ==todo odkaz== energetického poškození a při sesílání si můžeš vybrat jestli chceš, aby tvá střela působila *vybrané poškození* nebo pouhé *silové poškození*. 
+**Efekt:** Při použití tvého základního kouzla magická střela máš bonus *+2* k zásahu a poškození. Navíc si vyber jeden typ ==todo odkaz== energetického poškození a při sesílání si můžeš vybrat jestli chceš, aby tvá střela působila *vybrané poškození* nebo pouhé *silové poškození*.
 
 <img src="/assets/sep_line.png"/>
