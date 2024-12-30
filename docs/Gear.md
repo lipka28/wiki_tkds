@@ -50,16 +50,16 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 | :--------------------------- | :------------: | :----: | :-----------: | :-------: | :------: |
 | Obyčejné oblečení dobrodruha |    Oblečení    | - (10) |       -       |     1     | - (1 st) |
 | Noblesní oblečení            |    Oblečení    | - (10) |       -       |     1     |  100 st  |
-| Kožená zbroj                 |     Lehká      |   +2   |      -1       |     T     |  20 st   |
-| Šupinová zbroj               |    Střední     |   +4   |      -2       |     T     |  40 st   |
-| Půl plát s kyrysem           |     Těžká      |   +6   |      -3       |     T     |  60 st   |
+| Kožená zbroj                 |     Lehká      |   +1   |       -       |     T     |  20 st   |
+| Šupinová zbroj               |    Střední     |   +3   |      -1       |     T     |  40 st   |
+| Půl plát s kyrysem           |     Těžká      |   +5   |      -2       |     T     |  60 st   |
 | Plná plátová zbroj na míru   |  Velmi těžká   |   +7   |      -3       |     T     | 1000 st  |
 | Štít                         |      Štít      |   +2   |       -       |     T     |  15 st   |
 | Zvířecí brnění               | Zvířecí brnění |   +2   |       -       |     1     |  25 st   |
 
 ### Postih obratnosti:
 
-Některé zbroje (viz. tabulka zbrojí výše) poskytují *předmětový postih do Obratnosti*. Každý pozitivní bod Síly co nositel má redukuje postih obratnosti o *1*. Například postava se Sílou 2 a Obratností 2, nosící půl plát s kyrysem (postih -3) bude mít celkovou Obratnost 1.
+Některé zbroje (viz. tabulka zbrojí výše) poskytují *předmětový postih do Obratnosti*. Každý pozitivní bod Síly co nositel má redukuje postih obratnosti o *1*. Například postava se Sílou 1 a Obratností 2, nosící půl plát s kyrysem (postih -2) bude mít celkovou Obratnost 1.
 
 - **Obratnost < 3**: Pokud by hrozilo, že obratnost stvoření klesne pod 3, stvoření se nemůže ve zbroji hýbat.
 

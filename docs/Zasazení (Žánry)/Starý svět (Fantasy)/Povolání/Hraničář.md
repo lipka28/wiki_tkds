@@ -46,7 +46,7 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 
 Hraničář může jako *strategickou akci* označit *1 stvoření*, které vidí, slyší nebo zrovna stopuje, jako svou kořist. 
 
-- **Bonusy:** Hraničář má situační bonus *+1* k *zásahu* a *ověření dovedností* nebo *specializace* proti označenému stvoření a také označené stvoření má sitauční postih -1 k záchranným hodům proti hraničáři. Navíc při útocích na označené stvoření je hraničářův *dostřel* a *neefektivní dostřel* dvojnásobný a spojenci stojící v cestě neudělují postihy k zásahu za překážení.
+- **Bonusy:** Hraničář má situační bonus *+1* k *zásahu* a *ověření dovedností* proti označenému stvoření a také označené stvoření má sitauční postih -1 k záchranným hodům proti hraničáři. Navíc při útocích na označené stvoření je hraničářův *dostřel* a *neefektivní dostřel* dvojnásobný a spojenci stojící v cestě neudělují postihy k zásahu za překážení.
 - **Příkaz:** Pokud si hraničář přeje, může jako *volnou akci* součástí této schopnosti, přikázat svému zvířecímu společníkovi útok na označené stvoření. 
 
 ### Za jedno s přírodou
@@ -82,7 +82,7 @@ Hraničář má od 4. úrovně dostatek znalostí bylin na to, aby si při cesto
 
 - **Svazek bylin:** Je lehký předmět, jenž se dá použít na místo *lékárničky* nebo *slabého protijedu*.
 - **Omezení:** Hraničář může nasbírat kolik svazků bylin chce avšak jejich účinnost trvá jen po zbytek dne.
-- **Horší podmínky:** V horších podmínkách jako je třeba poušť či zmrzlé pláně nemusí být obstarání bylin možné nebo vyžaduje *ověřené specializace* s adekvátními postihy pro malé množství bylin. Většinou nelze použít v kobkách.
+- **Horší podmínky:** V horších podmínkách jako je třeba poušť či zmrzlé pláně nemusí být obstarání bylin možné nebo vyžaduje *ověření dovednost Rozvaha* s adekvátními postihy pro malé množství bylin. Většinou nelze použít v kobkách.
 
 ### Mistrovská ostražitost (Úroveň 7)
 

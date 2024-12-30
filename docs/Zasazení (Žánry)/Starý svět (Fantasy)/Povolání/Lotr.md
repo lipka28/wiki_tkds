@@ -106,7 +106,7 @@ Pokaždé když lotr obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 **Požadavek:** -
 
-Lotr podávající či aplikující jed na zbraň se může pokusit o ověření této schopnosti. Pokud uspěje aplikovaný jed se nepoužije celý a lze ho znovu použít podruhé.
+Lotr podávající či aplikující jed na zbraň se může pokusit o *ověření Obratnosti*. Pokud uspěje aplikovaný jed se nepoužije celý a lze ho znovu použít podruhé.
 
 - **Limit opakování:** S jedné dávky jedu lze touto schopností dostat maximálně *2 použití*.
 
@@ -144,9 +144,7 @@ Při úspěšném zásahu útokem na blízku se lotr může jako *strategickou a
 
 **Požadavek:** Osobnost >= 1
 
-Lotr se může pokusit úspěšným *ověřením specializace* napodobit hlas jiného humanoidního stvoření, které kdy slyšel.
-
-- **Tajný hod:** Ověření na imitaci by měl být tajný hod.
+Lotr se může pokusit úspěšným *ověřením Osobnosti* napodobit hlas jiného humanoidního stvoření, které kdy slyšel.
 
 <img src="/assets/sep_line.png"/>
 
@@ -156,8 +154,7 @@ Lotr se může pokusit úspěšným *ověřením specializace* napodobit hlas ji
 
 Lotr se může pokusit zamaskovat jako jiného humanoidního stvoření, které není výrazně větší nebo menší než on sám a se kterým se někdy setkal.
 
-- **Převlek:** Připravení převleku trvá *1 hodinu* a vyžaduje *maskovací sadu* a hod na *ověření dovednosti osobnost*.
-- **Tajný hod:** Ověření na šarádu by měl být tajný hod.
+- **Převlek:** Připravení převleku trvá *1 hodinu* a vyžaduje *maskovací sadu* a hod na *ověření dovednosti Osobnost* poprvé, když se setká z někým kdo by mohl prokouknout lotrovu šarádu.
 - **Opakování hodu:** V případě, že je zamaskovaný lotr důkladně prověřen někým kdo cíl  šarády zná. Hod na úspěch se musí opakovat (Například muž políbí  manželku, která je ve skutečnosti lotr v přestrojení).
 
 <img src="/assets/sep_line.png"/>

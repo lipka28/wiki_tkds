@@ -83,10 +83,10 @@ Pokud mág nemá dostatek magie, aby seslal kouzlo. Může jako *volnou akci* sp
 
 ### Proti-kouzlo (úroveň 10)
 
-Mág se může od 10. úrovně pokusit vyrušit sesílání kouzla někoho jiného. Pokud mág vidí sesílání kouzla, může použít svou *reakci* a provést *ověření dovednosti Rozum*. Hranice úspěchu je *8+rozdíl úrovní mezi mágem a cílem proti-kouzla*.
+Mág se může od 10. úrovně pokusit vyrušit sesílání kouzla někoho jiného. Pokud mág vidí sesílání kouzla, může použít svou *reakci* a provést *ověření dovednosti Rozum*. Hranice úspěchu je *10+rozdíl úrovní mezi mágem a cílem proti-kouzla* (minimum 10). Pokud je soupeř hybridní nebo bojové specializace, rozdíl úrovní je poloviční.
 
 - **Úspěch:** Mág a protivník oba zaplatí plnou cenu sesílaného kouzla a kouzlo se vyruší.
-- **NAT 12:** Pokud na ověřovací kostce padne *12*, je efekt stejný jako úspěch ale kouzlo se sešle jako odražené. Mág odrazující kouzlo může vybrat kdo nebo co je jeho cílem.
+- **NAT 20:** Pokud na ověřovací kostce padne *20*, je efekt stejný jako úspěch ale kouzlo se sešle jako odražené. Mág odrazující kouzlo může vybrat kdo nebo co je jeho cílem.
 - **Neúspěch:** Pokud šedý mág neuspěje nebo nemůže zaplatit plnou cenu sesílaného kouzla, zaplatí polovinu a kouzlo se sešle bez přerušení.
 
 <img src="/assets/sep_line.png"/>

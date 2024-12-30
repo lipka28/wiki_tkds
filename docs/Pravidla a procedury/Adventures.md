@@ -63,12 +63,12 @@ Bonusy a postihy se dělí do čtyř rozličných typů. Důležité je, že bon
 
 #### Ověření dovednosti
 
-Ověření dovednosti probíhá jako hod modifikovaný dovedností postavy. Hráč si hodí *1k12* a přičte dovednost, kterou ověřuje.
+Ověření dovednosti probíhá jako hod modifikovaný dovedností postavy. Hráč si hodí *1k20* a přičte dovednost, kterou ověřuje.
 
-- *Větší rovno 8:* Pokud je výsledek větší nebo roven *8 (Hranice úspěchu - HU)*, tak je hod úspěšný. V opačném případě se jedná o neúspěch.
-- *Přirozená 1 a přirozených 12:* Pokud na kostce padne *1* hod je neúspěšný nezávisle na modifikátorech či hranici úspěchu. Naopak pokud na kostce padne *12* je hod vždy úspěšný.
+- *Větší rovno 12:* Pokud je výsledek větší nebo roven *12 (Hranice úspěchu - HU)*, tak je hod úspěšný. V opačném případě se jedná o neúspěch.
+- *Přirozená 1 a přirozených 20:* Pokud na kostce padne *1* hod je neúspěšný nezávisle na modifikátorech či hranici úspěchu. Naopak pokud na kostce padne *20* je hod vždy úspěšný.
 - *Bonusy a postihy:* Na hod lze aplikovat relevantní bonusy a postihy.
-- *Modifikace obtížnosti:* Obtížnost *8* je nejběžnější a vhodná pro libovolné situace s prvkem náhody. Pokud není psáno jinak ověření dovednosti má *HU 8*. PJ však může usoudit, že je aktivita o kterou  se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *10* a *12* pro těžkou a velmi těžkou aktivitu a *6* pro lehkou. 
+- *Modifikace obtížnosti:* Obtížnost *12* je nejběžnější a vhodná pro libovolné situace s prvkem náhody. Pokud není psáno jinak ověření dovednosti má *HU 12*. PJ však může usoudit, že je aktivita o kterou se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *16* a *20* pro těžkou a velmi těžkou aktivitu a *8* pro lehkou.
 
 #### Přímý hod
 
@@ -95,15 +95,7 @@ Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli pln�
 
 - *Větší rovno:* Pokud je výsledek větší nebo roven, tak je hod úspěšný. 
 - *Nižší:* V případě nižších výsledků se jedná o neúspěch. 
-- *NAT1 a NAT20:* V případě přirozené 1 se vždy jedná o neúspěch a v případě přirozených 20 je hod vždy úspěšný. 
-
-### Bojová únava
-
-Pokaždé, když stvoření *uspěje v záchranném hodu* a tím se kompletně vyvaruje nějakému efektu (mimo hodu přirozených 20). Obdrží *1 bod bojové únavy*. Bojová únava uděluje situační postih *-1 do všech záchranných hodů*.
-
-- **Trvání:** Bojová únava trvá vždy jen do konce boje, případně aktuální směny (co přijde později)
-- **Limit získávání:** V jednom kole nelze získat víc jak *1* bod bojové únavy.
-- **Maximum:** Stvoření může mít maximálně *5* bodu bojové únavy najednou.
+- *NAT1 a NAT20:* V případě přirozené 1 se vždy jedná o neúspěch a v případě přirozených 20 je hod vždy úspěšný.
 
 <img src="/assets/sep_line.png"/>
 
@@ -201,9 +193,7 @@ Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žíz
 - Přežití vlastní smrti
 - Magie
 
-**Efekty vyčerpání:** Každý bod vyčerpání představuje postih do všech *ověřovacích a záchranných hodů*, *hodů na poškození*, *Obraného čísla* a *hybnosti*. Navíc vyčerpaná postava pokoušející se seslat kouzlo musí uspět v *přímém hodu* proti HU odpovídající počtu bodům vyčerpání, jinak sesílání kouzla selže.
-
-**Smrt z vyčerpání:** Dosáhne-li postava *6-ti* bodů vyčerpání, tak ihned umírá.
+**Efekty vyčerpání:** Vyčerpání nemá na postavu žádný vliv, dokud nedosáhne *6-ti* bodů vyčerpání, pak ihned umírá.
 
 **Zbavení se vyčerpání:** Vyčerpání se lze zbavit buďto magií nebo celodenním odpočinkem v bezpečí civilizace, kdy každý den takového odpočinku *vyléčí jeden bod vyčerpání*.
 

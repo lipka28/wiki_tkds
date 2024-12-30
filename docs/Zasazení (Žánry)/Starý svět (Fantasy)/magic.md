@@ -49,7 +49,7 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 - **Odvolání** - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal (pokud nebylo odraženo nebo se jeho sesílání nějak nepokazilo).
 - **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje ale pouze jedno kouzlo vyžadující koncentraci může být aktivní v jednu chvíli. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí.
 - **Přerušení kouzla** - Pokud čaroděj obdrží poškození během sesílání kouzla nebo koncentrace, musí uspět v *záchranném hodu na zdatnost* jinak je kouzlo či koncentrace ztracena. Pokud k přerušení dojde vy chvíli, kdy kouzelník udržuje koncentraci a zároveň sesílá kouzlo. Musí podstoupit záchranný hod za každou s aktivit.
-- **Záchranný hod** - Cíl naprosté většiny kouzel může podstoupit relevantní *záchranný hod* a tím se vyvarovat jeho efektu (a obdržet bod *bojové únavy* ==todo: odkaz==). U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě. Hod *přirozených 20* znamená, že můžeš efekt kouzla kompletně ignorovat (pokud by čistě modifikovaný hod znamenal úspěch, v opačném případě se pouze z neúspěchu stává úspěch). Hod *přirozených 1* znamená, že ti kouzlo uděluje plné poškození nebo má plné trvání (či jiný efekt dle rozhodnutí PJ) (pokud by čistě modifikovaný hod znamenal neúspěch, v opačném případě se pouze z úspěchu stane neúspěch).
+- **Záchranný hod** - Cíl naprosté většiny kouzel může podstoupit relevantní *záchranný hod* a tím se vyvarovat jeho efektu (a obdržet bod *bojové únavy* ==todo: odkaz==). U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě. Hod *přirozených 20* znamená, že můžeš efekt kouzla kompletně ignorovat. Hod *přirozených 1* znamená, že ti kouzlo uděluje plné poškození nebo má plné trvání.
 - **Hod na zásah dotykem:** Je speciální varianta hodu na zásah, která se může používat k sesílání některých kouzel. Funguje jako obyčejný neozbrojený hod na zásah modifikovaný *Obratností* na místo Síly. Cílem je pak trefit základní OČ soupeře (*10+Obratnost*). Bonusy za zbroje, štíty a podobnou výbavu se nepřičítají. PJ může dle vlastního uvážení však přičítat bonusy za ochranná kozla nebo schopnosti pomáhající v uhýbání.
 - **Maximální poškození** - Kouzlo může udělit na nejvýš *20* kostek poškození najednou.
 - **Kombinace efektů** - Více souběžných kouzel, nemůže být použito k ovlivnění toho samého atributu (Síla, Obratnost, OČ, Životy a podobně...) avšak protichůdná kouzla se mohou vzájemně vyrušit.
@@ -458,7 +458,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Dosah:** *Dotyk*; **Cíl:** *1* stvoření
 
-**Efekt:** Dotykem pozitivní energií vyléčí *1k8+1* životů žijícímu stvoření. Pokud je cílem stvoření, kterému pozitivní energie ubližuje, může se pokusit uspět v záchranném hodu a tím zredukovat poškození na polovinu. V boji může pokus o dotyk vyžadovat *hod na zásah dotykem*.
+**Efekt:** Dotykem pozitivní energií vyléčí *1k8+1* životů žijícímu stvoření. Pokud je cílem stvoření, kterému pozitivní energie ubližuje, může se pokusit uspět v *záchranném hodu na zdatnost* a tím zredukovat poškození na polovinu. V boji může pokus o dotyk vyžadovat *hod na zásah dotykem*.
 
 **Posílení:**
 

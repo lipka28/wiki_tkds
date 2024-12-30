@@ -62,7 +62,7 @@
 | *3. Stanov OČ:* Postavy i monstra mají OČ napsané ve svém stat-bloku. |
 | *4. Výsledek:* Pokud je výsledek útoku stejný nebo vyšší než OČ cíle útok byl úspěšný, můžeš házet na poškození. |
 
-**NAT 1 a NAT 20:** Hod přirozené *1* je považován za neúspěch. Hod přirozené *20* je považován za kritický zásah (pokud by čistě modifikovaný hod znamenal úspěch, v opačném případě se pouze stupeň úspěchu zvedá o krok výš). 
+**NAT 1 a NAT 20:** Hod přirozené *1* je považován za neúspěch. Hod přirozené *20* je považován za kritický zásah.
 
 **Kritické zásahy:** Uděluje maximální možné poškození (Určené maximální hodnotou na kostkách poškození dané zbraně včetně bonusů).
 
