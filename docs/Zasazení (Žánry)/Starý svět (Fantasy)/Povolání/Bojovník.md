@@ -10,19 +10,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP      | Mod. Zásahu |  Um  | Z.Hod |                           Odemyká                           |
-| :----: | :---------: | :---------: | :--: | :---: | :---------------------------------------------------------: |
-|   1    |  10+Výdrž   |     +1      |  +1  |  16   | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
-|   2    | +1k10+Výdrž |     +2      |  +1  |  15   |                           Talent                            |
-|   3    | +1k10+Výdrž |     +2      |  +1  |  14   |                     +1 Dovednostní bod                      |
-|   4    | +1k10+Výdrž |     +4      |  +2  |  13   |                     Příležitostný útok                      |
-|   5    | +1k10+Výdrž |     +4      |  +2  |  12   |                           Talent                            |
-|   6    | +1k10+Výdrž |     +5      |  +2  |  11   |                     +1 Dovednostní bod                      |
-|   7    | +1k10+Výdrž |     +6      |  +3  |  10   |                      Nával adrenalinu                       |
-|   8    | +1k10+Výdrž |     +7      |  +3  |   9   |                           Talent                            |
-|   9    | +1k10+Výdrž |     +7      |  +3  |   8   |                     +1 Dovednostní bod                      |
-|   10   | +1k10+Výdrž |     +9      |  +4  |   7   |                         Extra útok                          |
-|  11+   |     +3      |     +9      |  +4  |   7   |              Talent (a každou další 3. úroveň)              |
+| ÚROVEŇ |     HP      | Mod.Zásahu |  Um  | Z.Hod |                           Odemyká                           |
+| :----: | :---------: | :--------: | :--: | :---: | :---------------------------------------------------------: |
+|   1    |  10+Výdrž   |     +1     |  +1  |  16   | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
+|   2    | +1k10+Výdrž |     +2     |  +1  |  15   |                           Talent                            |
+|   3    | +1k10+Výdrž |     +2     |  +1  |  14   |                     +1 Dovednostní bod                      |
+|   4    | +1k10+Výdrž |     +4     |  +2  |  13   |                     Příležitostný útok                      |
+|   5    | +1k10+Výdrž |     +4     |  +2  |  12   |                           Talent                            |
+|   6    | +1k10+Výdrž |     +5     |  +2  |  11   |                     +1 Dovednostní bod                      |
+|   7    | +1k10+Výdrž |     +6     |  +3  |  10   |                      Nával adrenalinu                       |
+|   8    | +1k10+Výdrž |     +7     |  +3  |   9   |                           Talent                            |
+|   9    | +1k10+Výdrž |     +7     |  +3  |   8   |                     +1 Dovednostní bod                      |
+|   10   | +1k10+Výdrž |     +9     |  +4  |   7   |                         Extra útok                          |
+|  11+   |     +3      |     +9     |  +4  |   7   |              Talent (a každou další 3. úroveň)              |
 
 ## Schopnosti specializace
 

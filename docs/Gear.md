@@ -55,7 +55,7 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 | Půl plát s kyrysem           |     Těžká      |   +5   |      -2       |     T     |  60 st   |
 | Plná plátová zbroj na míru   |  Velmi těžká   |   +7   |      -3       |     T     | 1000 st  |
 | Štít                         |      Štít      |   +2   |       -       |     T     |  15 st   |
-| Zvířecí brnění               | Zvířecí brnění |   +2   |       -       |     1     |  25 st   |
+| Zvířecí brnění               | Zvířecí brnění |   +2   |       -       |     T     |  25 st   |
 
 ### Postih obratnosti:
 

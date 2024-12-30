@@ -63,7 +63,7 @@ Mág ovládá základní kouzlo *magická střela* jenž může seslat až na vz
 Mág může strávit *1 den* vytvářením krystalizované magie. Krystalizovaná magie je předmět zabírající *1 slot* obsahující až *10 magie*.
 
 - **Tvorba:** Funguje konverzí *2 bodů magie* na *1 bod krystalizované* magie. Vytvořený krystal může mít v sobě *1* až *10* magie.
-- **Použití:** Pro alchymistickou či magickou *výrobu* nebo jako komponenta k sesílání kouzel pro jakoukoliv magii využívající specializaci (vyžaduje volnou ruku). Použití krystalizované magie pro seslání kouzla zredukuje jeho cenou o magii uloženou v crystalu (použije se vždy celý krystal).
+- **Použití:** Pro alchymistickou či magickou *výrobu* nebo jako komponenta k sesílání kouzel pro jakoukoliv magii využívající specializaci (vyžaduje volnou ruku). Použití krystalizované magie pro seslání kouzla zredukuje jeho cenou o magii uloženou v krystalu (použije se vždy celý krystal).
 - **Krystaly do začátku:** Mág začíná hru s *3-mi* krystaly krystalizované magie, každý obsahujíc 3 magie.
 
 ### Improvizovaná magie (úroveň 4)

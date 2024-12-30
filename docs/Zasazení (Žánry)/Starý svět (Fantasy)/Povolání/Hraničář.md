@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     | Zásah |  Um  | Z.Hod |                           Odemyká                            |
-| :----: | :--------: | :---: | :--: | :---: | :----------------------------------------------------------: |
-|   1    |  8+Výdrž   |  +1   |  +1  |  16   | Um, Kořist, Za jedno s přírodou, Přítel divočiny, Samotář nebo Věrný společník |
-|   2    | +1k8+Výdrž |  +2   |  +1  |  15   |                            Talent                            |
-|   3    | +1k8+Výdrž |  +2   |  +1  |  14   |                      +1 Dovednostní bod                      |
-|   4    | +1k8+Výdrž |  +4   |  +2  |  13   |                      Přírodní medicína                       |
-|   5    | +1k8+Výdrž |  +4   |  +2  |  12   |                            Talent                            |
-|   6    | +1k8+Výdrž |  +5   |  +2  |  11   |                      +1 Dovednostní bod                      |
-|   7    | +1k8+Výdrž |  +6   |  +3  |  10   |                    Mistrovská ostražitost                    |
-|   8    | +1k8+Výdrž |  +7   |  +3  |   9   |                            Talent                            |
-|   9    | +1k8+Výdrž |  +7   |  +3  |   8   |                      +1 Dovednostní bod                      |
-|   10   | +1k8+Výdrž |  +9   |  +4  |   7   |                        Smrtící střela                        |
-|  11+   |     +2     |  +9   |  +4  |   7   |              Talent (a každou další 3. úroveň)               |
+| ÚROVEŇ |     HP     | Mod.Zásahu |  Um  | Z.Hod |                           Odemyká                            |
+| :----: | :--------: | :--------: | :--: | :---: | :----------------------------------------------------------: |
+|   1    |  8+Výdrž   |     +1     |  +1  |  16   | Um, Kořist, Za jedno s přírodou, Přítel divočiny, Samotář nebo Věrný společník |
+|   2    | +1k8+Výdrž |     +2     |  +1  |  15   |                            Talent                            |
+|   3    | +1k8+Výdrž |     +2     |  +1  |  14   |                      +1 Dovednostní bod                      |
+|   4    | +1k8+Výdrž |     +4     |  +2  |  13   |                      Přírodní medicína                       |
+|   5    | +1k8+Výdrž |     +4     |  +2  |  12   |                            Talent                            |
+|   6    | +1k8+Výdrž |     +5     |  +2  |  11   |                      +1 Dovednostní bod                      |
+|   7    | +1k8+Výdrž |     +6     |  +3  |  10   |                    Mistrovská ostražitost                    |
+|   8    | +1k8+Výdrž |     +7     |  +3  |   9   |                            Talent                            |
+|   9    | +1k8+Výdrž |     +7     |  +3  |   8   |                      +1 Dovednostní bod                      |
+|   10   | +1k8+Výdrž |     +9     |  +4  |   7   |                        Smrtící střela                        |
+|  11+   |     +2     |     +9     |  +4  |   7   |              Talent (a každou další 3. úroveň)               |
 
 ## Schopnosti povolání
 
