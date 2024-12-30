@@ -14,7 +14,7 @@
 
 | ÚROVEŇ |     HP     | Mod.Zásahu |  Um  | Z.Hod |                           Odemyká                            |
 | :----: | :--------: | :--------: | :--: | :---: | :----------------------------------------------------------: |
-|   1    |  8+Výdrž   |     +1     |  +1  |  16   | Um, Kořist, Za jedno s přírodou, Přítel divočiny, Samotář nebo Věrný společník |
+|   1    |  8+Výdrž   |     +1     |  +1  |  16   | Um, Kořist, Za jedno s přírodou, Samotář nebo Věrný společník, Talent |
 |   2    | +1k8+Výdrž |     +2     |  +1  |  15   |                            Talent                            |
 |   3    | +1k8+Výdrž |     +2     |  +1  |  14   |                      +1 Dovednostní bod                      |
 |   4    | +1k8+Výdrž |     +4     |  +2  |  13   |                      Přírodní medicína                       |
@@ -53,13 +53,11 @@ Hraničář může jako *strategickou akci* označit *1 stvoření*, které vid�
 
 Hraničář se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se hraničář nachází v divočině s dostatečným množství zvířat a poživatelných rostlin, nepotřebuje on a ani jeho zvířecí společník *zásoby* (neplatí v kobkách). Hraničář se navíc může zbavit vyčerpání i mimo bezpečí civilizace.
 
-### Přítel divočiny
-
-Hraničářova *osobnost* je považována za *+2* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
+- **Přítel divočiny:** Hraničářova *osobnost* je považována za *+2* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
 
 ### Samotář (nebo Věrný společník)
 
-Někteří hraničáři preferují nevyužívat zvířata k boji a radši se spoléhají jen na své schopnosti. Hraničář, který si vabere cestu hraničáře obdrží větší kostku života (*k10*) a na první úrovni získává extra *talent*. 
+Někteří hraničáři preferují nevyužívat zvířata k boji a radši se spoléhají jen na své schopnosti. Hraničář, který si vabere cestu samotáře obdrží větší kostku života (*k10*).
 
 ### Věrný společník (nebo Samotář)
 

@@ -6,7 +6,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-*==todo rewrite?==Akolyty jsou oddaní služebníci svého mocného patrona, kterému na základě vzájemného paktu slouží. Patronem může být jakékoliv mocné stvoření přes vílu až po démona. Život akolyty je věčné zápolení s neviditelnými pouty patrona a balancování a hranici vlastní svobody a loajality k patronovi. Svoboda je sice důležitá ale často trestána. Zato loajalita je odměněna mocnými dary. Povolání akolyty je vhodné pro kohokoliv kdo hledá velkou moc a nebojí se pro ni upsat třeba i ďáblu.*
+*Akolyty jsou oddaní služebníci svého mocného patrona, kterému na základě vzájemného paktu slouží. Patronem může být jakékoliv mocné stvoření přes vílu až po démona. Život akolyty je věčné zápolení s neviditelnými pouty patrona a balancování a hranici vlastní svobody a loajality k patronovi. Svoboda je sice důležitá ale často trestána. Zato loajalita je odměněna mocnými dary. Povolání akolyty je vhodné pro kohokoliv kdo hledá velkou moc a nebojí se pro ni upsat třeba i ďáblu.*
 
 <img src="/assets/sep_line.png"/>
 
@@ -14,16 +14,16 @@
 
 | ÚROVEŇ |     HP     |    Přízeň     | Mod.Zásahu |  Um  | Z.Hod |                   Odemyká                    |
 | :----: | :--------: | :-----------: | :--------: | :--: | :---: | :------------------------------------------: |
-|   1    |  6+Výdrž   |  8+Osobnost   |     +0     |  +1  |  16   |                   Um, asd                    |
+|   1    |  6+Výdrž   |  8+Osobnost   |     +0     |  +1  |  16   |     Um, Patron, Patronská magie, Podpora     |
 |   2    | +1k6+Výdrž | +1k8+Osobnost |     +1     |  +1  |  15   |              Talent, +1 Kouzlo               |
 |   3    | +1k6+Výdrž | +1k8+Osobnost |     +1     |  +1  |  14   |        +1 Dovednostní bod, +1 Kouzlo         |
-|   4    | +1k6+Výdrž | +1k8+Osobnost |     +2     |  +2  |  13   |                asd, +1 Kouzlo                |
+|   4    | +1k6+Výdrž | +1k8+Osobnost |     +2     |  +2  |  13   |              Spojení, +1 Kouzlo              |
 |   5    | +1k6+Výdrž | +1k8+Osobnost |     +2     |  +2  |  12   |              Talent, +1 Kouzlo               |
 |   6    | +1k6+Výdrž | +1k8+Osobnost |     +3     |  +2  |  11   |        +1 Dovednostní bod, +1 Kouzlo         |
-|   7    | +1k6+Výdrž | +1k8+Osobnost |     +3     |  +3  |  10   |                asd, +1 Kouzlo                |
+|   7    | +1k6+Výdrž | +1k8+Osobnost |     +3     |  +3  |  10   |          Zázračný rituál, +1 Kouzlo          |
 |   8    | +1k6+Výdrž | +1k8+Osobnost |     +4     |  +3  |   9   |              Talent, +1 Kouzlo               |
 |   9    | +1k6+Výdrž | +1k8+Osobnost |     +4     |  +3  |   8   |        +1 Dovednostní bod, +1 Kouzlo         |
-|   10   | +1k6+Výdrž | +1k8+Osobnost |     +5     |  +4  |   7   |                asd, +1 Kouzlo                |
+|   10   | +1k6+Výdrž | +1k8+Osobnost |     +5     |  +4  |   7   |           Nedotknutelný, +1 Kouzlo           |
 |  11+   |     +1     |      +2       |     +5     |  +4  |   7   | Talent (a každou další 3. úroveň), +1 Kouzlo |
 
 ## Tabulka reakcí patrona
@@ -45,7 +45,9 @@ Ověření reakce patrona funguje stejně jako *ověření Osobnosti* avšak vý
 
 **Trénovaná brnění:** Žádné
 
-**Bonusy k záchranným hodům:** +1 Vůle a +2 Zdatnost
+**Bonusy k záchranným hodům:** +2 Zdatnost a +1 Vůle
+
+**Extra výbava:** Symbol patrona (L slot)
 
 ### Um ==todo: reowrd pro akolytu==
 
@@ -64,15 +66,11 @@ Každá akolyta musí mít svého patrona, který ji poskytuje svou moc. V prvn�
 Akolyta disponuje schopností používat magii spadající do disciplíny *dle svého patrona*. To znamená, že akolyta umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a získávat a sesílat vlastní kouzla, z magické disciplíny svého patrona.
 
 - **Přízeň:** Akolyta disponuje magickou energií zvanou přízeň. Za tu může sesílat svá kouzla. Přízeň se doplňuje přirozenou regenerací, podobně jako životy. Akolytina nadpřirozená regenerace je poskytována jejím patronem.
-- **Kouzla:** Akolyta začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze seznamu kouzel poskytnutém jejím patronem ==todo odkaz==. Pokaždé když získá novou úroveň nebo se jí zvýší dovednost vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Akolyta nemůže umět více kouzel než je její *úroveň+Vzdělání* (max. 10+Vzdělání).
+- **Kouzla:** Akolyta začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze seznamu kouzel poskytnutého jejím patronem ==todo odkaz==. Pokaždé když získá novou úroveň nebo se jí zvýší dovednost vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Akolyta nemůže umět více kouzel než je její *úroveň+Vzdělání* (max. 10+Vzdělání).
 - **Výměna kouzel:** Jelikož akolyta získává svou moc od svého patrona, může při každém přenocování, kdy je v přízni patrona, požádat patrona o výměnu 1-ho ze svých ovládaných kouzel za jiné ze svého seznamu kouzel nebo jiné dostupné kouzlo ze své disciplíny. Zda jí bude vyhověno je rozhodnuto na základě *ověření reakce patrona* (jiný výsledek než ne).
 - **Symbol Patrona:** Při sesílání svých kouzel se musí akolyta rukou dotýkat svého symbolu patrona.
 - **Posílení kouzel:** Akolyta může bez přímého požehnání patrona sesílat jen *základní formy svých kouzel*. Pro seslání posílených verzí musí při každém takovém čarování podstoupit *ověření reakce patrona*. Pokud akolyta neuspěje kouzlo se nesešle.
 - **Přenosná zodpovědnost:** Akolyta zodpovídá za dodržování přikázání a zákazů svého patrona i těmi, kteří aktivně nebo dlouhodobě benefitují z magické moci akolyty.
-
-### Ochranná ruka patrona
-
-Patron drží nad svou akolytou ochranou ruku. To jí dává stavový bonus *+2* do OČ.
 
 ### Podpora
 
@@ -129,3 +127,7 @@ Pokaždé když akolyta obdrží dle tabulky postupu talent. Může si vybrat bu
 - léčitel (akolyta s mystickým nebo živelným seznamem kouzel) o kostku vyšší léčení
 - familiar 
 - warlock (some blast magic pro koultní nebo praktickou magii)
+
+### Ochranná ruka patrona
+
+Patron drží nad svou akolytou ochranou ruku. To jí dává stavový bonus *+2* do OČ.

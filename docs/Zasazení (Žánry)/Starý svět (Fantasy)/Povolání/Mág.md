@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     |     Magie     | Mod.Zásahu |  Um  | Z.Hod |                           Odemyká                            |
-| :----: | :--------: | :-----------: | :--------: | :--: | :---: | :----------------------------------------------------------: |
-|   1    |  6+Výdrž   |  10+Rozvaha   |     +0     |  +1  |  16   | Um, Praktická magie, Magická jistota, Magická střela, Krystalizovaná magie |
-|   2    | +1k6+Výdrž | +1k10+Rozvaha |     +1     |  +1  |  15   |                      Talent, +1 Kouzlo                       |
-|   3    | +1k6+Výdrž | +1k10+Rozvaha |     +1     |  +1  |  14   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   4    | +1k6+Výdrž | +1k10+Rozvaha |     +2     |  +2  |  13   |                Improvizovaná magie, +1 Kouzlo                |
-|   5    | +1k6+Výdrž | +1k10+Rozvaha |     +2     |  +2  |  12   |                      Talent, +1 Kouzlo                       |
-|   6    | +1k6+Výdrž | +1k10+Rozvaha |     +3     |  +2  |  11   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   7    | +1k6+Výdrž | +1k10+Rozvaha |     +3     |  +3  |  10   |                  Nebezpečný dluh, +1 Kouzlo                  |
-|   8    | +1k6+Výdrž | +1k10+Rozvaha |     +4     |  +3  |   9   |                      Talent, +1 Kouzlo                       |
-|   9    | +1k6+Výdrž | +1k10+Rozvaha |     +4     |  +3  |   8   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   10   | +1k6+Výdrž | +1k10+Rozvaha |     +5     |  +4  |   7   |                   Proti-kouzlo, +1 Kouzlo                    |
-|  11+   |     +1     |      +3       |     +5     |  +4  |   7   |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
+| ÚROVEŇ |     HP     |     Magie     | Mod.Zásahu |  Um  | Z.Hod |                          Odemyká                          |
+| :----: | :--------: | :-----------: | :--------: | :--: | :---: | :-------------------------------------------------------: |
+|   1    |  6+Výdrž   |  10+Rozvaha   |     +0     |  +1  |  16   | Um, Praktická magie, Magická střela, Krystalizovaná magie |
+|   2    | +1k6+Výdrž | +1k10+Rozvaha |     +1     |  +1  |  15   |                     Talent, +1 Kouzlo                     |
+|   3    | +1k6+Výdrž | +1k10+Rozvaha |     +1     |  +1  |  14   |               +1 Dovednostní bod, +1 Kouzlo               |
+|   4    | +1k6+Výdrž | +1k10+Rozvaha |     +2     |  +2  |  13   |              Improvizovaná magie, +1 Kouzlo               |
+|   5    | +1k6+Výdrž | +1k10+Rozvaha |     +2     |  +2  |  12   |                     Talent, +1 Kouzlo                     |
+|   6    | +1k6+Výdrž | +1k10+Rozvaha |     +3     |  +2  |  11   |               +1 Dovednostní bod, +1 Kouzlo               |
+|   7    | +1k6+Výdrž | +1k10+Rozvaha |     +3     |  +3  |  10   |                Nebezpečný dluh, +1 Kouzlo                 |
+|   8    | +1k6+Výdrž | +1k10+Rozvaha |     +4     |  +3  |   9   |                     Talent, +1 Kouzlo                     |
+|   9    | +1k6+Výdrž | +1k10+Rozvaha |     +4     |  +3  |   8   |               +1 Dovednostní bod, +1 Kouzlo               |
+|   10   | +1k6+Výdrž | +1k10+Rozvaha |     +5     |  +4  |   7   |                  Proti-kouzlo, +1 Kouzlo                  |
+|  11+   |     +1     |      +3       |     +5     |  +4  |   7   |       Talent (a každou další 3. úroveň), +1 Kouzlo        |
 
 ## Schopnosti povolání
 
@@ -49,10 +49,6 @@ Mág disponuje schopností používat magii spadající do disciplíny *praktick
 - **Učení se kouzel navíc:** Mág se může naučit další kouzla od různých mentorů, studováním magických svitků či dešifrování cizích grimoárů nebo magickým výzkumem.
 - **Magický výzkum:** Ve volné chvíli se mág může zabývat magickým výzkumem. Mágové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků) nebo podobných efektů. Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
 - **Jednoduchá kouzla:** Mág může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. Může se jednat o věci jako jsou: drobné vizuální efekty, slabá telekineze, přihřátí čaje, očištění předmětu či změna jeho barvy. Efektivně by však nemělo použití takového kouzla vézt k řešení nějakého problému.
-
-### Magická jistota
-
-Pokud mág sesílá kouzlo, jehož některé efekty jsou určeny hodem kostkou (např. poškození, léčení, trvání atd.). Může jako *volnou akci* tyto kostky přehodit a vzít si lepší výsledek. Mág může za den přehodit tolik *jednotlivých kostek*, *kolik je jeho úroveň*.
 
 ### Magická střela
 

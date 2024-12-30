@@ -8,79 +8,79 @@
 
 <img src="/assets/sep_line.png"/>
 
-*Světlonoši jsou svatí bojovníci církve, jejichž hlavním údělem je bojovat proti temným silám. Světlonoši mají naprostou svobodu ve svém konání, pokud neudělají nic co by poskvrnilo dobré jméno církve. Tento jednoduchý mandát jim dává velkou svobodu a to z nich dělá naprosto ideální dobrodruhy. Se světlonoši se lze často setkat poblíž neprozkoumaných divočin a malých vesnic, kde pomáhají s místními problémy a lovením nestvůr. Navzdory nelibosti šlechty, bývají často světlonoši považování v těchto lokalitách za autoritu, která může rozsoudit sousedské spory. Dle zákona však světlonoši žádnou takovou autoritu nemají. Přijde-li na boj světlonoši často používají těžké zbroje, štíty a  různé formy palic. Tyto nástroje doplňují svými svatými schopnostmi, které pomáhají především při bojích proti démonům a nemrtvím. Povolání světlonoše je vhodné pro kohokoliv, kdo chce do světa přivést trochu více dobra.*
+*==todo rewrite==Světlonoši jsou svatí bojovníci církve, jejichž hlavním údělem je bojovat proti temným silám. Světlonoši mají naprostou svobodu ve svém konání, pokud neudělají nic co by poskvrnilo dobré jméno církve. Tento jednoduchý mandát jim dává velkou svobodu a to z nich dělá naprosto ideální dobrodruhy. Se světlonoši se lze často setkat poblíž neprozkoumaných divočin a malých vesnic, kde pomáhají s místními problémy a lovením nestvůr. Navzdory nelibosti šlechty, bývají často světlonoši považování v těchto lokalitách za autoritu, která může rozsoudit sousedské spory. Dle zákona však světlonoši žádnou takovou autoritu nemají. Přijde-li na boj světlonoši často používají těžké zbroje, štíty a  různé formy palic. Tyto nástroje doplňují svými svatými schopnostmi, které pomáhají především při bojích proti démonům a nemrtvím. Povolání světlonoše je vhodné pro kohokoliv, kdo chce do světa přivést trochu více dobra.*
 
 <img src="/assets/sep_line.png"/>
 
 ## Tabulka postupu
 
-| ÚROVEŇ |       HP        | Bonus k zásahu | Z.Hod |
-| :----: | :-------------: | :------------: | :---: |
-|   1    | 2+1k6+MOD Výdrž |       +0       |  16   |
-|   2    | +1k6+MOD Výdrž  |       +1       |  15   |
-|   3    | +1k6+MOD Výdrž  |       +2       |  14   |
-|   4    | +1k6+MOD Výdrž  |       +2       |  13   |
-|   5    | +1k6+MOD Výdrž  |       +3       |  12   |
-|   6    | +1k6+MOD Výdrž  |       +4       |  11   |
-|   7    | +1k6+MOD Výdrž  |       +4       |  10   |
-|   8    | +1k6+MOD Výdrž  |       +5       |   9   |
-|   9    | +1k6+MOD Výdrž  |       +6       |   8   |
+| ÚROVEŇ |     HP     |    Magie     | Mod.Zásahu |  Um  | Z.Hod |                   Odemyká                    |
+| :----: | :--------: | :----------: | :--------: | :--: | :---: | :------------------------------------------: |
+|   1    |  8+Výdrž   |  6+Rozvaha   |     +0     |  +1  |  16   |                   Um, asd                    |
+|   2    | +1k8+Výdrž | +1k6+Rozvaha |     +1     |  +1  |  15   |              Talent, +1 Kouzlo               |
+|   3    | +1k8+Výdrž | +1k6+Rozvaha |     +1     |  +1  |  14   |        +1 Dovednostní bod, +1 Kouzlo         |
+|   4    | +1k8+Výdrž | +1k6+Rozvaha |     +3     |  +2  |  13   |                asd, +1 Kouzlo                |
+|   5    | +1k8+Výdrž | +1k6+Rozvaha |     +3     |  +2  |  12   |              Talent, +1 Kouzlo               |
+|   6    | +1k8+Výdrž | +1k6+Rozvaha |     +4     |  +2  |  11   |        +1 Dovednostní bod, +1 Kouzlo         |
+|   7    | +1k8+Výdrž | +1k6+Rozvaha |     +4     |  +3  |  10   |                asd, +1 Kouzlo                |
+|   8    | +1k8+Výdrž | +1k6+Rozvaha |     +5     |  +3  |   9   |              Talent, +1 Kouzlo               |
+|   9    | +1k8+Výdrž | +1k6+Rozvaha |     +5     |  +3  |   8   |        +1 Dovednostní bod, +1 Kouzlo         |
+|   10   | +1k8+Výdrž | +1k6+Rozvaha |     +7     |  +4  |   7   |                asd, +1 Kouzlo                |
+|  11+   |     +2     |      +1      |     +7     |  +4  |   7   | Talent (a každou další 3. úroveň), +1 Kouzlo |
 
 ## Schopnosti povolání
 
-**Trénované zbraně:** Všechny lehké a střední zbraně
+**Trénované zbraně:** Všechny
 
 **Trénovaná brnění:** Všechny včetně štítů
 
-**Bonus k záchraně:** +2 proti síle a ovlivnění mysli
+**Bonusy k záchranným hodům:** +1 Zdatnost, +1 Reflexy a +1 Vůle
 
-**Extra výbava:** Symbol církve (L slotů)
+### Um
 
-### Schopnosti světlonoše
+==todo přepsat pro ochránce==Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro bojovníka je to převážně boj, avšak určitě se najdou i jiné věci, ve kterých by mohl vynikat. Jako jsou odhadování humanoidních soupeřů, posouzení kvality zbraní, zbrojí či koní, ukázky síly. Prostě cokoliv, nesouvisícího s bojem, co ti dává smysl, že by tvá postava měla jako bojovník umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by bojovník měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
 
-Světlonoš disponuje sadou schopností, které získal za oddanost své církvi. Na první úrovni umí světlonoš každou z těchto schopností vykonávat s *HU 6*. Dále však může investovat *body specializace* a tím *snížit HU o 1* až na minimální *HU 2*.
+- **Hybridní specializace:** Polovina tvého umu se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
 
-- **Úroveň 1:** Světlonoš začíná hru se *4-mi body specializace*, které si může rozdělit do svých schopností dle svého uvážení.
-- **Další úrovně:** Každou další úroveň obdrží Světlonoš další *2 body specializace*.
-- **Dosah:** Vzhledem k tomu, že jsou všechny světlonošovi schopnosti magického rázu, mají tyto schopnosti dosah až *9 metrů*.
+### Přísaha
 
-#### Odvrať zlo
+asd
 
-Světlonoš se pokusí zahnat nemrtvé nebo démony v dosahu. O použití této schopnosti se lze pokusit *1x za směnu*.
+### Magie ochránců
 
-- **Počet cílů:** Ovlivní *2k6* úrovní nemrtvých nebo démonů, jejichž úroveň není vyšší než *úroveň světlonoše+2*. Výběr je náhodný a od nejslabší skupiny.
-- **Míšené skupiny:** Je-li schopnost použita na míšenou skupinu nemrtvých nebo démonů (například kostlivci a ghůlové). První je ovlivněna ta slabší skupina. Pokud bylo odvrácení úspěšné. Světlonoš se může pokusit o odvrácení silnější skupiny hned další kolo. Takhle lze schopnost, v případě úspěchu, opakovat za každý typ, který je přítomný.
-- **Mocní nemrtví:** Výjimeční nemrtví nebo démoni mohou uvalovat postih na provedení této schopnosti.
-- **Zahnání:** Ovlivněná stvoření ihned opustí oblast (pokud je to možné), světlonoši neublíží a budou se mu vyhýbat podobu *1 směny*.
+asd
 
-#### Povzbuď
+### Záchrana štítem
 
-Světlonoš se pokusí zahnat strach ve spojencích v dosahu. Zruší všechny efekty strachu a neúspěšná ověření morálky. O použití této schopnosti se lze pokusit *1x za směnu*.
+asd (reakce jako block i za spojence)
 
-#### Požehnej
+### Život na dlani
 
-Světlonoš se může pokusit přidat bonus *+1* k zásahu a poškození, sobě a všem spojencům v dosahu, po dobu tolika kol kolik je úroveň světlonoše. O použití této schopnosti se lze pokusit *1x za směnu*.
+Přístup k léčení a možnost seslat základní léčení jako strategickou akci.
 
-#### Sugesce
+### "Mystický spojenec" nebo "Smite" (Úroveň 4)
 
-Světlonoš se pokusí rozkázat stvořením v dosahu a jeho slova naberou magickou moc. O použití této schopnosti se lze pokusit *1x za směnu*.
+Zbraň nebo štít (vždy +1) i v kombinaci s ostatními magickými bonusy.
 
-- **Počet cílů:** Schopnost ovlivní tolik stvoření, dle světlonošova výběru, jejichž součet úrovní není vyšší než úroveň světlonoše.
-- **Ovlivnění:** Zasažená stvoření podstoupí *záchranný hod proti ovlivnění mysli* a pokud selžou budou se řídit příkazem po dobu tolika kol kolik je úroveň světlonoše. Po skončení efektu si stvoření jsou vědoma, že byla manipulována.
+### Revitalizace (Úroveň 7)
 
-#### Vyciť magii
+sešli léčení za dvojnásobek ceny, buď double heal a nebo heal + odstranění dočasného postihu.
 
-Světlonoš se pokusí *1 směnu* koncentrovat a vycítit magické vibrace v předmětu, stvoření či místě.
+### Nevyhnutelný (Úroveň 10)
 
-- **Požadavky:** Světlonoš se musí dotýkat analyzovaného subjektu podobu *1 směny* a nebýt u toho rušen.
-- **Opakování:** Světlonoš může tuto schopnost opakovat kolikrát chce. Avšak každé opakování zabere *1 směnu* soustředění.
-- **Tajný hod:** Na úspěch háže PJ
-- **Automatický úspěch:** Má-li světlonoš čas na hodinovou nerušenou meditaci se subjektem, automaticky uspěje.
-
-### Léčení
-
-Světlonoš může, tolikrát denně kolik je jeho úroveň, *dotykem* vyléčit *1k4* životů.
-
-- **Sesílání:** Sesílání probíhá jako *akce* a lze spojit několik použití do jednoho seslání. Například na 3. úrovni vyléčit dotykem 3k4 životů. 
+Tvé akce a kouzla nemohou být přerušena nepřáteli.
 
 <img src="/assets/sep_line.png"/>
+
+## Talenty ==todo seřadit dle abecedy==
+
+Pokaždé když ochránce obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro ochránce níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
+
+<img src="/assets/sep_line.png"/>
+
+- Nějké aurory (viz wow paladin)
+- Odplata (útok jako reakce na zranění spojence)
+- Magická energie v části výzbroje
+- Trénink ze zbraní
+- smite (divnie smite 5e)
+- Oddaný kůň

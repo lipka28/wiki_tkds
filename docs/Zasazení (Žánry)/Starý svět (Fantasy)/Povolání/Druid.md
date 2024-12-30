@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     |    Magie     | mod.Zásahu |  Um  | Z.Hod |                           Odemyká                            |
-| :----: | :--------: | :----------: | :--------: | :--: | :---: | :----------------------------------------------------------: |
-|   1    |  6+Výdrž   |  8+Rozvaha   |     +0     |  +1  |  16   | Um, Cyklus života, Živelná magie, Za jedno s přírodou, Přítel divočiny |
-|   2    | +1k6+Výdrž | +1k8+Rozvaha |     +1     |  +1  |  15   |                      Talent, +1 Kouzlo                       |
-|   3    | +1k6+Výdrž | +1k8+Rozvaha |     +1     |  +1  |  14   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   4    | +1k6+Výdrž | +1k8+Rozvaha |     +2     |  +2  |  13   |                 Přeměna ve zvíře, +1 Kouzlo                  |
-|   5    | +1k6+Výdrž | +1k8+Rozvaha |     +2     |  +2  |  12   |                      Talent, +1 Kouzlo                       |
-|   6    | +1k6+Výdrž | +1k8+Rozvaha |     +3     |  +2  |  11   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   7    | +1k6+Výdrž | +1k8+Rozvaha |     +3     |  +3  |  10   |                  Živelná afinita, +1 Kouzlo                  |
-|   8    | +1k6+Výdrž | +1k8+Rozvaha |     +4     |  +3  |   9   |                      Talent, +1 Kouzlo                       |
-|   9    | +1k6+Výdrž | +1k8+Rozvaha |     +4     |  +3  |   8   |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   10   | +1k6+Výdrž | +1k8+Rozvaha |     +5     |  +4  |   7   |                Kombinovaná přeměna, +1 Kouzlo                |
-|  11+   |     +1     |      +2      |     +5     |  +4  |   7   |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
+| ÚROVEŇ |     HP     |    Magie     | mod.Zásahu |  Um  | Z.Hod |                        Odemyká                        |
+| :----: | :--------: | :----------: | :--------: | :--: | :---: | :---------------------------------------------------: |
+|   1    |  6+Výdrž   |  8+Rozvaha   |     +0     |  +1  |  16   | Um, Cyklus života, Živelná magie, Za jedno s přírodou |
+|   2    | +1k6+Výdrž | +1k8+Rozvaha |     +1     |  +1  |  15   |                   Talent, +1 Kouzlo                   |
+|   3    | +1k6+Výdrž | +1k8+Rozvaha |     +1     |  +1  |  14   |             +1 Dovednostní bod, +1 Kouzlo             |
+|   4    | +1k6+Výdrž | +1k8+Rozvaha |     +2     |  +2  |  13   |              Přeměna ve zvíře, +1 Kouzlo              |
+|   5    | +1k6+Výdrž | +1k8+Rozvaha |     +2     |  +2  |  12   |                   Talent, +1 Kouzlo                   |
+|   6    | +1k6+Výdrž | +1k8+Rozvaha |     +3     |  +2  |  11   |             +1 Dovednostní bod, +1 Kouzlo             |
+|   7    | +1k6+Výdrž | +1k8+Rozvaha |     +3     |  +3  |  10   |              Živelná afinita, +1 Kouzlo               |
+|   8    | +1k6+Výdrž | +1k8+Rozvaha |     +4     |  +3  |   9   |                   Talent, +1 Kouzlo                   |
+|   9    | +1k6+Výdrž | +1k8+Rozvaha |     +4     |  +3  |   8   |             +1 Dovednostní bod, +1 Kouzlo             |
+|   10   | +1k6+Výdrž | +1k8+Rozvaha |     +5     |  +4  |   7   |            Kombinovaná přeměna, +1 Kouzlo             |
+|  11+   |     +1     |      +2      |     +5     |  +4  |   7   |     Talent (a každou další 3. úroveň), +1 Kouzlo      |
 
 ## Schopnosti povolání
 
@@ -63,9 +63,7 @@ Druid disponuje schopností používat magii spadající do disciplíny *živeln
 
 Druid se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se druid nachází v divočině s dostatečným množství zvířat a poživatelných rostlin, nepotřebuje *zásoby* (neplatí v kobkách). Druid se navíc může zbavit vyčerpání i mimo bezpečí civilizace.
 
-### Přítel divočiny
-
-Druidova *osobnost* je považována za *+2* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
+- **Přítel divočiny:** Druidova *osobnost* je považována za *+2* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
 
 ### Přeměna ve zvíře (úroveň 4)
 

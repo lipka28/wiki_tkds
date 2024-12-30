@@ -116,7 +116,7 @@ Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat 
 
 <img src="/assets/sep_line.png"/>
 
-### Štítová zeď ==todo předělat s předměty==
+### Blokování štítem ==todo předělat s předměty==
 
 **Požadavek:** -
 
