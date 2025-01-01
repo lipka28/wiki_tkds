@@ -49,7 +49,7 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 - **Odvolání** - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal (pokud nebylo odraženo nebo se jeho sesílání nějak nepokazilo).
 - **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje ale pouze jedno kouzlo vyžadující koncentraci může být aktivní v jednu chvíli. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí.
 - **Přerušení kouzla** - Pokud čaroděj obdrží poškození během sesílání kouzla nebo koncentrace, musí uspět v *záchranném hodu na zdatnost* jinak je kouzlo či koncentrace ztracena. Pokud k přerušení dojde vy chvíli, kdy kouzelník udržuje koncentraci a zároveň sesílá kouzlo. Musí podstoupit záchranný hod za každou s aktivit.
-- **Záchranný hod** - Cíl naprosté většiny kouzel může podstoupit relevantní *záchranný hod* a tím se vyvarovat jeho efektu (a obdržet bod *bojové únavy* ==todo: odkaz==). U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě. Hod *přirozených 20* znamená, že můžeš efekt kouzla kompletně ignorovat. Hod *přirozených 1* znamená, že ti kouzlo uděluje plné poškození nebo má plné trvání.
+- **Záchranný hod** - Cíl naprosté většiny kouzel může podstoupit relevantní *záchranný hod* a tím se vyvarovat jeho efektu (a obdržet bod *bojové únavy* ==todo: odkaz==). U kouzel působící poškození, pak zredukovat obdržené poškození na polovinu. Záchranné hody se také dají dobrovolně selhat. Na záchranný hod má cíl nárok i v případě, že je cílem kouzla předmět v jeho výbavě. Hod *přirozených 20* znamená vždy úspěch a hod *přirozených 1* znamená vždy neúspěch.
 - **Hod na zásah dotykem:** Je speciální varianta hodu na zásah, která se může používat k sesílání některých kouzel. Funguje jako obyčejný neozbrojený hod na zásah modifikovaný *Obratností* na místo Síly. Cílem je pak trefit základní OČ soupeře (*10+Obratnost*). Bonusy za zbroje, štíty a podobnou výbavu se nepřičítají. PJ může dle vlastního uvážení však přičítat bonusy za ochranná kozla nebo schopnosti pomáhající v uhýbání.
 - **Maximální poškození** - Kouzlo může udělit na nejvýš *20* kostek poškození najednou.
 - **Kombinace efektů** - Více souběžných kouzel, nemůže být použito k ovlivnění toho samého atributu (Síla, Obratnost, OČ, Životy a podobně...) avšak protichůdná kouzla se mohou vzájemně vyrušit.
@@ -428,6 +428,8 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 **Dosah:** *10* metrů; **Cíl:** *1* živý cíl
 
 **Efekt:** Paprsek smrtelné energie zasáhne cíl a způsobí tolik negativního poškození, kolik bylo použito magie pro vyvolání tohoto kouzla *x2*. Zasažený cíl může úspěšným *záchranným hodem na zdatnost* zredukovat obdržené poškození na polovinu. Pokud je cíl tímto kouzlem zredukován na 0 životů, okamžitě umírá.
+
+- **Přeživší:** Pokud cíl přežije zásah tímto kouzlem, tak je po zbytek dne imunní vůči tomuto kouzlu.
 
 **Posílení:**
 

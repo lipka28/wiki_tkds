@@ -15,7 +15,7 @@
 | *2. Ostatní strany jsou na řadě*                             |
 | *3. Zpět na krok 2 dokud není souboj ukončen.*               |
 
-**Taste zbraně!:** Každá strana hodí *1k20*, strana s nejvyšším hodem začíná (remíza jde ve prospěch hráčů) a ostatní strany se seřadí do iniciativy dle výše jejich hodů.
+**Taste zbraně!:** Každý účastník boje hodí *1k20+Rozvaha* (monstra většinou jen 1k20) a na základě svých hodů se seřadí do iniciativy. Pokud vznikla remíza mezi hráčem a nepřítelem, nepřítel má přednost. Stvoření se stejnou hodnotou iniciativy v rámci jedné skupiny, mohou hrát v libovolném pořadí si určí.
 
 **Ověření morálky:** Stvoření mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se vzdát nebo dát na útěk. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti.
 
@@ -26,7 +26,7 @@
 
 - <img src="/assets/action.png" width="20"> *Akce:* Za akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzla, použití předmětu či významná obměna výzbroje (změna držených zbraní). Akci lze také použít pro provedení aktivity vyžadující strategickou akci.
 - <img src="/assets/saction.png" width="20"> *Strategická akce:* Za strategickou akci je považován převážně pohyb. Postavy a monstra však mají spoustu schopností, které lze aktivovat jako strategickou akci. Co se pohybu týče, stvoření se může pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Alternativně se dá použít celý pohyb k posílení některých kouzel.
-- <img src="/assets/reaction.png" width="15"> *Reakce:* Reakce je speciální akce, která umožní provést aktivitu i mimo tah stvoření, pokud jsou splněny podmínky jejího spouštěče.
+- <img src="/assets/reaction.png" width="15"> *Reakce:* Reakce je speciální akce, která umožní provést aktivitu i mimo tah stvoření, pokud jsou splněny podmínky jejího spouštěče. Stvoření nemůže na jeden spouštěč nikdy použít více jak jednu svou reakci.
 - <img src="/assets/free.png" width="20"> *Volná akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
 
 **Příležitostné útoky a úkrok:** Ta monstra, která lze považovat za trénované bojovníky, mají často schopnost *příležitostného útoku*, které jim umožňuje zaútočit jako reakci, když stvoření v okolí provede cokoliv jiného než útok na ně. Těmto příležitostným útokům se lze vyvarovat tím, že ohrožené stvoření provede *úkrok* jako *strategickou akci* a tím se posune o *1 metr* mimo dosah nepřítele.
@@ -45,11 +45,11 @@
 
 **Dosah útoků:** Dosah útoku je dán velikostí a typem zbraně.
 
-**Cíl v úkrytu:** Cíle co jsou kompletně schované v úkrytu není možné trefit střelnou zbraní. Útok střelnou zbraní na cíl v částečném úkrytu je postižen v rozsahu *-1* až *-4*  k zásahu dle uvážení PJ. (malý stůl může být -1, zatímco hustý les může být -4)
+**Cíl v úkrytu:** Cíle co jsou kompletně schované v úkrytu není možné trefit střelnou zbraní. Cíl v částečném úkrytu má *situační bonus do OČ* v rozsahu *-1* až *-4* PJ. (malý stůl může být -1, zatímco hustý les nebo mlha může být -4)
 
-**Střelba přes spojence:** Je penalizována postihem -2 k zásahu. Větší množství spojenců v cestě může střelbu znemožnit.
+**Střelba přes spojence:** Je považováno za cíl v částečném úkrytu se *situačním bonusem +2 do OČ* cíle.
 
-**Střelba na blízko:** Střelnou zbraní nelze střílet na cíle co jsou blíže jak 2 metry. 
+**Střelba na blízko:** Střelnou zbraní nelze střílet na cíle co jsou ve vzdálenosti *1 metr* nebo blíže.
 
 <img src="/assets/sep_line.png"/>
 
@@ -64,7 +64,7 @@
 
 **NAT 1 a NAT 20:** Hod přirozené *1* je považován za neúspěch. Hod přirozené *20* je považován za kritický zásah.
 
-**Kritické zásahy:** Uděluje maximální možné poškození (Určené maximální hodnotou na kostkách poškození dané zbraně včetně bonusů).
+**Kritický zásah:** Uděluje dvojnásobné poškození.
 
 **Kritické zásahy a monstra:** Monstra mohou jako součást kritických zásahů způsobovat i speciální efekty.
 
@@ -81,7 +81,7 @@
 
 **Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna jinými nezranitelnými monstry.
 
-**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny. Pokaždé když stvoření obdrží perzistentní poškození, může podstoupit *přímý hod* s *HU 8* a tím efekt ukončit. Perzistentní poškození může být také předčasně ukončeno relevantní akci (například, když hořící stvoření skočí do vody). Více instancí perzistentního poškození stejného typu se nesčítá.
+**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny. Pokaždé když stvoření obdrží perzistentní poškození, může podstoupit *přímý hod* s *HU 16* a tím efekt ukončit. Perzistentní poškození může být také předčasně ukončeno relevantní akci (například, když hořící stvoření skočí do vody). Více instancí perzistentního poškození stejného typu se nesčítá.
 
 !!! note "Příklad: Hořící nestvůra"
     Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
@@ -96,30 +96,39 @@
 
 **Neozbrojený boj:** Uděluje *1k2+Síla* poškození. Na rozdíl od útoků zbraněmi. Neozbrojené útoky mohou udělit *0* poškození. Neozbrojené útoky běžně nejsou smrtelné.
 
-**Shození na zem:** Je-li stvoření shozeno na zem platí následující pravidla:
-
-- Všechny útoky na blízku proti shozenému stvoření probíhají se situačním bonusem *+4* na zásah. 
-- Pokud se shozené stvoření pokusí útočit větší jak jednoruční zbraní, tak jeho útoky probíhají se situačním postihem *-4* na zásah. 
-- *Postavení se zpět na nohy* sebere shozenému stvoření všechnu jeho hybnost v daném kole.
-
 **Připravená akce:** Postava nebo stvoření může obětovat svou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *reakci*.
 
 !!! Warning "Souběh akcí"
     Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
 
-**Slepota:** Slepé stvoření se pohybuje hybností 3 metry. Všechny útoky proti slepému stvoření jsou se sitaučním bonusem *+4* k zásahu. Sám na blízku útočí se situačním postihem *-4* k zásahu. Útoky na dálku nejsou možné.
-
-**Coup de grâce:** Bezmocní nepřátelé. Jako například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
+**Bojové manévry:** Každé stvoření se může jako svou *akci* pokusit o bojový manévr (věci jako zadržení, shození na zem, odstrčení atd.). Ve většině případů lze bojový manévr vyřešit *protihodem na zásah zbraní na blízku*. V některých situacích nebo u některých manévrů to však nemusí dávat smysl. Pj může alternativně využít ověření dovednosti proti HU a nebo záchranný hod.
 
 **Přemožení:** Postava si může u svého smrtícího útoku vybrat, zda chce svůj cíl zabít nebo jen zneškodnit. Zneškodněný cíl je poražen ale ne zabit. Jak se poražení projevuje je na domluvě mezi hráčem a PJ.
 
-**Nestabilní povrchy:** Pokud postavy bojují na nestabilním povrchu, jako jsou lodě na rozbouřeném moři nebo třeba když letí na hřbetu jiného stvoření. Tak jsou ovlivněni následujícími omezeními:
+<img src="/assets/sep_line.png"/>
 
-- *Útoky na dálku:* Probíhají se sitaučním postihem -4.
-- *Kouzla*: Sesílání selže s pravděpodobností 50%. ==todo: předělat na přímý hod==
-- *Předměty*: Mohou být používány normálně.
+## Seznam běžných speciálních stavů
 
-!!! note "Magické létání"
-    Magické způsoby létání, jako je létající koberec nebo kouzlo létání, není považováno za nestabilní povrch. 
+**Bezmocný:** Bezmocné stvoření *nemůže nic dělat* a je napospas okolním vlivům. Bezmoc může vypadat všelijak. Stvoření může být v bezvědomí, zmražené, zkamenělé nebo v jiném podobném stavu. Bezmocné stvoření může být okamžitě zabito adekvátní zbraní (kladivo na zkameněného, nůž na spícího člověka atd.).
+
+**Ležící na zemi:** Ležící stvoření je *zaskočené* a má situační postih -2 ke všem svým útokům. Jediné způsoby pohybu který může provést je plazení se (pohyb o 3 metry) a nebo postavit se na nohy, obojí jako *strategickou akci*. Ležící stvoření může také použít svou *strategickou akci* a ukrýt se před střelami. Tím získá *situační bonus +4* proti střelným útokům (stvoření stále zůstává zaskočené, celkový bonus je tedy pouze +2).
+
+**Neviditelný:** Přítomnost neviditelného stvoření nelze odhalit běžným zrakem. Na neviditelné stvoření také nelze cílit útoky nebo kouzla, dokud není upřesněna jeho poloha.
+
+**Oslepený:** Slepé stvoření, bez jiného smyslu, kterým by mohlo precizně vnímat okolí je *zaskočené* a má hybnost pouze 3 metry. Slepé stvoření nemůže provádět útoky na dálku a nebo jiné akce vyžadující zrak. Slepé stvoření může útočit na blízku avšak jeho útoky jsou penalizovány *stavovým postihem -4* k zásahu. 
+
+**Unavený:** Unavené stvoření má stavový postih -2 ke všem ověřovacím hodům, útokům, záchranným hodům a OČ. Navíc si při průzkumu nemůže vybrat aktivitu, kterou by chtěl provádět. Únavy se lze zbavit spánkem do dalšího dne.
+
+**Utíkající:** Utíkající stvoření utíká z boje nebo před zdrojem strachu. Efektivně všechny své akce využije k pohybu pryč.
+
+**V bezvědomí:** Stvoření v bezvědomí je *bezmocné* a po dobu trvání bezvědomí nelze probudit. Pokud je bezvědomí způsobeno spánkem. Stvoření lze probudit jednou *strategickou akcí*.
+
+**Vyděšený:** Vyděšené stvoření obdrží *stavový postih -4* ke všem svým ověřovacím hodům a hodům na zásah.
+
+**Zaskočený:** Zaskočené stvoření se nemůže plně bránit a má *situační postih -2 do OČ*. Nejběžnější způsob zaskočení je útok na nic netušící stvoření. Zaskočení většinou bývá vázáno na specifickou situaci nebo efekt. Pokud zaskočení není vázáno na žádný jiný efekt neb daný efekt vypršel, zaskočení končí na konci tahu ovlivněného stvoření.
+
+**Zatížený:** Zatížené stvoření obdrží *situační postih -2* k pohybovým aktivitám vyžadující hod na ověření (Jako je třeba šplh, přeskakování překážek a jiné).
+
+**Znehybněný:** Znehybněné stvoření má *hybnost 0* a je *zaskočené*.
 
 <img src="/assets/sep_line.png"/>

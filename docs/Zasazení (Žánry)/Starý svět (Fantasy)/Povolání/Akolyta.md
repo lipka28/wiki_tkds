@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     |    Přízeň     | Mod.Zásahu |  Um  | Z.Hod |                   Odemyká                    |
-| :----: | :--------: | :-----------: | :--------: | :--: | :---: | :------------------------------------------: |
-|   1    |  6+Výdrž   |  8+Osobnost   |     +0     |  +1  |  16   |     Um, Patron, Patronská magie, Podpora     |
-|   2    | +1k6+Výdrž | +1k8+Osobnost |     +1     |  +1  |  15   |              Talent, +1 Kouzlo               |
-|   3    | +1k6+Výdrž | +1k8+Osobnost |     +1     |  +1  |  14   |        +1 Dovednostní bod, +1 Kouzlo         |
-|   4    | +1k6+Výdrž | +1k8+Osobnost |     +2     |  +2  |  13   |              Spojení, +1 Kouzlo              |
-|   5    | +1k6+Výdrž | +1k8+Osobnost |     +2     |  +2  |  12   |              Talent, +1 Kouzlo               |
-|   6    | +1k6+Výdrž | +1k8+Osobnost |     +3     |  +2  |  11   |        +1 Dovednostní bod, +1 Kouzlo         |
-|   7    | +1k6+Výdrž | +1k8+Osobnost |     +3     |  +3  |  10   |          Zázračný rituál, +1 Kouzlo          |
-|   8    | +1k6+Výdrž | +1k8+Osobnost |     +4     |  +3  |   9   |              Talent, +1 Kouzlo               |
-|   9    | +1k6+Výdrž | +1k8+Osobnost |     +4     |  +3  |   8   |        +1 Dovednostní bod, +1 Kouzlo         |
-|   10   | +1k6+Výdrž | +1k8+Osobnost |     +5     |  +4  |   7   |           Nedotknutelný, +1 Kouzlo           |
-|  11+   |     +1     |      +2       |     +5     |  +4  |   7   | Talent (a každou další 3. úroveň), +1 Kouzlo |
+| ÚROVEŇ |              HP              |    Přízeň     | Mod.Zásahu |  Um  |                   Odemyká                    |
+| :----: | :--------------------------: | :-----------: | :--------: | :--: | :------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž |  8+Osobnost   |     +0     |  +1  |     Um, Patron, Patronská magie, Podpora     |
+|   2    |          +1k6+Výdrž          | +1k8+Osobnost |     +1     |  +1  |              Talent, +1 Kouzlo               |
+|   3    |          +1k6+Výdrž          | +1k8+Osobnost |     +1     |  +1  |        +1 Dovednostní bod, +1 Kouzlo         |
+|   4    |          +1k6+Výdrž          | +1k8+Osobnost |     +2     |  +2  |              Spojení, +1 Kouzlo              |
+|   5    |          +1k6+Výdrž          | +1k8+Osobnost |     +2     |  +2  |              Talent, +1 Kouzlo               |
+|   6    |          +1k6+Výdrž          | +1k8+Osobnost |     +3     |  +2  |        +1 Dovednostní bod, +1 Kouzlo         |
+|   7    |          +1k6+Výdrž          | +1k8+Osobnost |     +3     |  +3  |          Zázračný rituál, +1 Kouzlo          |
+|   8    |          +1k6+Výdrž          | +1k8+Osobnost |     +4     |  +3  |              Talent, +1 Kouzlo               |
+|   9    |          +1k6+Výdrž          | +1k8+Osobnost |     +4     |  +3  |        +1 Dovednostní bod, +1 Kouzlo         |
+|   10   |          +1k6+Výdrž          | +1k8+Osobnost |     +5     |  +4  |           Nedotknutelný, +1 Kouzlo           |
+|  11+   |              +1              |      +2       |     +5     |  +4  | Talent (a každou další 3. úroveň), +1 Kouzlo |
 
 ## Tabulka reakcí patrona
 
@@ -45,13 +45,16 @@ Ověření reakce patrona funguje stejně jako *ověření Osobnosti* avšak vý
 
 **Trénovaná brnění:** Žádné
 
-**Bonusy k záchranným hodům:** +2 Zdatnost a +1 Vůle
+**Bonusy k záchranným hodům:** +4 Zdatnost a +2 Vůle
 
 **Extra výbava:** Symbol patrona (L slot)
 
 ### Um ==todo: reowrd pro akolytu==
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro mága jsou to zaručeně věci jako vycítění a identifikace magie, magický výzkum, manipulace magických energií, luštění magických run či učení se kouzel z různých zdrojů. Mimo magii je však mág i velmi vzdělaný jedinec, který má rozsáhlé znalosti historie, světa a stvoření v nich žijících. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako mág umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by mág měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
+
+- **Magická specializace:** Tvůj um se nepřičítá k žádným tvým bojovým schopnostem.
+- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
 ### Patron
 

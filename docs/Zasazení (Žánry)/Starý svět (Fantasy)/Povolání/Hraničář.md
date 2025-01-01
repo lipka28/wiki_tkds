@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     | Mod.Zásahu |  Um  | Z.Hod |                           Odemyká                            |
-| :----: | :--------: | :--------: | :--: | :---: | :----------------------------------------------------------: |
-|   1    |  8+Výdrž   |     +1     |  +1  |  16   | Um, Kořist, Za jedno s přírodou, Samotář nebo Věrný společník, Talent |
-|   2    | +1k8+Výdrž |     +2     |  +1  |  15   |                            Talent                            |
-|   3    | +1k8+Výdrž |     +2     |  +1  |  14   |                      +1 Dovednostní bod                      |
-|   4    | +1k8+Výdrž |     +4     |  +2  |  13   |                      Přírodní medicína                       |
-|   5    | +1k8+Výdrž |     +4     |  +2  |  12   |                            Talent                            |
-|   6    | +1k8+Výdrž |     +5     |  +2  |  11   |                      +1 Dovednostní bod                      |
-|   7    | +1k8+Výdrž |     +6     |  +3  |  10   |                    Mistrovská ostražitost                    |
-|   8    | +1k8+Výdrž |     +7     |  +3  |   9   |                            Talent                            |
-|   9    | +1k8+Výdrž |     +7     |  +3  |   8   |                      +1 Dovednostní bod                      |
-|   10   | +1k8+Výdrž |     +9     |  +4  |   7   |                        Smrtící střela                        |
-|  11+   |     +2     |     +9     |  +4  |   7   |              Talent (a každou další 3. úroveň)               |
+| ÚROVEŇ |              HP              | Mod.Zásahu |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :--------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+8+Výdrž |     +1     |  +1  | Um, Kořist, Za jedno s přírodou, Samotář nebo Věrný společník, Talent |
+|   2    |          +1k8+Výdrž          |     +2     |  +1  |                            Talent                            |
+|   3    |          +1k8+Výdrž          |     +2     |  +1  |                      +1 Dovednostní bod                      |
+|   4    |          +1k8+Výdrž          |     +4     |  +2  |                      Přírodní medicína                       |
+|   5    |          +1k8+Výdrž          |     +4     |  +2  |                            Talent                            |
+|   6    |          +1k8+Výdrž          |     +5     |  +2  |                      +1 Dovednostní bod                      |
+|   7    |          +1k8+Výdrž          |     +6     |  +3  |                    Mistrovská ostražitost                    |
+|   8    |          +1k8+Výdrž          |     +7     |  +3  |                            Talent                            |
+|   9    |          +1k8+Výdrž          |     +7     |  +3  |                      +1 Dovednostní bod                      |
+|   10   |          +1k8+Výdrž          |     +9     |  +4  |                        Smrtící střela                        |
+|  11+   |              +2              |     +9     |  +4  |              Talent (a každou další 3. úroveň)               |
 
 ## Schopnosti povolání
 
@@ -34,13 +34,14 @@
 
 **Trénovaná brnění:** Lehké a střední zbroje včetně štítů
 
-**Bonusy k záchranným hodům:** +2 Reflexy a +1 Vůle
+**Bonusy k záchranným hodům:** +4 Reflexy a +2 Vůle
 
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro hraničáře jsou to věci jako stopování, stahování z kůží, identifikaci a znalosti o rostlinách, vílách a zvířatům podobných monster, příprava pastí a obecně věci spojené s přežitím v divočině. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako hraničář umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by hraničář měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
 
 - **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
+- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
 ### Kořist
 

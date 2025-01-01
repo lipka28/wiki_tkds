@@ -10,19 +10,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP      | Mod.Zásahu |  Um  | Z.Hod |                           Odemyká                           |
-| :----: | :---------: | :--------: | :--: | :---: | :---------------------------------------------------------: |
-|   1    |  10+Výdrž   |     +1     |  +1  |  16   | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
-|   2    | +1k10+Výdrž |     +2     |  +1  |  15   |                           Talent                            |
-|   3    | +1k10+Výdrž |     +2     |  +1  |  14   |                     +1 Dovednostní bod                      |
-|   4    | +1k10+Výdrž |     +4     |  +2  |  13   |                     Příležitostný útok                      |
-|   5    | +1k10+Výdrž |     +4     |  +2  |  12   |                           Talent                            |
-|   6    | +1k10+Výdrž |     +5     |  +2  |  11   |                     +1 Dovednostní bod                      |
-|   7    | +1k10+Výdrž |     +6     |  +3  |  10   |                      Nával adrenalinu                       |
-|   8    | +1k10+Výdrž |     +7     |  +3  |   9   |                           Talent                            |
-|   9    | +1k10+Výdrž |     +7     |  +3  |   8   |                     +1 Dovednostní bod                      |
-|   10   | +1k10+Výdrž |     +9     |  +4  |   7   |                         Extra útok                          |
-|  11+   |     +3      |     +9     |  +4  |   7   |              Talent (a každou další 3. úroveň)              |
+| ÚROVEŇ |              HP               | Mod.Zásahu |  Um  |                           Odemyká                           |
+| :----: | :---------------------------: | :--------: | :--: | :---------------------------------------------------------: |
+|   1    | Základní životy rasy+10+Výdrž |     +1     |  +1  | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
+|   2    |          +1k10+Výdrž          |     +2     |  +1  |                           Talent                            |
+|   3    |          +1k10+Výdrž          |     +2     |  +1  |                     +1 Dovednostní bod                      |
+|   4    |          +1k10+Výdrž          |     +4     |  +2  |                     Příležitostný útok                      |
+|   5    |          +1k10+Výdrž          |     +4     |  +2  |                           Talent                            |
+|   6    |          +1k10+Výdrž          |     +5     |  +2  |                     +1 Dovednostní bod                      |
+|   7    |          +1k10+Výdrž          |     +6     |  +3  |                      Nával adrenalinu                       |
+|   8    |          +1k10+Výdrž          |     +7     |  +3  |                           Talent                            |
+|   9    |          +1k10+Výdrž          |     +7     |  +3  |                     +1 Dovednostní bod                      |
+|   10   |          +1k10+Výdrž          |     +9     |  +4  |                         Extra útok                          |
+|  11+   |              +3               |     +9     |  +4  |              Talent (a každou další 3. úroveň)              |
 
 ## Schopnosti specializace
 
@@ -32,13 +32,14 @@
 
 **Trénovaná brnění:** Všechny včetně štítů
 
-**Bonusy k záchranným hodům:** +2 Zdatnost a +1 Reflexy
+**Bonusy k záchranným hodům:** +4 Zdatnost a +2 Reflexy
 
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro bojovníka je to převážně boj, avšak určitě se najdou i jiné věci, ve kterých by mohl vynikat. Jako jsou odhadování humanoidních soupeřů, posouzení kvality zbraní, zbrojí či koní, ukázky síly. Prostě cokoliv, nesouvisícího s bojem, co ti dává smysl, že by tvá postava měla jako bojovník umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by bojovník měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
 
 - **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
+- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
 ### Boj se dvěma zbraněmi
 
@@ -49,7 +50,7 @@ Bojovník je mistrem všech zbraní a dokáže efektivně používat 2 jednoruč
 
 ### Bojové manévry
 
-Bojovník může po úspěšném zásahu útokem provést bojový manévr jako *strategickou akci*. Bojové manévry jsou věci jako skopnutí na zem, odhození, odzbrojení a podobné. Cíl má nárok na *záchranný hod na reflexy*, aby efektu odolal.
+Bojovník může po úspěšném zásahu útokem provést bojový manévr jako *strategickou akci*.
 
 - **Kritický zásah:** Uspěje-li útok s kritickým zásahem, bojovník může provést jeden bojový manévr, proti zasaženému stvoření, jako *volnou akci*.
 
@@ -113,13 +114,5 @@ Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat 
 **Požadavek:** -
 
 **Efekt:** Bojovník se může *pohnout* o svou hybnost a *zaútočit* jako součást jedné *akce*. Pokud se ve svém tahu přesunul o aspoň *15 metrů* a zasáhne svůj cíl. Jeho způsobené poškození je dvojnásobné.
-
-<img src="/assets/sep_line.png"/>
-
-### Blokování štítem ==todo předělat s předměty==
-
-**Požadavek:** -
-
-**Efekt:** Všechny štíty v rukou bojovníka dávají extra *+1 OČ*. Navíc pokud je spojenec v okolí 1 metru kolem bojovníka cílem útoku. Bojovník může použít svou *reakci* a poskytnout tak svému spojenci bonus do OČ ve výši bonusu svého štítu. Tento bonus je jen na útok, který spustil tuto reakci.
 
 <img src="/assets/sep_line.png"/>

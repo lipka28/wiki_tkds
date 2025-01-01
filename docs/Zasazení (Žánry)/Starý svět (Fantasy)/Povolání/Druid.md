@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     |    Magie     | mod.Zásahu |  Um  | Z.Hod |                        Odemyká                        |
-| :----: | :--------: | :----------: | :--------: | :--: | :---: | :---------------------------------------------------: |
-|   1    |  6+Výdrž   |  8+Rozvaha   |     +0     |  +1  |  16   | Um, Cyklus života, Živelná magie, Za jedno s přírodou |
-|   2    | +1k6+Výdrž | +1k8+Rozvaha |     +1     |  +1  |  15   |                   Talent, +1 Kouzlo                   |
-|   3    | +1k6+Výdrž | +1k8+Rozvaha |     +1     |  +1  |  14   |             +1 Dovednostní bod, +1 Kouzlo             |
-|   4    | +1k6+Výdrž | +1k8+Rozvaha |     +2     |  +2  |  13   |              Přeměna ve zvíře, +1 Kouzlo              |
-|   5    | +1k6+Výdrž | +1k8+Rozvaha |     +2     |  +2  |  12   |                   Talent, +1 Kouzlo                   |
-|   6    | +1k6+Výdrž | +1k8+Rozvaha |     +3     |  +2  |  11   |             +1 Dovednostní bod, +1 Kouzlo             |
-|   7    | +1k6+Výdrž | +1k8+Rozvaha |     +3     |  +3  |  10   |              Živelná afinita, +1 Kouzlo               |
-|   8    | +1k6+Výdrž | +1k8+Rozvaha |     +4     |  +3  |   9   |                   Talent, +1 Kouzlo                   |
-|   9    | +1k6+Výdrž | +1k8+Rozvaha |     +4     |  +3  |   8   |             +1 Dovednostní bod, +1 Kouzlo             |
-|   10   | +1k6+Výdrž | +1k8+Rozvaha |     +5     |  +4  |   7   |            Kombinovaná přeměna, +1 Kouzlo             |
-|  11+   |     +1     |      +2      |     +5     |  +4  |   7   |     Talent (a každou další 3. úroveň), +1 Kouzlo      |
+| ÚROVEŇ |              HP              |    Magie     | mod.Zásahu |  Um  |                        Odemyká                        |
+| :----: | :--------------------------: | :----------: | :--------: | :--: | :---------------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž |  8+Rozvaha   |     +0     |  +1  | Um, Cyklus života, Živelná magie, Za jedno s přírodou |
+|   2    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |                   Talent, +1 Kouzlo                   |
+|   3    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |             +1 Dovednostní bod, +1 Kouzlo             |
+|   4    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |              Přeměna ve zvíře, +1 Kouzlo              |
+|   5    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |                   Talent, +1 Kouzlo                   |
+|   6    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +2  |             +1 Dovednostní bod, +1 Kouzlo             |
+|   7    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +3  |              Živelná afinita, +1 Kouzlo               |
+|   8    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  |                   Talent, +1 Kouzlo                   |
+|   9    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  |             +1 Dovednostní bod, +1 Kouzlo             |
+|   10   |          +1k6+Výdrž          | +1k8+Rozvaha |     +5     |  +4  |            Kombinovaná přeměna, +1 Kouzlo             |
+|  11+   |              +1              |      +2      |     +5     |  +4  |     Talent (a každou další 3. úroveň), +1 Kouzlo      |
 
 ## Schopnosti povolání
 
@@ -34,11 +34,14 @@
 
 **Trénovaná brnění:** Lehké
 
-**Bonusy k záchranným hodům:** +2 Vůle a +1 Reflexy
+**Bonusy k záchranným hodům:** +4 Vůle a +2 Reflexy
 
 ### Um
 
 Pro každou specializaci existují nějaké předpokládané aktivity, ve kterých by měla vynikat. Pro druida jsou to především věci jako identifikaci a znalosti o rostlinách, vílách, zvířatech a přírodních fenoménech, porozumění cyklům přírody, předpověď počasí. Druid se rovněž vyzná v dávných tradicích a mytologii, spojených s přírodou a její ochranou. Prostě cokoliv, co ti dává smysl, že by tvá postava měla jako druid umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by druid měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
+
+- **Magická specializace:** Tvůj um se nepřičítá k žádným tvým bojovým schopnostem.
+- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
 ### Cyklus života
 

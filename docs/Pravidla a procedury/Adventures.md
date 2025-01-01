@@ -48,7 +48,7 @@ Při řešení nejasných situací je dobré, aby PJ měl na paměti to, že hr�
 
 ### Ověřovací hody
 
-Zjednodušeně řečeno, ověřovací hod je hod kostkou proti nějaké cílové hodnotě. V této hře jsou to většinou kostky *k20* a *k12*. *K20* se používá na vše co by mohlo potencionálně ovlivnit zdraví postavy. Jako jsou *hody na zásah* (o nich více v kapitole ==todo link==) či *záchranné hody*. *K12* se pak používá na *ověření dovednosti*.
+Zjednodušeně řečeno, ověřovací hod je hod *dvaceti-stěnnou kostkou (k20)* proti *hranici úspěchu (HU)*.
 
 - **Celkový výsledek ověřovacího hodu:** *Výsledek na kostce* + *Bonusy* + *Postihy* = *Výsledek*
 
@@ -76,11 +76,11 @@ Pokud jde v prováděné akci čistě o náhodu. PJ může stanovit pevnou pravd
 
 <img src="/assets/sep_line.png"/>
 
-## Záchranné hod
+## Záchranné hody
 
-Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli plnému efektu kouzel, pastí a jiných škodlivých efektů. Jelikož jde při záchranných hodech většinou o život hází se za pomocí *k20*.
+Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli plnému efektu kouzel, pastí a jiných škodlivých efektů.
 
-**Typ záchranných hodů:** Každá postava má jednu univerzální hodnotu, která funguje jako hranice úspěchu záchranného hodu. Hod samotný je pak modifikován dovednostmi a specializací postavy v závislosti na efektu, který na postavu působí. Možné kategorie jsou následující:
+**Typ záchranných hodů:** Záchranný hod je považován ze variantu těžkého ověření dovednosti. Má tedy *HU 16*. Záchranný hod samotný je pak modifikován dovednostmi, specializací a umem postavy v závislosti na efektu, který na postavu působí. Možné kategorie jsou následující:
 
 | Dovednost     | Název            | záchrana proti efektům                                       |
 | ------------- | :--------------- | :----------------------------------------------------------- |
@@ -89,11 +89,11 @@ Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli pln�
 | **Vzdělání**  | **Vůle**  | *Záchranný hod proti efektům, kterým lze odolat silou vůle nebo které se snaží zmást smysly* |
 
 !!! warning "Mapování B/X záchranných hodů"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na výčet jiných záchranných hodů. Ty se mapují následovně: *Paralýza a Dech /hůlky* = Reflexy, *Smrt* / *Jed* = Zdatnost, *Kouzla* / *Hole* = Vůle.
+	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na výčet jiných záchranných hodů. Ty se mapují následovně: *Paralýza a Dech /hůlky* = Reflexy, *Smrt* / *Jed* = Zdatnost, *Kouzla* / *Hole* = Vůle. Hodnoty záchranných hodů u monster z takových zdrojů, lze používat beze změny. Prostě přehodit na k20 hodnotu psanou ve stat-blocku.
 
-**Hod záchranného hodu:** Když PJ vyžaduje záchranný hod, tak si hráč hodí *1k20*, připočítá patřičné modifikátory a porovná výsledek s číslem, které má zapsáno jako záchranný hod ve svém deníku postavy.
+**Hod záchranného hodu:** Když PJ vyžaduje záchranný hod, tak si hráč hodí *1k20*, připočítá patřičné modifikátory a potřebuje překonat *HU 16*.
 
-- *Větší rovno:* Pokud je výsledek větší nebo roven, tak je hod úspěšný. 
+- *Větší rovno 16:* Pokud je výsledek větší nebo roven 16-ti, tak je hod úspěšný. 
 - *Nižší:* V případě nižších výsledků se jedná o neúspěch. 
 - *NAT1 a NAT20:* V případě přirozené 1 se vždy jedná o neúspěch a v případě přirozených 20 je hod vždy úspěšný.
 
@@ -116,6 +116,8 @@ Klesnou-li životy hráčské postavy na 0, obdrží 1 bod vyčerpání, upadá 
 **Beznaděj:** Ve hře existují způsoby jak zemřít bez možnosti záchrany. Většinou ve formě různých pastí, kouzel okamžitého zabití či masivního poškození.
 
 **Masivní poškození:** Pokud postava obdrží v jednom úderu větší poškození než je dvojnásobek jejího maximální počtu životů umře bez možnosti záchrany.
+
+==todo: přemístění v iniciativě.==
 
 #### Mince smrti
 

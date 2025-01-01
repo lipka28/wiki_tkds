@@ -38,3 +38,11 @@ Zde se nachází obecné talenty, které při splnění podmínek, jsou k dispoz
 **Efekt:** Postava obdrží *1k4+Rozvaha* magie (lze vzít polovinu na kostce) a naučí se *1 extra kouzlo* ze seznamu kouzel pro svou magickou disciplínu. Tím se také zvedne maximální počet kouzel, které postava může umět o 1. Tento talent si lze vzít opakovaně.
 
 <img src="/assets/sep_line.png"/>
+
+### Blokování štítem
+
+**Požadavek:** Hybridné nebo bojová specializace trénovaná se štítem.
+
+**Efekt:** Pokud má postava zvednutý štít a hrozí, že obdrží poškození. Může použít svou *reakci* a obětovat až několik bodů obranného čísla svého štítu a tím část poškození vyblokovat. Každý obětovaný bod OČ sníží obdržené poškození o *6*. Štít jehož OČ je zredukováno na 0 je zničen. Po použití této schopnosti štít již není zvednut.
+
+<img src="/assets/sep_line.png"/>

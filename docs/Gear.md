@@ -17,7 +17,7 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 
 ### Zatížení
 
-Postava je *zatížená* pokud má ve výbavě více jak *6+Síla* obsazených slotů nebo těží jak lehkou zbroj. Pj může zatíženým postavám udělit postihy při vykonávání některých aktivit (například šplhání a plavání).
+Postava je *zatížená* pokud má ve výbavě více jak *6+Síla* obsazených slotů nebo těží jak lehkou zbroj. Zatížené stvoření obdrží *situační postih -2* k pohybovým aktivitám vyžadující hod na ověření (Jako je třeba šplh, přeskakování překážek a jiné).
 
 ### Váha běžných pokladů
 

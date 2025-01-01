@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |     HP     | mod.Zásahu |  Um  | Z.Hod |                           Odemyká                            |
-| :----: | :--------: | :--------: | :--: | :---: | :----------------------------------------------------------: |
-|   1    |  8+Výdrž   |     +0     |  +1  |  16   | Um, Boj se dvěma zbraněmi, Přepadení, Cech nebo talent, Dobrá příprava, |
-|   2    | +1k8+Výdrž |     +1     |  +1  |  15   |                            Talent                            |
-|   3    | +1k8+Výdrž |     +1     |  +1  |  14   |                      +1 Dovednostní bod                      |
-|   4    | +1k8+Výdrž |     +3     |  +2  |  13   |                         Obratný úhyb                         |
-|   5    | +1k8+Výdrž |     +3     |  +2  |  12   |                            Talent                            |
-|   6    | +1k8+Výdrž |     +4     |  +2  |  11   |                      +1 Dovednostní bod                      |
-|   7    | +1k8+Výdrž |     +4     |  +3  |  10   |                        Přelsti magii                         |
-|   8    | +1k8+Výdrž |     +5     |  +3  |   9   |                            Talent                            |
-|   9    | +1k8+Výdrž |     +5     |  +3  |   8   |                      +1 Dovednostní bod                      |
-|   10   | +1k8+Výdrž |     +7     |  +4  |   7   |                       Studnice štěstí                        |
-|  11+   |     +2     |     +7     |  +4  |   7   |              Talent (a každou další 3. úroveň)               |
+| ÚROVEŇ |              HP              | mod.Zásahu |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :--------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+8+Výdrž |     +0     |  +1  | Um, Boj se dvěma zbraněmi, Přepadení, Cech nebo talent, Dobrá příprava, |
+|   2    |          +1k8+Výdrž          |     +1     |  +1  |                            Talent                            |
+|   3    |          +1k8+Výdrž          |     +1     |  +1  |                      +1 Dovednostní bod                      |
+|   4    |          +1k8+Výdrž          |     +3     |  +2  |                         Obratný úhyb                         |
+|   5    |          +1k8+Výdrž          |     +3     |  +2  |                            Talent                            |
+|   6    |          +1k8+Výdrž          |     +4     |  +2  |                      +1 Dovednostní bod                      |
+|   7    |          +1k8+Výdrž          |     +4     |  +3  |                        Přelsti magii                         |
+|   8    |          +1k8+Výdrž          |     +5     |  +3  |                            Talent                            |
+|   9    |          +1k8+Výdrž          |     +5     |  +3  |                      +1 Dovednostní bod                      |
+|   10   |          +1k8+Výdrž          |     +7     |  +4  |                       Studnice štěstí                        |
+|  11+   |              +2              |     +7     |  +4  |              Talent (a každou další 3. úroveň)               |
 
 ## Schopnosti povolání
 
@@ -34,13 +34,14 @@
 
 **Trénovaná brnění:** Lehké
 
-**Bonusy k záchranným hodům:** +2 Reflexy a +1 Zdatnost
+**Bonusy k záchranným hodům:** +4 Reflexy a +2 Zdatnost
 
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro lotra jsou to aktivity typické pro běžný "rogue-archtype". Jako je odemykání zámků, vybírání kapes a podobně. Lotr se však v rámci své "class-fantasy" může pokusit i o věci, které hraničí s nadpřirozenem. Jako je zmizení ve stínech nebo šplhání po hladkých stěnách bez očividných úchytů. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako lotr umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by lotr měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
 
 - **Hybridní specializace:** Polovina tvého umu se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
+- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
 ### Boj se dvěma zbraněmi
 
@@ -51,11 +52,12 @@ Lotr dokáže efektivně používat 2 jednoruční zbraně naráz pokud je aspo�
 
 ### Přepadení
 
-Lotr je expertem v hledání slabých míst nic netušících nepřátel. Pokud lotr zaútočí na nic netušícího oběť jednoruční nebo střelnou zbraní, útočí se sitaučním bonusem *+4* k zásahu.
+Lotr je expertem v hledání slabých míst nic netušících nepřátel. Pokud lotr zaútočí na nic netušícího oběť jednoruční nebo střelnou zbraní, útočí se situačním bonusem *+2+Um* k zásahu (stvoření je pravděpodobně i zaskočené).
 
-- **Nic netušící oběť:** Za útok na nic netušící oběť se považuje, útok před hodem na tasení, útok v prvním kole boje (za předpokladu, že jde lotrova skupina první na řadě) nebo první útok kdykoliv během boje pokud nepřítel netuší o lotrově přítomnosti.
+- **Nic netušící oběť:** Je stvoření, které netuší o lotrově přítomnosti nebo ho nepovažuje za hrozbu. Většinou takový útok probíhá před hodem na tasení. Po útoku je již lotrova přítomnost známa do konce boje, proto je opakované použití této schopnosti během boje většinou nemožné. Pj může rozhodnout jinak (například použití magie neviditelnosti).
 - **Cíl útoku:** Může být libovolné člověku podobné stvoření nebo humanoidní monstrum, které není více jak 2x větší jak člověk (PJ může povolit speciální okolnosti).
-- **Poškození:** Při úspěšném zásahu lotrův útok uděluje *7+(úroveň\*2)+modifikátory* poškození.
+- **Zásah střelnou zbraní:** Udělí *7+(úroveň lotra\*2)+modifikátory* poškození dle zbraně.
+- **Zásah zbraní na blízku:** Cíl musí podstoupit v *záchranném hodu na zdatnost* se *situačním postihem ve výši Umu* lotra. Pokud selže, je okamžitě zabit. Pokud uspěje obdrží *7+(úroveň lotra\*2)+modifikátory* poškození dle zbraně.
 
 ### Cech (Dobrovolné, jinak talent)
 
