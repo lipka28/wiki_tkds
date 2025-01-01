@@ -43,6 +43,8 @@ Nejčastěji se dobrodruhy stávají mladí trpaslíci, kteří chtějí dosáhn
 
 **Vrozené jazyky:** Trpasličtina + Jazyk společenství
 
+**Základní životy:** *6*
+
 **Hybnost:** 8 metrů
 
 **Doba přirozeného dožití:** 200 - 250 let

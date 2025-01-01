@@ -10,7 +10,7 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Dovednosti, výběr rasy a specializace
 
-Ke všem svým dovednostem si zapiš hodnotu *-1*. V následujících krocích si budeš vybírat *rasu* a *specializaci* a na základě nich modifikovat své dovednosti. V rámci žádného následujícího kroku si nesmíš přidat do jednotlivé vědomosti více jak 1 bod.
+Ke všem svým dovednostem si zapiš hodnotu *-1*. V následujících krocích si budeš vybírat *rasu* a *specializaci* a na základě nich modifikovat své dovednosti. V rámci žádného z následujících kroků si nesmíš přidat do jednotlivé vědomosti více jak 1 bod.
 
 - Vyber si *rasu*, zapiš si její název do deníku postavy a modifikuj dovednosti své postavy tak jak ti udává vybraná rasa.
 - Vyber si *specializaci* dobrodruha, zapiš si její název do deníku postavy a modifikuj dovednosti své postavy tak jak ti udává vybraná specializace.
@@ -23,7 +23,7 @@ Co všechno tvé dovednosti ovlivňují se můžeš dozvědět v kapitole [Doved
 
 ## 2. Životy a magie
 
-Poznač si počáteční životy a magii. Jsou popsány v tabulce postupu tebou vybraného povolání. Denní regenerace magie odpovídá formuli *2+Úroveň+Rozvaha*.
+Poznač si počáteční životy a magii. Jsou popsány v tabulce postupu tebou vybraného povolání a u rasy, kterou sis vybral.
 
 ## 3. Schopnosti
 
@@ -31,13 +31,7 @@ Zapiš si všechny schopnosti získané výběrem rasy a specializace. Případn
 
 ## 4. Nakup výbavu
 
-Co se týče počátečního bohatství má hráč možnost si vybrat jednu z následujících možností:
-
-- **Standardní bohatství:** Postava začíná hru s *110 stříbrnými*.
-- **Náhodné bohatství:** Hráč si hodí *3k6* a výslednou hodnotu *vynásobí 10-ti*. Tolik má jeho postava počátečního stříbra.
-- **Dědictví:** Postava může zdědit majetek a bohatství předchozí postavy. Převod dědictví je daněn *10-ti %* z celé hodnoty majetku. Což může fungovat jako motivační prvek, jelikož postava může potencionálně začínat hru s dluhem.
-
-Za získané bohatství si může postava nakoupit výbavu. Jakou výbavu si může koupit, a jak je to s nosností tvé postavy se dozvíš [zde](/Gear/#vybaveni-a-nosnost). Pozor na tvé povolání a rasu, které mohou uvalovat restrikce na výbavu, kterou můžeš koupit nebo používat.
+Postava na první úrovni začíná se *150 stříbrnými*. Za ty si může postava nakoupit výbavu. Jakou výbavu máš na výběr, a jak je to s nosností tvé postavy se dozvíš [zde](/Gear/#vybaveni-a-nosnost). Pozor na tvé povolání a rasu, které mohou uvalovat restrikce na výbavu, kterou můžeš koupit nebo používat.
 
 ## 5. Poznač si obranné číslo
 

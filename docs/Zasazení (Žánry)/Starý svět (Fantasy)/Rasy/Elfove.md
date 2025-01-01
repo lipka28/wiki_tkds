@@ -42,6 +42,8 @@ Na dobrodružství se často vydávají mladí elfové (100 let nebo méně), ab
 
 **Vrozené jazyky:** Elfština + Jazyk společenství
 
+**Základní životy:** *3*
+
 **Hybnost:** 9 metrů
 
 **Doba přirozeného dožití:** Nesmrtelní

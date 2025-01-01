@@ -8,11 +8,11 @@
 
 ## Nosnost a skladnost
 
-Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava v jednu chvíli u sebe. Výbava postavy se umisťuje do tak zvaných *Slotů*. Obecně platí, že *1 předmět zabírá 1 slot* a postava má *12+Síla slotů*. Některé předměty však mohou mít různou *skladnost*, která ovlivňuje jejich manipulaci. Dělí se do následujících kategorií:
+Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava v jednu chvíli u sebe. Výbava postavy se umisťuje do tak zvaných *Slotů*. Obecně platí, že *1 předmět zabírá 1 slot* a postava má *10+Síla slotů*. Některé předměty však mohou mít různou *skladnost*, která ovlivňuje jejich manipulaci. Dělí se do následujících kategorií:
 
 - **Normální (1):** Předmět zabírající *1 slot*. Do této kategorie spadá většina předmětů a pokladů.
 - **Lehká (L):** Do 1 slotu se vejdou *3 lehké předměty stejného typu*. Do této kategorie spadají jednorázové předměty jako jsou pochodně, lektvary či svitky.
-- **Těžkopádné (T):** Speciální, kategorie předmětů na kterou lze narazit. Takový předmět se nevejde do slotů a musí být nesen v rukou jedné nebo více postav či naložen na nějaký povoz. Uděluje podstatné postihy k hybnosti postav, které jej nesou. Výjimkou jsou zbroje a štíty, které mohou být "oblečeny" na postavě, ale nelze do výbavy uložit více kusů, takto oblečné vybavení neuděluje žádné postihy mimo zatížení.
+- **Těžkopádné (T):** Speciální, kategorie předmětů na kterou lze narazit. Takový předmět se nevejde do slotů a musí být nesen v rukou jedné nebo více postav či naložen na nějaký povoz. Uděluje podstatné postihy k hybnosti postav, které jej nesou. Výjimkou jsou zbroje a štíty, které mohou být "oblečeny" na postavě, ale nelze do výbavy uložit více kusů, takto oblečné vybavení neuděluje žádné další postihy mimo zatížení.
 - **Mince:** Speciální kategorie pro mince, do 1 slotu se vejde 1000 mincí.
 
 ### Zatížení
@@ -40,10 +40,10 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 ### Typy zbrojí:
 
 - **Oblečení** - Plní funkci běžného oblečení.
-- **Lehká** - Flexibilní, lze v ní i spát.
+- **Lehká** - Flexibilní, lze v ní i spát, nezpůsobuje zatížení.
 - **Střední** - Hlučná, nedá se v ní spát. Způsobuje zatížení. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
 - **Těžká a velmi těžká** - Hlučná, nedá se v ní spát. Způsobuje zatížení. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
-- **Štít** - Stvoření držící štít, může jako *strategickou akci* štít zvednout a tím si připočítat jeho OČ jako *situační bonus ke svému OČ*.
+- **Štít** - Stvoření držící štít, může jako *strategickou akci* štít zvednout a tím si připočítat jeho OČ jako *situační bonus ke svému OČ*, nezpůsobuje zatížení.
 - **Zvířecí brnění:** Brnění určená pro zvěř, jako jsou koně a psy. PJ může za příplatek povolit použití i na jiná zvířata.
 
 | ZBROJE                       |      TYP       |   OČ   | Postih obrat. | skladnost |   CENA   |
@@ -277,7 +277,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 - *Bojové užití:* Cíl je pokryt svěcenou vodou. Pokud je cíl *nemrtvý* nebo *démon* obdrží *1k8 perzistentního poškození*. 
 - *Jiné užití:* Používá se i jako součást náboženských rituálů.
 
-**Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. 
+**Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. ==todo: make it int check==
 
 - *Léčení:* použití trvá *1 směnu* a umožňuje vyléčit *2 životy denně*. (1 použití / cíl)
 

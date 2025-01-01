@@ -42,6 +42,8 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 **Vrozené jazyky:** Jazyk společenství + 1 libovolný jazyk
 
+**Základní životy:** *2*
+
 **Hybnost:** 9 metrů
 
 **Doba přirozeného dožití:** 50 - 70 let
