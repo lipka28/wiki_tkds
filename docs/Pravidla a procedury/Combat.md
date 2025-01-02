@@ -29,7 +29,7 @@
 - <img src="/assets/reaction.png" width="15"> *Reakce:* Reakce je speciální akce, která umožní provést aktivitu i mimo tah stvoření, pokud jsou splněny podmínky jejího spouštěče. Stvoření nemůže na jeden spouštěč nikdy použít více jak jednu svou reakci.
 - <img src="/assets/free.png" width="20"> *Volná akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
 
-**Příležitostné útoky a úkrok:** Ta monstra, která lze považovat za trénované bojovníky, mají často schopnost *příležitostného útoku*, které jim umožňuje zaútočit jako reakci, když stvoření v okolí provede cokoliv jiného než útok na ně. Těmto příležitostným útokům se lze vyvarovat tím, že ohrožené stvoření provede *úkrok* jako *strategickou akci* a tím se posune o *1 metr* mimo dosah nepřítele.
+**Příležitostné útoky a úkrok:** Ta monstra, která lze považovat za trénované bojovníky, mají často schopnost *příležitostného útoku*, které jim umožňuje zaútočit jako reakci, když stvoření v okolí provede cokoliv jiného než útok na ně. Těmto příležitostným útokům se lze vyvarovat tím, že ohrožené stvoření provede *úkrok* jako *strategickou akci* a tím se posune o *2 metry* mimo dosah nepřítele.
 
 !!! note "Pohyb na čtvercové síti"
     Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*. Na hexagonové síti není třeba tento rozdíl řešit.
@@ -62,9 +62,9 @@
 | *3. Stanov OČ:* Postavy i monstra mají OČ napsané ve svém stat-bloku. |
 | *4. Výsledek:* Pokud je výsledek útoku stejný nebo vyšší než OČ cíle útok byl úspěšný, můžeš házet na poškození. |
 
-**NAT 1 a NAT 20:** Hod přirozené *1* je považován za neúspěch. Hod přirozené *20* je považován za kritický zásah.
+**Kritický úspěch:** Uděluje dvojnásobné poškození.
 
-**Kritický zásah:** Uděluje dvojnásobné poškození.
+**Kritický neúspěch:** Jsou považovány jen za běžný neúspěch.
 
 **Kritické zásahy a monstra:** Monstra mohou jako součást kritických zásahů způsobovat i speciální efekty.
 
@@ -90,6 +90,8 @@
 
 ## Ostatní bojové situace
 
+**Obtížný terén:** Každý *1 metr* pohybu v obtížném terénu stojí *2 metry* hybnosti ovlivněného stvoření. Například stvoření s hybností 6 metrů se může spotřebováním celé své hybnosti pohnout v obtížném terénu jen o 3 metry.
+
 **Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných ze specializace, způsobené poškození je poloviční (vyjímaje kritických zásahů) a většina speciálních schopností zbraní není aplikovatelná.
 
 **Netrénované zbroje a štíty:** Poskytují jen poloviční bonus do OČ.
@@ -111,13 +113,13 @@
 
 **Bezmocný:** Bezmocné stvoření *nemůže nic dělat* a je napospas okolním vlivům. Bezmoc může vypadat všelijak. Stvoření může být v bezvědomí, zmražené, zkamenělé nebo v jiném podobném stavu. Bezmocné stvoření může být okamžitě zabito adekvátní zbraní (kladivo na zkameněného, nůž na spícího člověka atd.).
 
-**Ležící na zemi:** Ležící stvoření je *zaskočené* a má situační postih -2 ke všem svým útokům. Jediné způsoby pohybu který může provést je plazení se (pohyb o 3 metry) a nebo postavit se na nohy, obojí jako *strategickou akci*. Ležící stvoření může také použít svou *strategickou akci* a ukrýt se před střelami. Tím získá *situační bonus +4* proti střelným útokům (stvoření stále zůstává zaskočené, celkový bonus je tedy pouze +2).
+**Ležící na zemi:** Ležící stvoření je *zaskočené* a má situační postih -2 ke všem svým útokům. Jediné způsoby pohybu který může provést je plazení se (pohyb o 2 metry) a nebo postavit se na nohy, obojí jako *strategickou akci*. Ležící stvoření může také použít svou *strategickou akci* a ukrýt se před střelami. Tím získá *situační bonus +4* proti střelným útokům (stvoření stále zůstává zaskočené, celkový bonus je tedy pouze +2).
 
 **Neviditelný:** Přítomnost neviditelného stvoření nelze odhalit běžným zrakem. Na neviditelné stvoření také nelze cílit útoky nebo kouzla, dokud není upřesněna jeho poloha.
 
-**Oslepený:** Slepé stvoření, bez jiného smyslu, kterým by mohlo precizně vnímat okolí je *zaskočené* a má hybnost pouze 3 metry. Slepé stvoření nemůže provádět útoky na dálku a nebo jiné akce vyžadující zrak. Slepé stvoření může útočit na blízku avšak jeho útoky jsou penalizovány *stavovým postihem -4* k zásahu. 
+**Oslepený:** Slepé stvoření, bez jiného smyslu, kterým by mohlo precizně vnímat okolí je *zaskočené* a v rámci pohybu se může hnout jen o 1 metr. Slepé stvoření nemůže provádět útoky na dálku a nebo jiné akce vyžadující zrak. Slepé stvoření může útočit na blízku avšak jeho útoky jsou penalizovány *stavovým postihem -4* k zásahu. 
 
-**Unavený:** Unavené stvoření má stavový postih -2 ke všem ověřovacím hodům, útokům, záchranným hodům a OČ. Navíc si při průzkumu nemůže vybrat aktivitu, kterou by chtěl provádět. Únavy se lze zbavit spánkem do dalšího dne.
+**Unavený:** Unavené stvoření má *stavový postih -2* ke všem *ověřovacím hodům*, *útokům*, *záchranným hodům* a *OČ*. Navíc si při cestování a průzkumu nemůže vybrat aktivitu, kterou by chtěl provádět. Únavy se lze zbavit spánkem do dalšího dne.
 
 **Utíkající:** Utíkající stvoření utíká z boje nebo před zdrojem strachu. Efektivně všechny své akce využije k pohybu pryč.
 
@@ -125,7 +127,7 @@
 
 **Vyděšený:** Vyděšené stvoření obdrží *stavový postih -4* ke všem svým ověřovacím hodům a hodům na zásah.
 
-**Zaskočený:** Zaskočené stvoření se nemůže plně bránit a má *situační postih -2 do OČ*. Nejběžnější způsob zaskočení je útok na nic netušící stvoření. Zaskočení většinou bývá vázáno na specifickou situaci nebo efekt. Pokud zaskočení není vázáno na žádný jiný efekt neb daný efekt vypršel, zaskočení končí na konci tahu ovlivněného stvoření.
+**Zaskočený:** Zaskočené stvoření se nemůže plně bránit a má *situační postih -2 do OČ* a *záchranných hodů*. Nejběžnější způsob zaskočení je útok na nic netušící stvoření. Zaskočení většinou bývá vázáno na specifickou situaci nebo efekt. Pokud zaskočení není vázáno na žádný jiný efekt neb daný efekt vypršel, zaskočení končí na konci tahu ovlivněného stvoření.
 
 **Zatížený:** Zatížené stvoření obdrží *situační postih -2* k pohybovým aktivitám vyžadující hod na ověření (Jako je třeba šplh, přeskakování překážek a jiné).
 

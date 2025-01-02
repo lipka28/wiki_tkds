@@ -12,23 +12,23 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |    Magie     | mod.Zásahu |  Um  |                        Odemyká                        |
-| :----: | :--------------------------: | :----------: | :--------: | :--: | :---------------------------------------------------: |
-|   1    | Základní životy rasy+6+Výdrž |  8+Rozvaha   |     +0     |  +1  | Um, Cyklus života, Živelná magie, Za jedno s přírodou |
-|   2    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |                   Talent, +1 Kouzlo                   |
-|   3    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |             +1 Dovednostní bod, +1 Kouzlo             |
-|   4    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |              Přeměna ve zvíře, +1 Kouzlo              |
-|   5    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |                   Talent, +1 Kouzlo                   |
-|   6    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +2  |             +1 Dovednostní bod, +1 Kouzlo             |
-|   7    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +3  |              Živelná afinita, +1 Kouzlo               |
-|   8    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  |                   Talent, +1 Kouzlo                   |
-|   9    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  |             +1 Dovednostní bod, +1 Kouzlo             |
-|   10   |          +1k6+Výdrž          | +1k8+Rozvaha |     +5     |  +4  |            Kombinovaná přeměna, +1 Kouzlo             |
-|  11+   |              +1              |      +2      |     +5     |  +4  |     Talent (a každou další 3. úroveň), +1 Kouzlo      |
+| ÚROVEŇ |              HP              |    Magie     | mod.Zásahu |  Um  |                         Odemyká                          |
+| :----: | :--------------------------: | :----------: | :--------: | :--: | :------------------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž |  8+Rozvaha   |     +0     |  +1  |  Um, Cyklus života, Živelná magie, Za jedno s přírodou   |
+|   2    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |                    Talent, +1 Kouzlo                     |
+|   3    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |              +1 Dovednostní bod, +1 Kouzlo               |
+|   4    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |               Přeměna ve zvíře, +1 Kouzlo                |
+|   5    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |                    Talent, +1 Kouzlo                     |
+|   6    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +2  |              +1 Dovednostní bod, +1 Kouzlo               |
+|   7    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +3  |                Živelná afinita, +1 Kouzlo                |
+|   8    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  |                    Talent, +1 Kouzlo                     |
+|   9    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň), +1 Kouzlo |
+|   10   |          +1k6+Výdrž          | +1k8+Rozvaha |     +5     |  +4  |              Kombinovaná přeměna, +1 Kouzlo              |
+|  11+   |              +1              |      +2      |     +5     |  +4  |       Talent (a každou další 3. úroveň), +1 Kouzlo       |
 
 ## Schopnosti povolání
 
-**Získané Dovednosti:** *Rozvaha* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+2 Rozvaha* a *1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Základní zbraně
 
@@ -59,14 +59,15 @@ Druid disponuje schopností používat magii spadající do disciplíny *živeln
 - **Magie:** Druid disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací v závislosti na schopnosti *cyklus života*.
 - **Kouzla:** Druid začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé když získá novou úroveň nebo se mu zvýší dovednost vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo ztratí). Druid nemůže umět více kouzel než je jeho *úroveň+Vzdělání* (max. 10+Vzdělání).
 - **Výměna kouzel:** Jelikož druid získává svou moc z živelných sil a přírody může si při každém přenocování, kdy obdrží alespoň *normální přirozenou regeneraci* z cyklu života, vyměnit 1 ze svých ovládaných kouzel za jiné ze svého seznamu kouzel nebo jiného dostupné kouzlo ze své disciplíny. 
+- **Vyciť magii:** Druid může strávit *1 směnu* soustředěním a podstoupit *tajný hod na ověření Rozvahy*. Když uspěje dozví se zda se v okolí *9-ti metrů* kolem něj nachází něco magického. Druid může pro účely této schopnosti ignorovat zdroje magie o kterých ví.
 - **Magický výzkum:** Ve volné chvíli se druid může zabývat magickým výzkumem. Druidové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků) nebo podobných efektů. Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
 - **Jednoduchá kouzla:** Druid může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. U druida se většinou jedná o přírodní věci jako vyvolání vůně květin, vyčarování malé květiny, závan větru a podobně. Efektivně by však nemělo použití takového kouzla vézt k řešení nějakého problému.
 
 ### Za jedno s přírodou
 
-Druid se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se druid nachází v divočině s dostatečným množství zvířat a poživatelných rostlin, nepotřebuje *zásoby* (neplatí v kobkách). Druid se navíc může zbavit vyčerpání i mimo bezpečí civilizace.
+Druid se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se druid nachází v divočině s dostatečným množství zvířat a poživatelných rostlin, nepotřebuje *zásoby* (neplatí v kobkách). Druid se navíc může zbavit vážných zranění i mimo bezpečí civilizace.
 
-- **Přítel divočiny:** Druidova *osobnost* je považována za *+2* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
+- **Přítel divočiny:** Druidova *osobnost* je považována za *+1* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
 
 ### Přeměna ve zvíře (úroveň 4)
 

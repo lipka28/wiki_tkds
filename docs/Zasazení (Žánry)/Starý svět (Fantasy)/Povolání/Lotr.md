@@ -22,13 +22,13 @@
 |   6    |          +1k8+Výdrž          |     +4     |  +2  |                      +1 Dovednostní bod                      |
 |   7    |          +1k8+Výdrž          |     +4     |  +3  |                        Přelsti magii                         |
 |   8    |          +1k8+Výdrž          |     +5     |  +3  |                            Talent                            |
-|   9    |          +1k8+Výdrž          |     +5     |  +3  |                      +1 Dovednostní bod                      |
+|   9    |          +1k8+Výdrž          |     +5     |  +3  |        +1 Dovednostní bod (a každou další 3. úroveň)         |
 |   10   |          +1k8+Výdrž          |     +7     |  +4  |                       Studnice štěstí                        |
 |  11+   |              +2              |     +7     |  +4  |              Talent (a každou další 3. úroveň)               |
 
 ## Schopnosti povolání
 
-**Získané Dovednosti:** *Obratnost* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+2 Obratnost nebo Rozvaha* a *1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Základní zbraně, všechny čistě jednoruční zbraně a všechny střelné zbraně
 
@@ -52,12 +52,12 @@ Lotr dokáže efektivně používat 2 jednoruční zbraně naráz pokud je aspo�
 
 ### Přepadení
 
-Lotr je expertem v hledání slabých míst nic netušících nepřátel. Pokud lotr zaútočí na nic netušícího oběť jednoruční nebo střelnou zbraní, útočí se situačním bonusem *+2+Um* k zásahu (stvoření je pravděpodobně i zaskočené).
+Lotr je expertem v hledání slabých míst nic netušících nepřátel. Pokud lotr zaútočí na nic netušícího oběť jednoruční nebo střelnou zbraní, napadená oběť má situační postih *-(4+Um)* k *OČ*.
 
 - **Nic netušící oběť:** Je stvoření, které netuší o lotrově přítomnosti nebo ho nepovažuje za hrozbu. Většinou takový útok probíhá před hodem na tasení. Po útoku je již lotrova přítomnost známa do konce boje, proto je opakované použití této schopnosti během boje většinou nemožné. Pj může rozhodnout jinak (například použití magie neviditelnosti).
 - **Cíl útoku:** Může být libovolné člověku podobné stvoření nebo humanoidní monstrum, které není více jak 2x větší jak člověk (PJ může povolit speciální okolnosti).
 - **Zásah střelnou zbraní:** Udělí *7+(úroveň lotra\*2)+modifikátory* poškození dle zbraně.
-- **Zásah zbraní na blízku:** Cíl musí podstoupit v *záchranném hodu na zdatnost* se *situačním postihem ve výši Umu* lotra. Pokud selže, je okamžitě zabit. Pokud uspěje obdrží *7+(úroveň lotra\*2)+modifikátory* poškození dle zbraně.
+- **Zásah zbraní na blízku:** Cíl musí podstoupit v *záchranném hodu na zdatnost* se *situačním postihem ve výši Umu* lotra. Pokud selže, je okamžitě zabit. Pokud uspěje obdrží *7+(úroveň lotra\*2)+modifikátory* poškození.
 
 ### Cech (Dobrovolné, jinak talent)
 
@@ -134,11 +134,7 @@ Lotr může jako *akci* hodit dva nože co má u sebe. Hod na zásah těmito no�
 
 **Požadavek:** -
 
-Při úspěšném zásahu útokem na blízku se lotr může jako *strategickou akci* a úspěšným *ověřením dovednosti Obratnost* pokusit ukrást, umístit předmět nebo sabotovat kus výbavy nepřítele.
-
-- **Ukradení předmětu:** Lotr musí mít volnou ruku. Kradený předmět nesmí být aktivně používán a cíl má nárok na záchranný hod na reflexy aby odolal.
-- **Umístění předmětu:** Lotr musí mít volnou ruku nebo v ruce musí být umísťovaný předmět. Předmět se musí efektivně vejít do dlaně.
-- **Sabotáž:** Sabotovaný předmět musí mít nějaký poškoditelný mechanizmus. Například vázání štítu či zbroje, tětiva luku nebo střílecí mechanizmus kuše. Cíl má nárok na záchranný hod na reflexy.
+==todo předělat==
 
 <img src="/assets/sep_line.png"/>
 

@@ -22,13 +22,13 @@
 |   6    |          +1k6+Výdrž          | +1k10+Rozvaha |     +3     |  +2  |               +1 Dovednostní bod, +1 Kouzlo               |
 |   7    |          +1k6+Výdrž          | +1k10+Rozvaha |     +3     |  +3  |                Nebezpečný dluh, +1 Kouzlo                 |
 |   8    |          +1k6+Výdrž          | +1k10+Rozvaha |     +4     |  +3  |                     Talent, +1 Kouzlo                     |
-|   9    |          +1k6+Výdrž          | +1k10+Rozvaha |     +4     |  +3  |               +1 Dovednostní bod, +1 Kouzlo               |
+|   9    |          +1k6+Výdrž          | +1k10+Rozvaha |     +4     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň), +1 Kouzlo  |
 |   10   |          +1k6+Výdrž          | +1k10+Rozvaha |     +5     |  +4  |                  Proti-kouzlo, +1 Kouzlo                  |
 |  11+   |              +1              |      +3       |     +5     |  +4  |       Talent (a každou další 3. úroveň), +1 Kouzlo        |
 
 ## Schopnosti povolání
 
-**Získané Dovednosti:** *Vzdělání* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+2 Vzdělání* a *1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Základní zbraně
 
@@ -50,6 +50,7 @@ Mág disponuje schopností používat magii spadající do disciplíny *praktick
 - **Magie:** Mág disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Mágové mají díky své vazbě na magii zrychlenou regeneraci magie a to rychlostí *2+úroveň+Rozvaha* magie za odpočinek.
 - **Kouzla:** Mág začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé když získá novou úroveň nebo se mu zvýší dovednost vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Mág udrží v paměti maximálně *10+Vzdělání* kouzel. Mágové jsou však často vášniví sběratelé kouzel a tak si přebytečná kouzla zapisují do různých grimoárů, aby v nich mohly v případě nutnosti čerpat. Zapsané kouzlo lze pak v rámci aktivity trvající *1 směnu* zaměnit za kouzlo zapamatované.
 - **Učení se kouzel navíc:** Mág se může naučit další kouzla od různých mentorů, studováním magických svitků či dešifrování cizích grimoárů nebo magickým výzkumem.
+- **Vyciť magii:** Mág může strávit *1 směnu* soustředěním a podstoupit *tajný hod na ověření Rozvahy*. Když uspěje dozví se zda se v okolí *9-ti metrů* kolem něj nachází něco magického. Mág může pro účely této schopnosti ignorovat zdroje magie o kterých ví.
 - **Magický výzkum:** Ve volné chvíli se mág může zabývat magickým výzkumem. Mágové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků) nebo podobných efektů. Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
 - **Jednoduchá kouzla:** Mág může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. Může se jednat o věci jako jsou: drobné vizuální efekty, slabá telekineze, přihřátí čaje, očištění předmětu či změna jeho barvy. Efektivně by však nemělo použití takového kouzla vézt k řešení nějakého problému.
 

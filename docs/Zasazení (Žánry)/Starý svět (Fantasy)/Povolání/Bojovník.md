@@ -20,13 +20,13 @@
 |   6    |          +1k10+Výdrž          |     +5     |  +2  |                     +1 Dovednostní bod                      |
 |   7    |          +1k10+Výdrž          |     +6     |  +3  |                      Nával adrenalinu                       |
 |   8    |          +1k10+Výdrž          |     +7     |  +3  |                           Talent                            |
-|   9    |          +1k10+Výdrž          |     +7     |  +3  |                     +1 Dovednostní bod                      |
+|   9    |          +1k10+Výdrž          |     +7     |  +3  |        +1 Dovednostní bod (a každou další 3. úroveň)        |
 |   10   |          +1k10+Výdrž          |     +9     |  +4  |                         Extra útok                          |
 |  11+   |              +3               |     +9     |  +4  |              Talent (a každou další 3. úroveň)              |
 
 ## Schopnosti specializace
 
-**Získané Dovednosti:** *Síla* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+2 Síla* a *+1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Všechny
 
@@ -68,10 +68,9 @@ Bojovník se může pokusit zasáhnout soupeře ve chvilce nepozornosti. Provád
 
 ### Na dluh (Úroveň 7)
 
-V těch nejhorších situacích může bojovník sáhnout do svých psychických a fyzických rezerv a dosáhnout vítězství. Bojovník si může jako *volnou akci* způsobit *1 bod vyčerpání* a tím získat *5 dočasných životů* a *1 momentum*.
+V těch nejhorších situacích může bojovník sáhnout do svých psychických a fyzických rezerv a dosáhnout vítězství. Bojovník si může jako *volnou akci* nechat způsobit *1 vážné zranění* a tím získat *5 dočasných životů* a *1 momentum*.
 
-- **Opakované použití:** Bojovník může tuhle schopnost použít kolikrát chce dokonce i vícekrát jako součást jednoho použití. Nesmí však přesáhnout 5 bodů vyčerpání (6 pokud je smířený s tím, že na konci umře).
-- **Postihy za vyčerpání:** Postihy za vyčerpání se neprojeví ihned, ale až po boji, kdy byla schopnost použita.
+- **Opakované použití:** Bojovník může tuhle schopnost použít kolikrát chce dokonce i vícekrát jako součást jednoho použití. Nesmí však přesáhnout 5 vážných zrannění.
 
 ### Extra útok (Úroveň 10)
 
@@ -105,7 +104,7 @@ Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat 
 
 **Požadavek:** -
 
-**Efekt:** Bojovník může jako *strategickou akci* začít běsnit. Běsnění přidá bojovníkovi dočasné životy ve výši jeho *úrovně+Výdrž* a také stavový bonus *+1* do všech hodů na *Sílu* a *Výdrž* (ověření dovedností, hod na zásah, poškození zbraní na blízku, záchranné hody atd...) a uděluje stavový postih *-1* k OČ. Běsnící bojovník nemůže provádět aktivity, které vyžadují nějaké soustředění ani utéct z boje. Jaké akce vyžadují soustředění je v nežiji PJ avšak minimálně se jedná o věci jako sesílání kouzel či používání střelných zbraní. Bojovník může na jedno použití běsnit až *6 kol* a během běsnění neobdržuje postihy za vyčerpání.
+**Efekt:** Bojovník může jako *strategickou akci* začít běsnit. Běsnění přidá bojovníkovi dočasné životy ve výši jeho *úrovně+Výdrž* a také stavový bonus *+1* do všech hodů na *Sílu* a *Výdrž* (ověření dovedností, hod na zásah, poškození zbraní na blízku, záchranné hody atd...) a uděluje stavový postih *-1* k OČ. Běsnící bojovník nemůže provádět aktivity, které vyžadují nějaké soustředění ani utéct z boje. Jaké akce vyžadují soustředění je v nežiji PJ avšak minimálně se jedná o věci jako sesílání kouzel či používání střelných zbraní. Bojovník může na jedno použití běsnit až *6 kol* a během běsnění neobdržuje postihy za *únavu*.
 
 <img src="/assets/sep_line.png"/>
 

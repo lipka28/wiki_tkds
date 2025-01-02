@@ -10,23 +10,23 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP               | Mod.Zásahu |  Um  |              Odemyká              |
-| :----: | :---------------------------: | :--------: | :--: | :-------------------------------: |
-|   1    | Základní životy rasy+10+Výdrž |     +1     |  +1  |          Um, asd, Talent          |
-|   2    |          +1k10+Výdrž          |     +2     |  +1  |              Talent               |
-|   3    |          +1k10+Výdrž          |     +2     |  +1  |        +1 Dovednostní bod         |
-|   4    |          +1k10+Výdrž          |     +4     |  +2  |        Příležitostný útok         |
-|   5    |          +1k10+Výdrž          |     +4     |  +2  |              Talent               |
-|   6    |          +1k10+Výdrž          |     +5     |  +2  |        +1 Dovednostní bod         |
-|   7    |          +1k10+Výdrž          |     +6     |  +3  |                asd                |
-|   8    |          +1k10+Výdrž          |     +7     |  +3  |              Talent               |
-|   9    |          +1k10+Výdrž          |     +7     |  +3  |        +1 Dovednostní bod         |
-|   10   |          +1k10+Výdrž          |     +9     |  +4  |                asd                |
-|  11+   |              +3               |     +9     |  +4  | Talent (a každou další 3. úroveň) |
+| ÚROVEŇ |              HP               | Mod.Zásahu |  Um  |                    Odemyká                    |
+| :----: | :---------------------------: | :--------: | :--: | :-------------------------------------------: |
+|   1    | Základní životy rasy+10+Výdrž |     +1     |  +1  |                Um, asd, Talent                |
+|   2    |          +1k10+Výdrž          |     +2     |  +1  |                    Talent                     |
+|   3    |          +1k10+Výdrž          |     +2     |  +1  |              +1 Dovednostní bod               |
+|   4    |          +1k10+Výdrž          |     +4     |  +2  |              Příležitostný útok               |
+|   5    |          +1k10+Výdrž          |     +4     |  +2  |                    Talent                     |
+|   6    |          +1k10+Výdrž          |     +5     |  +2  |              +1 Dovednostní bod               |
+|   7    |          +1k10+Výdrž          |     +6     |  +3  |                      asd                      |
+|   8    |          +1k10+Výdrž          |     +7     |  +3  |                    Talent                     |
+|   9    |          +1k10+Výdrž          |     +7     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň) |
+|   10   |          +1k10+Výdrž          |     +9     |  +4  |                      asd                      |
+|  11+   |              +3               |     +9     |  +4  |       Talent (a každou další 3. úroveň)       |
 
 ## Schopnosti specializace
 
-**Získané Dovednosti:** *Síla nebo obratnost* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+2 Síla nebo obratnost* a *1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Základní zbraně
 

@@ -41,8 +41,16 @@ Zde se nachází obecné talenty, které při splnění podmínek, jsou k dispoz
 
 ### Blokování štítem
 
-**Požadavek:** Hybridné nebo bojová specializace trénovaná se štítem.
+**Požadavek:** Hybridní nebo bojová specializace trénovaná se štítem.
 
 **Efekt:** Pokud má postava zvednutý štít a hrozí, že obdrží poškození. Může použít svou *reakci* a obětovat až několik bodů obranného čísla svého štítu a tím část poškození vyblokovat. Každý obětovaný bod OČ sníží obdržené poškození o *6*. Štít jehož OČ je zredukováno na 0 je zničen. Po použití této schopnosti štít již není zvednut.
+
+<img src="/assets/sep_line.png"/>
+
+### Vylepšit dovednost
+
+**Požadavek:** -
+
+**Efekt:** Libovolná dovednost postavy se zvedne o *1*. Nemůže být použito na dovednosti, které již mají hodnotu 2 nebo více. Lze vzít opakovaně.
 
 <img src="/assets/sep_line.png"/>

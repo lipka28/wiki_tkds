@@ -39,29 +39,30 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 
 ### Typy zbrojí:
 
-- **Oblečení** - Plní funkci běžného oblečení.
+- **Oblečení** - Plní funkci běžného oblečení. Flexibilní, lze v něm spát a nezpůsobuje zatížení. Nevyžaduje trénink ani pokud přidává OČ.
 - **Lehká** - Flexibilní, lze v ní i spát, nezpůsobuje zatížení.
-- **Střední** - Hlučná, nedá se v ní spát. Způsobuje zatížení. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
-- **Těžká a velmi těžká** - Hlučná, nedá se v ní spát. Způsobuje zatížení. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Střední** - Hlučná, nedá se v ní spát. *Způsobuje zatížení*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Těžká** - Hlučná, nedá se v ní spát. *Způsobuje zatížení*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
 - **Štít** - Stvoření držící štít, může jako *strategickou akci* štít zvednout a tím si připočítat jeho OČ jako *situační bonus ke svému OČ*, nezpůsobuje zatížení.
-- **Zvířecí brnění:** Brnění určená pro zvěř, jako jsou koně a psy. PJ může za příplatek povolit použití i na jiná zvířata.
+- **Zvířecí brnění:** Brnění určená pro zvěř, jako jsou koně a psy. PJ může za příplatek povolit použití i na jiná zvířata. *Způsobuje zatížení*.
 
-| ZBROJE                       |      TYP       |   OČ   | Postih obrat. | skladnost |   CENA   |
-| :--------------------------- | :------------: | :----: | :-----------: | :-------: | :------: |
-| Obyčejné oblečení dobrodruha |    Oblečení    | - (10) |       -       |     1     | - (1 st) |
-| Noblesní oblečení            |    Oblečení    | - (10) |       -       |     1     |  100 st  |
-| Kožená zbroj                 |     Lehká      |   +1   |       -       |     T     |  20 st   |
-| Šupinová zbroj               |    Střední     |   +3   |      -1       |     T     |  40 st   |
-| Půl plát s kyrysem           |     Těžká      |   +5   |      -2       |     T     |  60 st   |
-| Plná plátová zbroj na míru   |  Velmi těžká   |   +7   |      -3       |     T     | 1000 st  |
-| Štít                         |      Štít      |   +2   |       -       |     T     |  15 st   |
-| Zvířecí brnění               | Zvířecí brnění |   +2   |       -       |     T     |  25 st   |
+| ZBROJE                          |      TYP       |  OČ  | Max. obratnost | Požadavek na sílu | skladnost |   CENA   |
+| :------------------------------ | :------------: | :--: | :------------: | :---------------: | :-------: | :------: |
+| Oblečení dobrodruha             |    Oblečení    |  -   |       -        |         -         |     1     | - (1 st) |
+| Noblesní oblečení               |    Oblečení    |  -   |       -        |         -         |     1     |  100 st  |
+| Okované či polstrované oblečení |    Oblečení    |  +1  |       -        |         -         |     1     |  10 st   |
+| Kožená zbroj                    |     Lehká      |  +2  |       +3       |        +1         |     T     |  20 st   |
+| Okovaná kožená zbroj            |     Lehká      |  +3  |       +2       |        +1         |     T     |  30 st   |
+| Šupinová zbroj                  |    Střední     |  +4  |       +2       |        +2         |     T     |  40 st   |
+| Šupinová zbroj s kyrysem        |    Střední     |  +5  |       +1       |        +2         |     T     |  80 st   |
+| Půl plát s kyrysem              |     Těžká      |  +6  |       +1       |        +3         |     T     |  180 st  |
+| Plná plátová zbroj na míru      |     Těžká      |  +7  |       0        |        +3         |     T     |  300 st  |
+| Štít                            |      Štít      |  +2  |       -        |        +1         |     T     |  20 st   |
+| Zvířecí brnění                  | Zvířecí brnění |  +2  |       -        |                   |     T     |  25 st   |
 
-### Postih obratnosti:
+**Maximální obratnost:** Obratnost jedince je snížena na maximální hodnotu povolenou jeho nošenou zbrojí po dobu, co má zbroj na sobě.
 
-Některé zbroje (viz. tabulka zbrojí výše) poskytují *předmětový postih do Obratnosti*. Každý pozitivní bod Síly co nositel má redukuje postih obratnosti o *1*. Například postava se Sílou 1 a Obratností 2, nosící půl plát s kyrysem (postih -2) bude mít celkovou Obratnost 1.
-
-- **Obratnost < 3**: Pokud by hrozilo, že obratnost stvoření klesne pod 3, stvoření se nemůže ve zbroji hýbat.
+**Požadavek na sílu:** Požadovaná výše dovednosti *Síla* pro nošení zbroje.
 
 <img src="/assets/sep_line.png"/>
 

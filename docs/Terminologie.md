@@ -58,9 +58,9 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Hod s hranicí úspěchu X (HU)**: Je jedním z běžných způsobů vyhodnocení akcí, se kterým se setkáte. Hráč musí hodit *X* nebo *více* na *k20*. Případně jiné uvedené kostce.
 
-**X ze Y**: Je často používán u aktivit, ve kterých rozhoduje spíš náhoda než schopnosti hráčovy postavy. Na kostce je třeba hodit *X* nebo *méně* kostkou *Y*. Například *2 z 6-ti*. Pokud je hod zapsán touto notací na místo HU. Pokud je hod popsán touhle notací znamená to, že kostku hází PJ.
-
 **Přímý hod:** Je nemodifikovaný hod kostkou proti určité HU. Vhodný například pro vyřešení čistě náhodných situací.
+
+**Stupně úspěchu:** Všechny ověřovací hody kostkou (mimo přímé hody). Mají 4 stupně úspěchu: *Kritický neúspěch*, *Neúspěch*, *Úspěch* a *Kritický úspěch*. Překonání *HU* o *10* nebo více značí *Kritikcý úspěch*. Podhození *HU* o *10* nebo více pak značí *Kritický neúspěch*. Hod přirozených *20* a *1* pak jednotlivě zvedá a snižuje výsledek o jeden stupeň. Může se tedy stát, že úspěšné pokoření *HU* hodem přirozené *1* udělá z výsledku *Neúspěch* (na místo Kritikcého neúspěchu).
 
 **Tajný hod (TH)**: Je druh hodu, který hází DM a hráč  nevidí přímý výsledek hodu kostky. Tajný hod se používá například při  prozkoumávání oblastí, kdy hráč neví, jestli nic nenašel, protože v dané oblasti nic není nebo proto, že výsledek ověřovacího hodu byl špatný.
 
@@ -96,8 +96,8 @@ K měření času se používají standardní jednotky času (sekundy, minuty, h
 
 Peníze jsou základním platidlem a odměnou za dobře odvedenou práci. Peníze existují ve čtyřech standardních nominálních hodnotách a to *platinové* (pl), *zlaté* (zl), *stříbrné* (st) a *měděné* (md). Základní převod je následující:
 
-- **1 pl = 100 zl = 10 000 st = 100 000 md**
-- **1 zl = 100 st = 1000 md**
+- **1 pl = 10 zl = 1000 st = 1000 md**
+- **1 zl = 10 st = 100 md**
 - **1 st = 10 md**
 
 !!! Note "Škála a význam peněz"

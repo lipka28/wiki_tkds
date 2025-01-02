@@ -22,13 +22,13 @@
 |   6    |          +1k8+Výdrž          |     +5     |  +2  |                      +1 Dovednostní bod                      |
 |   7    |          +1k8+Výdrž          |     +6     |  +3  |                    Mistrovská ostražitost                    |
 |   8    |          +1k8+Výdrž          |     +7     |  +3  |                            Talent                            |
-|   9    |          +1k8+Výdrž          |     +7     |  +3  |                      +1 Dovednostní bod                      |
+|   9    |          +1k8+Výdrž          |     +7     |  +3  |        +1 Dovednostní bod (a každou další 3. úroveň)         |
 |   10   |          +1k8+Výdrž          |     +9     |  +4  |                        Smrtící střela                        |
 |  11+   |              +2              |     +9     |  +4  |              Talent (a každou další 3. úroveň)               |
 
 ## Schopnosti povolání
 
-**Získané Dovednosti:** *Rozvaha* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+2 Rozvaha* a *1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Všechny
 
@@ -47,14 +47,14 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 
 Hraničář může jako *strategickou akci* označit *1 stvoření*, které vidí, slyší nebo zrovna stopuje, jako svou kořist. 
 
-- **Bonusy:** Hraničář má situační bonus *+1* k *zásahu* a *ověření dovedností* proti označenému stvoření a také označené stvoření má sitauční postih -1 k záchranným hodům proti hraničáři. Navíc při útocích na označené stvoření je hraničářův *dostřel* a *neefektivní dostřel* dvojnásobný a spojenci stojící v cestě neudělují postihy k zásahu za překážení.
+- **Bonusy:** Hraničář má *situační bonus +1* k *ověření dovedností* proti označenému stvoření. Označený cíl má *situační postih -1* k *OČ* proti útokům hraničáře. Při útocích na označené stvoření je také hraničářův *dostřel* a *neefektivní dostřel* dvojnásobný a spojenci v cestě neposkytují krytí při střelbě na nepřítele.
 - **Příkaz:** Pokud si hraničář přeje, může jako *volnou akci* součástí této schopnosti, přikázat svému zvířecímu společníkovi útok na označené stvoření. 
 
 ### Za jedno s přírodou
 
-Hraničář se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se hraničář nachází v divočině s dostatečným množství zvířat a poživatelných rostlin, nepotřebuje on a ani jeho zvířecí společník *zásoby* (neplatí v kobkách). Hraničář se navíc může zbavit vyčerpání i mimo bezpečí civilizace.
+Hraničář se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se hraničář nachází v divočině s dostatečným množství zvířat a poživatelných rostlin, nepotřebuje on a ani jeho zvířecí společník *zásoby* (neplatí v kobkách). Hraničář se navíc může zbavit vážných zrannění i mimo bezpečí civilizace.
 
-- **Přítel divočiny:** Hraničářova *osobnost* je považována za *+2* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
+- **Přítel divočiny:** Hraničářova *osobnost* je považována za *+1* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
 
 ### Samotář (nebo Věrný společník)
 

@@ -51,6 +51,7 @@ Při řešení nejasných situací je dobré, aby PJ měl na paměti to, že hr�
 Zjednodušeně řečeno, ověřovací hod je hod *dvaceti-stěnnou kostkou (k20)* proti *hranici úspěchu (HU)*.
 
 - **Celkový výsledek ověřovacího hodu:** *Výsledek na kostce* + *Bonusy* + *Postihy* = *Výsledek*
+- **Stupně úspěchu:** Všechny ověřovací hody kostkou (mimo přímé hody). Mají 4 stupně úspěchu: *Kritický neúspěch*, *Neúspěch*, *Úspěch* a *Kritický úspěch*. Překonání *HU* o *10* nebo více značí *Kritikcý úspěch*. Podhození *HU* o *10* nebo více pak značí *Kritický neúspěch*. Hod přirozených *20* a *1* pak jednotlivě zvedá a snižuje výsledek o jeden stupeň. Může se tedy stát, že úspěšné pokoření *HU* hodem přirozené *1* udělá z výsledku *Neúspěch* (na místo Kritikcého neúspěchu).
 
 #### Bonusy a postihy
 
@@ -66,8 +67,8 @@ Bonusy a postihy se dělí do čtyř rozličných typů. Důležité je, že bon
 Ověření dovednosti probíhá jako hod modifikovaný dovedností postavy. Hráč si hodí *1k20* a přičte dovednost, kterou ověřuje.
 
 - *Větší rovno 12:* Pokud je výsledek větší nebo roven *12 (Hranice úspěchu - HU)*, tak je hod úspěšný. V opačném případě se jedná o neúspěch.
-- *Přirozená 1 a přirozených 20:* Pokud na kostce padne *1* hod je neúspěšný nezávisle na modifikátorech či hranici úspěchu. Naopak pokud na kostce padne *20* je hod vždy úspěšný.
 - *Bonusy a postihy:* Na hod lze aplikovat relevantní bonusy a postihy.
+- *Stupně úspěchu:* Na PJ záleží vyhodnocení stupňů úspěchu.
 - *Modifikace obtížnosti:* Obtížnost *12* je nejběžnější a vhodná pro libovolné situace s prvkem náhody. Pokud není psáno jinak ověření dovednosti má *HU 12*. PJ však může usoudit, že je aktivita o kterou se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *16* a *20* pro těžkou a velmi těžkou aktivitu a *8* pro lehkou.
 
 #### Přímý hod
@@ -93,9 +94,7 @@ Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli pln�
 
 **Hod záchranného hodu:** Když PJ vyžaduje záchranný hod, tak si hráč hodí *1k20*, připočítá patřičné modifikátory a potřebuje překonat *HU 16*.
 
-- *Větší rovno 16:* Pokud je výsledek větší nebo roven 16-ti, tak je hod úspěšný. 
-- *Nižší:* V případě nižších výsledků se jedná o neúspěch. 
-- *NAT1 a NAT20:* V případě přirozené 1 se vždy jedná o neúspěch a v případě přirozených 20 je hod vždy úspěšný.
+- *Stupně úspěchu:* Pokud není napsáno v efektu, který záchranný hod způsobil jinak. vyhodnocení stupňů úspěchu záleží na PJ.
 
 <img src="/assets/sep_line.png"/>
 
@@ -111,26 +110,57 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 ### Smrt
 
-Klesnou-li životy hráčské postavy na 0, obdrží 1 bod vyčerpání, upadá do bezvědomí a dostává se na práh smrti. Zde o ní rozhodne jen časná pomoc spojenců nebo *mince smrti*.
+Klesnou-li životy hráčské postavy na 0, obdrží 1 vážné zranění, upadá do bezvědomí a dostává se na práh smrti. Pokud byl efekt, který postavu zredukoval na 0 životů kritický, obdrží rovnou 2 vážná zranění. Jeho pozice v iniciativě je přesunuta hned před stvoření nebo efekt, který jej zredukoval na 0 životů. Zde o ní rozhodne jen časná pomoc spojenců nebo *mince smrti*.
 
 **Beznaděj:** Ve hře existují způsoby jak zemřít bez možnosti záchrany. Většinou ve formě různých pastí, kouzel okamžitého zabití či masivního poškození.
 
 **Masivní poškození:** Pokud postava obdrží v jednom úderu větší poškození než je dvojnásobek jejího maximální počtu životů umře bez možnosti záchrany.
 
-==todo: přemístění v iniciativě.==
-
 #### Mince smrti
 
-Na místo svého tahu si hráč hodí mincí. Pokud padne *hlava* poznačí si *1 úspěch*. Padne-li orel, přičte si bod vyčerpání.
+Na místo svého tahu si hráč hodí mincí. Pokud padne *hlava* poznačí si *1 úspěch*. Padne-li orel, přičte si *vážné zranění*.
 
-- **Návrat z prahu smrti:** Nasbírá-li hráč *3 úspěchy* nebo je jeho postava vyléčena za libovolné množství životů. Jeho postava přežije s *1 životem* (nebo vyléčeným množstvím) a stráví dalších *1k4* směn v bezvědomí.
-- **Smrt:** Nasbírá-li postava *6 bodů vyčerpání*, tak zemře (viz. vyčerpání ==todo odkaz==).
+- **Návrat z prahu smrti:** Nasbírá-li hráč *3 úspěchy* nebo je jeho postava vyléčena za libovolné množství životů. Jeho postava přežije s *1 životem* (nebo vyléčeným množstvím) a stráví dalších *1k4* směn v bezvědomí. Každé stvoření co se navrátí z prahu smrti je *unavené*.
+- **Smrt:** Nasbírá-li postava *6 vážných zranění*, tak zemře.
+
+#### Léčba vážných zranění
+
+Za každý den *celodenního odpočinku* v bezpečí civilizace se postavě vyléčí *jedno vážné zranění*. 
+
+<img src="/assets/sep_line.png"/>
+
+## Únava
+
+Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žízeň či neklidné noci v chladu. Neustále psychické a fyzické vypětí se může lehce podepsat na kdejakém dobrodruhovy.
+
+**Důvody k získání únavy:** PJ může hráči udělit únavu za extrémně náročné situace. Doporučuje se to a však minimálně v těchto případech:
+
+- Den a noc bez spánku
+- Onemocnění
+- Přežití vlastní smrti
+- Magie
+
+**Efekty únavy:** Unavené stvoření má *stavový postih -2* ke všem *ověřovacím hodům*, *útokům*, *záchranným hodům* a *OČ*. Navíc si při cestování a průzkumu nemůže vybrat aktivitu, kterou by chtěl provádět. Únavy se lze zbavit spánkem do dalšího dne.
+
+**Zbavení se únavy:** Únavy se lze zbavit buďto magií nebo odpočinkem do dalšího dne.
+
+<img src="/assets/sep_line.png"/>
+
+## Odpočinek
+
+Po dostatečně dlouhém průzkumu si hráčské postavy mohou chtít odpočinout. Za odpočinek se většinou považuje přenocování do dalšího dne na bezpečném místě. Reálně se však jedná o libovolný odpočinek, při kterém má každá z postav možnost si odpočinout aspoň 8 hodin a provést veškeré nutné přípravy, aby mohla pokrčovat v dobrodružství.
+
+- **Potřebná výbava:** K získání všech benefitů z odpočinku (jako je třeba přirozená regenerace) musí mít postava k dispozici minimálně *cestovní výbavu* a *1 den zásob*. V horších klimatech však může být potřeba další výbava.
+
+**Celodenní odpočinek:** Pokud si hráč přeje, může deklarovat že jeho postava celý den nic nedělá a jen odpočívá. Tím jsou benefity odpočinku zdvojnásobené a lze se tak zbavit únavy.
+
+**Odpočinek v kobce:** Ve většině případů není možné, protože by postavy byly celou noc rušeny putujícími monstry. Může však existovat výjimka v podobě dobře ukrytého a zabezpečeného místa uvnitř kobky, kde se dá nerušeně odpočinout.
 
 <img src="/assets/sep_line.png"/>
 
 ## Body hrdinství (BH)
 
-Hráči začínají každé sezení s *3-mi body hrdinství*, které jsou společné pro celou skupinu. PJ může během hry přidělit hráčům další body hrdinství. Ty se většinou dostávají za hrdinské až opovážlivé činy nebo prostě za dobrý role-play. S každým obdrženým bodem hrdinství (mimo ty do začátku) hráčské postavy také obdrží *1 zkušenostní bod*. V jednu chvíli nemůže mít hráč více než *3 body hrdinství*. Body hrdinství mají následující využití: 
+Hráči začínají každé sezení s *3-mi body hrdinství*, které jsou společné pro celou skupinu. PJ může během hry přidělit hráčům další body hrdinství. Ty se většinou dostávají za hrdinské až opovážlivé činy nebo prostě za dobrý role-play. S každým obdrženým bodem hrdinství (mimo ty do začátku) hráčské postavy také obdrží *1 zkušenostní bod*. Body hrdinství mají následující využití: 
 
 - **1 BH za přehození ověření:** Hráč může přehodit jeden svůj libovolný hod na ověření (včetně hodů na zásah, záchranných hodů a přímých hodů). Nelze použít opakovaně na jeden hod.
 - **Všechny BH za vyhnutí se smrti (minimálně 1)**: Pokud se hráčova postava nachází na prahu smrti. může použít všechny své body hrdinství a tím se stabilizovat s 1 životem a být při vědomí.
@@ -156,7 +186,7 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 !!! note "Rychlost pádu"
     Pokud postava padá volným pádem, předpokládá se, že první kolo padá rychlostí *15 metrů za vteřinu* (150 metrů za kolo) a všechna následující kola rychlostí *45 metrů za vteřinu* (450 metrů za kolo).
 
-**Hlad a žízeň:** Pokud postavy jsou déle jak den bez jídla nebo pití, tak si za každý takový den přičtou bod vyčerpání.
+**Hlad a žízeň:** Pokud postavy jsou déle jak den bez jídla nebo pití, tak mohou být postihnuty únavou.
 
 ### Voda a plavání ==todo: rework pravděpodobnosti na ověřovací hody==
 
@@ -179,37 +209,6 @@ Jednou z nejnebezpečnější překážek,se kterou se postavy mohou setkat, je 
 **Zbraně:** Střelné zbraně a zbraně působící tupá poškození jsou pod vodou nepoužitelné. Sečné zbraně útočí s postihem *-4* na zásah a při úspěšném zásahu působí *poloviční poškození*. Bodné zbraně fungují normálně.
 
 **Kouzla:** Pokud stvoření nemůže pod vodou mluvit, tak nemůže sesílat kouzla. Navíc všechna ohnivá kouzla jsou pod vodou nepoužitelná.
-
-<img src="/assets/sep_line.png"/>
-
-## Vyčerpání
-
-Divočina velmi často nezabíjí rychle. Preferuje metody jako jsou hald, žízeň či neklidné noci v chladu. Neustále psychické a fyzické vypětí se může lehce podepsat na kdejakém dobrodruhovy.
-
-**Důvody k získání vyčerpání:** PJ může hráči udělit bod vyčerpání za extrémně náročné situace. Doporučuje se to a však minimálně v těchto případech:
-
-- Den a noc bez spánku
-- Den a noc bez jídla či vody
-- Onemocnění
-- Obdržení vážného zranění (Zlomenina, otřes mozku, amputace a podobné)
-- Přežití vlastní smrti
-- Magie
-
-**Efekty vyčerpání:** Vyčerpání nemá na postavu žádný vliv, dokud nedosáhne *6-ti* bodů vyčerpání, pak ihned umírá.
-
-**Zbavení se vyčerpání:** Vyčerpání se lze zbavit buďto magií nebo celodenním odpočinkem v bezpečí civilizace, kdy každý den takového odpočinku *vyléčí jeden bod vyčerpání*.
-
-<img src="/assets/sep_line.png"/>
-
-## Odpočinek
-
-Po dostatečně dlouhém průzkumu si hráčské postavy mohou chtít odpočinout. Za odpočinek se většinou považuje přenocování do dalšího dne na bezpečném místě. Reálně se však jedná o libovolný odpočinek, při kterém má každá z postav možnost si odpočinout aspoň 8 hodin a provést veškeré nutné přípravy, aby mohla pokrčovat v dobrodružství.
-
-- **Potřebná výbava:** K získání všech benefitů z odpočinku (jako je třeba přirozená regenerace) musí mít postava k dispozici minimálně *cestovní výbavu* a *1 den zásob*. V horších klimatech však může být potřeba další výbava.
-
-**Celodenní odpočinek:** Pokud si hráč přeje, může deklarovat že jeho postava celý den nic nedělá a jen odpočívá. Tím jsou benefity odpočinku zdvojnásobené a lze se tak zbavit únavy.
-
-**Odpočinek v kobce:** Ve většině případů není možné, protože by postavy byly celou noc rušeny putujícími monstry. Může však existovat výjimka v podobě dobře ukrytého a zabezpečeného místa uvnitř kobky, kde se dá nerušeně odpočinout.
 
 <img src="/assets/sep_line.png"/>
 

@@ -16,21 +16,23 @@ Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šes
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |    Magie     | Mod.Zásahu |  Um  |              Odemyká              |
-| :----: | :--------------------------: | :----------: | :--------: | :--: | :-------------------------------: |
-|   1    | Základní životy rasy+8+Výdrž |  6+Rozvaha   |     +1     |  +1  |              Um, asd              |
-|   2    |          +1k8+Výdrž          | +1k6+Rozvaha |     +2     |  +1  |         Talent, +1 Kouzlo         |
-|   3    |          +1k8+Výdrž          | +1k6+Rozvaha |     +2     |  +1  |        +1 Dovednostní bod         |
-|   4    |          +1k8+Výdrž          | +1k6+Rozvaha |     +4     |  +2  |          asd, +1 Kouzlo           |
-|   5    |          +1k8+Výdrž          | +1k6+Rozvaha |     +4     |  +2  |              Talent               |
-|   6    |          +1k8+Výdrž          | +1k6+Rozvaha |     +5     |  +2  |   +1 Dovednostní bod, +1 Kouzlo   |
-|   7    |          +1k8+Výdrž          | +1k6+Rozvaha |     +6     |  +3  |                asd                |
-|   8    |          +1k8+Výdrž          | +1k6+Rozvaha |     +7     |  +3  |         Talent, +1 Kouzlo         |
-|   9    |          +1k8+Výdrž          | +1k6+Rozvaha |     +7     |  +3  |        +1 Dovednostní bod         |
-|   10   |          +1k8+Výdrž          | +1k6+Rozvaha |     +9     |  +4  |          asd, +1 Kouzlo           |
-|  11+   |              +2              |      +1      |     +9     |  +4  | Talent (a každou další 3. úroveň) |
+| ÚROVEŇ |              HP              |    Magie     | Mod.Zásahu |  Um  |                    Odemyká                    |
+| :----: | :--------------------------: | :----------: | :--------: | :--: | :-------------------------------------------: |
+|   1    | Základní životy rasy+8+Výdrž |  6+Rozvaha   |     +1     |  +1  |                    Um, asd                    |
+|   2    |          +1k8+Výdrž          | +1k6+Rozvaha |     +2     |  +1  |               Talent, +1 Kouzlo               |
+|   3    |          +1k8+Výdrž          | +1k6+Rozvaha |     +2     |  +1  |              +1 Dovednostní bod               |
+|   4    |          +1k8+Výdrž          | +1k6+Rozvaha |     +4     |  +2  |                asd, +1 Kouzlo                 |
+|   5    |          +1k8+Výdrž          | +1k6+Rozvaha |     +4     |  +2  |                    Talent                     |
+|   6    |          +1k8+Výdrž          | +1k6+Rozvaha |     +5     |  +2  |         +1 Dovednostní bod, +1 Kouzlo         |
+|   7    |          +1k8+Výdrž          | +1k6+Rozvaha |     +6     |  +3  |                      asd                      |
+|   8    |          +1k8+Výdrž          | +1k6+Rozvaha |     +7     |  +3  |               Talent, +1 Kouzlo               |
+|   9    |          +1k8+Výdrž          | +1k6+Rozvaha |     +7     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň) |
+|   10   |          +1k8+Výdrž          | +1k6+Rozvaha |     +9     |  +4  |                asd, +1 Kouzlo                 |
+|  11+   |              +2              |      +1      |     +9     |  +4  |       Talent (a každou další 3. úroveň)       |
 
 ## Schopnosti povolání
+
+**Získané Dovednosti:** *+2 Síla nebo Výdrž* a *+1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Všechny
 
