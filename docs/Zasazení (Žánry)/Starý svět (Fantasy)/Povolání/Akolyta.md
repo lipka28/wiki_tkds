@@ -45,7 +45,7 @@ Ověření reakce patrona funguje stejně jako *ověření Osobnosti* avšak vý
 
 **Trénovaná brnění:** Žádné
 
-**Bonusy k záchranným hodům:** +4 Zdatnost a +2 Vůle
+**Bonusy k záchranným hodům:** +3 Vůle a +3 Zdatnost
 
 **Extra výbava:** Symbol patrona (L slot)
 
