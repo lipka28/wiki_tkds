@@ -28,7 +28,7 @@
 
 ## Schopnosti povolání
 
-**Získané Dovednosti:** *+1 Obratnost nebo Rozvaha* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+1 Obratnost nebo Rozvaha*
 
 **Trénované zbraně:** Základní zbraně, všechny čistě jednoruční zbraně a všechny střelné zbraně
 

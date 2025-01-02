@@ -32,7 +32,7 @@ Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šes
 
 ## Schopnosti povolání
 
-**Získané Dovednosti:** *+1 Síla nebo Výdrž* a *+1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+1 Síla nebo Výdrž*
 
 **Trénované zbraně:** Všechny
 
