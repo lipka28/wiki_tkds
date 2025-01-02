@@ -46,7 +46,7 @@ Vytrvalost představuje zdraví a odolnost. Ověření výdrže se hodí třeba 
 
 Vzdělání představuje rozsah vzdělání, jaké bylo postavě poskytnuto, ale i do jisté míry to, jak zvládá pracovat s informacemi. Ověření vzdělání je užitečné především při vybavování si informací, luštění všelijakých textů, identifikaci magických předmětů a jiných podobných aktivitách.
 
-**Gramotnost:** Postavy, které mají hodnotu vzdělání 0 nebo méně jsou negramotné. To znamená, že neumí číst, psát a jejich schopnost počítat je výrazně omezena.
+**Gramotnost:** Postavy, které mají hodnotu vzdělání menší jak 0 jsou negramotné. To znamená, že neumí číst, psát a jejich schopnost počítat je výrazně omezena.
 
 **Vzdělání se přičítá k:**
 
