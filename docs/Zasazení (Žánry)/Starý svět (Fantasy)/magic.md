@@ -44,7 +44,7 @@ Postavy se specializací ovládající magii, se můžou naučit libovolné kouz
 
 Základní pravidla a definice platící pro všechny kouzla ve hře.
 
-- **Sesílání** - Vyčarování kouzla trvá většinou *akci* a vyžaduje hlasité zaříkávání, aspoň 1 volnou ruku a případně i další komponenty. Existují však i kouzla, které lze seslat jako *strategickou akci*, *reakci* či kombinaci více akcí.
+- **Sesílání** - Vyčarování kouzla trvá většinou *běžnou akci* a vyžaduje hlasité zaříkávání, aspoň 1 volnou ruku a případně i další komponenty. Existují však i kouzla, které lze seslat jako *strategickou akci*, *reakci* či kombinaci více akcí.
 - **Posílení kouzla:** Většina kouzel lze seslat v posílené verzi. Posílení kouzla vyžaduje použití *více magie* a často i kombinace *více akcí* k jeho seslání. Jaký efekt posílení kouzla má je popsáno v popisku kouzla.
 - **Odvolání** - Kouzlo může být kdykoliv odvoláno tím kdo jej seslal (pokud nebylo odraženo nebo se jeho sesílání nějak nepokazilo).
 - **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje ale pouze jedno kouzlo vyžadující koncentraci může být aktivní v jednu chvíli. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí.
@@ -81,7 +81,7 @@ Hráčské postavy jsou omezené v tom, kolik mohou aktivovat magických předm�
 
 Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o *jednorázový* předmět, který se po použití zničí a jehož výsledkem, je nějaký většinou magický nebo magii podobný efekt. Lektvary jsou považovány za alchymistické předměty (nikoliv magické) a může je aktivovat (vypít nebo hodit) *kdokoliv*. Svitek může být seslán pouze *postavami ovládající stejnou magickou disciplínu* jako tu do které spadá svitek.
 
-- **Aktivace předmětu:** Vypití lektvaru stojí *akci*. Aktivace svitku pak stojí tolik akcí kolik vyžaduje aktivace kouzla na něm zapsaném. Pro aktivaci *svitku* je také třeba využít *1 magickou aktivaci*.
+- **Aktivace předmětu:** Vypití lektvaru stojí *běžnou akci*. Aktivace svitku pak stojí tolik akcí kolik vyžaduje aktivace kouzla na něm zapsaném. Pro aktivaci *svitku* je také třeba využít *1 magickou aktivaci*.
 - **Síla svitků a lektvarů:** Síla svitku nebo lektvaru je vždy určena při jeho výrobě (nebo nalezení). Úroveň či síla uživatele nemá na sílu jejich efektu žádný vliv.
 - **Posílení svitku:** Kouzlo zapsané na svitku nemůže být sesláno s jiným efektem než tím, který je zaznamenán na svitku. Je-li na svitku běžná verze kouzla, lze seslat pouze běžnou verzi. 
 
@@ -97,7 +97,7 @@ Grimoáry jsou speciální knihy, do kterých si kouzelníci zapisují svá kouz
 Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Efekt je většinou sesílán formou úderu nebo poklepáním žezlem. *Žezla mohou být použita a aktivována kýmkoliv, bez magického nadání*.
 
 - **Počet použití:** Žezlo má většinou při nálezu *1k10* použití.
-- **Aktivace předmětu:** Aktivace žezla stojí *akci* a vyžaduje *magickou aktivaci*.
+- **Aktivace předmětu:** Aktivace žezla stojí *běžnou akci* a vyžaduje *magickou aktivaci*.
 - **Dobytí:** Nelze, ale PJ může udělat výjimku. 
 
 ### Magické hůlky
@@ -105,7 +105,7 @@ Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Ef
 Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický efekt. Efekt je většinou stejný jako některé z kouzel. *Magické hůlky mohou být aktivovány pouze postavami, které ovládají relevantní magickou disciplínu*.
 
 - **Počet použití:** Magická hůlka má většinou při nálezu *2k10* použití.
-- **Aktivace předmětu:** Aktivace hůlky stojí *akci* a vyžaduje *magickou aktivaci*.
+- **Aktivace předmětu:** Aktivace hůlky stojí *běžnou akci* a vyžaduje *magickou aktivaci*.
 - **Dobytí:** Nelze, ale PJ může udělat výjimku.
 
 ### Magické hole
@@ -127,7 +127,7 @@ Další běžnou podobou magických předmětů jsou zbraně, štíty a zbroje. 
 Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že takové magické předměty *mohou být použity kýmkoliv kdo je má jako součást své výbavy*.
 
 - **Omezení:** Stvoření může mít naráz vybaven jen 1 magický předmět daného typu (jedny boty, jedna přilba, jeden plášť atd...). Výjimkou jsou magické prsteny. Ty lze mít vybavené 2 (1 na každé ruce). 
-- **Aktivace:** Jak je magický předmět aktivován nemusí být na první pohled jasné. Hráč si na způsob aktivace může přijít *identifikací*. Aktivace předmětu stojí většinou *akci*.
+- **Aktivace:** Jak je magický předmět aktivován nemusí být na první pohled jasné. Hráč si na způsob aktivace může přijít *identifikací*. Aktivace předmětu stojí většinou *běžnou akci*.
 - **Prokleté předměty:** Některé předměty mohou být prokleté. Nasazený prokletý předmět nelze sundat, dokud není prokletí zlomeno. 
 
 <img src="/assets/sep_line.png"/>

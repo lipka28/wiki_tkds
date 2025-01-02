@@ -69,7 +69,7 @@ Hraničář se může pokusit utvořit pouto s nalezeným zvířetem. Pokud je p
 - **Limit:** Lovec může mít silné pouto *pouze s jedním zvířecím společníkem*, jehož úroveň nesmí převýšit úroveň lovce.
 - **Chování:**  Zvířecí společník bude následovat jednoduché pokyny bez toho, aby pro ně musel být předtím trénován. (I takové pokyny, které třeba nejsou pro daný zvířecí druh běžné.)
 - **Chování v boji:** Věrný zvířecí společník bude oddaně bojovat po boku lovce a nikdy nemusí ověřovat morálku. V boji zvířecí společník drží po boku lovce a chrání jej, pokud mu není dán jiný příkaz.
-- **Příkaz:** Hraničář může použít svou *strategickou akci*, aby dal svému zvířeti příkaz. Zvíře pak vykonává příkaz tak dlouho dokud jej nedokončí nebo dokud nedostane jiný příkaz. Zvíře má na vykonání příkazů, každé kolo k dispozici *akci* a *strategickou akci*.
+- **Příkaz:** Hraničář může použít svou *strategickou akci*, aby dal svému zvířeti příkaz. Zvíře pak vykonává příkaz tak dlouho dokud jej nedokončí nebo dokud nedostane jiný příkaz. Zvíře má na vykonání příkazů, každé kolo k dispozici *běžnou akci* a *strategickou akci*.
 - **Zvíře do začátku:** Pokud si lovec přeje, může začínat hru se [zvířetem vlastního výběru](/Gear/#lovecky-pes) zdarma, který bude fungovat jako jeho věrný společník.  ==todo výběr zvířat do začátku==
 - **Získávání zkušeností:** Věrný zvířecí společník, po ochočení, začíná s tolika zkušenostmi kolik je nutné minimum pro jeho aktuální úroveň a *získává zkušenosti* jako další člen skupiny. S každou dosaženou úrovní obdrží *+4 životy*. S každou druhou dosaženou úrovní bonus *+1* k zásahu, poškození a záchranným hodům, a s každou třetí dosaženou úrovní bonus *+1* k OČ. Dosažené úrovně se počítají od úrovně na které se zvíře stalo věrným společníkem. Zvířecí společník nemůže tímto způsobem nikdy přesáhnout 10. úroveň avšak hraničář si může ochočit zvířecího společníka vyšší než 10. úrovně pokud na to sám má úroveň.
 - **Ježdění:** Zvířecí společníci 5. a vyšší úrovně, jsou dostatečně velcí aby na nich mohli jezdit stvoření velikostí podobná člověku.
@@ -195,7 +195,7 @@ Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybra
 
 **Požadavek:** -
 
-**Efekt:** Hraničář může mít v jednu chvíli označené až *3 stvoření* jako svou kořist. Pokud si přeje může jako *akci* označit 3 stvoření naráz.
+**Efekt:** Hraničář může mít v jednu chvíli označené až *3 stvoření* jako svou kořist. Pokud si přeje může jako *běžnou akci* označit 3 stvoření naráz.
 
 <img src="/assets/sep_line.png"/>
 

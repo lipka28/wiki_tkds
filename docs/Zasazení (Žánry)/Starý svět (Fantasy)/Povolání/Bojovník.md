@@ -74,7 +74,7 @@ V těch nejhorších situacích může bojovník sáhnout do svých psychických
 
 ### Extra útok (Úroveň 10)
 
-Od 10. úrovně může bojovník provést 2 útoky jako součást jedné *akce*.
+Od 10. úrovně může bojovník provést 2 útoky jako součást jedné *běžné akce*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -112,6 +112,6 @@ Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat 
 
 **Požadavek:** -
 
-**Efekt:** Bojovník se může *pohnout* o svou hybnost a *zaútočit* jako součást jedné *akce*. Pokud se ve svém tahu přesunul o aspoň *15 metrů* a zasáhne svůj cíl. Jeho způsobené poškození je dvojnásobné.
+**Efekt:** Bojovník se může *pohnout* o svou hybnost a *zaútočit* jako součást jedné *běžné akce*. Pokud se ve svém tahu přesunul o aspoň *15 metrů* a zasáhne svůj cíl. Jeho způsobené poškození je dvojnásobné.
 
 <img src="/assets/sep_line.png"/>

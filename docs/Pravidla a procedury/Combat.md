@@ -22,9 +22,9 @@
 !!! note "Příklad: Zvraty v boji"
     Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
 
-<img src="/assets/round.png" width="20"> **Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést  *jednu strategickou akci*, *jednu akci* a *jednu reakci*. Hráč může také své kolo prokládat *volnými akcemi*. Všechny tyto "akce" se postavě obnoví pokaždé, když začne její tah. Jednotlivé akce fungují následovně.:
+<img src="/assets/round.png" width="20"> **Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést  *jednu strategickou akci*, *jednu běžnou akci* a *jednu reakci*. Hráč může také své kolo prokládat *volnými akcemi*. Všechny tyto "akce" se postavě obnoví pokaždé, když začne její tah. Jednotlivé akce fungují následovně.:
 
-- <img src="/assets/action.png" width="20"> *Akce:* Za akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzla, použití předmětu či významná obměna výzbroje (změna držených zbraní). Akci lze také použít pro provedení aktivity vyžadující strategickou akci.
+- <img src="/assets/action.png" width="20"> *Běžná akce:* Za běžnou akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzla, použití předmětu či významná obměna výzbroje (změna držených zbraní). Akci lze také použít pro provedení aktivity vyžadující strategickou akci.
 - <img src="/assets/saction.png" width="20"> *Strategická akce:* Za strategickou akci je považován převážně pohyb. Postavy a monstra však mají spoustu schopností, které lze aktivovat jako strategickou akci. Co se pohybu týče, stvoření se může pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Alternativně se dá použít celý pohyb k posílení některých kouzel.
 - <img src="/assets/reaction.png" width="15"> *Reakce:* Reakce je speciální akce, která umožní provést aktivitu i mimo tah stvoření, pokud jsou splněny podmínky jejího spouštěče. Stvoření nemůže na jeden spouštěč nikdy použít více jak jednu svou reakci.
 - <img src="/assets/free.png" width="20"> *Volná akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
@@ -35,7 +35,7 @@
     Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*. Na hexagonové síti není třeba tento rozdíl řešit.
 
 !!! note "Tah monster"
-    Monstra se většinou řídí stejnými pravidly boje jako hráči. Silná monstra však mohou mít výjimky z těchto pravidel. Jako například více útoků součástí jedné akce nebo více strategických akcí či reakcí.
+    Monstra se většinou řídí stejnými pravidly boje jako hráči. Silná monstra však mohou mít výjimky z těchto pravidel. Jako například více útoků součástí jedné běžné akce nebo více strategických akcí či reakcí.
 
 **Konec trvajících efektů:** Efekty, kterými jsou ovlivněni členové skupiny, která je na tahu, ukončí své trvání. Pokud tyto efekty mají delší trvání jak 1 kolo, zkrátí se jejich doba trvání o 1 kolo. Působí-li takový efekt poškození (například někdo hoří nebo plave v kyselině), poškození je uděleno v této fázi.
 
@@ -98,7 +98,7 @@
 
 **Neozbrojený boj:** Uděluje *1k2+Síla* poškození. Na rozdíl od útoků zbraněmi. Neozbrojené útoky mohou udělit *0* poškození. Neozbrojené útoky běžně nejsou smrtelné.
 
-**Připravená akce:** Postava nebo stvoření může obětovat svou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *reakci*.
+**Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *reakci*.
 
 !!! Warning "Souběh akcí"
     Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
@@ -117,7 +117,7 @@
 
 **Neviditelný:** Přítomnost neviditelného stvoření nelze odhalit běžným zrakem. Na neviditelné stvoření také nelze cílit útoky nebo kouzla, dokud není upřesněna jeho poloha.
 
-**Oslepený:** Slepé stvoření, bez jiného smyslu, kterým by mohlo precizně vnímat okolí je *zaskočené* a v rámci pohybu se může hnout jen o 1 metr. Slepé stvoření nemůže provádět útoky na dálku a nebo jiné akce vyžadující zrak. Slepé stvoření může útočit na blízku avšak jeho útoky jsou penalizovány *stavovým postihem -4* k zásahu. 
+**Oslepený:** Slepé stvoření, bez jiného smyslu, kterým by mohlo precizně vnímat okolí je *zaskočené* a v rámci pohybu se může hnout jen o 1 metr. Slepé stvoření nemůže provádět útoky na dálku a nebo jiné aktivity vyžadující zrak. Slepé stvoření může útočit na blízku avšak jeho útoky jsou penalizovány *stavovým postihem -4* k zásahu. 
 
 **Unavený:** Unavené stvoření má *stavový postih -2* ke všem *ověřovacím hodům*, *útokům*, *záchranným hodům* a *OČ*. Navíc si při cestování a průzkumu nemůže vybrat aktivitu, kterou by chtěl provádět. Únavy se lze zbavit spánkem do dalšího dne.
 

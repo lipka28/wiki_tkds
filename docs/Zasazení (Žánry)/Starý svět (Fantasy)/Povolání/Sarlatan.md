@@ -36,7 +36,7 @@
 
 ### Inspirace
 
-Minstrel může *tolikrát denně kolik je jeho úroveň*. Zahrát krátkou melodii (jako *akci*) a tím poskytnout spojenci inspiraci.
+Minstrel může *tolikrát denně kolik je jeho úroveň*. Zahrát krátkou melodii (jako *běžnou akci*) a tím poskytnout spojenci inspiraci.
 
 - **Inspirace:** Inspirace trvá *1 směnu* a může být využita jako jednorázový bonusu *+1* k ověření dovednosti nebo schopnosti a nebo jako jednorázový bonus +3 k zásahu, OČ či záchrannému hodu.
 - **Využití:** Kdy se inspirace využije určuje inspirované stvoření.

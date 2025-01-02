@@ -12,14 +12,6 @@ Zde se nachází obecné talenty, které při splnění podmínek, jsou k dispoz
 
 <img src="/assets/sep_line.png"/>
 
-### Rychlé přebíjení
-
-**Požadavek:** Trénovaná s kuší nebo jinou ruční nabíjecí zbraní
-
-**Efekt:** Postava používající kuši nebo jinou ruční nabíjecí zbraň, může tuto zbraň ve svém tahu přebít jako *rychlou akci*.
-
-<img src="/assets/sep_line.png"/>
-
 ### Fušování do magie
 
 **Požadavek:** Nesmí ovládat magii a Rozvaha >=1

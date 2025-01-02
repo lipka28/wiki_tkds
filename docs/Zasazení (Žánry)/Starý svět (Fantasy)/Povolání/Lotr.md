@@ -82,7 +82,7 @@ Pokud je lotr cílem útoku nebo plošného útoku, může si jako *reakci* při
 
 ### Přelsti magii (úroveň 7)
 
-Lotr se může, jako *akci*, pokusit aktivovat nebo dočasně vyřadit magický předmět nebo mechanizmus. Bez hlubšího pochopení pro jeho fungování.
+Lotr se může, jako *běžnou akci*, pokusit aktivovat nebo dočasně vyřadit magický předmět nebo mechanizmus. Bez hlubšího pochopení pro jeho fungování.
 
 - **Ověření:** Lotr podstoupí *ověření dovednosti Vzdělání*.
 - **Úspěch:** Jednorázová aktivace magického předmětu či mechanizmu nebo jeho vyřazení na *1 směnu*.
@@ -126,7 +126,7 @@ Lotr útočící nožem, může použít svou obratnost (na místo síly) jako m
 
 **Požadavek:** Mistr nožů a aspoň 5. úroveň
 
-Lotr může jako *akci* hodit dva nože co má u sebe. Hod na zásah těmito noži má postih *-2* k zásahu.
+Lotr může jako *běžnou akci* hodit dva nože co má u sebe. Hod na zásah těmito noži má postih *-2* k zásahu.
 
 <img src="/assets/sep_line.png"/>
 

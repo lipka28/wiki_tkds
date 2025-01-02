@@ -56,7 +56,7 @@ Mág disponuje schopností používat magii spadající do disciplíny *praktick
 
 ### Magická střela
 
-Mág ovládá základní kouzlo *magická střela* jenž může seslat až na vzdálenost až *10 metrů* a která působí *1k4 silového* poškození. Cíl má nárok na *záchranný hod na reflexy* aby efektu odolal. Seslání nestojí žádnou magii a probíhá jako *akce*.
+Mág ovládá základní kouzlo *magická střela* jenž může seslat až na vzdálenost až *10 metrů* a která působí *1k4 silového* poškození. Cíl má nárok na *záchranný hod na reflexy* aby efektu odolal. Seslání nestojí žádnou magii a probíhá jako *běžná akce*.
 
 ### Krystalizovaná magie
 
