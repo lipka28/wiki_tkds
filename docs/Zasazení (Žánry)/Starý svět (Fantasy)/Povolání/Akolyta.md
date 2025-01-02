@@ -39,7 +39,7 @@ Ověření reakce patrona funguje stejně jako *ověření Osobnosti* avšak vý
 
 ## Schopnosti povolání
 
-**Získané Dovednosti:** *+2 Rozvaha* a *+1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+1 Osobnost* a *+1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Základní zbraně
 

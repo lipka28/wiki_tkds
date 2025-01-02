@@ -26,7 +26,7 @@
 
 ## Schopnosti specializace
 
-**Získané Dovednosti:** *+2 Síla* a *+1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+1 Síla* a *+1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Všechny
 

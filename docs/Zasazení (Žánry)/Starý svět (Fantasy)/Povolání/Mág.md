@@ -28,7 +28,7 @@
 
 ## Schopnosti povolání
 
-**Získané Dovednosti:** *+2 Vzdělání* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *+1 Vzdělání* a *1 libovolný dovednostní bod*
 
 **Trénované zbraně:** Základní zbraně
 

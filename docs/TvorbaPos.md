@@ -10,17 +10,17 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Dovednosti, výběr rasy a specializace
 
-Ke všem svým dovednostem si zapiš hodnotu *-1*. V následujících krocích si budeš vybírat *rasu* a *specializaci* a na základě nich modifikovat své dovednosti. V rámci žádného z následujících kroků si nesmíš navýšit jednotlivou vědomost více jak jedenkrát.
+Ke všem svým dovednostem si zapiš hodnotu *0*. V následujících krocích si budeš vybírat *rasu* a *specializaci* a na základě nich modifikovat své dovednosti. V rámci žádného z následujících kroků si nesmíš navýšit jednotlivou vědomost více jak jedenkrát.
 
 - Vyber si *rasu*, zapiš si její název do deníku postavy a modifikuj dovednosti své postavy tak jak ti udává vybraná rasa.
 - Vyber si *specializaci* dobrodruha, zapiš si její název do deníku postavy a modifikuj dovednosti své postavy tak jak ti udává vybraná specializace.
 - Jako závěrečný krok určení dovedností tvé postavy si ještě rozděl *3* dovednostní body.
-- **Dobrovolný postih:** Pokud si hráč přeje, může si ubrat 2 body z libovolných dovedností a přidat si 1 bod do libovolné dovednosti
+- **Dobrovolný postih:** Pokud si hráč přeje, může si ubrat 2 body z libovolných dovedností a přidat si 1 bod do libovolné dovednosti. Touhle změnou však žádná dovednost nesmí přesáhnout hodnotu 3.
 
 Co všechno tvé dovednosti ovlivňují se můžeš dozvědět v kapitole [Dovednosti](Dovednosti.md)
 
 !!! Example "Náhodné dovednosti (Varianta)"
-    Někteří zkušenější hráči se mohou chtít nechat překvapit tím co vlastně budou hrát. Pro náhodné vygenerování dovedností hoď *1k20* za každou dovednost (popořadě). Od nejvyššího čísla po nejmenší pak přiřazuj následující hodnoty: *3*, *1*, *1*, *0*, *-1*, *-1*.  To jsou tvé dovednostní body. Ty už dále nejsou nijak modifikovány ani výběrem rasy či specializace.
+    Někteří zkušenější hráči se mohou chtít nechat překvapit tím co vlastně budou hrát. Pro náhodné vygenerování dovedností hoď *1k20* za každou dovednost (popořadě). Od nejvyššího čísla po nejmenší pak přiřazuj následující hodnoty: *3*, *2*, *2*, *1*, *0*, *0*.  To jsou tvé dovednostní body. Ty už dále nejsou nijak modifikovány ani výběrem rasy či specializace.
 
 ## 2. Životy a magie
 
