@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |    Přízeň     | Mod.Zásahu |  Um  |                         Odemyká                          |
-| :----: | :--------------------------: | :-----------: | :--------: | :--: | :------------------------------------------------------: |
-|   1    | Základní životy rasy+6+Výdrž |  8+Osobnost   |     +0     |  +1  |           Um, Patron, Patronská magie, Podpora           |
-|   2    |          +1k6+Výdrž          | +1k8+Osobnost |     +1     |  +1  |                    Talent, +1 Kouzlo                     |
-|   3    |          +1k6+Výdrž          | +1k8+Osobnost |     +1     |  +1  |              +1 Dovednostní bod, +1 Kouzlo               |
-|   4    |          +1k6+Výdrž          | +1k8+Osobnost |     +2     |  +2  |                    Spojení, +1 Kouzlo                    |
-|   5    |          +1k6+Výdrž          | +1k8+Osobnost |     +2     |  +2  |                    Talent, +1 Kouzlo                     |
-|   6    |          +1k6+Výdrž          | +1k8+Osobnost |     +3     |  +2  |              +1 Dovednostní bod, +1 Kouzlo               |
-|   7    |          +1k6+Výdrž          | +1k8+Osobnost |     +3     |  +3  |                Zázračný rituál, +1 Kouzlo                |
-|   8    |          +1k6+Výdrž          | +1k8+Osobnost |     +4     |  +3  |                    Talent, +1 Kouzlo                     |
-|   9    |          +1k6+Výdrž          | +1k8+Osobnost |     +4     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň), +1 Kouzlo |
-|   10   |          +1k6+Výdrž          | +1k8+Osobnost |     +5     |  +4  |                 Nedotknutelný, +1 Kouzlo                 |
-|  11+   |              +1              |      +2       |     +5     |  +4  |       Talent (a každou další 3. úroveň), +1 Kouzlo       |
+| ÚROVEŇ |              HP              |    Přízeň     | Mod.Zásahu |  Um  |                        Odemyká                         |
+| :----: | :--------------------------: | :-----------: | :--------: | :--: | :----------------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž |  8+Osobnost   |     +0     |  +1  |          Um, Patron, Patronská magie, Podpora          |
+|   2    |          +1k6+Výdrž          | +1k8+Osobnost |     +1     |  +1  |                   Talent, +1 Kouzlo                    |
+|   3    |          +1k6+Výdrž          | +1k8+Osobnost |     +1     |  +1  |                   +1 Dovednostní bod                   |
+|   4    |          +1k6+Výdrž          | +1k8+Osobnost |     +2     |  +2  |                   Spojení, +1 Kouzlo                   |
+|   5    |          +1k6+Výdrž          | +1k8+Osobnost |     +2     |  +2  |                         Talent                         |
+|   6    |          +1k6+Výdrž          | +1k8+Osobnost |     +3     |  +2  |             +1 Dovednostní bod, +1 Kouzlo              |
+|   7    |          +1k6+Výdrž          | +1k8+Osobnost |     +3     |  +3  |                    Zázračný rituál                     |
+|   8    |          +1k6+Výdrž          | +1k8+Osobnost |     +4     |  +3  |                   Talent, +1 Kouzlo                    |
+|   9    |          +1k6+Výdrž          | +1k8+Osobnost |     +4     |  +3  |     +1 Dovednostní bod (a každou další 3. úroveň)      |
+|   10   |          +1k6+Výdrž          | +1k8+Osobnost |     +5     |  +4  | Nedotknutelný, +1 Kouzlo (a každou další sudou úroveň) |
+|  11+   |              +1              |      +2       |     +5     |  +4  |      Talent (a každou další 3. úroveň), +1 Kouzlo      |
 
 ## Tabulka reakcí patrona
 
@@ -49,10 +49,11 @@ Ověření reakce patrona funguje stejně jako *ověření Osobnosti* avšak vý
 
 **Extra výbava:** Symbol patrona (L slot)
 
-### Um ==todo: reowrd pro akolytu==
+### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro mága jsou to zaručeně věci jako vycítění a identifikace magie, magický výzkum, manipulace magických energií, luštění magických run či učení se kouzel z různých zdrojů. Mimo magii je však mág i velmi vzdělaný jedinec, který má rozsáhlé znalosti historie, světa a stvoření v nich žijících. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako mág umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by mág měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
+- **Možné využití umu:** Znalosti spojené s náboženstvím a jejich obřady, aktivity spojené s uctívaným patronem (například léčení u Juny), znalosti okultních a mystických bytostí, vycítění a identifikace magie.
 - **Magická specializace:** Tvůj um se nepřičítá k žádným tvým bojovým schopnostem.
 - **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
@@ -69,9 +70,8 @@ Každá akolyta musí mít svého patrona, který ji poskytuje svou moc. V prvn�
 Akolyta disponuje schopností používat magii spadající do disciplíny *dle svého patrona*. To znamená, že akolyta umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a získávat a sesílat vlastní kouzla, z magické disciplíny svého patrona.
 
 - **Přízeň:** Akolyta disponuje magickou energií zvanou přízeň. Za tu může sesílat svá kouzla. Přízeň se doplňuje přirozenou regenerací, podobně jako životy. Akolytina nadpřirozená regenerace je poskytována jejím patronem.
-- **Kouzla:** Akolyta začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze seznamu kouzel poskytnutého jejím patronem ==todo odkaz==. Pokaždé když získá novou úroveň nebo se jí zvýší dovednost vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Akolyta nemůže umět více kouzel než je její *úroveň+Vzdělání* (max. 10+Vzdělání).
+- **Kouzla:** Akolyta začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze seznamu kouzel poskytnutého jejím patronem ==todo odkaz==. Pokaždé, když si akolyta zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Akolyta nemůže umět více kouzel než je její *úroveň+Vzdělání* (max. 10+Vzdělání).
 - **Výměna kouzel:** Jelikož akolyta získává svou moc od svého patrona, může při každém přenocování, kdy je v přízni patrona, požádat patrona o výměnu 1-ho ze svých ovládaných kouzel za jiné ze svého seznamu kouzel nebo jiné dostupné kouzlo ze své disciplíny. Zda jí bude vyhověno je rozhodnuto na základě *ověření reakce patrona* (jiný výsledek než ne).
-- **Vyciť magii:** Akolyta může strávit *1 směnu* soustředěním a podstoupit *tajný hod na ověření Rozvahy*. Když uspěje dozví se zda se v okolí *9-ti metrů* kolem ní nachází něco magického. Akolyta může pro účely této schopnosti ignorovat zdroje magie o kterých ví.
 - **Symbol Patrona:** Při sesílání svých kouzel se musí akolyta rukou dotýkat svého symbolu patrona.
 - **Posílení kouzel:** Akolyta může bez přímého požehnání patrona sesílat jen *základní formy svých kouzel*. Pro seslání posílených verzí musí při každém takovém čarování podstoupit *ověření reakce patrona*. Pokud akolyta neuspěje kouzlo se nesešle.
 - **Přenosná zodpovědnost:** Akolyta zodpovídá za dodržování přikázání a zákazů svého patrona i těmi, kteří aktivně nebo dlouhodobě benefitují z magické moci akolyty.

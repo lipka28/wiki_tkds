@@ -36,8 +36,9 @@
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro bojovníka je to převážně boj, avšak určitě se najdou i jiné věci, ve kterých by mohl vynikat. Jako jsou odhadování humanoidních soupeřů, posouzení kvality zbraní, zbrojí či koní, ukázky síly. Prostě cokoliv, nesouvisícího s bojem, co ti dává smysl, že by tvá postava měla jako bojovník umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by bojovník měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
+- **Možné využití umu:** Jakákoliv aplikace hrubé síly, posouzení kvality zbrojí, zbraní a koní, prozumění vojenským strategiím, oprava zbraní a výzbroje.
 - **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
 - **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 

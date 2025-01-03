@@ -16,19 +16,19 @@ Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šes
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |    Magie     | Mod.Zásahu |  Um  |                    Odemyká                    |
-| :----: | :--------------------------: | :----------: | :--------: | :--: | :-------------------------------------------: |
-|   1    | Základní životy rasy+8+Výdrž |  6+Rozvaha   |     +1     |  +1  |                    Um, asd                    |
-|   2    |          +1k8+Výdrž          | +1k6+Rozvaha |     +2     |  +1  |               Talent, +1 Kouzlo               |
-|   3    |          +1k8+Výdrž          | +1k6+Rozvaha |     +2     |  +1  |              +1 Dovednostní bod               |
-|   4    |          +1k8+Výdrž          | +1k6+Rozvaha |     +4     |  +2  |                asd, +1 Kouzlo                 |
-|   5    |          +1k8+Výdrž          | +1k6+Rozvaha |     +4     |  +2  |                    Talent                     |
-|   6    |          +1k8+Výdrž          | +1k6+Rozvaha |     +5     |  +2  |         +1 Dovednostní bod, +1 Kouzlo         |
-|   7    |          +1k8+Výdrž          | +1k6+Rozvaha |     +6     |  +3  |                      asd                      |
-|   8    |          +1k8+Výdrž          | +1k6+Rozvaha |     +7     |  +3  |               Talent, +1 Kouzlo               |
-|   9    |          +1k8+Výdrž          | +1k6+Rozvaha |     +7     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň) |
-|   10   |          +1k8+Výdrž          | +1k6+Rozvaha |     +9     |  +4  |                asd, +1 Kouzlo                 |
-|  11+   |              +2              |      +1      |     +9     |  +4  |       Talent (a každou další 3. úroveň)       |
+| ÚROVEŇ |              HP               |    Magie     | Mod.Zásahu |  Um  |                    Odemyká                    |
+| :----: | :---------------------------: | :----------: | :--------: | :--: | :-------------------------------------------: |
+|   1    | Základní životy rasy+10+Výdrž |  6+Rozvaha   |     +1     |  +1  |                    Um, asd                    |
+|   2    |          +1k10+Výdrž          | +1k6+Rozvaha |     +2     |  +1  |                    Talent                     |
+|   3    |          +1k10+Výdrž          | +1k6+Rozvaha |     +2     |  +1  |              +1 Dovednostní bod               |
+|   4    |          +1k10+Výdrž          | +1k6+Rozvaha |     +4     |  +2  |                      asd                      |
+|   5    |          +1k10+Výdrž          | +1k6+Rozvaha |     +4     |  +2  |                    Talent                     |
+|   6    |          +1k10+Výdrž          | +1k6+Rozvaha |     +5     |  +2  |              +1 Dovednostní bod               |
+|   7    |          +1k10+Výdrž          | +1k6+Rozvaha |     +6     |  +3  |                      asd                      |
+|   8    |          +1k10+Výdrž          | +1k6+Rozvaha |     +7     |  +3  |                    Talent                     |
+|   9    |          +1k10+Výdrž          | +1k6+Rozvaha |     +7     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň) |
+|   10   |          +1k10+Výdrž          | +1k6+Rozvaha |     +9     |  +4  |                      asd                      |
+|  11+   |              +3               |      +1      |     +9     |  +4  |       Talent (a každou další 3. úroveň)       |
 
 ## Schopnosti povolání
 
@@ -42,8 +42,9 @@ Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šes
 
 ### Um
 
-==todo přepsat pro ochránce== Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro bojovníka je to převážně boj, avšak určitě se najdou i jiné věci, ve kterých by mohl vynikat. Jako jsou odhadování humanoidních soupeřů, posouzení kvality zbraní, zbrojí či koní, ukázky síly. Prostě cokoliv, nesouvisícího s bojem, co ti dává smysl, že by tvá postava měla jako bojovník umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by bojovník měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
+- **Možné využití umu:** Znalost zákonů a historie civilizace, znalosti spojení s léčením, jakákoliv aplikace hrubé síly, posouzení kvality zbrojí, zbraní a koní, prozumění vojenským strategiím, oprava zbraní a výzbroje.
 - **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
 - **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
@@ -56,8 +57,8 @@ asd
 Ochránce si v rámci svého tréninku osvojuje základy *mystické magie*. To znamená, že ochránce může aktivovat magické hůlky, sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
 
 - **Magie:** Ochránce disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Ochránci se magie doplňuje rychlostí *2+Rozvaha* magie za odpočinek.
-- **Kouzla:** Ochránce začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel. Pokaždé když ochránce získá sudou úroveň (max. 10) nebo se mu zvýší dovednost vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Ochránce nemůže umět více kouzel než je jeho *1+úroveň/2+Vzdělání* (max. 6+Vzdělání).
-- **Výměna kouzel:** Pokaždé, když ochránce postoupí na sudou úroveň, může jedno ze svých ovládaných kouzel vyměnit za za jiné ze svého seznamu kouzel nebo jiné dostupné kouzlo ze své disciplíny.
+- **Kouzla:** Ochránce začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel. Pokaždé, když se ochránci zvýší vzdělání. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Ochránce nemůže umět více kouzel než které získal z některé své schopnosti nebo talentu.
+- **Výměna kouzel:** Pokaždé, když ochránce postoupí na novou úroveň, může jedno ze svých ovládaných kouzel vyměnit za jiné ze svého seznamu kouzel nebo jiné dostupné kouzlo ze své disciplíny.
 - **Přenosná zodpovědnost:** Ochránce zodpovídá za dodržování jeho přísahy i těmi, kteří aktivně nebo dlouhodobě benefitují z jeho magické moci.
 
 ### Blokování štítem
@@ -66,7 +67,7 @@ Pokud má ochránce zvednutý štít a hrozí, že obdrží poškození. Může 
 
 ### Život na dlani
 
-Ochránce umí kouzlo *Léčení* ==todo: odkaz==, tohle kouzlo se nepočítá vúči jeho limitu kouzel. Navíc může seslat základní formu tohole kouzla jako *strategickou akci*.
+Ochránce umí kouzlo *Léčení* ==todo: odkaz==, tohle kouzlo se nepočítá vúči jeho limitu kouzel a nelze jej vyměnit. Navíc může seslat základní formu tohole kouzla jako *strategickou akci*.
 
 ### Aura odhodlání (Úroveň 4)
 

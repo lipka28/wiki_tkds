@@ -51,8 +51,9 @@ Vzdělání představuje rozsah vzdělání, jaké bylo postavě poskytnuto, ale
 **Vzdělání se přičítá k:**
 
 - Ověřovací hody na vzdělání
-- Počet ovládaných jazyků
-- Počet ovládaných kouzel u povolání, které ovládají magii
+- Každý bod vzdělání nad 0 umožňuje postavě se naučit extra jazyk
+- Každý bod vzdělání nad 0 umožňuje postavě se naučit extra talent
+- Počet ovládaných kouzel u povolání, které ovládají magii.
 
 ## Rozvaha
 
@@ -76,8 +77,11 @@ Osobnost představuje sílu osobnosti a schopnost vést. Ověření osobnosti je
 
 - Ověřovacím hodům na osobnost
 - Modifikace morálky nehráčských spojenců
-- Modifikace počtu magických aktivací za den
 - Množství magie u některých povolání ovládajících magii
 - Regenerace magie u některých povolání ovládajících magii
 
 <img src="/assets/sep_line.png"/>
+
+## Vzorové situace
+
+Pokud tě zajímají příklady, kdy se může nějká dovednost použít jako ověřovací hod mrkni zde ==todo odkaz do Adventure==.

@@ -38,8 +38,9 @@
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro lotra jsou to aktivity typické pro běžný "rogue-archtype". Jako je odemykání zámků, vybírání kapes a podobně. Lotr se však v rámci své "class-fantasy" může pokusit i o věci, které hraničí s nadpřirozenem. Jako je zmizení ve stínech nebo šplhání po hladkých stěnách bez očividných úchytů. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako lotr umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by lotr měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
+- **Možné využití umu:** Různé akrobatické kousky, odemykání zámků a zneškodňování pastí, kradení, lhaní.
 - **Hybridní specializace:** Polovina tvého umu se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
 - **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
@@ -78,7 +79,7 @@ Lotr si může v civilizaci koupit libovolný počet *balíků neznámého obsah
 
 ### Obratný úhyb (úroveň 4)
 
-Pokud je lotr cílem útoku nebo plošného útoku, může si jako *reakci* připočítat jednorázový situčaní bonus ve výši své *obratnosti* do *OČ* nebo *záchrannéh hodu*. Tento bonus je jen na útok, který spustil tuto reakci.
+Pokud je lotr cílem útoku nebo efektu vyžadující *záchranný hod na reflexy*, může si jako *reakci* připočítat jednorázový situační bonus ve výši své *obratnosti* do *OČ* nebo *záchranného hodu*. Tento bonus je jen na útok, který spustil tuto reakci.
 
 ### Přelsti magii (úroveň 7)
 

@@ -32,18 +32,19 @@ Během hry mohou nastat situace, kdy výsledek nějaké situace není úplně je
 
 - **Řešení herní procedurou** - Situace, která má jasně popsanou proceduru v pravidlech, by měla být vyhodnocena dle dané procedury. Příkladem takových procedur může být boj, sesílání kouzel nebo třeba používání schopností postav.
 - **Řešení popisem** - Hráč důkladně popíše jak by danou aktivitu prováděl a jaký výsledek z ní očekává. PJ vyhodnotí zda je to reálné a jestli existuje šance selhání. V případě, kdy je šance na selhání zanedbatelná umožní hráči akci vykonat bez nutnosti nějakého hodu.
-- **Řešení ověřovacím hodem** - Pokud PJ usoudí, že je akce možná ale nikoliv bez rizika. Může po hráči chtít jeden z ověřovacích hodů. Základními ověřovacími hody jsou *hod na zásah*, *ověření dovednosti*, *záchranný hod* nebo *přímý hod*. Více o nich dále.
+- **Řešení ověřovacím hodem** - Pokud PJ usoudí, že je akce možná ale nikoliv bez rizika. Může po hráči chtít jeden z ověřovacích hodů. Základními ověřovacími hody jsou *hod na zásah*, *ověření dovednosti*, *záchranný hod* nebo *přímý hod*. Více o nich dále. Pj může vymezit možnost ověřovacího hodu jen pro ty, kdo jsou schopni aplikovat Um své specializace
 - **Zamítnutí** - Pj má samozřejmě právo akci zakázat pokud mu přijde nesmyslná.
 
 ### Základní kompetence dobrodruha
 
-Při řešení nejasných situací je dobré, aby PJ měl na paměti to, že hráčské postavy jsou především dobrodruzi. I z toho nejkřehčího mága se potýkáním z nástrahami kobek a divočiny stal schopný dobrodruh. S tím se pojí schopnosti provádět určité akce bez nutnosti ověřovacích hodů. Základními kompetencemi jsou:
+Při řešení nejasných situací je dobré, aby PJ měl na paměti to, že hráčské postavy jsou především dobrodruzi. I z toho nejkřehčího mága se potýkáním z nástrahami kobek a divočiny stal schopný dobrodruh. S tím se pojí schopnosti provádět určité akce bez nutnosti ověřovacích hodů. Pokud by i přesto vyžadovala některá z těchto aktivit ověřovací hod (například kvůli stížené situaci), všechny specializace mohou aplikovat na hod svůj *Um*. Základními kompetencemi jsou:
 
 - **Kempování:** Nalezení vhodného místa, postavení stanů, zakládání táboráků a příprava jídla.
 - **Jízda na koních:** Aktivity spojené se základním obstarávání koní a ježdění na nich.
 - **Cestování:** Odhadování vzdáleností, efektivní balení výbavy, plánování cesty a orientace v terénu.
 - **Používání lana:** Šplhání, házení a běžné uzly.
 - **Plavání:** Šlapání vody a plavání na krátké vzdálenosti.
+- **Posouzení nebezpečnosti soupeře:** Jestli čelí adekvátnímu, slabšímu nebo silnějšímu soupeři.
 - **Odhadování ceny:** Odhad ceny pokladů, obrazů a jiných cenností.
 
 ### Ověřovací hody
@@ -74,6 +75,44 @@ Ověření dovednosti probíhá jako hod modifikovaný dovedností postavy. Hrá
 #### Přímý hod
 
 Pokud jde v prováděné akci čistě o náhodu. PJ může stanovit pevnou pravděpodobnost (hodnota na libovolné kostce), kterou musí hráč přehodit a tím situaci vyřešit.
+
+#### Vzorové situace
+
+Seznam vzorových aktivit, které se při hře mohou běžně stát, jaké dovednosti jsou vhodné pro jejich vyřešení a jestli by pro podstoupení hodu měl být požadován Um. Všechny uvedené příklady jsou jen pouhá doporučení. Každý PJ může přistoupit k řešení takových situací dle svého. 
+
+| Aktivita                                       | Vhodná dovednost |        Vyžaduje um        |
+| ---------------------------------------------- | :--------------: | :-----------------------: |
+| Analýza nebo vybavení si informací o...        |     Vzdělání     |             -             |
+| Balancování na kluzkém povrchu.                |    Obratnost     |             -             |
+| Identifikace alchymistických předmětů          |     Vzdělání     |            Ano            |
+| Identifikace magických předmětů                |     Vzdělání     |            Ano            |
+| Lhát                                           |     Osobnost     |             -             |
+| Nauč se kouzlo                                 |     Vzdělání     |            Ano            |
+| Odstrčení nepřítele                            | Protihod na útok |             -             |
+| Odemykání zámků                                |     Rozvaha      |            Ano            |
+| Odvést pozornost                               |     Osobnost     |             -             |
+| Odzbrojení nepřítele                           | Protihod na útok | Ano, bojovou specializaci |
+| Oprava předmětů                                |     Vzdělání     |             -             |
+| Použití lékárničky (viz. výbava)               |     Vzdělání     |             -             |
+| Požádat stvoření o...                          |     Osobnost     |             -             |
+| Proplížit se kolem nepřítele                   |    Obratnost     |             -             |
+| Přecházení po tenkém prkně.                    |    Obratnost     |             -             |
+| Přeskakování velkých děr                       |       Síla       |             -             |
+| Přesvědčit někoho o něčem                      |     Osobnost     |             -             |
+| Připravit past                                 |     Rozvaha      |             -             |
+| Rozlušti zašifrované spaní                     |     Vzdělání     |             -             |
+| Shánění potravy v divočině                     |     Rozvaha      |             -             |
+| Shození nepřítele na zem                       | Protihod na útok |             -             |
+| Stopování zvěře                                |     Rozvaha      |            Ano            |
+| Šplhání po skále                               |       Síla       |             -             |
+| Šplhání po stěnách bez zřejmých úchytů.        |       Síla       |            Ano            |
+| Vybavení si znalostí o příšeře                 |     Vzdělání     |             -             |
+| Vycítění přítomnosti magie                     |     Rozvaha      |            Ano            |
+| Vyhrožování a zastrašování                     |     Osobnost     |             -             |
+| Výroba předmětů                                |     Vzdělání     |            Ano            |
+| Získávání informací                            |     Osobnost     |             -             |
+| Zneškodňování pastí                            |     Rozvaha      |            Ano            |
+| Zpěv, předstírání nebo nějaký herecký výkon... |     Osobnost     |             -             |
 
 <img src="/assets/sep_line.png"/>
 

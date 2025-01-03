@@ -119,7 +119,7 @@
 
 **Neviditelný:** Přítomnost neviditelného stvoření nelze odhalit běžným zrakem. Na neviditelné stvoření také nelze cílit útoky nebo kouzla, dokud není upřesněna jeho poloha.
 
-**Oslepený:** Slepé stvoření, bez jiného smyslu, kterým by mohlo precizně vnímat okolí je *zaskočené* a v rámci pohybu se může hnout jen o 1 metr. Slepé stvoření nemůže provádět útoky na dálku a nebo jiné aktivity vyžadující zrak. Slepé stvoření může útočit na blízku avšak jeho útoky jsou penalizovány *stavovým postihem -4* k zásahu. 
+**Oslepený:** Slepé stvoření, bez jiného smyslu, kterým by mohlo precizně vnímat okolí je *zaskočené* a všude je pro něj obtížný terén. Slepé stvoření nemůže provádět cílené útoky, kouzla nebo jiné aktivity vyžadující zrak. Slepé stvoření je imunní vůči vizuálním efektům.
 
 **Unavený:** Unavené stvoření má *stavový postih -2* ke všem *ověřovacím hodům*, *útokům*, *záchranným hodům* a *OČ*. Navíc si při cestování a průzkumu nemůže vybrat aktivitu, kterou by chtěl provádět. Únavy se lze zbavit spánkem do dalšího dne.
 

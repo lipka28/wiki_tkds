@@ -38,8 +38,9 @@
 
 ### Um
 
-Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Pro hraničáře jsou to věci jako stopování, stahování z kůží, identifikaci a znalosti o rostlinách, vílách a zvířatům podobných monster, příprava pastí a obecně věci spojené s přežitím v divočině. Prostě cokoliv co ti dává smysl, že by tvá postava měla jako hraničář umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by hraničář měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
+- **Možné využití umu:** Aktivity spojené s přírodou a přežití v divočině, stopování, oprava zbraní a výzbroje, znalosti o přirozeně se vyskytujících mosntrech.
 - **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
 - **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
@@ -206,7 +207,7 @@ Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybra
 **Efekt:** Hraničář se od víl naučil nějaké kouzla *živelné magie*. To znamená, že hraničář může aktivovat magické hůlky, sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
 
 - **Magie:** Hraničář disponuje *6+Rozvaha* magické energie zvané magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Přirozená regenerace magie odpovídá *2+Rozvaha* za přenocování.
-- **Kouzla:** Hraničář obdrží *1+Vzdělání* (min. 1) kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé když získá bod dovednosti do vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Hraničář nemůže mít nebo se naučit více kouzel, než které získá z tohohle či jiného magického talentu (většinou 1+vzdělání).
+- **Kouzla:** Hraničář obdrží *1+Vzdělání* (min. 1) kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé když získá bod dovednosti do vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Hraničář nemůže mít nebo se naučit více kouzel, než které získá z tohohle či jiného magického talentu.
 
 <img src="/assets/sep_line.png"/>
 

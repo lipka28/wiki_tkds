@@ -66,22 +66,16 @@ Základní pravidla k běžným magickým předmětům.
 
 ### Detekce magie a identifikace magických předmětů.
 
-Magické předměty vypadají na první pohled jako běžné cetky. Jejich magická nátura musí být první odhalena. O to se může pokusit libovolná magická specializace *ověřením Rozvahy*. O idnetifikaci magického předmětu se pak může pokusit kdokoliv *ověřením Vzdělání* musí mu však být předem známo, že je předmět magický.
+Magické předměty vypadají na první pohled jako běžné cetky. Jejich magická nátura musí být první odhalena. O to se může pokusit libovolná magická specializace *ověřením Rozvahy*. O identifikaci magického předmětu se pak může pokusit libovolná magická specializace *ověřením Vzdělání* musí jí však být předem známo, že je předmět magický.
 
 - **Automatická identifikace:** Předměty, které mají pasivní efekty, jako například bonus +1 k zásahu nebo k OČ jsou automaticky identifikovány tím, že jsou adekvátně použity. Například nasazení prstenu či zbroje nebo máchnutí mečem. Pozor předměty mohou být prokleté.
-
-### Magické aktivace
-
-Hráčské postavy jsou omezené v tom, kolik mohou aktivovat magických předmětu v jeden den. Tento limit je *10+Osobnost* aktivací. Jako magická aktivace se počítá libovolná aktivace speciálního efektu magického předmětu. Jako je seslání kouzla ze svitku, či zapálení magického meče. Magické aktivace však mohou vyžadovat i interakce s magickými objekty ve světě, jako jsou třeba teleportační kruhy. 
-
-- **Pasivní efekty:** Předměty s pasivními efekty (jako +1 meč či zbroj) jsou automaticky aktivovány při prvním použití. Stačí je však aktivovat v daný den pouze jednou (většinou na začátku dne).
-- **Změna majitele:** Změní li předmět majitele a je tímto majitelem aktivován. Magická aktivace předchozího majitele je ztracena.
+- **Stížená identifikace:** Identifikace předmětů jiné magické disciplíny než tu, kterou postava ovládá může mít vyšší hranici úspěchu a tedy být těžší pro identifikaci.
 
 ### Lektvary a svitky
 
 Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o *jednorázový* předmět, který se po použití zničí a jehož výsledkem, je nějaký většinou magický nebo magii podobný efekt. Lektvary jsou považovány za alchymistické předměty (nikoliv magické) a může je aktivovat (vypít nebo hodit) *kdokoliv*. Svitek může být seslán pouze *postavami ovládající stejnou magickou disciplínu* jako tu do které spadá svitek.
 
-- **Aktivace předmětu:** Vypití lektvaru stojí *běžnou akci*. Aktivace svitku pak stojí tolik akcí kolik vyžaduje aktivace kouzla na něm zapsaném. Pro aktivaci *svitku* je také třeba využít *1 magickou aktivaci*.
+- **Aktivace předmětu:** Vypití lektvaru stojí *běžnou akci*. Aktivace svitku pak stojí tolik akcí kolik vyžaduje aktivace kouzla na něm zapsaném.
 - **Síla svitků a lektvarů:** Síla svitku nebo lektvaru je vždy určena při jeho výrobě (nebo nalezení). Úroveň či síla uživatele nemá na sílu jejich efektu žádný vliv.
 - **Posílení svitku:** Kouzlo zapsané na svitku nemůže být sesláno s jiným efektem než tím, který je zaznamenán na svitku. Je-li na svitku běžná verze kouzla, lze seslat pouze běžnou verzi. 
 
@@ -97,7 +91,7 @@ Grimoáry jsou speciální knihy, do kterých si kouzelníci zapisují svá kouz
 Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Efekt je většinou sesílán formou úderu nebo poklepáním žezlem. *Žezla mohou být použita a aktivována kýmkoliv, bez magického nadání*.
 
 - **Počet použití:** Žezlo má většinou při nálezu *1k10* použití.
-- **Aktivace předmětu:** Aktivace žezla stojí *běžnou akci* a vyžaduje *magickou aktivaci*.
+- **Aktivace předmětu:** Aktivace žezla stojí *běžnou akci*.
 - **Dobytí:** Nelze, ale PJ může udělat výjimku. 
 
 ### Magické hůlky
@@ -105,7 +99,7 @@ Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Ef
 Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický efekt. Efekt je většinou stejný jako některé z kouzel. *Magické hůlky mohou být aktivovány pouze postavami, které ovládají relevantní magickou disciplínu*.
 
 - **Počet použití:** Magická hůlka má většinou při nálezu *2k10* použití.
-- **Aktivace předmětu:** Aktivace hůlky stojí *běžnou akci* a vyžaduje *magickou aktivaci*.
+- **Aktivace předmětu:** Aktivace hůlky stojí *běžnou akci*.
 - **Dobytí:** Nelze, ale PJ může udělat výjimku.
 
 ### Magické hole
@@ -113,14 +107,13 @@ Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický 
 Více jak dvoumetrová magická hůl schopna uchovávat několik magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami, které ovládají relevantní magickou disciplínu*.
 
 - **Použití:** Magické hole většinou nemají počet použití. Na místo toho poskytují sadu kouzel, které čaroděj může sesílat za poloviční cenu. Pokud hůl obsahuje kouzlo, které čaroděj nezná. Může ho i tak při používání hole sesílat. 
-- **Aktivace předmětu:** Aktivace hole stojí vždy tolik akcí kolik je potřeba k seslání požadovaného kouzla z hole. Efekt hole se bere jako pasivní a tedy stačí provést magickou aktivaci při prvním použití.
+- **Aktivace předmětu:** Aktivace hole stojí vždy tolik akcí kolik je potřeba k seslání požadovaného kouzla z hole.
 
 ### Zbraně a zbroje
 
 Další běžnou podobou magických předmětů jsou zbraně, štíty a zbroje. Ty lze většinou poznat pomocí modifikátoru vedle názvu. Například *"Meč ničitel +2"*. Tento předmětový modifikátor se připočítává jak k hodům na zásah tak poškození provedenému touto zbraní. U štítů a brnění se pak tento modifikátor přičítá k jejich OČ bonusu. *Magické zbraně a zbroje mohou být použity kýmkoliv kdo je trénovaný v používání výbavy stejného typu*.
 
 - **Další efekty:** Magické zbraně a zbroje mívají často i další aktivovatelné nebo pasivní.
-- **Rozsah modifikátorů:**  *+1* (Nejběžnější magický předmět) až *+3* (Legendární zbraň nebo zbroj)
 
 ### Ostatní magické předměty
 

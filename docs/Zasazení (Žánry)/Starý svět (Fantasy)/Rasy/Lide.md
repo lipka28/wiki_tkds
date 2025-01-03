@@ -50,6 +50,6 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 ## Speciální vlastnosti
 
-- **Rychle se učí** - ==todo: něco vymyslet==
+- **Všestranný** - Lidé si mohou aplikovat bonus *+1* na aktivity, na které nemohou aplikovat svůj um. To jim však neumožňuje provádět aktivity, které um vyžadují (jako například vycítění magie).
 
 <img src="/assets/sep_line.png"/>

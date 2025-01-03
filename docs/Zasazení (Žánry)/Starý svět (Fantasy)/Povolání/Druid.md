@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |    Magie     | mod.Zásahu |  Um  |                         Odemyká                          |
-| :----: | :--------------------------: | :----------: | :--------: | :--: | :------------------------------------------------------: |
-|   1    | Základní životy rasy+6+Výdrž |  8+Rozvaha   |     +0     |  +1  |  Um, Cyklus života, Živelná magie, Za jedno s přírodou   |
-|   2    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |                    Talent, +1 Kouzlo                     |
-|   3    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |              +1 Dovednostní bod, +1 Kouzlo               |
-|   4    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |               Přeměna ve zvíře, +1 Kouzlo                |
-|   5    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |                    Talent, +1 Kouzlo                     |
-|   6    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +2  |              +1 Dovednostní bod, +1 Kouzlo               |
-|   7    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +3  |                Živelná afinita, +1 Kouzlo                |
-|   8    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  |                    Talent, +1 Kouzlo                     |
-|   9    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň), +1 Kouzlo |
-|   10   |          +1k6+Výdrž          | +1k8+Rozvaha |     +5     |  +4  |              Kombinovaná přeměna, +1 Kouzlo              |
-|  11+   |              +1              |      +2      |     +5     |  +4  |       Talent (a každou další 3. úroveň), +1 Kouzlo       |
+| ÚROVEŇ |              HP              |    Magie     | mod.Zásahu |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :----------: | :--------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž |  8+Rozvaha   |     +0     |  +1  |    Um, Cyklus života, Živelná magie, Za jedno s přírodou     |
+|   2    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |                      Talent, +1 Kouzlo                       |
+|   3    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |                      +1 Dovednostní bod                      |
+|   4    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |                 Přeměna ve zvíře, +1 Kouzlo                  |
+|   5    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |                            Talent                            |
+|   6    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +2  |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   7    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +3  |                       Živelná afinita                        |
+|   8    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  |                      Talent, +1 Kouzlo                       |
+|   9    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  |        +1 Dovednostní bod (a každou další 3. úroveň)         |
+|   10   |          +1k6+Výdrž          | +1k8+Rozvaha |     +5     |  +4  | Kombinovaná přeměna, +1 Kouzlo (a každou další sudou úroveň) |
+|  11+   |              +1              |      +2      |     +5     |  +4  |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
 
 ## Schopnosti povolání
 
@@ -38,8 +38,9 @@
 
 ### Um
 
-Pro každou specializaci existují nějaké předpokládané aktivity, ve kterých by měla vynikat. Pro druida jsou to především věci jako identifikaci a znalosti o rostlinách, vílách, zvířatech a přírodních fenoménech, porozumění cyklům přírody, předpověď počasí. Druid se rovněž vyzná v dávných tradicích a mytologii, spojených s přírodou a její ochranou. Prostě cokoliv, co ti dává smysl, že by tvá postava měla jako druid umět, je pokryto touto schopností. Pokud podstupuješ *ověření dovednosti* ve kterém si myslíš, že by druid měl vynikat. Můžeš si k hodu aplikovat *bonus za Um* dle tabulky postupu výše.
+Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
+- **Možné využití umu:** Aktivity spojené s přírodou a přežití v divočině, stopování, znalosti o přirozeně se vyskytujících mosntrech, vycítění magie a její identifikace.
 - **Magická specializace:** Tvůj um se nepřičítá k žádným tvým bojovým schopnostem.
 - **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
@@ -57,9 +58,8 @@ Druidova schopnost *přirozené regenerace* se liší od ostatních stvoření. 
 Druid disponuje schopností používat magii spadající do disciplíny *živelná magie*. To znamená, že druid umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a získávat a sesílat vlastní kouzla, z této disciplíny.
 
 - **Magie:** Druid disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací v závislosti na schopnosti *cyklus života*.
-- **Kouzla:** Druid začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé když získá novou úroveň nebo se mu zvýší dovednost vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo ztratí). Druid nemůže umět více kouzel než je jeho *úroveň+Vzdělání* (max. 10+Vzdělání).
+- **Kouzla:** Druid začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé, když se druidovi zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Druid nemůže umět více kouzel než je jeho *úroveň+Vzdělání* (max. 10+Vzdělání).
 - **Výměna kouzel:** Jelikož druid získává svou moc z živelných sil a přírody může si při každém přenocování, kdy obdrží alespoň *normální přirozenou regeneraci* z cyklu života, vyměnit 1 ze svých ovládaných kouzel za jiné ze svého seznamu kouzel nebo jiného dostupné kouzlo ze své disciplíny. 
-- **Vyciť magii:** Druid může strávit *1 směnu* soustředěním a podstoupit *tajný hod na ověření Rozvahy*. Když uspěje dozví se zda se v okolí *9-ti metrů* kolem něj nachází něco magického. Druid může pro účely této schopnosti ignorovat zdroje magie o kterých ví.
 - **Magický výzkum:** Ve volné chvíli se druid může zabývat magickým výzkumem. Druidové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků) nebo podobných efektů. Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
 - **Jednoduchá kouzla:** Druid může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. U druida se většinou jedná o přírodní věci jako vyvolání vůně květin, vyčarování malé květiny, závan větru a podobně. Efektivně by však nemělo použití takového kouzla vézt k řešení nějakého problému.
 
