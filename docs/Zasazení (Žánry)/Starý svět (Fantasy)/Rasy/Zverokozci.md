@@ -44,6 +44,8 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 **Základní životy:** *4*
 
+**Základní magie:** 6 (Pokud ovládá magickou disciplínu)
+
 **Hybnost:** 9 metrů
 
 **Doba přirozeného dožití:** 50 - 70 let

@@ -11,8 +11,8 @@
 Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava v jednu chvíli u sebe. Výbava postavy se umisťuje do tak zvaných *Slotů*. Obecně platí, že *1 předmět zabírá 1 slot* a postava má *10+Síla slotů*. Některé předměty však mohou mít různou *skladnost*, která ovlivňuje jejich manipulaci. Dělí se do následujících kategorií:
 
 - **Normální (1):** Předmět zabírající *1 slot*. Do této kategorie spadá většina předmětů a pokladů.
-- **Lehká (L):** Do 1 slotu se vejdou *3 lehké předměty stejného typu*. Do této kategorie spadají jednorázové předměty jako jsou pochodně, lektvary či svitky.
-- **Těžkopádné (T):** Speciální, kategorie předmětů na kterou lze narazit. Takový předmět se nevejde do slotů a musí být nesen v rukou jedné nebo více postav či naložen na nějaký povoz. Uděluje podstatné postihy k hybnosti postav, které jej nesou. Výjimkou jsou zbroje a štíty, které mohou být "oblečeny" na postavě, ale nelze do výbavy uložit více kusů, takto oblečné vybavení neuděluje žádné další postihy mimo zatížení.
+- **Lehká (L):** Do 1 slotu se vejdou *3 lehké předměty*. Do této kategorie spadají převážně jednorázové předměty jako jsou lektvary či svitky.
+- **Těžkopádné (T):** Speciální, kategorie předmětů na kterou lze narazit. Takový předmět se nevejde do slotů a musí být nesen v rukou jedné nebo více postav či naložen na nějaký povoz. Uděluje podstatné postihy k hybnosti postav, které jej nesou. Výjimkou jsou zbroje a štíty, které mohou být "oblečeny" na postavě, ale nelze do výbavy uložit více kusů, a zbraně, které lze nést v ruce. Taková výbava neuděluje žádné další postihy mimo zatížení.
 - **Mince:** Speciální kategorie pro mince, do 1 slotu se vejde 1000 mincí.
 
 ### Zatížení
@@ -44,12 +44,12 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 - **Střední** - Hlučná, nedá se v ní spát. *Způsobuje zatížení*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
 - **Těžká** - Hlučná, nedá se v ní spát. *Způsobuje zatížení*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
 - **Štít** - Stvoření držící štít, může jako *strategickou akci* štít zvednout a tím si připočítat jeho OČ jako *situační bonus ke svému OČ*, nezpůsobuje zatížení.
+- **Pukléř** - Malý ruční štít, funguje stejně jako *štít* a však získaný bonus za zvednutí štítu je aplikovatelný pouze proti útokům na blízku. 
 - **Zvířecí brnění:** Brnění určená pro zvěř, jako jsou koně a psy. PJ může za příplatek povolit použití i na jiná zvířata. *Způsobuje zatížení*.
 
 | ZBROJE                          |      TYP       |  OČ  | Max. obratnost | Požadavek na sílu | skladnost |   CENA   |
 | :------------------------------ | :------------: | :--: | :------------: | :---------------: | :-------: | :------: |
-| Oblečení dobrodruha             |    Oblečení    |  -   |       -        |         -         |     1     | - (1 st) |
-| Noblesní oblečení               |    Oblečení    |  -   |       -        |         -         |     1     |  100 st  |
+| Oblečení                        |    Oblečení    |  -   |       -        |         -         |     1     | - (1 st) |
 | Okované či polstrované oblečení |    Oblečení    |  +1  |       -        |         -         |     1     |  10 st   |
 | Kožená zbroj                    |     Lehká      |  +2  |       +3       |        +1         |     T     |  20 st   |
 | Okovaná kožená zbroj            |     Lehká      |  +3  |       +2       |        +1         |     T     |  30 st   |
@@ -58,6 +58,7 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 | Půl plát s kyrysem              |     Těžká      |  +6  |       +1       |        +3         |     T     |  180 st  |
 | Plná plátová zbroj na míru      |     Těžká      |  +7  |       0        |        +3         |     T     |  300 st  |
 | Štít                            |      Štít      |  +2  |       -        |        +1         |     T     |  20 st   |
+| Pukléř                          |     Pukléř     | +1\* |       -        |         -         |     1     |  10 st   |
 | Zvířecí brnění                  | Zvířecí brnění |  +2  |       -        |                   |     T     |  25 st   |
 
 **Maximální obratnost:** Obratnost jedince je snížena na maximální hodnotu povolenou jeho nošenou zbrojí po dobu, co má zbroj na sobě.
@@ -66,221 +67,265 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 
 <img src="/assets/sep_line.png"/>
 
-## Zbraně ==reword a fix... todo==
+## Zbraně
 
-Zbraně se dělí do několika kategorií, především dle určitých vlastností.
+Zbraně se dělí do 3 kategorií.
 
-### Vlastnosti zbraně
+- **Jednoduché zbraně zbraně:** Zbraně, které nepotřebují speciální trénink pro jejich efektivní požití v boji.
+- **Válečné zbraně:** Zbraně vyžadující bojový trénink. Jsou většinou efektivnější než jednoduché zbraně. 
+- **Speciální zbraně:** Zbraně u kterých jen vybraná skupina jedinců ví, jak se správně používají. Stejně jako válečné zbraně vyžadují explicitní trénink.
 
-- **Základní zbraň (ZZ):** Zbraň, která nevyžaduje speciální trénink pro efektivní používání v boji.
-- **Manipulace (1R/1+R/2R):** Pro efektivní použití v boji mohou zbraně potřebovat různý počet volných ruk. Jsou zbraně co jsou jednoruční, takové lze kombinovat s jinými jednoručními zbraněmi a štítem. Jeden a půl ruční, které lze využít jak jako jednoruční tak obouruční zbraň a v neposlední řadě obouruční, většinou s největší kostkou poškození nebo dosahem.
-- **Hozené (h/dh):** Zbraně, které lze hodit na vzdálenost *5 metrů*. Ty označené "dh" umožňují i hod na neefektivní vzdálenost *10 metrů*. Hozené zbraně připočítávají *sílu* k hodu na zásah.
+### Zbraně ze speciálních materiálů
+
+Mimo běžně dostupných zbraní, tak jak jsou popsány níže. Si lze obstarat zbraně ze speciálních materiálů. Na začátku hry je hráčům dostupné pouze *stříbro* a *studená ocel*. Zbraně z těchto materiálů stojí *40 zl + původní cena zbraně*.
+
+- **Stříbro:** Obchází imunity proti běžným zbraní nebo působí extra poškození některým typům monster jako jsou lykantropové a ďáblové. 
+- **Studená ocel:** Obchází imunity proti běžným zbraní nebo působí extra poškození některým typům monster jako jsou víly a démoni. 
+
+### Vlastnosti zbraní
+
+- **Držení (1R/1+R/2R):** Pro efektivní použití v boji mohou zbraně potřebovat různý počet volných ruk. Jsou zbraně co jsou jednoruční, takové lze kombinovat s jinými jednoručními zbraněmi a štítem. Jeden a půl ruční, které lze využít jak jako jednoruční tak obouruční zbraň a v neposlední řadě obouruční, většinou s větší kostkou poškození nebo dosahem. 1+R u střelné zbraně znamená, že zbraní lze zaútočit jednou rukou, ale k nabíjení jsou třeba obě ruce.
+- **Obratná (Ob):** Při útoku touto zbraní si lze vybrat zda bude hod na zásah modifikovaný silou nebo obratností. Nezávisle na výběru, poškození je stále modifikováno silou.
+- **Volná ruka:** Ruka, která drží takovou zbraň je považována za volnou.
+- **Hozené (H/DH):** Zbraně, které lze hodit na vzdálenost *5 / 10 metrů*. Ty označené "dh" umožňují hod na vzdálenost *10 / 20 metrů*. Hozené zbraně připočítávají *sílu* k hodu na zásah a poškození.
+- **Hod silou:** Střelná zbraň, která na místo rozvahy připočítává *sílu* k hodu na zásah.
 - **Nabíjecí zbraň (N):** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebití zbraně vyžaduje *strategickou akci*.
-- **Dostřel:** Popisuje na jakou vzdálenost lze útočit střelnou zbraní. Obsahuje 2 hodnoty a to efektivní a neefektivní vzdálenost. Většinou střelných zbraní lze střílet i na neefektivní vzdálenost. Ten je vždy dvojnásobkem efektivního dostřelu (nebo dohodu) zbraně. Takový útok však probíhá *s postihem -4* na zásah. Střelnými zbraněmi nelze útočit na vzdálenost menší jak *2 metry*.
-- **Typ poškození:** Každá zbraň má aspoň jeden ze tří typů poškození. Typy poškození jsou S - Sečné, P - Průrazné a T - Tupé poškození.
-- **Speciální (sp):** Zbraně s touhle vlastností mají speciální schopnosti nebo využití. Podívej se do popisku zbraně, aby si zjistil jaké.
+- **Nesmrtící:** Za normálních okolností, útoky touto zbraní nemohou zabít, pouze omráčit.
+- **Dostřel:** Popisuje na jakou vzdálenost lze útočit střelnou zbraní. Obsahuje 2 hodnoty a to efektivní a neefektivní vzdálenost. Většinou střelných zbraní lze střílet i na neefektivní vzdálenost. Ten je vždy dvojnásobkem efektivního dostřelu (nebo dohodu) zbraně. Takový útok však probíhá *s postihem -4* na zásah. Střelnými zbraněmi nelze útočit na vzdálenost menší jak *2 metry*. Pokud jsou v dostřelu zbraně uvedeny 3 inkrementy vzdálenosti. V prvním inkrementu plat stejné postihy jako v tom posledním.
+- **Dosah:** Jak daleko zbraň na blízku dosáhne mimo standardní 1 metr.
+- **Typ poškození:** Každá zbraň má aspoň jeden ze tří typů poškození. Typy poškození jsou S - Sečné, P - Průrazné a T - Tupé poškození. Některé zbraně mohou také kombinovat více typů poškození. První psaný typ poškození je považován za výchozí.
+- **Speciální schopnost (SP):** Zbraně s touhle vlastností mají speciální schopnosti nebo využití. Podívej se do speciálních schopností pod každým seznamem zbraní.
 
-### Zbraně na blízku
+### Jednoduché zbraně na blízku
 
-| Název zbraně    | Vlastnosti zbraně |  Poškození  | Skladnost | Cena  |
-| :-------------- | :---------------: | :---------: | :-------: | :---: |
-| Bič             |      1R, sp       |    1k3 S    |     1     | 6 st  |
-| Bojová hůl      |      2R, sp       |    1k8 T    |     1     | 12 st |
-| Dlouhý meč      |        1+R        | 1k6/1k8 S/P |     1     | 20 st |
-| Hůl             |      ZZ, 1+R      |  1k3/1k6 T  |     1     | 2 md  |
-| Kopí            |    1+R, h, sp     |  1k6/1k8 P  |     1     | 7 st  |
-| Krátký meč      |        1R         |   1k6 S/P   |     1     | 10 st |
-| Krátké kopí     |    ZZ, 1R, dh     |    1k6 P    |     1     | 1 st  |
-| Nůž             |     ZZ, 1R, h     |   1k4 S/P   |     L     | 5 st  |
-| Obouruční meč   |      2R, sp       |   2k6 S/P   |     1     | 30 st |
-| Obušek          |      1R, sp       |    1k4 T    |     1     | 2 st  |
-| Palcát          |      1+R, sp      |  1k6/1k8 T  |     1     | 10 st |
-| Palice          |      ZZ, 1R       |    1k4 T    |     1     | 5 md  |
-| Sekyra          |    1+R, h, sp     |  1k6/1k8 S  |     1     | 10 st |
-| Stříbrný nůž    |     1R, h, sp     |   1k4 S/P   |     L     | 30 st |
-| Válečná sekera  |     2R, h, sp     |   1k12 S    |     1     | 15 st |
-| Válečné kladivo |      2R, sp       |   1k10 T    |     1     | 20 st |
+| Název zbraně     | Vlastnosti zbraně  |  Poškození  | Skladnost | Cena  |
+| :--------------- | :----------------: | :---------: | :-------: | :---: |
+| Neozbrojený útok | 1R, Ob, Nesmrtící  |     1k2     |     -     |   -   |
+| Hůl              |        1+R         | 1k4 / 1k6 T |     1     | 1 md  |
+| Kopí             |       1R, DH       |    1k6 P    |     1     | 2 st  |
+| Nůž              |     1R, Ob, H      |   1k4 P/S   |     L     | 1 st  |
+| Palcát           |         1R         |    1k6 T    |     1     | 5 st  |
+| Píka             |  2R, SP, Dosah 3m  |    1k8 P    |     T     | 10 st |
+| Rukavice s bodci | 1R, Ob, Volná ruka |    1k4 P    |     1     | 3 st  |
+| Sekyrka          |       1R, H        |    1k4 S    |     L     | 1 st  |
 
-### Zbraně na dálku
+#### Speciální schopnosti
 
-| Název zbraně    | Vlastnosti zbraně | Dostřel | Poškození | Skladnost | Cena  |
-| --------------- | :---------------: | :-----: | :-------: | :-------: | :---: |
-| Dalekonosný luk |        2R         | 60/120  |   1k6 P   |     1     | 15 st |
-| Krátký luk      |        2R         |  30/60  |   1k6 P   |     1     | 10 st |
-| Kuše            |   ZZ, 2R, N, sp   |  20/40  |   1k8 P   |     1     | 20 st |
-| Prak            |      1+R, sp      |  15/30  |   1k3 T   |     1     | 1 st  |
-| Příruční kuše   |  ZZ, 1+R, N, sp   |  10/20  |   1k6 P   |     1     | 35 st |
+**Píka:** Na kratší vzdálenost jak 3 metry je *nepoužitelná*. Píka připravená jako protiútok proti nabíhajícímu nepříteli, který se před útokem pohnul aspoň o 15 metrů nepřetržitého pohybu, působí *dvojnásobné poškození*.
+
+### Jednoduché zbraně na dálku
+
+| Název zbraně    | Vlastnosti zbraně  | Dostřel | Poškození | Skladnost | Cena  |
+| --------------- | :----------------: | :-----: | :-------: | :-------: | :---: |
+| Hození lektvaru |   1R, Hod silou    |  10/20  |   různé   |     -     |   -   |
+| Flusačka        |        1+R         |  10/20  |     0     |     1     | 1 st  |
+| Kuše            |       2R, N        |  20/40  |   1k8 P   |     1     | 30 st |
+| Oštěp           |   1R, Hod silou    |  10/20  |   1k6 P   |     L     | 1 st  |
+| Prak            | 1+R, Hod silou, SP |  15/30  |   1k4 T   |     1     | 1 md  |
+| Příruční kuše   |     1+R, N, SP     |  10/20  |   1k6 P   |     1     | 30 st |
+
+#### Speciální schopnosti
+
+**Prak:** Při házení kamenů přičítá polovinu síly střelce k poškození. Přičítá plnou sílu, pokud je síla střelce záporná. Municí do praku může být libovolný předmět se skladností *L* jako kámen, lektvar nebo třeba bomba. Kamení je většinou všude dost.
+
+**Příruční kuše:** Touto střelnou zbraní lze útočit i na vzdálenost menší jak *2 metry*.
+
+### Válečné zbraně na blízku
+
+| Název zbraně      |        Vlastnosti zbraně        | Poškození  | Skladnost | Cena  |
+| :---------------- | :-----------------------------: | :--------: | :-------: | :---: |
+| Úder štítem       |               1R                |   1k3 T    |     -     |   -   |
+| Bič               | 1R, Ob, Nesmrtíci, Dosah 2m, SP |   1k4 S    |     1     | 5 st  |
+| Bojová hůl        |             2R, SP              |   1k8 T    |     1     | 10 st |
+| Dlouhý meč        |               1+R               | 1k8/1k10 S |     1     | 40 st |
+| Halapartna        |         2R, Dosah 2m SP         |  1k10 P/S  |     T     | 20 st |
+| Hvězdicový nůž    |            1R, Ob, H            |  1k6 P/S   |     1     | 30 st |
+| Krátký meč        |             1R, Ob              |  1k6 S/P   |     1     | 15 st |
+| Main-gauche       |           1R, Ob, SP            |  1k4 P/S   |     1     | 5 st  |
+| Meč               |               1R                |  1k8 S/P   |     1     | 15 st |
+| Meč ukrytý v holi |           1R, Ob, SP            |  1k6 S/P   |     1     | 50 st |
+| Obouruční kladivo |             2R, SP              |   1k12 T   |     1     | 60 st |
+| Obouruční meč     |             2R, SP              |  1k12 S/P  |     1     | 60 st |
+| Obouruční sekera  |             2R, SP              |   1k12 S   |     1     | 60 st |
+| Obušek            |          1R, Nesmrtící          |   1k6 T    |     1     | 3 sp  |
+| Puklice           |        Přidělaná na štít        |   1k4 T    |   - (1)   | 5 st  |
+| Puklice s ostny   |        Přidělaná na štít        |   1k4 P    |   - (1)   | 5 st  |
+| Rapír             |        1R, Ob, Dosah 2m         |   1k6 P    |     1     | 25 st |
+| Řemdich           |             1R, SP              |   1k6 T    |     1     | 10 st |
+| Trojzubec         |             1R, Dh              |   1k8 P    |     1     | 12 st |
+| Válečná kosa      |        2R, Dosah 2m, SP         |   1k8 S    |     1     | 25 st |
+| Válečná palice    |               1+R               | 1k8/1k10 T |     1     | 20 st |
+| Válečná sekyra    |             1+R, H              | 1k8/1k10 S |     1     | 10 st |
+
+#### Speciální schopnosti
+
+**Bič:** Bič funguje jako prodloužená ruka bojovníka. Bičem lze provádět bojové manévry u kterých to dává smysl (jako zadržení, shození na zem a odzbrojení) na vzdálenost až *2 metry*. Manévry prováděné bičem mají situační bonus *+1* k zásahu.
+
+**Bojová hůl:** Bojové manévry u kterých to dává smysl (odstrčení, shození na zem) prováděné bojovou holí mají situační bonus +1 k zásahu. Stvoření používající bojovou hůl, může také použít svou *strategickou akci* a získat situační bonus +1 k OČ proti útokům na blízko do začátku svého příštího tahu.
+
+**Halapartna:** Halapartna připravená jako protiútok proti nabíhajícímu nepříteli, který se před útokem pohnul aspoň o 15 metrů nepřetržitého pohybu, působí *dvojnásobné poškození*.
+
+**Main-gauche:** Bojové manévry na odzbrojení prováděné main-gauche mají situační bonus +1 k zásahu. Stvoření používající main-gauche, může použít svou *strategickou akci* a získat situační bonus +1 k OČ proti útokům na blízko do začátku svého příštího tahu.
+
+**Meč ukrytý v holi:** Na první pohled působí jen jako vycházková hůl nikoliv zbraň.
+
+**Obouruční kladivo:** Při kritickém zásahu odstrčí soupeře o *2 metry*.
+
+**Obouruční meč:** Při kritickém zásahu shodí soupeře na zem.
+
+**Obouruční sekera:** Při kritickém zásahu udělí poloviční poškození dalšímu stvoření, stojícímu vedle kriticky zasaženého cíle v dosahu zbraně. Poškození je uděleno jen tehdy, pokud by původní hod na zásah překonal OČ tohoto sekundárního cíle.
+
+**Řemdich:** Bojové manévry u kterých to dává smysl (odzbrojení, shození na zem) prováděné řemdichem mají situační bonus +1 k zásahu. Pokud má cíl situační bonus do OČ proti útoku řemdichem, tento bonus je *snížen o 1*.
+
+**Válečná kosa:** Při kritickém zásahu udělí poloviční poškození dalšímu stvoření, stojícímu vedle kriticky zasaženého cíle v dosahu zbraně. Poškození je uděleno jen tehdy, pokud by původní hod na zásah překonal OČ tohoto sekundárního cíle.
+
+### Válečné zbraně na dálku
+
+| Název zbraně               | Vlastnosti zbraně |    Dostřel    | Poškození | Skladnost |  Cena  |
+| -------------------------- | :---------------: | :-----------: | :-------: | :-------: | :----: |
+| Bola                       | 1R, Hod silou, SP |    10 / 20    |     0     |     L     |  5 st  |
+| Dalekonosný luk            |        2R         | 10 / 60 / 120 |   1k8 P   |     1     | 60 st  |
+| Kompozitní dalekonosný luk |      2R, SP       | 10 / 60 / 120 |   1k8 P   |     1     | 200 st |
+| Kompozitní luk             |      2R, SP       |    30 / 60    |   1k6 P   |     1     | 140 st |
+| Luk                        |        2R         |    30 / 60    |   1k6 P   |     1     | 30 st  |
+| Těžká kuše                 |     2R, N, SP     |    30 / 60    |  1k10 P   |     1     | 120 st |
+
+#### Speciální schopnosti
+
+**Bola:** Zasažený cíl musí uspět v záchranném hodu *na reflexy* jinak je *znehybněn*. Pokud byla jeho poslední akce pohyb, tak upadne na zem. Kritický zásah touto zbraní neumožňuje záchranný hod.
+
+**Kompozitní dalekonosný luk:** Přičítá polovinu síly střelce k poškození. Přičítá plnou sílu, pokud je síla střelce záporná.
+
+**Kompozitní luk:** Přičítá polovinu síly střelce k poškození. Přičítá plnou sílu, pokud je síla střelce záporná.
+
+**Těžká kuše:** Při kritickém zásahu je soupeř *shozen na zem*.
 
 ### Munice
 
-| Název munice                        | Skladnost |      Cena      |
-| ----------------------------------- | :-------: | :------------: |
-| Kámen do praku                      |     L     |     Zdarma     |
-| Postříbřený šíp / šipka             |     L     |      5 st      |
-| Šipky do kuše (Pouzdro 20-ti šipek) |     1     | 8 st (4 md/ks) |
-| Šípy (Toulec 20-ti šípů)            |     1     | 4 st (2 md/ks) |
+| Název munice                                 | Skladnost |  Cena  |
+| -------------------------------------------- | :-------: | :----: |
+| Alchymistický šíp / šipka                    |     L     | 35 st  |
+| Kámen do praku -10 ks                        |     L     | Zdarma |
+| Šipky do kuše - 10 ks                        |     L     |  1 st  |
+| Šípy do luku - 10 ks                         |     L     |  1 st  |
+| Munice ze stříbra nebo studené oceli - 10 ks |     L     | 20 zl  |
 
-#### Popisky a speciální efekty zbraní:
-
-!!! note "Předpokládaný nepřítel"
-	Pro všechny speciální efekty popsané níže je předpokládaným nepřítelem stvoření podobné člověku. Pokud je zbraň použita proti jinému nepříteli nemusí být speciální efekt aplikovatelný.
-
-**Bič:** 3 metry dlouhý nástroj z pletené kůže. Působící velmi bolestivá sečná poškození.
-
-- *SP1:* Bičem nelze zabít. Cíl jehož životy klesnou na *0* po útoku bičem je paralyzován bolestí na *1 směnu*. Bič nepůsobí žádné poškození nepřátelům ve střední nebo těžší zbroji či monstrům s tvrdou kůží (*OČ 14+*)
-- *SP2:* Hody na zásah bičem jsou modifikovány *obratností* na místo síly.
-- *SP3:* Při úspěšném zásahu cíle bičem, se útočník může vzdát poškození a místo toho cíli omotat končetinu. Cíl musí uspět v *záchranném hodu na reflexy* nebo nemůže používat danou končetinu. To mu může znemožnit útočit, používat štít nebo se volně pohybovat. Ve všech případech však obdrží postih *-2 do OČ*. K osvobození je třeba přeseknout bič (*OČ 12*) nebo se vymotat (nový pokus o záchranný hod).
-
-**Bojová hůl:** Pokovovaná nebo celo kovová hůl uzpůsobena pro boj z blízka.
-
-- *SP:* Bojová hůl má bonus +1 OČ proti útokům na blízko.
-
-**Hůl:** Dřevěná přibližně 1,5 metru dlouhá hůl. Všestranného využití.
-
-**Kopí:** přibližně 2.5 metru dlouhá dřevěná tyč zakončená kovovým bodcem.
-
-- *SP1:* Pokud je kopí použito jako součást nájezdu nebo proti nájezdu (připravená akce). Kopí působí *2 kostky poškození* na místo jedné. Za nájezd se považuje útok na konci aspoň *15-ti metrového* pohybu v rámci *1* kola.
-- *SP2:* Kopím lze útočit až na 2 metry a také pře spojence z tzv. druhé řady.
-
-**Krátký meč:** Meč podobající se spíše většímu noži. Představuje různé krátké meče jako je například gladius, mačeta nebo jiné explicitně jednoruční meče jako jsou třeba rapíry. Kombinuje praktickou přenosnost nože a nebezpečnost meče.
-
-**Nůž:** Nenápadné dobře uchopitelné malé ostří. Vhodná jako záložní zraň, když není nic lepšího po ruce.
-
-**Meč:** Vyvážený meč s dlouhou čepelí. Může představovat i meče jako jsou šavle či katany. Vhodný jak pro jednoruční tak obouruční použití.
-
-**Obouruční meč:** Masivní až 2 metry dlouhý meč, který je extra efektivní proti přesile.
-
-- *SP1:* Rozmach obouručního meče poskytuje bonus *+1 OČ* proti útokům na blízko.
-- SP2: Obouručním mečem jde útočit přes spojence jako s kopím. Při takovém použití obouruční meč uděluje pouze *1k6* poškození.
-
-**Obušek:** Kožený obušek plněný pískem nebo s olověným jádrem. 
-
-- *SP1:* Obuškem nelze zabít. Cíl jehož životy klesnou na *0* po útoku obuškem je omráčen na *1k6 směn*.
-- SP2: Pro vyhodnocení lotrových talentů je tato zbraň považována za nůž.
-
-**Oštěp:** Kratší a lehčí verze kopí. Uzpůsobená především na házení.
-
-**Palcát:** Kovová rukojeť s hvězdicovým nebo kulatým zakončením, působící ničivé poškození. Vhodný jak pro jednoruční tak obouruční použití.
-
-- *SP:* Pokud má cíl štít, střední nebo těžší zbroj, či je to monstrum s tvrdým tělem (OČ 14+). Palcát má bonus *+1* k zásahu.
-
-**Palice:** Kus lehce rozšířeného klacku, někdy s pokovovaným koncem.
-
-**Sekyra:** Středně velká sekyra s jednostrannou hlavou. Vhodné jak pro jednoruční tak obouruční použití.
-
-- *SP:* Pokud má cíl štít sekyra má bonus *+1* k zásahu.
-
-**Stříbrný nůž:** Nůž jehož čepel je potažena stříbrem. *Speciální:* Efektivní proti některým magickým monstrům.
-
-**Válečná sekera:** Masivní obouruční sekera, která přetne takřka cokoliv. 
-
-- *SP:* Pokud má cíl štít sekyra má bonus *+1* k zásahu.
-
-**Válečné kladivo:** Kovová tyč s masivní hlavicí, která působí masivní drtivá poškození.
-
-- *SP1:* Pokud má cíl štít, střední nebo těžší zbroj, či je to monstrum s tvrdým tělem (OČ 14+). Válečné kladivo má bonus *+2* k zásahu.
-
-==todo Seřadit==
-
-**Dalekonosný luk:** Dlouhý luk vynikající ve střelbě na velké vzdálenosti.
-
-**Krátký Luk:** Kratší varianta luku vhodná do uších prostorů nebo třeba i při jízdě na koni.
-
-**Kuše:** Mechanické zařízení s integrovanou menší verzí luku a jednoduchou spouští. Často preferovaná díky své konzistentnosti a přesnosti oproti klasickým lukům. 
-
-- *SP:* Záporný modifikátor rozvahy se nepřičítá k hodu na zásah kuší.
-
-**Prak:** Jednoduchá zbraň z látky a kožené kapsy vytvořená za účely vrhání kamenů na velké vzdálenosti. 
-
-- *SP:* Munice je zdarma dostupná kdekoliv, kde se dají najít kameny; Prakem lze házet i lektvary.
-
-**Příruční kuše:** Menší varianta kuše, která se dá lépe schovat. 
-
-- *SP1:* Záporný modifikátor rozvahy se nepřičítá k hodu na zásah příruční kuší.
-- *SP2:* S příruční kuší lze střílet i na vzdálenost menší jak *2* metry.
+**Alchymistický šíp / šipka:** Speciální šíp do luku či kuše. Nepůsobí poškození zbraně. Na místo toho funguje jako *Lahvička alchymistické substance* z výbavy dobrodruha.
 
 <img src="/assets/sep_line.png"/>
 
-## Výbava dobrodruha
+## Výbava dobrodruha ==todo: rework==
 
 Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě postavy. Ceny a dostupnost předmětů, během hry samotné se mohou výrazně lišit.
 
-| PŘEDMĚT                                                      |   Skladnost    | CENA  |
-| :----------------------------------------------------------- | :------------: | :---: |
-| Cestovní výbava                                              |       1        | 10 st |
-| Dalekohled                                                   |       1        | 20 st |
-| Dřevěný kůl                                                  |       L        | 1 md  |
-| Hák                                                          |       1        | 3 st  |
-| Hlavičky česneku (10 ks)                                     |       1        | 2 md  |
-| Hudební nástroj                                              |       1        | 25 st |
-| Kovová pouta s klíčem                                        |       1        | 15 st |
-| Kovový hřeb                                                  |       L        | 1 st  |
-| Koňské sedlo a otěže                                         | VT - mimo koně | 7 st  |
-| Křesadlo                                                     |       1        | 3 st  |
-| Křída (balík 10 ks)                                          |       1        | 1 st  |
-| Lahvička kyseliny                                            |       L        | 5 st  |
-| Lahvička oleje                                               |       L        | 3 st  |
-| Lahvička svěcené vody                                        |       L        | 20 st |
-| Lahvička s korkovou zátkou                                   |       L        | 1 st  |
-| Lékárnička (10 použití)                                      |       1        | 25 st |
-| Lucerna                                                      |       1        | 10 st |
-| Maskovací sada (10 použití)                                  |       1        | 25 st |
-| Motouz (30 metrů)                                            |       1        | 1 st  |
-| Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo, Prut na ryby atd...) |       1        | 4 st  |
-| Pochodeň                                                     |       L        | 2 md  |
-| Protijed (slabý)                                             |       L        | 15 st |
-| Provaz (10 metrů)                                            |       1        | 1 st  |
-| Psací potřeby (10 použití)                                   |       1        | 6 st  |
-| Pytel kovových ježků                                         |       1        | 2 st  |
-| Řetěz (3 metry)                                              |       1        | 9 st  |
-| Sedlová brašna / Pytel (malý)                                |    1 (Kon.)    | 1 st  |
-| Sedlová brašna / Pytel (velký)                               |    1 (Kon.)    | 2 st  |
-| Síť                                                          |       1        | 1 st  |
-| Symbol církve / patrona                                      |       1        | 5 st  |
-| Truhla se zámkem (dřevěná, malá)                             |    1 (Kon.)    | 1 st  |
-| Truhla se zámkem (dřevěná, velká)                            |    T (Kon.)    | 5 st  |
-| Víno (1 litr, obyčejné)                                      |       1        | 1 st  |
-| Víno (1 litr, Kvalitní)                                      |       1        | 15 st |
-| Zápalky (10 použití)                                         |       1        | 12 st |
-| Zásoby (na 7 dní)                                            |       1        | 5 st  |
-| Zásoby pro zvíře (na 7 dní)                                  |       1        | 2 st  |
-| Zlodějské náčiní (10 použití)                                |       1        | 25 st |
-| Zrcátko                                                      |       1        | 5 st  |
-| Zvoneček                                                     |       L        | 1 st  |
-| A další... (Řekni PJ co potřebuješ)                          |       ??       |  ??   |
+| PŘEDMĚT                                                      |       Skladnost       |   CENA   |
+| :----------------------------------------------------------- | :-------------------: | :------: |
+| Alchymistické nástroje (10 použití)                          |           1           |  40 st   |
+| Cestovní výbava                                              |           1           |  10 st   |
+| Dalekohled                                                   |           1           |  20 zl   |
+| Dřevěná tyč - 3 metry                                        |           1           |   2 md   |
+| Dřevěný kůl                                                  |           L           |   1 md   |
+| Hák                                                          |           1           |   2 st   |
+| Horolezecké náčiní                                           |           1           |  10 st   |
+| Hrnek                                                        |           1           |   3 md   |
+| Hudební nástroj - Ruční                                      |           1           |   6 st   |
+| Hudební nástroj - Velký                                      |           T           |  20 st   |
+| Koňské sedlo a otěže                                         |     T - mimo koně     |  40 st   |
+| Kouzelný svitek (Kouzlo nestojící více jak 4 magie)          |           L           |  40 st   |
+| Kovový hřeb                                                  |           L           |   5 md   |
+| Křesadlo                                                     |           1           |   2 st   |
+| Křída (balík 10 ks)                                          |           1           |   3 md   |
+| Lahvička alchymistické substance                             |           L           |  30 st   |
+| Lahvička léčivého lektvaru (slabý)                           |           L           |  30 st   |
+| Lahvička oleje                                               |           L           |   3 st   |
+| Lahvička svěcené vody                                        |           L           |  20 st   |
+| Lahvička s korkovou zátkou                                   |           L           |   5 md   |
+| Lékárnička (10 použití)                                      |           1           |  50 st   |
+| Lucerna                                                      |           1           |  10 st   |
+| Lupa                                                         |           L           |  40 zl   |
+| Maskovací sada (10 použití)                                  |           1           |  25 st   |
+| Motouz (30 metrů)                                            |           1           |   2 md   |
+| Mýdlo                                                        |           L           |   2 md   |
+| Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo, Prut na ryby atd...) |           1           |   5 st   |
+| Oblečení - Běžné                                             | 1 - pokud v inventáři | - (1 st) |
+| Oblečení - Pro dobrodruha                                    | 1 - pokud v inventáři | - (1 st) |
+| Oblečení - Společenské                                       | 1 - pokud v inventáři |  20 st   |
+| Oblečení - Módní společenské                                 | 1 - pokud v inventáři |  50 zl   |
+| Oblečení - Zimní                                             | 1 - pokud v inventáři |   5 st   |
+| Páčidlo                                                      |           1           |   5 st   |
+| Píšťalka                                                     |           L           |   6 md   |
+| Pochodně (10 ks)                                             |           1           |   1 st   |
+| Pouta                                                        |           1           |  15 st   |
+| Protijed (slabý)                                             |           L           |  15 st   |
+| Prázdná kniha (100 stran, 10 kouzel nebo receptů)            |           1           |  10 st   |
+| Provaz (10 metrů)                                            |           1           |   3 st   |
+| Přenosné váhy                                                |           1           |   2 st   |
+| Psací potřeby (10 použití)                                   |           1           |  10 st   |
+| Pytel kovových ježků                                         |           L           |   3 st   |
+| Řetěz (3 metry)                                              |           1           |  30 st   |
+| Sedlová brašna / Pytel (malý)                                | 1 - pokud v inventáři |   1 st   |
+| Sedlová brašna / Pytel (velký)                               | 1 - pokud v inventáři |   2 st   |
+| Svíčky (10 ks)                                               |           L           |   2 md   |
+| Symbol patrona                                               |           L           |  20 st   |
+| Truhla se zámkem (dřevěná, malá)                             | 1 - pokud v inventáři |   3 st   |
+| Truhla se zámkem (dřevěná, velká)                            |           T           |   6 st   |
+| Víno (1 litr, obyčejné)                                      |           1           |   1 st   |
+| Víno (1 litr, Kvalitní)                                      |           1           |  15 st   |
+| Visací zámek s klíčem                                        |           1           |  10 st   |
+| Zápalky (10 použití)                                         |           1           |  12 st   |
+| Zásoby (na 7 dní)                                            |           1           |   4 st   |
+| Zásoby pro zvíře (na 7 dní)                                  |           1           |   2 st   |
+| Zlodějské náčiní (10 použití)                                |           1           |  25 st   |
+| Zrcátko                                                      |           L           |  10 st   |
+| Zvoneček                                                     |           L           |   1 st   |
+| A další... (Řekni PJ co potřebuješ)                          |          ??           |    ??    |
 
-**Kontejner (Kon.):** Obsazené předměty s tímto označením zabírají místo v inventáři pouze tehdy, jsou-li v něm uschované. Při běžném použití žádné místo nezabírají. (Místo je zabíráno pouze předměty uschovanými uvnitř)
+**Alchymistické nástroje:** Sada skumavek, regentů a jiných nástrojů potřebných pro alchymisty a jejich bádání.
 
-**Cestovní výbava:** Základní výbava pro cestování divočinou. Obsahuje věci jako stan, spacák, nádobí na přípravu jídla a měch na vodu.
+**Cestovní výbava:** Základní výbava pro cestování divočinou. Obsahuje věci jako stan, spacák, nádobí na přípravu jídla, mýdlo a měch na vodu.
 
 **Dalekohled:** Umožňuje lépe rozeznat věci v dálce.
 
 **Hák:** Hák se třemi nebo čtyřmi hroty. Vhodný pro uchycení lana.
 
-**Kovová pouta s klíčem:** Propojená řetězem, vhodné na ruce i nohy.
+**Horolezecké náčiní:** Sada nástrojů jako jsou provaz, kladívka, kovové kůly a podobné, které dělají lezení po skalách bezpečnější. Pokud hrozí, že by lezoucí stvoření mělo při šplhání spadnout. Může podstoupit přímý hod s *HU 5* a pádu předejít.
+
+**Koňské sedlo a otěže:** Sada umožňující osedlání koně a bezpečnou a pohodlnou jízdu na něm.
+
+**Kouzelný svitek:** Kouzelný svitek obsahující kouzlo libovolné magické disciplíny, které nestojí vice jak *4 magie*. Pravidla pro sesílání svitků najdeš zde ==todo: odkaz==.
 
 **Kovový hřeb:** Kus kovu, který pokud zatlučen do libovolného mechanismu, může značně narušit jeho fungování. Vhodné také k zasekávání dveří. Odborná instalace vyžaduje kladivo.
 
-**Křesadlo:** Užitečné k zapalování ohňů a pochodní. Použití křesadla při vypjatých situacích (například v boji) uspěje s pravděpodobností *1 z 6-ti*.
+**Křesadlo:** Užitečné k zapalování ohňů a pochodní. Použití křesadla při vypjatých situacích (například v boji) vyžaduje úspěšné ověření *přímým hodem* s *HU 16*.
 
-**Lahvička kyseliny:** Lahvička plná žíravé substance. Vhodná pro boj, nebo na rozpouštění drobných předmětů.  
+**Lahvička alchymistické substance:** Lahvička plná nestabilní substance. Vhodná pro boj, nebo jiná využití. Při koupi substance si vyber jeden z následujících typů energetického poškození (*žíravina*, *oheň*, *mráz*, *elektřina*).
 
-- *Efekt:* Kyselina se prožere pěti centimetry organického materiálu nebo jedním centimetrem běžného kovu. 
-- *Bojové užití:* Cíl pokrytý žíravou látkou obdrží *1k6 perzistentního poškození*. 
+- *Efekt:* Substance se dá využít na to k čemu by se využívala vybraná energie. Žíravina požírá organickou hmotu a kovy. Oheň zapaluje hořlavé materiály. Mráz mrazí a elektřina elektrifikuje.
+- *Bojové užití žíravina:* Jako jednoduchá zbraň na dálku *Hození lektvaru*. Zasažený cíl obdrží *1k6 perzistentního žíravinového poškození*.
+- *Bojové užití oheň:* Jako jednoduchá zbraň na dálku *Hození lektvaru*. Zasažený cíl obdrží *1k8 ohnivého poškození* a *2 perzistentního ohnivého poškození*.
+- *Bojové užití mráz:* Jako jednoduchá zbraň na dálku *Hození lektvaru*. Zasažený cíl obdrží *1k6 mrazivého poškození* a *stavový postih -2 k hybnosti* do konce svého příštího tahu.
+- *Bojové užití elektřina:* Jako jednoduchá zbraň na dálku *Hození lektvaru*. Zasažený cíl obdrží *1k6 elektrického poškození* a do začátku svého příštího tahu *nemůže používat reakce*.
+- *Kritický zásah:*  V případě kritického zásahu se násobí jen úvodní poškození, perzistentní poškození zůstává stejné.
+- *Granát:* Pokud byl hod na zásah neúspěšný, úspěšný nebo kriticky úspěšný. Všechna stvoření v okolí 1 metru kolem a včetně zasaženého cíle, obdrží 1 poškození předepsaného typu.
+
+**Lahvička léčivého lektvaru (slabý):** Vypití vyléčí *1k8 životů*.
 
 **Lahvička oleje:** Lahvička plná kluzké a hořlavé substance. Vhodná pro boj, nebo jako palivo do lucerny na *4 hodiny* (24 směn) 
 
-- *Bojové užití:* Cíl pokrytý hořícím olejem obdrží *1k8 perzistentního poškození*. 
+- *Bojové užití:* Lahvičku oleje lze zapálit a hodit. Ta pak funguje stejně jako Lahvička alchymistické substance (žíravina) až na to, že způsobené perzistentního poškození je ohnivé.
 - *Rozlitý olej:* Rozlitý olej hoří *1 směnu*.
 
 **Lahvička svěcené vody:** Lahvička vody vysvěcená ve jménu šesti strážců.
 
-- *Bojové užití:* Cíl je pokryt svěcenou vodou. Pokud je cíl *nemrtvý* nebo *démon* obdrží *1k8 perzistentního poškození*. 
+- *Bojové užití:* Lahvičku lze hodit na démony, pekelníky či nemrtvé a působí na ně jako *Lahvička alchymistické substance (oheň)*. 
 - *Jiné užití:* Používá se i jako součást náboženských rituálů.
 
-**Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. ==todo: make it int check==
+**Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. Použití lékárničky zabere 1 směnu a vyžaduje ověření *Rozumu* proti *HU 12* s následujícími výsledky. Nezávisle na výsledku se spotřebuje 1 použití lékárničky a cíl je po zbytek dne imunní vůči efektům lékárničky.
 
-- *Léčení:* použití trvá *1 směnu* a umožňuje vyléčit *2 životy denně*. (1 použití / cíl)
+- Kritický úspěch: Cíl si vyléčí *2k6 životů* a odstraní si jedno *vážné zranění*.
+- Úspěch: Cíl si vyléčí *1k6* životů.
+- Neúspěch: Nic se nestane
+- Kritický neúspěch: Cíl obdrží *1k4 poškození*.
 
 **Lucerna:** Poskytuje světlo v oblasti *9 metrů* a má posuvnou clonu, kterou lze světlo zakrýt nebo namířit jen jedním směrem. K fungování vyžaduje olej. 
 
@@ -288,35 +333,33 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Nástroj:** Věci jako lopaty, vidle, krumpáče, rybářské náčiní a jim podobné.
 
-**Pochodeň:** Poskytuje světlo v okolí *9 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Pokud je však pochodní zasažen nepřítel a nebo je pochodeň upuštěna na zem, existuje šance *1 z 6-ti*, že se zničí a zhasne. 
+**Páčidlo:** Poskytuje *předmětový bonus +1* k páčení dveří a jiných věcí.
 
-**Protijed (slabý):**  Slabý protijed ihned vyléčí slabou otravu.
+**Pochodeň:** Poskytuje světlo v okolí *9 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Při kritickém neúspěchu hodem na zásah pochodeň zhasne.
 
-- *Trvání:* do první otravy nebo *6 směn*. (Co přijde dřív) 
-- *Slabé jedy:* Jedy typu *I* nebo *II* a jedy monster , které umožňují záchranný hod s bonusem k hodu jsou považovány za slabé. 
-- *Jiné jedy:* V případě silnějších jedů tento protijed nemá žádný účinek.
+**Protijed (slabý):**  Poskytuje *předmětový bonus +2 k záchranným hodům* proti jedům a redukci obdrženého jedového poškození o 2  na 6 hodin. Pokud již je cíl pod efektem jedu, může hod na záchranu po vypití protijedu opakovat.
+
+**Prázdná kniha:** 100 stránková prázdná kniha. Vejde se do ní 10 kouzel nebo 10 alchymistických receptů.
 
 **Psací potřeby:** Sada psacích per, inkoustů, pečetního vosku a listů pergamenu pro běžné poznámky, nákresy či korespondenční účely. 
 
-**Pytel kovových ježků:** Malé kovové bodce, které mohou být rozhozeny po zemi (plocha *3 x 3 metry*). Stvoření pohybující se postiženou oblastí stoupnou na bodec s pravděpodobností *2 z 6-ti*. Stvoření, které stoupne na bodec obdrží *1 poškození* a jeho *rychlost pohybu bude snížena na polovinu* po dobu *24 hodin* nebo dokud neobdrží magické léčení.
+**Pytel kovových ježků:** Malé kovové bodce, které mohou být rozhozeny po zemi (oblast 1 metr). Stvoření pohybující se postiženou oblastí musí uspět v *záchranném hodu na reflexy* jinak stoupne na bodec obdrží *1 poškození* a jeho *rychlost pohybu bude snížena na polovinu* dokud nestráví *2 strategické akce* vyndáváním si bodců z nohy. Jakmile jedno stvoření obdrží poškození z ježků v dané oblasti. Tím poničí dost ježků na to, že průchod oblastí je bezpečný.
 
 **Sedlová brašna / Pytel**: Vhodná pro uložení většího množství předmětů na osedlaném koni, či přenášení v rukou.
 
 - *Malá:* Kapacita *2 sloty*. (Jako pytel lze nést v jedné ruce)
 - *Velká:* Kapacita 4 slotů. (Jako pytel potřeba nést v obou rukách)
 
-**Síť:** Síť se zátěží určená k zamotání do cíle a znemožnění mu účastnit se boje. Síť lze hodit až na vzdálenost 3 metry. Cíl musí uspět v *záchranném hodu na reflexy* jinak je chycen.
+**Svíčky:** Slabě osvětlují oblast *3 metrů* podobu 8-mi (*48 směn*) hodin.
 
-- *Chycené stvoření:* Chycenému stvoření trvá *1k4+1 kol*, než se osvobodí nebo *1 kolo* pokud mu někdo pomůže.
+**Symbol patrona:** Náboženský symbol většinou ve formě přívěšku.
 
-**Symbol církve / patrona:** Náboženský symbol většinou ve formě přívěšku.
-
-**Truhla:** Úložný prostor se zámkem a klíčem.
+**Truhla se zámkem:** Úložný prostor se zámkem a klíčem.
 
 - *Malá:* Kapacita *1 slot*.
 - *Velká:* Kapacita *10 slotů*.
 
-**Zápalky:** Užitečné k zapalování ohňů a pochodní. Použití při vypjatých situacích (například v boji) k úspěšnému zapálení dojde s pravděpodobností *5 z 6-ti*.
+**Zápalky:** Užitečné k zapalování ohňů a pochodní. Použití při vypjatých situacích (například v boji) k úspěšnému zapálení vyžaduje úspěšný *přímý hod s HU 5*.
 
 **Zásoby:** Zásoby jídla pro 1 člověku podobné stvoření na 7 dní.
 
@@ -326,7 +369,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 <img src="/assets/sep_line.png"/>
 
-## Jedy
+## Jedy ==todo překopat==
 
 Hráči mohou mít v průběhu hry přístup k nejrůznějším jedům.
 

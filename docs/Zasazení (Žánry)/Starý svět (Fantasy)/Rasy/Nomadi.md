@@ -42,7 +42,9 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 **Vrozené jazyky:** Jazyk společenství + 1 libovolný jazyk
 
-**Základní životy:** *5*
+**Základní životy:** *7*
+
+**Základní magie:** *3* (Pokud ovládá magickou disciplínu)
 
 **Hybnost:** 9 metrů
 

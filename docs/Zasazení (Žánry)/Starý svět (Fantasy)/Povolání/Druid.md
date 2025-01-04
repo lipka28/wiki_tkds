@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |    Magie     | mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :--------------------------: | :----------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+6+Výdrž |  8+Rozvaha   |     +0     |  +1  |    Um, Cyklus života, Živelná magie, Za jedno s přírodou     |
-|   2    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |                      Talent, +1 Kouzlo                       |
-|   3    |          +1k6+Výdrž          | +1k8+Rozvaha |     +1     |  +1  |                      +1 Dovednostní bod                      |
-|   4    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |                 Přeměna ve zvíře, +1 Kouzlo                  |
-|   5    |          +1k6+Výdrž          | +1k8+Rozvaha |     +2     |  +2  |                            Talent                            |
-|   6    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +2  |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   7    |          +1k6+Výdrž          | +1k8+Rozvaha |     +3     |  +3  |                       Živelná afinita                        |
-|   8    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  |                      Talent, +1 Kouzlo                       |
-|   9    |          +1k6+Výdrž          | +1k8+Rozvaha |     +4     |  +3  |        +1 Dovednostní bod (a každou další 3. úroveň)         |
-|   10   |          +1k6+Výdrž          | +1k8+Rozvaha |     +5     |  +4  | Kombinovaná přeměna, +1 Kouzlo (a každou další sudou úroveň) |
-|  11+   |              +1              |      +2      |     +5     |  +4  |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
+| ÚROVEŇ |              HP              |             Magie             | mod.Zásahu |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :---------------------------: | :--------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+8+Rozvaha |     +0     |  +1  |    Um, Cyklus života, Živelná magie, Za jedno s přírodou     |
+|   2    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +1     |  +1  |                      Talent, +1 Kouzlo                       |
+|   3    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +1     |  +1  |                      +1 Dovednostní bod                      |
+|   4    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +2     |  +2  |                 Přeměna ve zvíře, +1 Kouzlo                  |
+|   5    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +2     |  +2  |                            Talent                            |
+|   6    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +3     |  +2  |                +1 Dovednostní bod, +1 Kouzlo                 |
+|   7    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +3     |  +3  |                       Živelná afinita                        |
+|   8    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +4     |  +3  |                      Talent, +1 Kouzlo                       |
+|   9    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +4     |  +3  |        +1 Dovednostní bod (a každou další 3. úroveň)         |
+|   10   |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +5     |  +4  | Kombinovaná přeměna, +1 Kouzlo (a každou další sudou úroveň) |
+|  11+   |              +1              |              +2               |     +5     |  +4  |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
 
 ## Schopnosti povolání
 

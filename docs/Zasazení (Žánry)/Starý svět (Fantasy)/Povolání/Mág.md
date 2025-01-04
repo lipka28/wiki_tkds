@@ -12,19 +12,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |     Magie     | Mod.Zásahu |  Um  |                          Odemyká                          |
-| :----: | :--------------------------: | :-----------: | :--------: | :--: | :-------------------------------------------------------: |
-|   1    | Základní životy rasy+6+Výdrž |  10+Rozvaha   |     +0     |  +1  | Um, Praktická magie, Magická střela, Krystalizovaná magie |
-|   2    |          +1k6+Výdrž          | +1k10+Rozvaha |     +1     |  +1  |                     Talent, +1 Kouzlo                     |
-|   3    |          +1k6+Výdrž          | +1k10+Rozvaha |     +1     |  +1  |                    +1 Dovednostní bod                     |
-|   4    |          +1k6+Výdrž          | +1k10+Rozvaha |     +2     |  +2  |              Improvizovaná magie, +1 Kouzlo               |
-|   5    |          +1k6+Výdrž          | +1k10+Rozvaha |     +2     |  +2  |                          Talent                           |
-|   6    |          +1k6+Výdrž          | +1k10+Rozvaha |     +3     |  +2  |               +1 Dovednostní bod, +1 Kouzlo               |
-|   7    |          +1k6+Výdrž          | +1k10+Rozvaha |     +3     |  +3  |                      Nebezpečný dluh                      |
-|   8    |          +1k6+Výdrž          | +1k10+Rozvaha |     +4     |  +3  |                     Talent, +1 Kouzlo                     |
-|   9    |          +1k6+Výdrž          | +1k10+Rozvaha |     +4     |  +3  |       +1 Dovednostní bod (a každou další 3. úroveň)       |
-|   10   |          +1k6+Výdrž          | +1k10+Rozvaha |     +5     |  +4  |   Proti-kouzlo, +1 Kouzlo (a každou další sudou úroveň)   |
-|  11+   |              +1              |      +3       |     +5     |  +4  |       Talent (a každou další 3. úroveň), +1 Kouzlo        |
+| ÚROVEŇ |              HP              |             Magie              | Mod.Zásahu |  Um  |                          Odemyká                          |
+| :----: | :--------------------------: | :----------------------------: | :--------: | :--: | :-------------------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+10+Rozvaha |     +0     |  +1  | Um, Praktická magie, Magická střela, Krystalizovaná magie |
+|   2    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +1     |  +1  |                     Talent, +1 Kouzlo                     |
+|   3    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +1     |  +1  |                    +1 Dovednostní bod                     |
+|   4    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +2     |  +2  |              Improvizovaná magie, +1 Kouzlo               |
+|   5    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +2     |  +2  |                          Talent                           |
+|   6    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +3     |  +2  |               +1 Dovednostní bod, +1 Kouzlo               |
+|   7    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +3     |  +3  |                      Nebezpečný dluh                      |
+|   8    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +4     |  +3  |                     Talent, +1 Kouzlo                     |
+|   9    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +4     |  +3  |       +1 Dovednostní bod (a každou další 3. úroveň)       |
+|   10   |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +5     |  +4  |   Proti-kouzlo, +1 Kouzlo (a každou další sudou úroveň)   |
+|  11+   |              +1              |               +3               |     +5     |  +4  |       Talent (a každou další 3. úroveň), +1 Kouzlo        |
 
 ## Schopnosti povolání
 

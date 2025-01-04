@@ -16,19 +16,19 @@ Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šes
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP               |    Magie     | Mod.Zásahu |  Um  |                    Odemyká                    |
-| :----: | :---------------------------: | :----------: | :--------: | :--: | :-------------------------------------------: |
-|   1    | Základní životy rasy+10+Výdrž |  6+Rozvaha   |     +1     |  +1  |                    Um, asd                    |
-|   2    |          +1k10+Výdrž          | +1k6+Rozvaha |     +2     |  +1  |                    Talent                     |
-|   3    |          +1k10+Výdrž          | +1k6+Rozvaha |     +2     |  +1  |              +1 Dovednostní bod               |
-|   4    |          +1k10+Výdrž          | +1k6+Rozvaha |     +4     |  +2  |                      asd                      |
-|   5    |          +1k10+Výdrž          | +1k6+Rozvaha |     +4     |  +2  |                    Talent                     |
-|   6    |          +1k10+Výdrž          | +1k6+Rozvaha |     +5     |  +2  |              +1 Dovednostní bod               |
-|   7    |          +1k10+Výdrž          | +1k6+Rozvaha |     +6     |  +3  |                      asd                      |
-|   8    |          +1k10+Výdrž          | +1k6+Rozvaha |     +7     |  +3  |                    Talent                     |
-|   9    |          +1k10+Výdrž          | +1k6+Rozvaha |     +7     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň) |
-|   10   |          +1k10+Výdrž          | +1k6+Rozvaha |     +9     |  +4  |                      asd                      |
-|  11+   |              +3               |      +1      |     +9     |  +4  |       Talent (a každou další 3. úroveň)       |
+| ÚROVEŇ |              HP               |             Magie             | Mod.Zásahu |  Um  |                    Odemyká                    |
+| :----: | :---------------------------: | :---------------------------: | :--------: | :--: | :-------------------------------------------: |
+|   1    | Základní životy rasy+10+Výdrž | Základní magie rasy+6+Rozvaha |     +1     |  +1  |                    Um, asd                    |
+|   2    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +2     |  +1  |                    Talent                     |
+|   3    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +2     |  +1  |              +1 Dovednostní bod               |
+|   4    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +4     |  +2  |                      asd                      |
+|   5    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +4     |  +2  |                    Talent                     |
+|   6    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +5     |  +2  |              +1 Dovednostní bod               |
+|   7    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +6     |  +3  |                      asd                      |
+|   8    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +7     |  +3  |                    Talent                     |
+|   9    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +7     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň) |
+|   10   |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +9     |  +4  |                      asd                      |
+|  11+   |              +3               |              +1               |     +9     |  +4  |       Talent (a každou další 3. úroveň)       |
 
 ## Schopnosti povolání
 

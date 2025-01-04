@@ -52,7 +52,8 @@ Při řešení nejasných situací je dobré, aby PJ měl na paměti to, že hr�
 Zjednodušeně řečeno, ověřovací hod je hod *dvaceti-stěnnou kostkou (k20)* proti *hranici úspěchu (HU)*.
 
 - **Celkový výsledek ověřovacího hodu:** *Výsledek na kostce* + *Bonusy* + *Postihy* = *Výsledek*
-- **Stupně úspěchu:** Všechny ověřovací hody kostkou (mimo přímé hody). Mají 4 stupně úspěchu: *Kritický neúspěch*, *Neúspěch*, *Úspěch* a *Kritický úspěch*. Překonání *HU* o *10* nebo více značí *Kritikcý úspěch*. Podhození *HU* o *10* nebo více pak značí *Kritický neúspěch*. Hod přirozených *20* a *1* pak jednotlivě zvedá a snižuje výsledek o jeden stupeň. Může se tedy stát, že úspěšné pokoření *HU* hodem přirozené *1* udělá z výsledku *Neúspěch* (na místo Kritikcého neúspěchu).
+- **Stupně úspěchu:** Všechny ověřovací hody kostkou (mimo přímé hody). Mají 4 stupně úspěchu: *Kritický neúspěch*, *Neúspěch*, *Úspěch* a *Kritický úspěch*. Překonání *HU* o *10* nebo více značí *Kritikcý úspěch*. Podhození *HU* o *10* nebo více pak značí *Kritický neúspěch*. Hod přirozených *20* a *1* pak jednotlivě zvedá a snižuje výsledek o jeden stupeň. Může se tedy stát, že úspěšné pokoření *HU* hodem přirozené *1* udělá z výsledku *Neúspěch* (na místo Kritického neúspěchu).
+- **Bojová hladina úspěchu:** Je speciální varianta HU potřebná pro řešení bojových manévrů. Odpovídá *10+modifikátor útoku* soupeře. Proti této hladině úspěchu se většinou hází hod na zásah útokem.
 
 #### Bonusy a postihy
 
@@ -88,10 +89,10 @@ Seznam vzorových aktivit, které se při hře mohou běžně stát, jaké doved
 | Identifikace magických předmětů                |     Vzdělání     |            Ano            |
 | Lhát                                           |     Osobnost     |             -             |
 | Nauč se kouzlo                                 |     Vzdělání     |            Ano            |
-| Odstrčení nepřítele                            | Protihod na útok |             -             |
+| Odstrčení nepřítele                            | Hod na útok      |             -             |
 | Odemykání zámků                                |     Rozvaha      |            Ano            |
 | Odvést pozornost                               |     Osobnost     |             -             |
-| Odzbrojení nepřítele                           | Protihod na útok | Ano, bojovou specializaci |
+| Odzbrojení nepřítele                           | Hod na útok      | Ano, bojovou specializaci |
 | Oprava předmětů                                |     Vzdělání     |             -             |
 | Použití lékárničky (viz. výbava)               |     Vzdělání     |             -             |
 | Požádat stvoření o...                          |     Osobnost     |             -             |
@@ -102,7 +103,7 @@ Seznam vzorových aktivit, které se při hře mohou běžně stát, jaké doved
 | Připravit past                                 |     Rozvaha      |             -             |
 | Rozlušti zašifrované spaní                     |     Vzdělání     |             -             |
 | Shánění potravy v divočině                     |     Rozvaha      |             -             |
-| Shození nepřítele na zem                       | Protihod na útok |             -             |
+| Shození nepřítele na zem                       | Hod na útok      |             -             |
 | Stopování zvěře                                |     Rozvaha      |            Ano            |
 | Šplhání po skále                               |       Síla       |             -             |
 | Šplhání po stěnách bez zřejmých úchytů.        |       Síla       |            Ano            |

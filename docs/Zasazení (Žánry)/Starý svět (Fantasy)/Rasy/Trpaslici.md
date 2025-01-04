@@ -43,7 +43,9 @@ Nejčastěji se dobrodruhy stávají mladí trpaslíci, kteří chtějí dosáhn
 
 **Vrozené jazyky:** Trpasličtina + Jazyk společenství
 
-**Základní životy:** *6*
+**Základní životy:** *8*
+
+**Základní magie:** *2* (Pokud ovládá magickou disciplínu)
 
 **Hybnost:** 8 metrů
 

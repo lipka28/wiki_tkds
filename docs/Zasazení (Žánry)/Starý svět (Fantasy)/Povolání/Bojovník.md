@@ -47,7 +47,7 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 Bojovník je mistrem všech zbraní a dokáže efektivně používat 2 jednoruční zbraně naráz. Lze kombinovat 2 libovolné jednoruční zbraně nebo 1 jeden-a-půl-ruční a 1 jednoruční zbraň.
 
 - **Útok:** Při běžném útoku útočí bojovník svou primární (větší) zbraní.
-- **Extra útok:** Bojovník může provést extra útok svou druhou (menší) zbraní jako *strategickou akci*. Takový útok probíhá s postihem *-2* k zásahu.
+- **Extra útok:** Bojovník může provést extra útok svou druhou (menší) zbraní jako *strategickou akci*. Takový útok probíhá se *situačním postihem -2* k zásahu.
 
 ### Bojové manévry
 

@@ -206,7 +206,7 @@ Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybra
 
 **Efekt:** Hraničář se od víl naučil nějaké kouzla *živelné magie*. To znamená, že hraničář může aktivovat magické hůlky, sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
 
-- **Magie:** Hraničář disponuje *6+Rozvaha* magické energie zvané magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Přirozená regenerace magie odpovídá *2+Rozvaha* za přenocování.
+- **Magie:** Hraničář disponuje *Základní magie rasy+6+Rozvaha* magické energie zvané magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Přirozená regenerace magie odpovídá *2+Rozvaha* za přenocování.
 - **Kouzla:** Hraničář obdrží *1+Vzdělání* (min. 1) kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé když získá bod dovednosti do vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Hraničář nemůže mít nebo se naučit více kouzel, než které získá z tohohle či jiného magického talentu.
 
 <img src="/assets/sep_line.png"/>

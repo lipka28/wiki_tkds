@@ -30,7 +30,7 @@
 
 **Získané Dovednosti:** *+1 Obratnost nebo Rozvaha*
 
-**Trénované zbraně:** Základní zbraně, všechny čistě jednoruční zbraně a všechny střelné zbraně
+**Trénované zbraně:** Základní zbraně, všechny čistě jednoruční zbraně a všechny střelné zbraně ==todo: reword==
 
 **Trénovaná brnění:** Lehké
 
@@ -46,10 +46,10 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 
 ### Boj se dvěma zbraněmi
 
-Lotr dokáže efektivně používat 2 jednoruční zbraně naráz pokud je aspoň jedna z nich nůž. Lze kombinovat nůž s libovolnou jednoruční zbraní.
+Lotr dokáže efektivně používat 2 jednoruční zbraně naráz pokud je ta sekundární *obratná*. Lze kombinovat obratnou zbraň s libovolnou jednoruční zbraní.
 
-- **Útok:** Při běžném útoku útočí lotr svou primární (větší) zbraní.
-- **Extra útok:** Lotr může provést extra útok svým nožem jako *strategickou akci*. Takový útok probíhá s postihem *-2* k zásahu.
+- **Útok:** Při běžném útoku útočí lotr svou primární (většinou neobratnou) zbraní.
+- **Extra útok:** Lotr může provést extra útok svou *obratnou zbraní* jako *strategickou akci*. Takový útok probíhá se *situačním postihem* *-2* k zásahu.
 
 ### Přepadení
 
@@ -115,19 +115,19 @@ Lotr podávající či aplikující jed na zbraň se může pokusit o *ověřen�
 
 <img src="/assets/sep_line.png"/>
 
-#### Mistr nožů
+#### Mistr obratných zbraní
 
 **Požadavek:** -
 
-Lotr útočící nožem, může použít svou obratnost (na místo síly) jako modifikátor útoku a poškození. Platí i pro útok hozeným nožem.
+Lotr útočící obratnou zbraní může použít svou obratnosti i jako modifikátor poškození. Platí i pro útoky hozenými zbraněmi.
 
 <img src="/assets/sep_line.png"/>
 
 #### Rychlý hod
 
-**Požadavek:** Mistr nožů a aspoň 5. úroveň
+**Požadavek:** Mistr obratných zbraní a aspoň 5. úroveň
 
-Lotr může jako *běžnou akci* hodit dva nože co má u sebe. Hod na zásah těmito noži má postih *-2* k zásahu.
+Lotr může jako *běžnou akci* hodit dvě *obratné házecí zbraně* co má u sebe. Hod na zásah těmito zbraněmi má *situační postih postih -2*.
 
 <img src="/assets/sep_line.png"/>
 

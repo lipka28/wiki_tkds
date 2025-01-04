@@ -94,7 +94,9 @@
 
 ## Ostatní bojové situace
 
-**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných ze specializace, způsobené poškození je poloviční (vyjímaje kritických zásahů) a většina speciálních schopností zbraní není aplikovatelná.
+**Improvizované zbraně:** Pokud stvoření útočí něčím, co neslouží jako zbraň nebo útočí zbraní takovým způsobem, který neodpovídá jejímu původním účelu. Útočí s postihem *-2* k zásahu.
+
+**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných ze specializace a postihem za *improvizovanou zbraň*. Nelze také využít žádnou ze speciálních vlastností zbraně.
 
 **Netrénované zbroje a štíty:** Poskytují jen poloviční bonus do OČ.
 
@@ -105,7 +107,12 @@
 !!! Warning "Souběh akcí"
     Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
 
-**Bojové manévry:** Každé stvoření se může jako svou *akci* pokusit o bojový manévr (věci jako zadržení, shození na zem, odstrčení atd.). Ve většině případů lze bojový manévr vyřešit *protihodem na zásah zbraní na blízku*. V některých situacích nebo u některých manévrů to však nemusí dávat smysl. Pj může alternativně využít ověření dovednosti proti HU a nebo záchranný hod.
+**Bojové manévry:** Každé stvoření se může jako svou *akci* pokusit o bojový manévr. Ve většině případů lze bojový manévr vyřešit *hodem na zásah zbraní na blízku* proti *bojové hladině úspěchu* soupeře (*10+modifikátor útoku*). V některých situacích nebo u některých manévrů to však nemusí dávat smysl. Pj může alternativně využít ověření dovednosti proti HU a nebo záchranný hod. Běžné bojové manévry jsou:
+
+- **Shození:** Stvoření je shozeno na zem.
+- **Odstrčení:** Stvoření je odhozeno 2 metry.
+- **Odzbrojení:** Stvoření ztratí svou zbraň nebo část své výbavy.
+- **Zadržení:** Stvoření je znehybněné.
 
 **Přemožení:** Postava si může u svého smrtícího útoku vybrat, zda chce svůj cíl zabít nebo jen zneškodnit. Zneškodněný cíl je poražen ale ne zabit. Jak se poražení projevuje je na domluvě mezi hráčem a PJ.
 
@@ -127,9 +134,9 @@
 
 **V bezvědomí:** Stvoření v bezvědomí je *bezmocné* a po dobu trvání bezvědomí nelze probudit. Pokud je bezvědomí způsobeno spánkem. Stvoření lze probudit jednou *strategickou akcí*.
 
-**Vyděšený:** Vyděšené stvoření obdrží *stavový postih -4* ke všem svým ověřovacím hodům a hodům na zásah.
+**Vyděšený:** Vyděšené stvoření obdrží *stavový postih -4* ke všem svým ověřovacím hodům a hodům na zásah a po dobu trvání efektu se nemůže vědomě přiblížit ke zdroji svého strachu.
 
-**Zaskočený:** Zaskočené stvoření se nemůže plně bránit a má *situační postih -2 do OČ* a *záchranných hodů*. Nejběžnější způsob zaskočení je útok na nic netušící stvoření. Zaskočení většinou bývá vázáno na specifickou situaci nebo efekt. Pokud zaskočení není vázáno na žádný jiný efekt neb daný efekt vypršel, zaskočení končí na konci tahu ovlivněného stvoření.
+**Zaskočený:** Zaskočené stvoření se nemůže plně bránit a má *situační postih -2 do OČ*, *záchranných hodů* a *bojové HU*. Nejběžnější způsob zaskočení je útok na nic netušící stvoření. Zaskočení většinou bývá vázáno na specifickou situaci nebo efekt. Pokud zaskočení není vázáno na žádný jiný efekt neb daný efekt vypršel, zaskočení končí na konci tahu ovlivněného stvoření.
 
 **Zatížený:** Zatížené stvoření obdrží *situační postih -2* k pohybovým aktivitám vyžadující hod na ověření (Jako je třeba šplh, přeskakování překážek a jiné).
 

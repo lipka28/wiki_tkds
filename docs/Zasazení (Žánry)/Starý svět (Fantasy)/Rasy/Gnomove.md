@@ -44,6 +44,8 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 **Základní životy:** *2*
 
+**Základní magie:** 8 (Pokud ovládá magickou disciplínu) (potřebuje modifikovat pro gobliny)
+
 **Hybnost:** 9 metrů
 
 **Doba přirozeného dožití:** 50 - 70 let

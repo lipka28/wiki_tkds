@@ -64,9 +64,7 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Tajný hod (TH)**: Je druh hodu, který hází DM a hráč  nevidí přímý výsledek hodu kostky. Tajný hod se používá například při  prozkoumávání oblastí, kdy hráč neví, jestli nic nenašel, protože v dané oblasti nic není nebo proto, že výsledek ověřovacího hodu byl špatný.
 
-**Protihod:** Je ověřovací hod, který se na místo hranice úspěchu hází proti jinému hodu. Ten kdo v protihodu dosáhne vyšší hodnoty (včetně modifikátorů) je vítězem protihodu.
-
-**Zaokrouhlování:** pokud není stanoveno jinak, tak se dělené hodnoty zaokrouhlují vždy dolů.
+**Zaokrouhlování:** Pokud není stanoveno jinak, tak se dělené hodnoty zaokrouhlují vždy dolů.
 
 <img src="/assets/sep_line.png"/>
 

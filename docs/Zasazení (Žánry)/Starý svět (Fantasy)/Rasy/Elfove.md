@@ -42,7 +42,9 @@ Na dobrodružství se často vydávají mladí elfové (100 let nebo méně), ab
 
 **Vrozené jazyky:** Elfština + Jazyk společenství
 
-**Základní životy:** *3*
+**Základní životy:** *4*
+
+**Základní magie:** *6* (Pokud ovládá magickou disciplínu)
 
 **Hybnost:** 9 metrů
 
