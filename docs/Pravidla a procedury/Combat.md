@@ -85,7 +85,7 @@
 
 **Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna jinými nezranitelnými monstry.
 
-**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny. Pokaždé když stvoření obdrží perzistentní poškození, může podstoupit *přímý hod* s *HU 16* a tím efekt ukončit. Perzistentní poškození může být také předčasně ukončeno relevantní akci (například, když hořící stvoření skočí do vody). Více instancí perzistentního poškození stejného typu se nesčítá.
+**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na začátku tahu ovlivněného jedince. Pokaždé když stvoření obdrží perzistentní poškození, může podstoupit *přímý hod* s *HU 16* a tím efekt ukončit. Perzistentní poškození může být také předčasně ukončeno relevantní akci (například, když hořící stvoření skočí do vody). Více instancí perzistentního poškození stejného typu se nesčítá.
 
 !!! note "Příklad: Hořící nestvůra"
     Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
@@ -103,6 +103,8 @@
 **Neozbrojený boj:** Uděluje *1k2+Síla* poškození. Na rozdíl od útoků zbraněmi. Neozbrojené útoky mohou udělit *0* poškození. Neozbrojené útoky běžně nejsou smrtelné.
 
 **Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *reakci*.
+
+**Počkat:** Stvoření se může na začátku svého tahu vyjmout z iniciativy a zařadit se do ní kdykoliv po konci tahu libovolného stvoření. Pokud stvoření takto přečká celé kolo ztrácí svůj tah a v příštím kole je zase v iniciativě na svém původním místě. Pokud je stvoření pod vlivem nějakých negativních, či pozitivních efektů, nebo efektů, které mají během jeho tahu skončit. Vše se stane ve chvíli, kdy se stvoření vyjme z iniciativy.
 
 !!! Warning "Souběh akcí"
     Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.

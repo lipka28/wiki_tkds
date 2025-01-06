@@ -55,7 +55,7 @@ Hraničář může jako *strategickou akci* označit *1 stvoření*, které vid�
 
 Hraničář se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se hraničář nachází v divočině s dostatečným množství zvířat a poživatelných rostlin, nepotřebuje on a ani jeho zvířecí společník *zásoby* (neplatí v kobkách). Hraničář se navíc může zbavit vážných zrannění i mimo bezpečí civilizace.
 
-- **Přítel divočiny:** Hraničářova *osobnost* je považována za *+1* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
+- **Přítel divočiny:** Hraničář má *situační bonus +2* při interakcích se zvířaty, vílami a monstry zvířecí inteligence.
 
 ### Samotář (nebo Věrný společník)
 

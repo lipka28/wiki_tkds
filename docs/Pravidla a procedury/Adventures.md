@@ -152,6 +152,8 @@ Všechny postavy a monstra mají celkový počet životů, který reprezentuje j
 
 Klesnou-li životy hráčské postavy na 0, obdrží 1 vážné zranění, upadá do bezvědomí a dostává se na práh smrti. Pokud byl efekt, který postavu zredukoval na 0 životů kritický, obdrží rovnou 2 vážná zranění. Jeho pozice v iniciativě je přesunuta hned před stvoření nebo efekt, který jej zredukoval na 0 životů. Zde o ní rozhodne jen časná pomoc spojenců nebo *mince smrti*.
 
+- **Poškození a bezmoc:** Umírající postava je bezmocná a účelným poškozením vhodnou zbraní (většinou čepelí) může být okamžitě zabito. Obdrží li umírající postava během umírání nepřímé poškození jako z prostředí nebo z perzistentního poškození. Tohle poškození se počítá jako *1 vážné zranění*.
+
 **Beznaděj:** Ve hře existují způsoby jak zemřít bez možnosti záchrany. Většinou ve formě různých pastí, kouzel okamžitého zabití či masivního poškození.
 
 **Masivní poškození:** Pokud postava obdrží v jednom úderu větší poškození než je dvojnásobek jejího maximální počtu životů umře bez možnosti záchrany.
@@ -213,11 +215,7 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 **Tma:** Pokud se postavy chystají na výpravu do podzemí (nebo jiných tmavých prostorů) doporučuje se vzít si sebou zdroj světla. Postavy ve tmě jsou považovány za slepé. Pokud skupina během průzkum ztratí všechny zdroje světla, tak je permanentně ztracena (jako kdyby umřela). 
 
-**Vidění ve tmě:** Všechna nehumanoidní monstra a některá humanoidní stvoření mají schopnost černobílého vidění ve tmě.
-
-- *Čtení:* Ve většině případů se touto vizí nedá číst ve tmě, jelikož nelze vnímat dostatečné detaily. 
-- *Dosah:* Dosah vidění je *18 metrů* (pokud není specifikováno jinak). 
-- *Narušení:* Jakýkoliv zdroj světla, vidění ve tmě vyruší (vidění uživatele se vrátí do normálu).
+**Vidění ve tmě:** Některá stvoření vidí ve tmě stejně dobře jako za běžného světla akorát černobíle. Existují i stvoření, která vidí ve tmě dokonale v barvách.
 
 **Světlo a překvapení:** Postavy nebo monstra, která mají sebou zdroj světla, nemůžou překvapit své nepřátele. Světlo totiž prozrazuje jejich přítomnost.
 

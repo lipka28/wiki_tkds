@@ -67,7 +67,7 @@ Druid disponuje schopností používat magii spadající do disciplíny *živeln
 
 Druid se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se druid nachází v divočině s dostatečným množství zvířat a poživatelných rostlin, nepotřebuje *zásoby* (neplatí v kobkách). Druid se navíc může zbavit vážných zranění i mimo bezpečí civilizace.
 
-- **Přítel divočiny:** Druidova *osobnost* je považována za *+1* (pokud nemá větší) při reakcích a interakcích se zvířaty, vílami a monstry zvířecí inteligence.
+- **Přítel divočiny:** Druid má *situační bonus +2* při interakcích se zvířaty, vílami a monstry zvířecí inteligence.
 
 ### Přeměna ve zvíře (úroveň 4)
 

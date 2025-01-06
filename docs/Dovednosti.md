@@ -71,8 +71,6 @@ Soustředění, bystrost a síla vůle. Ověření rozvahy se používá třeba 
 
 Osobnost představuje sílu osobnosti a schopnost vést. Ověření osobnosti je důležité především při sociálních interakcích jako jsou přesvědčování, lhaní, zastrašování, zpěv, tanec a jiné formy uměleckého projevu.
 
-**Lepší ceny:** Postavy s pozitivní hodnotou osobností, obchodují za 5% lepší ceny za každý bod osobnosti. Neplatí pro nákup výbavy při tvorbě postavy.
-
 **Osobnost se přičítá k:**
 
 - Ověřovacím hodům na osobnost

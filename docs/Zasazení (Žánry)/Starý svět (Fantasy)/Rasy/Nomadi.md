@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/OW/races/Human.png)
+![Image title](/assets/OW/races/Nomad.png)
 
 <img src="/assets/sep_line.png"/>
 
@@ -49,5 +49,9 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 **Hybnost:** 9 metrů
 
 **Doba přirozeného dožití:** 50 - 70 let
+
+## Speciální vlastnosti
+
+- **Asd** - asd
 
 <img src="/assets/sep_line.png"/>

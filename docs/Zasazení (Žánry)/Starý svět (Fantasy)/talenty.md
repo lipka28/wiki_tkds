@@ -39,18 +39,18 @@ Zde se nachází obecné talenty, které při splnění podmínek, jsou k dispoz
 
 <img src="/assets/sep_line.png"/>
 
-### Vylepšit dovednost
-
-**Požadavek:** -
-
-**Efekt:** Libovolná dovednost postavy se zvedne o *1*. Nemůže být použito na dovednosti, které již mají hodnotu 2 nebo více. Lze vzít opakovaně.
-
-<img src="/assets/sep_line.png"/>
-
 ### Válečná medicína
 
 **Požadavek:** -
 
 **Efekt:** Postava může použít lékárničku jako *běžnou akci* avšak *HU* je v takovém případě *16*.
+
+<img src="/assets/sep_line.png"/>
+
+### Nová výzbroj
+
+**Požadavek:** -
+
+**Efekt:** Tento talent umožní postavě se naučit zacházet novou zbraní, zbrojí nebo štítem. Postava se může naučit ovládat jednu zbraň z vyšší skupiny zbraní než kterou ovládá (pokud ovládá základní zbraně, může se naučit jednu válečnou zbraň atd.). Alternativně se může postava naučit používat štít nebo o jedenu vyšší třídu zbroje než ovládá (např. okovaná kožená zbroj -> šupinová zbroj).
 
 <img src="/assets/sep_line.png"/>

@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/OW/races/Human.png)
+![Image title](/assets/OW/races/Animalfolk.png)
 
 <img src="/assets/sep_line.png"/>
 

@@ -1,4 +1,4 @@
-# Vybavení a nosnost ==todo: Celé překopat kvůli variantám modifikátorů a nové action ecconomy==
+# Vybavení a nosnost
 
 <img src="/assets/sep_line.png"/>
 
@@ -12,12 +12,8 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 
 - **Normální (1):** Předmět zabírající *1 slot*. Do této kategorie spadá většina předmětů a pokladů.
 - **Lehká (L):** Do 1 slotu se vejdou *3 lehké předměty*. Do této kategorie spadají převážně jednorázové předměty jako jsou lektvary či svitky.
-- **Těžkopádné (T):** Speciální, kategorie předmětů na kterou lze narazit. Takový předmět se nevejde do slotů a musí být nesen v rukou jedné nebo více postav či naložen na nějaký povoz. Uděluje podstatné postihy k hybnosti postav, které jej nesou. Výjimkou jsou zbroje a štíty, které mohou být "oblečeny" na postavě, ale nelze do výbavy uložit více kusů, a zbraně, které lze nést v ruce. Taková výbava neuděluje žádné další postihy mimo zatížení.
+- **Těžkopádné (T):** Speciální, kategorie předmětů na kterou lze narazit. Takový předmět se nevejde do slotů a musí být nesen v rukou jedné nebo více postav či naložen na nějaký povoz. Postava může mít postihy do aktivit, když takový předmět nese.
 - **Mince:** Speciální kategorie pro mince, do 1 slotu se vejde 1000 mincí.
-
-### Zatížení
-
-Postava je *zatížená* pokud má ve výbavě více jak *6+Síla* obsazených slotů nebo těží jak lehkou zbroj. Zatížené stvoření obdrží *situační postih -2* k pohybovým aktivitám vyžadující hod na ověření (Jako je třeba šplh, přeskakování překážek a jiné).
 
 ### Váha běžných pokladů
 
@@ -40,26 +36,24 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 ### Typy zbrojí:
 
 - **Oblečení** - Plní funkci běžného oblečení. Flexibilní, lze v něm spát a nezpůsobuje zatížení. Nevyžaduje trénink ani pokud přidává OČ.
-- **Lehká** - Flexibilní, lze v ní i spát, nezpůsobuje zatížení.
-- **Střední** - Hlučná, nedá se v ní spát. *Způsobuje zatížení*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
-- **Těžká** - Hlučná, nedá se v ní spát. *Způsobuje zatížení*. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
-- **Štít** - Stvoření držící štít, může jako *strategickou akci* štít zvednout a tím si připočítat jeho OČ jako *situační bonus ke svému OČ*, nezpůsobuje zatížení.
-- **Pukléř** - Malý ruční štít, funguje stejně jako *štít* a však získaný bonus za zvednutí štítu je aplikovatelný pouze proti útokům na blízku. 
-- **Zvířecí brnění:** Brnění určená pro zvěř, jako jsou koně a psy. PJ může za příplatek povolit použití i na jiná zvířata. *Způsobuje zatížení*.
+- **Lehká** - Flexibilní, lze v ní i spát.
+- **Střední** - Hlučná, nedá se v ní spát. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Těžká** - Hlučná, nedá se v ní spát. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
+- **Štít** - Stvoření držící štít, může jako *strategickou akci* štít zvednout a tím si připočítat jeho OČ jako *situační bonus ke svému OČ*.
+- **Zvířecí brnění:** Brnění určená pro zvěř, jako jsou koně a psy. PJ může za příplatek povolit použití i na jiná zvířata.
 
 | ZBROJE                          |      TYP       |  OČ  | Max. obratnost | Požadavek na sílu | skladnost |   CENA   |
 | :------------------------------ | :------------: | :--: | :------------: | :---------------: | :-------: | :------: |
 | Oblečení                        |    Oblečení    |  -   |       -        |         -         |     1     | - (1 st) |
 | Okované či polstrované oblečení |    Oblečení    |  +1  |       -        |         -         |     1     |  10 st   |
-| Kožená zbroj                    |     Lehká      |  +2  |       +3       |        +1         |     T     |  20 st   |
-| Okovaná kožená zbroj            |     Lehká      |  +3  |       +2       |        +1         |     T     |  30 st   |
-| Šupinová zbroj                  |    Střední     |  +4  |       +2       |        +2         |     T     |  40 st   |
-| Šupinová zbroj s kyrysem        |    Střední     |  +5  |       +1       |        +2         |     T     |  80 st   |
-| Půl plát s kyrysem              |     Těžká      |  +6  |       +1       |        +3         |     T     |  180 st  |
-| Plná plátová zbroj na míru      |     Těžká      |  +7  |       0        |        +3         |     T     |  300 st  |
-| Štít                            |      Štít      |  +2  |       -        |        +1         |     T     |  20 st   |
-| Pukléř                          |     Pukléř     | +1\* |       -        |         -         |     1     |  10 st   |
-| Zvířecí brnění                  | Zvířecí brnění |  +2  |       -        |                   |     T     |  25 st   |
+| Kožená zbroj                    |     Lehká      |  +2  |       +3       |        +1         |     1     |  20 st   |
+| Okovaná kožená zbroj            |     Lehká      |  +3  |       +2       |        +1         |     1     |  30 st   |
+| Šupinová zbroj                  |    Střední     |  +4  |       +2       |        +2         |     1     |  40 st   |
+| Šupinová zbroj s kyrysem        |    Střední     |  +5  |       +1       |        +3         |     1     |  80 st   |
+| Půl plát s kyrysem              |     Těžká      |  +6  |       +1       |        +3         |     1     |  180 st  |
+| Plná plátová zbroj na míru      |     Těžká      |  +7  |       0        |        +4         |     1     |  300 st  |
+| Štít                            |      Štít      |  +2  |       -        |        +1         |     1     |  20 st   |
+| Zvířecí brnění                  | Zvířecí brnění |  +2  |       -        |                   |     1     |  25 st   |
 
 **Maximální obratnost:** Obratnost jedince je snížena na maximální hodnotu povolenou jeho nošenou zbrojí po dobu, co má zbroj na sobě.
 
@@ -138,7 +132,7 @@ Mimo běžně dostupných zbraní, tak jak jsou popsány níže. Si lze obstarat
 | Bič               | 1R, Ob, Nesmrtíci, Dosah 2m, SP |   1k4 S    |     1     | 5 st  |
 | Bojová hůl        |             2R, SP              |   1k8 T    |     1     | 10 st |
 | Dlouhý meč        |               1+R               | 1k8/1k10 S |     1     | 40 st |
-| Halapartna        |         2R, Dosah 2m SP         |  1k10 P/S  |     T     | 20 st |
+| Halapartna        |         2R, Dosah 2m SP         |  1k10 P/S  |     1     | 20 st |
 | Hvězdicový nůž    |            1R, Ob, H            |  1k6 P/S   |     1     | 30 st |
 | Krátký meč        |             1R, Ob              |  1k6 S/P   |     1     | 15 st |
 | Main-gauche       |           1R, Ob, SP            |  1k4 P/S   |     1     | 5 st  |
@@ -214,7 +208,7 @@ Mimo běžně dostupných zbraní, tak jak jsou popsány níže. Si lze obstarat
 
 <img src="/assets/sep_line.png"/>
 
-## Výbava dobrodruha ==todo: rework==
+## Výbava dobrodruha
 
 Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě postavy. Ceny a dostupnost předmětů, během hry samotné se mohou výrazně lišit.
 
@@ -230,12 +224,13 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Hrnek                                                        |           1           |   3 md   |
 | Hudební nástroj - Ruční                                      |           1           |   6 st   |
 | Hudební nástroj - Velký                                      |           T           |  20 st   |
-| Koňské sedlo a otěže                                         |     T - mimo koně     |  40 st   |
+| Koňské sedlo a otěže                                         |           1           |  40 st   |
 | Kouzelný svitek (Kouzlo nestojící více jak 4 magie)          |           L           |  40 st   |
 | Kovový hřeb                                                  |           L           |   5 md   |
 | Křesadlo                                                     |           1           |   2 st   |
 | Křída (balík 10 ks)                                          |           1           |   3 md   |
 | Lahvička alchymistické substance                             |           L           |  30 st   |
+| Lahvička lektvaru magie (slabý)                              |           L           |  30 st   |
 | Lahvička léčivého lektvaru (slabý)                           |           L           |  30 st   |
 | Lahvička oleje                                               |           L           |   3 st   |
 | Lahvička svěcené vody                                        |           L           |  20 st   |
@@ -256,7 +251,6 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Píšťalka                                                     |           L           |   6 md   |
 | Pochodně (10 ks)                                             |           1           |   1 st   |
 | Pouta                                                        |           1           |  15 st   |
-| Protijed (slabý)                                             |           L           |  15 st   |
 | Prázdná kniha (100 stran, 10 kouzel nebo receptů)            |           1           |  10 st   |
 | Provaz (10 metrů)                                            |           1           |   3 st   |
 | Přenosné váhy                                                |           1           |   2 st   |
@@ -310,6 +304,8 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Lahvička léčivého lektvaru (slabý):** Vypití vyléčí *1k8 životů*.
 
+**Lahvička lektvaru magie (slabý):** Vypití doplní *1k8* magie.
+
 **Lahvička oleje:** Lahvička plná kluzké a hořlavé substance. Vhodná pro boj, nebo jako palivo do lucerny na *4 hodiny* (24 směn) 
 
 - *Bojové užití:* Lahvičku oleje lze zapálit a hodit. Ta pak funguje stejně jako Lahvička alchymistické substance (žíravina) až na to, že způsobené perzistentního poškození je ohnivé.
@@ -336,8 +332,6 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 **Páčidlo:** Poskytuje *předmětový bonus +1* k páčení dveří a jiných věcí.
 
 **Pochodeň:** Poskytuje světlo v okolí *9 metrů*. Hoří po dobu 1 hodiny (*6 směn*) a lze ji použít jako zbraň. Při kritickém neúspěchu hodem na zásah pochodeň zhasne.
-
-**Protijed (slabý):**  Poskytuje *předmětový bonus +2 k záchranným hodům* proti jedům a redukci obdrženého jedového poškození o 2  na 6 hodin. Pokud již je cíl pod efektem jedu, může hod na záchranu po vypití protijedu opakovat.
 
 **Prázdná kniha:** 100 stránková prázdná kniha. Vejde se do ní 10 kouzel nebo 10 alchymistických receptů.
 
@@ -369,7 +363,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 <img src="/assets/sep_line.png"/>
 
-## Jedy ==todo překopat==
+## Jedy
 
 Hráči mohou mít v průběhu hry přístup k nejrůznějším jedům.
 
@@ -378,33 +372,29 @@ Hráči mohou mít v průběhu hry přístup k nejrůznějším jedům.
 
 ### Efekty jedů
 
-Oběť otravy musí podstoupit *záchranný hod zhoubě* s modifikátorem závislým na síle jedu. Při úspěchu obdrží cíl poloviční poškození (nebo ignoruje jiný efekt jedu, pokud nějký) a při *NAT 20* může poškození z jedu kompletně ignorovat. Na druhou stranu při *NAT 1* obdrží cíl plné poškození (nebo plný rozsah jiného efektu jedu, pokud nějaký).
-
-- **Pozření:** V případě pozření má cíl otravy šanci jed odhalit dřív než jej pozře.
+Oběť otravy musí při vystavení jedu uspět v *záchranném hodu na zdatnost* s modifikátorem závislým na síle jedu. Tím se určí jak vážné budou následky jedu (Úspěch -> jedu bylo odoláno, Kritický neúspěch -> dvojnásobné poškození či jiné efekty.) Následně jed funguje jako *perzistentní poškození* (poškození se obdržuje na začátku kola). Pokud má jed i jiné efekty, poprvé se projevují až po začátku tahu ovlivněného stvoření.
 
 ### Aplikace jedu na zbraň
 
-Aplikace na zbraň trvá *1 směnu*. Jednou lahvičkou jedu lze pokrýt *1 velkou nebo střední zbraň*, *2 malé zbraně* nebo *5 kusů munice*. 
+Aplikace na zbraň trvá *1 směnu*. Jednou lahvičkou jedu lze pokrýt *1 zbraň* nebo *5 kusů munice*. 
 
 **Efektivnost:** Po aplikaci jedu na zbraň je jed účinný po dobu *1 dne* nebo *1 zásahu* otrávenou zbraní. (co přijde dřív).
 
 ### Běžné jedy
 
-| TYP  |   CENA   | zach. MOD. | ODHALENÍ*\** | prodleva  |          EFEKT          |
-| :--: | :------: | :--------: | :----------: | :-------: | :---------------------: |
-|  I   |  10 st   |     +6     |     80%      |  2k4 kol  | 2k6 jedového poškození  |
-|  II  |  75 st   |     +5     |     65%      | 1k4+1 kol | 4k6 jedového poškození  |
-| III  |  300 st  |     +4     |     40%      |  1k2 kol  | 6k6 jedového poškození  |
-|  IV  |  800 st  |     +3     |     15%      |   Ihned   | 8k6 jedového poškození  |
-|  V   | 1 300 st |     +2     |      0%      |   Ihned   | 10k6 jedového poškození |
+| TYP  |   CENA   | zach. MOD. | prodleva  |          EFEKT          |
+| :--: | :------: | :--------: | :-------: | :---------------------: |
+|  I   |  10 st   |     +2     |  2k4 kol  | 2k6 jedového poškození  |
+|  II  |  75 st   |     +1     | 1k4+1 kol | 4k6 jedového poškození  |
+| III  |  300 st  |     +0     |  1k2 kol  | 6k6 jedového poškození  |
+|  IV  |  800 st  |     -1     |   Ihned   | 8k6 jedového poškození  |
+|  V   | 1 300 st |     -2     |   Ihned   | 10k6 jedového poškození |
 
 *\*Platí jen při konzumaci*
 
 **Zach. mod.** - Modifikátor k záchrannému hodu oběti. 
 
-**Odhalení** - Šance oběti odhalit jed před konzumací.  
-
-**Prodleva** - Doba, než jed začne působit 
+**Prodleva** - Doba, než jed začne působit.
 
 **Efekt** - Efekt jedu.
 

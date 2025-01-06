@@ -129,203 +129,203 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 ### Praktická magie
 
-| Název kouzla        |      Cena magie       | Krátký popis                                                 |
-| :------------------ | :-------------------: | :----------------------------------------------------------- |
-| Dimenzionální kotva |   *7* / *10* / *20*   | Ukotvovací kouzlo zabraňující teleportaci a přesunu mezi světy. |
-| Dýchací bublina     | *2* / *2+* / *(2+)x2* | Umožní stvoření dýchat i v nehostinném prostředí.            |
-| Iluzorní podoba     |   *3* / *5+* / *6*    | Umožní změnit podobu a hlas subjektu.                        |
-| Magická zbraň       |   *4* / *8* / *12*    | Dočasně očaruje zbraň magickou mocí a zvýší tak její efektivnost. |
-| Mágova ruka         |       *2* / *4*       | Slabá telekineze jednoho předmětu.                           |
-| Mágova zbroj        |      4 / 8 / 12       | Brnění, které nic neváží.                                    |
-| Mastnota            |       *4* / *8*       | Pokryje oblast kluzkou mastnotou.                            |
-| Mrazivý kužel       |           -           | -                                                            |
-| Neviditelnost       |           -           | -                                                            |
-| Neviditelný sluha   |           -           | -                                                            |
-| Odolej elementům    |           -           | -                                                            |
-| Odolej energiím     |           -           | -                                                            |
-| Ohnivý vějíř        |           -           | -                                                            |
-| Okouzli             |           -           | -                                                            |
-| Omrač               |           -           | -                                                            |
-| Oprav               |           -           | -                                                            |
-| Oslabující paprsek  |           -           | -                                                            |
-| Ovládni vodu        |           -           | -                                                            |
-| Pavoučí chůze       |           -           | -                                                            |
-| Pavoučí kousnutí    |           -           | -                                                            |
-| Porozuměj jazykům   |           -           | -                                                            |
-| Proud větru         |           -           | -                                                            |
-| Proud vody          |           -           | -                                                            |
-| Prozři iluze        |           -           | -                                                            |
-| Rozhýbej ostatky    |           -           | -                                                            |
-| Rozkaz              |           -           | -                                                            |
-| Rozpoznej lži       |           -           | -                                                            |
-| Řetězový blesk      |           -           | -                                                            |
-| Směrem k nebesům    |           -           | -                                                            |
-| Snová zpráva        |           -           | -                                                            |
-| Spánek              |           -           | -                                                            |
-| Strach              |           -           | -                                                            |
-| Světlo              |           -           | -                                                            |
-| Teleport            |           -           | -                                                            |
-| Transmutace         |           -           | -                                                            |
-| Tvaruj kámen        |           -           | -                                                            |
-| Uklidni emoce       |           -           | -                                                            |
-| Uprav paměť         |           -           | -                                                            |
-| Vidění ve tmě       |           -           | -                                                            |
-| Vyruš magii         |           -           | -                                                            |
-| Vytvoř nástroj      |           -           | -                                                            |
-| Vyvolej elementála  |           -           | -                                                            |
-| Vznášející se disk  |           -           | -                                                            |
-| Zachovej tělo       |           -           | -                                                            |
-| Zamkni a klepej     |           -           | -                                                            |
-| Zapuď               |           -           | -                                                            |
-| Znehybni            |           -           | -                                                            |
-| Znič                |           -           | -                                                            |
-| Zpomal pád          |           -           | -                                                            |
-| Zpráva              |           -           | -                                                            |
-| Zrcadlový obraz     |           -           | -                                                            |
-| Žíravinový šíp      |           -           | -                                                            |
-| Živelná exploze     |           -           | -                                                            |
-
-### Okultní magie
-
 | Název kouzla        |    Cena magie     | Krátký popis                                                 |
 | :------------------ | :---------------: | :----------------------------------------------------------- |
-| Černočerná tma      | *4* / *6+* / *12* | Oslepí cíl nebo vyčaruje stínovou kopuli naprosté černoty.   |
 | Dimenzionální kotva | *7* / *10* / *20* | Ukotvovací kouzlo zabraňující teleportaci a přesunu mezi světy. |
-| Duševní pouto       |    *2* / *4+*     | Umožní malé sdílení životů mezi propojenými cíli.            |
+| Dýchací bublina     | *2* / *2+* / *x2* | Umožní stvoření dýchat i v nehostinném prostředí.            |
 | Iluzorní podoba     | *3* / *5+* / *6*  | Umožní změnit podobu a hlas subjektu.                        |
 | Magická zbraň       | *4* / *8* / *12*  | Dočasně očaruje zbraň magickou mocí a zvýší tak její efektivnost. |
+| Mágova ruka         |     *2* / *4*     | Slabá telekineze jednoho předmětu.                           |
 | Mágova zbroj        |    4 / 8 / 12     | Brnění, které nic neváží.                                    |
-| Mluvení s mrtvými   |         -         | -                                                            |
-| Neviditelnost       |         -         | -                                                            |
-| Neviditelný sluha   |         -         | -                                                            |
-| Obnova              |         -         | -                                                            |
+| Mastnota            |     *4* / *8*     | Pokryje oblast kluzkou mastnotou.                            |
+| Neviditelnost       | *5* / *7+* / *10* | Pokryje stvoření iluzí neviditelnosti.                       |
+| Neviditelný sluha   |     *4* / *7*     | Vyvolá neviditelného sluhu.                                  |
+| Odolej elementům    |         -         | -                                                            |
 | Odolej energiím     |         -         | -                                                            |
-| Odvrať zlo          |         -         | -                                                            |
-| Ochrana             |         -         | -                                                            |
+| Ohnivý vějíř        |         -         | -                                                            |
 | Okouzli             |         -         | -                                                            |
 | Omrač               |         -         | -                                                            |
+| Oprav               |         -         | -                                                            |
 | Oslabující paprsek  |         -         | -                                                            |
-| Podpora             |         -         | -                                                            |
+| Ovládni vodu        |         -         | -                                                            |
+| Pavoučí chůze       |         -         | -                                                            |
+| Pavoučí kousnutí    |         -         | -                                                            |
 | Porozuměj jazykům   |         -         | -                                                            |
-| Požehnej            |         -         | -                                                            |
+| Proud větru         |         -         | -                                                            |
+| Proud vody          |         -         | -                                                            |
 | Prozři iluze        |         -         | -                                                            |
 | Rozhýbej ostatky    |         -         | -                                                            |
 | Rozkaz              |         -         | -                                                            |
 | Rozpoznej lži       |         -         | -                                                            |
+| Řetězový blesk      |         -         | -                                                            |
+| Směrem k nebesům    |         -         | -                                                            |
 | Snová zpráva        |         -         | -                                                            |
 | Spánek              |         -         | -                                                            |
-| Spektrální zbraň    |         -         | -                                                            |
-| Status              |         -         | -                                                            |
-| Stínový výboj       |         -         | -                                                            |
 | Strach              |         -         | -                                                            |
+| Světlo              |         -         | -                                                            |
 | Teleport            |         -         | -                                                            |
+| Transmutace         |         -         | -                                                            |
+| Tvaruj kámen        |         -         | -                                                            |
 | Uklidni emoce       |         -         | -                                                            |
 | Uprav paměť         |         -         | -                                                            |
 | Vidění ve tmě       |         -         | -                                                            |
 | Vyruš magii         |         -         | -                                                            |
-| Vysaj život         |         -         | -                                                            |
+| Vytvoř nástroj      |         -         | -                                                            |
+| Vyvolej elementála  |         -         | -                                                            |
+| Vznášející se disk  |         -         | -                                                            |
 | Zachovej tělo       |         -         | -                                                            |
+| Zamkni a klepej     |         -         | -                                                            |
 | Zapuď               |         -         | -                                                            |
-| Zatrať              |         -         | -                                                            |
 | Znehybni            |         -         | -                                                            |
+| Znič                |         -         | -                                                            |
+| Zpomal pád          |         -         | -                                                            |
 | Zpráva              |         -         | -                                                            |
-| Zranění             |         -         | -                                                            |
 | Zrcadlový obraz     |         -         | -                                                            |
+| Živelná exploze     |         -         | -                                                            |
+| Živelný kužel       |         -         | -                                                            |
+| Živelný šíp         |         -         | -                                                            |
+
+### Okultní magie
+
+| Název kouzla        |     Cena magie      | Krátký popis                                                 |
+| :------------------ | :-----------------: | :----------------------------------------------------------- |
+| Černočerná tma      |  *4* / *6+* / *12*  | Oslepí cíl nebo vyčaruje stínovou kopuli naprosté černoty.   |
+| Dimenzionální kotva |  *7* / *10* / *20*  | Ukotvovací kouzlo zabraňující teleportaci a přesunu mezi světy. |
+| Duševní pouto       |     *2* / *4+*      | Umožní malé sdílení životů mezi propojenými cíli.            |
+| Iluzorní podoba     |  *3* / *5+* / *6*   | Umožní změnit podobu a hlas subjektu.                        |
+| Magická zbraň       |  *4* / *8* / *12*   | Dočasně očaruje zbraň magickou mocí a zvýší tak její efektivnost. |
+| Mágova zbroj        |     4 / 8 / 12      | Brnění, které nic neváží.                                    |
+| Mluvení s mrtvými   | *10* / *15+* / *x2* | Umožní zeptat se mrtvého na pár otázek.                      |
+| Neviditelnost       |  *5* / *7+* / *10*  | Pokryje stvoření iluzí neviditelnosti.                       |
+| Neviditelný sluha   |      *4* / *7*      | Vyvolá neviditelného sluhu.                                  |
+| Obnova              |          -          | -                                                            |
+| Odolej energiím     |          -          | -                                                            |
+| Odvrať zlo          |          -          | -                                                            |
+| Ochrana             |          -          | -                                                            |
+| Okouzli             |          -          | -                                                            |
+| Omrač               |          -          | -                                                            |
+| Oslabující paprsek  |          -          | -                                                            |
+| Podpora             |          -          | -                                                            |
+| Porozuměj jazykům   |          -          | -                                                            |
+| Požehnej            |          -          | -                                                            |
+| Prozři iluze        |          -          | -                                                            |
+| Rozhýbej ostatky    |          -          | -                                                            |
+| Rozkaz              |          -          | -                                                            |
+| Rozpoznej lži       |          -          | -                                                            |
+| Snová zpráva        |          -          | -                                                            |
+| Spánek              |          -          | -                                                            |
+| Spektrální zbraň    |          -          | -                                                            |
+| Status              |          -          | -                                                            |
+| Stínový výboj       |          -          | -                                                            |
+| Strach              |          -          | -                                                            |
+| Teleport            |          -          | -                                                            |
+| Uklidni emoce       |          -          | -                                                            |
+| Uprav paměť         |          -          | -                                                            |
+| Vidění ve tmě       |          -          | -                                                            |
+| Vyruš magii         |          -          | -                                                            |
+| Vysaj život         |          -          | -                                                            |
+| Zachovej tělo       |          -          | -                                                            |
+| Zapuď               |          -          | -                                                            |
+| Zatrať              |          -          | -                                                            |
+| Znehybni            |          -          | -                                                            |
+| Zpráva              |          -          | -                                                            |
+| Zranění             |          -          | -                                                            |
+| Zrcadlový obraz     |          -          | -                                                            |
 
 ### Mystická magie
 
-| Název kouzla        |      Cena magie       | Krátký popis                                                 |
-| :------------------ | :-------------------: | :----------------------------------------------------------- |
-| Dimenzionální kotva |   *7* / *10* / *20*   | Ukotvovací kouzlo zabraňující teleportaci a přesunu mezi světy. |
-| Duševní pouto       |      *2* / *4+*       | Umožní malé sdílení životů mezi propojenými cíli.            |
-| Dýchací bublina     | *2* / *2+* / *(2+)x2* | Umožní stvoření dýchat i v nehostinném prostředí.            |
-| Kouzlo smrti        |     *20+* / *20+*     | Způsobí masivní poškození a okamžitě zabije stvoření.        |
-| Léčení              |   *4* / *8* / *12*    | Vyléčí živé a zraní neživé.                                  |
-| Magická zbraň       |   *4* / *8* / *12*    | Dočasně očaruje zbraň magickou mocí a zvýší tak její efektivnost. |
-| Mluvení s mrtvými   |           -           | -                                                            |
-| Mluvení se zvířaty  |           -           | -                                                            |
-| Mystická exploze    |           -           | -                                                            |
-| Neutralizuj jed     |           -           | -                                                            |
-| Obnova              |           -           | -                                                            |
-| Odolej elementům    |           -           | -                                                            |
-| Odolej energiím     |           -           | -                                                            |
-| Odvrať zlo          |           -           | -                                                            |
-| Ochrana             |           -           | -                                                            |
-| Omrač               |           -           | -                                                            |
-| Oslabující paprsek  |           -           | -                                                            |
-| Oživ mrtvé          |           -           | -                                                            |
-| Podpora             |           -           | -                                                            |
-| Požehnej            |           -           | -                                                            |
-| Prozři iluze        |           -           | -                                                            |
-| Rozkaz              |           -           | -                                                            |
-| Rozpoznej lži       |           -           | -                                                            |
-| Snová zpráva        |           -           | -                                                            |
-| Spalující světlo    |           -           | -                                                            |
-| Spektrální zbraň    |           -           | -                                                            |
-| Stabilizuj          |           -           | -                                                            |
-| Status              |           -           | -                                                            |
-| Strach              |           -           | -                                                            |
-| Uklidni emoce       |           -           | -                                                            |
-| Vidění ve tmě       |           -           | -                                                            |
-| Vyruš magii         |           -           | -                                                            |
-| Vysaj život         |           -           | -                                                            |
-| Zachovej tělo       |           -           | -                                                            |
-| Zapuď               |           -           | -                                                            |
-| Zatrať              |           -           | -                                                            |
-| Zranění             |           -           | -                                                            |
-| Zrcadlový oraz      |           -           | -                                                            |
-| Zrychli             |           -           | -                                                            |
+| Název kouzla        |     Cena magie      | Krátký popis                                                 |
+| :------------------ | :-----------------: | :----------------------------------------------------------- |
+| Dimenzionální kotva |  *7* / *10* / *20*  | Ukotvovací kouzlo zabraňující teleportaci a přesunu mezi světy. |
+| Duševní pouto       |     *2* / *4+*      | Umožní malé sdílení životů mezi propojenými cíli.            |
+| Dýchací bublina     |  *2* / *2+* / *x2*  | Umožní stvoření dýchat i v nehostinném prostředí.            |
+| Kouzlo smrti        |    *20+* / *20+*    | Způsobí masivní poškození a okamžitě zabije stvoření.        |
+| Léčení              |  *4* / *8* / *12*   | Vyléčí živé a zraní neživé.                                  |
+| Magická zbraň       |  *4* / *8* / *12*   | Dočasně očaruje zbraň magickou mocí a zvýší tak její efektivnost. |
+| Mluvení s mrtvými   | *10* / *15+* / *x2* | Umožní zeptat se mrtvého na pár otázek.                      |
+| Mluvení se zvířaty  |      *4* / *8*      | Sesilatel získá schopnost mluvit se zvířaty.                 |
+| Mystická exploze    |     *7* / *9+*      | Očaruje lahvičku svěcené vody devastující silou              |
+| Neutralizuj jed     |  *6* / *9* / *x2*   | Neutralizuje jed                                             |
+| Obnova              |          -          | -                                                            |
+| Odolej elementům    |          -          | -                                                            |
+| Odolej energiím     |          -          | -                                                            |
+| Odvrať zlo          |          -          | -                                                            |
+| Ochrana             |          -          | -                                                            |
+| Omrač               |          -          | -                                                            |
+| Oslabující paprsek  |          -          | -                                                            |
+| Oživ mrtvé          |          -          | -                                                            |
+| Podpora             |          -          | -                                                            |
+| Požehnej            |          -          | -                                                            |
+| Prozři iluze        |          -          | -                                                            |
+| Rozkaz              |          -          | -                                                            |
+| Rozpoznej lži       |          -          | -                                                            |
+| Snová zpráva        |          -          | -                                                            |
+| Spalující světlo    |          -          | -                                                            |
+| Spektrální zbraň    |          -          | -                                                            |
+| Stabilizuj          |          -          | -                                                            |
+| Status              |          -          | -                                                            |
+| Strach              |          -          | -                                                            |
+| Uklidni emoce       |          -          | -                                                            |
+| Vidění ve tmě       |          -          | -                                                            |
+| Vyruš magii         |          -          | -                                                            |
+| Vysaj život         |          -          | -                                                            |
+| Zachovej tělo       |          -          | -                                                            |
+| Zapuď               |          -          | -                                                            |
+| Zatrať              |          -          | -                                                            |
+| Zranění             |          -          | -                                                            |
+| Zrcadlový oraz      |          -          | -                                                            |
+| Zrychli             |          -          | -                                                            |
 
 ### Živelná magie
 
-| Název kouzla       |      Cena magie       | Krátký popis                                            |
-| :----------------- | :-------------------: | :------------------------------------------------------ |
-| Dýchací bublina    | *2* / *2+* / *(2+)x2* | Umožní stvoření dýchat i v nehostinném prostředí.       |
-| Kořeny             |      *4* / *6+*       | Uváže stvoření na místě a zabrání mu v pohybu.          |
-| Kouzlo smrti       |     *20+* / *20+*     | Způsobí masivní poškození a okamžitě zabije stvoření.   |
-| Kůra místo kůže    |   *5* / *10* / *15*   | Zvýší odolnost vůči fyzickým útokům.                    |
-| Léčení             |   *4* / *8* / *12*    | Vyléčí živé a zraní neživé.                             |
-| Mastnota           |       *4* / *8*       | Pokryje oblast kluzkou mastnotou.                       |
-| Mlha               |   *6* / *9+* / *6+*   | Pokryje oblast mlhou, která výrazně zhorší viditelnost. |
-| Mluvení se zvířaty |           -           | -                                                       |
-| Mrazivý kužel      |           -           | -                                                       |
-| Neutralizuj jed    |           -           | -                                                       |
-| Neviditelnost      |           -           | -                                                       |
-| Obnova             |           -           | -                                                       |
-| Odolej elementům   |           -           | -                                                       |
-| Odvrať zlo         |           -           | -                                                       |
-| Ohnivý vějíř       |           -           | -                                                       |
-| Okouzli            |           -           | -                                                       |
-| Oprav              |           -           | -                                                       |
-| Ovládni vodu       |           -           | -                                                       |
-| Pavoučí chůze      |           -           | -                                                       |
-| Pavoučí kousnutí   |           -           | -                                                       |
-| Podpora            |           -           | -                                                       |
-| Proud větru        |           -           | -                                                       |
-| Proud vody         |           -           | -                                                       |
-| Přeměna ve zvíře   |           -           | -                                                       |
-| Řetězový blesk     |           -           | -                                                       |
-| Směrem k nebesům   |           -           | -                                                       |
-| Spalující světlo   |           -           | -                                                       |
-| Stabilizuj         |           -           | -                                                       |
-| Status             |           -           | -                                                       |
-| Strach             |           -           | -                                                       |
-| Stromová brána     |           -           | -                                                       |
-| Světlo             |           -           | -                                                       |
-| Transmutace        |           -           | -                                                       |
-| Tvaruj dřevo       |           -           | -                                                       |
-| Tvaruj kámen       |           -           | -                                                       |
-| Vidění ve tmě      |           -           | -                                                       |
-| Vyruš magii        |           -           | -                                                       |
-| Vytvoř zvíře       |           -           | -                                                       |
-| Vyvolej elementála |           -           | -                                                       |
-| Zachovej tělo      |           -           | -                                                       |
-| Zapuď              |           -           | -                                                       |
-| Zpomal pád         |           -           | -                                                       |
-| Zrychli            |           -           | -                                                       |
-| Zvířecí pošťák     |           -           | -                                                       |
-| Žíravinový šíp     |           -           | -                                                       |
-| Živelná exploze    |           -           | -                                                       |
+| Název kouzla       |    Cena magie     | Krátký popis                                            |
+| :----------------- | :---------------: | :------------------------------------------------------ |
+| Dýchací bublina    | *2* / *2+* / *x2* | Umožní stvoření dýchat i v nehostinném prostředí.       |
+| Kořeny             |    *4* / *6+*     | Uváže stvoření na místě a zabrání mu v pohybu.          |
+| Kouzlo smrti       |   *20+* / *20+*   | Způsobí masivní poškození a okamžitě zabije stvoření.   |
+| Kůra místo kůže    | *5* / *10* / *15* | Zvýší odolnost vůči fyzickým útokům.                    |
+| Léčení             | *4* / *8* / *12*  | Vyléčí živé a zraní neživé.                             |
+| Mastnota           |     *4* / *8*     | Pokryje oblast kluzkou mastnotou.                       |
+| Mlha               | *6* / *9+* / *6+* | Pokryje oblast mlhou, která výrazně zhorší viditelnost. |
+| Mluvení se zvířaty |     *4* / *8*     | Sesilatel získá schopnost mluvit se zvířaty.            |
+| Neutralizuj jed    | *6* / *9* / *x2*  | Neutralizuje jed                                        |
+| Neviditelnost      | *5* / *7+* / *10* | Pokryje stvoření iluzí neviditelnosti.                  |
+| Obnova             |         -         | -                                                       |
+| Odolej elementům   |         -         | -                                                       |
+| Odvrať zlo         |         -         | -                                                       |
+| Ohnivý vějíř       |         -         | -                                                       |
+| Okouzli            |         -         | -                                                       |
+| Oprav              |         -         | -                                                       |
+| Ovládni vodu       |         -         | -                                                       |
+| Pavoučí chůze      |         -         | -                                                       |
+| Pavoučí kousnutí   |         -         | -                                                       |
+| Podpora            |         -         | -                                                       |
+| Proud větru        |         -         | -                                                       |
+| Proud vody         |         -         | -                                                       |
+| Přeměna ve zvíře   |         -         | -                                                       |
+| Řetězový blesk     |         -         | -                                                       |
+| Směrem k nebesům   |         -         | -                                                       |
+| Spalující světlo   |         -         | -                                                       |
+| Stabilizuj         |         -         | -                                                       |
+| Status             |         -         | -                                                       |
+| Strach             |         -         | -                                                       |
+| Stromová brána     |         -         | -                                                       |
+| Světlo             |         -         | -                                                       |
+| Transmutace        |         -         | -                                                       |
+| Tvaruj dřevo       |         -         | -                                                       |
+| Tvaruj kámen       |         -         | -                                                       |
+| Vidění ve tmě      |         -         | -                                                       |
+| Vyruš magii        |         -         | -                                                       |
+| Vytvoř zvíře       |         -         | -                                                       |
+| Vyvolej elementála |         -         | -                                                       |
+| Zachovej tělo      |         -         | -                                                       |
+| Zapuď              |         -         | -                                                       |
+| Zpomal pád         |         -         | -                                                       |
+| Zrychli            |         -         | -                                                       |
+| Zvířecí pošťák     |         -         | -                                                       |
+| Živelná exploze    |         -         | -                                                       |
+| Živelný kužel      |         -         | -                                                       |
+| Živelný šíp        |         -         | -                                                       |
 
 <img src="/assets/sep_line.png"/>
 
@@ -373,13 +373,13 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 <img src="/assets/sep_line.png"/>
 
-### Duševní pouto
+### Duševní pouto ==todo: přespat, je jednosměrné a děje se na začátku tahu==
 
 **Cena:** <img src="/assets/action.png" width="20"> *2* magie
 
 **Dosah:** *10* metrů; **Cíl:** *1* ochotné stvoření
 
-**Efekt:** Vytvoří *1 směnu* trvající duševní spojení mezi sesilatelem a dalším ochotným stvořením. Podobu trvání kouzla si spojená stvoření vždy na konci kola předají *2 životy* (nebo rozdíl mezi maximální a aktuálním stavem životů, záleží co je nižší). A to tím způsobem, že stvoření s aktuálně menším počtem životů obdrží životy od zdravějšího propojence.
+**Efekt:** Vytvoří *1 směnu* trvající duševní spojení mezi sesilatelem a dalším ochotným stvořením. Podobu trvání kouzla si spojená stvoření vždy na začátku svého tahu předají *2 životy* (nebo rozdíl mezi maximální a aktuálním stavem životů, záleží co je nižší). A to tím způsobem, že stvoření s aktuálně menším počtem životů obdrží životy od zdravějšího propojence.
 
 - **Léčení:** Tohle kouzlo nevyužívá žádných pozitivních či negativních energií. Benefity kouzla fungují stejně jak na živé, neživé či nemrtvé bytosti. Kouzlo ignoruje dočasné životy a podobné efekty.
 - **Smrt:** Pokud některý z propojených ztratí všechny své životy, kouzlo se ukončí.
@@ -401,7 +401,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 **Posílení:**
 
 - <img src="/assets/round.png" width="20"> *2+ magie:* Stejné jako základní efekt ale za každou extra 1 magii může cílit na další stvoření v dosahu.
-- <img src="/assets/round.png" width="20"> *(2+)x2 magie:* Stejné jako první posílení ale efekt kouzla trvá celý den.
+- <img src="/assets/round.png" width="20"> *x2 magie:* Stejné jako první posílení ale efekt kouzla trvá celý den.
 
 <img src="/assets/sep_line.png"/>
 
@@ -454,7 +454,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/round.png" width="20"> *20+ magie* a *4 dovednostní body vlastního výběru:* Stejné jako základní efekt avšak cíl nemá nárok na záchranný hod a automaticky kriticky selže. Dovednostní body použité k seslání kouzla jsou permanentně ztraceny.
+- <img src="/assets/round.png" width="20"> *20+ magie* a *2 dovednostní body vlastního výběru:* Stejné jako základní efekt avšak cíl nemá nárok na záchranný hod a automaticky kriticky selže. Dovednostní body použité k seslání kouzla jsou permanentně ztraceny.
 
 <img src="/assets/sep_line.png"/>
 
@@ -568,6 +568,100 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 - <img src="/assets/action.png" width="20"> *9+ magie:* Stejné jako základní efekt ale za každých extra *3 magie* lze seslat další mlžnou oblast jako součást jednoho sesílání.
 - <img src="/assets/action.png" width="20"> *+6 magie:* Při sesílání tohoto kouzla může sesilatel zaplatit extra 6 magie a očarovat své oči. To mu umožní vidět skrz mlhu, kterou vyčaroval stejným sesíláním, jako by tam nebyla.
+
+<img src="/assets/sep_line.png"/>
+
+### Mluvení s mrtvými
+
+**Cena:** *1 směna* a *10* magie
+
+**Dosah:** *Dotyk*; **Cíl:** *1* mrtvé tělo
+
+**Efekt:** Na *1 směnu* vdechne ozvěnu života do mrtvého těla. Pokud nebylo tělo mrtvé déle než 100 let nebo cílem tohoto kouzla v posledních *10-ti dnech*, odpoví na *3 otázky*. Tělo má pouze ty vědomosti, které mělo ve chvíli své smrti, a ovládá jen ty jazyky, které znalo za života. Mluvící mrtvý odpovídá krypticky a může lhát nebo odmítnout odpovědět, pokud vycítí nepřátelství z někoho kdo mu pokládá otázku.
+
+**Posílení:**
+
+- *1 směna* a *15+ magie:* Stejné jako základní verze ale tělu může být položena extra otázka za každých 5 bodů utracené magie navíc.
+- *1 směna* a *x2 magie:* Stejné jako první posílení avšak neexistuje limit jak dlouho může být tělo mrtvé.
+
+<img src="/assets/sep_line.png"/>
+
+### Mluvení se zvířaty
+
+**Cena:** <img src="/assets/action.png" width="20"> *4* magie
+
+**Dosah:** *Sesilatel*; **Cíl:** *Sesilatel*
+
+**Efekt:** Sesilatel získá schopnost mluvit se zvířaty na *1 směnu*.
+
+**Posílení:**
+
+- <img src="/assets/action.png" width="20"> *8 magie:* Trvání kouzla je celý den.
+
+<img src="/assets/sep_line.png"/>
+
+### Mystická exploze
+
+**Cena:** <img src="/assets/action.png" width="20"> *7* magie + *Lahvička svěcené vody*
+
+**Dosah:** *100* metrů; **Cíl:** Místo v dosahu kouzla
+
+**Efekt:** Mystická energie posílí lahvičku svěcené vody a umožní ti ji hodit na obrovskou vzdálenost. Všechna stvoření v okolí *5-ti metrů kolem místa dopadu*. Musí uspět v záchranném hodu na reflexy s následujícími výsledky. 
+
+- **Kritický úspěch:** Obdržené poškození je dvojnásobné.
+- **Úspěch:** Stvoření obdrží *2k6 silového* (nemagického) poškození a pokud je nemrtvý nebo démon tak i *4k6 pozitivního* poškození.
+- **Neúspěch:** Obdržené poškození je poloviční.
+- **Kritický neúspěch:** Stvoření neobdrží žádné poškození.
+
+**Posílení:**
+
+- <img src="/assets/action.png" width="20"> *9+ magie:* Stejné jako základní efekt akorát za každých *2 magie* navíc se poškození kouzla zvýší o *1k6 silového* a *2k6 pozitivního poškození*.
+
+<img src="/assets/sep_line.png"/>
+
+### Neutralizuj jed
+
+**Cena:** <img src="/assets/action.png" width="20"> *6* magie
+
+**Dosah:** *Dotyk*; **Cíl:** *1* stvoření
+
+**Efekt:** Kouzlo neutralizuje běžný jed (jed který poskytuje na záchranu žádný modifikátor nebo pozitivní modifikátor). Pokud stvoření zemřelo během posledních 10-ti kol nebo se dostalo na práh smrti následkem jedu. Vrátí se k životu / stabilizuje se s 1 životem a v bezvědomí na *1k4 směn*.
+
+**Posílení:**
+
+- <img src="/assets/action.png" width="20"> *9 magie:* Stejné jako základní verze ale funguje i na silné jedy (jed který poskytuje na záchranu negativní modifikátor).
+- <img src="/assets/round.png" width="20"> *x2 magie:* Za dvojnásobek magie umožňuje seslat základní nebo posílenou verzi kouzla na oblast 10 metrů kolem sesilatele. Neutralizuje i jedy v prostředí například mrak jedu, nikoliv však jedy součástí něčí výbavy.
+
+<img src="/assets/sep_line.png"/>
+
+### Neviditelnost
+
+**Cena:** <img src="/assets/action.png" width="20"> *5* magie
+
+**Dosah:** *Dotyk*; **Cíl:** *1* stvoření
+
+**Efekt:** Očarované stvoření je neviditelné díky iluzi na *1 směnu*. Pokud očarované stvoření provede fyzickou agresivní akci vůči jinému stvoření, nebo sešle kouzlo. Kouzlo je ukončeno.
+
+**Posílení:**
+
+- <img src="/assets/action.png" width="20"> *7+ magie:* Stejné jako základní efekt ale za každých extra *2 magie* lze prodloužit trvání kouzla o 1 směnu.
+- <img src="/assets/action.png" width="20"> *10 magie:* Jako základní efekt ale trvání kouzla je jen *6 kol* a agresivní akce a sesílání kouzel kouzlo předčasně neukončí.
+
+<img src="/assets/sep_line.png"/>
+
+### Neviditelný sluha
+
+**Cena:** <img src="/assets/round.png" width="20"> *4* magie + *koncentrace*
+
+**Dosah:** *20* metrů; **Cíl:** místo v prostoru
+
+**Efekt:**  Kouzlo vyvolá neviditelnou nehmotnou energii, která plní rozkaz, který je mu udělen. Rozkaz lze udělit při vyvolání nebo jej v rámci trvání kouzla kdykoliv změnit jako *strategickou akci*. Rozkaz je prováděn tak dlouho dokud kouzlo trvá. Neviditelný sluha zvládne cokoliv co by zvládl běžný lidský sluha avšak nemůže útočit. Pokud se neviditelný sluha vzdálí od sesilatele dál než je dosah kouzla, kouzlo končí.
+
+- **Statistiky sluhy:**  *Úroveň:* 1; *HP:* 1; *OČ:* 10; *Hybnost:* 9 metrů (létání); *Z.Hod:* automaticky selže; Neviditelný, Nehmotný a imunní vůči fyzickému poškození.
+
+**Posílení:**
+
+- <img src="/assets/action.png" width="20"> *7 magie:* Dosah kouzla je až 50 metrů.
 
 <img src="/assets/sep_line.png"/>
 
