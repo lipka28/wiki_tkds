@@ -198,7 +198,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 | Mluvení s mrtvými   | *10* / *15+* / *x2* | Umožní zeptat se mrtvého na pár otázek.                      |
 | Neviditelnost       |  *5* / *7+* / *10*  | Pokryje stvoření iluzí neviditelnosti.                       |
 | Neviditelný sluha   |      *4* / *7*      | Vyvolá neviditelného sluhu.                                  |
-| Obnova              |          -          | -                                                            |
+| Očista              |  *8* / *14* / *20*  | Odstraní negativní efekt.                                    |
 | Odolej energiím     |          -          | -                                                            |
 | Odvrať zlo          |          -          | -                                                            |
 | Ochrana             |          -          | -                                                            |
@@ -245,8 +245,8 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 | Mluvení s mrtvými   | *10* / *15+* / *x2* | Umožní zeptat se mrtvého na pár otázek.                      |
 | Mluvení se zvířaty  |      *4* / *8*      | Sesilatel získá schopnost mluvit se zvířaty.                 |
 | Mystická exploze    |     *7* / *9+*      | Očaruje lahvičku svěcené vody devastující silou              |
-| Neutralizuj jed     |  *6* / *9* / *x2*   | Neutralizuje jed                                             |
-| Obnova              |          -          | -                                                            |
+| Neutralizuj jed     |  *6* / *9* / *x2*   | Neutralizuje jed.                                            |
+| Očista              |  *8* / *14* / *20*  | Odstraní negativní efekt.                                    |
 | Odolej elementům    |          -          | -                                                            |
 | Odolej energiím     |          -          | -                                                            |
 | Odvrať zlo          |          -          | -                                                            |
@@ -288,9 +288,9 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 | Mastnota           |     *4* / *8*     | Pokryje oblast kluzkou mastnotou.                       |
 | Mlha               | *6* / *9+* / *6+* | Pokryje oblast mlhou, která výrazně zhorší viditelnost. |
 | Mluvení se zvířaty |     *4* / *8*     | Sesilatel získá schopnost mluvit se zvířaty.            |
-| Neutralizuj jed    | *6* / *9* / *x2*  | Neutralizuje jed                                        |
+| Neutralizuj jed    | *6* / *9* / *x2*  | Neutralizuje jed.                                       |
 | Neviditelnost      | *5* / *7+* / *10* | Pokryje stvoření iluzí neviditelnosti.                  |
-| Obnova             |         -         | -                                                       |
+| Očista             | *8* / *14* / *20* | Odstraní negativní efekt.                               |
 | Odolej elementům   |         -         | -                                                       |
 | Odvrať zlo         |         -         | -                                                       |
 | Ohnivý vějíř       |         -         | -                                                       |
@@ -662,6 +662,21 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 **Posílení:**
 
 - <img src="/assets/action.png" width="20"> *7 magie:* Dosah kouzla je až 50 metrů.
+
+<img src="/assets/sep_line.png"/>
+
+### Očista
+
+**Cena:** <img src="/assets/action.png" width="20"> *8* magie
+
+**Dosah:** *Dotyk*; **Cíl:** *1* stvoření
+
+**Efekt:** Vyléčí jeden dočasný negativní efekt, jehož trvání není delší než *1 den*.
+
+**Posílení:**
+
+- <img src="/assets/action.png" width="20"> *14 magie:* Vyléčí jeden libovolný dočasný nebo permanentní negativní efekt mimo prokletí.
+- <img src="/assets/action.png" width="20"> *20 magie + magický materiál v hodnotě 500 zl:* Stejné jako první posílení ale léči i prokletí, permanentní ztrátu dovedností či životů. 
 
 <img src="/assets/sep_line.png"/>
 

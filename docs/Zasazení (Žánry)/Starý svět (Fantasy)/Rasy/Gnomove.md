@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/OW/races/GnG.png)
+![Image title](/assets/OW/races/Gnome.png)
 
 <img src="/assets/sep_line.png"/>
 
