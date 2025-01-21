@@ -1,4 +1,4 @@
-# Mág
+# ==todo== Bojový mág
 
 <img src="/assets/sep_line.png"/>
 
@@ -6,7 +6,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-*Mágové začínají svou cestu dobrodruha jako zranitelní a slabí knihomolové, kteří teprve začali oběvovat tajemství magie. Ze začátku ovládají jen pár kouzel z knihy co dostali od svého mistra, což je činí snadným terčem pro zkušenější nepřátele. Avšak s každým novým získaným kouzlem jejich moc roste. Postupem času mág dokáže ohýbat samotnou realitu, rozproudit elementární síly a sesílat zničující kouzla. Specializace mága je vhodné pro kohokoliv, kdo se chce ponořit do zkoumání magie a rád vymýšlí neotřelá řešení problémů.*
+*==todo přepsat==Mágové začínají svou cestu dobrodruha jako zranitelní a slabí knihomolové, kteří teprve začali oběvovat tajemství magie. Ze začátku ovládají jen pár kouzel z knihy co dostali od svého mistra, což je činí snadným terčem pro zkušenější nepřátele. Avšak s každým novým získaným kouzlem jejich moc roste. Postupem času mág dokáže ohýbat samotnou realitu, rozproudit elementární síly a sesílat zničující kouzla. Specializace mága je vhodné pro kohokoliv, kdo se chce ponořit do zkoumání magie a rád vymýšlí neotřelá řešení problémů.*
 
 <img src="/assets/sep_line.png"/>
 

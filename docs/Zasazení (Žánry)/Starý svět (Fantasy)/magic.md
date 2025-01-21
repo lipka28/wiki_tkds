@@ -138,10 +138,11 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 | Mágova ruka         |     *2* / *4*     | Slabá telekineze jednoho předmětu.                           |
 | Mágova zbroj        |    4 / 8 / 12     | Brnění, které nic neváží.                                    |
 | Mastnota            |     *4* / *8*     | Pokryje oblast kluzkou mastnotou.                            |
+| Mrazivý kužel       |   *10* / *12+*    | Smršť ničivé mrazivé energie.                                |
 | Neviditelnost       | *5* / *7+* / *10* | Pokryje stvoření iluzí neviditelnosti.                       |
 | Neviditelný sluha   |     *4* / *7*     | Vyvolá neviditelného sluhu.                                  |
-| Odolej elementům    |         -         | -                                                            |
-| Odolej energiím     |         -         | -                                                            |
+| Odolej elementům    |    *4* / *6+*     | Sníží dopad extrémních teplot.                               |
+| Odolej energiím     | *6* / *8* / *12*  | Snižuje obdržené energetické poškození.                      |
 | Ohnivý vějíř        |         -         | -                                                            |
 | Okouzli             |         -         | -                                                            |
 | Omrač               |         -         | -                                                            |
@@ -199,7 +200,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 | Neviditelnost       |  *5* / *7+* / *10*  | Pokryje stvoření iluzí neviditelnosti.                       |
 | Neviditelný sluha   |      *4* / *7*      | Vyvolá neviditelného sluhu.                                  |
 | Očista              |  *8* / *14* / *20*  | Odstraní negativní efekt.                                    |
-| Odolej energiím     |          -          | -                                                            |
+| Odolej energiím     |  *6* / *8* / *12*   | Snižuje obdržené energetické poškození.                      |
 | Odvrať zlo          |          -          | -                                                            |
 | Ochrana             |          -          | -                                                            |
 | Okouzli             |          -          | -                                                            |
@@ -247,8 +248,8 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 | Mystická exploze    |     *7* / *9+*      | Očaruje lahvičku svěcené vody devastující silou              |
 | Neutralizuj jed     |  *6* / *9* / *x2*   | Neutralizuje jed.                                            |
 | Očista              |  *8* / *14* / *20*  | Odstraní negativní efekt.                                    |
-| Odolej elementům    |          -          | -                                                            |
-| Odolej energiím     |          -          | -                                                            |
+| Odolej elementům    |     *4* / *6+*      | Sníží dopad extrémních teplot.                               |
+| Odolej energiím     |  *6* / *8* / *12*   | Snižuje obdržené energetické poškození.                      |
 | Odvrať zlo          |          -          | -                                                            |
 | Ochrana             |          -          | -                                                            |
 | Omrač               |          -          | -                                                            |
@@ -288,10 +289,12 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 | Mastnota           |     *4* / *8*     | Pokryje oblast kluzkou mastnotou.                       |
 | Mlha               | *6* / *9+* / *6+* | Pokryje oblast mlhou, která výrazně zhorší viditelnost. |
 | Mluvení se zvířaty |     *4* / *8*     | Sesilatel získá schopnost mluvit se zvířaty.            |
+| Mrazivý kužel      |   *10* / *12+*    | Smršť ničivé mrazivé energie.                           |
 | Neutralizuj jed    | *6* / *9* / *x2*  | Neutralizuje jed.                                       |
 | Neviditelnost      | *5* / *7+* / *10* | Pokryje stvoření iluzí neviditelnosti.                  |
 | Očista             | *8* / *14* / *20* | Odstraní negativní efekt.                               |
-| Odolej elementům   |         -         | -                                                       |
+| Odolej elementům   |    *4* / *6+*     | Sníží dopad extrémních teplot.                          |
+| Odolej energiím    | *6* / *8* / *12*  | Snižuje obdržené energetické poškození.                 |
 | Odvrať zlo         |         -         | -                                                       |
 | Ohnivý vějíř       |         -         | -                                                       |
 | Okouzli            |         -         | -                                                       |
@@ -600,6 +603,25 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 <img src="/assets/sep_line.png"/>
 
+### Mrazivý kužel
+
+**Cena:** <img src="/assets/action.png" width="20"> *10* magie
+
+**Dosah:** *12-ti* metrový kužel
+
+**Efekt:** Stvoření v zasažené oblasti jsou zpomalena a obdrží poškození v závislosti na jejich *záchranném hodu na úhyb*. 
+
+- **Kritický úspěch:** Efekt kouzla je negován
+- **Úspěch:** Poškození a postih do hybnosti jsou *poloviční*. Trvání postihu je jen *1 kolo*.
+- **Neúspěch:** Obdrží *5k6* mrazivého poškození a stavový postih do hybnosti *-2 metry* na *3 kola*.
+- **Kritický neúspěch:** Poškození, postih do hybnosti a trvání postihu, jsou *dvojnásobné*.
+
+**Posílení:**
+
+- <img src="/assets/round.png" width="20"> *12+ magie:* Stejné jako základní efekt avšak za každou extra *2 magie* použitou pro sesílání kouzla, se základní poškození kouzla zvedne o *1k6*.
+
+<img src="/assets/sep_line.png"/>
+
 ### Mystická exploze
 
 **Cena:** <img src="/assets/action.png" width="20"> *7* magie + *Lahvička svěcené vody*
@@ -675,8 +697,37 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Posílení:**
 
-- <img src="/assets/action.png" width="20"> *14 magie:* Vyléčí jeden libovolný dočasný nebo permanentní negativní efekt mimo prokletí.
+- <img src="/assets/action.png" width="20"> *14 magie + magický materiál v hodnotě 100 zl:* Vyléčí jeden libovolný dočasný nebo permanentní negativní efekt mimo prokletí.
 - <img src="/assets/action.png" width="20"> *20 magie + magický materiál v hodnotě 500 zl:* Stejné jako první posílení ale léči i prokletí, permanentní ztrátu dovedností či životů. 
+
+<img src="/assets/sep_line.png"/>
+
+### Odolej elementům
+
+**Cena:** <img src="/assets/action.png" width="20"> *4* magie
+
+**Dosah:** *Dotyk*; **Cíl:** *1* stvoření
+
+**Efekt:** Při sesílání kouzla si sesilatel může vybrat, zda chce očarovaného ochránit před horkem nebo mrazem. Kouzlo ochrání cíl před mrazem až -60°C nebo horkem až 60°C a případnými postihy spojenými s těmito teplotami. Kouzlo trvá do přenocování.
+
+**Posílení:**
+
+- <img src="/assets/round.png" width="20"> *6+ magie:* Stejné jako základní efekt, ale za každých extra 2 magie použité při sesílání, lze zacílit extra stvoření.
+
+<img src="/assets/sep_line.png"/>
+
+### Odolej energiím
+
+**Cena:** <img src="/assets/action.png" width="20"> *6* magie
+
+**Dosah:** *10* metrů; **Cíl:** *1* stvoření
+
+**Efekt:** Ochrání očarované stvoření před jedním typem energetického poškození, který sesilatel vybere při sesílání kouzla (Žíravina, Oheň, Mráz, Elektřina).  Očarovaný cíl obdrží o *4* menší poškození vybraného typu. Kouzlo trvá *1* směnu.
+
+**Posílení:**
+
+- <img src="/assets/action.png" width="20"> *10 magie:* Stejné jako základní efekt, ale poškození je sníženo o *8*.
+- <img src="/assets/action.png" width="20"> *14 magie:* Stejné jako základní efekt, ale poškození je sníženo o *12*.
 
 <img src="/assets/sep_line.png"/>
 

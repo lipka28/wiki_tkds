@@ -318,10 +318,10 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Lékárnička:** Sada obsahující nástroje a přípravky pro léčbu běžných zranění. Použití lékárničky zabere 1 směnu a vyžaduje ověření *Rozumu* proti *HU 12* s následujícími výsledky. Nezávisle na výsledku se spotřebuje 1 použití lékárničky a cíl je po zbytek dne imunní vůči efektům lékárničky.
 
-- Kritický úspěch: Cíl si vyléčí *2k6 životů* a odstraní si jedno *vážné zranění*.
-- Úspěch: Cíl si vyléčí *1k6* životů.
-- Neúspěch: Nic se nestane
-- Kritický neúspěch: Cíl obdrží *1k4 poškození*.
+- *Kritický úspěch:* Cíl si vyléčí *2k6 životů* a odstraní si jedno *vážné zranění*.
+- *Úspěch:* Cíl si vyléčí *1k6* životů.
+- *Neúspěch:* Nic se nestane
+- *Kritický neúspěch:* Cíl obdrží *1k4 poškození*.
 
 **Lucerna:** Poskytuje světlo v oblasti *9 metrů* a má posuvnou clonu, kterou lze světlo zakrýt nebo namířit jen jedním směrem. K fungování vyžaduje olej. 
 
@@ -359,7 +359,12 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Zásoby pro zvíře:** Levnější varianta zásob pro vaše mazlíčky.
 
-**Zlodějské náčiní:** Zlodějská sada potřebná pro odemykání zámků a jiné manipulace mechanizmů.
+**Zlodějské náčiní:** Zlodějská sada potřebná pro odemykání zámků, zneškodňování pastí a jiné manipulace mechanizmů. Použití zlodějských nástrojů trvá *1 běžnou akci* a úspěch záleží na pokoření HU stanovené PJ. Možné výsledky jsou následující:
+
+- *Kritický úspěch:* Zlodějské nástroje neztrácí použití a akce byla úspěšná.
+- *Úspěch:* Stojí 1 použití a akce byla úspěšná.
+- *Neúspěch:* Stojí 1 použití a akce byla neúspěšná.
+- *Kritický neúspěch:* Stojí 1 použití, akce byla neúspěšná a manipulovaný mechanizmus se poškodil. Pokud se jednalo o past, tak se spustila. 
 
 <img src="/assets/sep_line.png"/>
 

@@ -1,4 +1,4 @@
-# Skřítek ==TODO: udělat a zahodit gobliny==
+# Goblin ==TODO: udělat a zahodit gobliny==
 
 <img src="/assets/sep_line.png"/>
 
@@ -8,7 +8,7 @@
 
 ## Popis
 
-*==todo: předělat popis==*
+*==todo==*
 
 **Jména skřítků:** ==todo: Jména==
 

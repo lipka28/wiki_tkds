@@ -16,19 +16,19 @@ Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šes
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP               |             Magie             | Mod.Zásahu |  Um  |                    Odemyká                    |
-| :----: | :---------------------------: | :---------------------------: | :--------: | :--: | :-------------------------------------------: |
-|   1    | Základní životy rasy+10+Výdrž | Základní magie rasy+6+Rozvaha |     +1     |  +1  |                    Um, asd                    |
-|   2    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +2     |  +1  |                    Talent                     |
-|   3    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +2     |  +1  |              +1 Dovednostní bod               |
-|   4    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +4     |  +2  |                      asd                      |
-|   5    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +4     |  +2  |                    Talent                     |
-|   6    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +5     |  +2  |              +1 Dovednostní bod               |
-|   7    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +6     |  +3  |                      asd                      |
-|   8    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +7     |  +3  |                    Talent                     |
-|   9    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +7     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň) |
-|   10   |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +9     |  +4  |                      asd                      |
-|  11+   |              +3               |              +1               |     +9     |  +4  |       Talent (a každou další 3. úroveň)       |
+| ÚROVEŇ |              HP               |             Magie             | Mod.Zásahu |  Um  |                           Odemyká                            |
+| :----: | :---------------------------: | :---------------------------: | :--------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+10+Výdrž | Základní magie rasy+6+Rozvaha |     +1     |  +1  | Um, Přísaha, Magie ochránců, Blokování štítem, Pozitivní energie |
+|   2    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +2     |  +1  |                            Talent                            |
+|   3    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +2     |  +1  |                         Revitalizace                         |
+|   4    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +4     |  +2  |                            Talent                            |
+|   5    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +4     |  +2  |                      +1 Dovednostní bod                      |
+|   6    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +5     |  +2  |                            Talent                            |
+|   7    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +6     |  +3  |                         Mistr štítu                          |
+|   8    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +7     |  +3  |                            Talent                            |
+|   9    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +7     |  +3  |                              -                               |
+|   10   |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +9     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň) |
+|  11+   |              +3               |              +1               |     +9     |  +4  |                              -                               |
 
 ## Schopnosti povolání
 
@@ -65,21 +65,22 @@ Ochránce si v rámci svého tréninku osvojuje základy *mystické magie*. To z
 
 Pokud má ochránce zvednutý štít a hrozí, že obdrží poškození. Může použít svou *reakci* a obětovat až několik bodů obranného čísla svého štítu a tím část poškození vyblokovat. Každý obětovaný bod OČ sníží obdržené poškození o *8*. Štít jehož OČ je zredukováno na 0 je zničen. Po použití této schopnosti štít již není zvednut.
 
-### Život na dlani
+### Pozitivní energie
 
-Ochránce umí kouzlo *Léčení* ==todo: odkaz==, tohle kouzlo se nepočítá vúči jeho limitu kouzel a nelze jej vyměnit. Navíc může seslat základní formu tohole kouzla jako *strategickou akci*.
+Ochránce umí kouzlo *Léčení* ==todo: odkaz==, tohle kouzlo se nepočítá vúči jeho limitu kouzel a nelze jej vyměnit. Navích ochránce disponuje *Um+Rozvaha* body *pozitivní energie*. Tyto body se doplňují rychlostí *1 za den* a umožňují ochránci seslat základní formu léčení jako *strategickou akci*.
 
-### Aura odhodlání (Úroveň 4)
+### Revitalizace (Úroveň 4)
 
-Od 4. úrovně, mají spojenci v okolí *3 metrů* kolem ochránce. Stavový bonu *+1* k záchranným hodům na Vůli a ověření morálky.
+Ochránce umí kouzlo *Očista* ==todo: odkaz==, tohle kouzlo se nepočítá vůči jeho limitu kouzel a nelze jej vyměnit. Navíc při seslání *léčení* za pomocí *pozitivní energie* si může ochránce vybrat, zda chce vyléčit *dvojnásobné množství životů* nebo standardní množství a k tomu seslat základní formu kouzla *očista*. 
 
-### Revitalizace (Úroveň 7)
+### Mistr štítu (Úroveň 7)
 
-sešli léčení za dvojnásobek ceny, buď double heal a nebo heal + odstranění dočasného postihu.
+Tvá schopnost blokování štítem je vylepšena následujícími způsoby:
 
-### Nevyhnutelný (Úroveň 10) ==není to příliš slabé?==
-
-Tvé akce a kouzla nemohou být přerušena nepřáteli.
+- Schopnost lze použít bez nutnosti prvně zvednout štít a po jejím použití štít zůstává zvednutý.
+- Schopnost lze použít ve prospěch spojence do vzdálenosti *1 metru* od ochránce.
+- Prvních *8 poškození* z každého blokovaného úderu je blokováno zdarma (nesnižuje OČ štítu)
+- Jedenkrát za kolo, pokud použití blokování předejde smrti spojence. Reakce, která byla využita na blokování je obnovena.
 
 <img src="/assets/sep_line.png"/>
 
@@ -98,3 +99,7 @@ Pokaždé když ochránce obdrží dle tabulky postupu talent. Může si vybrat 
 - odplata (úder na nepřítele útočícího na spojence)
 - aurory ... spousta
 - extended auras
+
+### Aura odhodlání (Úroveň 4)
+
+Od 4. úrovně, mají spojenci v okolí *3 metrů* kolem ochránce. Stavový bonu *+1* k záchranným hodům na Vůli a ověření morálky.

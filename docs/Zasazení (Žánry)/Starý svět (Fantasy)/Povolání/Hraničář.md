@@ -16,15 +16,15 @@
 | :----: | :--------------------------: | :--------: | :--: | :----------------------------------------------------------: |
 |   1    | Základní životy rasy+8+Výdrž |     +1     |  +1  | Um, Kořist, Za jedno s přírodou, Samotář nebo Věrný společník, Talent |
 |   2    |          +1k8+Výdrž          |     +2     |  +1  |                            Talent                            |
-|   3    |          +1k8+Výdrž          |     +2     |  +1  |                      +1 Dovednostní bod                      |
-|   4    |          +1k8+Výdrž          |     +4     |  +2  |                      Přírodní medicína                       |
-|   5    |          +1k8+Výdrž          |     +4     |  +2  |                            Talent                            |
-|   6    |          +1k8+Výdrž          |     +5     |  +2  |                      +1 Dovednostní bod                      |
+|   3    |          +1k8+Výdrž          |     +2     |  +1  |                      Přírodní medicína                       |
+|   4    |          +1k8+Výdrž          |     +4     |  +2  |                            Talent                            |
+|   5    |          +1k8+Výdrž          |     +4     |  +2  |                      +1 Dovednostní bod                      |
+|   6    |          +1k8+Výdrž          |     +5     |  +2  |                            Talent                            |
 |   7    |          +1k8+Výdrž          |     +6     |  +3  |                    Mistrovská ostražitost                    |
 |   8    |          +1k8+Výdrž          |     +7     |  +3  |                            Talent                            |
-|   9    |          +1k8+Výdrž          |     +7     |  +3  |        +1 Dovednostní bod (a každou další 3. úroveň)         |
-|   10   |          +1k8+Výdrž          |     +9     |  +4  |                        Smrtící střela                        |
-|  11+   |              +2              |     +9     |  +4  |              Talent (a každou další 3. úroveň)               |
+|   9    |          +1k8+Výdrž          |     +7     |  +3  |                              -                               |
+|   10   |          +1k8+Výdrž          |     +9     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň) |
+|  11+   |              +2              |     +9     |  +4  |                              -                               |
 
 ## Schopnosti povolání
 
@@ -32,7 +32,7 @@
 
 **Trénované zbraně:** Všechny
 
-**Trénovaná brnění:** Lehké a střední zbroje včetně štítů
+**Trénovaná brnění:** Lehké a střední zbroje
 
 **Bonusy k záchranným hodům:** +4 Reflexy a +2 Vůle
 
@@ -59,7 +59,7 @@ Hraničář se v divočině cítí stejně dobře jako v bezpečí osady. Pokud 
 
 ### Samotář (nebo Věrný společník)
 
-Někteří hraničáři preferují nevyužívat zvířata k boji a radši se spoléhají jen na své schopnosti. Hraničář, který si vabere cestu samotáře obdrží větší kostku života (*k10*).
+Někteří hraničáři preferují nevyužívat zvířata k boji a radši se spoléhají jen na své schopnosti. Hraničář, který si vybere cestu samotáře obdrží větší kostku života (*k10*) a je trénován v používání štítů.
 
 ### Věrný společník (nebo Samotář)
 
@@ -76,9 +76,9 @@ Hraničář se může pokusit utvořit pouto s nalezeným zvířetem. Pokud je p
 - **Ježdění:** Zvířecí společníci 5. a vyšší úrovně, jsou dostatečně velcí aby na nich mohli jezdit stvoření velikostí podobná člověku.
 - **Smrt:** Pro věrného zvířecího společníka platí stejná pravidla smrti jako pro hráče. Pokud i tak přesto zemře. Hraničář může strávit *týden* hledáním a tréninkem, a získat tak obdobného zvířecího společníka stejné úrovně jako ten předchozí. Neplatí pro neobvyklá a vzácná zvířata. Také veškeré speciální magické efekty a nabyté zkušenosti předchozího společníka jsou ztraceny.
 
-### Přírodní medicína (Úroveň 4)
+### Přírodní medicína (Úroveň 3)
 
-Hraničář má od 4. úrovně dostatek znalostí bylin na to, aby si při cestování divočinou (adekvátně bujarou) vytvářel svazky léčivých bylin.
+Hraničář má od 3. úrovně dostatek znalostí bylin na to, aby si při cestování divočinou (adekvátně bujarou) vytvářel svazky léčivých bylin.
 
 - **Svazek bylin:** Je lehký předmět, jenž se dá použít na místo *lékárničky* nebo *slabého protijedu*.
 - **Omezení:** Hraničář může nasbírat kolik svazků bylin chce avšak jejich účinnost trvá jen po zbytek dne.
@@ -89,10 +89,6 @@ Hraničář má od 4. úrovně dostatek znalostí bylin na to, aby si při cesto
 Dojde-li na tasení zbraní či překvapení, hraničář 7. nebo vyšší úrovně je vždy první na řadě (extra tah před hodem samotným). Hraničář může tohle kolo obětovat pro varování svých spojenců a tím automaticky vyhrát iniciativu pro svou skupinu.
 
 - **Nepřátelský hraničář:** Pokud se v nepřátelské skupině nachází hraničář se stejnou schopností. Oba hraničáři podstoupí osobní hod na tasení zbraní (modifikovaný rozvahou). Ten, který vyhraje má možnost využití této schopnosti.
-
-### Smrtící střela (Úroveň 10)
-
-Hraničář může od 10. úrovně za cenu *celého tahu* provést útok na dálku na cíl, který má označený jako svou kořist. Pokud zasáhne, cíl obdrží plné poškození (kritický zásah).
 
 <img src="/assets/sep_line.png"/>
 
@@ -216,5 +212,13 @@ Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybra
 **Požadavek:** Vílí magie
 
 **Efekt:** Hraničář obdrží *1k6+Rozvaha* magie (lze vzít polovinu na kostce) a naučí se *1 extra kouzlo* ze seznamu kouzel pro *živelnou magii*. Tím se také zvedne maximální počet kouzel, které hraničář může umět o 1. Tento talent si lze vzít opakovaně.
+
+<img src="/assets/sep_line.png"/>
+
+### Smrtící střela
+
+**Požadavek:** Úroveň >= 8
+
+Hraničář může za cenu *celého tahu* provést útok na dálku na cíl, který má označený jako svou kořist. Pokud zasáhne, cíl obdrží kritický zásah.
 
 <img src="/assets/sep_line.png"/>

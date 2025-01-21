@@ -1,4 +1,4 @@
-# Šarlatán ==TODO remake==
+# ==todo== Šarlatán
 
 <img src="/assets/sep_line.png"/>
 

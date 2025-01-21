@@ -1,6 +1,6 @@
 ![Image title](/assets/OW/classes/Fighter.png)
 
-# Tianxijský mnich
+# ==todo== Tianxijský mnich
 
 <img src="/assets/sep_line.png"/>
 
@@ -10,19 +10,19 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP               | Mod.Zásahu |  Um  |                    Odemyká                    |
-| :----: | :---------------------------: | :--------: | :--: | :-------------------------------------------: |
-|   1    | Základní životy rasy+10+Výdrž |     +1     |  +1  |                Um, asd, Talent                |
-|   2    |          +1k10+Výdrž          |     +2     |  +1  |                    Talent                     |
-|   3    |          +1k10+Výdrž          |     +2     |  +1  |              +1 Dovednostní bod               |
-|   4    |          +1k10+Výdrž          |     +4     |  +2  |              Příležitostný útok               |
-|   5    |          +1k10+Výdrž          |     +4     |  +2  |                    Talent                     |
-|   6    |          +1k10+Výdrž          |     +5     |  +2  |              +1 Dovednostní bod               |
-|   7    |          +1k10+Výdrž          |     +6     |  +3  |                      asd                      |
-|   8    |          +1k10+Výdrž          |     +7     |  +3  |                    Talent                     |
-|   9    |          +1k10+Výdrž          |     +7     |  +3  | +1 Dovednostní bod (a každou další 3. úroveň) |
-|   10   |          +1k10+Výdrž          |     +9     |  +4  |                      asd                      |
-|  11+   |              +3               |     +9     |  +4  |       Talent (a každou další 3. úroveň)       |
+| ÚROVEŇ |              HP               | Mod.Zásahu |  Um  |                           Odemyká                            |
+| :----: | :---------------------------: | :--------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+10+Výdrž |     +1     |  +1  |  Um, Bojové umění, Bojové styly: Styl kudlanky, Či, Talent   |
+|   2    |          +1k10+Výdrž          |     +2     |  +1  |                            Talent                            |
+|   3    |          +1k10+Výdrž          |     +2     |  +1  |                        Mystické údery                        |
+|   4    |          +1k10+Výdrž          |     +4     |  +2  |                            Talent                            |
+|   5    |          +1k10+Výdrž          |     +4     |  +2  |                      +1 Dovednostní bod                      |
+|   6    |          +1k10+Výdrž          |     +5     |  +2  |                            Talent                            |
+|   7    |          +1k10+Výdrž          |     +6     |  +3  |                    Neuvěřitelná technika                     |
+|   8    |          +1k10+Výdrž          |     +7     |  +3  |                            Talent                            |
+|   9    |          +1k10+Výdrž          |     +7     |  +3  |                              -                               |
+|   10   |          +1k10+Výdrž          |     +9     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň) |
+|  11+   |              +3               |     +9     |  +4  |                              -                               |
 
 ## Schopnosti specializace
 
@@ -42,36 +42,33 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 - **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
 - **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
-### Bojové umění ==todo: reword==
+### Bojové umění
 
-v podsattě 2 weapon fighting ale neozbrojeně, zvětšit kostku, udělat lethal a dovolit, mopžná připojit i OČ progression (OČ = 10+obratnost+rozvaha+um)
+Mnich používá své tělo jako smrtelnou zbraň. Jeho neozbrojené útoky jsou *smrtelné* a působí *1k4+Síla* tupého poškození. 
 
-Bojovník je mistrem všech zbraní a dokáže efektivně používat 2 jednoruční zbraně naráz. Lze kombinovat 2 libovolné jednoruční zbraně nebo 1 jeden-a-půl-ruční a 1 jednoruční zbraň.
+- **Tělo z kamene:** Pokud na sobě mnich nemá žádnou zbroj jeho OČ je *10+Um+Obratnost*.
+- **Rychlý útok:** Mnich může použít svou *strategickou akci* jako extra neozbrojený útok působící *1k4+Síla* tupého poškození. Tento útok probíhá s postihem -2 k zásahu.
 
-- **Útok:** Při běžném útoku útočí bojovník svou primární (větší) zbraní.
-- **Extra útok:** Bojovník může provést extra útok svou druhou (menší) zbraní jako *strategickou akci*. Takový útok probíhá s postihem *-2* k zásahu.
+### Bojové styly: Styl kudlanky
 
-### Bojové manévry ==asi nechat (nebo vyswapmnout a nechat jako talent)==
+Mnich se může naučit několik bojových stylů. V jednu chvíli může mít mnich aktivní pouze jeden bojový styl. Bojové styly se dají měnit za použití *strategické akce* a může být vybrán *na začátku boje jako volná akce*. Mnich začíná hru se *stylem kudlanky*.
 
-Bojovník může po úspěšném zásahu útokem provést bojový manévr jako *strategickou akci*.
+- **Styl kudlanky:** V tomto stylu může mnich jako součást jedné *běžné akce* provést 2 neozbrojené útoky za *1k4+Síla* tupého poškození. Oba útoky mají *situační postih -2* k zásahu.
 
-- **Kritický zásah:** Uspěje-li útok s kritickým zásahem, bojovník může provést jeden bojový manévr, proti zasaženému stvoření, jako *volnou akci*.
+### Či
 
-### Momentum ==vymyslet nějak či?==
+Mnichové ovládají mystickou energii zvanou či, kterou může používat pro některé své speciální schopnosti. Mnich má či odpovídající jeho *um+Rozvaha*.
 
-asd 3 body či .. 1 refresh meditací pokud byl od poslední meditace jeden použit.
+- **Doplňování:** Či se mnichovi doplní po každém přespání do dalšího dne. Alternativně může mnich strávit *1 směnu* meditací a tím si *1 bod či* doplnit. To lze pouze pokud od poslední meditace použil aspoň 1 bod či. Tahle meditace probíhá automaticky po každém boji (pokud je na ni prostor).
+- **Střela z či:** Mnich může za pomocí či provést útok na vzdálenost až 10 metrů, působící *2k6 silového poškození* (magické).
 
-### Příležitostný útok (Úroveň 4) ==todo, možná dát jako talent?==
+### Mystické údery (Úroveň 3)
 
-Bojovník se může pokusit zasáhnout soupeře ve chvilce nepozornosti. Provádí-li stvoření v dosahu bojovníkových útoků na blízku jinou aktivitu než: *úkrok*, *útok na blízku* a nebo *sesílání kouzla na bojovníka*. Bojovník může použít svou *reakci* a provést tak útok na blízku proti takovému stvoření. Pokud je výsledkem kritický zásah, akce je přerušena a tah zasaženého stvoření je ukončen.
+Kostka poškození všech tvých neozbrojených útoků se zvedne o *1* stupeň (např. 1k4 -> 1k6). Tohle se netýká *rychlého útoku* a útoků spojených s využíváním či. Navíc všechny mnichovy útoky jsou považován za magické.
 
-### Na dluh (Úroveň 7) ==damage step na unarmed==
+### Neuvěřitelná technika (Úroveň 7)
 
-asd
-
-### Extra útok (Úroveň 10) ==pravděpodobně 2 reakce==
-
-asd
+Mnich, který selže v záchranném hodu nebo je zasažen útokem nepřítele. Může použít svou *reakci* a vynutit tak opakování hodu. Platí výsledek, který je prospěšnější pro mnicha.
 
 <img src="/assets/sep_line.png"/>
 
@@ -82,6 +79,19 @@ Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat 
 <img src="/assets/sep_line.png"/>
 
 - chrámové zbraně
-- bojobé postoje
-- Využívání či, jako třeba chtání šípů atd
+- bojové postoje
+- Příležitostný útok (talent level 5)
+- bojové manévry
+- Využívání či, jako třeba chytání šípů atd
 - reduced fall damage big jumps a tak
+- monkey style = 2 reakce a jen 1 běžná akce.
+
+### Bojové manévry ==asi nechat (nebo vyswapmnout a nechat jako talent)==
+
+Bojovník může po úspěšném zásahu útokem provést bojový manévr jako *strategickou akci*.
+
+- **Kritický zásah:** Uspěje-li útok s kritickým zásahem, bojovník může provést jeden bojový manévr, proti zasaženému stvoření, jako *volnou akci*.
+
+### Příležitostný útok (Úroveň 4) ==todo, možná dát jako talent?==
+
+Bojovník se může pokusit zasáhnout soupeře ve chvilce nepozornosti. Provádí-li stvoření v dosahu bojovníkových útoků na blízku jinou aktivitu než: *úkrok*, *útok na blízku* a nebo *sesílání kouzla na bojovníka*. Bojovník může použít svou *reakci* a provést tak útok na blízku proti takovému stvoření. Pokud je výsledkem kritický zásah, akce je přerušena a tah zasaženého stvoření je ukončen.

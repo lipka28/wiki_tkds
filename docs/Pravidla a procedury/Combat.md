@@ -50,7 +50,7 @@
 
 **Obtížný terén:** Každý *1 metr* pohybu v obtížném terénu stojí *2 metry* hybnosti ovlivněného stvoření. Například stvoření s hybností 6 metrů se může spotřebováním celé své hybnosti pohnout v obtížném terénu jen o 3 metry.
 
-**Příležitostné útoky a úkrok:** Ta monstra, která lze považovat za trénované bojovníky, mají často schopnost *příležitostného útoku*, které jim umožňuje zaútočit jako reakci, když stvoření v okolí provede cokoliv jiného než útok na ně. Těmto příležitostným útokům se lze vyvarovat tím, že ohrožené stvoření provede *úkrok* jako *strategickou akci* a tím se posune o *2 metry* mimo dosah nepřítele.
+**Příležitostné útoky a úkrok:** Ta monstra, která lze považovat za trénované bojovníky, mají často schopnost *příležitostného útoku*, které jim umožňuje zaútočit jako reakci, když stvoření v okolí provede cokoliv jiného než útok na ně. Těmto příležitostným útokům se lze vyvarovat tím, že ohrožené stvoření provede *úkrok* jako *strategickou akci* a tím se posune o *1 metr*.
 
 !!! note "Pohyb na čtvercové síti"
     Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*. Na hexagonové síti není třeba tento rozdíl řešit.
@@ -77,11 +77,12 @@
 !!! note "Minimální poškození"
     Úspěšný zásah vždy udělí aspoň 1 poškození. (Pokud cíl není imunní)
 
-**Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
+**Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *snížené poškození* (o statickou hodnotu), *imunitu* (žádné poškození), *slabost* (dvojnásobné poškození) nebo zvýšené poškození (o statickou hodnotu) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
 
 - **Fyzické:** A jeho varianty sečné, průrazné, tupé, jedové a krvácivé.
-- **Energetické a magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá ničivá energie), Mentální.
-- **Pozitivní a negativní:** Pozitivní ubližuje všemu nemrtvému či démonickému ale pro vše živé je léčivé. Negativní funguje obráceně.
+- **Energetické a magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá ničivá energie)
+- **Mentální:** Působí poškození pouze myslícím stvořením.
+- **Pozitivní a negativní:** Pozitivní ubližuje všemu nemrtvému či démonickému ale pro vše živé je neškodné nebo dokonce léčivé. Negativní funguje obráceně.
 
 **Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna jinými nezranitelnými monstry.
 
@@ -124,7 +125,7 @@
 
 **Bezmocný:** Bezmocné stvoření *nemůže nic dělat* a je napospas okolním vlivům. Bezmoc může vypadat všelijak. Stvoření může být v bezvědomí, zmražené, zkamenělé nebo v jiném podobném stavu. Bezmocné stvoření může být okamžitě zabito adekvátní zbraní (kladivo na zkameněného, nůž na spícího člověka atd.).
 
-**Ležící na zemi:** Ležící stvoření je *zaskočené* a má situační postih -2 ke všem svým útokům. Jediné způsoby pohybu který může provést je plazení se (pohyb o 2 metry) a nebo postavit se na nohy, obojí jako *strategickou akci*. Ležící stvoření může také použít svou *strategickou akci* a ukrýt se před střelami. Tím získá *situační bonus +4* proti střelným útokům (stvoření stále zůstává zaskočené, celkový bonus je tedy pouze +2).
+**Ležící na zemi:** Ležící stvoření je *zaskočené* a má situační postih -2 ke všem svým útokům. Jediné způsoby pohybu který může provést je plazení se (pohyb o 1 metr) a nebo postavit se na nohy, obojí jako *strategickou akci*. Ležící stvoření může také použít svou *strategickou akci* a ukrýt se před střelami. Tím získá *situační bonus +4* proti střelným útokům (stvoření stále zůstává zaskočené, celkový bonus je tedy pouze +2).
 
 **Neviditelný:** Přítomnost neviditelného stvoření nelze odhalit běžným zrakem. Na neviditelné stvoření také nelze cílit útoky nebo kouzla, dokud není upřesněna jeho poloha.
 

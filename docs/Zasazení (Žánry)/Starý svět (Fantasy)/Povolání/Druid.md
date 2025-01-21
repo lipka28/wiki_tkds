@@ -16,15 +16,15 @@
 | :----: | :--------------------------: | :---------------------------: | :--------: | :--: | :----------------------------------------------------------: |
 |   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+8+Rozvaha |     +0     |  +1  |    Um, Cyklus života, Živelná magie, Za jedno s přírodou     |
 |   2    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +1     |  +1  |                      Talent, +1 Kouzlo                       |
-|   3    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +1     |  +1  |                      +1 Dovednostní bod                      |
-|   4    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +2     |  +2  |                 Přeměna ve zvíře, +1 Kouzlo                  |
-|   5    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +2     |  +2  |                            Talent                            |
-|   6    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +3     |  +2  |                +1 Dovednostní bod, +1 Kouzlo                 |
-|   7    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +3     |  +3  |                       Živelná afinita                        |
+|   3    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +1     |  +1  |                       Přeměna ve zvíře                       |
+|   4    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +2     |  +2  |                      Talent, +1 Kouzlo                       |
+|   5    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +2     |  +2  |                      +1 Dovednostní bod                      |
+|   6    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +3     |  +2  |                      Talent, +1 Kouzlo                       |
+|   7    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +3     |  +3  |                     Kombinovaná přeměna                      |
 |   8    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +4     |  +3  |                      Talent, +1 Kouzlo                       |
-|   9    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +4     |  +3  |        +1 Dovednostní bod (a každou další 3. úroveň)         |
-|   10   |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +5     |  +4  | Kombinovaná přeměna, +1 Kouzlo (a každou další sudou úroveň) |
-|  11+   |              +1              |              +2               |     +5     |  +4  |         Talent (a každou další 3. úroveň), +1 Kouzlo         |
+|   9    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +4     |  +3  |                              -                               |
+|   10   |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +5     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň), +1 Kouzlo (a každou další sudou úroveň) |
+|  11+   |              +1              |              +2               |     +5     |  +4  |                              -                               |
 
 ## Schopnosti povolání
 
@@ -60,7 +60,7 @@ Druid disponuje schopností používat magii spadající do disciplíny *živeln
 - **Magie:** Druid disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací v závislosti na schopnosti *cyklus života*.
 - **Kouzla:** Druid začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé, když se druidovi zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Druid nemůže umět více kouzel než je jeho *úroveň+Vzdělání* (max. 10+Vzdělání).
 - **Výměna kouzel:** Jelikož druid získává svou moc z živelných sil a přírody může si při každém přenocování, kdy obdrží alespoň *normální přirozenou regeneraci* z cyklu života, vyměnit 1 ze svých ovládaných kouzel za jiné ze svého seznamu kouzel nebo jiného dostupné kouzlo ze své disciplíny. 
-- **Magický výzkum:** Ve volné chvíli se druid může zabývat magickým výzkumem. Druidové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků) nebo podobných efektů. Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
+- **Magický výzkum:** Ve volné chvíli se druid může zabývat magickým výzkumem. Druidové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků). Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
 - **Jednoduchá kouzla:** Druid může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. U druida se většinou jedná o přírodní věci jako vyvolání vůně květin, vyčarování malé květiny, závan větru a podobně. Efektivně by však nemělo použití takového kouzla vézt k řešení nějakého problému.
 
 ### Za jedno s přírodou
@@ -69,25 +69,18 @@ Druid se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se dru
 
 - **Přítel divočiny:** Druid má *situační bonus +2* při interakcích se zvířaty, vílami a monstry zvířecí inteligence.
 
-### Přeměna ve zvíře (úroveň 4)
+### Přeměna ve zvíře (úroveň 3)
 
-Na 4. úrovni získává druid schopnost se *2x denně* proměnit do podoby libovolného zvířete, které kdy potkal. Zvíře musí být plaz, pták, ryba nebo savec a nesmí mít větší úroveň než je *druidova úroveň/2* (zaokrouhleno nahoru).
+Na 3. úrovni získává druid schopnost se *2x denně* proměnit do podoby libovolného zvířete, které kdy potkal. Zvíře musí být plaz, pták, ryba nebo savec a nesmí mít větší úroveň než je *druidova úroveň/2* (zaokrouhleno nahoru).
 
 - **Seslání:** Proměna stojí *běžnou akci*.
 - **Maximální trvání proměny:** 1 směna.
 - **Omezení:** V proměně nelze mluvit, sesílat kouzla či aktivovat předměty jelikož veškeré vybavení se vstřebá do zvířecí podoby a znovu se objeví, při proměně zpět.
 - **Statistiky:** Druid získává všechny statistiky a fyziologické schopnosti přeměněného stvoření. Mimo životů, ty zůstávají původní.
 
-### Živelná afinita (úroveň 7)
+### Kombinovaná přeměna (úroveň 7)
 
-Od 7. úrovně si druid může vybrat jeden z živlů (*Země*, *Oheň*, *Voda*, *Vzduch*) a získá následující bonusy k sesílání kouzel využívající tento živel nebo působící adekvátní energetické poškození (popořadě: *žíravinové*, *ohnivé*, *mrazivé*, *elektrické*).
-
-- **Bonusy:** Sesílání takových kouzel stojí o *2* many méně a o *4* many méně pro posílená kouzla (min 1). Pokud takové kouzlo vyžaduje záchranný hod, cíl obdrží situační postih *-2* k záchranně proti efektu kouzla.
-- **Připodobnění kouzel:** Většina kouzel nevyužívá specifické elementy. Hráč může však popisem sesílání kouzla a jeho efektu, připodobnit kouzlo k vybranému elementu. Pokud PJ uzná, že připodobnění dává smysl, mohou být bonusy této schopnosti aplikovány.
-
-### Kombinovaná přeměna (úroveň 10)
-
-Druid může od 10. úrovně použít přeměnu ve zvíře jen na vybranou část svého těla. To mu umožňuje (dle přeměny) získat schopnosti proměny bez nutnosti ztratit schopnost mluvit, sesílat kouzla či používat předměty. Každá část těla přeměněná na rozlišené zvíře se počítá jako jedna přeměna. Například přeměna ruk na medvědí tlapy a uší na netopýří se počítá jako 2 přeměny.
+Druid může od 7. úrovně použít přeměnu ve zvíře jen na vybranou část svého těla. To mu umožňuje (dle přeměny) získat schopnosti proměny bez nutnosti ztratit schopnost mluvit, sesílat kouzla či používat předměty. Každá část těla přeměněná na rozlišené zvíře se počítá jako jedna přeměna. Například přeměna ruk na medvědí tlapy a uší na netopýří se počítá jako 2 přeměny.
 
 <img src="/assets/sep_line.png"/>
 
@@ -115,3 +108,10 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 - **Záchrana života:** Mág může jako *reakci* povolat svého společníka a tím se zachránit před přímým poškozením (neplatí na hromadné útoky). Magický společník obdrží poškození na místo mága a zemře.
 
 <img src="/assets/sep_line.png"/>
+
+### Živelná afinita (úroveň 7)
+
+Od 7. úrovně si druid může vybrat jeden z živlů (*Země*, *Oheň*, *Voda*, *Vzduch*) a získá následující bonusy k sesílání kouzel využívající tento živel nebo působící adekvátní energetické poškození (popořadě: *žíravinové*, *ohnivé*, *mrazivé*, *elektrické*).
+
+- **Bonusy:** Sesílání takových kouzel stojí o *2* many méně a o *4* many méně pro posílená kouzla (min 1). Pokud takové kouzlo vyžaduje záchranný hod, cíl obdrží situační postih *-2* k záchranně proti efektu kouzla.
+- **Připodobnění kouzel:** Většina kouzel nevyužívá specifické elementy. Hráč může však popisem sesílání kouzla a jeho efektu, připodobnit kouzlo k vybranému elementu. Pokud PJ uzná, že připodobnění dává smysl, mohou být bonusy této schopnosti aplikovány.

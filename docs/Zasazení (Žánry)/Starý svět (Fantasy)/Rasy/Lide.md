@@ -8,11 +8,7 @@
 
 ## Popis
 
-*Odkud se vzali lidé nikdo přesně neví. Lidé na světě existovali již před záchranou světa a existují nadále i po ní. Spousta lidí věří, že, jako všechno živé, je stvořila Všematka. Elfové však vědí, že to není možné. Neferité, kterou lidé označují jako Všematku, se totiž stala povznesenou až po událostech spojených se záchranou světa.*
-
-*Tělesné charakteristiky lidí jsou stejně rozmanité jako podnebí ve kterých se mohou nacházet. Lidé mají širokou škálu barev pleti a vlasů, typů těla a obličejových rysů. Obecně však platí, že jejich kůže má tím tmavší odstín, čím blíže k rovníku žili oni nebo jejich předkové. Lidé dosahují fyzické dospělosti kolem 15. roku života, duševní dospělosti však dosahují o několik let později. Průměrný člověk se může dožít kolem 70 let.*
-
-*Rozmanitost lidí se projevuje také v jejich postojích a společenských poměrech. Lidé často tvoří rodiny, cechy a různé politické struktury, které udávají řád a smysl jejich existenci. Rodina je však většinou tou nejcennější strukturou, kterou může být člověk součástí. Ačkoli nejstarší lidská uskupení mohou vystopovat svou historii i tisíce let do minulosti, ve srovnání se společnostmi elfů nebo trpaslíků se lidské civilizace zdají být ve stavu neustálého přelivu. Říše se rozpadají a nová království pohlcují ta stará.*
+*==todo==*
 
 *I přes své časté mocenské ambice, lidé hluboko uvnitř touží, aby jim někdo vládl a říkal co mají dělat, a tím z nich shodil tíhu následků vlastních rozhodnutí. To dělá lidi extrémně náchylné k uctívání vyšších bytostí. A to i klidně ty nejvíce obskurní bohy nebo podivná stvoření.*
 

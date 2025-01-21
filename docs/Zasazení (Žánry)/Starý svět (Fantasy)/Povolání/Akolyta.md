@@ -12,25 +12,25 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |             Přízeň             | Mod.Zásahu |  Um  |                        Odemyká                         |
-| :----: | :--------------------------: | :----------------------------: | :--------: | :--: | :----------------------------------------------------: |
-|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+8+Osobnost |     +0     |  +1  |          Um, Patron, Patronská magie, Podpora          |
-|   2    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +1     |  +1  |                   Talent, +1 Kouzlo                    |
-|   3    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +1     |  +1  |                   +1 Dovednostní bod                   |
-|   4    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +2     |  +2  |                   Spojení, +1 Kouzlo                   |
-|   5    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +2     |  +2  |                         Talent                         |
-|   6    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +3     |  +2  |             +1 Dovednostní bod, +1 Kouzlo              |
-|   7    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +3     |  +3  |                    Zázračný rituál                     |
-|   8    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +4     |  +3  |                   Talent, +1 Kouzlo                    |
-|   9    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +4     |  +3  |     +1 Dovednostní bod (a každou další 3. úroveň)      |
-|   10   |          +1k6+Výdrž          |         +1k8+Osobnost          |     +5     |  +4  | Nedotknutelný, +1 Kouzlo (a každou další sudou úroveň) |
-|  11+   |              +1              |               +2               |     +5     |  +4  |      Talent (a každou další 3. úroveň), +1 Kouzlo      |
+| ÚROVEŇ |              HP              |             Přízeň             | Mod.Zásahu |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :----------------------------: | :--------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+8+Osobnost |     +0     |  +1  |             Um, Patron, Patronská magie, Podpora             |
+|   2    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +1     |  +1  |                      Talent, +1 Kouzlo                       |
+|   3    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +1     |  +1  |                           Spojení                            |
+|   4    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +2     |  +2  |                      Talent, +1 Kouzlo                       |
+|   5    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +2     |  +2  |                      +1 Dovednostní bod                      |
+|   6    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +3     |  +2  |                      Talent, +1 Kouzlo                       |
+|   7    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +3     |  +3  |                       Zázračný rituál                        |
+|   8    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +4     |  +3  |                      Talent, +1 Kouzlo                       |
+|   9    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +4     |  +3  |                              -                               |
+|   10   |          +1k6+Výdrž          |         +1k8+Osobnost          |     +5     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň), +1 Kouzlo (a každou další sudou úroveň) |
+|  11+   |              +1              |               +2               |     +5     |  +4  |                              -                               |
 
 ## Tabulka reakcí patrona
 
 Ověření reakce patrona funguje stejně jako *ověření Osobnosti* avšak výsledek se porovnává s tabulkou níže.
 
-| Výsledek     |      Reakce na posílení kouzla       | Reakce na zázračný rituál | REAKCE NA Spojení |
+| Výsledek     |      Reakce na posílení kouzla       | Reakce na zázračný rituál | Reakce na spojení |
 | :----------- | :----------------------------------: | :-----------------------: | :---------------: |
 | 11 nebo méně |                  Ne                  |            Ne             |       Ticho       |
 | 12 - 15      |                 Ano                  |  Ano ...ale (komplikace)  |      Znamení      |
@@ -78,9 +78,9 @@ Akolyta disponuje schopností používat magii spadající do disciplíny *dle s
 
 ### Podpora
 
-Vždy máš přístup ke kouzlu *Podpora* ==todo:odkaz== a jeho základní formu můžeš seslat jako *strategickou akci*. Tohle kouzlo se nepočítá vůči limitu tvých ovládaných kouzel.
+Akolyta umí kouzlo *Podpora* ==todo: odkaz==, tohle kouzlo se nepočítá vůči jejímu limitu kouzel a nelze jej vyměnit. Navíc akolyta může základní formu tohohle kouzla seslat *jednou za směnu zdarma*.
 
-### Spojení (Úroveň 4)
+### Spojení (Úroveň 3)
 
 Od 4. úrovně může akolyta strávit *1 směnu* meditací a pokusit se navázat spojení se svým patronem. Pokus o navázání spojení stojí *6 přízně*. Akolyta může na konci své meditace položit *1 otázku* svému patronovi a hodit si na *ověření reakce patrona* ten dle [reakce na spojení](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-reakci-patrona) odpoví. Položení další otázky stojí další přízeň a vyžaduje další směnu meditace.
 
@@ -93,10 +93,6 @@ Od 7. úrovně může akolyta strávit *1 hodinu* prováděním zázračného ri
 - **Cena:** Pj určí zda se jedná o *malý zázrak*, *zázrak* a nebo *velký zázrak*, a na základě toho určí cenu přízně jako *5*, *15* nebo *30*.
 - **Výsledek:** Efekt rituálu rozhodne PJ dle *ověření reakce patrona* dle [tabulky reakcí patrona](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-reakci-patrona).
 - **Neúspěch:** Pokud akolyta neuspěje zaplatí polovinu ceny rituálu a rituál selže.
-
-### Nedotknutelný (Úroveň 10)
-
-Od 10. úrovně pokaždé, když nějaké nepřátelské stvoření zraní akolytu, tak útočník obdrží *2k6* silového poškození.
 
 <img src="/assets/sep_line.png"/>
 
@@ -135,3 +131,7 @@ Pokaždé když akolyta obdrží dle tabulky postupu talent. Může si vybrat bu
 ### Ochranná ruka patrona
 
 Patron drží nad svou akolytou ochranou ruku. To jí dává stavový bonus *+2* do OČ.
+
+### Nedotknutelný (Úroveň 10)
+
+Od 10. úrovně pokaždé, když nějaké nepřátelské stvoření zraní akolytu, tak obdrží *2k6* silového poškození.

@@ -6,7 +6,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-Dovednostní body určují, zda hráčova postava vyniká, nebo je naopak horší v některých aktivitách. Hráčova postava disponuje dovednostními body v rozsahu *-4* až *+4*. Kdy tyto extrémy představují limity těl člověku podobných stvoření. Běžnými způsoby není možné mít v dovednosti větší hodnotu jak +4. Také není možné mít v některé dovednosti méně než *-3*. Pokud by dovednost klesla pod hodnotu *-4* stává se hráčova postava neschopna běžně fungovat. 
+Dovednostní body určují, zda hráčova postava vyniká, nebo je naopak horší v některých aktivitách. Hráčova postava disponuje dovednostními body v rozsahu *-4* až *+4*. Kdy tyto extrémy představují limity těl člověku podobných stvoření. Běžnými způsoby není možné mít v dovednosti větší hodnotu jak +4. Také není možné mít v některé dovednosti méně než *-4*. Pokud by dovednost klesla pod hodnotu *-4* stává se hráčova postava neschopna běžně fungovat. 
 
 ## Síla
 
@@ -52,8 +52,8 @@ Vzdělání představuje rozsah vzdělání, jaké bylo postavě poskytnuto, ale
 
 - Ověřovací hody na vzdělání
 - Každý bod vzdělání nad 0 umožňuje postavě se naučit extra jazyk
-- Každý bod vzdělání nad 0 umožňuje postavě se naučit extra talent
-- Počet ovládaných kouzel u povolání, které ovládají magii.
+- Každý sudý bod vzdělání nad 0 umožňuje postavě se naučit extra talent
+- Počet ovládaných kouzel u povolání, které ovládají magii
 
 ## Rozvaha
 

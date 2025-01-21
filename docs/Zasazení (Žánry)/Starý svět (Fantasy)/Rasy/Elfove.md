@@ -8,7 +8,7 @@
 
 ## Popis
 
-*==todo přepsat==*
+*==todo==*
 
 **Jména elfů:** Elfové si mezi sebou dávají melodická jména často obsahující slabiky **ae** nebo **ea** a končící na slabiky **-el** nebo **-ara**. Méně tradiční jsou pak jména končící na **-on** nebo **-al**. Rodinná příjmení jsou pak podobně melodická a vytváří až plynulou návaznost se jménem. Výjimkou jsou vznešené rody, kde se na místo příjmení používá název panství s předponou **Un’**.
 

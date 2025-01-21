@@ -14,17 +14,17 @@
 
 | ÚROVEŇ |              HP              | mod.Zásahu |  Um  |                           Odemyká                            |
 | :----: | :--------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+8+Výdrž |     +0     |  +1  | Um, Boj se dvěma zbraněmi, Přepadení, Cech nebo talent, Dobrá příprava, |
+|   1    | Základní životy rasy+8+Výdrž |     +0     |  +1  | Um, Boj se dvěma zbraněmi, Přepadení, Dobrá příprava, Talent |
 |   2    |          +1k8+Výdrž          |     +1     |  +1  |                            Talent                            |
-|   3    |          +1k8+Výdrž          |     +1     |  +1  |                      +1 Dovednostní bod                      |
-|   4    |          +1k8+Výdrž          |     +3     |  +2  |                         Obratný úhyb                         |
-|   5    |          +1k8+Výdrž          |     +3     |  +2  |                            Talent                            |
-|   6    |          +1k8+Výdrž          |     +4     |  +2  |                      +1 Dovednostní bod                      |
-|   7    |          +1k8+Výdrž          |     +4     |  +3  |                        Přelsti magii                         |
+|   3    |          +1k8+Výdrž          |     +1     |  +1  |                         Obratný úhyb                         |
+|   4    |          +1k8+Výdrž          |     +3     |  +2  |                            Talent                            |
+|   5    |          +1k8+Výdrž          |     +3     |  +2  |                      +1 Dovednostní bod                      |
+|   6    |          +1k8+Výdrž          |     +4     |  +2  |                            Talent                            |
+|   7    |          +1k8+Výdrž          |     +4     |  +3  |                       Studnice štěstí                        |
 |   8    |          +1k8+Výdrž          |     +5     |  +3  |                            Talent                            |
-|   9    |          +1k8+Výdrž          |     +5     |  +3  |        +1 Dovednostní bod (a každou další 3. úroveň)         |
-|   10   |          +1k8+Výdrž          |     +7     |  +4  |                       Studnice štěstí                        |
-|  11+   |              +2              |     +7     |  +4  |              Talent (a každou další 3. úroveň)               |
+|   9    |          +1k8+Výdrž          |     +5     |  +3  |                              -                               |
+|   10   |          +1k8+Výdrž          |     +7     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň) |
+|  11+   |              +2              |     +7     |  +4  |                              -                               |
 
 ## Schopnosti povolání
 
@@ -60,36 +60,17 @@ Lotr je expertem v hledání slabých míst nic netušících nepřátel. Pokud 
 - **Zásah střelnou zbraní:** Udělí *7+(úroveň lotra\*2)+modifikátory* poškození dle zbraně.
 - **Zásah zbraní na blízku:** Cíl musí podstoupit v *záchranném hodu na zdatnost* se *situačním postihem ve výši Umu* lotra. Pokud selže, je okamžitě zabit. Pokud uspěje obdrží *7+(úroveň lotra\*2)+modifikátory* poškození.
 
-### Cech (Dobrovolné, jinak talent)
-
-Lotr může být členem cechu zaměřujícího se na nezákonné aktivity. To mu přináší určité výsady ale i povinnosti.
-
-- **Úkoly:** Lotr si může z cechu vyžádat úkol nebo mu může být úkol sám přiřazen. Za splnění úkolu lotr obdrží *černou minci*. Opakované nesplnění či odmítnutí úkolu může znamenat exkomunikaci (vyřazení z cechu nebo smrt).
-- **Černá mince:** Má přibližnou hodnotu *1 zlatý* a lze ji využít přes konexe v kterékoliv větší osadě nebo zasláním žádosti do cechu na *nákup výbavy* nebo *najmutí pomoci* či *služby* na jeden specifický úkol. Směna probíhá vždy *1:1* v případě pořizování výbavy, nesmí cena výbavy přesáhnout *1 zlatý*.
-- **Cechovní jazyk:** Všichni členové stejného cechu ovládají sadu posunků a značek, které jim umožňují si předávat tajné zprávy.
-
-!!! note "Interakce s cechem"
-    Veškeré jiné interakce s cechem, jsou čistě v režii PJ.
-
 ### Dobrá příprava
 
-Lotr si může v civilizaci koupit libovolný počet *balíků neznámého obsahu* v hodnotě až *1 zl* nebo *1 černé mince*. Balík zabírá vždy *1 slot* a lze ho kdykoliv vyměnit za libovolný kus výbavy nebo kontrakt na proti službu (v případě černých mincí) stejné nebo nižší hodnoty.
+Lotr si může v civilizaci koupit libovolný počet *balíků neznámého obsahu* v hodnotě až *100 st*. Balík zabírá vždy *1 slot* a lze ho kdykoliv vyměnit za libovolný kus výbavy stejné nebo nižší hodnoty.
 
 -  **Předměty:** Může se jednat o libovolný předmět z výbavy dobrodruha včetně zbrojí, zbraní a jedů. Předmět se však musí vejít do *1 slotu*.
 
-### Obratný úhyb (úroveň 4)
+### Obratný úhyb (úroveň 3)
 
 Pokud je lotr cílem útoku nebo efektu vyžadující *záchranný hod na reflexy*, může si jako *reakci* připočítat jednorázový situační bonus ve výši své *obratnosti* do *OČ* nebo *záchranného hodu*. Tento bonus je jen na útok, který spustil tuto reakci.
 
-### Přelsti magii (úroveň 7)
-
-Lotr se může, jako *běžnou akci*, pokusit aktivovat nebo dočasně vyřadit magický předmět nebo mechanizmus. Bez hlubšího pochopení pro jeho fungování.
-
-- **Ověření:** Lotr podstoupí *ověření dovednosti Vzdělání*.
-- **Úspěch:** Jednorázová aktivace magického předmětu či mechanizmu nebo jeho vyřazení na *1 směnu*.
-- **Neúspěch:** O nový pokus se lze pokusit až další den.
-
-### Studnice štěstí (úroveň 10)
+### Studnice štěstí (úroveň 7)
 
 Lotr disponuje *21 body štěstí*, které může použít k úpravě svých hodů nebo hodů, které se ho týkají.
 
@@ -157,3 +138,13 @@ Lotr se může pokusit zamaskovat jako jiného humanoidního stvoření, které 
 - **Opakování hodu:** V případě, že je zamaskovaný lotr důkladně prověřen někým kdo cíl  šarády zná. Hod na úspěch se musí opakovat (Například muž políbí  manželku, která je ve skutečnosti lotr v přestrojení).
 
 <img src="/assets/sep_line.png"/>
+
+### Přelsti magii
+
+**Požadavek:** Vzdělání >= 1
+
+Lotr se může, jako *běžnou akci*, pokusit aktivovat nebo dočasně vyřadit magický předmět nebo mechanizmus. Bez hlubšího pochopení pro jeho fungování.
+
+- **Ověření:** Lotr podstoupí *ověření dovednosti Vzdělání*.
+- **Úspěch:** Jednorázová aktivace magického předmětu či mechanizmu nebo jeho vyřazení na *1 směnu*.
+- **Neúspěch:** O nový pokus se lze pokusit až další den.
