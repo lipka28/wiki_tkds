@@ -14,7 +14,7 @@ Zde se nachází obecné talenty, které při splnění podmínek, jsou k dispoz
 
 ### Fušování do magie
 
-**Požadavek:** Nesmí ovládat magii a Rozvaha >=1
+**Požadavek:** Neovládá žádnou magickou disciplínu a Rozvaha >=1
 
 **Efekt:** Postava se amatérským fušováním do magie naučí ovládat základy jedné magické disciplíny vlastního výběru ==todo odkaz==. To znamená, že postava může sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
 

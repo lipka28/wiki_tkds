@@ -27,20 +27,23 @@
 
 ## Vlastnosti
 
-**Získané Dovednosti:** *Rozum*, *Obratnost* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *Vzdělání*, *Rozvaha* a *1 libovolný dovednostní bod*
 
-**Vrozené jazyky:** Jazyk společenství + 1 libovolný jazyk
+**Ztracené dovednosti:** Síla
 
-**Základní životy:** *2*
+**Vrozené jazyky:** Jazyk skřítků + Jazyk víl
 
-**Základní magie:** *8* (Pokud ovládá magickou disciplínu) (potřebuje modifikovat pro gobliny)
+**Základní životy:** *3*
 
-**Hybnost:** 9 metrů
+**Základní magie:** *7*
+
+**Hybnost:** 6 metrů
 
 **Doba přirozeného dožití:** 50 - 70 let
 
 ## Speciální vlastnosti
 
-- **Asd** - asd
+- **Kouzelný trik** - Skřítek ovládá základní formu *jednoho kouzla* z libovolné magické disciplíny, jehož sesílání nestojí více než *4 magie*. Pokud skřítek neovládá žádnou magickou disciplínu jeho regenerace magie odpovídá *2+Rozvaha* za přenocování. Skřítek tímto nezískává kontrolu nad magickou disciplínou.
+- **Malý** - Skřítci jsou malého vzrůstu a protáhnou se i na místa kam se běžný člověk nedostane. Skřítci také mají situační bonus +1 k OČ proti střelným útokům a útokům na blízku od velkých stvoření.
 
 <img src="/assets/sep_line.png"/>

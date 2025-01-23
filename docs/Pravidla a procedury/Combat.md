@@ -75,7 +75,7 @@
 **Poškození:** Útoky udělují tolik poškození kolik je stanoveno ve statistikách monstra nebo deníku postavy hráče. 
 
 !!! note "Minimální poškození"
-    Úspěšný zásah vždy udělí aspoň 1 poškození. (Pokud cíl není imunní)
+    Úspěšný zásah vždy udělí aspoň 1 poškození. Pokud cíle není imunní nebo neodolalo celému obdrženému poškození.
 
 **Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *snížené poškození* (o statickou hodnotu), *imunitu* (žádné poškození), *slabost* (dvojnásobné poškození) nebo zvýšené poškození (o statickou hodnotu) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
 
@@ -83,6 +83,11 @@
 - **Energetické a magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá ničivá energie)
 - **Mentální:** Působí poškození pouze myslícím stvořením.
 - **Pozitivní a negativní:** Pozitivní ubližuje všemu nemrtvému či démonickému ale pro vše živé je neškodné nebo dokonce léčivé. Negativní funguje obráceně.
+
+**Vícečetné poškození:** Pokud má monstrum nebo hráčova postava schopnost, která umožňuje provést více útoků v rámci jedné akce. Pro účely výpočtu *odolností* a *slabostí*, jsou všechny útoky v rámci jedné akce považovány za jeden a též útok.
+
+!!! note "Příklad: Vícečetné poškození a odolnosti"
+    Monstrum má schopnost provést 2 útoky svými drápy jako běžnou akci. Když zasáhne oběma útoky způsobí 2x(1k4+1) sečného poškození (6). Hráčova postava je pod efektem kouzla, který redukuje obdržené sečné poškození o 4. To znamená, že hráčova postava obdrží z těchto svou útoků jen 2 body sečného poškození.  
 
 **Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna jinými nezranitelnými monstry.
 

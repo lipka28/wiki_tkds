@@ -33,22 +33,22 @@ Nejčastěji se dobrodruhy stávají mladí trpaslíci, kteří chtějí dosáhn
 
 ## Vlastnosti
 
-**Získané Dovednosti:** *Síla*, *Výdrž* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *Výdrž*, *Rozvaha* a *1 libovolný dovednostní bod*
+
+**Ztracené dovednosti:** *Osobnost*
 
 **Vrozené jazyky:** Trpasličtina + Jazyk společenství
 
-**Základní životy:** *8*
+**Základní životy:** *7*
 
-**Základní magie:** *2* (Pokud ovládá magickou disciplínu)
+**Základní magie:** *3* (Pokud ovládá magickou disciplínu)
 
-**Hybnost:** 8 metrů
+**Hybnost:** 6 metrů
 
 **Doba přirozeného dožití:** 200 - 250 let
 
 ## Speciální vlastnosti
 
 - **Vidění ve tmě** - Trpaslíci vidí ve tmě stejně dobře jako za normálního světla akorát černobíle.
-- **Šestý smysl** - Trpaslíci dokáží přibližně odhadnout v jaké výšce, vůči mořské hladině, se nachází, rozeznají cenné kovy a poznají pravost drahokamů. Navíc dokáží vycítit(čuchem) cenné kovy až na vzdálenost 6 metrů.
-- **Nižší těžiště** - Trpaslíci nemohou používat *obouruční meče* a *dalekonosné luky*.
 
 <img src="/assets/sep_line.png"/>

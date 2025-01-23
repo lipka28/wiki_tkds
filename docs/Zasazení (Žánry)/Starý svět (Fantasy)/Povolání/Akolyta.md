@@ -67,10 +67,10 @@ Každá akolyta musí mít svého patrona, který ji poskytuje svou moc. V prvn�
 
 ### Patronská magie
 
-Akolyta disponuje schopností používat magii spadající do disciplíny *dle svého patrona*. To znamená, že akolyta umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a získávat a sesílat vlastní kouzla, z magické disciplíny svého patrona.
+Akolyta disponuje schopností používat magii spadající do disciplíny *dle svého patrona*. To znamená, že akolyta umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a získávat a sesílat vlastní kouzla, z magické disciplíny svého patrona.  
 
 - **Přízeň:** Akolyta disponuje magickou energií zvanou přízeň. Za tu může sesílat svá kouzla. Přízeň se doplňuje přirozenou regenerací, podobně jako životy. Akolytina nadpřirozená regenerace je poskytována jejím patronem.
-- **Kouzla:** Akolyta začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze seznamu kouzel poskytnutého jejím patronem ==todo odkaz==. Pokaždé, když si akolyta zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Akolyta nemůže umět více kouzel než je její *úroveň+Vzdělání* (max. 10+Vzdělání).
+- **Kouzla:** Akolyta začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze seznamu kouzel poskytnutého jejím patronem ==todo odkaz==. Pokaždé, když si akolyta zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo. Akolyta nemůže umět více kouzel než je její *úroveň+Vzdělání* (max. 10+Vzdělání).
 - **Výměna kouzel:** Jelikož akolyta získává svou moc od svého patrona, může při každém přenocování, kdy je v přízni patrona, požádat patrona o výměnu 1-ho ze svých ovládaných kouzel za jiné ze svého seznamu kouzel nebo jiné dostupné kouzlo ze své disciplíny. Zda jí bude vyhověno je rozhodnuto na základě *ověření reakce patrona* (jiný výsledek než ne).
 - **Symbol Patrona:** Při sesílání svých kouzel se musí akolyta rukou dotýkat svého symbolu patrona.
 - **Posílení kouzel:** Akolyta může bez přímého požehnání patrona sesílat jen *základní formy svých kouzel*. Pro seslání posílených verzí musí při každém takovém čarování podstoupit *ověření reakce patrona*. Pokud akolyta neuspěje kouzlo se nesešle.

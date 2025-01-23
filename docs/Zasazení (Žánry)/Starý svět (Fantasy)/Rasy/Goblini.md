@@ -1,4 +1,4 @@
-# Goblin ==TODO: udělat a zahodit gobliny==
+# Goblin ==TODO: udělat==
 
 <img src="/assets/sep_line.png"/>
 
@@ -10,11 +10,11 @@
 
 *==todo==*
 
-**Jména skřítků:** ==todo: Jména==
+**Gobliní jména:** ==todo: Jména==
 
 **Příklady jmen:** ==todo: Příjmení==
 
-## Skřítci jako dobrodruzi
+## Goblini jako dobrodruzi
 
 ==todo==
 
@@ -23,24 +23,28 @@
 !!! note "Inspirace"
     Tyto rysy a názory nereprezentují každého člověka. Následující seznam funguje spíše jako taková inspirace pro tvorbu postavy nebo nehráčské postavy. 
 
-- ==todo: gnómové==
+- ==todo: goblini==
 
 ## Vlastnosti
 
-**Získané Dovednosti:** *Rozum*, *Obratnost* a *1 libovolný dovednostní bod*
+**Získané Dovednosti:** *Obratnost*, *Výdrž* a *1 libovolný dovednostní bod*
 
-**Vrozené jazyky:** Jazyk společenství + 1 libovolný jazyk
+**Ztracené dovednosti:** Síla
 
-**Základní životy:** *5*
+**Vrozené jazyky:** Jazyk společenství + Goblinština
 
-**Základní magie:** *5* (Pokud ovládá magickou disciplínu) (potřebuje modifikovat pro gobliny)
+**Základní životy:** *4*
 
-**Hybnost:** 9 metrů
+**Základní magie:** *3* (Pokud ovládá magickou disciplínu)
+
+**Hybnost:** 6 metrů
 
 **Doba přirozeného dožití:** 50 - 70 let
 
 ## Speciální vlastnosti
 
-- **Asd** - asd
+- **Jako z gumy** - Goblini mají *odolnost* vůči *tupému poškození* a *pádům z výšek*.
+- **Malý** - Goblini jsou malého vzrůstu a protáhnou se i na místa kam se běžný člověk nedostane. Goblini také mají situační bonus +1 k OČ proti střelným útokům a útokům na blízku od velkých stvoření.
+- **Nedůvěryhodný** - Goblini mají situační postih -2 k interakcím s ostatními inteligentními rasami.
 
 <img src="/assets/sep_line.png"/>

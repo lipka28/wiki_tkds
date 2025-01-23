@@ -467,7 +467,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Dosah:** *Dotyk*; **Cíl:** *1* ochotné stvoření
 
-**Efekt:** Na *1 směnu* se kůže očarované stvoření promění na kůru. To má za efekt, že útoky působící sečné, průrazné nebo tupé poškození působí o *2* body menší zranění (minimum 1). Ohnivá poškození mají však opačný efekt. Tyto redukce a navýšení poškození jsou považovány za stavový modifikátor. Pokud očarované stvoření obdrží ohnivé poškození může efekt kouzla ihned zdarma přerušit.
+**Efekt:** Na *1 směnu* se kůže očarované stvoření promění na kůru. To má za efekt, že útoky působící sečné, průrazné nebo tupé poškození působí o *2* body menší zranění. Ohnivá poškození mají však opačný efekt. Tyto redukce a navýšení poškození jsou považovány za stavový modifikátor. Pokud očarované stvoření obdrží ohnivé poškození může efekt kouzla ihned zdarma přerušit.
 
 **Posílení:**
 

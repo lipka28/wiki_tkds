@@ -20,7 +20,7 @@ Ke všem svým dovednostem si zapiš hodnotu *0*. V následujících krocích si
 Co všechno tvé dovednosti ovlivňují se můžeš dozvědět v kapitole [Dovednosti](Dovednosti.md)
 
 !!! Example "Náhodné dovednosti (Varianta)"
-    Někteří zkušenější hráči se mohou chtít nechat překvapit tím co vlastně budou hrát. Pro náhodné vygenerování dovedností hoď *1k20* za každou dovednost (popořadě). Od nejvyššího čísla po nejmenší pak přiřazuj následující hodnoty: *3*, *2*, *1*, *1*, *0*, *0*.  To jsou tvé dovednostní body. Ty už dále nejsou nijak modifikovány ani výběrem rasy či specializace.
+    Někteří zkušenější hráči se mohou chtít nechat překvapit tím co vlastně budou hrát. Pro náhodné vygenerování dovedností hoď *1k20* za každou dovednost (popořadě). Od nejvyššího čísla po nejmenší pak přiřazuj následující hodnoty: *3*, *2*, *1*, *ostatní 0*.  To jsou tvé dovednostní body. Ty už dále nejsou nijak modifikovány ani výběrem rasy či specializace.
 
 ## 2. Životy a magie
 

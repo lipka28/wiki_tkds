@@ -1,6 +1,6 @@
 ![Image title](/assets/OW/classes/Fighter.png)
 
-# ==todo== Tianxijský mnich
+# Tianxijský mnich
 
 <img src="/assets/sep_line.png"/>
 
@@ -53,7 +53,7 @@ Mnich používá své tělo jako smrtelnou zbraň. Jeho neozbrojené útoky jsou
 
 Mnich se může naučit několik bojových stylů. V jednu chvíli může mít mnich aktivní pouze jeden bojový styl. Bojové styly se dají měnit za použití *strategické akce* a může být vybrán *na začátku boje jako volná akce*. Mnich začíná hru se *stylem kudlanky*.
 
-- **Styl kudlanky:** V tomto stylu může mnich jako součást jedné *běžné akce* provést 2 neozbrojené útoky za *1k4+Síla* tupého poškození. Oba útoky mají *situační postih -2* k zásahu.
+- **Styl kudlanky:** V tomto stylu může mnich jako součást jedné *běžné akce* provést 2 neozbrojené útoky proti stejnému nepříteli za *1k4+Síla* tupého poškození za každý útok. Oba útoky mají *situační postih -2* k zásahu.
 
 ### Či
 
@@ -64,7 +64,7 @@ Mnichové ovládají mystickou energii zvanou či, kterou může používat pro 
 
 ### Mystické údery (Úroveň 3)
 
-Kostka poškození všech tvých neozbrojených útoků se zvedne o *1* stupeň (např. 1k4 -> 1k6). Tohle se netýká *rychlého útoku* a útoků spojených s využíváním či. Navíc všechny mnichovy útoky jsou považován za magické.
+Kostka poškození všech tvých neozbrojených útoků se zvedne o *1* stupeň (např. 1k4 -> 1k6). Tohle se netýká *rychlého útoku* a útoků spojených s využíváním či. Navíc všechny mnichovy neozbrojené útoky jsou považovány za magické.
 
 ### Neuvěřitelná technika (Úroveň 7)
 

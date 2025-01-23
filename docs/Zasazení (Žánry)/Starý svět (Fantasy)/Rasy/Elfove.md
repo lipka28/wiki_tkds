@@ -34,7 +34,9 @@ Na dobrodružství se často vydávají mladí elfové (100 let nebo méně), ab
 
 **Získané Dovednosti:** *Obratnost*, *Rozvaha* a *1 libovolný dovednostní bod*
 
-**Vrozené jazyky:** Elfština + Jazyk společenství
+**Ztracené dovednosti:** Výdrž
+
+**Vrozené jazyky:** Jazyk společenství + Elfština
 
 **Základní životy:** *4*
 

@@ -34,7 +34,9 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 ## Vlastnosti
 
-**Získané Dovednosti:** *3 libovolné dovednostní body*
+**Získané Dovednosti:** *2 libovolné dovednostní body*
+
+**Ztracené dovednosti:** -
 
 **Vrozené jazyky:** Jazyk společenství + 1 libovolný jazyk
 

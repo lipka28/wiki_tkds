@@ -10,35 +10,32 @@
 
 *==todo==*
 
-**Lidská jména:** Lidská jména se velmi liší napříč místy původu a etnicitou s jaké daný člověk pochází. A na rozdíl od ostatních ras lidé nemají pevnou strukturu jmen. Každý člověk má také své rodné příjmení z nichž některá, mohou být považována za významná v lidském společenství.
+**Nomádská jména:** asd
 
-**Příklady jmen:** Aarav, Anna, Antonio, Ayanna, Caius, Clara, David, Eiko, Elsa, Enrique, Erik, Fabio, Freya, Friedrich, Helen, Isabel, Johann, Khaled, Leilani, Niamh, Richard, Zephyr
+**Příklady jmen:** asd
 
-## Lidé jako dobrodruzi
+## Nomádi jako dobrodruzi
 
-Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nelákala vidina bohatství a moci, která se může ukrývat v neprozkoumaných částech světa. Člověk je nejběžnější typ dobrodruha, kterého lze potkat. Nezávisle na věku či původu.
+asd
 
 ## Běžné povahové rysy a názory
 
 !!! note "Inspirace"
     Tyto rysy a názory nereprezentují každého člověka. Následující seznam funguje spíše jako taková inspirace pro tvorbu postavy nebo nehráčské postavy. 
 
-- Přizpůsobivost a extrémní kreativita při řešení problémů
-- Snaha dosáhnout slávy a bohatství, klidně i na úkor ostatních
-- Hledání smyslu života a bytí
-- Udržení dobrých vztahů s blízkými přáteli a rodinou
-- Touha po moci
-- Nepředvídatelnost
+- asd
 
 ## Vlastnosti
 
-**Získané Dovednosti:** *3 libovolné dovednostní body*
+**Získané Dovednosti:** *Síla*, *Výdrž* a *1 libovolný dovednostní bod*
 
-**Vrozené jazyky:** Jazyk společenství + 1 libovolný jazyk
+**Ztracené dovednosti:** *Vzdělání*
 
-**Základní životy:** *7*
+**Vrozené jazyky:** Jazyk společenství + Jazyk "svobodných" (Marahdanština)
 
-**Základní magie:** *3* (Pokud ovládá magickou disciplínu)
+**Základní životy:** *8*
+
+**Základní magie:** *2* (Pokud ovládá magickou disciplínu)
 
 **Hybnost:** 9 metrů
 
@@ -46,6 +43,7 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 ## Speciální vlastnosti
 
-- **Asd** - asd
+- **Obávaný** - Nomádi mají *situační postih -1* k interakcím s ostatními inteligentními rasami avšak pokud se pokouší o zastrašení nebo vyhrožování, změní se tento postih na *situační bonus +1*.
+- **Horkokrevný** - Nomádi jsou odolní vůči vysokým teplotám a také mají *odolnost vůči ohnivému poškození*. Na druhou stranu jsou citlivý na mráz a mají *slabost proti mrazivému poškození*. Tohle jsou stavové modifikátory.
 
 <img src="/assets/sep_line.png"/>
