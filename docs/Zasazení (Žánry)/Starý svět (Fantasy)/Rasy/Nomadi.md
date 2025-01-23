@@ -1,4 +1,4 @@
-# Nomád ==TODO==
+# Nomád
 
 <img src="/assets/sep_line.png"/>
 

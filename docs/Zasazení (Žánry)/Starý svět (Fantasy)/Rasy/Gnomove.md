@@ -1,4 +1,4 @@
-# Skřítek ==TODO: udělat a zahodit gobliny==
+# Skřítek
 
 <img src="/assets/sep_line.png"/>
 

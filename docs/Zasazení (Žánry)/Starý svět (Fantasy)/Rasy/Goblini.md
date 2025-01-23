@@ -1,4 +1,4 @@
-# Goblin ==TODO: udělat==
+# Goblin
 
 <img src="/assets/sep_line.png"/>
 

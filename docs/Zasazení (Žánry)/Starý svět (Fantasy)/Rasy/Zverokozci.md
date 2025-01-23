@@ -1,4 +1,4 @@
-# Zvěrokožec ==TODO: varianta zvěrokýn a dinokýn==
+# Zvěrokožec
 
 <img src="/assets/sep_line.png"/>
 
