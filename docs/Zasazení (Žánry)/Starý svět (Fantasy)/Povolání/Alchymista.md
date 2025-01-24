@@ -6,25 +6,25 @@
 
 <img src="/assets/sep_line.png"/>
 
-*==todo: remake for alch==Mágové začínají svou cestu dobrodruha jako zranitelní a slabí knihomolové, kteří teprve začali oběvovat tajemství magie. Ze začátku ovládají jen pár kouzel z knihy co dostali od svého mistra, což je činí snadným terčem pro zkušenější nepřátele. Avšak s každým novým získaným kouzlem jejich moc roste. Postupem času mág dokáže ohýbat samotnou realitu, rozproudit elementární síly a sesílat zničující kouzla. Specializace mága je vhodné pro kohokoliv, kdo se chce ponořit do zkoumání magie a rád vymýšlí neotřelá řešení problémů.*
+*==todo: remake for alch==*
 
 <img src="/assets/sep_line.png"/>
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |             Magie              | Mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :--------------------------: | :----------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+8+Výdrž | Základní magie rasy+10+Rozvaha |     +0     |  +1  |                       Um, asd, Talent                        |
-|   2    |          +1k8+Výdrž          |               -                |     +1     |  +1  |                      Talent, +1 Recept                       |
-|   3    |          +1k8+Výdrž          |               -                |     +1     |  +1  |                             asd                              |
-|   4    |          +1k8+Výdrž          |               -                |     +3     |  +2  |                      Talent, +1 Recept                       |
-|   5    |          +1k8+Výdrž          |               -                |     +3     |  +2  |                      +1 Dovednostní bod                      |
-|   6    |          +1k8+Výdrž          |               -                |     +4     |  +2  |                      Talent, +1 Recept                       |
-|   7    |          +1k8+Výdrž          |               -                |     +4     |  +3  |                             asd                              |
-|   8    |          +1k8+Výdrž          |               -                |     +5     |  +3  |                      Talent, +1 Recept                       |
-|   9    |          +1k8+Výdrž          |               -                |     +5     |  +3  |                              -                               |
-|   10   |          +1k8+Výdrž          |               -                |     +7     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň), +1 Recept (a každou další sudou úroveň) |
-|  11+   |              +2              |               -                |     +7     |  +4  |                              -                               |
+| ÚROVEŇ |              HP              |             Činidla             | Mod.Zásahu |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :-----------------------------: | :--------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+8+Výdrž | Základní magie rasy+10+Vzdělání |     +0     |  +1  |                       Um, asd, Talent                        |
+|   2    |          +1k8+Výdrž          |                -                |     +1     |  +1  |                     Talent, +1 Receptura                     |
+|   3    |          +1k8+Výdrž          |                -                |     +1     |  +1  |                      asd, +1 Receptura                       |
+|   4    |          +1k8+Výdrž          |                -                |     +3     |  +2  |                     Talent, +1 Receptura                     |
+|   5    |          +1k8+Výdrž          |                -                |     +3     |  +2  |               +1 Dovednostní bod, +1 Receptura               |
+|   6    |          +1k8+Výdrž          |                -                |     +4     |  +2  |                     Talent, +1 Receptura                     |
+|   7    |          +1k8+Výdrž          |                -                |     +4     |  +3  |                      asd, +1 Receptura                       |
+|   8    |          +1k8+Výdrž          |                -                |     +5     |  +3  |                     Talent, +1 Receptura                     |
+|   9    |          +1k8+Výdrž          |                -                |     +5     |  +3  |                         +1 Receptura                         |
+|   10   |          +1k8+Výdrž          |                -                |     +7     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň), +1 Receptura |
+|  11+   |              +2              |                -                |     +7     |  +4  |             +1 Receptura (a každou další úroveň)             |
 
 ## Schopnosti povolání
 
@@ -36,39 +36,89 @@
 
 **Bonusy k záchranným hodům:** +4 Zdatnost a +2 Vůle
 
+**Extra výbava:** Kniha receptů (max 10 receptů, 1 slot)
+
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
-- **Možné využití umu:** Teoretické znalosti všeho druhu přes historii až po monstra, identifikace alchymistických komponent a materiálů, lektvarů a jedů. 
+- **Možné využití umu:** Teoretické znalosti všeho druhu od historie přes medicínu až po monstra, identifikace alchymistických komponent a materiálů, lektvarů a jedů.
 - **Hybridní specializace:** Polovina tvého umu se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
 - **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
+### Alchymie
+
+Alchymista disponuje schopností vytvářet alchymistické předměty za pomocí receptur a alchymistických činidel. Efekty těchto předmětů jsou většinou jednorázového rázu a vychází z efektů kouzel. Alchymista není omezen magickými disciplinami pro účely objevování a tvorby takovýchto efektů.
+
+- **Alchymistická činidla:** Alchymista disponuje schopností sbírat činidla z padlých nepřátel za pomocí extrakce ==todo: odkaz==. Tato činidla pak slouží jako měna k výrobě alchymistických předmětů. Alchymista obdrží činidla na začátku hry dle tabulky postupu výše. Na dalších úrovních však již činidla nedostává a ani se nějak neregenerují.
+- **Receptury:** Alchymista pro svou výrobu potřebuje mimo jiné i receptury. Alchymista začíná hru s *knihou receptů* obsahující *1+Vzdělání* receptur vlastního výběru. Receptury může vybírat buď ze základních alchymistických receptur níže ==todo: odkaz== nebo z libovolného seznamu kouzel ==todo: odkaz==. Aby se však z kouzla stala vhodná receptura musí se první zkombinovat s alchymistickou formou ==todo: odkaz== níže. Cena receptury na základě kouzla v činidlech odpovídá jeho ceně v magii.
+- **Alchymie a posílené verze kouzel:** Pro účely alchymie jsou základní verze kouzel a jejich posílené verze považovány za rozlišené efekty. Pro vytvoření receptury z posíleného efektu kouzla je třeba mít přístup k receptuře základní verze kouzla v libovolné formě. Pokud se efekt stupňuje s každým posílením, může být třeba mít i receptury předchozího posílení. 
+- **Získávání nových receptur:** Alchymista může získávat nové receptury zvýšením dovednosti Rozum, postupem na vyšší úroveň, nalezením receptur nebo získáním od jiného alchymisty, rozborem nalezených alchymistických předmětů a nebo vynalézáním.
+- **Denní výroba:** Alchymista může na začátku každého dne vyrobit *Um+Rozum* jednorázových alchymistických předmětů, na které má recepturu a dostatek činidel. Pokud si Alchymista vybere takovou výrobou strávit celý den, může vyrobit až *dvojnásobek* takových předmětů.
+- **Vynalézání:** Ve volné chvíli se může alchymista věnovat vynalézání. A tím objevovat nové receptury či vyrábět permanentní alchymistické předměty (vynálezy). Mechanicky vynalézání funguje stejně jako magický výzkum popsán [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
+- **Alchymistické náčiní:** Jakákoliv alchymistická aktivita, ať už se jedná o výrobu, vynalézání, rozbor, extrakci či cokoliv jiného vyžaduje použití *alchymistických nástrojů* nebo přístup k alchymistické dílně.
+- **Výrobky do začátku:** Při tvorbě postavy si může alchymista vyrobit libovolný počet alchymistických předmětů pro které má recepturu a dostatek činidel. Tato výroba nespotřebovává alchymistické nástroje.
+
+### Alchymistické formy
+
+Při vynalézání nové receptury nebo modifikace nějaké stávající, si alchymista může vybrat *formu* jeho nové receptury. Forma ovlivňuje jakým způsobem je alchymistický efekt (většinou vybrané kouzlo) prováděn. Alchymista si může vybrat z následujících forem, avšak kombinace efektu a formy musí dávat smysl.
+
+- **Alchymistický šíp:** Varianta bomby, kterou lze vystřelit z luku, kuše či jiného nástroje střílející šípy. Kdokoliv může použít alchymistický šíp. Příprava receptury v této formě vyžaduje přístup k receptuře stejného efektu ve formě bomby. Výroba této formy je vždy *o 1 činidlo dražší* než forma bomby se stejným efektem.
+- **Bomba:** Provede svůj efekt při rozbití o cíl. Kdokoliv může hodit bombu. Házení bomby se řídí pravidly pro [Hození lektvaru](/Gear/#jednoduche-zbrane-na-dalku). Pokud původní efekt umožňuje záchranný hod. Záchranný hod zasaženého cíle je *modifikovaný situačním postihem* v závislosti na úspěšnosti zásahu. Zásah = *-1*; Kritický zásah = *-2*.
+- **Jed:** Poskytuje negativní efekt při vypití, setkání s kůží nebo proniknutím do zranění. Kdokoliv může použít jed. Lze [aplikovat na zbraň](/Gear/#aplikace-jedu-na-zbran).
+- **Lektvar:** Poskytuje pozitivní efekt po vypití. Kdokoliv může vypít lektvar.
+- **Prach:** Vyhozením prachu do vzduchu vyvolá efekt na vzdálenost 1 metru (dotyk). Pouze alchymista může použít prach.
+- **Vynález:** Kompletně kopíruje efekt původního kouzla avšak rozsah, dosah a trvání (pokud nějaké) původního efektu jsou poloviční. Pouze alchymista, který vynález vyrobil jej může použít.
+
+**Skladnost:** Všechny alchymistické formy mimo vynálezu mají skladnost *L*. Vynálezy mají skladnost *1*.
+
+**Více forem:** Ten samý efekt v kombinaci s různými formami je považován za rozlišené receptury. Pokud si alchymista přeje umět stejný efekt ve více formách musí jej vyzkoumat jako odlišnou recepturu (PJ může na takový výzkum aplikovat slevu).
+
+**Koncentrace:** Kouzla a efekty vyžadující koncentraci nelze přizpůsobit žádné alchymistické formě. Alchymista tudíž nemůže sestavit receptury využívající takové efekty.
+
+#### Běžné alchymistické formy pro typy kouzel
+
+| Sesílání kouzla                                              | Alchymistická forma                       |
+| ------------------------------------------------------------ | ----------------------------------------- |
+| Stvoření v dosahu X metrů                                    | Alchymistický šíp / Bomba / Jed / Vynález |
+| Místo / předmět v dosahu X metrů                             | Alchymistický šíp / Bomba / Vynález       |
+| Kouzlo vyžaduje koncentraci                                  | Nelze!                                    |
+| Dotyk                                                        | Lektvar / Prach / Vynález                 |
+| Sesilatel                                                    | Funguje jako dotyk                        |
+| Ostatní (Kužel , Stěna, Linie, Oblast kolem sesilatele atd..) | Vynález                                   |
+
 ### Extrakce
 
-asd
+Alchymista může strávit *1 směnu* extrakcí činidel z čerstvě mrtvých těl padlých nepřátel (nesmí být mrtví déle jak 1 směnu) nebo jiného vhodného materiálu. Tahle akce může probíhá automaticky po každém boji (pokud je na ni prostor). Množství získaného materiálu záleží na *úrovni nepřátel* a hodu na ověření Vzdělání. Pokud je zdroj extrakce nějakým způsobem vzácný či magický, množství získaných činidel je dvojnásobné.
 
-### Alchymie ==todo: přeformulovat==
-
-Mág disponuje schopností používat magii spadající do disciplíny *praktické magie*. To znamená, že mág umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
-
-- **Magie:** Mág disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Mágové mají díky své vazbě na magii zrychlenou regeneraci magie a to rychlostí *2+úroveň+Rozvaha* magie za odpočinek.
-- **Kouzla:** Mág začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé, když se mágovi zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Mág udrží v paměti maximálně *10+Vzdělání* kouzel. Mágové jsou však často vášniví sběratelé kouzel a tak si přebytečná kouzla zapisují do různých grimoárů, aby v nich mohly v případě nutnosti čerpat. Zapsané kouzlo lze pak v rámci aktivity trvající *1 směnu* zaměnit za kouzlo zapamatované.
-- **Učení se kouzel navíc:** Mág se může naučit další kouzla od různých mentorů, studováním magických svitků či dešifrování cizích grimoárů nebo magickým výzkumem.
-- **Magický výzkum:** Ve volné chvíli se mág může zabývat magickým výzkumem. Mágové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků). Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
-- **Jednoduchá kouzla:** Mág může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. Může se jednat o věci jako jsou: drobné vizuální efekty, slabá telekineze, přihřátí čaje, očištění předmětu či změna jeho barvy. Efektivně by však nemělo použití takového kouzla vézt k řešení nějakého problému.
-
-### Geniální vynález
-
-asd
+- **Kritický úspěch:** Množství získaných činidel je dvojnásobné.
+- **Úspěch:** Množství získaných činidel odpovídá *úrovni nepřítele / 2*
+- **Neúspěch:** Množství získaných činidel je poloviční.
+- **Kritický neúspěch:** Nepovedlo se získat žádná činidla.
 
 ### Rychlá alchymie (úroveň 3)
 
-asd
+Od 3. úrovně může alchymista vyrobit jednorázový alchymistický předmět jako *běžnou akci* během boje. Takto vyrobený předmět může ve stejném tahu použít jako *strategickou akci*. 
 
-### asd (úroveň 7)
+- **Nestabilita:** Předměty vzniklé rychlou alchymií musí být použity do konce alchymistova tahu jinak se zničí. Pokud má vyrobený předmět efekt s dobou trvání, doba trvání není delší než *1 směna*.
 
-Mág asd
+### Sériová výroba (úroveň 7)
+
+Pokaždé když alchymista vyrábí jednorázový magický předmět, a to i v rámci *rychlé alchymie*. Vyrobí 2 stejné předměty na místo jednoho. Tento druhý předmět je vyroben zcela zdarma.
+
+<img src="/assets/sep_line.png"/>
+
+## Základní alchymistické receptury
+
+- Lahvička alchymistické substance (Cena: 2)
+- Alchymistický šíp (Cena: 3)
+- Lahvička lektvaru magie (slabý) (Cena 4)
+- Lahvička protijedu (slabý) (Cena: 3)
+- Lahvička léčivého lektvaru (slabý) (Cena: 4)
+- Lahvička oleje (Cena: 2)
+- Svítivá tyč (Cena: 1)
+- Kouřová bomba (Cena: 2)
+- Jed I až V (Ceny: 3, 5, 10, 15, 20)
 
 <img src="/assets/sep_line.png"/>
 
@@ -78,7 +128,7 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 <img src="/assets/sep_line.png"/>
 
-### Malý společník
+### Malý společník (s regenty)
 
 **Požadavek:** -
 
@@ -90,4 +140,17 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 <img src="/assets/sep_line.png"/>
 
-asd
+- Život v kapse - Obětuj item slot za 1 regent / den
+- Bomb lobber - bonus k dostřelu a zásahu s bombami
+- Oběvení extra receptů.
+- Poison resistance
+- Energy resistance ? (Electric, fire, Acid, frost)
+- Kámen mudrců.
+- Dvojitá výroba (2 stejné předměty druhá half price)
+- Poison master jako lotr?
+- Risky identification. (Pokus se identifikovat lektvar drobným kontrolovaným srknutím, šance nebýt pod efektem lektvaru a zachovat lektvar?)
+- Nová forma: mutagen (permanentní efekt za ztrátu výdrže)
+- Dokonalý vynález (udělá z vynálezu permanentní předmět)
+- Vynález overcharge (Umožní overchargovat vynález za s rizikem zničení)
+- Substituce (substituovat peníze za regenty nějak ?)
+- Stabilizátor (předměty z rychlé alchymie vydrží 1 směnu)

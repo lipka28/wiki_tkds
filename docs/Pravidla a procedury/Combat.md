@@ -77,10 +77,10 @@
 !!! note "Minimální poškození"
     Úspěšný zásah vždy udělí aspoň 1 poškození. Pokud cíle není imunní nebo neodolalo celému obdrženému poškození.
 
-**Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *snížené poškození* (o statickou hodnotu), *imunitu* (žádné poškození), *slabost* (dvojnásobné poškození) nebo zvýšené poškození (o statickou hodnotu) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
+**Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *snížené poškození* (o statickou hodnotu), *imunitu* (žádné poškození), *slabost* (dvojnásobné poškození) nebo *zvýšené poškození* (o statickou hodnotu) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
 
 - **Fyzické:** A jeho varianty sečné, průrazné, tupé, jedové a krvácivé.
-- **Energetické a magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá ničivá energie)
+- **Energetické nebo magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá ničivá energie)
 - **Mentální:** Působí poškození pouze myslícím stvořením.
 - **Pozitivní a negativní:** Pozitivní ubližuje všemu nemrtvému či démonickému ale pro vše živé je neškodné nebo dokonce léčivé. Negativní funguje obráceně.
 

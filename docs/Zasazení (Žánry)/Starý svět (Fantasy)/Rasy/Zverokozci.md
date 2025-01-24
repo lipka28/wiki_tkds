@@ -50,7 +50,7 @@ asd
 | Medvědovité šelmy | Medvěd           |                 Síla, Výdrž                  |   7    |   3   | Přírodní zbraň (2k4+Síla)     |
 | Hlodavci          | Veverka, Krysa   |              Obratnost, Rozvaha              |   4    |   6   | Přírodní zbraň, Malý          |
 | Kopytníci         | Jelen, Koza, Kůň |                Síla, Rozvaha                 |   6    |   4   | Přírodní zbraň, Rychlost      |
-| Ještěři           | Agama, Chameleón |              Rozvaha, Vzdělání               |   5    |   5   | Obojživelník                  |
+| Ještěři           | Agama, Chameleón |              Rozvaha, Vzdělání               |   5    |   5   | Přírodní zbraň, Obojživelník  |
 | Ptáci             | Orel, Sova       | Síla nebo Obratnost a Osobnost nebo Vzdělání |   4    |   6   | Přírodní zbraň, Okřídlený     |
 
 ## Speciální vlastnosti

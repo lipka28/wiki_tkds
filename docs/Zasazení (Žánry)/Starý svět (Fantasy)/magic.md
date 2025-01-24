@@ -50,7 +50,6 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 - **Koncentrace** - Některá kouzla vyžadují koncentraci. Koncentrace nijak neomezuje fungování čaroděje ale pouze jedno kouzlo vyžadující koncentraci může být aktivní v jednu chvíli. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí.
 - **Přerušení kouzla** - Pokud čaroděj obdrží poškození během sesílání kouzla nebo koncentrace, musí uspět v *záchranném hodu na zdatnost* jinak je kouzlo či koncentrace ztracena. Pokud k přerušení dojde vy chvíli, kdy kouzelník udržuje koncentraci a zároveň sesílá kouzlo. Musí podstoupit záchranný hod za každou s aktivit.
 - **Záchranný hod** - Cíl naprosté většiny kouzel může podstoupit relevantní *záchranný hod*. Jaký záchranný hod je třeba hodit a jaké josu efekty různých stupňů úspěchu je napsáno v popisku kouzla.
-- **Hod na zásah dotykem:** Je speciální varianta hodu na zásah, která se může používat k sesílání některých kouzel. Funguje jako obyčejný neozbrojený hod na zásah modifikovaný *Obratností* na místo Síly. Cílem je pak trefit základní OČ soupeře (*10+Obratnost*). Bonusy za zbroje, štíty a podobnou výbavu se nepřičítají. PJ může dle vlastního uvážení však přičítat bonusy za ochranná kouzla nebo schopnosti pomáhající v uhýbání.
 
 <img src="/assets/sep_line.png"/>
 
@@ -136,7 +135,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 | Iluzorní podoba     | *3* / *5+* / *6*  | Umožní změnit podobu a hlas subjektu.                        |
 | Magická zbraň       | *4* / *8* / *12*  | Dočasně očaruje zbraň magickou mocí a zvýší tak její efektivnost. |
 | Mágova ruka         |     *2* / *4*     | Slabá telekineze jednoho předmětu.                           |
-| Mágova zbroj        |    4 / 8 / 12     | Brnění, které nic neváží.                                    |
+| Mágova zbroj        | *4* / *8* / *12*  | Brnění, které nic neváží.                                    |
 | Mastnota            |     *4* / *8*     | Pokryje oblast kluzkou mastnotou.                            |
 | Mrazivý kužel       |   *10* / *12+*    | Smršť ničivé mrazivé energie.                                |
 | Neviditelnost       | *5* / *7+* / *10* | Pokryje stvoření iluzí neviditelnosti.                       |
@@ -195,7 +194,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 | Duševní pouto       |     *2* / *4+*      | Umožní malé sdílení životů mezi propojenými cíli.            |
 | Iluzorní podoba     |  *3* / *5+* / *6*   | Umožní změnit podobu a hlas subjektu.                        |
 | Magická zbraň       |  *4* / *8* / *12*   | Dočasně očaruje zbraň magickou mocí a zvýší tak její efektivnost. |
-| Mágova zbroj        |     4 / 8 / 12      | Brnění, které nic neváží.                                    |
+| Mágova zbroj        |  *4* / *8* / *12*   | Brnění, které nic neváží.                                    |
 | Mluvení s mrtvými   | *10* / *15+* / *x2* | Umožní zeptat se mrtvého na pár otázek.                      |
 | Neviditelnost       |  *5* / *7+* / *10*  | Pokryje stvoření iluzí neviditelnosti.                       |
 | Neviditelný sluha   |      *4* / *7*      | Vyvolá neviditelného sluhu.                                  |
@@ -482,7 +481,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Dosah:** *Dotyk*; **Cíl:** *1* stvoření
 
-**Efekt:** Dotykem pozitivní energií vyléčí *1k8+1* životů žijícímu stvoření. Pokud je cílem stvoření, kterému pozitivní energie ubližuje, obdrží poškození dle výsledku jeho *záchranném hodu na zdatnost*. V boji může pokus o dotyk vyžadovat *hod na zásah dotykem*.
+**Efekt:** Dotykem pozitivní energií vyléčí *1k8+1* životů žijícímu stvoření. Pokud je cílem stvoření, kterému pozitivní energie ubližuje, obdrží poškození dle výsledku jeho *záchranném hodu na zdatnost*.
 
 - **Kritický úspěch:** Cíl neobdrží žádné poškození.
 - **Úspěch:** Cíl obdrží poloviční poškození.
@@ -607,7 +606,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 **Cena:** <img src="/assets/action.png" width="20"> *10* magie
 
-**Dosah:** *12-ti* metrový kužel
+**Dosah:** *10-ti* metrový kužel vycházející se sesilatele
 
 **Efekt:** Stvoření v zasažené oblasti jsou zpomalena a obdrží poškození v závislosti na jejich *záchranném hodu na úhyb*. 
 

@@ -41,7 +41,7 @@ Ověření reakce patrona funguje stejně jako *ověření Osobnosti* avšak vý
 
 **Získané Dovednosti:** *+1 Osobnost*
 
-**Trénované zbraně:** Základní zbraně
+**Trénované zbraně:** Jednoduché zbraně
 
 **Trénovaná brnění:** Žádné
 

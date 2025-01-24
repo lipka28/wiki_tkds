@@ -30,7 +30,7 @@
 
 **Získané Dovednosti:** *+1 Rozvaha*
 
-**Trénované zbraně:** Základní zbraně
+**Trénované zbraně:** Jednoduché zbraně
 
 **Trénovaná brnění:** Lehké
 

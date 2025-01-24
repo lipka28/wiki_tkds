@@ -81,8 +81,8 @@ Mimo běžně dostupných zbraní, tak jak jsou popsány níže. Si lze obstarat
 - **Držení (1R/1+R/2R):** Pro efektivní použití v boji mohou zbraně potřebovat různý počet volných ruk. Jsou zbraně co jsou jednoruční, takové lze kombinovat s jinými jednoručními zbraněmi a štítem. Jeden a půl ruční, které lze využít jak jako jednoruční tak obouruční zbraň a v neposlední řadě obouruční, většinou s větší kostkou poškození nebo dosahem. 1+R u střelné zbraně znamená, že zbraní lze zaútočit jednou rukou, ale k nabíjení jsou třeba obě ruce.
 - **Obratná (Ob):** Při útoku touto zbraní si lze vybrat zda bude hod na zásah modifikovaný silou nebo obratností. Nezávisle na výběru, poškození je stále modifikováno silou.
 - **Volná ruka:** Ruka, která drží takovou zbraň je považována za volnou.
-- **Hozené (H/DH):** Zbraně, které lze hodit na vzdálenost *5 / 10 metrů*. Ty označené "dh" umožňují hod na vzdálenost *10 / 20 metrů*. Hozené zbraně připočítávají *sílu* k hodu na zásah a poškození.
-- **Hod silou:** Střelná zbraň, která na místo rozvahy připočítává *sílu* k hodu na zásah.
+- **Hozené (H/DH):** Zbraně, které lze hodit na vzdálenost *5 / 10 metrů*. Ty označené "dh" umožňují hod na vzdálenost *10 / 20 metrů*. Hozené zbraně mohou připočítat *Sílu* k hodu na zásah a přičítají *Sílu* ke svému poškození.
+- **Hod silou:** Střelná zbraň, která může na místo rozvahy připočítává *sílu* k hodu na zásah nikoliv však k poškození.
 - **Nabíjecí zbraň (N):** Některé střelné zbraně, jako například kuše, mohou vyžadovat přebíjení. Přebití zbraně vyžaduje *strategickou akci*.
 - **Nesmrtící:** Za normálních okolností, útoky touto zbraní nemohou zabít, pouze omráčit.
 - **Dostřel:** Popisuje na jakou vzdálenost lze útočit střelnou zbraní. Obsahuje 2 hodnoty a to efektivní a neefektivní vzdálenost. Většinou střelných zbraní lze střílet i na neefektivní vzdálenost. Ten je vždy dvojnásobkem efektivního dostřelu (nebo dohodu) zbraně. Takový útok však probíhá *s postihem -4* na zásah. Střelnými zbraněmi nelze útočit na vzdálenost menší jak *2 metry*. Pokud jsou v dostřelu zbraně uvedeny 3 inkrementy vzdálenosti. V prvním inkrementu plat stejné postihy jako v tom posledním.
@@ -199,7 +199,7 @@ Mimo běžně dostupných zbraní, tak jak jsou popsány níže. Si lze obstarat
 | Název munice                                 | Skladnost |  Cena  |
 | -------------------------------------------- | :-------: | :----: |
 | Alchymistický šíp / šipka                    |     L     | 35 st  |
-| Kámen do praku -10 ks                        |     L     | Zdarma |
+| Kámen do praku - 10 ks                       |     L     | Zdarma |
 | Šipky do kuše - 10 ks                        |     L     |  1 st  |
 | Šípy do luku - 10 ks                         |     L     |  1 st  |
 | Munice ze stříbra nebo studené oceli - 10 ks |     L     | 20 zl  |
@@ -214,7 +214,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 | PŘEDMĚT                                                      |       Skladnost       |   CENA   |
 | :----------------------------------------------------------- | :-------------------: | :------: |
-| Alchymistické nástroje (10 použití)                          |           1           |  40 st   |
+| Alchymistické nástroje (10 použití)                          |           1           |  30 st   |
 | Cestovní výbava                                              |           1           |  10 st   |
 | Dalekohled                                                   |           1           |  20 zl   |
 | Dřevěná tyč - 3 metry                                        |           1           |   2 md   |
@@ -230,9 +230,9 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Křesadlo                                                     |           1           |   2 st   |
 | Křída (balík 10 ks)                                          |           1           |   3 md   |
 | Lahvička alchymistické substance                             |           L           |  30 st   |
-| Lahvička lektvaru magie (slabý)                              |           L           |  30 st   |
 | Lahvička léčivého lektvaru (slabý)                           |           L           |  30 st   |
 | Lahvička oleje                                               |           L           |   3 st   |
+| Lahvička protijedu (slabý)                                   |           L           |  30 st   |
 | Lahvička svěcené vody                                        |           L           |  20 st   |
 | Lahvička s korkovou zátkou                                   |           L           |   5 md   |
 | Lékárnička (10 použití)                                      |           1           |  50 st   |
@@ -274,7 +274,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Zvoneček                                                     |           L           |   1 st   |
 | A další... (Řekni PJ co potřebuješ)                          |          ??           |    ??    |
 
-**Alchymistické nástroje:** Sada skumavek, regentů a jiných nástrojů potřebných pro alchymisty a jejich bádání.
+**Alchymistické nástroje:** Sada zkumavek, stojánků a jiných nástrojů potřebných pro alchymii v praktickém cestovním balení.
 
 **Cestovní výbava:** Základní výbava pro cestování divočinou. Obsahuje věci jako stan, spacák, nádobí na přípravu jídla, mýdlo a měch na vodu.
 
@@ -300,16 +300,16 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 - *Bojové užití mráz:* Jako jednoduchá zbraň na dálku *Hození lektvaru*. Zasažený cíl obdrží *1k6 mrazivého poškození* a *stavový postih -2 k hybnosti* do konce svého příštího tahu.
 - *Bojové užití elektřina:* Jako jednoduchá zbraň na dálku *Hození lektvaru*. Zasažený cíl obdrží *1k6 elektrického poškození* a do začátku svého příštího tahu *nemůže používat reakce*.
 - *Kritický zásah:*  V případě kritického zásahu se násobí jen úvodní poškození, perzistentní poškození zůstává stejné.
-- *Granát:* Pokud byl hod na zásah neúspěšný, úspěšný nebo kriticky úspěšný. Všechna stvoření v okolí 1 metru kolem a včetně zasaženého cíle, obdrží 1 poškození předepsaného typu.
+- *Granát:* Pokud byl hod na zásah úspěšný nebo neúspěšný. Všechna stvoření v okolí 1 metru kolem a včetně zasaženého cíle, obdrží 1 poškození předepsaného typu.
 
 **Lahvička léčivého lektvaru (slabý):** Vypití vyléčí *1k8 životů*.
 
-**Lahvička lektvaru magie (slabý):** Vypití doplní *1k8* magie.
-
-**Lahvička oleje:** Lahvička plná kluzké a hořlavé substance. Vhodná pro boj, nebo jako palivo do lucerny na *4 hodiny* (24 směn) 
+**Lahvička oleje:** Lahvička plná kluzké a hořlavé substance. Vhodná pro boj, nebo jako palivo do lucerny na *4 hodiny* (24 směn).
 
 - *Bojové užití:* Lahvičku oleje lze zapálit a hodit. Ta pak funguje stejně jako Lahvička alchymistické substance (žíravina) až na to, že způsobené perzistentního poškození je ohnivé.
 - *Rozlitý olej:* Rozlitý olej hoří *1 směnu*.
+
+**Lahvička protijedu (slabý):** Vypití poskytuje předmětový bonus *+2* k záchranným hodům proti všem jedům. 
 
 **Lahvička svěcené vody:** Lahvička vody vysvěcená ve jménu šesti strážců.
 
@@ -394,8 +394,6 @@ Aplikace na zbraň trvá *1 směnu*. Jednou lahvičkou jedu lze pokrýt *1 zbra�
 | III  |  300 st  |     +0     |  1k2 kol  | 6k6 jedového poškození  |
 |  IV  |  800 st  |     -1     |   Ihned   | 8k6 jedového poškození  |
 |  V   | 1 300 st |     -2     |   Ihned   | 10k6 jedového poškození |
-
-*\*Platí jen při konzumaci*
 
 **Zach. mod.** - Modifikátor k záchrannému hodu oběti. 
 

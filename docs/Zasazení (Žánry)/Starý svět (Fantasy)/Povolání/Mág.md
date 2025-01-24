@@ -30,7 +30,7 @@
 
 **Získané Dovednosti:** *+1 Vzdělání*
 
-**Trénované zbraně:** Základní zbraně
+**Trénované zbraně:** Jednoduché zbraně
 
 **Trénovaná brnění:** Žádné
 
@@ -40,7 +40,7 @@
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
-- **Možné využití umu:** Teoretické znalosti všeho druhu přes historii až po monstra, vycítění a identifikace magie.
+- **Možné využití umu:** Teoretické znalosti všeho druhu od historie přes medicínu až po monstra, vycítění a identifikace magie.
 - **Magická specializace:** Tvůj um se nepřičítá k žádným tvým bojovým schopnostem.
 - **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 

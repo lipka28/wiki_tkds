@@ -34,7 +34,7 @@ Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šes
 
 **Získané Dovednosti:** *+1 Síla nebo Výdrž*
 
-**Trénované zbraně:** Všechny
+**Trénované zbraně:** Jednoduché a válečné zbraně
 
 **Trénovaná brnění:** Všechny včetně štítů
 
@@ -48,7 +48,7 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 - **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
 - **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
 
-### Přísaha
+### Přísaha ==todo: dodělat==
 
 asd
 

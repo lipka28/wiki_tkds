@@ -30,7 +30,7 @@
 
 **Získané Dovednosti:** *+1 Obratnost nebo Rozvaha*
 
-**Trénované zbraně:** Základní zbraně, všechny čistě jednoruční zbraně a všechny střelné zbraně ==todo: reword==
+**Trénované zbraně:** Jednoduché zbraně
 
 **Trénovaná brnění:** Lehké
 
@@ -148,3 +148,9 @@ Lotr se může, jako *běžnou akci*, pokusit aktivovat nebo dočasně vyřadit 
 - **Ověření:** Lotr podstoupí *ověření dovednosti Vzdělání*.
 - **Úspěch:** Jednorázová aktivace magického předmětu či mechanizmu nebo jeho vyřazení na *1 směnu*.
 - **Neúspěch:** O nový pokus se lze pokusit až další den.
+
+<img src="/assets/sep_line.png"/>
+
+### Přelsti magii
+
+Expertýza (double Úm při odemykýní zámků a zneškodňování pastí?)

@@ -28,7 +28,7 @@
 
 **Získané Dovednosti:** *+1 Síla nebo obratnost*
 
-**Trénované zbraně:** Základní zbraně
+**Trénované zbraně:** Jednoduché zbraně
 
 **Trénovaná brnění:** Žádné
 
