@@ -8,7 +8,7 @@ Zde se nachází obecné talenty, které při splnění podmínek, jsou k dispoz
 
 **Požadavek:** -
 
-**Efekt:** Postava, která je na tahu, může vypít lektvar jako *strategickou akci*.
+**Efekt:** Můžeš vypít lektvar jako *strategickou akci*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -43,7 +43,7 @@ Zde se nachází obecné talenty, které při splnění podmínek, jsou k dispoz
 
 **Požadavek:** -
 
-**Efekt:** Postava může použít lékárničku jako *běžnou akci* avšak *HU* je v takovém případě *16*.
+**Efekt:** Postava může použít lékárničku jako *běžnou akci* avšak *HU* je v takovém případě *20*.
 
 <img src="/assets/sep_line.png"/>
 

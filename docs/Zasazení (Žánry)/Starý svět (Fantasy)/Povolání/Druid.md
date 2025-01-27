@@ -12,19 +12,21 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |             Magie             | mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :--------------------------: | :---------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+8+Rozvaha |     +0     |  +1  |    Um, Cyklus života, Živelná magie, Za jedno s přírodou     |
-|   2    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +1     |  +1  |                      Talent, +1 Kouzlo                       |
-|   3    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +1     |  +1  |                       Přeměna ve zvíře                       |
-|   4    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +2     |  +2  |                      Talent, +1 Kouzlo                       |
-|   5    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +2     |  +2  |                      +1 Dovednostní bod                      |
-|   6    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +3     |  +2  |                      Talent, +1 Kouzlo                       |
-|   7    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +3     |  +3  |                     Kombinovaná přeměna                      |
-|   8    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +4     |  +3  |                      Talent, +1 Kouzlo                       |
-|   9    |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +4     |  +3  |                              -                               |
-|   10   |          +1k6+Výdrž          |         +1k8+Rozvaha          |     +5     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň), +1 Kouzlo (a každou další sudou úroveň) |
-|  11+   |              +1              |              +2               |     +5     |  +4  |                              -                               |
+| ÚROVEŇ |              HP              |             Magie             |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :---------------------------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+8+Rozvaha |  +2  |    Um, Cyklus života, Živelná magie, Za jedno s přírodou     |
+|   2    |          +1k6+Výdrž          |         +1k8+Rozvaha          |  +2  |                      Talent, +1 Kouzlo                       |
+|   3    |          +1k6+Výdrž          |         +1k8+Rozvaha          |  +2  |                       Přeměna ve zvíře                       |
+|   4    |          +1k6+Výdrž          |         +1k8+Rozvaha          |  +3  |                      Talent, +1 Kouzlo                       |
+|   5    |          +1k6+Výdrž          |         +1k8+Rozvaha          |  +3  |                      +1 Dovednostní bod                      |
+|   6    |          +1k6+Výdrž          |         +1k8+Rozvaha          |  +3  |                      Talent, +1 Kouzlo                       |
+|   7    |          +1k6+Výdrž          |         +1k8+Rozvaha          |  +4  |                     Kombinovaná přeměna                      |
+|   8    |          +1k6+Výdrž          |         +1k8+Rozvaha          |  +4  |                      Talent, +1 Kouzlo                       |
+|   9    |          +1k6+Výdrž          |         +1k8+Rozvaha          |  +4  |                              -                               |
+|   10   |          +1k6+Výdrž          |         +1k8+Rozvaha          |  +5  | +1 Dovednostní bod (a každou další 5. úroveň), Talent, +1 Kouzlo |
+|   11   |              +1              |              +2               |  +5  |                       ABILITY ==todo==                       |
+|   12   |              +1              |              +2               |  +5  | Talent (a každý další sudou úroveň), +1 Kouzlo (a každou další sudou úroveň) |
+|  13+   |              +1              |              +2               |  +6  |                              -                               |
 
 ## Schopnosti povolání
 
@@ -34,19 +36,18 @@
 
 **Trénovaná brnění:** Lehké
 
-**Bonusy k záchranným hodům:** +4 Vůle a +2 Reflexy
+**Bonusy k záchranným hodům:** +3 Zdatnost, +5 Reflexy a +4 Vůle
 
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
 - **Možné využití umu:** Aktivity spojené s přírodou a přežití v divočině, stopování, znalosti o přirozeně se vyskytujících mosntrech, vycítění magie a její identifikace.
-- **Magická specializace:** Tvůj um se nepřičítá k žádným tvým bojovým schopnostem.
-- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
+- **Bojové užití umu:** Tvůj um se připočítává k tvému hodu na zásah u zbraní se kterými si trénovaný a také ke všem tvým záchranným hodům.
 
 ### Cyklus života
 
-Druidova schopnost *přirozené regenerace* se liší od ostatních stvoření. Jeho životy a magie se doplňují v závislosti na tom, jaké je zrovna roční období a jak moc má druid přístup k přírodě. Druidova přirozená regenerace života odpovídá *2+úroveň druida+Výdrž* a magie *2+úroveň druida+Rozvaha*. Dále je však modifikována následovně:
+Druidova schopnost *přirozené regenerace* se liší od ostatních stvoření. Jeho životy a magie se doplňují v závislosti na tom, jaké je zrovna roční období a jak moc má druid přístup k přírodě. Druidova přirozená regenerace života odpovídá *2\*(Um+Výdrž)* a magie *2\*(Um+Rozvaha)*. Dále je však modifikována následovně:
 
 - **Jaro nebo místo živelné síly:** Regenerace je *dvojnásobná*. Jedná-li se o místo živelné síly stačí s ním přijít do kontaktu během daného dne.
 - **Léto:** Regenerace je *normální*.
@@ -81,6 +82,10 @@ Na 3. úrovni získává druid schopnost se *2x denně* proměnit do podoby libo
 ### Kombinovaná přeměna (úroveň 7)
 
 Druid může od 7. úrovně použít přeměnu ve zvíře jen na vybranou část svého těla. To mu umožňuje (dle přeměny) získat schopnosti proměny bez nutnosti ztratit schopnost mluvit, sesílat kouzla či používat předměty. Každá část těla přeměněná na rozlišené zvíře se počítá jako jedna přeměna. Například přeměna ruk na medvědí tlapy a uší na netopýří se počítá jako 2 přeměny.
+
+### Some Ability (Úroveň 11) ==todo==
+
+Od 3. úrovně m
 
 <img src="/assets/sep_line.png"/>
 

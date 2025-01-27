@@ -12,19 +12,21 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              | mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :--------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+8+Výdrž |     +0     |  +1  | Um, Boj se dvěma zbraněmi, Přepadení, Dobrá příprava, Talent |
-|   2    |          +1k8+Výdrž          |     +1     |  +1  |                            Talent                            |
-|   3    |          +1k8+Výdrž          |     +1     |  +1  |                         Obratný úhyb                         |
-|   4    |          +1k8+Výdrž          |     +3     |  +2  |                            Talent                            |
-|   5    |          +1k8+Výdrž          |     +3     |  +2  |                      +1 Dovednostní bod                      |
-|   6    |          +1k8+Výdrž          |     +4     |  +2  |                            Talent                            |
-|   7    |          +1k8+Výdrž          |     +4     |  +3  |                       Studnice štěstí                        |
-|   8    |          +1k8+Výdrž          |     +5     |  +3  |                            Talent                            |
-|   9    |          +1k8+Výdrž          |     +5     |  +3  |                              -                               |
-|   10   |          +1k8+Výdrž          |     +7     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň) |
-|  11+   |              +2              |     +7     |  +4  |                              -                               |
+| ÚROVEŇ |              HP              |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+8+Výdrž |  +2  | Um, Boj se dvěma zbraněmi, Přepadení, Dobrá příprava, Talent |
+|   2    |          +1k8+Výdrž          |  +2  |                            Talent                            |
+|   3    |          +1k8+Výdrž          |  +2  |                         Obratný úhyb                         |
+|   4    |          +1k8+Výdrž          |  +3  |                            Talent                            |
+|   5    |          +1k8+Výdrž          |  +3  |                      +1 Dovednostní bod                      |
+|   6    |          +1k8+Výdrž          |  +3  |                            Talent                            |
+|   7    |          +1k8+Výdrž          |  +4  |                       Studnice štěstí                        |
+|   8    |          +1k8+Výdrž          |  +4  |                            Talent                            |
+|   9    |          +1k8+Výdrž          |  +4  |                              -                               |
+|   10   |          +1k8+Výdrž          |  +5  |    +1 Dovednostní bod (a každou další 5. úroveň), Talent     |
+|   11   |              +2              |  +5  |                       Ability ==todo==                       |
+|   12   |              +2              |  +5  |             Talent (a každý další sudou úroveň)              |
+|  13+   |              +2              |  +6  |                              -                               |
 
 ## Schopnosti povolání
 
@@ -34,15 +36,14 @@
 
 **Trénovaná brnění:** Lehké
 
-**Bonusy k záchranným hodům:** +4 Reflexy a +2 Zdatnost
+**Bonusy k záchranným hodům:** +3 Zdatnost, +6 Reflexy a +3 Vůle
 
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
 - **Možné využití umu:** Různé akrobatické kousky, odemykání zámků a zneškodňování pastí, kradení, lhaní.
-- **Hybridní specializace:** Polovina tvého umu se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
-- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
+- **Bojové užití umu:** Tvůj um se připočítává k tvému hodu na zásah u zbraní se kterými si trénovaný a také ke všem tvým záchranným hodům.
 
 ### Boj se dvěma zbraněmi
 
@@ -70,7 +71,11 @@ Lotr si může v civilizaci koupit libovolný počet *balíků neznámého obsah
 
 Pokud je lotr cílem útoku nebo efektu vyžadující *záchranný hod na reflexy*, může si jako *reakci* připočítat jednorázový situační bonus ve výši své *obratnosti* do *OČ* nebo *záchranného hodu*. Tento bonus je jen na útok, který spustil tuto reakci.
 
-### Studnice štěstí (úroveň 7)
+### ASD (úroveň 7) ==todo==
+
+Lasd
+
+### Studnice štěstí (Úroveň 11) ==todo==
 
 Lotr disponuje *21 body štěstí*, které může použít k úpravě svých hodů nebo hodů, které se ho týkají.
 

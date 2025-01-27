@@ -12,19 +12,21 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              | Mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :--------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+8+Výdrž |     +1     |  +1  | Um, Kořist, Za jedno s přírodou, Samotář nebo Věrný společník, Talent |
-|   2    |          +1k8+Výdrž          |     +2     |  +1  |                            Talent                            |
-|   3    |          +1k8+Výdrž          |     +2     |  +1  |                      Přírodní medicína                       |
-|   4    |          +1k8+Výdrž          |     +4     |  +2  |                            Talent                            |
-|   5    |          +1k8+Výdrž          |     +4     |  +2  |                      +1 Dovednostní bod                      |
-|   6    |          +1k8+Výdrž          |     +5     |  +2  |                            Talent                            |
-|   7    |          +1k8+Výdrž          |     +6     |  +3  |                    Mistrovská ostražitost                    |
-|   8    |          +1k8+Výdrž          |     +7     |  +3  |                            Talent                            |
-|   9    |          +1k8+Výdrž          |     +7     |  +3  |                              -                               |
-|   10   |          +1k8+Výdrž          |     +9     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň) |
-|  11+   |              +2              |     +9     |  +4  |                              -                               |
+| ÚROVEŇ |              HP              |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+8+Výdrž |  +2  | Um, Kořist, Za jedno s přírodou, Samotář nebo Věrný společník, Talent |
+|   2    |          +1k8+Výdrž          |  +2  |                            Talent                            |
+|   3    |          +1k8+Výdrž          |  +2  |                      Přírodní medicína                       |
+|   4    |          +1k8+Výdrž          |  +3  |                            Talent                            |
+|   5    |          +1k8+Výdrž          |  +3  |                      +1 Dovednostní bod                      |
+|   6    |          +1k8+Výdrž          |  +3  |                            Talent                            |
+|   7    |          +1k8+Výdrž          |  +4  |                    Mistrovská ostražitost                    |
+|   8    |          +1k8+Výdrž          |  +4  |                            Talent                            |
+|   9    |          +1k8+Výdrž          |  +4  |                              -                               |
+|   10   |          +1k8+Výdrž          |  +5  |    +1 Dovednostní bod (a každou další 5. úroveň), Talent     |
+|   11   |              +2              |  +5  |                       ABILITY ==todo==                       |
+|   12   |              +2              |  +5  |             Talent (a každý další sudou úroveň)              |
+|  13+   |              +2              |  +6  |                              -                               |
 
 ## Schopnosti povolání
 
@@ -34,15 +36,14 @@
 
 **Trénovaná brnění:** Lehké a střední zbroje
 
-**Bonusy k záchranným hodům:** +4 Reflexy a +2 Vůle
+**Bonusy k záchranným hodům:** +4 Zdatnost, +6 Reflexy a +2 Vůle
 
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
 - **Možné využití umu:** Aktivity spojené s přírodou a přežití v divočině, stopování, oprava zbraní a výzbroje, znalosti o přirozeně se vyskytujících mosntrech.
-- **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
-- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
+- **Bojové užití umu:** Tvůj um se připočítává k tvému hodu na zásah u zbraní se kterými si trénovaný a také ke všem tvým záchranným hodům.
 
 ### Kořist
 
@@ -84,9 +85,13 @@ Hraničář má od 3. úrovně dostatek znalostí bylin na to, aby si při cesto
 - **Omezení:** Hraničář může nasbírat kolik svazků bylin chce avšak jejich účinnost trvá jen po zbytek dne.
 - **Horší podmínky:** V horších podmínkách jako je třeba poušť či zmrzlé pláně nemusí být obstarání bylin možné nebo vyžaduje *ověření dovednost Rozvaha* s adekvátními postihy pro malé množství bylin. Většinou nelze použít v kobkách.
 
-### Mistrovská ostražitost (Úroveň 7)
+### ASD (Úroveň 7) ==todo==
 
-Dojde-li na tasení zbraní či překvapení, hraničář 7. nebo vyšší úrovně je vždy první na řadě (extra tah před hodem samotným). Hraničář může tohle kolo obětovat pro varování svých spojenců a tím automaticky vyhrát iniciativu pro svou skupinu.
+asd
+
+### Mistrovská ostražitost (Úroveň 11)
+
+Dojde-li na tasení zbraní či překvapení, hraničář 11. nebo vyšší úrovně je vždy první na řadě (extra tah před hodem samotným). Hraničář může tohle kolo obětovat pro varování svých spojenců a tím automaticky vyhrát iniciativu pro svou skupinu.
 
 - **Nepřátelský hraničář:** Pokud se v nepřátelské skupině nachází hraničář se stejnou schopností. Oba hraničáři podstoupí osobní hod na tasení zbraní (modifikovaný rozvahou). Ten, který vyhraje má možnost využití této schopnosti.
 

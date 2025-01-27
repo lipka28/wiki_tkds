@@ -12,19 +12,21 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |             Magie              | Mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :--------------------------: | :----------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+10+Rozvaha |     +0     |  +1  |  Um, Praktická magie, Magická střela, Krystalizovaná magie   |
-|   2    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +1     |  +1  |                      Talent, +1 Kouzlo                       |
-|   3    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +1     |  +1  |                       Nebezpečný dluh                        |
-|   4    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +2     |  +2  |                      Talent, +1 Kouzlo                       |
-|   5    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +2     |  +2  |                      +1 Dovednostní bod                      |
-|   6    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +3     |  +2  |                      Talent, +1 Kouzlo                       |
-|   7    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +3     |  +3  |                         Proti-kouzlo                         |
-|   8    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +4     |  +3  |                      Talent, +1 Kouzlo                       |
-|   9    |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +4     |  +3  |                              -                               |
-|   10   |          +1k6+Výdrž          |         +1k10+Rozvaha          |     +5     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň), +1 Kouzlo (a každou další sudou úroveň) |
-|  11+   |              +1              |               +3               |     +5     |  +4  |                              -                               |
+| ÚROVEŇ |              HP              |             Magie              |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :----------------------------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+10+Rozvaha |  +2  |  Um, Praktická magie, Magická střela, Krystalizovaná magie   |
+|   2    |          +1k6+Výdrž          |         +1k10+Rozvaha          |  +2  |                      Talent, +1 Kouzlo                       |
+|   3    |          +1k6+Výdrž          |         +1k10+Rozvaha          |  +2  |                       Nebezpečný dluh                        |
+|   4    |          +1k6+Výdrž          |         +1k10+Rozvaha          |  +3  |                      Talent, +1 Kouzlo                       |
+|   5    |          +1k6+Výdrž          |         +1k10+Rozvaha          |  +3  |                      +1 Dovednostní bod                      |
+|   6    |          +1k6+Výdrž          |         +1k10+Rozvaha          |  +3  |                      Talent, +1 Kouzlo                       |
+|   7    |          +1k6+Výdrž          |         +1k10+Rozvaha          |  +4  |                         Proti-kouzlo                         |
+|   8    |          +1k6+Výdrž          |         +1k10+Rozvaha          |  +4  |                      Talent, +1 Kouzlo                       |
+|   9    |          +1k6+Výdrž          |         +1k10+Rozvaha          |  +4  |                              -                               |
+|   10   |          +1k6+Výdrž          |         +1k10+Rozvaha          |  +5  | +1 Dovednostní bod (a každou další 5. úroveň), Talent, +1 Kouzlo |
+|   11   |              +1              |               +3               |  +5  |                       ABILITY ==todo==                       |
+|   12   |              +1              |               +3               |  +5  | Talent (a každý další sudou úroveň), +1 Kouzlo (a každou další sudou úroveň) |
+|  13+   |              +1              |               +3               |  +6  |                              -                               |
 
 ## Schopnosti povolání
 
@@ -34,21 +36,20 @@
 
 **Trénovaná brnění:** Žádné
 
-**Bonusy k záchranným hodům:** +4 Vůle a +2 Zdatnost
+**Bonusy k záchranným hodům:** +4 Zdatnost, +2 Reflexy a +6 Vůle
 
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
 - **Možné využití umu:** Teoretické znalosti všeho druhu od historie přes medicínu až po monstra, vycítění a identifikace magie.
-- **Magická specializace:** Tvůj um se nepřičítá k žádným tvým bojovým schopnostem.
-- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
+- **Bojové užití umu:** Tvůj um se připočítává k tvému hodu na zásah u zbraní se kterými si trénovaný a také ke všem tvým záchranným hodům.
 
 ### Praktická magie
 
 Mág disponuje schopností používat magii spadající do disciplíny *praktické magie*. To znamená, že mág umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
 
-- **Magie:** Mág disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Mágové mají díky své vazbě na magii zrychlenou regeneraci magie a to rychlostí *2+úroveň+Rozvaha* magie za odpočinek.
+- **Magie:** Mág disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Mágové mají díky své vazbě na magii zrychlenou regeneraci magie a to rychlostí *2\*(Um+Rozvaha)* magie za odpočinek.
 - **Kouzla:** Mág začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé, když se mágovi zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Mág udrží v paměti maximálně *10+Vzdělání* kouzel. Mágové jsou však často vášniví sběratelé kouzel a tak si přebytečná kouzla zapisují do různých grimoárů, aby v nich mohly v případě nutnosti čerpat. Zapsané kouzlo lze pak v rámci aktivity trvající *1 směnu* zaměnit za kouzlo zapamatované.
 - **Učení se kouzel navíc:** Mág se může naučit další kouzla od různých mentorů, studováním magických svitků či dešifrování cizích grimoárů nebo magickým výzkumem.
 - **Magický výzkum:** Ve volné chvíli se mág může zabývat magickým výzkumem. Mágové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků). Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
@@ -73,9 +74,13 @@ Pokud mág nemá dostatek magie, aby seslal kouzlo. Může jako *volnou akci* sp
 - **Konverze:** Každý spálený dovednostní bod dodá mágovy *3* body magie.
 - **Zahojení:** Spálené dovednostní body se hojí rychlostí *1 za den*. Pokud bylo spáleno více různých dovednostních bodů, jejich priorita léčení je následující: *Osobnost*, *Rozvaha*, *Vzdělání*, *Výdrž*, *Obratnost*, *Síla*.
 
-### Proti-kouzlo (úroveň 7)
+### Some Ability (Úroveň 7) ==todo==
 
-Mág se může od 7. úrovně pokusit vyrušit sesílání kouzla někoho jiného. Pokud mág vidí sesílání kouzla, může použít svou *reakci* a provést *ověření dovednosti Rozum*. Hranice úspěchu je *10+rozdíl úrovní mezi mágem a cílem proti-kouzla* (minimum 10). Pokud je soupeř hybridní nebo bojové specializace, rozdíl úrovní je poloviční.
+Od 3. úrovně m
+
+### Proti-kouzlo (úroveň 11)
+
+Mág se může od 1. úrovně pokusit vyrušit sesílání kouzla někoho jiného. Pokud mág vidí sesílání kouzla, může použít svou *reakci* a provést *ověření dovednosti Rozum*. Hranice úspěchu je *10+rozdíl úrovní mezi mágem a cílem proti-kouzla* (minimum 10). Pokud je soupeř hybridní nebo bojové specializace, rozdíl úrovní je poloviční.
 
 - **Úspěch:** Mág a protivník oba zaplatí plnou cenu sesílaného kouzla a kouzlo se vyruší.
 - **NAT 20:** Pokud na ověřovací kostce padne *20*, je efekt stejný jako úspěch ale kouzlo se sešle jako odražené. Mág odrazující kouzlo může vybrat kdo nebo co je jeho cílem.

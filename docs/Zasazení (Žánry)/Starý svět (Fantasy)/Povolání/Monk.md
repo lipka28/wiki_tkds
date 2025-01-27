@@ -10,37 +10,38 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP               | Mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :---------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+10+Výdrž |     +1     |  +1  |  Um, Bojové umění, Bojové styly: Styl kudlanky, Či, Talent   |
-|   2    |          +1k10+Výdrž          |     +2     |  +1  |                            Talent                            |
-|   3    |          +1k10+Výdrž          |     +2     |  +1  |                        Mystické údery                        |
-|   4    |          +1k10+Výdrž          |     +4     |  +2  |                            Talent                            |
-|   5    |          +1k10+Výdrž          |     +4     |  +2  |                      +1 Dovednostní bod                      |
-|   6    |          +1k10+Výdrž          |     +5     |  +2  |                            Talent                            |
-|   7    |          +1k10+Výdrž          |     +6     |  +3  |                    Neuvěřitelná technika                     |
-|   8    |          +1k10+Výdrž          |     +7     |  +3  |                            Talent                            |
-|   9    |          +1k10+Výdrž          |     +7     |  +3  |                              -                               |
-|   10   |          +1k10+Výdrž          |     +9     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň) |
-|  11+   |              +3               |     +9     |  +4  |                              -                               |
+| ÚROVEŇ |              HP               |  Um  |                          Odemyká                          |
+| :----: | :---------------------------: | :--: | :-------------------------------------------------------: |
+|   1    | Základní životy rasy+10+Výdrž |  +2  | Um, Bojové umění, Bojové styly: Styl kudlanky, Či, Talent |
+|   2    |          +1k10+Výdrž          |  +2  |                          Talent                           |
+|   3    |          +1k10+Výdrž          |  +2  |                      Mystické údery                       |
+|   4    |          +1k10+Výdrž          |  +3  |                          Talent                           |
+|   5    |          +1k10+Výdrž          |  +3  |                    +1 Dovednostní bod                     |
+|   6    |          +1k10+Výdrž          |  +3  |                          Talent                           |
+|   7    |          +1k10+Výdrž          |  +4  |                   Neuvěřitelná technika                   |
+|   8    |          +1k10+Výdrž          |  +4  |                          Talent                           |
+|   9    |          +1k10+Výdrž          |  +4  |                             -                             |
+|   10   |          +1k10+Výdrž          |  +5  |   +1 Dovednostní bod (a každou další 5. úroveň), Talent   |
+|   11   |              +3               |  +5  |                     ABILITY ==todo==                      |
+|   12   |              +3               |  +5  |            Talent (a každý další sudou úroveň)            |
+|  13+   |              +3               |  +6  |                             -                             |
 
 ## Schopnosti specializace
 
-**Získané Dovednosti:** *+1 Síla nebo obratnost*
+**Získané Dovednosti:** *+1 Síla nebo Obratnost*
 
 **Trénované zbraně:** Jednoduché zbraně
 
 **Trénovaná brnění:** Žádné
 
-**Bonusy k záchranným hodům:** +4 Reflexy a +2 Vůle
+**Bonusy k záchranným hodům:** +3 Zdatnost, +6 Reflexy a +3 Vůle
 
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
 - **Možné využití umu:** Znalosti spojené s dalekými zeměmi východu, akrobatické kousky, jakákoliv aplikace hrubé síly, vycítění a magie.
-- **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
-- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
+- **Bojové užití umu:** Tvůj um se připočítává k tvému hodu na zásah u zbraní se kterými si trénovaný a také ke všem tvým záchranným hodům.
 
 ### Bojové umění
 
@@ -69,6 +70,10 @@ Kostka poškození všech tvých neozbrojených útoků se zvedne o *1* stupeň 
 ### Neuvěřitelná technika (Úroveň 7)
 
 Mnich, který selže v záchranném hodu nebo je zasažen útokem nepřítele. Může použít svou *reakci* a vynutit tak opakování hodu. Platí výsledek, který je prospěšnější pro mnicha.
+
+### ASD (Úroveň 11) ==todo==
+
+2 reakce would be nice
 
 <img src="/assets/sep_line.png"/>
 

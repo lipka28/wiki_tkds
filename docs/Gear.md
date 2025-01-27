@@ -53,7 +53,7 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 | Půl plát s kyrysem              |     Těžká      |  +6  |       +1       |        +3         |     1     |  180 st  |
 | Plná plátová zbroj na míru      |     Těžká      |  +7  |       0        |        +4         |     1     |  300 st  |
 | Štít                            |      Štít      |  +2  |       -        |        +1         |     1     |  20 st   |
-| Zvířecí brnění                  | Zvířecí brnění |  +2  |       -        |                   |     1     |  25 st   |
+| Zvířecí brnění                  | Zvířecí brnění |  +2  |       -        |         -         |     1     |  25 st   |
 
 **Maximální obratnost:** Obratnost jedince je snížena na maximální hodnotu povolenou jeho nošenou zbrojí po dobu, co má zbroj na sobě.
 

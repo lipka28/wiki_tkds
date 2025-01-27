@@ -57,7 +57,7 @@ asd
 
 Poddruhy mají přiděleny některé z následujících speciálních vlastností.
 
-- **Citlivý čich** - Máš extrémně citlivý čich. To má stejný efekt jako by si viděl na vzdálenost *12 metrů* nezávisle na viditelnosti či překážkách v cestě. Na druhou stranu máš však nevýhodu na záchranné hody proti efektům využívající pachy.
+- **Citlivý čich** - Máš extrémně citlivý čich. To má stejný efekt jako by si viděl na vzdálenost *12 metrů* nezávisle na viditelnosti či překážkách v cestě. Na druhou stranu máš však *situační postih -4* na všechny záchranné hody proti efektům způsobeným pachy.
 - **Kamufláž** - Můžeš strávit *1 směnu* maskováním se do okolního prostředí a tím se stát pro zraky nepřátel efektivně neviditelný dokud se nepohneš.
 - **Malý** - Jsi malého vzrůstu a protáhneš se i na místa kam se běžný člověk nedostane. Máš také situační bonus +1 k OČ proti střelným útokům a útokům na blízku od velkých stvoření.
 - **Obojživelník** - Umíš plavat stejnou rychlostí jako je tvá hybnost na souši. Navíc dokážeš získávat malé množství kyslíku z vody, to ti umožňuje být pod vodou až 1 hodinu bez nutnosti nadechnutí.

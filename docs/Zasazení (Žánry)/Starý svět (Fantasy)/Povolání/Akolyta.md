@@ -12,19 +12,21 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |             Přízeň             | Mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :--------------------------: | :----------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+8+Osobnost |     +0     |  +1  |             Um, Patron, Patronská magie, Podpora             |
-|   2    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +1     |  +1  |                      Talent, +1 Kouzlo                       |
-|   3    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +1     |  +1  |                           Spojení                            |
-|   4    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +2     |  +2  |                      Talent, +1 Kouzlo                       |
-|   5    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +2     |  +2  |                      +1 Dovednostní bod                      |
-|   6    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +3     |  +2  |                      Talent, +1 Kouzlo                       |
-|   7    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +3     |  +3  |                       Zázračný rituál                        |
-|   8    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +4     |  +3  |                      Talent, +1 Kouzlo                       |
-|   9    |          +1k6+Výdrž          |         +1k8+Osobnost          |     +4     |  +3  |                              -                               |
-|   10   |          +1k6+Výdrž          |         +1k8+Osobnost          |     +5     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň), +1 Kouzlo (a každou další sudou úroveň) |
-|  11+   |              +1              |               +2               |     +5     |  +4  |                              -                               |
+| ÚROVEŇ |              HP              |             Přízeň             |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :----------------------------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+8+Osobnost |  +2  |             Um, Patron, Patronská magie, Podpora             |
+|   2    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +2  |                      Talent, +1 Kouzlo                       |
+|   3    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +2  |                           Spojení                            |
+|   4    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +3  |                      Talent, +1 Kouzlo                       |
+|   5    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +3  |                      +1 Dovednostní bod                      |
+|   6    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +3  |                      Talent, +1 Kouzlo                       |
+|   7    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +4  |                       Zázračný rituál                        |
+|   8    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +4  |                      Talent, +1 Kouzlo                       |
+|   9    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +4  |                              -                               |
+|   10   |          +1k6+Výdrž          |         +1k8+Osobnost          |  +5  |    +1 Dovednostní bod (a každou další 5. úroveň), Talent     |
+|   11   |              +1              |               +2               |  +5  |                        Výjimečný dar                         |
+|   12   |              +1              |               +2               |  +5  | Talent (a každý další sudou úroveň), +1 Kouzlo (a každý další sudou úroveň) |
+|  13+   |              +1              |               +2               |  +6  |                              -                               |
 
 ## Tabulka reakcí patrona
 
@@ -45,7 +47,7 @@ Ověření reakce patrona funguje stejně jako *ověření Osobnosti* avšak vý
 
 **Trénovaná brnění:** Žádné
 
-**Bonusy k záchranným hodům:** +3 Vůle a +3 Zdatnost
+**Bonusy k záchranným hodům:** +4 Zdatnost, +2 Reflexy a +6 Vůle
 
 **Extra výbava:** Symbol patrona (L slot)
 
@@ -54,16 +56,15 @@ Ověření reakce patrona funguje stejně jako *ověření Osobnosti* avšak vý
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
 - **Možné využití umu:** Znalosti spojené s náboženstvím a jejich obřady, aktivity spojené s uctívaným patronem (například léčení u Juny), znalosti okultních a mystických bytostí, vycítění a identifikace magie.
-- **Magická specializace:** Tvůj um se nepřičítá k žádným tvým bojovým schopnostem.
-- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
+- **Bojové užití umu:** Tvůj um se připočítává k tvému hodu na zásah u zbraní se kterými si trénovaný a také ke všem tvým záchranným hodům.
 
-### Patron
+### Pakt
 
-Každá akolyta musí mít svého patrona, který ji poskytuje svou moc. V první řadě si vytvoř patrona ==todo odkaz==. Patron může mít v kampani výraznou roli, zadávat akolytě úkoly, pomáhat jí, mít sní neshody a nebo může fungovat jen jako nepodstatný zdroj kouzel pro akolytu. Jak moc bude Patron v kampani zapojen záleží na domluvě s PJ. Minimálně však patron poskytuje symbol, který je třeba k používání akolytiných schopností, magickou disciplínu a nějaké přikázání, zákazy a pokání pro řešení nelibosti patrona.
+Každá akolyta má uzavřený pakte se svým patronem. Tento pakt ji poskytuje její moc. V první řadě si vytvoř patrona ==todo odkaz==. Patron může mít v kampani výraznou roli, zadávat akolytě úkoly, pomáhat jí, mít sní neshody a nebo může fungovat jen jako nepodstatný zdroj kouzel pro akolytu. Jak moc bude Patron v kampani zapojen záleží na domluvě s PJ. Minimálně však patron poskytuje symbol, který je třeba k používání akolytiných schopností, magickou disciplínu a nějaké přikázání, zákazy a pokání pro řešení nelibosti patrona.
 
-- **Nadpřirozená regenerace:** Tak dlouho dokud je akolyta v přízni patrona její regenerace přízně odpovídá *2+Úroveň+Osobnost* a regenerace života *2+Úroveň+Výdrž* za odpočinek.
+- **Nadpřirozená regenerace:** Tak dlouho dokud je akolyta v přízni svého patrona její regenerace *přízně a života* odpovídá *2\*(Um+Osobnost)*.
 - **Nepřízeň patrona:** Pokud akolyta není v přízni patrona ztrácí všechny své výjimečné schopnosti mimo ovládání magie a sesílání základních forem kouzel. Pro návrat do přízně musí podstoupit pokání.
-- **Ztráta symbolu:** Stejný efekt jako nepřízeň patrona. Před koupí nového symbolu je třeba podstoupit pokání.
+- **Ztráta symbolu:** Stejný efekt jako nepřízeň patrona. Po koupi nového symbolu je třeba podstoupit pokání.
 
 ### Patronská magie
 
@@ -82,7 +83,7 @@ Akolyta umí kouzlo *Podpora* ==todo: odkaz==, tohle kouzlo se nepočítá vůč
 
 ### Spojení (Úroveň 3)
 
-Od 4. úrovně může akolyta strávit *1 směnu* meditací a pokusit se navázat spojení se svým patronem. Pokus o navázání spojení stojí *6 přízně*. Akolyta může na konci své meditace položit *1 otázku* svému patronovi a hodit si na *ověření reakce patrona* ten dle [reakce na spojení](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-reakci-patrona) odpoví. Položení další otázky stojí další přízeň a vyžaduje další směnu meditace.
+Od 3. úrovně může akolyta strávit *1 směnu* meditací a pokusit se navázat spojení se svým patronem. Pokus o navázání spojení stojí *6 přízně*. Akolyta může na konci své meditace položit *1 otázku* svému patronovi a hodit si na *ověření reakce patrona* ten dle [reakce na spojení](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-reakci-patrona) odpoví. Položení další otázky stojí další přízeň a vyžaduje další směnu meditace.
 
 - **Pravdivost odpovědi:** Většina patronů odpovídá pravdivě (například Juna) avšak někteří patroni mohou odpovídat čistě dle vlastních zájmů.
 
@@ -93,6 +94,10 @@ Od 7. úrovně může akolyta strávit *1 hodinu* prováděním zázračného ri
 - **Cena:** Pj určí zda se jedná o *malý zázrak*, *zázrak* a nebo *velký zázrak*, a na základě toho určí cenu přízně jako *5*, *15* nebo *30*.
 - **Výsledek:** Efekt rituálu rozhodne PJ dle *ověření reakce patrona* dle [tabulky reakcí patrona](/Zasazení%20%28Žánry%29/Starý%20svět%20%28Fantasy%29/Povolání/Akolyta/#tabulka-reakci-patrona).
 - **Neúspěch:** Pokud akolyta neuspěje zaplatí polovinu ceny rituálu a rituál selže.
+
+### Výjimečný dar (Úroveň 11)
+
+Na 11. úrovni obdrží akolyta za svou oddanou službu svému patronovi výjimečný dar. Domluv se s PJ jaký dar akolyta obdrží. Může se jednat o věci jako mocný magický předmět, náhlé bohatství nebo nová aktivní či pasivní schopnost. Fantazii se meze nekladou. Je však dobré aby získaný dar odpovídal podstatě patrona.
 
 <img src="/assets/sep_line.png"/>
 

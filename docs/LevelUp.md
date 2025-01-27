@@ -12,14 +12,11 @@ Zkušenosti, společně s úrovní, jsou hlavní reprezentací rozvoje postavy.
 
 ### Získávání zkušeností
 
-Zkušenosti jsou postavám přiděleny na základě aktivit ve hře. Většinou v rozsahu *1 - 3 zk* za aktivitu. Zkušenosti jsou, až na výjimky, vždy přiděleny až na konci daného sezení. Příklady takových aktivit jsou: 
+Zkušenosti jsou postavám přiděleny na základě aktivit ve hře. Většinou v rozsahu *5 - 20 zk* za aktivitu. Zkušenosti jsou, až na výjimky, vždy přiděleny až na konci daného sezení. Příklady takových aktivit jsou: 
 
-- *1 zk* -  objevení zajímavé lokace, vyřešení hádanky, vyřešení jednoduchého setkání; potyčka adekvátní obtížnosti (úrovně stran jsou vyrovnány) a podobně
-- *2 zk* - získání magického předmětu; dokončení úkolu; obtížný souboj (úroveň skupiny nepřátel > úroveň postav)
-- *3+ zk* - dokončení rozsáhlého úkolu; souboj s velmi silným monstrem (úroveň skupiny nepřátel >>> úroveň postav)
-
-!!! note "Získáváme málo zkušeností!"
-	Pokud hráčům přijde, že získávají zkušenosti moc pomalu, měli by se podívat na možnost proměnit své [zlato na zkušenosti](https://osr.tkds.cz/Pravidla%20a%20procedury/Downtime/#hyreni-promena-zlata-za-zkusenosti).
+- *5 zk* -  objevení zajímavé lokace, vyřešení hádanky, vyřešení jednoduchého setkání; potyčka adekvátní obtížnosti (úrovně stran jsou přibližně vyrovnány) a podobně
+- *10 zk* - získání klíčového předmětu; dokončení úkolu; obtížný souboj (úroveň skupiny nepřátel > úroveň postav)
+- *15+ zk* - dokončení rozsáhlého úkolu; souboj s velmi silným monstrem (úroveň skupiny nepřátel >>> úroveň postav)
 
 **Dělení zkušeností:** Zkušenosti se nedělí. Každý člen výpravy obdrží plný rozsah získaných zkušeností ze sezeních na kterých se účastnil.
 
@@ -29,27 +26,8 @@ Zkušenosti jsou postavám přiděleny na základě aktivit ve hře. Většinou 
 
 ### Dosažení nové úrovně 
 
-Když postava získá dostatečné množství zkušeností, aby dosáhla na novou úroveň ve svém povolání, zvýší se její úroveň. To většinou obnáší minimálně *hod na životy* a někdy i extra *dovednostní bod*.
+Když hráčova postava získá *100 zkušenostních bodů*, zvýší se její úroveň. To většinou obnáší minimálně *hod na životy* a postup ve své specializaci.
 
 - **Hod na životy:** Hráč si může vybrat, zda si chce na zvýšení svých životů hodit, nebo si vezme polovinu maxima (např. 1k6 -> 3). Hráč si musí své rozhodnutí dobře rozmyslet, jelikož mu nebudou umožněno si opravit nízký hod.
-- **Dovednostní bod:** Každou *3.* úroveň obdrží postava *1 dovednostní bod*.
-
-<img src="/assets/sep_line.png"/>
-
-## Tabulka postupu na další úroveň
-
-| ÚROVEŇ | Potřebné zkušenosti |
-| :----: | :-----------------: |
-|   1    |          -          |
-|   2    |         15          |
-|   3    |         35          |
-|   4    |         70          |
-|   5    |         120         |
-|   6    |         210         |
-|   7    |         380         |
-|   8    |         730         |
-|   9    |        1300         |
-|   10   |        2300         |
-|  11+   |        +1000        |
 
 <img src="/assets/sep_line.png"/>

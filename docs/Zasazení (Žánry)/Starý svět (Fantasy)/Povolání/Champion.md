@@ -16,19 +16,21 @@ Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šes
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP               |             Magie             | Mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :---------------------------: | :---------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+10+Výdrž | Základní magie rasy+6+Rozvaha |     +1     |  +1  | Um, Přísaha, Magie ochránců, Blokování štítem, Pozitivní energie |
-|   2    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +2     |  +1  |                            Talent                            |
-|   3    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +2     |  +1  |                         Revitalizace                         |
-|   4    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +4     |  +2  |                            Talent                            |
-|   5    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +4     |  +2  |                      +1 Dovednostní bod                      |
-|   6    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +5     |  +2  |                            Talent                            |
-|   7    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +6     |  +3  |                         Mistr štítu                          |
-|   8    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +7     |  +3  |                            Talent                            |
-|   9    |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +7     |  +3  |                              -                               |
-|   10   |          +1k10+Výdrž          |         +1k6+Rozvaha          |     +9     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň) |
-|  11+   |              +3               |              +1               |     +9     |  +4  |                              -                               |
+| ÚROVEŇ |              HP               |             Magie             |  Um  |                           Odemyká                            |
+| :----: | :---------------------------: | :---------------------------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+10+Výdrž | Základní magie rasy+6+Rozvaha |  +2  | Um, Přísaha, Magie ochránců, Blokování štítem, Pozitivní energie |
+|   2    |          +1k10+Výdrž          |         +1k6+Rozvaha          |  +2  |                            Talent                            |
+|   3    |          +1k10+Výdrž          |         +1k6+Rozvaha          |  +2  |                         Revitalizace                         |
+|   4    |          +1k10+Výdrž          |         +1k6+Rozvaha          |  +3  |                            Talent                            |
+|   5    |          +1k10+Výdrž          |         +1k6+Rozvaha          |  +3  |                      +1 Dovednostní bod                      |
+|   6    |          +1k10+Výdrž          |         +1k6+Rozvaha          |  +3  |                            Talent                            |
+|   7    |          +1k10+Výdrž          |         +1k6+Rozvaha          |  +4  |                         Mistr štítu                          |
+|   8    |          +1k10+Výdrž          |         +1k6+Rozvaha          |  +4  |                            Talent                            |
+|   9    |          +1k10+Výdrž          |         +1k6+Rozvaha          |  +4  |                              -                               |
+|   10   |          +1k10+Výdrž          |         +1k6+Rozvaha          |  +5  |    +1 Dovednostní bod (a každou další 5. úroveň), Talent     |
+|   11   |              +3               |              +1               |  +5  |                       ABILITY ==todo==                       |
+|   12   |              +3               |              +1               |  +5  |             Talent (a každý další sudou úroveň)              |
+|  13+   |              +3               |              +1               |  +6  |                              -                               |
 
 ## Schopnosti povolání
 
@@ -38,15 +40,14 @@ Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šes
 
 **Trénovaná brnění:** Všechny včetně štítů
 
-**Bonusy k záchranným hodům:** +2 Zdatnost, +2 Reflexy a +2 Vůle
+**Bonusy k záchranným hodům:** +5 Zdatnost, +3 Reflexy a +4 Vůle
 
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
 - **Možné využití umu:** Znalost zákonů a historie civilizace, znalosti spojení s léčením, jakákoliv aplikace hrubé síly, posouzení kvality zbrojí, zbraní a koní, prozumění vojenským strategiím, oprava zbraní a výzbroje.
-- **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
-- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
+- **Bojové užití umu:** Tvůj um se připočítává k tvému hodu na zásah u zbraní se kterými si trénovaný a také ke všem tvým záchranným hodům.
 
 ### Přísaha ==todo: dodělat==
 
@@ -81,6 +82,12 @@ Tvá schopnost blokování štítem je vylepšena následujícími způsoby:
 - Schopnost lze použít ve prospěch spojence do vzdálenosti *1 metru* od ochránce.
 - Prvních *8 poškození* z každého blokovaného úderu je blokováno zdarma (nesnižuje OČ štítu)
 - Jedenkrát za kolo, pokud použití blokování předejde smrti spojence. Reakce, která byla využita na blokování je obnovena.
+
+### Some Ability (Úroveň 11) ==todo==
+
+Od 3. úrovně m
+
+Buď extra reakce, nějká mistická forma nebo forma obětování se?
 
 <img src="/assets/sep_line.png"/>
 

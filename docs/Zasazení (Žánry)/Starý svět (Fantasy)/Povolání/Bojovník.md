@@ -10,37 +10,38 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP               | Mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :---------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+10+Výdrž |     +1     |  +1  | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent  |
-|   2    |          +1k10+Výdrž          |     +2     |  +1  |                            Talent                            |
-|   3    |          +1k10+Výdrž          |     +2     |  +1  |                      Příležitostný útok                      |
-|   4    |          +1k10+Výdrž          |     +4     |  +2  |                            Talent                            |
-|   5    |          +1k10+Výdrž          |     +4     |  +2  |                      +1 Dovednostní bod                      |
-|   6    |          +1k10+Výdrž          |     +5     |  +2  |                            Talent                            |
-|   7    |          +1k10+Výdrž          |     +6     |  +3  |                          Extra útok                          |
-|   8    |          +1k10+Výdrž          |     +7     |  +3  |                            Talent                            |
-|   9    |          +1k10+Výdrž          |     +7     |  +3  |                              -                               |
-|   10   |          +1k10+Výdrž          |     +9     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň) |
-|  11+   |              +3               |     +9     |  +4  |                              -                               |
+| ÚROVEŇ |              HP               |  Um  |                           Odemyká                           |
+| :----: | :---------------------------: | :--: | :---------------------------------------------------------: |
+|   1    | Základní životy rasy+10+Výdrž |  +2  | Um, Boj se dvěma zbraněmi, Bojové manévry, Momentum, Talent |
+|   2    |          +1k10+Výdrž          |  +2  |                           Talent                            |
+|   3    |          +1k10+Výdrž          |  +2  |                     Příležitostný útok                      |
+|   4    |          +1k10+Výdrž          |  +3  |                           Talent                            |
+|   5    |          +1k10+Výdrž          |  +3  |                     +1 Dovednostní bod                      |
+|   6    |          +1k10+Výdrž          |  +3  |                           Talent                            |
+|   7    |          +1k10+Výdrž          |  +4  |                         Druhý dech                          |
+|   8    |          +1k10+Výdrž          |  +4  |                           Talent                            |
+|   9    |          +1k10+Výdrž          |  +4  |                              -                              |
+|   10   |          +1k10+Výdrž          |  +5  |    +1 Dovednostní bod (a každou další 5. úroveň), Talent    |
+|   11   |              +3               |  +5  |                         Extra útok                          |
+|   12   |              +3               |  +5  |             Talent (a každý další sudou úroveň)             |
+|  13+   |              +3               |  +6  |                              -                              |
 
 ## Schopnosti specializace
 
-**Získané Dovednosti:** *+1 Síla*
+**Získané Dovednosti:** *+1 Síla nebo Obratnost*
 
 **Trénované zbraně:** Jednoduché a válečné zbraně
 
 **Trénovaná brnění:** Všechny včetně štítů
 
-**Bonusy k záchranným hodům:** +4 Zdatnost a +2 Reflexy
+**Bonusy k záchranným hodům:** +6 Zdatnost, +4 Reflexy a +2 Vůle
 
 ### Um
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
-- **Možné využití umu:** Jakákoliv aplikace hrubé síly, posouzení kvality zbrojí, zbraní a koní, prozumění vojenským strategiím, oprava zbraní a výzbroje.
-- **Bojová specializace:** Tvůj um se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
-- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
+- **Možné využití umu:** Jakákoliv aplikace hrubé síly, posouzení kvality zbrojí, zbraní a koní, porozumění vojenským strategiím, oprava zbraní a výzbroje.
+- **Bojové užití umu:** Tvůj um se připočítává k tvému hodu na zásah u zbraní se kterými si trénovaný a také ke všem tvým záchranným hodům.
 
 ### Boj se dvěma zbraněmi
 
@@ -51,7 +52,7 @@ Bojovník je mistrem všech zbraní a dokáže efektivně používat 2 jednoruč
 
 ### Bojové manévry
 
-Bojovník může po úspěšném zásahu útokem provést bojový manévr jako *strategickou akci*.
+Bojovník může provádět bojové manévry jako *strategickou akci*.
 
 - **Kritický zásah:** Uspěje-li útok s kritickým zásahem, bojovník může provést jeden bojový manévr, proti zasaženému stvoření, jako *volnou akci*.
 
@@ -59,17 +60,21 @@ Bojovník může po úspěšném zásahu útokem provést bojový manévr jako *
 
 Bojovník v boji získává *momentum*, které mu umožňuje obratněji bojovat.
 
-- **Získávání:** Bojovník získá momentum za každého protivníka v boji, kterému udeřil smrtící ránu.
+- **Získávání:** Bojovník získá momentum za každého protivníka v boji, kterému udeřil smrtící ránu nebo *kritický zásah*.
 - **Maximum:** Neexistuje limit kolik momentum může bojovník za boj nasbírat avšak nevyužité momentum na konci boje vyprchá.
-- **Využití:** Bojovník může spotřebovat jedno momentum a provést útok jako *volnou akci* na cíl v dosahu.
+- **Využití:** Bojovník může *jedenkrát za kolo* spotřebovat *jedno momentum* a provést útok jako *volnou akci* na cíl v dosahu.
 
 ### Příležitostný útok (Úroveň 3)
 
 Bojovník se může pokusit zasáhnout soupeře ve chvilce nepozornosti. Provádí-li stvoření v dosahu bojovníkových útoků na blízku jinou aktivitu než: *úkrok*, *útok na blízku* a nebo *sesílání kouzla na bojovníka*. Bojovník může použít svou *reakci* a provést tak útok na blízku proti takovému stvoření. Pokud je výsledkem kritický zásah, akce je přerušena a tah zasaženého stvoření je ukončen.
 
-### Extra útok (Úroveň 7)
+### Druhý dech (Úroveň 7)
 
-Od 7. úrovně může bojovník provést 2 útoky jako součást jedné *běžné akce*.
+Od 7. úrovně může bojovník přežít vlastní smrt. Pokud bojovník obdrží poškození, které ho zredukuje na *0 životů*, a *nemá žádná vážná zranění*. Může si poznačit *1 vážné zranění* a vyléčit si *2k10+2\*Um* životů.
+
+### Extra útok (Úroveň 11)
+
+Od 11. úrovně může bojovník provést 2 útoky jako součást jedné *běžné akce*.
 
 <img src="/assets/sep_line.png"/>
 

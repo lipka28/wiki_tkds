@@ -102,9 +102,9 @@
 
 **Improvizované zbraně:** Pokud stvoření útočí něčím, co neslouží jako zbraň nebo útočí zbraní takovým způsobem, který neodpovídá jejímu původním účelu. Útočí s postihem *-2* k zásahu.
 
-**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez modifikátorů na zásah získaných ze specializace a postihem za *improvizovanou zbraň*. Nelze také využít žádnou ze speciálních vlastností zbraně.
+**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez umu a postihem za *improvizovanou zbraň*. Nelze také využít žádnou ze speciálních vlastností zbraně.
 
-**Netrénované zbroje a štíty:** Poskytují jen poloviční bonus do OČ.
+**Netrénované zbroje a štíty:** Způsobují *předmětový postih -2* ke všem hodům využívající *Sílu* nebo *Obratnost*. Stvoření také *nemůže čarovat*.
 
 **Neozbrojený boj:** Uděluje *1k2+Síla* poškození. Na rozdíl od útoků zbraněmi. Neozbrojené útoky mohou udělit *0* poškození. Neozbrojené útoky běžně nejsou smrtelné.
 

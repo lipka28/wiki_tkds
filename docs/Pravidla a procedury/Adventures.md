@@ -68,10 +68,10 @@ Bonusy a postihy se dělí do čtyř rozličných typů. Důležité je, že bon
 
 Ověření dovednosti probíhá jako hod modifikovaný dovedností postavy. Hráč si hodí *1k20* a přičte dovednost, kterou ověřuje.
 
-- *Větší rovno 12:* Pokud je výsledek větší nebo roven *12 (Hranice úspěchu - HU)*, tak je hod úspěšný. V opačném případě se jedná o neúspěch.
+- *Větší rovno 15:* Pokud je výsledek větší nebo roven *15 (Hranice úspěchu - HU)*, tak je hod úspěšný. V opačném případě se jedná o neúspěch.
 - *Bonusy a postihy:* Na hod lze aplikovat relevantní bonusy a postihy.
 - *Stupně úspěchu:* Na PJ záleží vyhodnocení stupňů úspěchu.
-- *Modifikace obtížnosti:* Obtížnost *12* je nejběžnější a vhodná pro libovolné situace s prvkem náhody. Pokud není psáno jinak ověření dovednosti má *HU 12*. PJ však může usoudit, že je aktivita o kterou se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *16* a *20* pro těžkou a velmi těžkou aktivitu a *8* pro lehkou.
+- *Modifikace obtížnosti:* Obtížnost *15* je nejběžnější a vhodná pro libovolné situace s prvkem náhody. Pokud není psáno jinak ověření dovednosti má *HU 15*. PJ však může usoudit, že je aktivita o kterou se postava pokouší těžší nebo lehčí a tím modifikovat cílenou hodnotu. *20* a *25* pro těžkou a velmi těžkou aktivitu a *10* pro lehkou.
 
 #### Přímý hod
 
@@ -121,7 +121,7 @@ Seznam vzorových aktivit, které se při hře mohou běžně stát, jaké doved
 
 Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli plnému efektu kouzel, pastí a jiných škodlivých efektů.
 
-**Typ záchranných hodů:** Záchranný hod je považován ze variantu těžkého ověření dovednosti. Má tedy *HU 16*. Záchranný hod samotný je pak modifikován dovednostmi, specializací a umem postavy v závislosti na efektu, který na postavu působí. Možné kategorie jsou následující:
+**Typ záchranných hodů:** Záchranný hod je považován ze variantu těžkého ověření dovednosti. Má tedy *HU 20*. Záchranný hod samotný je pak modifikován dovednostmi, specializací a umem postavy v závislosti na efektu, který na postavu působí. Možné kategorie jsou následující:
 
 | Dovednost     | Název            | záchrana proti efektům                                       |
 | ------------- | :--------------- | :----------------------------------------------------------- |
@@ -132,7 +132,7 @@ Všechny postavy a monstra mohou podstoupit záchranný hod, aby se vyhnuli pln�
 !!! warning "Mapování B/X záchranných hodů"
 	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na výčet jiných záchranných hodů. Ty se mapují následovně: *Paralýza a Dech /hůlky* = Reflexy, *Smrt* / *Jed* = Zdatnost, *Kouzla* / *Hole* = Vůle. Hodnoty záchranných hodů u monster z takových zdrojů, lze používat beze změny. Prostě přehodit na k20 hodnotu psanou ve stat-blocku.
 
-**Hod záchranného hodu:** Když PJ vyžaduje záchranný hod, tak si hráč hodí *1k20*, připočítá patřičné modifikátory a potřebuje překonat *HU 16*.
+**Hod záchranného hodu:** Když PJ vyžaduje záchranný hod, tak si hráč hodí *1k20*, připočítá patřičné modifikátory a potřebuje překonat *HU 20*.
 
 - *Stupně úspěchu:* Pokud není napsáno v efektu, který záchranný hod způsobil jinak. vyhodnocení stupňů úspěchu záleží na PJ.
 

@@ -12,19 +12,21 @@
 
 ## Tabulka postupu
 
-| ÚROVEŇ |              HP              |             Činidla             | Mod.Zásahu |  Um  |                           Odemyká                            |
-| :----: | :--------------------------: | :-----------------------------: | :--------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+8+Výdrž | Základní magie rasy+10+Vzdělání |     +0     |  +1  |                       Um, asd, Talent                        |
-|   2    |          +1k8+Výdrž          |                -                |     +1     |  +1  |                     Talent, +1 Receptura                     |
-|   3    |          +1k8+Výdrž          |                -                |     +1     |  +1  |                      asd, +1 Receptura                       |
-|   4    |          +1k8+Výdrž          |                -                |     +3     |  +2  |                     Talent, +1 Receptura                     |
-|   5    |          +1k8+Výdrž          |                -                |     +3     |  +2  |               +1 Dovednostní bod, +1 Receptura               |
-|   6    |          +1k8+Výdrž          |                -                |     +4     |  +2  |                     Talent, +1 Receptura                     |
-|   7    |          +1k8+Výdrž          |                -                |     +4     |  +3  |                      asd, +1 Receptura                       |
-|   8    |          +1k8+Výdrž          |                -                |     +5     |  +3  |                     Talent, +1 Receptura                     |
-|   9    |          +1k8+Výdrž          |                -                |     +5     |  +3  |                         +1 Receptura                         |
-|   10   |          +1k8+Výdrž          |                -                |     +7     |  +4  | +1 Dovednostní bod (a každou další 5. úroveň), Talent (a každý další sudou úroveň), +1 Receptura |
-|  11+   |              +2              |                -                |     +7     |  +4  |             +1 Receptura (a každou další úroveň)             |
+| ÚROVEŇ |              HP              |             Činidla             |  Um  |                           Odemyká                            |
+| :----: | :--------------------------: | :-----------------------------: | :--: | :----------------------------------------------------------: |
+|   1    | Základní životy rasy+8+Výdrž | Základní magie rasy+12+Vzdělání |  +2  |     Um, Alchymie, Alchymistické formy, Extrakce, Talent      |
+|   2    |          +1k8+Výdrž          |                -                |  +2  |                     Talent, +1 Receptura                     |
+|   3    |          +1k8+Výdrž          |                -                |  +2  |                Rychlá alchymie, +1 Receptura                 |
+|   4    |          +1k8+Výdrž          |                -                |  +3  |                     Talent, +1 Receptura                     |
+|   5    |          +1k8+Výdrž          |                -                |  +3  |               +1 Dovednostní bod, +1 Receptura               |
+|   6    |          +1k8+Výdrž          |                -                |  +3  |                     Talent, +1 Receptura                     |
+|   7    |          +1k8+Výdrž          |                -                |  +4  |                 Sériová výroba, +1 Receptura                 |
+|   8    |          +1k8+Výdrž          |                -                |  +4  |                     Talent, +1 Receptura                     |
+|   9    |          +1k8+Výdrž          |                -                |  +4  |                         +1 Receptura                         |
+|   10   |          +1k8+Výdrž          |                -                |  +5  | +1 Dovednostní bod (a každou další 5. úroveň), Talent, +1 Receptura |
+|   11   |              +2              |                -                |  +5  |                  Multitasking, +1 Receptura                  |
+|   12   |              +2              |                -                |  +5  |      Talent (a každý další sudou úroveň), +1 Receptura       |
+|  13+   |              +2              |                -                |  +6  |             +1 Receptura (a každou další úroveň)             |
 
 ## Schopnosti povolání
 
@@ -34,7 +36,7 @@
 
 **Trénovaná brnění:** Lehké včetně štítů
 
-**Bonusy k záchranným hodům:** +4 Zdatnost a +2 Vůle
+**Bonusy k záchranným hodům:** +5 Zdatnost, +4 Reflexy a +3 Vůle
 
 **Extra výbava:** Kniha receptů (max 10 receptů, 1 slot)
 
@@ -43,8 +45,7 @@
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
 - **Možné využití umu:** Teoretické znalosti všeho druhu od historie přes medicínu až po monstra, identifikace alchymistických komponent a materiálů, lektvarů a jedů.
-- **Hybridní specializace:** Polovina tvého umu se připočítává k tvému hodu na zásah (již započítáno v tabulce postupu výše).
-- **Záchranné hody:** Tvůj um se přičítá ke všem tvým záchranným hodům.
+- **Bojové užití umu:** Tvůj um se připočítává k tvému hodu na zásah u zbraní se kterými si trénovaný a také ke všem tvým záchranným hodům.
 
 ### Alchymie
 
@@ -98,13 +99,18 @@ Alchymista může strávit *1 směnu* extrakcí činidel z čerstvě mrtvých t�
 
 ### Rychlá alchymie (úroveň 3)
 
-Od 3. úrovně může alchymista vyrobit jednorázový alchymistický předmět jako *běžnou akci* během boje. Takto vyrobený předmět může ve stejném tahu použít jako *strategickou akci*. 
+Od 3. úrovně může alchymista vyrobit jednorázový alchymistický předmět jako *strategickou akci* během boje.
 
+- **Požadavky:** Výroba vyžaduje *volné ruce* a *přístup ke všem potřebným předmětům* (receptura, alchymistické nástroje a činidla)
 - **Nestabilita:** Předměty vzniklé rychlou alchymií musí být použity do konce alchymistova tahu jinak se zničí. Pokud má vyrobený předmět efekt s dobou trvání, doba trvání není delší než *1 směna*.
 
 ### Sériová výroba (úroveň 7)
 
-Pokaždé když alchymista vyrábí jednorázový magický předmět, a to i v rámci *rychlé alchymie*. Vyrobí 2 stejné předměty na místo jednoho. Tento druhý předmět je vyroben zcela zdarma.
+Pokaždé když alchymista vyrábí jednorázový alchymistický předmět, a to i v rámci *rychlé alchymie*. Vyrobí 2 stejné předměty na místo jednoho. Tento druhý předmět je vyroben zcela zdarma.
+
+### Multitasking (Úroveň 11)
+
+Od 11. úrovně může alchymista provést *rychlou alchymii* jako *volnou akci* součástí jiné *strategické akce* (jako třeba pohyb) za předpokladu, že při vykonávání dané strategické akce stále splňuje požadavky pro rychlou alchymii.
 
 <img src="/assets/sep_line.png"/>
 
