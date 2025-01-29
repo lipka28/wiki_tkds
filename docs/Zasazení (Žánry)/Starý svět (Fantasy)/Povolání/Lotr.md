@@ -49,17 +49,17 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 
 Lotr dokáže efektivně používat 2 jednoruční zbraně naráz pokud je ta sekundární *obratná*. Lze kombinovat obratnou zbraň s libovolnou jednoruční zbraní.
 
-- **Útok:** Při běžném útoku útočí lotr svou primární (většinou neobratnou) zbraní.
-- **Extra útok:** Lotr může provést extra útok svou *obratnou zbraní* jako *strategickou akci*. Takový útok probíhá se *situačním postihem* *-2* k zásahu.
+- **Útok:** Při běžném útoku útočí lotr svou primární zbraní.
+- **Extra útok:** Lotr může provést extra útok svou druhou, *obratnou zbraní* jako *strategickou akci*. Takový útok probíhá se *situačním postihem* *-2* k zásahu.
 
 ### Přepadení
 
 Lotr je expertem v hledání slabých míst nic netušících nepřátel. Pokud lotr zaútočí na nic netušícího oběť jednoruční nebo střelnou zbraní, napadená oběť má situační postih *-(4+Um)* k *OČ*.
 
-- **Nic netušící oběť:** Je stvoření, které netuší o lotrově přítomnosti nebo ho nepovažuje za hrozbu. Většinou takový útok probíhá před hodem na tasení. Po útoku je již lotrova přítomnost známa do konce boje, proto je opakované použití této schopnosti během boje většinou nemožné. Pj může rozhodnout jinak (například použití magie neviditelnosti).
+- **Nic netušící oběť:** Je stvoření, které netuší o lotrově přítomnosti nebo ho nepovažuje za hrozbu. Většinou takový útok probíhá před hodem na tasení. Po útoku je již lotrova přítomnost známa do konce boje, opakované použití této schopnosti během boje je tedy většinou nemožné. Pj může rozhodnout jinak (například použití magie neviditelnosti).
 - **Cíl útoku:** Může být libovolné člověku podobné stvoření nebo humanoidní monstrum, které není více jak 2x větší jak člověk (PJ může povolit speciální okolnosti).
-- **Zásah střelnou zbraní:** Udělí *7+(úroveň lotra\*2)+modifikátory* poškození dle zbraně.
-- **Zásah zbraní na blízku:** Cíl musí podstoupit v *záchranném hodu na zdatnost* se *situačním postihem ve výši Umu* lotra. Pokud selže, je okamžitě zabit. Pokud uspěje obdrží *7+(úroveň lotra\*2)+modifikátory* poškození.
+- **Zásah střelnou zbraní:** Udělí *7+(Um\*2)+modifikátory* poškození dle zbraně. Kritický zásah uděluje dvojnásobné poškození.
+- **Zásah zbraní na blízku:** Stejné jako zásah střelnou zbraní avšak kritický zásah způsobuje okamžité zabití.
 
 ### Dobrá příprava
 
@@ -87,7 +87,7 @@ Lotr disponuje *21 body štěstí*, které může použít k úpravě svých hod
 
 ## Talenty ==todo seřadit dle abecedy==
 
-Pokaždé když lotr obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro lotra níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
+Pokaždé když lotr obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro lotra níže, jeden z obecných talentů [zde](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/talenty/#obecne-talenty) nebo si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 
@@ -159,3 +159,5 @@ Lotr se může, jako *běžnou akci*, pokusit aktivovat nebo dočasně vyřadit 
 ### Přelsti magii
 
 Expertýza (double Úm při odemykýní zámků a zneškodňování pastí?)
+
+Přidat formativní talenty ( dají se vzít jen na první nebo druhé úrovni a lze mít pouze jeden formativní talent)

@@ -50,14 +50,19 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 Mág disponuje schopností používat magii spadající do disciplíny *praktické magie*. To znamená, že mág umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
 
 - **Magie:** Mág disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Mágové mají díky své vazbě na magii zrychlenou regeneraci magie a to rychlostí *2\*(Um+Rozvaha)* magie za odpočinek.
-- **Kouzla:** Mág začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé, když se mágovi zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Mág udrží v paměti maximálně *10+Vzdělání* kouzel. Mágové jsou však často vášniví sběratelé kouzel a tak si přebytečná kouzla zapisují do různých grimoárů, aby v nich mohly v případě nutnosti čerpat. Zapsané kouzlo lze pak v rámci aktivity trvající *1 směnu* zaměnit za kouzlo zapamatované.
+- **Kouzla:** Mág začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého [seznamu kouzel](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#prakticka-magie). Pokaždé, když se mágovi zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Mág udrží v paměti maximálně *10+Vzdělání* kouzel. Mágové jsou však často vášniví sběratelé kouzel a tak si přebytečná kouzla zapisují do různých grimoárů, aby v nich mohly v případě nutnosti čerpat. Zapsané kouzlo lze pak v rámci aktivity trvající *1 směnu* zaměnit za kouzlo zapamatované.
 - **Učení se kouzel navíc:** Mág se může naučit další kouzla od různých mentorů, studováním magických svitků či dešifrování cizích grimoárů nebo magickým výzkumem.
 - **Magický výzkum:** Ve volné chvíli se mág může zabývat magickým výzkumem. Mágové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků). Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
 - **Jednoduchá kouzla:** Mág může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. Může se jednat o věci jako jsou: drobné vizuální efekty, slabá telekineze, přihřátí čaje, očištění předmětu či změna jeho barvy. Efektivně by však nemělo použití takového kouzla vézt k řešení nějakého problému.
 
 ### Magická střela
 
-Mág ovládá základní kouzlo *magická střela* jenž může seslat až na vzdálenost až *10 metrů* a která působí *1k4 silového* poškození. Cíl má nárok na *záchranný hod na reflexy* aby efektu kompletně odolal. Kritický neúspěch v záchraně působí dvojnásobné poškození. Seslání nestojí žádnou magii a probíhá jako *běžná akce*.
+Mág ovládá základní kouzlo *magická střela* jenž může seslat až na vzdálenost až *10 metrů*. Seslání nestojí žádnou magii a probíhá jako *běžná akce*. Efekt střely je odvozen od *záchranného hodu na Reflexy* cíle.
+
+- **Kritický úspěch:** Cíl není ovlivněn.
+- **Úspěch:** Cíl obdrží poloviční poškození.
+- **Neúspěch:** Cíl obdrží *1k6 silového* poškození.
+- **Kritický neúspěch:** Cíl obdrží dvojnásobné poškození.
 
 ### Krystalizovaná magie
 
@@ -90,7 +95,7 @@ Mág se může od 1. úrovně pokusit vyrušit sesílání kouzla někoho jinéh
 
 ## Talenty ==todo seřadit dle abecedy==
 
-Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro mága níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
+Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro mága níže, jeden z obecných talentů [zde](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/talenty/#obecne-talenty) nebo si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 
@@ -142,7 +147,7 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 
 **Požadavek:** -
 
-**Efekt:** Při použití tvého základního kouzla magická střela máš bonus *+2* k poškození. Navíc si vyber jeden typ ==todo odkaz== energetického poškození a při sesílání si můžeš vybrat jestli chceš, aby tvá střela působila *vybrané poškození* nebo pouhé *silové poškození*. Pokud zasažené stvoření *kriticky neuspěje* v záchranně proti magické střele, obdrží *2 poškození* relevantního typu. 
+**Efekt:** Při použití tvého základního kouzla magická střela, máš bonus *+2* k poškození. Navíc si vyber jeden typ ==todo odkaz== energetického poškození a při sesílání si můžeš vybrat jestli chceš, aby tvá střela působila *vybrané poškození* nebo pouhé *silové poškození*.
 
 <img src="/assets/sep_line.png"/>
 

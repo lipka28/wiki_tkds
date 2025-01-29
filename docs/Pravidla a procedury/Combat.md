@@ -25,9 +25,9 @@
 <img src="/assets/round.png" width="20"> **Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést  *jednu strategickou akci*, *jednu běžnou akci* a *jednu reakci*. Hráč může také své kolo prokládat *volnými akcemi*. Všechny tyto "akce" se postavě obnoví pokaždé, když začne její tah. Jednotlivé akce fungují následovně.:
 
 - <img src="/assets/action.png" width="20"> *Běžná akce:* Za běžnou akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzel, použití předmětu či významná obměna výzbroje (změna držených zbraní). Akci lze také použít pro provedení aktivity vyžadující strategickou akci.
-- <img src="/assets/saction.png" width="20"> *Strategická akce:* Za strategickou akci je považován převážně pohyb nebo speciální aktivity jako pokusy vybavit si informace o monstru proti kterému se bojuje. Postavy a monstra mají i spoustu speciálních schopností, které lze aktivovat jako strategickou akci.
+- <img src="/assets/saction.png" width="20"> *Strategická akce:* Za strategickou akci je považován převážně pohyb. Postavy a monstra mají i spoustu speciálních schopností, které lze aktivovat jako strategickou akci.
 - <img src="/assets/reaction.png" width="15"> *Reakce:* Reakce je speciální akce, která umožní provést aktivitu i mimo tah stvoření, pokud jsou splněny podmínky jejího spouštěče. Stvoření nemůže na jeden spouštěč nikdy použít více jak jednu svou reakci.
-- <img src="/assets/free.png" width="20"> *Volná akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
+- <img src="/assets/free.png" width="20"> *Volná akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, odhadování nepřátel či vybavování si informací, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
 
 !!! note "Tah monster"
     Monstra se většinou řídí stejnými pravidly boje jako hráči. Silná monstra však mohou mít výjimky z těchto pravidel. Jako například více útoků součástí jedné běžné akce nebo více strategických akcí či reakcí.
@@ -77,7 +77,9 @@
 !!! note "Minimální poškození"
     Úspěšný zásah vždy udělí aspoň 1 poškození. Pokud cíle není imunní nebo neodolalo celému obdrženému poškození.
 
-**Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *snížené poškození* (o statickou hodnotu), *imunitu* (žádné poškození), *slabost* (dvojnásobné poškození) nebo *zvýšené poškození* (o statickou hodnotu) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
+### Poškození
+
+Některá stvoření mohou mít *odolnost* (poloviční poškození), *snížené poškození* (o statickou hodnotu), *imunitu* (žádné poškození), *slabost* (dvojnásobné poškození) nebo *zvýšené poškození* (o statickou hodnotu) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
 
 - **Fyzické:** A jeho varianty sečné, průrazné, tupé, jedové a krvácivé.
 - **Energetické nebo magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá ničivá energie)
@@ -91,7 +93,7 @@
 
 **Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna jinými nezranitelnými monstry.
 
-**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na začátku tahu ovlivněného jedince. Pokaždé když stvoření obdrží perzistentní poškození, může podstoupit *přímý hod* s *HU 16* a tím efekt ukončit. Perzistentní poškození může být také předčasně ukončeno relevantní akci (například, když hořící stvoření skočí do vody). Více instancí perzistentního poškození stejného typu se nesčítá.
+**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu ovlivněného jedince. Pokaždé když stvoření obdrží perzistentní poškození, může podstoupit *přímý hod* s *HU 16* a tím efekt ukončit. Perzistentní poškození může být také předčasně ukončeno relevantní akci (například, když hořící stvoření skočí do vody). Více instancí perzistentního poškození stejného typu se nesčítá. Pokud perzistentní poškození vyžaduje hod kostkou, kostka je hozena na novo při každém tiku.
 
 !!! note "Příklad: Hořící nestvůra"
     Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
@@ -100,17 +102,17 @@
 
 ## Ostatní bojové situace
 
-**Improvizované zbraně:** Pokud stvoření útočí něčím, co neslouží jako zbraň nebo útočí zbraní takovým způsobem, který neodpovídá jejímu původním účelu. Útočí s postihem *-2* k zásahu.
+**Improvizované zbraně:** Pokud stvoření útočí něčím, co neslouží jako zbraň nebo útočí zbraní takovým způsobem, který neodpovídá jejímu původním účelu. Útočí s *předmětovým postihem -2* k zásahu.
 
 **Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez umu a postihem za *improvizovanou zbraň*. Nelze také využít žádnou ze speciálních vlastností zbraně.
 
-**Netrénované zbroje a štíty:** Způsobují *předmětový postih -2* ke všem hodům využívající *Sílu* nebo *Obratnost*. Stvoření také *nemůže čarovat*.
+**Netrénované zbroje:** Způsobují *předmětový postih -2* ke všem hodům využívající *Sílu* nebo *Obratnost*. Stvoření také *nemůže čarovat*.
 
 **Neozbrojený boj:** Uděluje *1k2+Síla* poškození. Na rozdíl od útoků zbraněmi. Neozbrojené útoky mohou udělit *0* poškození. Neozbrojené útoky běžně nejsou smrtelné.
 
-**Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane. Akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *reakci*.
+**Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane, akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *reakci*.
 
-**Počkat:** Stvoření se může na začátku svého tahu vyjmout z iniciativy a zařadit se do ní kdykoliv po konci tahu libovolného stvoření. Pokud stvoření takto přečká celé kolo ztrácí svůj tah a v příštím kole je zase v iniciativě na svém původním místě. Pokud je stvoření pod vlivem nějakých negativních, či pozitivních efektů, nebo efektů, které mají během jeho tahu skončit. Vše se stane ve chvíli, kdy se stvoření vyjme z iniciativy.
+**Počkat:** Stvoření se může na začátku svého tahu vyjmout z iniciativy a zařadit se do ní kdykoliv po konci tahu libovolného stvoření. Pokud stvoření takto přečká celé kolo ztrácí svůj tah a v příštím kole je zase v iniciativě na svém původním místě. Pokud je stvoření pod vlivem nějakých negativních, či pozitivních efektů, nebo efektů, které mají během jeho tahu skončit. Všechny se provedou ve chvíli, kdy se stvoření vyjme z iniciativy.
 
 !!! Warning "Souběh akcí"
     Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.

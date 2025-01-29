@@ -174,3 +174,5 @@ Pokud se rozhodnete používat TotM. Je dobré na pravidla boje aplikovat násle
 - **Vzájemné ohrožení:** Stvoření ve vzájemném ohrožení nemůže opustit sovu aktuální zónu ale může útočit na jiná stvoření ve stejné zóně.
 
 <img src="/assets/sep_line.png"/>
+
+==todo conversion note (ceny mana u npc atd, viz excel)== (cena magie a casting NPC)

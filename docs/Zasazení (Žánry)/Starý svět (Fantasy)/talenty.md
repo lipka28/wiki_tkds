@@ -16,10 +16,10 @@ Zde se nachází obecné talenty, které při splnění podmínek, jsou k dispoz
 
 **Požadavek:** Neovládá žádnou magickou disciplínu a Rozvaha >=1
 
-**Efekt:** Postava se amatérským fušováním do magie naučí ovládat základy jedné magické disciplíny vlastního výběru ==todo odkaz==. To znamená, že postava může sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
+**Efekt:** Postava se amatérským fušováním do magie naučí ovládat základy jedné [magické disciplíny vlastního výběru](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#magicke-esence-discipliny-a-seznamy-kouzel). To znamená, že postava může sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
 
 - **Magie:** Postava disponuje *Základní magie rasy+4+Rozvaha* magické energie zvané magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Přirozená regenerace magie odpovídá *2+Rozvaha* za přenocování.
-- **Kouzla:** Postava obdrží *1* kouzlo dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Postava nemůže mít nebo se naučit více kouzel, než které získá z tohohle či jiného magického talentu (většinou 1).
+- **Kouzla:** Postava obdrží *1* kouzlo dle vlastního výběru ze svého seznamu kouzel. Postava nemůže mít nebo se naučit více kouzel, než které získá z tohohle či jiného magického talentu (většinou 1).
 
 <img src="/assets/sep_line.png"/>
 
@@ -35,7 +35,7 @@ Zde se nachází obecné talenty, které při splnění podmínek, jsou k dispoz
 
 **Požadavek:** Hybridní nebo bojová specializace trénovaná se štítem.
 
-**Efekt:** Pokud má postava zvednutý štít a hrozí, že obdrží poškození. Může použít svou *reakci* a obětovat až několik bodů obranného čísla svého štítu a tím část poškození vyblokovat. Každý obětovaný bod OČ sníží obdržené poškození o *6* (Pokud se jedná o *pukléř* tak o 4). Štít jehož OČ je zredukováno na 0 je zničen. Po použití této schopnosti štít již není zvednut.
+**Efekt:** Pokud má postava zvednutý štít a hrozí, že obdrží poškození. Může použít svou *reakci* a obětovat až několik bodů obranného čísla svého štítu a tím část poškození vyblokovat. Každý obětovaný bod OČ sníží obdržené poškození o *6*. Štít jehož OČ je zredukováno na 0 je zničen. Po použití této schopnosti štít již není zvednut.
 
 <img src="/assets/sep_line.png"/>
 

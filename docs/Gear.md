@@ -39,20 +39,21 @@ Zbroje zvyšují obranné číslo nositele a tím snižují šanci na jeho zása
 - **Lehká** - Flexibilní, lze v ní i spát.
 - **Střední** - Hlučná, nedá se v ní spát. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
 - **Těžká** - Hlučná, nedá se v ní spát. Součástí zbroje je i přilbice, která chrání před traumaty hlavy.
-- **Štít** - Stvoření držící štít, může jako *strategickou akci* štít zvednout a tím si připočítat jeho OČ jako *situační bonus ke svému OČ*.
+- **Štít** - Stvoření držící štít, může jako *strategickou akci* štít zvednout a tím si připočítat jeho OČ jako *situační bonus ke svému OČ*. Pro správné použití štítu, musí štít být přivázán k ruce a držen za madlo. *Všichni mohou používat štíty*.
 - **Zvířecí brnění:** Brnění určená pro zvěř, jako jsou koně a psy. PJ může za příplatek povolit použití i na jiná zvířata.
 
 | ZBROJE                          |      TYP       |  OČ  | Max. obratnost | Požadavek na sílu | skladnost |   CENA   |
 | :------------------------------ | :------------: | :--: | :------------: | :---------------: | :-------: | :------: |
 | Oblečení                        |    Oblečení    |  -   |       -        |         -         |     1     | - (1 st) |
 | Okované či polstrované oblečení |    Oblečení    |  +1  |       -        |         -         |     1     |  10 st   |
-| Kožená zbroj                    |     Lehká      |  +2  |       +3       |        +1         |     1     |  20 st   |
-| Okovaná kožená zbroj            |     Lehká      |  +3  |       +2       |        +1         |     1     |  30 st   |
-| Šupinová zbroj                  |    Střední     |  +4  |       +2       |        +2         |     1     |  40 st   |
-| Šupinová zbroj s kyrysem        |    Střední     |  +5  |       +1       |        +3         |     1     |  80 st   |
-| Půl plát s kyrysem              |     Těžká      |  +6  |       +1       |        +3         |     1     |  180 st  |
-| Plná plátová zbroj na míru      |     Těžká      |  +7  |       0        |        +4         |     1     |  300 st  |
+| Kožená zbroj                    |     Lehká      |  +2  |       +4       |        +1         |     1     |  20 st   |
+| Okovaná kožená zbroj            |     Lehká      |  +3  |       +3       |        +1         |     1     |  30 st   |
+| Šupinová zbroj                  |    Střední     |  +4  |       +3       |        +2         |     1     |  40 st   |
+| Šupinová zbroj s kyrysem        |    Střední     |  +5  |       +2       |        +3         |     1     |  80 st   |
+| Půl plát s kyrysem              |     Těžká      |  +6  |       +2       |        +3         |     1     |  180 st  |
+| Plná plátová zbroj na míru      |     Těžká      |  +8  |       +1       |        +4         |     1     |  300 st  |
 | Štít                            |      Štít      |  +2  |       -        |        +1         |     1     |  20 st   |
+| Pukléř                          |      Štít      |  +1  |       -        |         -         |     1     |  10 st   |
 | Zvířecí brnění                  | Zvířecí brnění |  +2  |       -        |         -         |     1     |  25 st   |
 
 **Maximální obratnost:** Obratnost jedince je snížena na maximální hodnotu povolenou jeho nošenou zbrojí po dobu, co má zbroj na sobě.
@@ -90,16 +91,21 @@ Mimo běžně dostupných zbraní, tak jak jsou popsány níže. Si lze obstarat
 - **Typ poškození:** Každá zbraň má aspoň jeden ze tří typů poškození. Typy poškození jsou S - Sečné, P - Průrazné a T - Tupé poškození. Některé zbraně mohou také kombinovat více typů poškození. První psaný typ poškození je považován za výchozí.
 - **Speciální schopnost (SP):** Zbraně s touhle vlastností mají speciální schopnosti nebo využití. Podívej se do speciálních schopností pod každým seznamem zbraní.
 
+### Neozbrojený útok
+
+| Název            |  Vlastnosti   | Poškození | Skladnost | Cena |
+| :--------------- | :-----------: | :-------: | :-------: | :--: |
+| Neozbrojený útok | Ob, Nesmrtící |    1k2    |     -     |  -   |
+
 ### Jednoduché zbraně na blízku
 
 | Název zbraně     | Vlastnosti zbraně  |  Poškození  | Skladnost | Cena  |
 | :--------------- | :----------------: | :---------: | :-------: | :---: |
-| Neozbrojený útok | 1R, Ob, Nesmrtící  |     1k2     |     -     |   -   |
 | Hůl              |        1+R         | 1k4 / 1k6 T |     1     | 1 md  |
 | Kopí             |       1R, DH       |    1k6 P    |     1     | 2 st  |
 | Nůž              |     1R, Ob, H      |   1k4 P/S   |     L     | 1 st  |
 | Palcát           |         1R         |    1k6 T    |     1     | 5 st  |
-| Píka             |  2R, SP, Dosah 3m  |    1k8 P    |     T     | 10 st |
+| Píka             |  2R, SP, Dosah 3m  |    1k8 P    |     1     | 10 st |
 | Rukavice s bodci | 1R, Ob, Volná ruka |    1k4 P    |     1     | 3 st  |
 | Sekyrka          |       1R, H        |    1k4 S    |     L     | 1 st  |
 
@@ -243,10 +249,10 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Mýdlo                                                        |           L           |   2 md   |
 | Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo, Prut na ryby atd...) |           1           |   5 st   |
 | Oblečení - Běžné                                             | 1 - pokud v inventáři | - (1 st) |
-| Oblečení - Pro dobrodruha                                    | 1 - pokud v inventáři | - (1 st) |
-| Oblečení - Společenské                                       | 1 - pokud v inventáři |  20 st   |
-| Oblečení - Módní společenské                                 | 1 - pokud v inventáři |  50 zl   |
-| Oblečení - Zimní                                             | 1 - pokud v inventáři |   5 st   |
+| Oblečení - Pro dobrodruha                                    |           1           | - (1 st) |
+| Oblečení - Společenské                                       |           1           |  20 st   |
+| Oblečení - Módní společenské                                 |           1           |  50 zl   |
+| Oblečení - Zimní                                             |           1           |   5 st   |
 | Páčidlo                                                      |           1           |   5 st   |
 | Píšťalka                                                     |           L           |   6 md   |
 | Pochodně (10 ks)                                             |           1           |   1 st   |
@@ -286,7 +292,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Koňské sedlo a otěže:** Sada umožňující osedlání koně a bezpečnou a pohodlnou jízdu na něm.
 
-**Kouzelný svitek:** Kouzelný svitek obsahující kouzlo libovolné magické disciplíny, které nestojí vice jak *4 magie*. Pravidla pro sesílání svitků najdeš zde ==todo: odkaz==.
+**Kouzelný svitek:** Kouzelný svitek obsahující kouzlo libovolné magické disciplíny, které nestojí vice jak *4 magie*. Pravidla pro sesílání svitků najdeš [zde](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#lektvary-a-svitky).
 
 **Kovový hřeb:** Kus kovu, který pokud zatlučen do libovolného mechanismu, může značně narušit jeho fungování. Vhodné také k zasekávání dveří. Odborná instalace vyžaduje kladivo.
 
@@ -359,7 +365,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 **Zásoby pro zvíře:** Levnější varianta zásob pro vaše mazlíčky.
 
-**Zlodějské náčiní:** Zlodějská sada potřebná pro odemykání zámků, zneškodňování pastí a jiné manipulace mechanizmů. Použití zlodějských nástrojů trvá *1 běžnou akci* a úspěch záleží na pokoření HU stanovené PJ. Možné výsledky jsou následující:
+**Zlodějské náčiní:** Zlodějská sada potřebná pro odemykání zámků, zneškodňování pastí a jiné manipulace mechanizmů. Použití zlodějských nástrojů trvá *1 běžnou akci*, vyžaduje *Um* a úspěch záleží na pokoření HU stanovené PJ. Možné výsledky jsou následující:
 
 - *Kritický úspěch:* Zlodějské nástroje neztrácí použití a akce byla úspěšná.
 - *Úspěch:* Stojí 1 použití a akce byla úspěšná.
@@ -377,23 +383,30 @@ Hráči mohou mít v průběhu hry přístup k nejrůznějším jedům.
 
 ### Efekty jedů
 
-Oběť otravy musí při vystavení jedu uspět v *záchranném hodu na zdatnost* s modifikátorem závislým na síle jedu. Tím se určí jak vážné budou následky jedu (Úspěch -> jedu bylo odoláno, Kritický neúspěch -> dvojnásobné poškození či jiné efekty.) Následně jed funguje jako *perzistentní poškození* (poškození se obdržuje na začátku kola). Pokud má jed i jiné efekty, poprvé se projevují až po začátku tahu ovlivněného stvoření.
+Oběť otravy musí při vystavení jedu uspět v *záchranném hodu na zdatnost* s modifikátorem závislým na síle jedu. Tím se určí jak vážné budou následky jedu. Následně jed funguje jako *perzistentní poškození* (poškození se obdržuje na začátku kola). Pokud má jed i jiné efekty, poprvé se projevují až po začátku tahu ovlivněného stvoření.
+
+**Stupně úspěchu při záchranném hodu proti jedu:**
+
+- **Kritický úspěch:** Jedu je odoláno a stvoření je proti danému jedu imunní po zbytek dne.
+- **Úspěch:** Jedu je odoláno.
+- **Neúspěch:** Cíl je postižen efektem jedu.
+- **Kritický neúspěch:** Cíl je postižen dvojnásobným efektem jedu.
 
 ### Aplikace jedu na zbraň
 
-Aplikace na zbraň trvá *1 směnu*. Jednou lahvičkou jedu lze pokrýt *1 zbraň* nebo *5 kusů munice*. 
+Aplikace na zbraň trvá *1 směnu*. Jednou lahvičkou jedu lze pokrýt *1 zbraň* nebo *3 kusy munice*. 
 
 **Efektivnost:** Po aplikaci jedu na zbraň je jed účinný po dobu *1 dne* nebo *1 zásahu* otrávenou zbraní. (co přijde dřív).
 
 ### Běžné jedy
 
-| TYP  |   CENA   | zach. MOD. | prodleva  |          EFEKT          |
-| :--: | :------: | :--------: | :-------: | :---------------------: |
-|  I   |  10 st   |     +2     |  2k4 kol  | 2k6 jedového poškození  |
-|  II  |  75 st   |     +1     | 1k4+1 kol | 4k6 jedového poškození  |
-| III  |  300 st  |     +0     |  1k2 kol  | 6k6 jedového poškození  |
-|  IV  |  800 st  |     -1     |   Ihned   | 8k6 jedového poškození  |
-|  V   | 1 300 st |     -2     |   Ihned   | 10k6 jedového poškození |
+| TYP  |   CENA   | zach. MOD. | prodleva |         EFEKT          |
+| :--: | :------: | :--------: | :------: | :--------------------: |
+|  I   |  10 st   |     +2     | 1k6 kol  | 1k6 jedového poškození |
+|  II  |  75 st   |     +1     | 1k4 kol  | 2k6 jedového poškození |
+| III  |  300 st  |     +0     | 1k2 kol  | 3k6 jedového poškození |
+|  IV  |  800 st  |     -1     |  Ihned   | 4k6 jedového poškození |
+|  V   | 1 300 st |     -2     |  Ihned   | 5k6 jedového poškození |
 
 **Zach. mod.** - Modifikátor k záchrannému hodu oběti. 
 

@@ -8,11 +8,11 @@
 
 ## Základní terminologie a principy
 
-**Pán Jeskyně (PJ):** Někdy také označován jako Dungeon Master (DM) nebo třeba sudí. Je hráčem, který zprostředkovává herní svět, ve kterém se hráči se svými postavami pohybují.  Jeho úkoly jsou především popisovat hráčům svět, nestranně reagovat na akce hráčů a také vyjasnit či rozsoudit jakékoliv nejasnosti co se týkají pravidel nebo jejich interakcí se světem. 
+**Pán Jeskyně (PJ):** Někdy také označován jako Dungeon Master (DM). Je hráčem, který zprostředkovává herní svět, ve kterém se hráči se svými postavami pohybují.  Jeho úkoly jsou především popisovat hráčům svět, nestranně reagovat na akce hráčů a také vyjasnit či rozsoudit jakékoliv nejasnosti co se týkají pravidel nebo jejich interakcí se světem. 
 
-**Hráčova Postava (PC):** Je hráčova reprezentace v imaginárním kolektivním světě. Tahle postava má své statistiky, schopnosti a výbavu, které může aplikovat na řešení problémů ve světě. Hráčova postava není nutně hrdinou příběhu. Nýbrž jen další proměnou, která má dopad na fungování společného světa.
+**Hráčova Postava (PC):** Je hráčova reprezentace v imaginárním kolektivním světě. Tahle postava má své statistiky, schopnosti a výbavu, které může aplikovat na řešení problémů ve světě.
 
-**Deník Postavy:** Je libovolný list papíru, sešit či elektronický záznam, ve kterém jsou zapsány všechny údaje a statistiky hráčovy postavy. Pokud chcete deník postavy pro specificky tuhle verzi pravidel, můžete jej najít [zde](https://www.tkds.cz/). ==TODO: New Link==
+**Deník Postavy:** Je libovolný list papíru, sešit či elektronický záznam, ve kterém jsou zapsány všechny údaje a statistiky hráčovy postavy. Pokud chcete deník postavy pro specificky tuhle verzi pravidel, můžete jej najít [zde](https://www.tkds.cz/).
 
 **Cizí Postavy (NPC):** Jsou všechny ostatní postavy, které jsou ovládány pánem jeskyně a se kterými se mohou setkat a interagovat.
 
@@ -52,7 +52,7 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Více kostková notace:** Pokud je vyžadován hod více kostek naráz, je počet hozených kostek indikován před *k*. Například *3k6* znamená: Hoď 3 šesti-stranné kostky a sečti výsledek.
 
-**Modifikátory:** Někdy může být třeba přičíst k hozeným kostkám nějaký bonus, nebo odečíst postih. Tyto modifikátory se připojují znaménkem *+* nebo *-* za hodnotu kostky. Například *3k6+2* znamená:  Sečti výsledek hodu tří šesti-stranných kostek a přičti 2. Více o modifikátorech zde ==todo odkaz na typy==
+**Modifikátory:** Někdy může být třeba přičíst k hozeným kostkám nějaký bonus, nebo odečíst postih. Tyto modifikátory se připojují znaménkem *+* nebo *-* za hodnotu kostky. Například *3k6+2* znamená:  Sečti výsledek hodu tří šesti-stranných kostek a přičti 2. Více o modifikátorech [zde](https://pravidla.tkds.cz/Pravidla%20a%20procedury/Adventures/#bonusy-a-postihy).
 
 **Procentní hody:** Někdy může být třeba vyhodnotit akci s procentuální šancí na úspěch. K tomu slouží procentní hod, značen jako *k%* nebo *k100*. Takový hod se hází za pomocí *2k10*, kdy si hráč předem určí, která kostka představuje desítky a která jednotky. Ve výsledném hodu pak dvě nuly reprezentují *100*. Pokud je výsledek na kostce nižší nebo stejný jako je stanovená šance, tak je hod úspěšný.
 
@@ -60,11 +60,13 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Přímý hod:** Je nemodifikovaný hod kostkou proti určité HU. Vhodný například pro vyřešení čistě náhodných situací.
 
-**Stupně úspěchu:** Všechny ověřovací hody kostkou (mimo přímé hody). Mají 4 stupně úspěchu: *Kritický neúspěch*, *Neúspěch*, *Úspěch* a *Kritický úspěch*. Překonání *HU* o *10* nebo více značí *Kritikcý úspěch*. Podhození *HU* o *10* nebo více pak značí *Kritický neúspěch*. Hod přirozených *20* a *1* pak jednotlivě zvedá a snižuje výsledek o jeden stupeň. Může se tedy stát, že úspěšné pokoření *HU* hodem přirozené *1* udělá z výsledku *Neúspěch* (na místo Kritikcého neúspěchu).
+**Stupně úspěchu:** Naprostá většina ověřovacích hodů *k20* (mimo přímé hody). Mají 4 stupně úspěchu: *Kritický neúspěch*, *Neúspěch*, *Úspěch* a *Kritický úspěch*. Překonání *HU* o *10* nebo více značí *Kritikcý úspěch*. Podhození *HU* o *10* nebo více pak značí *Kritický neúspěch*. Hod přirozených *20* a *1* pak jednotlivě zvedá a snižuje výsledek o jeden stupeň. Může se tedy stát, že úspěšné pokoření *HU* hodem přirozené *1* udělá z výsledku *Neúspěch*.
 
 **Tajný hod (TH)**: Je druh hodu, který hází DM a hráč  nevidí přímý výsledek hodu kostky. Tajný hod se používá například při  prozkoumávání oblastí, kdy hráč neví, jestli nic nenašel, protože v dané oblasti nic není nebo proto, že výsledek ověřovacího hodu byl špatný.
 
 **Zaokrouhlování:** Pokud není stanoveno jinak, tak se dělené hodnoty zaokrouhlují vždy dolů.
+
+**Kumulativní zdvojnásobení:** Pokud dojde k případu, kdy by měl být efekt vícekrát zdvojnásoben. Jakékoliv další zdvojnásobení mimo to první, přidá pouze +1 k násobiči. Například dvakrát zdvojnásobené poškození bude pouze trojnásobné nikoliv čtyřnásobné.
 
 <img src="/assets/sep_line.png"/>
 
@@ -74,7 +76,7 @@ Vysvětlivky speciálních jednotek používaných při hře.
 
 ### Váha
 
-K měření váhy se používají standardní jednotky metrického systému (gramy, kilogramy, tuny atd..) Lze se však čistě z herního hlediska setkat s pojmem *Slot*. Více o vahách a nosnostech zde. ==TODO: Odkaz==
+K měření váhy se používají standardní jednotky metrického systému (gramy, kilogramy, tuny atd..) Lze se však čistě z herního hlediska setkat s pojmem *Slot*. Více o vahách a nosnostech [zde](/Gear/#nosnost-a-skladnost).
 
 ### Vzdálenost
 
@@ -98,16 +100,6 @@ Peníze jsou základním platidlem a odměnou za dobře odvedenou práci. Peníz
 - **1 zl = 10 st = 100 md**
 - **1 st = 10 md**
 
-!!! Note "Škála a význam peněz"
-    Pro lepší představu 1 stříbrný, je obnos, který si přibližně vydělá nevzdělaný rolník za 1 den své práce. Běžní strážní si pak vydělají kolem 2 až 3 stříbrných za den. Stříbro se pak používá převážně mezi běžnými obchodníky, zatímco vyšší společnost preferuje zlato. Platinové mince jako takové neexistují, ale používají se čistě pro účely účetnictví. 
-
-#### Stříbrný standard
-
-Hra používá takzvaný stříbrný standard. To znamená, že stříbrné mince jsou nejběžnějším platidlem a také, že naprostá většina cen v těchto pravidlech je uvedená ve stříbře.
-
-!!! warning "Přepočet bohatství"
-	Rozhodnete-li se čerpat dobrodružství z jiných OSR či B/X D&D materiálů. Bude získávání pokladu, tak jak psáno v takových předlohách, poskytovat postavám více bohatství než je vhodné.  Poklad je třeba překonvertovat z často používaného zlatého standardu na ten stříbrný. Konverze je jednoduchá. Původní hodnota *měděných se zahodí*, *zlato* a *stříbro* se konvertuje *1:1 o stupeň dolů* (zl -> st, st -> md) a případné *platinové mince* se překonvertují na zlaté *vydělením 10-ti*.
-
 <img src="/assets/sep_line.png"/>
 
 ## Herní statistiky
@@ -116,7 +108,7 @@ Hráčské postavy jsou popsány souborem statistik, které definují jejich sch
 
 ### Dovednosti 
 
-Každá hráčská postava je popsáná šesti základními fyzickými a mentálními parametry. Těmi jsou: *Síla*, *Obratnost*, *Výdrž*, *Vzdělání*, *Rozvaha* a *Osobnost*. V těchto statistikách je hráčova postava ohodnocena na stupnici -3 až 3. Více o tom, co jaká dovednost ovlivňuje, najdete [zde](/Dovednosti).
+Každá hráčská postava je popsáná šesti základními fyzickými a mentálními parametry. Těmi jsou: *Síla*, *Obratnost*, *Výdrž*, *Vzdělání*, *Rozvaha* a *Osobnost*. V těchto statistikách je hráčova postava ohodnocena na stupnici *-4* až *+4*. Více o tom, co jaká dovednost ovlivňuje, najdete [zde](/Dovednosti).
 
 ### Rasa
 Hráčská postava může být buď člověk nebo některá z ostatních hráčům dostupných ras. různé rasy mají různé speciální schopnosti a volba rasy také může ovlivnit, jak na vás budou ostatní stvoření ve světě reagovat. To však záleží především na PJ, jeho světě a příběhu, který chce vyprávět.
@@ -129,9 +121,6 @@ Každá hráčská postava má svou specializaci dobrodruha, která ji uděluje 
 
 Úroveň představuje zkušenost postavy jako dobrodruha. Hráč většinou začíná na úrovni 1 a může svou úroveň zvýšit získáváním zkušeností.
 
-!!! warning "Hit dice"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem *hit dice*. Hit dice je vesměs totéž, co úroveň a často se na základě ní určují životy ale i třeba velikost monster. Pro účely konverze životů na tento systém. Lze předpokládat, že *1 hit dice (HD)* reprezentuje jeden hod buď dle povolání, *k8* pokud nemá povolání a pro nehumanoidní monstra pak *k12*. Například pro určení životů nehumanodního monstra s *3+2 HD* se hází *3k12+2*.
-
 ### Zkušenostní body (XP)
 Postup postavy ve hře je reprezentován kumulací zkušenostních bodů. Když hráčova postava získá dostatek zkušenostních bodů, postoupí na další úroveň. Počet potřebných zkušenostních bodů k dosažení nové úrovně a způsoby získávání zkušeností naleznete popsané [zde](/LevelUp).
 
@@ -143,9 +132,6 @@ Postup postavy ve hře je reprezentován kumulací zkušenostních bodů. Když 
 ### Obranné číslo (OČ)
 Určuje schopnost postavy vyhnout se nebo vykrýt útok. Obranné číslo je modifikováno zručností postavy a typem zbroje, kterou postava nosí. Čím větší obranné číslo, tím hůře lze postavu zasáhnout.
 
-!!! warning "Přepočet descending AC"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na AC (OČ), které se s vylepšováním snižuje na místo zvyšování. Pro přepočet na OČ *odečtěte* hodnotu psanou v materiálu *od 19-ti*. Například zbroj poskytující *5 DAC* přepočítáte na OČ následovně: *19 - 5 = 14 OČ*.
-
 ### Záchranné hody
 
 Určují schopnost postavy vyhnout se některým nebezpečným či dokonce smrtelným efektům. Více o záchranných hodech [zde](/Pravidla a procedury/Adventures/#zachranne-hody)
@@ -154,12 +140,9 @@ Určují schopnost postavy vyhnout se některým nebezpečným či dokonce smrte
 
 Určuje schopnost postavy zasáhnout nepřítele v boji. Výše tohoto modifikátoru je určena převážné specializacemi postavy a její úrovní. Mohou na něj však mít vliv i některé dovednosti.
 
-!!! warning "Přepočet THAC0"
-	Rozhodnete-li se čerpat dobrodružství nebo monstra z jiných OSR či B/X D&D materiálů. Můžete narazit na pojem THAC0 (To Hit AC 0), který se s vylepšováním snižuje namísto zvyšování. Pro přepočet THAC0 na modifikátor zásahu *odečtete* hodnotu psanou v materiálu *od 19-ti*. Například útok s *THAC0 10* přepočítáte na ToHit následovně: *19 - 10 = +9 ToHit*.
-
 ### Hybnost
 
-Hybnost představuje základní rychlost, s jakou se postava zvládá pohybovat za 1 kolo. Při cestování na velké vzdálenosti (například putování divočinou) je počet kilometrů, které může postava v přívětivých podmínkách ujít za den, trojnásobkem této hybnosti. 
+Hybnost představuje základní rychlost, s jakou se postava zvládá pohybovat za použití jedné strategické akce. Při cestování na velké vzdálenosti (například putování divočinou) je počet kilometrů, které může postava v přívětivých podmínkách ujít za den, trojnásobkem této hybnosti. 
 
 !!! note "Příklad: Putování mezi městy"
 	Putuje-li člověk s mírnou zátěží a hybností *9 metrů* mezi městy spojenými cestou. Za den cesty ujde *27 kilometrů*.

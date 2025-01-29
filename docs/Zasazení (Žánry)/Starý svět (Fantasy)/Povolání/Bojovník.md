@@ -80,7 +80,7 @@ Od 11. úrovně může bojovník provést 2 útoky jako součást jedné *běžn
 
 ## Talenty ==todo seřadit dle abecedy==
 
-Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro bojovníka níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
+Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro bojovníka níže, jeden z obecných talentů [zde](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/talenty/#obecne-talenty) nebo si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 

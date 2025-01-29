@@ -54,7 +54,7 @@ Mnich používá své tělo jako smrtelnou zbraň. Jeho neozbrojené útoky jsou
 
 Mnich se může naučit několik bojových stylů. V jednu chvíli může mít mnich aktivní pouze jeden bojový styl. Bojové styly se dají měnit za použití *strategické akce* a může být vybrán *na začátku boje jako volná akce*. Mnich začíná hru se *stylem kudlanky*.
 
-- **Styl kudlanky:** V tomto stylu může mnich jako součást jedné *běžné akce* provést 2 neozbrojené útoky proti stejnému nepříteli za *1k4+Síla* tupého poškození za každý útok. Oba útoky mají *situační postih -2* k zásahu.
+- **Styl kudlanky:** V tomto stylu může mnich jako součást jedné *běžné akce* provést 2 neozbrojené útoky proti stejnému nepříteli působící *1k4+Síla* tupého poškození každým útokem. Oba útoky mají *situační postih -2* k zásahu.
 
 ### Či
 
@@ -79,13 +79,13 @@ Mnich, který selže v záchranném hodu nebo je zasažen útokem nepřítele. M
 
 ## Talenty ==todo seřadit dle abecedy==
 
-Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro bojovníka níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
+Pokaždé když bojovník obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro bojovníka níže, jeden z obecných talentů [zde](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/talenty/#obecne-talenty) nebo si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 
 - chrámové zbraně
 - bojové postoje
-- Příležitostný útok (talent level 5)
+- Příležitostný útok (talent level 4)
 - bojové manévry
 - Využívání či, jako třeba chytání šípů atd
 - reduced fall damage big jumps a tak

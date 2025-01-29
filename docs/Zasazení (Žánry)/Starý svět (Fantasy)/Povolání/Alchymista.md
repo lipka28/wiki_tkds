@@ -1,4 +1,4 @@
-# ==todo== Alchymista
+# Alchymista
 
 <img src="/assets/sep_line.png"/>
 
@@ -51,14 +51,14 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 
 Alchymista disponuje schopností vytvářet alchymistické předměty za pomocí receptur a alchymistických činidel. Efekty těchto předmětů jsou většinou jednorázového rázu a vychází z efektů kouzel. Alchymista není omezen magickými disciplinami pro účely objevování a tvorby takovýchto efektů.
 
-- **Alchymistická činidla:** Alchymista disponuje schopností sbírat činidla z padlých nepřátel za pomocí extrakce ==todo: odkaz==. Tato činidla pak slouží jako měna k výrobě alchymistických předmětů. Alchymista obdrží činidla na začátku hry dle tabulky postupu výše. Na dalších úrovních však již činidla nedostává a ani se nějak neregenerují.
-- **Receptury:** Alchymista pro svou výrobu potřebuje mimo jiné i receptury. Alchymista začíná hru s *knihou receptů* obsahující *1+Vzdělání* receptur vlastního výběru. Receptury může vybírat buď ze základních alchymistických receptur níže ==todo: odkaz== nebo z libovolného seznamu kouzel ==todo: odkaz==. Aby se však z kouzla stala vhodná receptura musí se první zkombinovat s alchymistickou formou ==todo: odkaz== níže. Cena receptury na základě kouzla v činidlech odpovídá jeho ceně v magii.
-- **Alchymie a posílené verze kouzel:** Pro účely alchymie jsou základní verze kouzel a jejich posílené verze považovány za rozlišené efekty. Pro vytvoření receptury z posíleného efektu kouzla je třeba mít přístup k receptuře základní verze kouzla v libovolné formě. Pokud se efekt stupňuje s každým posílením, může být třeba mít i receptury předchozího posílení. 
+- **Alchymistická činidla:** Alchymista disponuje schopností sbírat činidla z padlých nepřátel za pomocí [extrakce](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/Povol%C3%A1n%C3%AD/Alchymista/#extrakce). Tato činidla pak slouží jako měna k výrobě alchymistických předmětů. Alchymista obdrží činidla na začátku hry dle tabulky postupu výše. Na dalších úrovních však již činidla nedostává a ani se nějak neregenerují. Do *1 slotu* v inventáři se vejde až *10 činidel*.
+- **Receptury:** Alchymista pro svou výrobu potřebuje mimo jiné i receptury. Alchymista začíná hru s *knihou receptů* obsahující *1+Vzdělání* receptur vlastního výběru. Receptury může vybírat buď ze [základních alchymistických receptur](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/Povol%C3%A1n%C3%AD/Alchymista/#zakladni-alchymisticke-receptury) nebo z libovolného [seznamu kouzel](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#seznam-kouzel). Aby se však z kouzla stala vhodná receptura musí se první zkombinovat s alchymistickou [formou](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/Povol%C3%A1n%C3%AD/Alchymista/#alchymisticke-formy). Cena receptury na základě kouzla v činidlech odpovídá jeho ceně v magii.
+- **Alchymie a posílené verze kouzel:** Pro účely alchymie jsou základní verze kouzel a jejich posílené verze považovány za rozlišené receptury. Pro vytvoření receptury z posíleného efektu kouzla je třeba mít přístup k receptuře základní verze kouzla v libovolné formě. Pokud se efekt stupňuje s každým posílením, může být třeba mít i receptury předchozího posílení. 
 - **Získávání nových receptur:** Alchymista může získávat nové receptury zvýšením dovednosti Rozum, postupem na vyšší úroveň, nalezením receptur nebo získáním od jiného alchymisty, rozborem nalezených alchymistických předmětů a nebo vynalézáním.
 - **Denní výroba:** Alchymista může na začátku každého dne vyrobit *Um+Rozum* jednorázových alchymistických předmětů, na které má recepturu a dostatek činidel. Pokud si Alchymista vybere takovou výrobou strávit celý den, může vyrobit až *dvojnásobek* takových předmětů.
 - **Vynalézání:** Ve volné chvíli se může alchymista věnovat vynalézání. A tím objevovat nové receptury či vyrábět permanentní alchymistické předměty (vynálezy). Mechanicky vynalézání funguje stejně jako magický výzkum popsán [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
 - **Alchymistické náčiní:** Jakákoliv alchymistická aktivita, ať už se jedná o výrobu, vynalézání, rozbor, extrakci či cokoliv jiného vyžaduje použití *alchymistických nástrojů* nebo přístup k alchymistické dílně.
-- **Výrobky do začátku:** Při tvorbě postavy si může alchymista vyrobit libovolný počet alchymistických předmětů pro které má recepturu a dostatek činidel. Tato výroba nespotřebovává alchymistické nástroje.
+- **Výroba do začátku:** Při tvorbě postavy si může alchymista vyrobit libovolný počet alchymistických předmětů pro které má recepturu a dostatek činidel. Tato výroba nespotřebovává alchymistické nástroje.
 
 ### Alchymistické formy
 
@@ -68,7 +68,7 @@ Při vynalézání nové receptury nebo modifikace nějaké stávající, si alc
 - **Bomba:** Provede svůj efekt při rozbití o cíl. Kdokoliv může hodit bombu. Házení bomby se řídí pravidly pro [Hození lektvaru](/Gear/#jednoduche-zbrane-na-dalku). Pokud původní efekt umožňuje záchranný hod. Záchranný hod zasaženého cíle je *modifikovaný situačním postihem* v závislosti na úspěšnosti zásahu. Zásah = *-1*; Kritický zásah = *-2*.
 - **Jed:** Poskytuje negativní efekt při vypití, setkání s kůží nebo proniknutím do zranění. Kdokoliv může použít jed. Lze [aplikovat na zbraň](/Gear/#aplikace-jedu-na-zbran).
 - **Lektvar:** Poskytuje pozitivní efekt po vypití. Kdokoliv může vypít lektvar.
-- **Prach:** Vyhozením prachu do vzduchu vyvolá efekt na vzdálenost 1 metru (dotyk). Pouze alchymista může použít prach.
+- **Prach:** Vyhozením prachu do vzduchu vyvolá efekt na vzdálenost 1 metru (dotyk). Prach může použít libovolný alchymista.
 - **Vynález:** Kompletně kopíruje efekt původního kouzla avšak rozsah, dosah a trvání (pokud nějaké) původního efektu jsou poloviční. Pouze alchymista, který vynález vyrobil jej může použít.
 
 **Skladnost:** Všechny alchymistické formy mimo vynálezu mají skladnost *L*. Vynálezy mají skladnost *1*.
@@ -85,12 +85,12 @@ Při vynalézání nové receptury nebo modifikace nějaké stávající, si alc
 | Místo / předmět v dosahu X metrů                             | Alchymistický šíp / Bomba / Vynález       |
 | Kouzlo vyžaduje koncentraci                                  | Nelze!                                    |
 | Dotyk                                                        | Lektvar / Prach / Vynález                 |
-| Sesilatel                                                    | Funguje jako dotyk                        |
+| Sesilatel                                                    | Stejné jako dotyk                         |
 | Ostatní (Kužel , Stěna, Linie, Oblast kolem sesilatele atd..) | Vynález                                   |
 
 ### Extrakce
 
-Alchymista může strávit *1 směnu* extrakcí činidel z čerstvě mrtvých těl padlých nepřátel (nesmí být mrtví déle jak 1 směnu) nebo jiného vhodného materiálu. Tahle akce může probíhá automaticky po každém boji (pokud je na ni prostor). Množství získaného materiálu záleží na *úrovni nepřátel* a hodu na ověření Vzdělání. Pokud je zdroj extrakce nějakým způsobem vzácný či magický, množství získaných činidel je dvojnásobné.
+Alchymista může strávit *1 směnu* extrakcí činidel z čerstvě mrtvých těl padlých nepřátel (nesmí být mrtví déle jak 1 směnu) nebo jiného vhodného materiálu. Tahle akce může probíhá automaticky po každém boji (pokud je na ni prostor). Množství získaného materiálu záleží na *úrovni nepřátel* a hodu na ověření *Vzdělání*. Pokud je zdroj extrakce nějakým způsobem vzácný či magický, množství získaných činidel je dvojnásobné.
 
 - **Kritický úspěch:** Množství získaných činidel je dvojnásobné.
 - **Úspěch:** Množství získaných činidel odpovídá *úrovni nepřítele / 2*
@@ -130,7 +130,7 @@ Od 11. úrovně může alchymista provést *rychlou alchymii* jako *volnou akci*
 
 ## Talenty ==todo seřadit dle abecedy==
 
-Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro mága níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
+Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro mága níže, jeden z obecných talentů [zde](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/talenty/#obecne-talenty) nebo si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 
@@ -152,7 +152,6 @@ Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď 
 - Poison resistance
 - Energy resistance ? (Electric, fire, Acid, frost)
 - Kámen mudrců.
-- Dvojitá výroba (2 stejné předměty druhá half price)
 - Poison master jako lotr?
 - Risky identification. (Pokus se identifikovat lektvar drobným kontrolovaným srknutím, šance nebýt pod efektem lektvaru a zachovat lektvar?)
 - Nová forma: mutagen (permanentní efekt za ztrátu výdrže)

@@ -1,4 +1,4 @@
-# Ochránce ==todo: koncept dobrý, dokopat ulti==
+# Ochránce
 
  ==TODO remake==
 
@@ -70,7 +70,7 @@ Pokud má ochránce zvednutý štít a hrozí, že obdrží poškození. Může 
 
 Ochránce umí kouzlo *Léčení* ==todo: odkaz==, tohle kouzlo se nepočítá vúči jeho limitu kouzel a nelze jej vyměnit. Navích ochránce disponuje *Um+Rozvaha* body *pozitivní energie*. Tyto body se doplňují rychlostí *1 za den* a umožňují ochránci seslat základní formu léčení jako *strategickou akci*.
 
-### Revitalizace (Úroveň 4)
+### Revitalizace (Úroveň 3)
 
 Ochránce umí kouzlo *Očista* ==todo: odkaz==, tohle kouzlo se nepočítá vůči jeho limitu kouzel a nelze jej vyměnit. Navíc při seslání *léčení* za pomocí *pozitivní energie* si může ochránce vybrat, zda chce vyléčit *dvojnásobné množství životů* nebo standardní množství a k tomu seslat základní formu kouzla *očista*. 
 
@@ -93,7 +93,7 @@ Buď extra reakce, nějká mistická forma nebo forma obětování se?
 
 ## Talenty ==todo seřadit dle abecedy==
 
-Pokaždé když ochránce obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro ochránce níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
+Pokaždé když ochránce obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro ochránce níže, jeden z obecných talentů [zde](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/talenty/#obecne-talenty) nebo si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 

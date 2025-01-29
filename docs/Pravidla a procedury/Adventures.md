@@ -226,13 +226,15 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 **Hlad a žízeň:** Pokud postavy jsou déle jak den bez jídla nebo pití, tak mohou být postihnuty únavou.
 
-### Voda a plavání ==todo: rework pravděpodobnosti na ověřovací hody==
+### Voda a plavání
 
 Jednou z nejnebezpečnější překážek,se kterou se postavy mohou setkat, je voda. Pro stvoření ponořené ve vodě platí následující postihy.
 
 **Rychlost plavání:** Stvoření bez určené hybnosti plavání, mají rychlost plavání odpovídající *polovině své hybnosti*.
 
-**Zadržení dechu:** Postava může zadržet dech na tolik kol kolik je její *hodnota výdrže*. Pokud postava obdrží kritický zásah, neuspěje v záchranném hodu a obdrží poškození, pokusí se mluvit nebo jí prostě dojde dech, tak se začne topit. Topící se postava musí být vytažena na souš a recitovávána do *výdrž postavy / 3* kol jinak zemře.
+**Zadržení dechu:** Postava může zadržet dech na počet kol odpovídající 6+*Výdrž*. Pokud postava obdrží kritický zásah nebo kriticky neuspěje v záchranném hodu ztratí jedno kolo dechu. Pokud stvoření promluví nebo se pokusí seslat kouzlo, ztratí všechen zbývající dech.
+
+**Topení se:** Stvoření kterému dojde pod vodou dech se začne topit. Topící se stvoření je v bezvědomí a obdrží *2k6* poškození každé kolo. Je-li stvoření vyléčeno a je mu obnoven přísun vzduchu, přijde k sobě a přestane se topit.
 
 **Viditelnost pod vodou:** Stvoření bez ochrany očí nebo schopnosti dýchat pod vodou. Vidí, za ideálních podmínek (čistý otevřený oceán za jasného dne), přibližně *6 metrů* kolem sebe pouze obrysy. Pro účely boje je takové stvoření efektivně slepé. V případě, že stvoření může vidět pod vodou je pak dohled kolem *60 metrů* (za ideálních podmínek).
 
@@ -242,11 +244,10 @@ Jednou z nejnebezpečnější překážek,se kterou se postavy mohou setkat, je 
 - **Střední zbroj:** šance jít ke dnu je *75%*
 - **Těžká zbroj:** šance jít ke dnu je *100%*
 - **Magická zbroj:** jsou magické a netáhnou nositele ke dnu
-- **Překročení poloviny nosnosti pro uschované předměty:** šance jít ke dnu se zvětšuje o *25%*
 
-**Zbraně:** Střelné zbraně a zbraně působící tupá poškození jsou pod vodou nepoužitelné. Sečné zbraně útočí s postihem *-4* na zásah a při úspěšném zásahu působí *poloviční poškození*. Bodné zbraně fungují normálně.
+**Zbraně:** Střelné zbraně a zbraně působící tupá poškození jsou pod vodou nepoužitelné. Sečné zbraně útočí se *situačním postihem -4* na zásah a při úspěšném zásahu působí *poloviční poškození*. Bodné zbraně fungují normálně.
 
-**Kouzla:** Pokud stvoření nemůže pod vodou mluvit, tak nemůže sesílat kouzla. Navíc všechna ohnivá kouzla jsou pod vodou nepoužitelná.
+**Kouzla:** Pokud stvoření nemůže pod vodou mluvit, tak nemůže sesílat kouzla. Navíc všechna kouzla užívající oheň jsou pod vodou nepoužitelná.
 
 <img src="/assets/sep_line.png"/>
 

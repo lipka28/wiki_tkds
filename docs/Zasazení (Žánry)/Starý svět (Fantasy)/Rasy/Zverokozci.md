@@ -62,7 +62,7 @@ Poddruhy mají přiděleny některé z následujících speciálních vlastnost�
 - **Malý** - Jsi malého vzrůstu a protáhneš se i na místa kam se běžný člověk nedostane. Máš také situační bonus +1 k OČ proti střelným útokům a útokům na blízku od velkých stvoření.
 - **Obojživelník** - Umíš plavat stejnou rychlostí jako je tvá hybnost na souši. Navíc dokážeš získávat malé množství kyslíku z vody, to ti umožňuje být pod vodou až 1 hodinu bez nutnosti nadechnutí.
 - **Okřídlený** - Můžeš plachtit hybností *10 metrů*. Každý metr horizontálního pohybu se rovná jednomu metru vertikálního pohybu. Dopad na zem při plachtění nepůsobí žádná zranění. Pokud padáš volným pádem, můžeš se pokusit začít plachtit úspěšným ověřením *Obratnosti*.
-- **Přírodní zbraň** - Můžeš použít své drápy, zuby nebo jinou adekvátní část těla, k provedení útoku za *1k4+Síla* poškození (typ poškození záleží na útoku, většinou průrazné nebo sečné). Takový útok je považován za útok *obratnou zbraní*.
+- **Přírodní zbraň** - Můžeš použít své drápy, zuby nebo jinou adekvátní část těla, k provedení útoku za *1k4+Síla* poškození (typ poškození záleží na útoku, většinou průrazné nebo sečné). Takový útok je považován za útok *jednoduchou zbraní na blízku* s vlastností *Obratná*.
 - **Rychlost** - Tvá hybnost je *12 metrů*.
 - **Vidění ve tmě** - Vidíš ve tmě stejně dobře jako za normálního světla akorát černobíle.
 

@@ -72,7 +72,7 @@ Hraničář se může pokusit utvořit pouto s nalezeným zvířetem. Pokud je p
 - **Chování:**  Zvířecí společník bude následovat jednoduché pokyny bez toho, aby pro ně musel být předtím trénován. (I takové pokyny, které třeba nejsou pro daný zvířecí druh běžné.)
 - **Chování v boji:** Věrný zvířecí společník bude oddaně bojovat po boku lovce a nikdy nemusí ověřovat morálku. V boji zvířecí společník drží po boku lovce a chrání jej, pokud mu není dán jiný příkaz.
 - **Příkaz:** Hraničář může použít svou *strategickou akci*, aby dal svému zvířeti příkaz. Zvíře pak vykonává příkaz tak dlouho dokud jej nedokončí nebo dokud nedostane jiný příkaz. Zvíře má na vykonání příkazů, každé kolo k dispozici *běžnou akci* a *strategickou akci*.
-- **Zvíře do začátku:** Pokud si lovec přeje, může začínat hru se [zvířetem vlastního výběru](/Gear/#lovecky-pes) zdarma, který bude fungovat jako jeho věrný společník.  ==todo výběr zvířat do začátku==
+- **Zvíře do začátku:** Pokud si lovec přeje, může začínat hru se [zvířetem vlastního výběru](/Gear/#lovecky-pes) zdarma, který bude fungovat jako jeho věrný společník.
 - **Získávání zkušeností:** Věrný zvířecí společník, po ochočení, začíná s tolika zkušenostmi kolik je nutné minimum pro jeho aktuální úroveň a *získává zkušenosti* jako další člen skupiny. S každou dosaženou úrovní obdrží *+4 životy*. S každou druhou dosaženou úrovní bonus *+1* k zásahu, poškození a záchranným hodům, a s každou třetí dosaženou úrovní bonus *+1* k OČ. Dosažené úrovně se počítají od úrovně na které se zvíře stalo věrným společníkem. Zvířecí společník nemůže tímto způsobem nikdy přesáhnout 10. úroveň avšak hraničář si může ochočit zvířecího společníka vyšší než 10. úrovně pokud na to sám má úroveň.
 - **Ježdění:** Zvířecí společníci 5. a vyšší úrovně, jsou dostatečně velcí aby na nich mohli jezdit stvoření velikostí podobná člověku.
 - **Smrt:** Pro věrného zvířecího společníka platí stejná pravidla smrti jako pro hráče. Pokud i tak přesto zemře. Hraničář může strávit *týden* hledáním a tréninkem, a získat tak obdobného zvířecího společníka stejné úrovně jako ten předchozí. Neplatí pro neobvyklá a vzácná zvířata. Také veškeré speciální magické efekty a nabyté zkušenosti předchozího společníka jsou ztraceny.
@@ -146,7 +146,7 @@ Dojde-li na tasení zbraní či překvapení, hraničář 11. nebo vyšší úro
 
 ## Talenty ==todo seřadit dle abecedy==
 
-Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro hraničáře níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
+Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro hraničáře níže, jeden z obecných talentů [zde](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/talenty/#obecne-talenty) nebo si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 
@@ -208,7 +208,7 @@ Pokaždé když hraničář obdrží dle tabulky postupu talent. Může si vybra
 **Efekt:** Hraničář se od víl naučil nějaké kouzla *živelné magie*. To znamená, že hraničář může aktivovat magické hůlky, sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
 
 - **Magie:** Hraničář disponuje *Základní magie rasy+6+Rozvaha* magické energie zvané magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Přirozená regenerace magie odpovídá *2+Rozvaha* za přenocování.
-- **Kouzla:** Hraničář obdrží *1+Vzdělání* (min. 1) kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé když získá bod dovednosti do vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Hraničář nemůže mít nebo se naučit více kouzel, než které získá z tohohle či jiného magického talentu.
+- **Kouzla:** Hraničář obdrží *1+Vzdělání* (min. 1) kouzel dle vlastního výběru ze svého [seznamu kouzel](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#zivelna-magie). Pokaždé když získá bod dovednosti do vzdělání tak získá nové kouzlo (pokud se vzdělání sníží, kouzlo zapomene). Hraničář nemůže mít nebo se naučit více kouzel, než které získá z tohohle či jiného magického talentu.
 
 <img src="/assets/sep_line.png"/>
 

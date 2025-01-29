@@ -59,7 +59,7 @@ Druidova schopnost *přirozené regenerace* se liší od ostatních stvoření. 
 Druid disponuje schopností používat magii spadající do disciplíny *živelná magie*. To znamená, že druid umí aktivovat magické hůlky, magické hole, sesílat kouzla z magických svitků a získávat a sesílat vlastní kouzla, z této disciplíny.
 
 - **Magie:** Druid disponuje magickou energií zvanou magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací v závislosti na schopnosti *cyklus života*.
-- **Kouzla:** Druid začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého seznamu kouzel ==todo odkaz==. Pokaždé, když se druidovi zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Druid nemůže umět více kouzel než je jeho *úroveň+Vzdělání* (max. 10+Vzdělání).
+- **Kouzla:** Druid začíná hru s *1+Vzdělání* kouzel dle vlastního výběru ze svého [seznamu kouzel](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#zivelna-magie). Pokaždé, když se druidovi zvýší vzdělání nebo za každou sudou úroveň. Získá 1 nové kouzlo (pokud se vzdělání sníží kouzlo zapomene). Druid nemůže umět více kouzel než je jeho *úroveň+Vzdělání* (max. 10+Vzdělání).
 - **Výměna kouzel:** Jelikož druid získává svou moc z živelných sil a přírody může si při každém přenocování, kdy obdrží alespoň *normální přirozenou regeneraci* z cyklu života, vyměnit 1 ze svých ovládaných kouzel za jiné ze svého seznamu kouzel nebo jiného dostupné kouzlo ze své disciplíny. 
 - **Magický výzkum:** Ve volné chvíli se druid může zabývat magickým výzkumem. Druidové nižších úrovní se mohou věnovat pouze výzkumu  nových kouzel a výrobě jednorázových magických předmětů (například svitků). Od *5. úrovně* však může vyrábět i permanentní magické předměty. Více o magickém výzkumu [zde](https://pravidla.tkds.cz/Pravidla a procedury/Downtime/#magicky-vyzkum).
 - **Jednoduchá kouzla:** Druid může zdarma provádět jednoduchou magii na vzdálenost až *3 metry*. U druida se většinou jedná o přírodní věci jako vyvolání vůně květin, vyčarování malé květiny, závan větru a podobně. Efektivně by však nemělo použití takového kouzla vézt k řešení nějakého problému.
@@ -91,7 +91,7 @@ Od 3. úrovně m
 
 ## Talenty ==todo seřadit dle abecedy a dodělat==
 
-Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro mága níže, jeden z obecných talentů (zde ==todo okdaz==) nebo si ve spolupráci s PJ vytvořit vlastní talent.
+Pokaždé když mág obdrží dle tabulky postupu talent. Může si vybrat buď jeden z talentů specifických pro mága níže, jeden z obecných talentů [zde](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/talenty/#obecne-talenty) nebo si ve spolupráci s PJ vytvořit vlastní talent.
 
 - more shapes a level
 - humanoid shape

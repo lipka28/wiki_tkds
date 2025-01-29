@@ -17,8 +17,6 @@ Specializace ovládající magii disponují schopností manipulovat a schraňova
 - **Cena kouzel:** Je stanovena v popisku kouzel samotných.
 - **Regenerace magie:** Stvoření ovládající magii si odpočinkem většinou doplní *2+Rozvaha* magické energie.
 
-==todo conversion note (ceny mana u npc atd, viz excel)==
-
 <img src="/assets/sep_line.png"/>
 
 ## Magické esence, disciplíny a seznamy kouzel
@@ -30,7 +28,7 @@ Magie není nic jiného než manipulace, tvorba nebo destrukce magických esenc�
 - **Mystická magie** - Často nazívaná *bílou magií*.  Zabývá se kouzly využívající esence *Duše* a *Života*, a jejich aplikace v léčení a ochraně před zlými silami. 
 - **Živelná magie** - Také označovaná jako *prapůvodní* či *magie z Fey*. Jako magie, která nejspíše stvořila tento svět se živelná magie zabývá kouzly využívající esence *Života* a *Materié*. Využití pak nachází v manipulaci živlů, léčení a přírodní magii.
 
-**Řazení kouzel do disciplín:** Málo kdy je kouzlo součástí pouze jedné magické disciplíny. Logika věci spočívá v tom, že stejného magického efektu, lze dosáhnout manipulací odličných esencí. Základní rozdělení kouzel do disciplín, lze najít v seznamech kouzel níže ==TODO: Odkaz==. Pokud se rozhodnete přidávat vlastní kouzla, je důležité zvážit jakými esencemi lze kouzlo napodobit a do jaké disciplíny tématicky zapadá. PJ má vždy rozhodující slovo o tom, do jaké disciplýni kouzlo patří.
+**Řazení kouzel do disciplín:** Málo kdy je kouzlo součástí pouze jedné magické disciplíny. Logika věci spočívá v tom, že stejného magického efektu, lze dosáhnout manipulací odličných esencí. Základní rozdělení kouzel do disciplín, lze najít v seznamech kouzel [níže](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#seznam-kouzel). Pokud se rozhodnete přidávat vlastní kouzla, je důležité zvážit jakými esencemi lze kouzlo napodobit a do jaké disciplíny tématicky zapadá. PJ má vždy rozhodující slovo o tom, do jaké disciplýni kouzlo patří.
 
 <img src="/assets/sep_line.png"/>
 
@@ -375,16 +373,16 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 
 <img src="/assets/sep_line.png"/>
 
-### Duševní pouto ==todo: přespat, je jednosměrné a děje se na začátku tahu==
+### Duševní pouto
 
 **Cena:** <img src="/assets/action.png" width="20"> *2* magie
 
 **Dosah:** *10* metrů; **Cíl:** *1* ochotné stvoření
 
-**Efekt:** Vytvoří *1 směnu* trvající duševní spojení mezi sesilatelem a dalším ochotným stvořením. Podobu trvání kouzla si spojená stvoření vždy na začátku svého tahu předají *2 životy* (nebo rozdíl mezi maximální a aktuálním stavem životů, záleží co je nižší). A to tím způsobem, že stvoření s aktuálně menším počtem životů obdrží životy od zdravějšího propojence.
+**Efekt:** Vytvoří *1 směnu* trvající duševní spojení mezi sesilatelem a dalším ochotným stvořením. Při vyčarování kouzla a na začátku každého sesilatelova tahu během trvání kouzla, propojené stvoření obdrží *2 životy* (nebo rozdíl mezi maximální a aktuálním stavem životů, záleží co je nižší). Sesilatel tolik životů ztratí.
 
 - **Léčení:** Tohle kouzlo nevyužívá žádných pozitivních či negativních energií. Benefity kouzla fungují stejně jak na živé, neživé či nemrtvé bytosti. Kouzlo ignoruje dočasné životy a podobné efekty.
-- **Smrt:** Pokud některý z propojených ztratí všechny své životy, kouzlo se ukončí.
+- **Smrt:** Pokud sesilatel ztratí všechny své životy, kouzlo je předčasně ukončeno.
 
 **Posílení:**
 
