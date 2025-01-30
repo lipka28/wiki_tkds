@@ -2,9 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/OW/classes/Mage.png)
-
-<img src="/assets/sep_line.png"/>
+![Image title](/assets/OW/classes/Alchymista.webp)
 
 *==todo: remake for alch==*
 

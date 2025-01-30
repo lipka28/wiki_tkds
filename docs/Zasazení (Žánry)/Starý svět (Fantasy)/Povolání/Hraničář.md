@@ -2,9 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/OW/classes/Hunter.png)
-
-<img src="/assets/sep_line.png"/>
+![Image title](/assets/OW/classes/Hranicar.webp)
 
 ==todo: reword==*Lovci jsou nepřekonatelní průvodci divočinou. Díky svým znalostem přírody a stopovacím schopnostem. Jsou nepostradatelní v každé skupině dobrodruhů, která plánuje cestu do neznáma. Lovci jsou mistři lukostřelby a jejich vybroušené smysly jim pomohou se vyhnout kde jaké léčce. Často chodí ověšení, kde jakými zuby, či lebkami na symbol toho, jak silná monstra dokázali ulovit. Lovec také nikdy není sám, jelikož mu dělá společnost perfektně vycvičené zvíře, které samo dokáže zahnat ne jednoho protivníka. Povolání Lovce je vhodné pro kohokoliv kdo má blízko k přírodě a rád zneškodňuje nepřátele dřív, než se k němu dostanou.*
 

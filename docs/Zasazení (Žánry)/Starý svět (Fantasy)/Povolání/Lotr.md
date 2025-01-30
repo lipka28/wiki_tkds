@@ -2,9 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/OW/classes/Thief.png)
-
-<img src="/assets/sep_line.png"/>
+![Image title](/assets/OW/classes/Lotr.webp)
 
 *==todo: upravit/přepsat==Zloději jsou nepředvídatelní oportunisti, kteří za pomocí svých šikovných rukou a hbitých reflexů, ukradnou všechno co si zamanou. Žádná zlodějna jim není cizí a to bez zanechání stop. Když příjde na nejhorší, nůž do zad vyřeší veškeré problémy. A co zákony? Pro zloděje jsou to spíš taková neohrabaná doporučení. Povolání zloděje je vhodné pro každého kdo má rád všechny své akce důkladně promyšlené a nechce se zbytečně omezovat pravidly.*
 

@@ -4,9 +4,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/OW/classes/Lightbringer.png)
-
-<img src="/assets/sep_line.png"/>
+![Image title](/assets/OW/classes/Ochrance.webp)
 
 Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šesti strážců
 

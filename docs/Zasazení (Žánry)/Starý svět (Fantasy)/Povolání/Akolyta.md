@@ -2,9 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-![Image title](/assets/OW/classes/Acolyte.png)
-
-<img src="/assets/sep_line.png"/>
+![Image title](/assets/OW/classes/Akolyta.webp)
 
 *Akolyty jsou oddaní služebníci svého mocného patrona, kterému na základě vzájemného paktu slouží. Patronem může být jakékoliv mocné stvoření přes vílu až po démona. Život akolyty je věčné zápolení s neviditelnými pouty patrona a balancování a hranici vlastní svobody a loajality k patronovi. Svoboda je sice důležitá ale často trestána. Zato loajalita je odměněna mocnými dary. Povolání akolyty je vhodné pro kohokoliv kdo hledá velkou moc a nebojí se pro ni upsat třeba i ďáblu.*
 
