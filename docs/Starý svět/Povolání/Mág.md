@@ -1,4 +1,4 @@
-# Mág
+# Mág ==TODO: Rework vi EXCEL==
 
 <img src="/assets/sep_line.png"/>
 
@@ -30,7 +30,7 @@
 
 **Získané Dovednosti:** *+1 Vzdělání*
 
-**Trénované zbraně:** Jednoduché zbraně
+**Trénované zbraně:** Neozbrojené útoky a jednoduché zbraně
 
 **Trénovaná brnění:** Žádné
 

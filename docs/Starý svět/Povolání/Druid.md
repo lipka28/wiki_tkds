@@ -1,4 +1,4 @@
-# Druid
+# Druid ==TODO: Rework vi EXCEL==
 
 <img src="/assets/sep_line.png"/>
 
@@ -30,7 +30,7 @@
 
 **Získané Dovednosti:** *+1 Rozvaha*
 
-**Trénované zbraně:** Jednoduché zbraně
+**Trénované zbraně:** Neozbrojené útoky a jednoduché zbraně
 
 **Trénovaná brnění:** Lehké
 
@@ -40,7 +40,7 @@
 
 Pro každou specializace existují nějaké předpokládané aktivity ve, kterých by měla vynikat. Do provádění těchto aktivit si může daná specializace přičíst *bonus za um* z tabulky postupu výše. Stejně tak pokud specializace obdrží schopnost nebo talent vyžadující ověření dovednosti, může si přičíst svůj bonus za um. U ostatních ověření dovedností, si hráč musí přičtení umu obhájit u PJ na základě toho, zda by jeho specializace měla v dané aktivitě vynikat.
 
-- **Možné využití umu:** Aktivity spojené s přírodou a přežití v divočině, stopování, znalosti o přirozeně se vyskytujících mosntrech, vycítění magie a její identifikace.
+- **Možné využití umu:** Aktivity spojené s přírodou a přežití v divočině, stopování, znalosti o přirozeně se vyskytujících monstrech, interakce se zvířaty a vílami, vycítění magie a její identifikace.
 - **Bojové užití umu:** Tvůj um se připočítává k tvému hodu na zásah u zbraní se kterými si trénovaný a také ke všem tvým záchranným hodům.
 
 ### Cyklus života
@@ -50,7 +50,7 @@ Druidova schopnost *přirozené regenerace* se liší od ostatních stvoření. 
 - **Jaro nebo místo živelné síly:** Regenerace je *dvojnásobná*. Jedná-li se o místo živelné síly stačí s ním přijít do kontaktu během daného dne.
 - **Léto:** Regenerace je *normální*.
 - **Podzim, zima nebo nehostinné prostředí:** Regenerace je *poloviční*. Za nehostinné prostředí může být považována například písečná nebo polární poušť. Regenerace je také poloviční při přenocování v kobkách.
-- **Bez přístupu k přírodě nebo extrémní prostředí:** Pokud se druid během dne nedostane ke kousku živé přírody (např. rostlina, čerstvá voda či živé zvíře). Neobdrží za přenocování *žádnou přirozenou regeneraci*. Totéž platí pokud se nachází v místech, které se vylučují s jeho magií (paralelní pláně smrti). 
+- **Bez přístupu k přírodě nebo extrémní prostředí:** Pokud se druid během dne nedostane ke kousku živé přírody (např. rostlina, čerstvá voda či živé zvíře). Neobdrží za přenocování *žádnou přirozenou regeneraci*. Totéž platí pokud se nachází v místech, které se vylučují s jeho magií (například paralelní pláně smrti). 
 
 ### Živelná magie
 
@@ -65,8 +65,6 @@ Druid disponuje schopností používat magii spadající do disciplíny *živeln
 ### Za jedno s přírodou
 
 Druid se v divočině cítí stejně dobře jako v bezpečí osady. Pokud se druid nachází v divočině s dostatečným množství zvířat a poživatelných rostlin, nepotřebuje *zásoby* (neplatí v kobkách). Druid se navíc může zbavit vážných zranění i mimo bezpečí civilizace.
-
-- **Přítel divočiny:** Druid má *situační bonus +2* při interakcích se zvířaty, vílami a monstry zvířecí inteligence.
 
 ### Přeměna ve zvíře (úroveň 3)
 

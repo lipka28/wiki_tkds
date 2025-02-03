@@ -6,7 +6,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-## Souboje
+## Souboje ==TODO: 3 action economy, zahodit iniciativu ve prospěch rychlého (2 akce)/ pomalého (3 akce) kola==
 
 | BOJOVÁ SEKVENCE KAŽDÉ KOLO                                   |
 | :----------------------------------------------------------- |
@@ -15,7 +15,7 @@
 | *2. Ostatní strany jsou na řadě*                             |
 | *3. Zpět na krok 2 dokud není souboj ukončen.*               |
 
-**Taste zbraně!:** Každý účastník boje hodí *1k20+Obratnost* (monstra většinou jen 1k20) a na základě svých hodů se seřadí do iniciativy. Pokud vznikla remíza mezi hráčem a nepřítelem, nepřítel má přednost. Stvoření se stejnou hodnotou iniciativy v rámci jedné skupiny, mohou hrát v libovolném pořadí si určí.
+**Taste zbraně!:** Každý účastník boje hodí *1k20+Um+Obratnost* (monstra 1k20 + statický modifikátor) a na základě svých hodů se seřadí do iniciativy. Pokud vznikla remíza mezi hráčem a nepřítelem, nepřítel má přednost. Stvoření se stejnou hodnotou iniciativy v rámci jedné skupiny, mohou hrát v libovolném pořadí si určí.
 
 **Ověření morálky:** Stvoření mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se vzdát nebo dát na útěk. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti.
 
@@ -40,7 +40,7 @@
 
 **Dosah útoků:** Dosah útoku je dán velikostí a typem zbraně.
 
-**Cíl v úkrytu:** Cíle co jsou kompletně schované v úkrytu není možné trefit střelnou zbraní. Cíl v částečném úkrytu má *situační bonus do OČ* v rozsahu *-1* až *-4* PJ. (malý stůl může být -1, zatímco hustý les nebo mlha může být -4)
+**Cíl v úkrytu:** Cíle co jsou kompletně schované v úkrytu není možné trefit střelnou zbraní. Cíl v částečném úkrytu má *situační bonus do OČ* v rozsahu *-1* až *-4* dle úvahy PJ. (malý stůl může být -1, zatímco hustý les nebo mlha může být -4)
 
 **Střelba přes spojence:** Je považováno za cíl v částečném úkrytu se *situačním bonusem +2 do OČ* cíle.
 
@@ -148,8 +148,14 @@ Některá stvoření mohou mít *odolnost* (poloviční poškození), *snížen�
 
 **Zaskočený:** Zaskočené stvoření se nemůže plně bránit a má *situační postih -2 do OČ*, *záchranných hodů* a *bojové HU*. Nejběžnější způsob zaskočení je útok na nic netušící stvoření. Zaskočení většinou bývá vázáno na specifickou situaci nebo efekt. Pokud zaskočení není vázáno na žádný jiný efekt neb daný efekt vypršel, zaskočení končí na konci tahu ovlivněného stvoření.
 
-**Zatížený:** Zatížené stvoření obdrží *situační postih -2* k pohybovým aktivitám vyžadující hod na ověření (Jako je třeba šplh, přeskakování překážek a jiné).
-
 **Znehybněný:** Znehybněné stvoření má *hybnost 0* a je *zaskočené*.
+
+==todo conditions==
+
+Attitudes: Friendly, Helpful, Hostile, Indifferent, Unfriendly
+Death and Dying: Doomed, Dying, Unconscious, Wounded
+Degrees of Detection: Hidden, Observed, Undetected, Unnoticed
+Lowered Abilities: Clumsy, Drained, Enfeebled, Stupefied
+Senses: Blinded, Concealed, Dazzled, Deafened, Invisible
 
 <img src="/assets/sep_line.png"/>

@@ -1,4 +1,4 @@
-# Akolyta
+# Akolyta ==TODO: Rework vi EXCEL on HOLD==
 
 <img src="/assets/sep_line.png"/>
 
@@ -12,7 +12,7 @@
 
 | ÚROVEŇ |              HP              |             Přízeň             |  Um  |                           Odemyká                            |
 | :----: | :--------------------------: | :----------------------------: | :--: | :----------------------------------------------------------: |
-|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+8+Osobnost |  +2  |             Um, Patron, Patronská magie, Podpora             |
+|   1    | Základní životy rasy+6+Výdrž | Základní magie rasy+8+Osobnost |  +2  |              Um, Pakt, Patronská magie, Podpora              |
 |   2    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +2  |                      Talent, +1 Kouzlo                       |
 |   3    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +2  |                           Spojení                            |
 |   4    |          +1k6+Výdrž          |         +1k8+Osobnost          |  +3  |                      Talent, +1 Kouzlo                       |
@@ -41,7 +41,7 @@ Ověření reakce patrona funguje stejně jako *ověření Osobnosti* avšak vý
 
 **Získané Dovednosti:** *+1 Osobnost*
 
-**Trénované zbraně:** Jednoduché zbraně
+**Trénované zbraně:** Neozbrojené útoky a jednoduché zbraně
 
 **Trénovaná brnění:** Žádné
 
@@ -58,7 +58,7 @@ Pro každou specializace existují nějaké předpokládané aktivity ve, který
 
 ### Pakt
 
-Každá akolyta má uzavřený pakte se svým patronem. Tento pakt ji poskytuje její moc. V první řadě si [vytvoř patrona](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/Povol%C3%A1n%C3%AD/Akolyta/#tvorba-patrona). Patron může mít v kampani výraznou roli, zadávat akolytě úkoly, pomáhat jí, mít sní neshody a nebo může fungovat jen jako nepodstatný zdroj kouzel pro akolytu. Jak moc bude Patron v kampani zapojen záleží na domluvě s PJ. Minimálně však patron poskytuje symbol, který je třeba k používání akolytiných schopností, magickou disciplínu a nějaké přikázání, zákazy a pokání pro řešení nelibosti patrona.
+Každá akolyta má uzavřený pakt se svým patronem. Tento pakt ji poskytuje její moc. V první řadě si [vytvoř patrona](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/Povol%C3%A1n%C3%AD/Akolyta/#tvorba-patrona). Patron může mít v kampani výraznou roli, zadávat akolytě úkoly, pomáhat jí, mít sní neshody a nebo může fungovat jen jako nepodstatný zdroj kouzel pro akolytu. Jak moc bude Patron v kampani zapojen záleží na domluvě s PJ. Minimálně však patron poskytuje symbol, který je třeba k používání akolytiných schopností, magickou disciplínu a nějaké přikázání, zákazy a pokání pro řešení nelibosti patrona.
 
 - **Nadpřirozená regenerace:** Tak dlouho dokud je akolyta v přízni svého patrona její regenerace *přízně a života* odpovídá *2\*(Um+Osobnost)*.
 - **Nepřízeň patrona:** Pokud akolyta není v přízni patrona ztrácí všechny své výjimečné schopnosti mimo ovládání magie a sesílání základních forem kouzel. Pro návrat do přízně musí podstoupit pokání.
@@ -73,7 +73,7 @@ Akolyta disponuje schopností používat magii spadající do disciplíny *dle s
 - **Výměna kouzel:** Jelikož akolyta získává svou moc od svého patrona, může při každém přenocování, kdy je v přízni patrona, požádat patrona o výměnu 1-ho ze svých ovládaných kouzel za jiné ze svého seznamu kouzel nebo jiné dostupné kouzlo ze své disciplíny. Zda jí bude vyhověno je rozhodnuto na základě *ověření reakce patrona* (jiný výsledek než ne).
 - **Symbol Patrona:** Při sesílání svých kouzel se musí akolyta rukou dotýkat svého symbolu patrona.
 - **Posílení kouzel:** Akolyta může bez přímého požehnání patrona sesílat jen *základní formy svých kouzel*. Pro seslání posílených verzí musí při každém takovém čarování podstoupit *ověření reakce patrona*. Pokud akolyta neuspěje kouzlo se nesešle.
-- **Přenosná zodpovědnost:** Akolyta zodpovídá za dodržování přikázání a zákazů svého patrona i těmi, kteří aktivně nebo dlouhodobě benefitují z magické moci akolyty.
+- **Přenosná zodpovědnost:** Akolyta zodpovídá za dodržování nakázání a zákazů svého patrona i těmi, kteří aktivně nebo dlouhodobě benefitují z magické moci akolyty.
 
 ### Podpora
 
@@ -85,7 +85,7 @@ Od 3. úrovně může akolyta strávit *1 směnu* meditací a pokusit se naváza
 
 - **Pravdivost odpovědi:** Většina patronů odpovídá pravdivě (například Juna) avšak někteří patroni mohou odpovídat čistě dle vlastních zájmů.
 
-### Zázračný rituá (Úroveň 7)
+### Zázračný rituál (Úroveň 7)
 
 Od 7. úrovně může akolyta strávit *1 hodinu* prováděním zázračného rituálu, který vytvoří libovolný magický efekt spadajícího do *magické disciplíny* patrona.
 

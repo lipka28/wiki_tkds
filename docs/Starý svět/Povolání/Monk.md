@@ -1,4 +1,4 @@
-# Tianxijský mnich
+# Tianxijský mnich ==TODO: Rework vi EXCEL==
 
 <img src="/assets/sep_line.png"/>
 
@@ -30,7 +30,7 @@
 
 **Získané Dovednosti:** *+1 Síla nebo Obratnost*
 
-**Trénované zbraně:** Jednoduché zbraně
+**Trénované zbraně:** Neozbrojené útoky a jednoduché zbraně
 
 **Trénovaná brnění:** Žádné
 

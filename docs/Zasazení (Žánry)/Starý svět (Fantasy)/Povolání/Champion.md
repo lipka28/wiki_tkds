@@ -1,4 +1,4 @@
-# Ochránce
+# Ochránce ==todo: udělat další pass nad schopnostma==
 
  ==TODO remake==
 
@@ -34,7 +34,7 @@ Ochránci jako elitní rytíři, chránící pořádek pod praporem církve šes
 
 **Získané Dovednosti:** *+1 Síla nebo Výdrž*
 
-**Trénované zbraně:** Jednoduché a válečné zbraně
+**Trénované zbraně:** Neozbrojené útoky, jednoduché a válečné zbraně
 
 **Trénovaná brnění:** Všechny včetně štítů
 
@@ -66,20 +66,15 @@ Pokud má ochránce zvednutý štít a hrozí, že obdrží poškození. Může 
 
 ### Pozitivní energie
 
-Ochránce umí kouzlo *Léčení* ==todo: odkaz==, tohle kouzlo se nepočítá vúči jeho limitu kouzel a nelze jej vyměnit. Navích ochránce disponuje *Um+Rozvaha* body *pozitivní energie*. Tyto body se doplňují rychlostí *1 za den* a umožňují ochránci seslat základní formu léčení jako *strategickou akci*.
+Ochránce umí kouzlo *Léčení* ==todo: odkaz==, tohle kouzlo se nepočítá vůči jeho limitu kouzel a nelze jej vyměnit. Navíc ochránce disponuje *Um+Rozvaha* body *pozitivní energie*. Tyto body se doplňují rychlostí *1 za den* a lze za ně seslat základní formu léčení jako *strategickou akci*.
 
-### Revitalizace (Úroveň 3)
+### Aura odhodlání (Úroveň 3)
+
+Od 3. úrovně, Má ochránce a všichni jeho spojenci v okolí *3 metrů*. Stavový bonu *+1* k záchranným hodům na Vůli. Efekt aurory platí jen pokud je ochránce při vědomí.
+
+### Revitalizace (Úroveň 7)
 
 Ochránce umí kouzlo *Očista* ==todo: odkaz==, tohle kouzlo se nepočítá vůči jeho limitu kouzel a nelze jej vyměnit. Navíc při seslání *léčení* za pomocí *pozitivní energie* si může ochránce vybrat, zda chce vyléčit *dvojnásobné množství životů* nebo standardní množství a k tomu seslat základní formu kouzla *očista*. 
-
-### Mistr štítu (Úroveň 7)
-
-Tvá schopnost blokování štítem je vylepšena následujícími způsoby:
-
-- Schopnost lze použít bez nutnosti prvně zvednout štít a po jejím použití štít zůstává zvednutý.
-- Schopnost lze použít ve prospěch spojence do vzdálenosti *1 metru* od ochránce.
-- Prvních *8 poškození* z každého blokovaného úderu je blokováno zdarma (nesnižuje OČ štítu)
-- Jedenkrát za kolo, pokud použití blokování předejde smrti spojence. Reakce, která byla využita na blokování je obnovena.
 
 ### Some Ability (Úroveň 11) ==todo==
 
@@ -105,6 +100,11 @@ Pokaždé když ochránce obdrží dle tabulky postupu talent. Může si vybrat 
 - aurory ... spousta
 - extended auras
 
-### Aura odhodlání (Úroveň 4)
+### Mistr štítu (jako talent)
 
-Od 4. úrovně, mají spojenci v okolí *3 metrů* kolem ochránce. Stavový bonu *+1* k záchranným hodům na Vůli a ověření morálky.
+Tvá schopnost blokování štítem je vylepšena následujícími způsoby:
+
+- Schopnost lze použít bez nutnosti prvně zvednout štít a po jejím použití štít zůstává zvednutý.
+- Schopnost lze použít ve prospěch spojence do vzdálenosti *1 metru* od ochránce.
+- Prvních *8 poškození* z každého blokovaného úderu je blokováno zdarma (nesnižuje OČ štítu)
+- Jedenkrát za kolo, pokud použití blokování předejde smrti spojence. Reakce, která byla využita na blokování je obnovena.

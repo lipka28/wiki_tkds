@@ -1,4 +1,4 @@
-# Alchymista
+# Alchymista ==TODO: Rework vi EXCEL==
 
 <img src="/assets/sep_line.png"/>
 
@@ -30,7 +30,7 @@
 
 **Získané Dovednosti:** *+1 Vzdělání*
 
-**Trénované zbraně:** Základní zbraně
+**Trénované zbraně:** Neozbrojené útoky a jednoduché zbraně
 
 **Trénovaná brnění:** Lehké včetně štítů
 

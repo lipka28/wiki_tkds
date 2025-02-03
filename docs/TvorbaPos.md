@@ -13,6 +13,7 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 Ke všem svým dovednostem si zapiš hodnotu *0*. V následujících krocích si budeš vybírat *rasu* a *specializaci* a na základě nich modifikovat své dovednosti. V rámci žádného z následujících kroků si nesmíš navýšit jednotlivou dovednost více jak jedenkrát.
 
 - Vyber si *rasu*, zapiš si její název do deníku postavy a modifikuj dovednosti své postavy tak jak ti udává vybraná rasa.
+- Vyber si původ ==todo: původy== (Stat + Free stat + Skill a něco navíc?)
 - Vyber si *specializaci* dobrodruha, zapiš si její název do deníku postavy a modifikuj dovednosti své postavy tak jak ti udává vybraná specializace.
 - Jako závěrečný krok určení dovedností tvé postavy si ještě rozděl *4* dovednostní body.
 - **Dobrovolný postih:** Pokud si hráč přeje, může si ubrat 2 body z libovolných dovedností a přidat si 1 bod do libovolné dovednosti. Touhle změnou však žádná dovednost nesmí přesáhnout hodnotu *+3*.
