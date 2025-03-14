@@ -6,12 +6,6 @@
 
 <img src="/assets/sep_line.png"/>
 
-TEST
-
-| <img src="/assets/Basics.png"/> | <img src="/assets/Basics.png"/> |
-| ------------------------------- | ------------------------------- |
-| <img src="/assets/Basics.png"/> | <img src="/assets/Basics.png"/> |
-
 ## Konkrétní pravidla přebíjí obecná
 
 Ve hře se nachází spousta obecných pravidel a procedur, které by se měli následovat. Hráči však často získají různé výjimky z těchto pravidel v podobě schopností, kouzel či magických předmětů. Proto je dobré míti na paměti, že specifická pravidla, jako je třeba popis fungování kouzla, vždy přebíjí ta obecná. 
@@ -167,7 +161,7 @@ Jsou speciální schopnosti, které si hráčské postavy mohou odemykat postupe
 
 ### Um
 
-Představuje stupeň ovládnutí dané dovednosti. Tyto stupně jsou 4 a to: *netrénovaný*, *trénovaný*, *expert* a *mistr*. Kdy každý stupeň nad *netrénovaným* zvyšuje bonus k provádění aktivit spojených s danou dovedností. Tento bonus je *+2*, *+4* a *+6*.
+Představuje stupeň ovládnutí dané dovednosti. Tyto stupně jsou 4 a to: *amatér*, *začátečník*, *expert* a *mistr*. Kdy každý stupeň nad *amatér* zvyšuje bonus k provádění aktivit spojených s danou dovedností. Tento bonus je *+2*, *+4* a *+6*.
 
 ### Úroveň
 

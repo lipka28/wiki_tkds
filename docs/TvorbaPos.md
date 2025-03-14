@@ -8,7 +8,47 @@
 
 Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://www.tkds.cz/). Jak budeš připraven, následuj tyto kroky.
 
-## 1. Dovednosti, výběr rasy a specializace
+## 1. Vytvoř si koncept
+
+asd
+
+## 2. Začni s počítáním atributů
+
+asd
+
+## 3. Vyber si rasu
+
+asd
+
+## 4. Vyber si původ
+
+asd
+
+## 5. Vyber si specializaci
+
+asd
+
+## 6. Dopočítej si atributy
+
+asd
+
+## 7. Zapiš si ostatní schopnosti své specializace
+
+asd
+
+## 8. Urči svou nosnost a nakup výbavu
+
+asd
+
+## 9. Poznač si um svých dovedností a oprav modifikátory
+
+asd
+
+## 10. Detaily
+
+asd
+
+## 2. Dovednosti, výběr rasy, původu a specializace
 
 Ke všem svým dovednostem si zapiš hodnotu *0*. V následujících krocích si budeš vybírat *rasu* a *specializaci* a na základě nich modifikovat své dovednosti. V rámci žádného z následujících kroků si nesmíš navýšit jednotlivou dovednost více jak jedenkrát.
 

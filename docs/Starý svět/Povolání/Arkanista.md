@@ -1,4 +1,4 @@
-# Mág ==TODO: Rework vi EXCEL==
+# Arkanista ==TODO: Rework vi EXCEL==
 
 <img src="/assets/sep_line.png"/>
 

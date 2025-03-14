@@ -1,4 +1,4 @@
-# Akolyta ==TODO: Rework vi EXCEL on HOLD==
+# Theurg ==TODO: Rework vi EXCEL on HOLD==
 
 <img src="/assets/sep_line.png"/>
 

@@ -43,7 +43,7 @@ Vytrvalost představuje zdraví a odolnost. Ověření výdrže se hodí třeba 
 
 ## Vzdělání
 
-Vzdělání představuje rozsah vzdělání, jaké bylo postavě poskytnuto, ale i do jisté míry to, jak zvládá pracovat s informacemi. Ověření vzdělání je užitečné především při vybavování si informací, luštění všelijakých textů, identifikaci magických předmětů a jiných podobných aktivitách.
+Vzdělání představuje rozsah vzdělání, jaké bylo postavě poskytnuto, ale i do jisté míry to, jak zvládá pracovat s informacemi. Ověření vzdělání je užitečné především při vybavování si informací, luštění všelijakých textů určitých magických disciplín, identifikaci magických předmětů určitých magických disciplín a jiných podobných aktivitách.
 
 **Gramotnost:** Postavy, které mají hodnotu vzdělání menší jak 0 jsou negramotné. To znamená, že neumí číst, psát a jejich schopnost počítat je výrazně omezena.
 
@@ -51,13 +51,13 @@ Vzdělání představuje rozsah vzdělání, jaké bylo postavě poskytnuto, ale
 
 - Ověřovací hody na vzdělání
 - Každý bod vzdělání nad 0 umožňuje postavě se naučit extra jazyk (zápornou hodnotou lze znalost jazyka ztratit)
-- Každý bod vzdělání nad 0 umožňuje naučit se extra ==todo kateogie schopností== dovednost (zápornou hodnotou lze dovednost ztratit)
+- Každý bod vzdělání nad 0 umožňuje naučit se extra obecnou dovednost (zápornou hodnotou lze dovednost ztratit)
 - Počet ovládaných kouzel u povolání, které ovládají magii
 - Efektivnost sesílání kouzel u některých povolání
 
 ## Rozvaha
 
-Soustředění, bystrost a síla vůle. Ověření rozvahy se používá třeba při snaze vycítit magii, hledání skrytého nebo aktivitách vyžadující dobrou drobnou koordinaci, jako je třeba odemykání zámků.
+Soustředění, bystrost a síla vůle. Ověření rozvahy se používá třeba při hledání skrytého nebo aktivitách vyžadující dobrou koordinaci "ruka oko", jako je třeba střílení z luku nebo odemykání zámků.
 
 **Vzdělání se přičítá k:**
 
