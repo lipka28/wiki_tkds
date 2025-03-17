@@ -1,3 +1,0 @@
-# Původy
-
-Zde se nachá

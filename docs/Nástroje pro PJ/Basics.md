@@ -2,8 +2,6 @@
 
 Zde přijdou věci jako jsou bestiáře, pravidla pro generování monster, generování náhodných encounterů a podobně.
 
-DCs: 10, 15, 20, 25
-
 ## Rozmístit: ==todo==
 
 ## Cestování po světě

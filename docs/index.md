@@ -6,7 +6,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-Vítejte *Tam, kde draci spí.* Nebo spíš v přehledu pravidel stejnojmenné stolní dobrodružné hry. Tahle hra je zamýšlena jako simplifikace Pathfinderu 2e, pro jednoduší hraní bez online asistenčních nástrojů a lepší improvizaci u stolu. Najdete zde zjednodušenou akční ekonomiku, která zrychlí souboje. Zjednodušený systém postupu na nové úrovně, který ale i tak nabízí spoustu možností vývoje vaší postavy. Dále pak pro české TTRPG již tradiční systém magie založený na magických bodech a mnoho dalšího.
+Vítejte *Tam, kde draci spí.* Nebo spíš v přehledu pravidel  stejnojmenné stolní dobrodružné hry. Tahle hra je původně založena na Low Fantasy gamimg. Je však modifikována a dále rozšířena o další mechanismy a procedury z jiných populárních stolních RPG a dobrodružných her jako jsou Pathfinder 2e, D&D 5e, Shadow of the Weird Wizard a další. ==todo: zmínit myšlenku více hrdinského low fantasy==
 
 ## Pravidlo 0
 

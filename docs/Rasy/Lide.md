@@ -1,4 +1,4 @@
-# Člověk
+# Lidé
 
 <img src="/assets/sep_line.png"/>
 
@@ -9,8 +9,6 @@
 ## Popis
 
 *==todo==*
-
-*I přes své časté mocenské ambice, lidé hluboko uvnitř touží, aby jim někdo vládl a říkal co mají dělat, a tím z nich shodil tíhu následků vlastních rozhodnutí. To dělá lidi extrémně náchylné k uctívání vyšších bytostí. A to i klidně ty nejvíce obskurní bohy nebo podivná stvoření.*
 
 **Lidská jména:** Lidská jména se velmi liší napříč místy původu a etnicitou s jaké daný člověk pochází. A na rozdíl od ostatních ras lidé nemají pevnou strukturu jmen. Každý člověk má také své rodné příjmení z nichž některá, mohou být považována za významná v lidském společenství.
 
@@ -34,22 +32,18 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 ## Vlastnosti
 
-**Získané Dovednosti:** *2 libovolné dovednostní body*
+**Vrozené jazyky:** "common" ==todo: vymyslet lepší jméno pro "common"==
 
-**Ztracené dovednosti:** -
+**Základní zdraví:** *8*
 
-**Vrozené jazyky:** Jazyk společenství + 1 libovolný jazyk
+**Velikost:** *1*
 
-**Základní životy:** *5*
-
-**Základní magie:** *5* (Pokud ovládá magickou disciplínu)
-
-**Hybnost:** 9 metrů
+**Hybnost:** *6 metrů*
 
 **Doba přirozeného dožití:** 50 - 70 let
 
 ## Speciální vlastnosti
 
-- **Všestranný** - Lidé si mohou aplikovat bonus *+1* na aktivity, na které nemohou aplikovat svůj um. To jim však neumožňuje provádět aktivity, které um vyžadují (jako například vycítění magie).
+- **Skrytý potenciál** - Dříme v tobě skrytý potenciál, který tě může vyšvihnout před ostatní. Připočítej si 1 extra dovednostní bod ke 2 tvým dovednostem.
 
 <img src="/assets/sep_line.png"/>
