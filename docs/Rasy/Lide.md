@@ -1,4 +1,4 @@
-# Lidé
+# Lidé ==todo: finish==
 
 <img src="/assets/sep_line.png"/>
 

@@ -36,8 +36,41 @@ Ověření dovednosti je klíčová mechanika této hry. Pokud PJ usoudí, že a
 - **Průběh ověření:** Hráč hodí dvaceti stěnou kostkou (k20) a přičte modifikátor dovednosti specifikovaný PJ.
 - **Hranice úspěchu:** Jestliže pravidla nespecifikují jinak, hod je *úspěšný* pokud je výsledek hodu větší nebo roven *10*.
 - **Hod proti jiné hodnotě:** Pravidla mohou také definovat jinou hranici úspěchu často definované jako *"ověření dovednosti proti ..."*. Hranicí úspěchu je pak hodnota specifikované dovednosti či atributu. Nejčastější využití je při útoku, kdy probíhá ověření Zdatnosti či Zručnosti proti soupeřově Obraně.
-- **Bonusy a Postihy:** Pokoušená aktivita může být těžší nebo lehčí v závislosti na okolnostech dané situace. Tyto okolnosti mohou být výsledkem nějakých kouzel, stavu zúčastněných či vyvstávat ze situace jako takové. Ověření dovednosti může být, mimo dovednost samotnou, také modifikováno určitým počtem Bonusů nebo Postihů.  Bonusy a Postihy se vzájemně odečítají 1 ku 1. Na konci čehož nelze mít více jak 4 Bonusy či postihy. Každý Bonus pak reprezentuje +2 modifikátor (v případě Postihu -2) k výslednému hodu.
+- **Bonusy a Postihy:** Pokoušená aktivita může být těžší nebo lehčí v závislosti na okolnostech dané situace. Tyto okolnosti mohou být výsledkem nějakých kouzel, stavu zúčastněných či vyvstávat ze situace jako takové. Ověření dovednosti může být, mimo dovednost samotnou, také modifikováno určitým počtem Bonusů nebo Postihů.  Bonusy a Postihy se vzájemně odečítají 1 ku 1. Na konci čehož nelze mít více jak 3 Bonusy či postihy. Každý Bonus pak reprezentuje +2 modifikátor (v případě Postihu -2) k výslednému hodu.
 - **Kritický úspěch a neúspěch:** Pokud výsledný hod (po přičtení všech modifikátorů) přesáhne hranici úspěchu o 10 nebo více jedná se o kritický úspěch. Opačně pak podhození hranice úspěchu o 10 nebo více znamená kritický neúspěch. Navíc hod přirozené 20 vždy zvedá stupeň úspěchu a hod přirozené 1 ho snižuje.  Pokud akce nemá pravidly popsaný efekt při kritickém úspěchu/neúspěchu. Potencionální dopad takového výsledku záleží čistě na PJ.
+
+#### Vzorové situace
+
+Seznam vzorových aktivit, které se při hře mohou běžně stát, jaké dovednosti jsou vhodné pro jejich vyřešení. Všechny uvedené příklady jsou jen pouhá doporučení. Každý PJ může přistoupit k řešení takových situací dle svého. 
+
+| Aktivita                                       |     Vhodná dovednost      |
+| ---------------------------------------------- | :-----------------------: |
+| Analýza nebo vybavení si informací o...        |        Inteligence        |
+| Balancování na kluzkém povrchu.                |         Zručnost          |
+| Identifikace alchymistických předmětů          |        Inteligence        |
+| Identifikace magických předmětů                |        Inteligence        |
+| Lhát                                           |         Osobnost          |
+| Nauč se kouzlo                                 |        Inteligence        |
+| Odemykání zámků                                |         Zručnost          |
+| Odvést pozornost                               |         Osobnost          |
+| Oprava předmětů                                |         Zručnost          |
+| Použití lékárničky (viz. výbava)               |        Inteligence        |
+| Požádat stvoření o...                          |         Osobnost          |
+| Proplížit se kolem nepřítele                   |         Zručnost          |
+| Přecházení po tenkém prkně.                    |         Zručnost          |
+| Přeskakování velkých děr                       |         Zdatnost          |
+| Přesvědčit někoho o něčem                      |         Osobnost          |
+| Připravit past                                 |         Zručnost          |
+| Rozlušti zašifrované spaní                     |        Inteligence        |
+| Stopování zvěře                                |         Zručnost          |
+| Šplhání po skále                               |         Zdatnost          |
+| Šplhání po stěnách bez zřejmých úchytů.        |         Zdatnost          |
+| Vybavení si znalostí o příšeře                 |        Inteligence        |
+| Vyhrožování a zastrašování                     |         Osobnost          |
+| Výroba předmětů                                | Zručnost nebo Inteligence |
+| Získávání informací                            |         Osobnost          |
+| Zneškodňování pastí                            |         Zručnost          |
+| Zpěv, předstírání nebo nějaký herecký výkon... |         Osobnost          |
 
 ### Štěstí
 
@@ -52,7 +85,7 @@ Ověření dovednosti je klíčová mechanika této hry. Pokud PJ usoudí, že a
 - **Doplnění štěstí:** Štěstí se doplňuje rychlostí 1 za den. Štěstí se také doplní na maximum po dokončení dobrodružství/úkolu.
 - **Alternativní využití:** Štěstí má i další možná využití. Může suplovat funkci záchraného hodu při setkání s pastí, hodu na překvapení nebo PJ může dle štěstí určit kdo bude cílem monstra.
 
-### Základní kompetence dobrodruha a Um
+### Základní kompetence dobrodruha
 
 Při vyhodnocování nejasných situací je dobré, aby PJ měl na paměti to, že hráčské postavy jsou především dobrodruzi. I z toho nejkřehčího mága se potýkáním z nástrahami kobek a divočiny stal schopný dobrodruh. S tím se pojí schopnosti provádět určité akce bez nutnosti ověřovacích hodů (ověřovací hod může být třeba ve vážně stížených podmínkách).
 
@@ -63,46 +96,6 @@ Při vyhodnocování nejasných situací je dobré, aby PJ měl na paměti to, �
 - **Plavání:** Šlapání vody a plavání na krátké vzdálenosti.
 - **Posouzení nebezpečnosti soupeře:** Jestli čelí adekvátnímu, slabšímu nebo silnějšímu soupeři.
 - **Odhadování ceny:** Odhad ceny pokladů, obrazů a jiných cenností.
-
-#### Um
-
-Předpokládá se, že každé povolání má dostatečné znalosti a schopnosti potřebné pro vykonávání aktivit s ním spjaté. Tyto znalosti mohou umožnit postavě provádět aktivity nebo si vybavit informace dostupné pouze pro dané povolání. Alternativně, jedná-li se o obecnou aktivitu o kterou, se mohou pokusit všichni. Může se hráč na základě povolání své postavy vyžádat jeden Bonus k danému ověření dovednosti, shodne-li se s PJ, že by jeho povolání mělo v dané aktivitě vynikat. 
-
-!!! note "Přiklady užití"
-	Odemykání zámků je příklad aktivity, který vyžaduje specifickou znalost. O takovou aktivitu by se tady mohl pokusit pouze Lotr. Například ukradení předmětu nepříteli je obecná aktivita o kteoru se může pokusit kdokoliv, ale Lotr si může vyžádat jeden Bonus.
-
-#### Vzorové situace
-
-Seznam vzorových aktivit, které se při hře mohou běžně stát, jaké dovednosti jsou vhodné pro jejich vyřešení a jestli by pro podstoupení hodu měl být požadován Um povolání. Všechny uvedené příklady jsou jen pouhá doporučení. Každý PJ může přistoupit k řešení takových situací dle svého. 
-
-| Aktivita                                       |     Vhodná dovednost      | Vyžaduje um |
-| ---------------------------------------------- | :-----------------------: | :---------: |
-| Analýza nebo vybavení si informací o...        |        Inteligence        |      -      |
-| Balancování na kluzkém povrchu.                |         Zručnost          |      -      |
-| Identifikace alchymistických předmětů          |        Inteligence        |     Ano     |
-| Identifikace magických předmětů                |        Inteligence        |     Ano     |
-| Lhát                                           |         Osobnost          |      -      |
-| Nauč se kouzlo                                 |        Inteligence        |     Ano     |
-| Odemykání zámků                                |         Zručnost          |     Ano     |
-| Odvést pozornost                               |         Osobnost          |      -      |
-| Oprava předmětů                                |         Zručnost          |      -      |
-| Použití lékárničky (viz. výbava)               |        Inteligence        |      -      |
-| Požádat stvoření o...                          |         Osobnost          |      -      |
-| Proplížit se kolem nepřítele                   |         Zručnost          |      -      |
-| Přecházení po tenkém prkně.                    |         Zručnost          |      -      |
-| Přeskakování velkých děr                       |         Zdatnost          |      -      |
-| Přesvědčit někoho o něčem                      |         Osobnost          |      -      |
-| Připravit past                                 |         Zručnost          |      -      |
-| Rozlušti zašifrované spaní                     |        Inteligence        |      -      |
-| Stopování zvěře                                |         Zručnost          |     Ano     |
-| Šplhání po skále                               |         Zdatnost          |      -      |
-| Šplhání po stěnách bez zřejmých úchytů.        |         Zdatnost          |     Ano     |
-| Vybavení si znalostí o příšeře                 |        Inteligence        |      -      |
-| Vyhrožování a zastrašování                     |         Osobnost          |      -      |
-| Výroba předmětů                                | Zručnost nebo Inteligence |     Ano     |
-| Získávání informací                            |         Osobnost          |      -      |
-| Zneškodňování pastí                            |         Zručnost          |     Ano     |
-| Zpěv, předstírání nebo nějaký herecký výkon... |         Osobnost          |      -      |
 
 <img src="/assets/sep_line.png"/>
 
@@ -146,19 +139,21 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 ### Obtížný terén
 
-Jakýkoliv terén, po kterém se může být obtížné pohybovat, je považovaný za obtížný terén. Příkladem může být bahnitá bažina či cesta zasypaná sněhem do výšky kolen. Každý metr pohybu v takovém prostředí stojí 2 body hybnosti.
+Jakýkoliv terén, po kterém se může být obtížné pohybovat, je považovaný za obtížný terén. Příkladem může být bahnitá bažina či cesta zasypaná sněhem do výšky kolen. Každý metr pohybu v takovém prostředí stojí o 1 bod hybnosti více. (Takže přesun o 3 metry v bahně bude stát 6 bodů hybnosti)
 
 Za pohyb obtížným terénem, jsou také považovány všechny formy pohybu, které se dají považovat za nepřirozené pro dané stvoření. Například u stvoření podobných člověku se dá za nepřirozený pohyb považovat vše mimo chůze/běhu (plavání, šplhání, plazení se atd.). Postavy, monstra i NPC mohou mít speciální schopnost, které jim umožní nějaké tyto postihy obejít.
 
+**Sčítání postihů za obtížný terén:** Postihy za obtížný terén jsou kumulativní. Pokud se například stvoření pokusí plížit močálem. Bude ho 1 metr pohybu stát 3 hybnosti (1 za močál a 1 za plížení). Pokud se však stvoření může hýbat, může se za všechnu svou hybnost vždy pohnout aspoň o 1 metr. Nezávisle na tom kolik hybnosti by pohyb ve skutečnosti stál.
+
 ### Viditelnost
 
-Další častou překážkou je viditelnost. Lze předpokládat, že za běžných podmínek a denního světla dohlédne každé stvoření nejdále jak může (většinou za obzor), i když přesná identifikace něčeho v dálce může vyžadovat nějaký ověřovací hod. 
+Další častou překážkou je viditelnost. Lze předpokládat, že za běžných podmínek a denního světla dohlédne každé stvoření nejdále jak může (většinou za obzor), i když přesná identifikace něčeho v dálce může vyžadovat nějaký ověřovací hod. Nejčastějším problémem je ale tma, ve které jsou hráčské postavy efektivně slepé. Tma se dá porazit pochodněmi, lucernami, či speciálními schopnostmi postav.
 
 V obtížné viditelnosti se pak rozlišují tři následující stavy a to Neviditelný, Ukrytý a Zastřený:
 
-- **Neviditelný:** Neviditelný subjekt nemůže být vnímán stvořeními jejichž jediný přesný smysl je zrak. Ať už z důvodu magie či překážky, která jej ukrývá (např. tma). Na neviditelné stvoření nelze přímo mířit žádné akce, které to vyžadují. Neviditelné stvoření lze odhalit pouze adekvátními akcemi (např. rožnout světlo) nebo se jej lze pokusit lokalizovat svými ostatními smysly a akcí úspěšným provedením akce "prohledat".
-- **Ukrytý:** Subjekt nelze vidět ale stvoření má jistou představu kde se ukrývá (třeba díky úspěšnému použití akce "prohledat"). Na takový subjekt lze cílit kouzla, útoky a jiné podobné akce. Avšak ty probíhají s *3-mi Postihy*.
-- **Zastřený:** Subjekt lze vidět ale jeho tvar či přesná pozice není jasná kvůli snížené viditelnosti. Na takový subjekt lze cílit kouzla, útoky a jiné podobné akce. Avšak ty probíhají s *Postihem*.
+- **Neviditelný:** Neviditelný subjekt nemůže být vnímán stvořeními jejichž jediný přesný smysl je zrak. Ať už z důvodu magie či překážky, která jej ukrývá (např. tma). Na neviditelné stvoření nelze přímo mířit žádné akce, které to vyžadují. Neviditelné stvoření lze odhalit pouze adekvátními akcemi (např. rozsvítit světlo). Cíle útoku *Neviditelných* stvoření jsou *Zaskočené*.
+- **Ukrytý:** Subjekt nelze vidět ale stvoření má jistou představu kde se ukrývá. Takový subjekt má efektivně *Krytí* a je *Zastřený*. (Krytí je popsáno v pravidlech boje zde ==todo:odkaz==)
+- **Zastřený:** Subjekt lze vidět ale jeho tvar či přesná pozice není jasná kvůli snížené viditelnosti. Útoky na zastřený cíl probíhají s Postihem.
 
 Různá stvoření, včetně hráčských postav mohou mít speciální schopnosti, které jim umožňují vnímat svět trochu jinak než normální lidé. Tohle jsou nejčastější varianty těchto schopností:
 
@@ -172,19 +167,19 @@ Různá stvoření, včetně hráčských postav mohou mít speciální schopnos
 Hráčské postavy se během hry, také musí vykonávat s všelijakými negativními stavy, které mohou uvalovat různé postihy na provádění všelijakých akcí.
 
 - **Doba trvání:** Naprostá většina negativních efektů nemá pevně určenou dobu trvání. Doba trvání bývá stanovena efektem, který negativní stav způsobil.
-- **Kumulace negativních stavů:** Negativní stavy stejného druhu se sčítají. Za předpokladu, že dané stavy pochází z jiných zdrojů. Ukončení každého takového stavu se pak řeší odděleně.
+- **Kumulace negativních stavů:** Negativní stavy stejného druhu se sčítají (pokud je to logicky možné). Za předpokladu, že dané stavy pochází z jiných zdrojů. Ukončení každého takového stavu se pak řeší odděleně. Výjimkou je stav *Zaskočený*, jehož efekt, lze mít na sobě pouze jednou (Pro jeho odstranění je se však třeba zbavit všech instancí tohohle stavu).
 - **Vázání na jiné efekty:** Negativní stav, který je vázán na jiný probíhající efekt nelze samostatně odstranit. Pro jeho odstranění je třeba s zbavit původního efektu co negativní stav způsobil.
 
 #### Seznam negativních stavů
 
 - **Bezmocný:** Tvé tělo je kompletně znehybněno bez jakékoliv možnosti se bránit nebo provádět nějaké aktivity. Všechny hody proti tvé Zdatnosti, Zručnosti nebo Obraně automatiky uspějí. Je možné tě okamžitě usmrtit jedním úderem vhodnou zbraní (většinou čepel).
 - **Bezvědomí:** *Ležíš na zemi* a jsi *Bezmocný*. Pokud je tento stav způsoben běžným spánkem. Můžeš se pokusit probudit hodem štěstí.
-- **Držený:** Podobu trvání tohohle stavu je tvá hybnost 0 a nelze ji zvýšit. Navíc všechny hody proti tvé obratnosti automaticky uspějí.
+- **Držený:** Podobu trvání tohohle stavu je tvá hybnost 0 a nelze ji zvýšit. Navíc jsi *Zaskočený*.
 - **Ležící na zemi:** Ležíš na zemi a nemůžeš používat reakce. Jediný pohyb, který můžeš použít je plazit se (obtížný terén) a nebo vstát (2 body hybnosti). Během toho co ležíš získávají všechny útoky na blízko proti tobě Bonus a všechny útoky na dálku Postih.
-- **Ohluchlý:** Jsi hluchý a nemůžeš provádět aktivity, být postižen nebo benefitovat z efektů, které závisí na sluchu.
+- **Ohluchlý:** Jsi hluchý a nemůžeš provádět aktivity, být postižen nebo benefitovat z efektů, které závisí na sluchu. Pokud není hluchota tvůj přirozený stav jsi *Zaskočený*.
 - **Omráčený:** Podobu trvání tohohle stavu nemůžeš provádět žádné aktivity, tvá hybnost je 0 a nelze ji zvýšit. Navíc jsi *Zaskočený*.
 - **Oslabená dovednost:** Součástí tohohle stavu bývá název dovednosti. Máš Postih na ověřování této dovednosti a všechny efekty ověřujíc proti téhle tvé dovednosti získávají Bonus.
-- **Oslepený:** Jsi slepý a vše je pro tebe v absolutní černotě a nemůžeš být postižen nebo benefitovat z efektů závislých na zraku. Stvoření a objekty v okolí 1 metru kolem tebe považuješ za *Ukryté*, cokoliv dál je *Neviditelné*. Dále nemůžeš aktivovat reakce jejichž spouštěč spoléhá na zrak a nakonec všechen terén je pro tebe *Obtížný terén*.
+- **Oslepený:** Jsi slepý, *Zaskočený* a vše je pro tebe v absolutní černotě a nemůžeš být postižen nebo benefitovat z efektů závislých na zraku. Stvoření a objekty v okolí 1 metru kolem tebe považuješ za *Ukryté*, cokoliv dál je *Neviditelné*. Dále nemůžeš aktivovat reakce jejichž spouštěč spoléhá na zrak a nakonec všechen terén je pro tebe *Obtížný terén*.
 - **Otupělý:** Tvá mysl a smysly jsou otupělé. Nemůžeš používat reakce a navíc všechna tvá ověření Inteligence a Osobnosti probíhají s Postihem. Stejně tak ověření proti tvé Inteligenci a Osobnosti probíhají s Bonusem.
 - **Ovládnutý:** Tvá postava je ovládána někým jiným a ty nemáš žádnou kontrolu. Ovládaná postava odehrává svůj tah ve stejné iniciativě jako ten kdo ji ovládá. Pokud postava svůj tah již v tomhle kole odehrála, efekt platí od příštího kola.
 - **Perzistentní poškození:** Na konci kola obdržíš poškození a podstoupíš hod štěstí. Pokud uspěješ efekt končí. Rozsah poškození a to zda je uděleno do výdrže nebo zdraví postavy určuje efekt, který tento stav vyvolal. Některé typy perzistentního poškození lze předčasně ukončit vhodnou akcí (např. hořící stvoření skočí do vody).    
@@ -226,7 +221,6 @@ Ostatní již ne tak běžné situace, se kterými se během dobrodružství lze
 
 I přesto, že lze získat nové úrovně, tahle hra nemá žádný systém přidělování zkušeností. Jak a kdy se postavy dostanou na podstatný milník, za který si mohou zvednout úroveň. Záleží čistě na domluvě PJ z jeho hráči. Vhodné je například, aby hráči získali novou úroveň po dokončení úkolu nebo nějaké výpravy. Nezávisle jako metodu si vyberete, novou úroveň by vždy měla dostat celá skupina společně.
 
-- **Získané schopnosti:** Jaké schopnosti postava získá s dosažením nové úrovně je popsáno v popisku každého povolání.
-- **Překročení 9. úrovně:**  Pokud si vaše skupinka přeje, lze získávat další úrovně i po dosažení té dáváte. Avšak všechny schopností povolání, které získávají něco s dosažením určitých úrovní (jako třeba počet použití) končí tohle škálování s devátou úrovní. Výjimkou jsou Obecná talenty, které lze získávat i na dále za každou 3. dosaženou úroveň.
+- **Získané schopnosti:** Každá postava postupem na novou úroveň získá zdraví (dle formule popsané v popisu povolání) a talent.
 
 <img src="/assets/sep_line.png"/>

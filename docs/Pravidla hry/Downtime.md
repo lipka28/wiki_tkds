@@ -1,4 +1,4 @@
-# Mezi dobrodružstvími
+# Mezi dobrodružstvími ==Rework with new mechanics (Check WW Downtime)==
 
 <img src="/assets/sep_line.png"/>
 

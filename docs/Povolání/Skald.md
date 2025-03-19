@@ -8,30 +8,24 @@
 
 <img src="/assets/sep_line.png"/>
 
-## Tabulka postupu
-
-| ÚROVEŇ |                      Získané schopnosti                      |
-| :----: | :----------------------------------------------------------: |
-|   1    | Um like ability (Umožní luck re-rolls na relevantni aktivity), 2 Core bilities (jena z těch abilit je multiple choice level = re-use a nová každé 2 levely (max8) |
-|   2    |                        Core ability 3                        |
-|   3    |                        Obecný talent                         |
-|   4    |                     AC+ Luck+ stat boost                     |
-|   5    |                        Core ability 4                        |
-|   6    |                        Obecný talent                         |
-|   7    |                     AC+ Luck+ stat boost                     |
-|   8    |                        Core ability 5                        |
-|   9    |                        Obecný talent                         |
-
 ## Vlastnosti povolání
 
 **Přirozená obrana:** *9*
 
-**Zdraví:** *Přirozené zdraví rasy + (úroveň\*3)*
+**Zdraví:** *Přirozené zdraví rasy + (úroveň(max 10)\*3)*
 
 **Extra jazyky:** - ++?
 
-### ASD
+### ASD (2 - 3 Core abilitky)
 
 asd
+
+<img src="/assets/sep_line.png"/>
+
+## Talenty povolání
+
+### ASD (5 talentů)
+
+asd 5 talentů, nějké "pick me multiple times abilitky"
 
 <img src="/assets/sep_line.png"/>

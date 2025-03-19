@@ -1,4 +1,4 @@
-# Tvorba postavy
+# Tvorba postavy ==todo: rework==
 
 <img src="/assets/sep_line.png"/>
 

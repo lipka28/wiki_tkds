@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-<img src="/assets/Basics.png"/> ==todo: redo art==
+<img src="/assets/Basics.png"/>
 
 <img src="/assets/sep_line.png"/>
 
@@ -48,15 +48,7 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 <img src="/assets/sep_line.png"/>
 
-## Hraní hry
-
-Při hraní této hry se budete většinou nacházet v jednom ze tří základních módů hry. V jakém módu se hra zrovna nachází má především vliv na to, v jakých časových intervalech se měří herní čas a jaké možnosti jsou hráčům k dispozici. Základní módy hry jsou následující:
-
-- **Dobrodružství:** Nejvíce času při hře se stráví v módu dobrodružství. Čas při dobrodružství plyne dle uvážení PJ. V případech, kdy je však třeba podrobnější měření času. Jej lze měřit na *scény*. Scéna představuje podstatnou část příběhu, kterou je třeba odehrát. Například boj, průzkum nějakého místa nebo rozhovor s NPC. Scény většinou trvají 10 minut. Více o mechanikách dobrodružství ==zde todo: link==.
-- **Konflikt:** Při řešení problémů, kdy záleží na každé vteřině, se hra přepíná do módu konflikt. Čas se při konfliktu měří na *kola (6-ti vteřinové intervaly)*. Konfliktem může být boj, únik před spuštěnou pastí nebo třeba argumentace pro záchranu vlastní duše před pekelným soudem. Více o mechanikách konfliktu ==zde todo: link==.
-- **Volný čas:** Pokud hráčské postavy nemají zrovna co na práci, mohou se věnovat volno-časovým aktivitám. V tomhle módu se herní čas měří většinou na *dny až týdny*, lze však ve volném čase strávit i měsíce či roky. Ve volném čase mohou hráčské postavy získávat potřebné informace, vyrábět předměty jako jsou magické svitky či lektvary, provádět rituály nebo se třeba věnovat podnikání. Více o mechanikách volného času ==zde todo: link==.
-
-### Hlavní herní smyčka
+## Hlavní herní smyčka
 
 Ať už je vaše dobrodružství založeno na prozkoumání kobek, rozplétání politických intrik ve velkém městském státě a nebo chcete prozkoumávat hloubky vesmíru. Hra se vždy řídí následující herní smyčkou.
 
@@ -65,6 +57,16 @@ Ať už je vaše dobrodružství založeno na prozkoumání kobek, rozplétání
 3. **Akce:** Když hráči usoudí, že mají všechny potřebné informace. Vžijí se do svých postav a rozhodnou se jak budou jejich postavy v nastíněné situaci reagovat a co budou dělat.
 4. **Rozhodnutí PJ:** Na základě popisů od hráčů se PJ rozhodne jak bude jejich akce vyhodnocovat. Jaká pravidla jsou aplikovatelná a zda bude třeba házet kostkami.
 5. **Rozřešení:** Akce postav jsou rozřešeny, pokud je třeba kostky jsou vrženy. PJ popíše následky těchto akci a co se děje dál. Zpět na krok 1. 
+
+<img src="/assets/sep_line.png"/>
+
+## Módy hry
+
+Při hraní této hry se budete většinou nacházet v jednom ze tří základních módů hry. V jakém módu se hra zrovna nachází má především vliv na to, v jakých časových intervalech se měří herní čas a jaké možnosti jsou hráčům k dispozici. Základní módy hry jsou následující:
+
+- **Dobrodružství:** Nejvíce času při hře se stráví v módu dobrodružství. Čas při dobrodružství plyne dle uvážení PJ. V případech, kdy je však třeba podrobnější měření času. Jej lze měřit na *scény*. Scéna představuje podstatnou část příběhu, kterou je třeba odehrát. Například boj, průzkum nějakého místa nebo rozhovor s NPC. Scény většinou trvají 10 minut. Více o mechanikách dobrodružství ==zde todo: link==.
+- **Konflikt:** Při řešení problémů, kdy záleží na každé vteřině, se hra přepíná do módu konflikt. Čas se při konfliktu měří na *kola (6-ti vteřinové intervaly)*. Konfliktem může být boj, únik před spuštěnou pastí nebo třeba argumentace pro záchranu vlastní duše před pekelným soudem. Více o mechanikách konfliktu ==zde todo: link==.
+- **Volný čas:** Pokud hráčské postavy nemají zrovna co na práci, mohou se věnovat volno-časovým aktivitám. V tomhle módu se herní čas měří většinou na *dny až týdny*, lze však ve volném čase strávit i měsíce či roky. Ve volném čase mohou hráčské postavy získávat potřebné informace, vyrábět předměty jako jsou magické svitky či lektvary, provádět rituály nebo se třeba věnovat podnikání. Více o mechanikách volného času ==zde todo: link==.
 
 <img src="/assets/sep_line.png"/>
 

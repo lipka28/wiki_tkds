@@ -1,4 +1,4 @@
-# Lotr ==TODO: Rework viz EXCEL==
+# Med'ji (Medžaj) ==TODO: Rework viz EXCEL==
 
 <img src="/assets/sep_line.png"/>
 
@@ -10,11 +10,11 @@
 
 ## Vlastnosti povolání
 
-**Přirozená obrana:** *10*
+**Přirozená obrana:** *9*
 
-**Zdraví:** *Přirozené zdraví rasy + (úroveň(max 10)\*4)*
+**Zdraví:** *Přirozené zdraví rasy + (úroveň(max 10)\*3)*
 
-**Extra jazyky:** -
+**Extra jazyky:** - ++?
 
 ### ASD (2 - 3 Core abilitky)
 

@@ -1,4 +1,4 @@
-# Pravidla pro boj
+# Pravidla pro konflikt
 
 <img src="/assets/sep_line.png"/>
 
@@ -6,156 +6,170 @@
 
 <img src="/assets/sep_line.png"/>
 
-## Souboje ==TODO: 3 action economy, zahodit iniciativu ve prospěch rychlého (2 akce)/ pomalého (3 akce) kola==
-
-| BOJOVÁ SEKVENCE KAŽDÉ KOLO                                   |
-| :----------------------------------------------------------- |
-| *1. Taste zbraně!*                                           |
-| *2. Strana co je na řadě:*<br /> a. Ověření morálky (je-li třeba)<br /> b. Odehrání tahu <br /> c. Konec trvajících efektů |
-| *2. Ostatní strany jsou na řadě*                             |
-| *3. Zpět na krok 2 dokud není souboj ukončen.*               |
-
-**Taste zbraně!:** Každý účastník boje hodí *1k20+Um+Obratnost* (monstra 1k20 + statický modifikátor) a na základě svých hodů se seřadí do iniciativy. Pokud vznikla remíza mezi hráčem a nepřítelem, nepřítel má přednost. Stvoření se stejnou hodnotou iniciativy v rámci jedné skupiny, mohou hrát v libovolném pořadí si určí.
-
-**Ověření morálky:** Stvoření mohou být ovlivněny svou morálkou a při výrazných zvratech v boji se vzdát nebo dát na útěk. Ověření morálky probíhá hodem *2k6* proti hodnotě morálky stvoření. Úspěšný hod je *roven nebo nižší* jako hodnota morálky stvoření. Pokud stvoření během setkání *2x uspěje* v ověření morálky, tak bojuje až do své smrti.
-
-!!! note "Příklad: Zvraty v boji"
-    Zvratem v boji může být například: první zabití ve skupině, zabití aspoň poloviny jedinců v dané skupině či zabití vedoucího skupiny.
-
-<img src="/assets/round.png" width="20"> **Odehrání tahu:** Každý hráč ve skupině odehraje svůj tah. Hráč se může pokusit v podstatě o cokoliv co by se vešlo do 10-ti vteřin. Čistě z mechanického hlediska pak hráč může provést  *jednu strategickou akci*, *jednu běžnou akci* a *jednu reakci*. Hráč může také své kolo prokládat *volnými akcemi*. Všechny tyto "akce" se postavě obnoví pokaždé, když začne její tah. Jednotlivé akce fungují následovně.:
-
-- <img src="/assets/action.png" width="20"> *Běžná akce:* Za běžnou akci se považuje jakákoliv pro boj mechanicky významná aktivita. Většinou jsou to věci jako útoky, seslání kouzel, použití předmětu či významná obměna výzbroje (změna držených zbraní). Akci lze také použít pro provedení aktivity vyžadující strategickou akci.
-- <img src="/assets/saction.png" width="20"> *Strategická akce:* Za strategickou akci je považován převážně pohyb. Postavy a monstra mají i spoustu speciálních schopností, které lze aktivovat jako strategickou akci.
-- <img src="/assets/reaction.png" width="15"> *Reakce:* Reakce je speciální akce, která umožní provést aktivitu i mimo tah stvoření, pokud jsou splněny podmínky jejího spouštěče. Stvoření nemůže na jeden spouštěč nikdy použít více jak jednu svou reakci.
-- <img src="/assets/free.png" width="20"> *Volná akce:* Volné akce lze dělat kdykoliv během tahu avšak je čistě na PJ jak velký rozsah volných akcí dovolí a kolikrát je lze během tahu opakovat. Mezi volné akce patří například mluvení, odhadování nepřátel či vybavování si informací, tasení zbraně a nebo drobné interakce s prostředím. Jako je třeba otevření či zavření dveří nebo převrácení stolu pro poskytnutí krytí.
-
-!!! note "Tah monster"
-    Monstra se většinou řídí stejnými pravidly boje jako hráči. Silná monstra však mohou mít výjimky z těchto pravidel. Jako například více útoků součástí jedné běžné akce nebo více strategických akcí či reakcí.
-
-**Konec trvajících efektů:** Efekty, kterými jsou ovlivněni členové skupiny, která je na tahu, ukončí své trvání. Pokud tyto efekty mají delší trvání jak 1 kolo, zkrátí se jejich doba trvání o 1 kolo. Působí-li takový efekt poškození (například někdo hoří nebo plave v kyselině), poškození je uděleno v této fázi.
-
-**Další na tahu:** Opakuj kroky *2a* až *2c* pro každou stranu konfliktu v pořadí iniciativy.
-
-### Časté bojové situace
-
-**Dosah útoků:** Dosah útoku je dán velikostí a typem zbraně.
-
-**Cíl v úkrytu:** Cíle co jsou kompletně schované v úkrytu není možné trefit střelnou zbraní. Cíl v částečném úkrytu má *situační bonus do OČ* v rozsahu *-1* až *-4* dle úvahy PJ. (malý stůl může být -1, zatímco hustý les nebo mlha může být -4)
-
-**Střelba přes spojence:** Je považováno za cíl v částečném úkrytu se *situačním bonusem +2 do OČ* cíle.
-
-**Střelba na blízko:** Střelnou zbraní nelze střílet na cíle co jsou ve vzdálenosti *1 metr* nebo blíže.
-
-**Pohyb:** Stvoření se může pohnout až o svou hybnost. Za pohyb se považuje téměř jakákoliv změna pozice. Ať už je to chůze, běh, plavání, létání, šplhání, skok z rozběhem nebo třeba zhoupnutí se na laně. Alternativně se dá použít celý pohyb k posílení některých kouzel.
-
-**Obtížný terén:** Každý *1 metr* pohybu v obtížném terénu stojí *2 metry* hybnosti ovlivněného stvoření. Například stvoření s hybností 6 metrů se může spotřebováním celé své hybnosti pohnout v obtížném terénu jen o 3 metry.
-
-**Příležitostné útoky a úkrok:** Ta monstra, která lze považovat za trénované bojovníky, mají často schopnost *příležitostného útoku*, které jim umožňuje zaútočit jako reakci, když stvoření v okolí provede cokoliv jiného než útok na ně. Těmto příležitostným útokům se lze vyvarovat tím, že ohrožené stvoření provede *úkrok* jako *strategickou akci* a tím se posune o *1 metr*.
-
-!!! note "Pohyb na čtvercové síti"
-    Pokud pro znázornění boje používáte čtvercovou síť, tak *1 pole* na síti představuje *1 metr* vzdálenosti. *Diagonálně* však *1,5 metru*. Na hexagonové síti není třeba tento rozdíl řešit.
+Konflikt je mód hry, při kterém záleží na každé vteřině. Čas se začne měřit na kola a všichni provádí své akce v určitém pořadí iniciativy. Zde se budeme věnovat hlavně konfliktům ve formě boje. Ale tento mód hry se dá použít i pro jiné herní momenty jako je například útěk či sociální interakce.
 
 <img src="/assets/sep_line.png"/>
 
-## Útok obecně
+## Struktura kola
 
-| HODY NA ÚTOK                                                 |
-| :----------------------------------------------------------- |
-| *1. Hoď 1k20*                                                |
-| *2. Připočti modifikátory a bonusy:* Bonus k útoku. Sílu při boji zblízka a Rozvahu při boji na dálku. Připočítávají se také různé bonusy a postihy z kouzel, předmětů a podobně. Monstra mají modifikátory útoku ve svém stat-bloku. |
-| *3. Stanov OČ:* Postavy i monstra mají OČ napsané ve svém stat-bloku. |
-| *4. Výsledek:* Pokud je výsledek útoku stejný nebo vyšší než OČ cíle útok byl úspěšný, můžeš házet na poškození. |
+Základní strukturou pro konflikt jsou kola a tahy. Kolo je úsek času o délce asi 6 sekund, během kterého všechna stvoření v konfliktu odehrají svůj tah. Kolo má následující strukturu:
 
-**Kritický úspěch:** Uděluje dvojnásobné poškození.
+- **Tah Hráčů:** Pokud hráči nebyli překvapeni nepřáteli, vždy začínají.
+- **Tah nepřátel:** Nepřátelé jsou na řadě.
+- **Konec kola:** Efekty, které se projevují na konci kola se projeví zde, hody na štěstí ukončující trvající efekty se také dějí zde.
 
-**Kritický neúspěch:** Jsou považovány jen za běžný neúspěch.
+!!! note "Priorita efektů na konci kola"
+    Pokud se sejde kombinace pozitivních a negativních efektů, co se mají projevit na konci kola. První se projeví negativní efekty a následně ty pozitivní.
 
-**Kritické zásahy a monstra:** Monstra mohou jako součást kritických zásahů způsobovat i speciální efekty.
+!!! note "Proč hráči začínají?"
+    Hody na iniciativu a podobné mechaniky většinou rozbijí přirozený chod hry. Pokud hráči vždy začínají, procedura hry se efektivně nezmění. PJ popíše scénu a hráči si vyberou jak chtějí reagovat.
 
-**Poškození:** Útoky udělují tolik poškození kolik je stanoveno ve statistikách monstra nebo deníku postavy hráče. 
+**Kolo překvapení:** Z okolností hry může vzejít situace, kdy je jedna ze stran konfliktu překvapená. Překvapení trvá 1 kolo a překvapená stvoření v tomto kole nemohou odehrát svůj tah. Překvapená stvoření jsou také *Zaskočená*.
 
-!!! note "Minimální poškození"
-    Úspěšný zásah vždy udělí aspoň 1 poškození. Pokud cíle není imunní nebo neodolalo celému obdrženému poškození.
+## Struktura tahu
 
-### Poškození
+Každý účastní konfliktu může během svého tahu provést *1 akci*, *1 reakci* a využít své *body hybnosti*. Následuje seznam aktivit, které lze za pomocí těchto prostředků provést.
 
-Některá stvoření mohou mít *odolnost* (poloviční poškození), *snížené poškození* (o statickou hodnotu), *imunitu* (žádné poškození), *slabost* (dvojnásobné poškození) nebo *zvýšené poškození* (o statickou hodnotu) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil. Ve hře se lze setkat s následujícími typy poškození:
+### Akce
 
-- **Fyzické:** A jeho varianty sečné, průrazné, tupé, jedové a krvácivé.
-- **Energetické nebo magické:** Žíravina, Oheň, Mráz, Elektřina, Síla (čistá ničivá energie)
-- **Mentální:** Působí poškození pouze myslícím stvořením.
-- **Pozitivní a negativní:** Pozitivní ubližuje všemu nemrtvému či démonickému ale pro vše živé je neškodné nebo dokonce léčivé. Negativní funguje obráceně.
+**Bránit se:** První stvoření, které se do začátku tvého příštího tahu pokusí o hod proti některé z tvých dovedností nebo obraně, hází s Postihem. Nemůžeš se bránit proti stvořením vůči kterým si *Zaskočen*.
 
-**Vícečetné poškození:** Pokud má monstrum nebo hráčova postava schopnost, která umožňuje provést více útoků v rámci jedné akce. Pro účely výpočtu *odolností* a *slabostí*, jsou všechny útoky v rámci jedné akce považovány za jeden a též útok.
+**Použít předmět:** Použiješ nebo aktivuješ předmět, který máš u sebe.
 
-!!! note "Příklad: Vícečetné poškození a odolnosti"
-    Monstrum má schopnost provést 2 útoky svými drápy jako běžnou akci. Když zasáhne oběma útoky způsobí 2x(1k4+1) sečného poškození (6). Hráčova postava je pod efektem kouzla, který redukuje obdržené sečné poškození o 4. To znamená, že hráčova postava obdrží z těchto svou útoků jen 2 body sečného poškození.  
+**Použít schopnost:** Použiješ některou ze svých schopností. 
 
-**Nezranitelnost:** Některá monstra jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje žádné poškození. Uzná-li PJ za vhodné tato monstra mohou být také zraněna jinými nezranitelnými monstry.
+**Překonat:** Některé trvající negativní efekty umožňuje předčasné ukončení úspěšným ověřením dovednosti nebo hodem štěstí. Touhle akcí se o tohle předčasné ukončení pokusíš.
 
-**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu ovlivněného jedince. Pokaždé když stvoření obdrží perzistentní poškození, může podstoupit *přímý hod* s *HU 16* a tím efekt ukončit. Perzistentní poškození může být také předčasně ukončeno relevantní akci (například, když hořící stvoření skočí do vody). Více instancí perzistentního poškození stejného typu se nesčítá. Pokud perzistentní poškození vyžaduje hod kostkou, kostka je hozena na novo při každém tiku.
-
-!!! note "Příklad: Hořící nestvůra"
-    Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
-
-<img src="/assets/sep_line.png"/>
-
-## Ostatní bojové situace
-
-**Improvizované zbraně:** Pokud stvoření útočí něčím, co neslouží jako zbraň nebo útočí zbraní takovým způsobem, který neodpovídá jejímu původním účelu. Útočí s *předmětovým postihem -2* k zásahu.
-
-**Netrénované zbraně:** Při útoku netrénovanou zbraní je útok prováděn bez umu a postihem za *improvizovanou zbraň*. Nelze také využít žádnou ze speciálních vlastností zbraně.
-
-**Netrénované zbroje:** Způsobují *předmětový postih -2* ke všem hodům využívající *Sílu* nebo *Obratnost*. Stvoření také *nemůže čarovat*.
-
-**Neozbrojený boj:** Uděluje *1k2+Síla* poškození. Na rozdíl od útoků zbraněmi. Neozbrojené útoky mohou udělit *0* poškození. Neozbrojené útoky běžně nejsou smrtelné.
-
-**Připravená akce:** Postava nebo stvoření může obětovat svou běžnou akci v daném tahu, a připravit se na specifickou událost. Pokud tato událost do začátku příštího tahu postavy nenastane, akce je ztracena. Pokud nastane, postava může provést svou připravenou akci jako *reakci*.
-
-**Počkat:** Stvoření se může na začátku svého tahu vyjmout z iniciativy a zařadit se do ní kdykoliv po konci tahu libovolného stvoření. Pokud stvoření takto přečká celé kolo ztrácí svůj tah a v příštím kole je zase v iniciativě na svém původním místě. Pokud je stvoření pod vlivem nějakých negativních, či pozitivních efektů, nebo efektů, které mají během jeho tahu skončit. Všechny se provedou ve chvíli, kdy se stvoření vyjme z iniciativy.
+**Připravit akci:** Vynecháš svůj tah a připravíš si nějakou jinou akci. Definuj podmínku za které tuhle akci použiješ. Pokud do konce kola takhle podmínka nastane, můžeš použít svou reakci k provedení této akce. V opačném případě svůj tah ztrácíš.
 
 !!! Warning "Souběh akcí"
     Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
 
-**Bojové manévry:** Každé stvoření se může jako svou *akci* pokusit o bojový manévr. Ve většině případů lze bojový manévr vyřešit *hodem na zásah zbraní na blízku* proti *bojové hladině úspěchu* soupeře (*10+modifikátor útoku*). V některých situacích nebo u některých manévrů to však nemusí dávat smysl. Pj může alternativně využít ověření dovednosti proti HU a nebo záchranný hod. Běžné bojové manévry jsou:
+**Seslat kouzlo:** Sešleš kouzlo, které ovládáš. Více o kouzlech zde ==todo:odkaz==.
 
-- **Shození:** Stvoření je shozeno na zem.
-- **Odstrčení:** Stvoření je odhozeno 2 metry.
-- **Odzbrojení:** Stvoření ztratí svou zbraň nebo část své výbavy.
-- **Zadržení:** Stvoření je znehybněné.
+**Sprint:** Tvá hybnost je tohle kolo trojnásobná.
+
+**Ukončit magický efekt:** Můžeš ukončit jeden svůj probíhající magický efekt. Pokud vidíš oblast či subjekty ním ovlivněné.
+
+**Ukrást:** Máš-li volnou ruku. Můžeš se pokusit ukrást 1 předmět (ve smyslu velikosti), který vidíš a není držen v rukou, z výbavy protivníka v dosahu. Pro úspěšnou krádež musíš uspět v ověření Zručnosti proti Zručnosti soupeře. Pokud si při tomto pokusu před cílem *Ukryt* nebo *Neviditelný*, ověření probíhá s Bonusem. Pokud je výsledek tvého ověřovacího hodu nižší než Inteligence cíle. Cíl si všimne že byl okraden (nebo, že se o to někdo pokusil).
+
+**Úkrok:** Pohneš se 1 metr. Na základě tohohle pohybu nemohou nepřátelé provést žádné reakce.
+
+**Útok:** Provedeš útok zbraní, neozbrojený útok, bojový manévr nebo na cíl použiješ předmět či kouzlo.
+
+**Něco jiného:** Další věci co tě napadnou. PJ si nějak poradí.
+
+### Reakce
+
+**Přeruš:** Provede-li stvoření v dosahu tvé zbraně na blízku cokoliv co není úkrok, útok zbraní (nebo neozbrojeně) na blízku nebo seslání kouzla jehož jedním z cílů si i ty. Můžeš se pokusit jeho akci přerušit. Proveď útok zbraní na blízku proti obraně stvoření, které tuhle reakci spustilo, pokud uspěješ akce je přerušena. Pokud je výsledkem tvého útoku kritický zásah, tah zasaženého stvoření je ihned ukončen.
+
+**Provést připravenou akci:** Pokud byla podmínka tvé připravení akci splněna, můžeš ji jako reakci provést.
+
+**Něco jiného:** Schopnosti postav mohou nabízet, další možnosti pro využití reakcí.
+
+### Hybnost
+
+Hybnost se používá především k přesunu po bojišti. Avšak lze ji využít i pro *"drobné akce"*. Jako jsou otevření dveří, zatažení za páku, výměna zbraní, zvednutí předmětu ze země, lehnutí na zem, postavení se na nohy a podobně. Každé takové užití stojí *2 body hybnosti*.
+
+**Plížení:** Plížení je jako pohyb obtížným terénem. Pokud je stvoření na začátku i na konci plížení ukryté, stane se efektivně neviditelné (vůči stvořením, které nevidí za překážku za kterou se ukrývá).
+
+**Ukrýt se:** Za cenu 2 bodů hybnosti se schováš se za subjekt, který poskytuje krytí. Pokud subjekt poskytoval částečné krytí, tak po ukrytí se poskytuje plné krytí. Pokud subjekt poskytoval plné krytí, tak nyní jsi efektivně *Ukrytý*, pro všechna stvoření na druhé straně tvého krytu. Tento zvýšený stupeň krytí končí, když se pohneš z úkrytu nebo provedeš nějakou akci.
+
+**Pohyb na čtvercové stíti:** Jeden čtverec pohybu na čtvercové síti (normálním terénem) představuje 1 metr pohybu a stojí jednu hybnost (včetně diagonálního pohybu). Stvoření se může pohybovat po libovolných neobsazených polích a dokonce i přes pole na kterých stojí spojenci. Pohyb přes spojence je považován za *Obtížný Terén* a pohyb nesmí skončit na pozici spojence. Nepřáteli procházet nelze avšak PJ může v závislosti na situaci (a ověření patřičné dovednosti) udělat výjimku.
+
+## Útok podrobně
+
+Útok je jakýkoliv pokus o ublížení subjektu, nucená změna jeho pozice, psychické ublížení, uvalení postihů či poškození výbavy. Efektivně je útokem jakékoliv ověření dovednosti proti Obraně nebo jiné Dovednosti soupeře s účelem mu způsobit nějakou újmu. Nejčastější jsou však útoky zbraní. Ty se vyhodnocují následovně:
+
+- **Vyber si cíl:** Vyber si cíl, který vidíš a je v dosahu tvé zbraně.
+- **Ověření dovednosti:** Ověř svou *Zdatnost* pro útok na blízku a nebo svou *Zručnost* pro útok na dálku, a porovnej výsledek s Obranou cíle (nebo jiným atributem specifikovaným v popisku útoku)
+- **Poškození:** Útoky udělují tolik poškození kolik je stanoveno ve statistikách monstra nebo deníku postavy hráče. Úspěšný zásah vždy udělí aspoň 1 poškození. Pokud cíl není imunní.
+
+!!! note "Druhy poškození"
+    Tahle hra nijak nerozlišuje specifické druhy poškození. Je na dobré úvaze PJ a domluvě s hráči, zda a jak je útok účinný proti danému typu stvoření.
+
+### Velikost a dosah
+
+Různá stvoření ve hře mohou být různě veliká. To má především vliv na dosah jejich útoků na blízku, ale může se projevovat i v jiných situacích. Velikost je reprezentována číslem od 1/4 přes 1/2 a 1 až po potencionálně libovolné celé číslo.
+
+- **Velikost 1/4:** Reprezentuje extra malá stvoření, taková která by se vešla klidně i do hrsti. Dosah útoků na blízku u takových stvoření je však 1 (1 metr). Pozor zbraně na blízku s delším dosahem nemají u takto malých stvoření žádný vliv na dosah jejich útoků.
+- **Velikost 1/2:** Představuje stvoření, které by bylo běžnému člověku asi tak po kolena. Dosah útoků na blízku takových stvoření je 1.
+- **Velikost 1:** Za velikost 1 jsou považována všechna stvoření od 3/4 až po dvojnásobek velikosti běžného člověka. Dosah útoků na blízku takových stvoření je 1.
+- **Velikost 2+:** Jsou všechna stvoření, která jsou významně větší než člověk. Dosah útoků na blízku takových stvoření vždy odpovídá jejich velikosti. Zbraně či končetiny s delším dosahem, mohou tuhle vzdálenost ještě zvýšit. 
+
+### Krytí
+
+Pozicování na bojišti může být to co rozhodne mezi vítězstvím a nevyhnutelnou smrtí. Všechna inteligentní stvoření, by se měli snažit využít svého okolního prostředí jak nejlépe dovedou. Jedním takovým významným využitím je právě krytí, které může ztížit útoky nepřátel nebo ochránit před hromadnými útoky. Krytí je relevantní jak pro útoky na dálku tak útoky na blízku je však výsledkem vzájemné pozice dvou stvoření. Stvoření může být kryto proti nepříteli za barikádou ale nemusí mít žádné krytí proti nepříteli na stejné straně barikády.  Existují tyto dva typy krytí:
+
+- **Částečné krytí:** Stvoření je za významnou překážkou, která však nezakrývá více jak půlku jeho těla. Stvoření v částečném krytí uvaluje *Postih* na všechny ověřovací hody proti jeho *Obraně* nebo některé *Dovednosti*. Takové stvoření má také *Bonus* ke všem ověření *Dovedností* proti efektům pocházejících z druhé strany jeho krytí.
+- **Krytí:** Stvoření je za překážkou, která zakrývá podstatnou část jeho těla. Funguje stejně jako *Částečné krytí*. Získané *Bonusy* a *Postihy* jsou však dvojnásobné. 
+
+**Čtvercová síť:** Používáte-li bojové mapy s čtvercovou sítí, krytí se dá lehce určit utvořením přímé linky mezi útočícím a napadeným tokenem. Příklad na následujícím obrázku.
+
+<img src="/assets/Cover.png"/>
+
+**1.** Carl a Taren mají k obrovy přímou nepřerušenou linii. To znamená, že Carl může útočit svým lukem a Taren svým mečem bez jakýchkoliv postihů za krytí.
+
+**2.** Abigail chce na obra sesílat kouzlo, její situace je však poněkud komplikovanější, jelikož má v cestě Tarena. Kdyby byl obr stvoření o velikosti 1, tak by přítomnost Tarena stačila na vznik *Částečného krytí*. To by sesílání kouzla mohlo Abigail ztížit. V této situaci je však obr stvoření velikosti 2 a většina PJ by právně rozhodlo, že Taren neposkytuje obrovi dostatečně významné krytí.
+
+**3.** Nicole je připravená se zapojit použitím své kuše. Nachází se však v nevýhodné pozici, jelikož většinu obra zakrývá dům vedle kterého stojí. Nicole v této situaci pravděpodobně obra ještě vidí. Vidí ho ale tak málo, že se dá roh domu v cestě uznat jako *Krytí*. Pokud chce mít nicole lepší šanci na zásah, musí se přesunout.
+
+### Obklíčení
+
+Druhý způsob efektivního využití pozicování je obklíčení. Základní myšlenka je, že stvoření je obklíčeno. Pokud je v dosahu útoků na blízko (třeba i nezbrojeného) tolika nepřátel kolik je *jeho velikost (minimum 1) + 2*. Efektivně to znamená, že stvoření velikosti 1 je obklíčené pokud má kolem sebe 3 nebo více nepřátel.
+
+- **Efekt obklíčení:** Obklíčené stvoření je *Zaskočené* vůči všem nepřátelům co jej obkličují.
+
+**Čtvercová síť (volitelné):** Používáte-li pro boj čtvercovou síť můžete na místo zmíněného pravidla využít komplikovanější verzi obklíčení. Je-li stvoření v dosahu útoku na blízko nepřátel a mezi středy tokenů těchto nepřátel lze nakreslit linku, která protne protější stěny (nebo rohy) zmíněného stvoření. Stvoření je vůči těmto nepřátelům obklíčeno (*Zaskočeno*). Příklad na následujícím obrázku.
+
+<img src="/assets/Flanking.png"/>
+
+**1.** Taren a Nicol jsou zářným příkladem obklíčení. Jelikož mezi jejich tokeny lze natáhnout přímku, která protíná protilehlé stěny tokenu obra mezi nimi. Obr je tedy Tarenem a Nicol obklíčen, a je tedy vůči nim *Zaskočen*.
+
+**2.** Carl stojí na místě, kde nebenefituje z žádného bonusu za obklíčení při útocích na obra. Jelikož linky mezi jeho tokenem a tokenem spojenců kolem obra, neprotínají protilehlé stěny tokenu obra.
+
+**3.** Abigail má vážný problém. Jelikož je obr stvoření velikosti 2 a jako takové má i dosah 2 metry. Abigail se nachází v dosahu jeho útoku na blízku. V kombinaci s goblinem, který stojí za ní to znamená, že je Abigail obklíčená obrem a goblinem.
+
+## Souboje a zóny (Volitelné)
+
+asd ==todo: dodělat (5m zóny, přesun(překážky), vázání v melee, speed roll, obklíčení a krytí)==
+
+## Ostatní bojové situace
+
+**Boj se dvěma zbraněmi:** ==todo: boj se dvěma zbraněmi (dodělat po gearu)==
+
+**Improvizované zbraně:** Pokud stvoření útočí něčím, co neslouží jako zbraň nebo útočí zbraní takovým způsobem, který neodpovídá jejímu původním účelu. Útočí s *Postihem* a v případě kritického zásahu či neúspěchu se zbraň rozbije nebo poškodí. Poškození improvizovanou zbraní záleží na PJ, většinou však *1k6*.
 
 **Přemožení:** Postava si může u svého smrtícího útoku vybrat, zda chce svůj cíl zabít nebo jen zneškodnit. Zneškodněný cíl je poražen ale ne zabit. Jak se poražení projevuje je na domluvě mezi hráčem a PJ.
 
-<img src="/assets/sep_line.png"/>
+### Neozbrojené útoky a bojové manévry
 
-## Seznam běžných speciálních stavů
+Za neozbrojené útoky jsou považovány všechny útoky končetinami, tělem nebo třeba hlavou, které nepoužívají žádnou zbraň. Taktéž všechny bojové manévry jsou považovány za neozbrojené útoky.
 
-**Bezmocný:** Bezmocné stvoření *nemůže nic dělat* a je napospas okolním vlivům. Bezmoc může vypadat všelijak. Stvoření může být v bezvědomí, zmražené, zkamenělé nebo v jiném podobném stavu. Bezmocné stvoření může být okamžitě zabito adekvátní zbraní (kladivo na zkameněného, nůž na spícího člověka atd.).
+**Neozbrojený úder:** Je považován za útok ==agaile a off-hand== improvizovanou zbraní, která uděluje *1k4* poškození. Pokud je cíl větší než útočník, obdrží pouze 1 poškození.
 
-**Ležící na zemi:** Ležící stvoření je *zaskočené* a má situační postih -2 ke všem svým útokům. Jediné způsoby pohybu který může provést je plazení se (pohyb o 1 metr) a nebo postavit se na nohy, obojí jako *strategickou akci*. Ležící stvoření může také použít svou *strategickou akci* a ukrýt se před střelami. Tím získá *situační bonus +4* proti střelným útokům (stvoření stále zůstává zaskočené, celkový bonus je tedy pouze +2).
+**Odstrčení:** Pokusíš se odstrčit nepřítele, který není větší jak ty. Hoď si na ověření *Zdatnosti* proti *Zdatnosti* tvého cíle. 
 
-**Neviditelný:** Přítomnost neviditelného stvoření nelze odhalit běžným zrakem. Na neviditelné stvoření také nelze cílit útoky nebo kouzla, dokud není upřesněna jeho poloha.
+- **Pokud si úspěšný:** Tvůj cíl se posune o tolik metrů kolik je tvůj modifikátor *Zdatnosti*.
+- **Kritický úspěch:** Cíl navíc upadne na zem.
+- **Volná ruka nebo štít:** Poskytuje *Bonus* k hodu na zásah.
+- **Rozběh aspoň 5 metrů:** Poskytuje Bonus k hodu na zásah. 
 
-**Oslepený:** Slepé stvoření, bez jiného smyslu, kterým by mohlo precizně vnímat okolí je *zaskočené* a všude je pro něj obtížný terén. Slepé stvoření nemůže provádět cílené útoky, kouzla nebo jiné aktivity vyžadující zrak. Slepé stvoření je imunní vůči vizuálním efektům.
+**Shození:** Pokusíš se shodit na zem nepřítele, který není větší jak ty. Hoď si na ověření Zručnosti proti Zdatnosti nebo Zručnosti soupeře (soupeřova volba).
 
-**Unavený:** Unavené stvoření má *stavový postih -2* ke všem *ověřovacím hodům*, *útokům*, *záchranným hodům* a *OČ*. Navíc si při cestování a průzkumu nemůže vybrat aktivitu, kterou by chtěl provádět. Únavy se lze zbavit spánkem do dalšího dne.
+- **Pokud si úspěšný:** Tvůj cíl upadne na zem na místo tebou určené v okolí 1 metru kolem tebe.
+- **Kritický úspěch:** Cíl je navíc *Omráčen* do začátku svého dalšího tahu.
+- **Volná ruka:** Poskytuje *Bonus* k hodu na zásah.
 
-**Utíkající:** Utíkající stvoření utíká z boje nebo před zdrojem strachu. Efektivně všechny své akce využije k pohybu pryč.
+**Přidržení:** Pokusíš se přidržet nepřítele, který není větší jak ty. Hoď si na ověření *Zdatnosti* nebo *Zručnosti* (tvoje volba) proti Zdatnosti nebo Zručnosti soupeře (soupeřova volba).
 
-**V bezvědomí:** Stvoření v bezvědomí je *bezmocné* a po dobu trvání bezvědomí nelze probudit. Pokud je bezvědomí způsobeno spánkem. Stvoření lze probudit jednou *strategickou akcí*.
+- **Pokud si úspěšný:** Tvůj cíl je *Držený* do začátku tvého příštího tahu.
+- **Kritický úspěch:** Cíl je navíc upadne na zem na místo tebou určené v okolí 1 metru kolem tebe.
+- **Prodloužení:** Na začátku svého tahu můžeš držení jako akci prodloužit o další kolo. Při použití této akce můžeš také na držený cíl použít další útok (za předpokladu, že si vystačíš s jednou rukou). Pokud tento útok nevzdálí drženého z tvého dosahu, zůstává držen i po tomto útoku. 
+- **Posun:** S cílem co držíš se můžeš pohybovat a on tě bude následovat. Pohybuješ se jako v *Obtížném terénu*.
+- **Vymanění:** Cíl se může pokusit vymanit úspěšným použitím akce *Překonat*. Musí uspět v ověření *Zdatnosti* nebo *Zručnosti* (volba cíle) proti tvé *Zdatnosti* nebo *Zručnosti* (tvá volba). Pokud je výsledkem kritický úspěch, může osvobozený automaticky přidržet svého původního držitele.
 
-**Vyděšený:** Vyděšené stvoření obdrží *stavový postih -4* ke všem svým ověřovacím hodům a hodům na zásah a po dobu trvání efektu se nemůže vědomě přiblížit ke zdroji svého strachu.
-
-**Zaskočený:** Zaskočené stvoření se nemůže plně bránit a má *situační postih -2 do OČ*, *záchranných hodů* a *bojové HU*. Nejběžnější způsob zaskočení je útok na nic netušící stvoření. Zaskočení většinou bývá vázáno na specifickou situaci nebo efekt. Pokud zaskočení není vázáno na žádný jiný efekt neb daný efekt vypršel, zaskočení končí na konci tahu ovlivněného stvoření.
-
-**Znehybněný:** Znehybněné stvoření má *hybnost 0* a je *zaskočené*.
-
-==todo conditions==
-
-Attitudes: Friendly, Helpful, Hostile, Indifferent, Unfriendly
-Death and Dying: Doomed, Dying, Unconscious, Wounded
-Degrees of Detection: Hidden, Observed, Undetected, Unnoticed
-Lowered Abilities: Clumsy, Drained, Enfeebled, Stupefied
-Senses: Blinded, Concealed, Dazzled, Deafened, Invisible
+!!! note "Kde je odzbrojení?"
+    Pokud bojovník při boji ztratí svou zbraň, většinou to znamená, že jeho protivník vyhrál. Proto (mimo speciální schopnosti postav) lze protivníka odzbrojit pouze jako součást již zmíněného *Přemožení*.
 
 <img src="/assets/sep_line.png"/>

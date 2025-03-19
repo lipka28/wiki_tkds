@@ -1,56 +1,53 @@
 # Obecné talenty ==todo seřadit abecedně==
 
-Zde se nachází obecné talenty, které při splnění podmínek, jsou k dispozici všem specializacím.
+Zde se nachází obecné talenty, které jsou k dispozici všem povoláním.
 
 <img src="/assets/sep_line.png"/>
 
-### Kopni to do sebe
+### Trochu štěstí
 
-**Požadavek:** -
+**Podmínky a omezení:** Tento talent si lze vzít maximálně 3x
 
-**Efekt:** Můžeš vypít lektvar jako *strategickou akci*.
-
-<img src="/assets/sep_line.png"/>
-
-### Fušování do magie
-
-**Požadavek:** Neovládá žádnou magickou disciplínu a Rozvaha >=1
-
-**Efekt:** Postava se amatérským fušováním do magie naučí ovládat základy jedné [magické disciplíny vlastního výběru](https://pravidla.tkds.cz/Zasazen%C3%AD%20%28%C5%BD%C3%A1nry%29/Star%C3%BD%20sv%C4%9Bt%20%28Fantasy%29/magic/#magicke-esence-discipliny-a-seznamy-kouzel). To znamená, že postava může sesílat kouzla z magických svitků a učit se a sesílat vlastní kouzla, z této disciplíny.
-
-- **Magie:** Postava disponuje *Základní magie rasy+4+Rozvaha* magické energie zvané magie. Za tu může sesílat svá kouzla. Magie se doplňuje přirozenou regenerací, podobně jako životy. Přirozená regenerace magie odpovídá *2+Rozvaha* za přenocování.
-- **Kouzla:** Postava obdrží *1* kouzlo dle vlastního výběru ze svého seznamu kouzel. Postava nemůže mít nebo se naučit více kouzel, než které získá z tohohle či jiného magického talentu (většinou 1).
+**Efekt:** Tvé štěstí je vyšší o *1*.
 
 <img src="/assets/sep_line.png"/>
 
-### Extra fušování do magie
+### Lepší obrana
 
-**Požadavek:** Fušování do magie
+**Podmínky a omezení:** Tento talent si lze vzít maximálně 2x
 
-**Efekt:** Postava obdrží *1k4+Rozvaha* magie (lze vzít polovinu na kostce) a naučí se *1 extra kouzlo* ze seznamu kouzel pro svou magickou disciplínu. Tím se také zvedne maximální počet kouzel, které postava může umět o 1. Tento talent si lze vzít opakovaně.
-
-<img src="/assets/sep_line.png"/>
-
-### Blokování štítem
-
-**Požadavek:** Hybridní nebo bojová specializace trénovaná se štítem.
-
-**Efekt:** Pokud má postava zvednutý štít a hrozí, že obdrží poškození. Může použít svou *reakci* a obětovat až několik bodů obranného čísla svého štítu a tím část poškození vyblokovat. Každý obětovaný bod OČ sníží obdržené poškození o *6*. Štít jehož OČ je zredukováno na 0 je zničen. Po použití této schopnosti štít již není zvednut.
+**Efekt:** Tvá obrana a přirozená obrana je vyšší o *1*.
 
 <img src="/assets/sep_line.png"/>
 
-### Válečná medicína
+### Bojeschopnost
 
-**Požadavek:** -
+**Podmínky a omezení:** Tento talent si lze vzít maximálně 2x
 
-**Efekt:** Postava může použít lékárničku jako *běžnou akci* avšak *HU* je v takovém případě *20*.
+**Efekt:** Všechny tvé útoky probíhají s *Bonusem*.
 
 <img src="/assets/sep_line.png"/>
 
-### Nová výzbroj
+### Posílená magie
 
-**Požadavek:** -
+**Podmínky a omezení:** Umíš seslat aspoň jedno kouzlo libovolného zdroje. Tento talent si lze vzít maximálně 2x
 
-**Efekt:** Tento talent umožní postavě se naučit zacházet novou zbraní, zbrojí nebo štítem. Postava se může naučit ovládat jednu zbraň z vyšší skupiny zbraní než kterou ovládá (pokud ovládá základní zbraně, může se naučit jednu válečnou zbraň atd.). Alternativně se může postava naučit používat štít nebo o jedenu vyšší třídu zbroje než ovládá (např. okovaná kožená zbroj -> šupinová zbroj).
+**Efekt:** Vyber si magický zdroj, ze kterého ovládáš aspoň jedno kouzlo. Získáváš Bonus na ověřování dovedností při sesílání kouzel z tohohle zdroje. Stejně tak nepřátelé mají Postih k ověřovacím hodům na odolání efektům kouzel z tohohle zdroje.
+
+<img src="/assets/sep_line.png"/>
+
+### O něco zdravější
+
+**Podmínky a omezení:** Tento talent si lze vzít pouze jednou.
+
+**Efekt:** Tvé maximální zdraví se zvýší o *6*.
+
+<img src="/assets/sep_line.png"/>
+
+### Krok k dokonalosti
+
+**Podmínky a omezení:** Tímto talentem nelze zvýšit dovednost nad hodnotu 15.
+
+**Efekt:** Zvyš si jednu ze svých dovedností o *1* bod.
 
 <img src="/assets/sep_line.png"/>
