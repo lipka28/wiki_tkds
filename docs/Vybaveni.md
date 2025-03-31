@@ -125,7 +125,7 @@ Většina zbraní má nějaké speciální vlastnosti či využití. Ve hře se 
 | Bambitka        | 50 ši | 1     | Příruční   | 2k6       | Zručnost 11               | Brut, ČP, D 10, Kř, P |
 | Těžká kuše      | 60 ši | 2     | Obouruční  | 1k10      | Zdatnost 12               | Brut, D 30, N, P      |
 | Houfnice        | 10 gr | 2     | Obouruční  | Speciální | Zručnost 12               | Brut, ČP, Kř, (P), Sp |
-| Mušketa         | 12 gr | 2     | Obouruční  | 4k6       | Zručnost 12               | Brut, ČP, D 20, Kř, P |
+| Mušketa         | 12 gr | 2     | Obouruční  | 2k6       | Zručnost 12               | Brut, ČP, D 20, Kř, P |
 
 ### Munice
 
@@ -158,11 +158,11 @@ Používání většiny střelných zbraní vyžaduje specifickou munici. Munici
 
 **Granát:** Kovová nádoba naplněná střelným prachem a střepinami, uzavřená doutnákem. 
 
-- *Speciální:* Použití této zbraně vyžaduje oheň pro zapálení doutnáku. Při útoku touhle zbraní se neháže na zásah. Na místo toho si útočník vybere místo v dosahu. Následuje hod štěstí útočníka. Při úspěchu granát exploduje při dopadu, v opačném případě se odkutálí *1k4* metry náhodným směrem (nebo dle povrchu) a až pak exploduje. Výbuch granátu udělí *2k6* poškození všem v 5-ti metrové oblasti do které dopadl (centrované na granátu). Všichni zasažení musí také uspět v hodu štěstí jinak obdrží extra *2k6* poškození.
+- *Speciální:* Použití této zbraně vyžaduje oheň pro zapálení doutnáku. Při útoku touhle zbraní se neháže na zásah. Na místo toho si útočník vybere místo v dosahu. Následuje hod štěstí útočníka. Při úspěchu granát exploduje při dopadu, v opačném případě se odkutálí *1k4* metry náhodným směrem (nebo dle povrchu) a až pak exploduje. Výbuch granátu udělí *1k6* poškození všem v 5-ti metrové oblasti do které dopadl (centrované na granátu). Všichni zasažení musí také uspět v hodu štěstí jinak obdrží extra *1k6* poškození.
 
 **Houfnice:** Krátká, masivní bronzová nebo železná rozevřená hlaveň zasazená do dřevěné lafety. 
 
-- *Speciální:* Při výstřelu z této zbraně vyber prostor o velikosti 5 metrů, který není od tebe vzdálen více jak 1 metr a hoď si na zásah (čistě pro určení zaseknutí zbraně). Všechny subjekty v této oblasti obdrží *1k6* poškození a musí podstoupit hod štěstí. Pokud neuspějí obdrží extra 1k6 poškození. Alternativně lze touhle zbraní zaútočit na 1 cíl do vzdálenosti 2 metry. Zbraň pak efektivně funguje jako mušketa, včetně jejích vlastností (mimo dostřelu).
+- *Speciální:* Při výstřelu z této zbraně vyber prostor o velikosti 5 metrů, který není od tebe vzdálen více jak 1 metr a hoď si na zásah (čistě pro určení zaseknutí zbraně). Všechny subjekty v této musí podstoupit hod štěstí. Pokud neuspějí obdrží extra 1k6 poškození. Alternativně lze touhle zbraní zaútočit na 1 cíl do vzdálenosti 2 metry. Zbraň pak efektivně funguje jako mušketa, včetně jejích vlastností (mimo dostřelu).
 
 **Hůl:** Pevný kus jasanového, dubového nebo mahagonového dřeva, někdy s kovovými okovy na koncích. 
 
