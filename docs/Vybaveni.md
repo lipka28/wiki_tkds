@@ -162,7 +162,7 @@ Používání většiny střelných zbraní vyžaduje specifickou munici. Munici
 
 **Houfnice:** Krátká, masivní bronzová nebo železná rozevřená hlaveň zasazená do dřevěné lafety. 
 
-- *Speciální:* Při výstřelu z této zbraně vyber prostor o velikosti 5 metrů, který není od tebe vzdálen více jak 1 metr a hoď si na zásah (čistě pro určení zaseknutí zbraně). Všechny subjekty v této musí podstoupit hod štěstí. Pokud neuspějí obdrží extra 1k6 poškození. Alternativně lze touhle zbraní zaútočit na 1 cíl do vzdálenosti 2 metry. Zbraň pak efektivně funguje jako mušketa, včetně jejích vlastností (mimo dostřelu).
+- *Speciální:* Při výstřelu z této zbraně vyber prostor o velikosti 5 metrů, který není od tebe vzdálen více jak 1 metr a hoď si na zásah (čistě pro určení zaseknutí zbraně). Všechny subjekty v této oblasti obdrží *1k6* poškození a musí podstoupit hod štěstí. Pokud neuspějí obdrží extra 1k6 poškození. Alternativně lze touhle zbraní zaútočit na 1 cíl do vzdálenosti 2 metry. Zbraň pak efektivně funguje jako mušketa, včetně jejích vlastností (mimo dostřelu).
 
 **Hůl:** Pevný kus jasanového, dubového nebo mahagonového dřeva, někdy s kovovými okovy na koncích. 
 
