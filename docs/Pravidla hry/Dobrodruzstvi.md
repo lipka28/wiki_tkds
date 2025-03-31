@@ -34,10 +34,9 @@ Osobnost reprezentuje jisté charisma a sílu vůle jedince. Modifikátor Osobno
 Ověření dovednosti je klíčová mechanika této hry. Pokud PJ usoudí, že akce o kterou se hráč pokouší má významnou šanci na selhání může požádat o ověření některé z jeho dovedností. Z pohledu pravidel, za ověření dovednosti je považován každý hod k20 modifikovaný nějakou dovedností. 
 
 - **Průběh ověření:** Hráč hodí dvaceti stěnou kostkou (k20) a přičte modifikátor dovednosti specifikovaný PJ.
-- **Hranice úspěchu:** Jestliže pravidla nespecifikují jinak, hod je *úspěšný* pokud je výsledek hodu větší nebo roven *10*.
+- **Hranice úspěchu:** Jestliže pravidla nespecifikují jinak, hod je *úspěšný* pokud je výsledek hodu větší nebo roven *11*.
 - **Hod proti jiné hodnotě:** Pravidla mohou také definovat jinou hranici úspěchu často definované jako *"ověření dovednosti proti ..."*. Hranicí úspěchu je pak hodnota specifikované dovednosti či atributu. Nejčastější využití je při útoku, kdy probíhá ověření Zdatnosti či Zručnosti proti soupeřově Obraně.
 - **Bonusy a Postihy:** Pokoušená aktivita může být těžší nebo lehčí v závislosti na okolnostech dané situace. Tyto okolnosti mohou být výsledkem nějakých kouzel, stavu zúčastněných či vyvstávat ze situace jako takové. Ověření dovednosti může být, mimo dovednost samotnou, také modifikováno určitým počtem Bonusů nebo Postihů.  Bonusy a Postihy se vzájemně odečítají 1 ku 1. Na konci čehož nelze mít více jak 3 Bonusy či postihy. Každý Bonus pak reprezentuje +2 modifikátor (v případě Postihu -2) k výslednému hodu.
-- **Kritický úspěch a neúspěch:** Pokud výsledný hod (po přičtení všech modifikátorů) přesáhne hranici úspěchu o 10 nebo více jedná se o kritický úspěch. Opačně pak podhození hranice úspěchu o 10 nebo více znamená kritický neúspěch. Navíc hod přirozené 20 vždy zvedá stupeň úspěchu a hod přirozené 1 ho snižuje.  Pokud akce nemá pravidly popsaný efekt při kritickém úspěchu/neúspěchu. Potencionální dopad takového výsledku záleží čistě na PJ.
 
 #### Vzorové situace
 
@@ -76,14 +75,10 @@ Seznam vzorových aktivit, které se při hře mohou běžně stát, jaké doved
 
 Štěstí je speciální atribut hráčských postav, který se používá především k vyhodnocování ve směs náhodných událostí. Štěstí má pouze formu modifikátoru v rozsahu -8 až +5 (+5 není nutně maximum avšak hráč by vyšší hodnoty neměl nikdy dosáhnout). Štěstí se přičítá ke všem "hodům štěstí".
 
-- **Hod štěstí:** Je ověřovací hod (nikoliv však "ověření dovednosti") při kterém se k hodu k20 přičte pouze hodnota štěstí. Hod štěstí je úspěšný, je-li výsledná hodnota 10 nebo více.
+- **Hod štěstí:** Je ověřovací hod (nikoliv však "ověření dovednosti") při kterém se k hodu k20 přičte pouze hodnota štěstí. Hod štěstí je úspěšný, je-li výsledná hodnota *11* nebo více.
 - **Štěstí ukončuje:** V popisu některých efektů můžete nalézt "štěstí ukončuje". To znamená, že na konci kola (po tahu hráčů i nepřátel) je třeba podstoupit hod štěstí a případě úspěchu se efekt ukončí. Má li stvoření v jednu chvíli více takových efektů musí si hodit zvlášť za každý.  Výjimkou jsou efekty s popiskem "štěstí ukončuje oba tyto efekty" a "štěstí ukončuje všechny tyto efekty" v takovém případě stačí jen jeden hod pro danou skupinu efektů. 
 - **Bonusy a Postihy:** Ke hodům štěstí se Bonusy a Postihy zpravidla nepřičítají. Může však nastat výjimečná situace, kdy je hod na štěstí ovlivněn nějakým efektem, který poskytuje Bonusy či Postihy. 
-- **Kritický úspěch a neúspěch:** Platí stejná pravidla jako při ověření dovednosti. 
-- **Přehození:** Speciální vlastnost štěstí je, že podstoupí-li hráč hod štěstí a není spokojen s jeho výsledkem. Může si svou hodnotu štěstí snížit o 1 a hod opakovat. Vždy platí nový výsledek. Každé povolání má nějakou schopnost, která umožňuje aplikovat přehození na další hody mimo hod štěstí.
-- **Omezení přehození:** Přehození lze libovolně opakovat (i na stejný hod) dokud hodnota štěstí neklesne na *-8*. Přehození lze používat pouze na dobrodružství a nebo v boji. Nikoliv však na aktivity probíhající mezi dobrodružstvími.
-- **Doplnění štěstí:** Štěstí se doplňuje rychlostí 1 za den. Štěstí se také doplní na maximum po dokončení dobrodružství/úkolu.
-- **Alternativní využití:** Štěstí má i další možná využití. Může suplovat funkci záchraného hodu při setkání s pastí, hodu na překvapení nebo PJ může dle štěstí určit kdo bude cílem monstra.
+- **Alternativní využití:** Štěstí má i další možná využití. Může suplovat funkci záchranného hodu při setkání s pastí, hodu na překvapení nebo PJ může dle štěstí určit kdo bude cílem monstra.
 
 ### Základní kompetence dobrodruha
 
@@ -101,35 +96,40 @@ Při vyhodnocování nejasných situací je dobré, aby PJ měl na paměti to, �
 
 ## Zdraví a smrt
 
-Všechna stvoření ve hře mají atribut Zdraví a Maximální Zdraví, který představuje jejich schopnost vyhýbat se smrti. Hráčské postavy mají anvíc i atribut Výdrž. Funkce těchto atributů je následující:
+Všechna stvoření ve hře mají atribut Zdraví, keré je reprezentováno dvěmi hodnotami. Těmi jsou Maximální Zdraví a Zdraví. Ty představují schopnost jedince vyhýbat se smrti. Funkce těchto atributů je následující:
 
-- **Maximální Zdraví:** U hráčů je tento atribut určen kombinací výběru rasy a povolání. U nepřátel pak většinou odpovídá formuli (5+úroveň*5). Maximální hodnota zdraví by se nikdy neměla snižovat. 
-- **Zdraví:** Na začátku každého dobrodružství odpovídá zdraví maximálnímu zdraví. Hodnota zdraví nemůže být nikdy vyšší než maximální zdraví. Pokud zdraví jedince klesne na 0 jedinec je mrtev. Hráčské psotavy ztrácí zdraví jen následkekm speciálních efektů. Na druhou stranu u monster a NPC se všechno obdržené poškození odečítá ze zdraví.
-- **Výdrž:** Speciální atribut u hráčský postav, od kterého se odečítá veškeré poškození, které postava obdrží (pokud efekt nespecifikuje jinak). Na začátku dorodružství odpovídá výdrž zdraví postavy. Hodnota výdrže nemůže být nikdy vyšší než zdraví. Pokud klesne výdrž postavy na 0 postava bojuje o přežití (viz níže).
+- **Maximální Zdraví:** U hráčů je tento atribut určen kombinací výběru rasy a povolání. U nepřátel pak většinou odpovídá formuli (5+úroveň*5).
+- **Zdraví:** Hodnota zdraví nemůže být nikdy vyšší než maximální zdraví. Pokud zdraví jedince klesne na 0 začíná *Boj o přežití*. V případě monster pak dosažení 0 zdraví, znamená většinou smrt. Zdraví si lze doplňovat odpočinkem, či různými léčivými efekty.
 
-!!! note "Poraněný"
-	Je-li hráčská postava na polovině své výdrže nebo monstrum či NPC na polovině svého zdraví. Je považován za poraněné. Poranění samo o osbě nemá žádný efekt, některé schopnosti však mohou tohoto stavu využívat.
+### Odpočinek
 
-!!! note "Léčení"
-	Pokud není specifikováno jinak, veškeré léčivé efekty léčí pouze výdrž. (U monster a NPC pak zdraví).
+Hráčské postavy se mohou během dobrodružství rozhodnout, že si chtějí odpočinout do dalšího dne. Postavy mohou odpočívat jak často chtějí, avšak pozitivní efekty odpočinku se projeví jen jedenkrát za 24 hodin. Pokud mají postavy možnost nerušeného odpočinku, který trvá aspoň 8 hodin a mají přístup k vodě, jídlu a dostatečnému zázemí. Aktivují následující efekty:
 
-### Léčení a odpočinek
-
-Hráčské postavy se mohou během dobrodružství rozhodnout, že si chtějí odpočinout do dalšího dne. Pokud mají postavy možnost nerušeného odpočinku, který trvá aspoň 8 hodin a mají přístup k vodě, jídlu a dostatečnému zázemí. Získávají následující efekty:
-
-- **Léčení:** Postavě se vyléčí všechna výdrž a 10% ztraceného zdraví.
+- **Léčení:** Postavě se vyléčí 1k6 zdraví.
 - **Nabrání sil:** Schopnosti, které umožňují omezené použití za den. Doplní svá použití.
 - **Ranní přípravy:** Postavy, které mohou provést speciální aktivity jako součást svých ranních příprav, mohou tak učinit.
-- **Štěstí:** Postava si obnoví 1 štěstí. 
+- **Štěstí:** Postava si obnoví 1 bod štěstí. 
 
-### Boj o přežití
+### Boj o přežití a mince smrti
 
-Klesne-li výdrž hráčské postavy na 0. Začíná boj o přežití, který probíhá následovně:
+Klesne-li zdraví hráčské postavy na 0. Obdrží *minci smrti* a začíná pro něj boj o přežití, který probíhá následovně:
 
-- **Přebytečné poškození:** Všechno poškození, které by dostalo výdrž postavy do záporných čísel, se odečte od jejího zdraví.
-- **Bezvědomí a poškození:** Postava bojující o přežití je *v bezvědomí*. Obdrží li umírající postava během umírání nepřímé poškození jako z prostředí, hromadného efektu nebo z perzistentního poškození. Odečte si tohle poškození také ze zdraví. Jakékoliv přímé poškození vhodnou zbraní (většinou čepel) postavu usmrtí.
-- **Konec kola:** Na konci každého kola (po odehrání hráčů i nepřátel) postava utratí *1k6 života* a podstoupí hod štěstí. Pokud uspěje, boj o život končí a postava se probere s *1 výdrží*.
-- **Léčení a stabilizace:** Léčení v jakémkoliv rozsahu ihned ukončí boj o přežití a postava se probere s výdrží ve výši vyléčeného množství.
+- **Bezvědomí a poškození:** Postava bojující o přežití je *v bezvědomí*. Obdrží-li umírající postava během umírání nepřímé poškození jako třeba z prostředí, hromadného efektu nebo z perzistentního poškození. Obdrží další minci smrti. Jakékoliv přímé poškození vhodnou zbraní (většinou čepel) postavu usmrtí.
+- **Konec kola:** Na konci každého kola (po odehrání hráčů i nepřátel) postava podstoupí hod štěstí. Pokud uspěje, získá 1 úspěch. Pokud neuspěje získá minci smrti. Boj o život končí ve chvíli, kdy postava získá 3 úspěchy. Při ukončení boje o přežití postava získá *1 bod zdraví*. Zůstává však v bezvědomí po zbytek scény.
+- **Léčení:** Léčení v jakémkoliv rozsahu ihned ukončí boj o přežití a postava se probere s vyléčeným zdravím.
+- **Smrt:** Nasbírá-li postava *5 mincí smrti* ihned umírá.
+
+#### Mince smrti
+
+Mimo to, že mince smrti představují jak blízko má postava ke smrti. Mají i další využití. Postava může *1x za den* použít minci smrti (tím si ji odečíst) a *automaticky uspět v ověřovacím hodu*.
+
+- **Omezení:** Mimo to, že lze minci smrti spotřebovat jen jednou za den. Platí také, že ji lze použít pouze během dobrodružství. Nikoliv na hody ve volném čase postav.
+- **Začátek dobrodružství:** Před každým dobrodružství, si každý hráč může vybrat s kolika mincemi smrti chce dobrodružství začínat. Což funguje jako takové určení si obtížnosti / nebezpečnosti dobrodružství.
+    - **Lehká:** Začíná s 1 mincí smrti
+    - **Normální:** Začíná bez mincí smrti
+    - **Pokročilá:** Začíná s 2-mi mincemi smrti
+    - **Těžká:** Začíná s 3-mi mincemi smrti
+    - **Velmi těžká:** Začíná se 4-mi mincemi smrti.
 
 <img src="/assets/sep_line.png"/>
 
@@ -137,9 +137,13 @@ Klesne-li výdrž hráčské postavy na 0. Začíná boj o přežití, který pr
 
 Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro jejich řešení.
 
+### Čas
+
+asd ==todo: Měření času na scény, dobrdružství, hodiny atd...==
+
 ### Obtížný terén
 
-Jakýkoliv terén, po kterém se může být obtížné pohybovat, je považovaný za obtížný terén. Příkladem může být bahnitá bažina či cesta zasypaná sněhem do výšky kolen. Každý metr pohybu v takovém prostředí stojí o 1 bod hybnosti více. (Takže přesun o 3 metry v bahně bude stát 6 bodů hybnosti)
+Jakýkoliv terén, po kterém se může být obtížné pohybovat, je považovaný za obtížný terén. Příkladem může být bahnitá bažina či cesta zasypaná sněhem do výšky kolen. Každý metr pohybu v takovém prostředí stojí o 1 bod hybnosti více (Takže přesun o 3 metry v bahně bude stát 6 bodů hybnosti). Stejné postihy platí pokud se postava nachází v obtížném terénu a chce z něj vykročit.
 
 Za pohyb obtížným terénem, jsou také považovány všechny formy pohybu, které se dají považovat za nepřirozené pro dané stvoření. Například u stvoření podobných člověku se dá za nepřirozený pohyb považovat vše mimo chůze/běhu (plavání, šplhání, plazení se atd.). Postavy, monstra i NPC mohou mít speciální schopnost, které jim umožní nějaké tyto postihy obejít.
 
@@ -149,44 +153,25 @@ Za pohyb obtížným terénem, jsou také považovány všechny formy pohybu, kt
 
 Další častou překážkou je viditelnost. Lze předpokládat, že za běžných podmínek a denního světla dohlédne každé stvoření nejdále jak může (většinou za obzor), i když přesná identifikace něčeho v dálce může vyžadovat nějaký ověřovací hod. Nejčastějším problémem je ale tma, ve které jsou hráčské postavy efektivně slepé. Tma se dá porazit pochodněmi, lucernami, či speciálními schopnostmi postav.
 
-V obtížné viditelnosti se pak rozlišují tři následující stavy a to Neviditelný, Ukrytý a Zastřený:
+V obtížné viditelnosti se pak rozlišují tři následující stavy a to Neviditelný, Krytý a Zastřený:
 
-- **Neviditelný:** Neviditelný subjekt nemůže být vnímán stvořeními jejichž jediný přesný smysl je zrak. Ať už z důvodu magie či překážky, která jej ukrývá (např. tma). Na neviditelné stvoření nelze přímo mířit žádné akce, které to vyžadují. Neviditelné stvoření lze odhalit pouze adekvátními akcemi (např. rozsvítit světlo). Cíle útoku *Neviditelných* stvoření jsou *Zaskočené*.
-- **Ukrytý:** Subjekt nelze vidět ale stvoření má jistou představu kde se ukrývá. Takový subjekt má efektivně *Krytí* a je *Zastřený*. (Krytí je popsáno v pravidlech boje zde ==todo:odkaz==)
+- **Neviditelný:** Neviditelný subjekt nelze vidět. Ať už z důvodu magie či překážky, která jej ukrývá (např. tma). Na neviditelné stvoření nelze přímo mířit žádné akce, které to vyžadují. Neviditelné stvoření lze odhalit pouze adekvátními akcemi (např. rozsvítit světlo).
+- **Krytý:** Subjekt je aspoň částečně schovaný za překážkou. Efekty krytí jsou popsány v pravidlech konfliktu zde ==todo:odkaz==)
 - **Zastřený:** Subjekt lze vidět ale jeho tvar či přesná pozice není jasná kvůli snížené viditelnosti. Útoky na zastřený cíl probíhají s Postihem.
 
-Různá stvoření, včetně hráčských postav mohou mít speciální schopnosti, které jim umožňují vnímat svět trochu jinak než normální lidé. Tohle jsou nejčastější varianty těchto schopností:
+Různá stvoření, včetně hráčských postav mohou mít speciální schopnosti, které jim umožňují vnímat svět trochu jinak než normální lidé. Nejčastější formou téhle schopnosti je vidění ve tmě:
 
-- **Výjimečný sluch / Výjimečný čich:** Víš o přítomnosti všech živých stvoření v okolí 10 metrů. Neviditelná stvoření v dosahu jsou pro tebe je Ukrytá. PJ na tebe může uvalit Postih při vystavení zvukovým / pachovým efektům. Naopak si můžeš vyžádat Bonus při aktivitách spoléhající na sluch / čich.
-- **Výjimečný zrak:** Vidíš zastřená stvoření stejně dobře jako kohokoliv jiného a můžeš si vyžádat Bonus při aktivitách spoléhající na zrak.
-- **Dokonalá vize:** Neustále vidíš jako za jasného denního světla. Vidíš neviditelná stvoření a objekty jako obkreslená barvenou linkou (Zastřená) a dokážeš prohlédnout všechny formy maskování a iluzí.
 - **Vidění ve tmě:** Ve tmě vidíš černobíle na vzdálenost až 5 metrů.
 
 ### Negativní stavy
 
-Hráčské postavy se během hry, také musí vykonávat s všelijakými negativními stavy, které mohou uvalovat různé postihy na provádění všelijakých akcí.
-
-- **Doba trvání:** Naprostá většina negativních efektů nemá pevně určenou dobu trvání. Doba trvání bývá stanovena efektem, který negativní stav způsobil.
-- **Kumulace negativních stavů:** Negativní stavy stejného druhu se sčítají (pokud je to logicky možné). Za předpokladu, že dané stavy pochází z jiných zdrojů. Ukončení každého takového stavu se pak řeší odděleně. Výjimkou je stav *Zaskočený*, jehož efekt, lze mít na sobě pouze jednou (Pro jeho odstranění je se však třeba zbavit všech instancí tohohle stavu).
-- **Vázání na jiné efekty:** Negativní stav, který je vázán na jiný probíhající efekt nelze samostatně odstranit. Pro jeho odstranění je třeba s zbavit původního efektu co negativní stav způsobil.
-
-#### Seznam negativních stavů
+Hráčské postavy se během hry často setkají s všelijakými negativními stavy, které mohou uvalovat různé postihy na provádění všelijakých akcí. Nejčastější jsou následující stavy:
 
 - **Bezmocný:** Tvé tělo je kompletně znehybněno bez jakékoliv možnosti se bránit nebo provádět nějaké aktivity. Všechny hody proti tvé Zdatnosti, Zručnosti nebo Obraně automatiky uspějí. Je možné tě okamžitě usmrtit jedním úderem vhodnou zbraní (většinou čepel).
 - **Bezvědomí:** *Ležíš na zemi* a jsi *Bezmocný*. Pokud je tento stav způsoben běžným spánkem. Můžeš se pokusit probudit hodem štěstí.
-- **Držený:** Podobu trvání tohohle stavu je tvá hybnost 0 a nelze ji zvýšit. Navíc jsi *Zaskočený*.
-- **Ležící na zemi:** Ležíš na zemi a nemůžeš používat reakce. Jediný pohyb, který můžeš použít je plazit se (obtížný terén) a nebo vstát (2 body hybnosti). Během toho co ležíš získávají všechny útoky na blízko proti tobě Bonus a všechny útoky na dálku Postih.
-- **Ohluchlý:** Jsi hluchý a nemůžeš provádět aktivity, být postižen nebo benefitovat z efektů, které závisí na sluchu. Pokud není hluchota tvůj přirozený stav jsi *Zaskočený*.
-- **Omráčený:** Podobu trvání tohohle stavu nemůžeš provádět žádné aktivity, tvá hybnost je 0 a nelze ji zvýšit. Navíc jsi *Zaskočený*.
-- **Oslabená dovednost:** Součástí tohohle stavu bývá název dovednosti. Máš Postih na ověřování této dovednosti a všechny efekty ověřujíc proti téhle tvé dovednosti získávají Bonus.
-- **Oslepený:** Jsi slepý, *Zaskočený* a vše je pro tebe v absolutní černotě a nemůžeš být postižen nebo benefitovat z efektů závislých na zraku. Stvoření a objekty v okolí 1 metru kolem tebe považuješ za *Ukryté*, cokoliv dál je *Neviditelné*. Dále nemůžeš aktivovat reakce jejichž spouštěč spoléhá na zrak a nakonec všechen terén je pro tebe *Obtížný terén*.
-- **Otupělý:** Tvá mysl a smysly jsou otupělé. Nemůžeš používat reakce a navíc všechna tvá ověření Inteligence a Osobnosti probíhají s Postihem. Stejně tak ověření proti tvé Inteligenci a Osobnosti probíhají s Bonusem.
-- **Ovládnutý:** Tvá postava je ovládána někým jiným a ty nemáš žádnou kontrolu. Ovládaná postava odehrává svůj tah ve stejné iniciativě jako ten kdo ji ovládá. Pokud postava svůj tah již v tomhle kole odehrála, efekt platí od příštího kola.
-- **Perzistentní poškození:** Na konci kola obdržíš poškození a podstoupíš hod štěstí. Pokud uspěješ efekt končí. Rozsah poškození a to zda je uděleno do výdrže nebo zdraví postavy určuje efekt, který tento stav vyvolal. Některé typy perzistentního poškození lze předčasně ukončit vhodnou akcí (např. hořící stvoření skočí do vody).    
-- **Prokletý:** Hody štěstí provádíš s Postihem.
-- **Vyděšený:** Pokud vidíš zdroj svého vyděšení jsi *Zaskočený*. Objevíš-li se na vzdálenost do 5-ti metrů (včetně) od zdroje svého vyděšení (a vidíš jej). Musíš podstoupit ověření Osobnosti. Když selžeš bude celý tvůj zbylý pohyb využit k útěku pryč od zdroje tvého vyděšení a tvůj tah bude ukončen. Pokud si ještě nestihl použít svou akci, bude použita pro sprint.
-- **Zaskočený:** Dostal si se do znevýhodněné situace. Všechny tvé ověření dovednosti probíhají s Postihem a všechna ověření proti tvým dovednostem a obraně probíhají s Bonusem.
-- **Zesláblý:** Všechna tvá ověření Zdatnosti a Zručnosti probíhají s Postihem. Stejně tak ověření proti tvé Zdatnosti a Zručnosti probíhají s Bonusem. Tvá hybnost je poloviční.
+- **Ležící na zemi:** Jediný pohyb, který můžeš použít je plazit se (obtížný terén) a nebo vstát (2 body hybnosti). Během toho co ležíš získávají všechny útoky na blízko proti tobě Bonus a všechny útoky na dálku Postih.
+- **Oslepený:** Jsi slepý, vše je pro tebe v absolutní černotě a nemůžeš používat nebo být postižen či benefitovat z efektů závislých na zraku. Všechny subjekty v okolí jsou pro tebe efektivně *neviditelné*. Nakonec všechen terén je pro tebe *Obtížný terén*.
+- **Perzistentní poškození:** Na konci kola obdržíš poškození a podstoupíš *hod štěstí*. Pokud uspěješ efekt končí. Rozsah poškození určuje efekt, který tento stav vyvolal. Některé typy perzistentního poškození lze předčasně ukončit vhodnou akcí (např. hořící stvoření skočí do vody). 
 
 ### Ostatní situace
 
@@ -196,11 +181,11 @@ Ostatní již ne tak běžné situace, se kterými se během dobrodružství lze
 
 **Nemoc:** Během dobrodružství můžou být hráčské postavy vystaveny všelijakým infekcím a nemocem. Na konci dne, kdy byla postava vystavena infekci musí podstoupit hod štěstí. Selže-li následují efekty popsány v popisku nemoci. Úspěch znamená, že se nemoci nepovedlo uchytit.
 
-**Hlad a žízeň:** Postavy ztratí 1k6 života za každý den bez jídla a dalších 1k6 života za každých 5 dní bez jídla.
+**Hlad a žízeň:** Postavy ztratí 1k6 zdraví za každý den bez jídla a dalších 1k6 zdraví za každých 5 dní bez jídla.
 
-**Pád z výšky:** Pád z výšky na tvrdý povrch způsobí ztrátu *1-ho zdraví* za každý započatý metr pádu. Padající stvoření může podstoupit hod štěstí a v případě úspěchu zredukovat obdržené poškození na polovinu. Pokud se jedná o vědomý pád (například seskočení z balkónu), poškození se nepočítá za první 2 metry. Pokud stvoření obdrží z pádu ztrátu zdraví v libovolném rozsahu, tak je *Ležící na zemi*.
+**Pád z výšky:** Pád z výšky na tvrdý povrch způsobí *1k6 poškození* za každý započatý metr pádu. Padající stvoření může podstoupit hod štěstí a v případě úspěchu zredukovat obdržené poškození na polovinu. Pokud se jedná o vědomý pád (například seskočení z balkónu), poškození se nepočítá za první 2 metry. Pokud stvoření obdrží z pádu poškození v libovolném rozsahu, tak je *Ležící na zemi*.
 
-- **Shození jako nucený pohyb:** Pokud by mělo stvoření spadnout z výšky jako následek nuceného pohybu (například skopnutí ze střechy.) Může podstoupit extra hod štěstí ještě před začátkem pádu. V případě úspěchu se zachrání a zůstává vyset (třeba na kraji římsy) a je *Zaskočený*.
+- **Shození jako nucený pohyb:** Pokud by mělo stvoření spadnout z výšky jako následek nuceného pohybu (například skopnutí ze střechy.) Může podstoupit extra hod štěstí ještě před začátkem pádu. V případě úspěchu se zachrání a zůstává vyset (třeba na kraji římsy).
 
 !!! note "Rychlost pádu"
     Pokud postava padá volným pádem, předpokládá se, že první kolo padá rychlostí *15 metrů za vteřinu* (150 metrů za kolo) a všechna následující kola rychlostí *45 metrů za vteřinu* (450 metrů za kolo).

@@ -1,4 +1,4 @@
-# Pouštní nomádi ==todo: finish==
+# Pouštní nomád ==todo: finish==
 
 <img src="/assets/sep_line.png"/>
 
@@ -29,7 +29,7 @@
 
 **Vrozené jazyky:** "common" + "Nomádština" ==todo: vymyslet lepší jméno pro "common" a nomádština==
 
-**Základní zdraví:** *12*
+**Základní zdraví:** *11*
 
 **Velikost:** *1*
 

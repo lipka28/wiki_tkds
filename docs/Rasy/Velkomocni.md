@@ -1,4 +1,4 @@
-# Velkomocní ==todo: finish==
+# Velkomocný ==todo: finish==
 
 <img src="/assets/sep_line.png"/>
 
@@ -29,7 +29,7 @@
 
 **Vrozené jazyky:** "common" ==todo: vymyslet lepší jméno pro "common"==
 
-**Základní zdraví:** *8*
+**Základní zdraví:** *9*
 
 **Velikost:** *1*
 

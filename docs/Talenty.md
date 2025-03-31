@@ -4,14 +4,6 @@ Zde se nachází obecné talenty, které jsou k dispozici všem povoláním.
 
 <img src="/assets/sep_line.png"/>
 
-### Trochu štěstí
-
-**Podmínky a omezení:** Tento talent si lze vzít maximálně 3x
-
-**Efekt:** Tvé štěstí je vyšší o *1*.
-
-<img src="/assets/sep_line.png"/>
-
 ### Lepší obrana
 
 **Podmínky a omezení:** Tento talent si lze vzít maximálně 2x

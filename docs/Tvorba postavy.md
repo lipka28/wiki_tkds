@@ -26,7 +26,7 @@ asd
 
 ## 5. Vyber nebo nakup výbavu
 
-asd
+asd, Dát jim asi 8 Grošů (80 Šilinků) + základní výbavu dobrodruha
 
 zmínit memento (bezvýznamný předmět)
 

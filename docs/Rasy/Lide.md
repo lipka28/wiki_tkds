@@ -1,4 +1,4 @@
-# Lidé ==todo: finish==
+# Člověk ==todo: finish==
 
 <img src="/assets/sep_line.png"/>
 
@@ -34,7 +34,7 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 **Vrozené jazyky:** "common" ==todo: vymyslet lepší jméno pro "common"==
 
-**Základní zdraví:** *8*
+**Základní zdraví:** *10*
 
 **Velikost:** *1*
 

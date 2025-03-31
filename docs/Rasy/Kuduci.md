@@ -1,4 +1,4 @@
-# Kuduci ==todo: finish==
+# Kuduk ==todo: finish==
 
 <img src="/assets/sep_line.png"/>
 
@@ -29,7 +29,7 @@
 
 **Vrozené jazyky:** "common" + Kudukština ==todo: vymyslet lepší jméno pro "common"==
 
-**Základní zdraví:** *6*
+**Základní zdraví:** *8*
 
 **Velikost:** *1/2*
 

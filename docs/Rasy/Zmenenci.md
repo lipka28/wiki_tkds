@@ -1,4 +1,4 @@
-# Změněnci ==todo: finish==
+# Změněnec ==todo: finish==
 
 <img src="/assets/sep_line.png"/>
 
@@ -21,7 +21,7 @@
 ## Běžné povahové rysy a názory
 
 !!! note "Inspirace"
-    Tyto rysy a názory nereprezentují každého změněnce. Následující seznam funguje spíše jako taková inspirace pro tvorbu postavy nebo nehráčské postavy. 
+    Tyto rysy a názory nereprezentují každého změněnce. Následující seznam funguje spíše jako taková inspirace pro tvorbu postavy nebo nehráčské postavy.
 
 - ==todo== (5-6)
 
@@ -29,7 +29,7 @@
 
 **Vrozené jazyky:** "common" ==todo: vymyslet lepší jméno pro "common"==
 
-**Základní zdraví:** *10*
+**Základní zdraví:** *8 - 11*
 
 **Velikost:** *1/2 - 1*
 
