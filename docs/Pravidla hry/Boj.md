@@ -111,11 +111,11 @@ Pozicování na bojišti může být to co rozhodne mezi vítězstvím a nevyhnu
 
 ## Souboje a zóny (Volitelné)
 
-asd ==todo: dodělat (5m zóny, přesun(překážky), vázání v melee, speed roll, obklíčení a krytí)==
+asd ==todo: dodělat (5m zóny, přesun(překážky), vázání v melee, speed roll a krytí)==
 
 ## Ostatní bojové situace
 
-**Boj se dvěma zbraněmi:** Při používání 2 zbraní si může postava vybrat v daném tahu útočit oběma zbraněmi. V takovém případě háže na zásah a poškození zvlášť za každou zbraň. Na zásah při takových útocích se vždy háže s postihem. Pokud druhá zbraň není příruční, tak je na tento hod uvalen extra postih. 
+**Boj se dvěma zbraněmi:** Při používání 2 zbraní si může postava vybrat v daném tahu útočit oběma zbraněmi. V takovém případě háže na zásah a poškození zvlášť za každou zbraň. Na zásah při takových útocích se vždy háže s postihem. Pokud aspoň jedna ze zbraní není příruční, tak je na tento hod uvalen extra postih. 
 
 **Improvizované zbraně:** Pokud stvoření útočí něčím, co neslouží jako zbraň nebo útočí zbraní takovým způsobem, který neodpovídá jejímu původním účelu. Útočí s *Postihem* a pokud je výsledek na kostce pod 10, zbraň se rozbije nebo poškodí. Udělované poškození improvizovanou zbraní záleží na PJ, většinou však *1k6*.
 

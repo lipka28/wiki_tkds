@@ -43,3 +43,11 @@ Zde se nachází obecné talenty, které jsou k dispozici všem povoláním.
 **Efekt:** Zvyš si jednu ze svých dovedností o *1* bod.
 
 <img src="/assets/sep_line.png"/>
+
+### Válečný medik
+
+**Podmínky a omezení:** Inteligence >= 12
+
+**Efekt:** Polní lékárničku používáš vždy s *Bonusem* (efektivně vyruší běžný Postih při jejím použití) a můžeš použít *Zafačovat* jako akci. Pokud si však vybereš použít Zafačovat po dobu celé scény, automaticky uspěješ a vyléčíš *2k6 zdraví* na místo 1k6.
+
+<img src="/assets/sep_line.png"/>

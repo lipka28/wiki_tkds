@@ -1,4 +1,4 @@
-# Vybavení a nosnost ==todo: rework==
+# Vybavení a nosnost
 
 <img src="/assets/sep_line.png"/>
 
@@ -70,7 +70,7 @@ Hlavní dělení zraní je podle toho, zda se jedná o zbraně na blízku nebo n
 Většina zbraní má nějaké speciální vlastnosti či využití. Ve hře se vyskytují následující vlastnosti zbraní:
 
 - **Brutální (Brut):** Každou kostku na které padne 1 při hodu na poškození touhle zbraní. Lze 1x přehodit.
-- **Černý prach (ČP):** Zbraň využívá střelný prach a její údržba je tedy složitější. Setká-li se  taková zbraň s vodou (nebo podobným materiálem). Stává se nepoužitelnou dokud nevysušena a očištěna (10 minut) vhodnými nástroji. Na druhou stranu při setkání s plameny může (většinou její munice) explodovat či způsobit jiné zranění.
+- **Černý prach (ČP):** Zbraň využívá střelný prach a její údržba je tedy složitější. Setká-li se  taková zbraň s vodou (nebo podobným materiálem). Stává se nepoužitelnou dokud nevysušena a očištěna vhodnými nástroji. Na druhou stranu při setkání s plameny může (většinou její munice) explodovat či způsobit jiné zranění.
 - **Dlouhá (Dl):** Dosah útoků na blízku stvoření z touto zbraní je delší o 1. Neplatí u stvoření velikosti 1/4 nebo menší.
 - **Dostřel X (D X):** Zbraň má dostřel X metrů. Zbraní lze dostřelit i na dvojnásobnou vzdálenost, ale s postihem.
 - **Hozená X (H X):** Zbraní jde hodit na vzdálenost X metrů. Při útokům hodem se ověřuje Zdatnost pokud zbraň není také Obratná. Zbraň lze hodit i na vzdálenost O 5 metrů větší avšak s Postihem.
@@ -140,7 +140,7 @@ Používání většiny střelných zbraní vyžaduje specifickou munici. Munici
 
 **Nesplnění požadavků u zbraní:** Pokud postava nesplňuje požadavky zbraně, je zbraň v jejích rukou považována za improvizovanou zbraň působící 1k6 poškození (pokud poškození zbraně samotné není nižší). Navíc nemůže využívat vlastností dané zbraně.
 
-#### Popisky a speciální schopnosti
+#### Popisky a speciální vlastnosti
 
 **Bambitka:** Malá jednoraná palná zbraň s dřevěnou rukojetí a ocelovou hlavní, často s mosaznými nebo železnými prvky a křesadlovým mechanizmem. 
 
@@ -251,7 +251,6 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Lahvička s korkovou zátkou                                   |   L   |   5 mi   |
 | Lucerna                                                      |   1   |  10 ši   |
 | Lupa                                                         |   L   |  30 ši   |
-| Maskovací sada (10 použití)                                  |   2   |  25 ši   |
 | Motouz (20 metrů)                                            |   1   |   2 mi   |
 | Mýdlo                                                        |   L   |   2 mi   |
 | Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo, Prut na ryby atd...) | 1 - 2 |   3 ši   |
@@ -269,7 +268,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Řetěz (2 metry)                                              |   1   |   5 ši   |
 | Svíčka                                                       |   L   |   3 mi   |
 | Truhla se zámkem (dřevěná, malá)                             |   1   |   3 ši   |
-| Truhla se zámkem (dřevěná, velká)                            |  5+   |  10 ši   |
+| Truhla se zámkem (dřevěná, velká)                            |   6   |  10 ši   |
 | Víno (1 litr, obyčejné)                                      |   1   |   1 ši   |
 | Víno (1 litr, Kvalitní)                                      |   1   |  15 ši   |
 | Visací zámek s klíčem                                        |   1   |   6 ši   |
@@ -281,17 +280,75 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 | Zvoneček                                                     |   1   |   1 ši   |
 | A další... (Řekni si PJ co potřebuješ)                       |  ??   |    ??    |
 
-asd
+### Speciální vlastnosti
 
-#### Popisky
+**Alchymistické nástroje:** Sada zkumavek, činidel a jiných nástrojů potřebných pro alchymii v praktickém cestovním balení. Běžným dobrodruhům slouží především pro identifikaci lektvarů a jiných alchymistických substancí. 
 
-asd
+- **Použití:** Pro identifikace alchymistické substance je třeba uspět v ověřovacím hodu na Inteligenci s *Postihem*.
+- **Úspěch:** Substance je úspěšně identifikována a zachována.
+- **Neúspěch:** Identifikace substance je mimo schopnosti uživatele. Substance zareaguje dle uvážení PJ (Například je zničena).
+
+**Cestovní výbava:** Základní výbava pro cestování divočinou. Obsahuje věci jako stan, spacák, nádobí na přípravu jídla, mýdlo a měch na vodu. Je nutná pro bezproblémové přenocování v divočině.
+
+**Čistící sada na křesadlové zbraně:** Sada olejíčků kartáčů a jiných nástrojů k údržbě křesadlových zbraní. Vyčištění zbraně nástroji trvá 10 minut (*1 scénu*). Což kompletně opraví zaseknutou či promočenou zbraň. Navíc po takové údržbě se tato křesadlová zbraň nemůže po zbytek dne zaseknout.
+
+**Dalekohled:** Mosazná trubka obvázaná kůží s několika optickými čočkami. Poskytuje Bonus k hledání a identifikaci subjektů na dálku.
+
+- **Jako zaměřovací optika:** Za extra investici 1 groše, lze dalekohled permanentně přidělat k mušketě, kuši nebo těžké kuši a tak efektivně zdvojnásobit její dostřel.
+
+**Hák:** Hák se třemi nebo čtyřmi hroty. Vhodný pro uchycení lana.
+
+**Horolezecké náčiní:** Sada nástrojů jako jsou provaz, kladívka, kovové kůly a podobné, které  dělají lezení jednoduší a bezpečnější. Sada poskytuje *Bonus* k ověřování dovedností za účelem lezení.
+
+**Křesadlo:** Užitečné k zapalování ohňů a pochodní. Úspěšné použití při vypjatých situacích (například v boji) vyžaduje úspěšný hod na ověření Zručnosti s *Postihem*.
+
+**Lahvička oleje:** Lahvička plná kluzké a hořlavé substance. Vhodná pro boj, nebo jako palivo do lucerny na *4 hodiny* (24 scén).
+
+- **Bojové užití:** Lahvičku oleje lze zapálit a hodit. Zasažený cíl obdrží 1k6 poškození, musí uspět v ověření štěstí jinak začne hořet a obdrží dalších 1k6 perzistentního poškození (štěstí ukončuje).
+
+**Lucerna:** Poskytuje světlo v oblasti *10 metrů* a má posuvnou clonu, kterou lze světlo zakrýt nebo namířit jen jedním směrem. K fungování vyžaduje olej.
+
+**Pochodeň:** Poskytuje světlo v okolí *10 metrů* a hoří po dobu 1 hodiny (6 scén). Lze ji použít jako improvizovanou příruční  zbraň působící *1k4* poškození.
+
+**Polní lékárnička:** Sada obsahující sadu bandáží a mastí pro léčbu běžných zranění a substance proti běžným jedům. Polní lékárnička má několik možných využití.
+
+- **Použití:** Ve všech případech vyžaduje úspěšný ověřovací hod na Inteligenci s *Postihem*.
+- **Léčba otravy či paralýzy (akce):** Cíl může opakovat svůj hod na odolání jedu či paralýze, tentokrát s *Bonusem*. 
+- **Stabilizace (akce):** Cíl ukončí svůj boj o přežití a je stabilizován s 1 bodem zdraví. Zůstává však v bezvědomí po zbytek scény.
+- **Zafačovat (scéna):** Cíl si vyléčí *1k6* zdraví. Lze použít 1x denně za cíl (počítá se i neúspěšné použití).
+
+**Psací potřeby:** Sada psacích per, inkoustů, pečetního vosku a listů pergamenu pro běžné poznámky, nákresy či korespondenční účely.
+
+**Pytel kovových ježků:** Malé kovové bodce, které mohou být rozhozeny po zemi (oblast 1 metr). Stvoření pohybující se postiženou oblastí obdrží *1 poškození* a následně je pro něj všechen pohyb pohybem obtížným terénem (štěstí ukončuje). Jakmile jedno stvoření obdrží poškození z  ježků v dané oblasti. Tím poničí dost ježků na to, že průchod oblastí je bezpečný.
+
+**Svíčka:** Vosková svíčka s drážkami vyznačující 10-ti minutové úseky času. Poskytuje světlo v okolí 1 metru a hoří po dobu  2 hodin (12 scén).
+
+**Truhla se zámkem:** Dřevěná pokovovaná truhlice do které lze bezpečně uschovat další předměty. K dispozici jsou 2 varianty s následujícími nosnostmi:
+
+- **Malá:** Zabírá 1 slot a lze do ní umístit 1 předmět o maximální velikosti 1 slot. Tento uschovaný předmět se nepřičítá k celkové váze truhly.
+- **Velká:** Zabírá 6 slotů a lze do ní umístit až 6 slotů předmětů. Žádný však nesmí být větší jak 3 sloty. Tyto uschované předměty se nepřičítají k celkové váze truhly.
+
+**Víno:** Skleněná nebo keramická láhev obsahující 1 litr vína.
+
+**Zápalky:** Užitečné k zapalování ohňů a pochodní. Úspěšné použití při vypjatých situacích (například v boji) vyžaduje úspěšný hod na ověření Zručnosti.
+
+**Zásoby:** Dostatek jídla pro 1 člověku podobné stvoření na 7 dní nebo do konce jednoho dobrodružství (co přijde dřív).
+
+**Zásoby pro zvíře:** Stejné jako zásoby ale levnější varianta pro libovolné zvíře.
+
+**Zlodějské náčiní:** Sada šperháků kleštiček a šroubováků vhodných pro odemykání zámků nebo manipulaci mechanizmů.  
+
+- **Použití:** Umožňuje nositeli podstoupit ověřovací hod na Zručnost s *Postihem* pro odemčení zámku či libovolnou manipulaci odkrytého mechanizmu (například řídící panel pasti).
+- **Úspěch:** Zámek se odemkne nebo mechanizmus se zachová dle přání uživatele.
+- **Neúspěch:** Zámek je mimo schopnosti uživatele. Mechanizmus provede akci dle uvážení PJ (Například past se může spustit).
 
 <img src="/assets/sep_line.png"/>
 
 ## Zvěř a povozy
 
-**Nosnost tažných zvířat:** Tažná zvěř může dosáhnout až dvojnásobku své psané nosnosti. Avšak při překročení psané nosnosti se jejich hybnost sníží na polovinu.
+**Nosnost zvířat:** Pokud má na sobě zvíře sedlo a otěže, a jeho statistiky uvádí nosnost, lze na něj umisťovat předměty. Nosnost jezdce a sedla je již v celkové nosnosti zvířete započítáno. Nosnost zvířete, lze převýšit stejným způsobem jako u hráčský postav a i se stejnými následky.
+
+- **Váha člověku podobnému stvoření:** Pro případ, že je to někdy třeba. Váha člověku podobnému stvoření odpovídá 6-ti slotům (bez výbavy).
 
 <img src="/assets/sep_line.png"/>
 
@@ -299,16 +356,16 @@ asd
 
 Domestikované plemeno vybírané především pro svou inteligenci a stopovací schopnosti.
 
-**Lvl:** 1; **HP:** 6; **OČ:** 12; **ToHIT:** +1;  **Hybnost:** 18; **Z.Hody:** *Z:*15 / *T:*14 / *M:* 16; **Morálka:** 10
+**Úroveň:** 1; **Zdraví:** 10; **O:** 10;  **Hybnost:** 7; **Zda:** 11(+1) ; **Zru:** 10(+0); **Int:** 8(-2) ; **Oso:** 10(+0);
 
-**Útoky:** 1x Kousnutí *1k6*
+**Útoky:** 1x Kousnutí (+1) *1k6*
 
 **Speciální schopnosti:**
 
-- *Stopování:* Poskytuje bonus *+4* ke stopování.
-- *Na příkaz:* Trénovaný, aby útočil na příkaz majitele.
+- *Stopování:* Pokud má k dispozici dostatečně čerstvou stopu, zvládne bezchybně následovat kořist.
+- *Na příkaz:* Je trénován na běžné psí příkazy jako sedni, pojď, přines a podobně.
 
-**Cena:** 20 st
+**Cena:** 5 ši
 
 <img src="/assets/sep_line.png"/>
 
@@ -316,17 +373,17 @@ Domestikované plemeno vybírané především pro svou inteligenci a stopovací
 
 Tvrdohlavý kříženec koně a osla.
 
-**Lvl:** 2; **HP:** 8; **OČ:** 12; **ToHIT:** +1;  **Hybnost:** 12; **Z.Hod:** *Z:*14 / *T:*16 / *M:* 16; **Morálka:** 9
+**Úroveň:** 2; **Zdraví:** 15; **O:** 6;  **Hybnost:** 5; **Zda:** 12(+2) ; **Zru:** 10(+0); **Int:** 8(-2) ; **Oso:** 9(-1);
 
-**Útoky:** 1x Kopanec *1k4* nebo 1x Kousnutí *1k3*
+**Útoky:** 1x Kopance a kousání (+2) 1k4
 
 **Speciální schopnosti:**
 
 - *Lhostejný:* Nechá se zavést téměř kamkoli, dokonce i do podzemí. 
 - *Defenzivní:* Může zaútočit pokud ohrožen, nemůže však být vycvičena k boji.
-- *Nosnost:* Lze vybavit 4-mi malými nebo 2-mi velkými sedlovými brašnami.
+- *Nosnost:* 8 slotů
 
-**Cena:** 30 st
+**Cena:** 2 gr
 
 <img src="/assets/sep_line.png"/>
 
@@ -334,54 +391,51 @@ Tvrdohlavý kříženec koně a osla.
 
 Lehce stavěný kůň určený pro rychlou jízdu.
 
-**Lvl:** 2; **HP:** 8; **OČ:** 12; **ToHIT:** +1;  **Hybnost:** 24; **Z.Hod:** *Z:*14 / *T:*15 / *M:* 16; **Morálka:** 7
+**Úroveň:** 2; **Zdraví:** 20; **O:** 8;  **Hybnost:** 8; **Zda:** 13(+3) ; **Zru:** 10(+0); **Int:** 8(-2) ; **Oso:** 8(-2);
 
-**Útoky:** 2x Kopanec *1k4*
+**Útoky:** 1x Kopanec(+3) *1k8*
 
 **Speciální schopnosti:**
 
-- *Bojácný:* Pokud je napaden musí ověřit morálku. Při neúspěchu uteče.
-- *Nosnost:* Lze vybavit 2-mi malými nebo 1 velkou sedlovou brašnou.
+- *Bojácný:* Pokud je napaden musí podstoupit ověření Osobnosti. Při neúspěchu uteče.
+- *Nosnost:* 12 slotů
 
-**Cena:** 75 st
+**Cena:** 5 gr
 
 <img src="/assets/sep_line.png"/>
 
 ### Kárka
 
-Dvoukolá kárka s velkou kapacitou.
+Dvoukolá kárka s malou kapacitou a místem pro 2 jezdce (jezdci navíc se počítají vůči nosnosti vozu).
 
-**SP:** 2; **OČ:** 10; **Max hybnost:** 4, **Minimum zvířat:** 2 muly nebo 1 kůň.
+**Max hybnost:** 4, **Minimum zvířat:** 2 muly nebo 1 kůň.
 
 **Speciální schopnosti:**
 
 - *Max nosnost:* (20) 40 Slotů (v závorce nosnost s minimem zvířat) 
 - *Obtížný terén:* Tento typ vozidla muže cestovat pouze po udržovaných cestách.
 
-**Cena:** 100 st
+**Cena:** 10 gr
 
 <img src="/assets/sep_line.png"/>
 
 ### Povoz
 
-Čtyřkolový otevřený vůz
+Čtyřkolový otevřený vůz s velkou kapacitou a místem až pro 4 jezdce (jezdci navíc se počítají vůči nosnosti vozu).
 
-**SP:** 4; **OČ:** 10; **Max hybnost:** 4, **Minimum zvířat:** 4 muly nebo 2 koně.
+**Max hybnost:** 4, **Minimum zvířat:** 4 muly nebo 2 koně.
 
 **Speciální schopnosti:**
 
 - *Max nosnost:* (80) 160 Slotů (v závorce nosnost s minimem zvířat) 
 - *Obtížný terén:* Tento typ vozidla muže cestovat pouze po udržovaných cestách.
 
-**Cena:** 200 st
-
-!!! note "SP: Životy struktur"
-	Struktury nelze poškodit běžnými zbraněmi (meče, luky, sekery atd..). Avšak velká stvoření, kouzla a obléhací zbraně je poškodit mohou. Za každých *5 poškození*, které útokem způsobí obléhací zbraň, kouzlo nebo velká nestvůra. *Obdrží struktura 1 bod poškození*. Pokud by měla struktura podstoupit záchranný hod, automaticky selže.
+**Cena:** 20 gr
 
 <img src="/assets/sep_line.png"/>
 
 ## Nájemná pomoc
 
-asd
+asd ==todo: ale až po downtime==
 
 <img src="/assets/sep_line.png"/>
