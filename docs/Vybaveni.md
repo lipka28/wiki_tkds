@@ -122,7 +122,7 @@ Většina zbraní má nějaké speciální vlastnosti či využití. Ve hře se 
 | Granát          | 20 ši | L     | Jednoruční | Speciální | -                         | ČP, H 10, Sp          |
 | Příruční kuše   | 25 ši | 1     | Příruční   | 1k6       | Zručnost 11               | D 10, N               |
 | Kuše            | 30 ši | 2     | Obouruční  | 1k8       | -                         | D 20, N               |
-| Bambitka        | 50 ši | 1     | Příruční   | 2k6       | Zručnost 11               | Brut, ČP, D 10, Kř, P |
+| Bambitka        | 50 ši | 1     | Příruční   | 2k6       | Zručnost 11               | Brut, ČP, D 5, Kř, P  |
 | Těžká kuše      | 60 ši | 2     | Obouruční  | 1k10      | Zdatnost 12               | Brut, D 30, N, P      |
 | Houfnice        | 10 gr | 2     | Obouruční  | Speciální | Zručnost 12               | Brut, ČP, Kř, (P), Sp |
 | Mušketa         | 12 gr | 2     | Obouruční  | 2k6       | Zručnost 12               | Brut, ČP, D 20, Kř, P |
