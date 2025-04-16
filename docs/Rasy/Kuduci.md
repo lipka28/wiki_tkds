@@ -29,9 +29,7 @@
 
 **Vrozené jazyky:** "common" + Kudukština ==todo: vymyslet lepší jméno pro "common"==
 
-**Základní zdraví:** *8*
-
-**Velikost:** *1/2*
+**Základní zdraví:** *5*
 
 **Hybnost:** *5 metrů*
 

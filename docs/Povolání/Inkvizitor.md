@@ -1,4 +1,4 @@
-# Lamač kouzel ==TODO: Rework viz EXCEL==
+# Inkvizitor ==TODO: Rework viz EXCEL==
 
 <img src="/assets/sep_line.png"/>
 

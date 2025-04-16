@@ -90,7 +90,7 @@ Většina zbraní má nějaké speciální vlastnosti či využití. Ve hře se 
 
 | Název             | Cena  | Sloty | Držení     | Poškození | Požadavky   | Vlastnosti  |
 | ----------------- | ----- | ----- | ---------- | --------- | ----------- | ----------- |
-| Hůl               | 1 mi  | 2     | Obouruční  | 1k4       | -           | Obr, Sp     |
+| Hůl               | 1 mi  | 2     | Obouruční  | 1k4       | -           | Obr         |
 | Krátké kopí       | 1 ši  | L     | Jednoruční | 1k4       | -           | H 10        |
 | Nůž               | 1 ši  | L     | Příruční   | 1k4       | -           | H 5, Obr    |
 | Sekyrka           | 1 ši  | L     | Příruční   | 1k4       | -           | H 5         |
@@ -99,6 +99,7 @@ Většina zbraní má nějaké speciální vlastnosti či využití. Ve hře se 
 | Palice            | 3 ši  | 1     | Příruční   | 1k6       | -           | -           |
 | Bič               | 5 ši  | 1     | Příruční   | 1k4       | Zručnost 12 | Dl, Obr, Sp |
 | Palcát            | 5 ši  | 1     | Jednoruční | 1k6       | -           | V           |
+| Tří-čtvrteční hůl | 5 ši  | 2     | Obouruční  | 1k8       | Zručnost 12 | Obr, SP     |
 | Main-gauche       | 6 ši  | 1     | Příruční   | 1k4       | Zručnost 12 | Obr, Sp     |
 | Krátký meč        | 10 ši | 1     | Příruční   | 1k6       | -           | Obr         |
 | Píka              | 10 ši | 2     | Obouruční  | 1k8       | Zdatnost 12 | Dl          |
@@ -142,7 +143,7 @@ Používání většiny střelných zbraní vyžaduje specifickou munici. Munici
 
 #### Popisky a speciální vlastnosti
 
-**Bambitka:** Malá jednoraná palná zbraň s dřevěnou rukojetí a ocelovou hlavní, často s mosaznými nebo železnými prvky a křesadlovým mechanizmem. 
+**Bambitka:** Malá jednoraná palná zbraň s dřevěnou rukojetí a ocelovou hlavní, často s mosaznými nebo železnými prvky a křesadlovým mechanizmem.  ==todo: qickdraw like ability==
 
 **Bič:** Dlouhý pramen spletený z kožených řemenů nebo surové kůže, zakončený někdy olověnými či ocelovými kuličkami. Rukojeť bývá dřevěná a ovinutá kůží. 
 
@@ -156,18 +157,15 @@ Používání většiny střelných zbraní vyžaduje specifickou munici. Munici
 
 **Dlouhý meč:** Ocelová dvoubřitá čepel, rukojeť potažená kůží nebo drátěným opletem, zakončená kovovou hlavicí.
 
-**Granát:** Kovová nádoba naplněná střelným prachem a střepinami, uzavřená doutnákem. 
+**Granát:** Kovová nádoba naplněná střelným prachem a střepinami, uzavřená doutnákem.  ==todo: upravit==
 
 - *Speciální:* Použití této zbraně vyžaduje oheň pro zapálení doutnáku. Při útoku touhle zbraní se neháže na zásah. Na místo toho si útočník vybere místo v dosahu. Následuje hod štěstí útočníka. Při úspěchu granát exploduje při dopadu, v opačném případě se odkutálí *1k4* metry náhodným směrem (nebo dle povrchu) a až pak exploduje. Výbuch granátu udělí *1k6* poškození všem v 5-ti metrové oblasti do které dopadl (centrované na granátu). Všichni zasažení musí také uspět v hodu štěstí jinak obdrží extra *1k6* poškození.
 
-**Houfnice:** Krátká, masivní bronzová nebo železná rozevřená hlaveň zasazená do dřevěné lafety. 
+**Houfnice:** Krátká, masivní bronzová nebo železná rozevřená hlaveň zasazená do dřevěné lafety.  ==todo: upravit== ==todo: qickdraw like ability==
 
 - *Speciální:* Při výstřelu z této zbraně vyber prostor o velikosti 5 metrů, který není od tebe vzdálen více jak 1 metr a hoď si na zásah (čistě pro určení zaseknutí zbraně). Všechny subjekty v této oblasti obdrží *1k6* poškození a musí podstoupit hod štěstí. Pokud neuspějí obdrží extra 1k6 poškození. Alternativně lze touhle zbraní zaútočit na 1 cíl do vzdálenosti 2 metry. Zbraň pak efektivně funguje jako mušketa, včetně jejích vlastností (mimo dostřelu).
 
-**Hůl:** Pevný kus jasanového, dubového nebo mahagonového dřeva, někdy s kovovými okovy na koncích. 
-
-- *Speciální 1:* Pokud při útoku touto zbraní byla použita Zručnost a výsledek hodu na zásah překonal jak obranu tak Zručnost soupeře. Může si útoční vybrat, že způsobí jen poloviční poškození a shodí soupeře na zem.
-- *Speciální 2:* Pokud při útoku touto zbraní byla použita Zdatnost a výsledek hodu na zásah překonal jak obranu tak Zdatnost soupeře. Může si útoční vybrat, že způsobí jen poloviční poškození a odstrčí nepřítele o 2 metry libovolným směrem.
+**Hůl:** Pevný kus jasanového, dubového nebo mahagonového dřeva, často používaná jako zdroj moci pro kouzelníky.
 
 **Kopí:** Dřevěné ratiště (dub, jasan) zakončené ocelovým nebo železným hrotem, někdy s háčky nebo výčnělky.
 
@@ -203,7 +201,7 @@ Používání většiny střelných zbraní vyžaduje specifickou munici. Munici
 
 - *Speciální:* Munice do praku je v podstatě neomezená kdekoliv, kde je přístup ke kamení, suti či jinému podobnému materiálu. Alternativně se do praku dá nabít malý předmět (jako lektvar či granát) a hodit jej tak na větší vzdálenost.
 
-**Příruční kuše:** Malá verze kuše s kratším lučištěm z pružné oceli a jednoduchým spoušťovým mechanismem.
+**Příruční kuše:** Malá verze kuše s kratším lučištěm z pružné oceli a jednoduchým spoušťovým mechanismem. ==todo: qickdraw like ability==
 
 **Rapír:** Dlouhá a tenká čepel z lehké oceli s košíkovým jílcem pro ochranu ruky.
 
@@ -212,6 +210,11 @@ Používání většiny střelných zbraní vyžaduje specifickou munici. Munici
 **Sekyrka:** Malá jednobřitá ocelová sekera s dřevěnou násadou, někdy s protizávažím na druhé straně.
 
 **Těžká kuše:** Robustní kuše s kovovými výztuhami, silným lučištěm a složitým napínacím mechanismem.
+
+**Tří-čtvrteční hůl:** Pevný kus jasanového, dubového nebo mahagonového dřeva zakončený kovovými okovy na koncích.
+
+- *Speciální 1:* Pokud při útoku touto zbraní byla použita Zručnost a výsledek hodu na zásah překonal jak obranu tak Zručnost soupeře. Může si útoční vybrat, že způsobí jen poloviční poškození a shodí soupeře na zem.
+- *Speciální 2:* Pokud při útoku touto zbraní byla použita Zdatnost a výsledek hodu na zásah překonal jak obranu tak Zdatnost soupeře. Může si útoční vybrat, že způsobí jen poloviční poškození a odstrčí nepřítele o 2 metry libovolným směrem.
 
 **Válečná sekyra:** Jednobřitá nebo dvoubřitá sekera s dlouhou rukojetí, hlavice z uhlíkové oceli.
 
@@ -356,7 +359,7 @@ Níže uvedená výbava a ceny, jsou hráčům dostupné pouze při tvorbě post
 
 Domestikované plemeno vybírané především pro svou inteligenci a stopovací schopnosti.
 
-**Úroveň:** 1; **Zdraví:** 10; **O:** 10;  **Hybnost:** 7; **Zda:** 11(+1) ; **Zru:** 10(+0); **Int:** 8(-2) ; **Oso:** 10(+0);
+**Úroveň:** 1; **Zdraví:** 10; **O:** 10; **Velikost:** 1;  **Hybnost:** 7; **Zda:** 11(+1) ; **Zru:** 10(+0); **Int:** 8(-2) ; **Oso:** 10(+0);
 
 **Útoky:** 1x Kousnutí (+1) *1k6*
 
@@ -373,7 +376,7 @@ Domestikované plemeno vybírané především pro svou inteligenci a stopovací
 
 Tvrdohlavý kříženec koně a osla.
 
-**Úroveň:** 2; **Zdraví:** 15; **O:** 6;  **Hybnost:** 5; **Zda:** 12(+2) ; **Zru:** 10(+0); **Int:** 8(-2) ; **Oso:** 9(-1);
+**Úroveň:** 2; **Zdraví:** 15; **O:** 6; **Velikost:** 1; **Hybnost:** 5; **Zda:** 12(+2) ; **Zru:** 10(+0); **Int:** 8(-2) ; **Oso:** 9(-1);
 
 **Útoky:** 1x Kopance a kousání (+2) 1k4
 
@@ -391,7 +394,7 @@ Tvrdohlavý kříženec koně a osla.
 
 Lehce stavěný kůň určený pro rychlou jízdu.
 
-**Úroveň:** 2; **Zdraví:** 20; **O:** 8;  **Hybnost:** 8; **Zda:** 13(+3) ; **Zru:** 10(+0); **Int:** 8(-2) ; **Oso:** 8(-2);
+**Úroveň:** 2; **Zdraví:** 20; **O:** 8; **Velikost:** 1; **Hybnost:** 8; **Zda:** 13(+3) ; **Zru:** 10(+0); **Int:** 8(-2) ; **Oso:** 8(-2);
 
 **Útoky:** 1x Kopanec(+3) *1k8*
 

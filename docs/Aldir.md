@@ -1,66 +1,50 @@
-# Starý svět a jeho jazyky ==todo: rework==
+# Aldir
 
 <img src="/assets/sep_line.png"/>
 
-<img src="/assets/OW/Old_world.png"/>
+<img src="/assets/SB/Aldir.webp"/>
 
 <img src="/assets/sep_line.png"/>
 
-## Starý svět
+## Aldir
 
-Všechen text v těchto pravidlech předpokládají zasazení do Starého světa. Starý svět je nedefinovaná konstelace světadílů, kterou lze použít jako pozadí pro jakékoliv dobrodružství chcete. Následuje *9* pravd o Starém světě, které mají pomoci se hráčům a PJ vcítit do světa, tak jak byl zamýšlen autorem pravidel.
+Všechen text v těchto pravidlech předpokládají zasazení do Aldiru. Následuje *8* pravd o Aldiru, které mají pomoci hráčům a PJ se vcítit do světa.
 
-- Starý svět existuje na planetě, která byla kdysi hodně dávno. Mocnou magií prezervována mimo existenci skutečného vesmíru, aby se předešlo jejímu zničení. Stejná magie také nahradila působení přírodních zákonů na planetě, aby se zamezilo výraznému technologickému postupu. Například jevy jako magnetizmus, či elektrický proud sice existují, ale nejsou dosažitelné technologickými postupy. Pouze magií.
-- Magie existuje a je všude kolem. Proniká na starý svět z vyšších sfér, které existují jako paralelní světy k starému světu.
-- Bohové existují a říká se jim Povznesení. Často je za Povzneseného považována libovolná mocnější bytost, která vládne drobné komunitě. Ti nejmocnější z Povznesených se však posunuli na vyšší stupeň bytí. Ovládají magii o které se smrtelníkům ani nezdálo a mohou se volně pohybovat mezi vyššími sférami a starým světem. Tito Povznesení často sledují jen své zájmy a moc se o životy smrtelníků nezajímají, pokud se nedají využít k potrápení jiného Povzneseného.
-- Vzhledem k magii, která svět udržuje v zachovalém stavu. Je svět prastarý. Klidně i několik stovek miliónů let. I ty nejdéle žijící rasy stihly zapomenout nespočetně krát tolik vědomostí, než kolik zvládli v zaznamenané historii objevit.
-- Magická stvoření jsou v divočině naprosto běžná. Pohyb mezi městy nebo vzdálení se od osady je velmi nebezpečné a doporučuje se cestovat ve větších počtech. Zatímco uvnitř zemí společenství je možné, že vás v lese pomate nějaká ta víla nebo si na vás ve skalách smlsne mantikora. U hranic neprozkoumaného světa však není problém narazit i na draka.
-- Lidé, elfové a trpaslíci jsou považováni za hlavní civilizované rasy známého světa. Až na výjimky žijí tyhle rasy ve vzájemně oddělených komunitách. Jejich nejčastějším způsobem komunikace je obchod. Kvůli tomu byl vyvinut i společný univerzální jazyk zvaný Jazyk společenství.
-- I když mezi známými rasami zrovna panuje křehký mír. Jejich vycházení je spíše jen tak na oko. Uvnitř jejich území se to hemží vnitřními frakcemi, městskými státy a podobnými uskupeními. Které si vzájemně šlapou na paty a soupeří o každé zrnko moci, které mohou získat a nezajímá je, když u toho pocuchají vztahy z členy jiné rasy.
-- Předpokládá se, že reálie světa obývaného civilizovanými rasami odpovídá středověké Evropě.
-- Dobrodruzi jsou považování za šílence. Vidina rychlého zbohatnutí, touha po průzkumu neznámého nebo objevení mocného artefaktu dohnala ne jednoho člověka, elfa či trpaslíka k hození svého běžného života za hlavu a vyražení do neznáma. Představa je to však bláhová a ve většině případů končí smrtí. Existují však případy, kdy se jedinec navrátí s nesmírným bohatstvím. Stane se z něj mocný vládce nebo se dokonce povznese na vyšší úroveň bytí a připojí se k panthenou Povznesených.
+- Aldir je poměrně malý světadíl nacházející se na planetě Tera, jehož největší část je pokryta stejnojmennou Aldirskou republikou. Aldiršťané měří čas, stejně jako my. Na týden o 7-mi dnech, měsíc o 30/31 dnech, rok o 12 měsících. Podnebí Aldiru se pohybuje mezi mírným až subtropickým.
+- Tera, jako svět, je stará několik miliónu let. Aldirská republika samotná má pak kořeny v asi přes tisíce let staré civilizaci. Kdysi zde stálo mocné Aldirské císařství, které se táhlo napříč rozsáhlým územím. To se však po *"Smrti bohů"* rozpadlo a některé vzniklé zemičky se později sjednotili do dnešní Aldirské republiky.
+- Magie je v tomto světě skutečná. Za normálních okolností pozvolna proniká na svět z opuštěných božských říší (*Agni*, *Ara*, *Durus*, *Asha*, *Nur* a *Skia*). Někteří odvážní jedinci se však naučili magii manipulovat a pomocí vytváření tak zvaných bran, mohou z těchto světů čerpat magii až potencionálně neomezeně. V Aldiru se tito jedinci ovládající magii nazývají Med'ji (Medžaj).
+- Bohové neexistují, jsou mrtví nebo se prostě od tohohle světa distancují. Nebylo tomu však tak vždy. Jelikož bohové a jejich světy jsou zdrojem veškeré magie na Teře. Avšak po obrovské katastrofě, která srovnala se zemí podstatnou část tehdejšího Aldirského císařství. Přišlo ticho, které obzvlášť v církvi vyvolalo obrovskou paniku, a s pádem císařství přišel i mocenský pád církve. Celá tato událost se dne nazývá *"Smrt bohů"*.
+- Nelze říci, že by před Smrtí bohů na Teře nežila nebezpečná stvoření. Pokud měl člověk smůlu mohl se setkat se zlovlkem, velemedvědem nebo dokonce drakem či vyvernou. Po Smrti bohů se však na svět dostalo tolik magie, že se začali objevovat i všelijaká magická či magií zmutovaná stvoření, jako jsou elementálové, víly, mantikory či samotní velkomocní.
+- Na Teře jako takové nepochybně žijí desítky až stovky různých inteligentních ras. V okolí Alridu jsou to však převážně Lidé, Trpaslíci a Kuduci. Ti žijí po spolu pod záštitou Aldirské republiky. Trpaslíci mají svůj domov již po staletí ve skalách Rudého draka, a Kuduci osedlali létající ostrovy severovýchodním cípu Aldirské republiky. Tuhle svou domovinu nazývají Eulérie.
+- Aldirská republika může na první pohled působit jako země žijící v míru a rovnováze. Opak je ale pravdou. Republika je rozdělena na oblasti, kterým vládnou různí šlechtici, obchodníci a jiné vysoce postavené rodiny, které se ne vždy mají v lásce. Tito vůdci oblastí se pak schází v republikovém senátu, který z jeho sídla v Praagu řídí celou republiku. 
+- Předpokládá se, že reálie Aldiru odpovídá středověké renezanční Evropě. Obohacené o nějakou tu alchymii, kudukské vynálezy a trpasličí řemeslnou práci.
 
 <img src="/assets/sep_line.png"/>
 
 ## Jazyk
 
-Všechny inteligentní rasy a stvoření Starého světa mluví nějakou formou vlastního jazyka. Včetně různých nářečí a nuancí existující v různých částech světa. Například lidé z Andi nemluví stejným jazykem jako lidé ze Severního Slavska. Všechna inteligentních stvoření mají však šanci *2 z 6-ti* (u těch z civilizovanějších končin je tahle pravděpodobnost výrazně vyšší) ovládat *Jazyk společenství*. Společný jazyk, vytvořen na základě lidské řeči, který byl vytvořen za účelem komunikace všech civilizovaných ras.
+Všechny inteligentní stvoření mluví nějakou formou vlastního jazyka. Včetně různých nářečí a nuancí existující v různých částech světa. Na Aldirském kontinentě ja však poměrně vysoká pravděpodobnost, že inteligentní stvoření aspoň rozumí Aldirštině. Jelikož to je zde nejrozšířenější jazyk.
 
-### Vrozené jazyky
+- **Vrozené jazyky:** Každá postava začíná s jazyky získanými s výběru rasy. Většinou je to mix *Aldirštiny* a dalších jazyků. 
+- **Extra jazyky:** Postavy co se mohou naučit extra jazyky, si je nevybírají předem. Postava se může vybrat, že daný jazyk ovládá ve chvíli, kdy s ním přijde do styku.
 
-Každá postava začíná s jazyky získanými s výběru rasy. Většinou je to mix *Jazyka společenství* a dalších jazyků. Postavy s vyšší inteligencí si mohou vybrat extra jazyky z tabulek níže. Ti co nevědí co si vybrat, si na jazyk mohou hodit.
+### Speciální a magické jazyky
 
-### Běžné jazyky
+Existuje i několik jazyků, které jsou poněkud výjimečné svou formou nebo tím co umožňují. Tyto jazyky se nelze normálně naučit. Postava k nim získá přístup buď speciální schopností, talentem nebo relevantní událostí v příběhu.
 
-| k8   |      Jazyk      |           Běžní mluvčí           |
-| ---- | :-------------: | :------------------------------: |
-| 1    |      Aquan      |    Intelifentní stvoření moře    |
-| 2    |    Elfština     |              Elfové              |
-| 3    |    Gnómština    |             Gnómové              |
-| 4    |   Goblinština   |              Skřeti              |
-| 5    |   Jazyk obrů    | Obrové severu, Trollové a Zlobři |
-| 6    |    Orkština     |           Orkské kmeny           |
-| 7    | Pulčický hantec |             Pulčíci              |
-| 8    |  Trpasličtina   |            Trpaslíci             |
-| -    |   Obecná řeč    | Většina inteligentních stvoření  |
+- **Magické jazyky:** Pro každou magickou bránu existuje stejnojmenný magický jazyk. Ten umožňuje uživateli používat magické svitky a komunikovat s magickými stvořeními stejné brány. (Magické jazyky: *Agni*, *Ara*, *Durus*, *Asha*, *Nur*, *Skia*)
+- **Dvojřeč:** Speciální metoda řeči, která umožňuje maskovat tajné zprávy do běžné konverzace. Většinou foré zlodějů a vrahů.
 
-### Exotické a mrtvé jazyky
+<img src="/assets/sep_line.png"/>
 
-Pokud má postava dostatek rozumu aby se naučila 2 další běžné jazyky, může se na místo toho naučit 1 exotický jazyk.
+## Náboženství 
 
-| k8   |      Jazyk       |          Běžní mluvčí          |
-| ---- | :--------------: | :----------------------------: |
-| 1    |    Démonština    |             Démoni             |
-| 2    |    Dračí řeč     |             Draci              |
-| 3    |  Hlubinný jazyk  |        Stvoření Podzemě        |
-| 4    |    Nebeština     | Andělé a jiná nebeská stvoření |
-| 5    |   Nekrilština    |            Nemrtví             |
-| 6    |      Prima       |          Elementálové          |
-| 7    |    Faeanština    |     Vílí tvorové a druidi      |
-| 8    | Zlodějský hantec |  Zloději, tuláci a podvodníci  |
+asd ==todo== (církev šesti strážců)
 
----
+<img src="/assets/sep_line.png"/>
 
+## Významné frakce
 
+asd ==todo==, Církev, Lamači, Mágové Luminastry, Cech dobrodruhů (ala Bracers guild), Nějaká forma reformátroské frakce toužící po návratu k monarchii (neefektivita republiky)?
 
 <img src="/assets/sep_line.png"/>

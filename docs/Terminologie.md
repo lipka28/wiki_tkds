@@ -46,6 +46,8 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Více kostková notace:** Pokud je vyžadován hod více kostek naráz, je počet hozených kostek indikován před *k*. Například *3k6* znamená: Hoď 3 šesti-stranné kostky a sečti výsledek.
 
+**Zaokrouhlování:** Pokud je třeba nějaký výsledek zaokrouhlit například jako následek půlení. Pokud není uvedeno jinak, zaokrouhluje se vždy dolů.
+
 <img src="/assets/sep_line.png"/>
 
 ## Hlavní herní smyčka

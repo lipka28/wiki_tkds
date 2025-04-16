@@ -14,7 +14,7 @@ Konflikt je mód hry, při kterém záleží na každé vteřině. Čas se začn
 
 Základní strukturou pro konflikt jsou kola a tahy. Kolo je úsek času o délce asi 6 sekund, během kterého všechna stvoření v konfliktu odehrají svůj tah. Kolo má následující strukturu:
 
-- **Tah Hráčů:** Pokud hráči nebyli překvapeni nepřáteli, vždy začínají.
+- **Tah Hráčů:** Pokud hráči nebyli překvapeni nepřáteli, vždy začínají. 
 - **Tah nepřátel:** Nepřátelé jsou na řadě.
 - **Konec kola:** Efekty, které se projevují na konci kola se projeví zde, hody na štěstí ukončující trvající efekty se také dějí zde.
 
@@ -24,11 +24,13 @@ Základní strukturou pro konflikt jsou kola a tahy. Kolo je úsek času o délc
 !!! note "Proč hráči začínají?"
     Hody na iniciativu a podobné mechaniky většinou rozbijí přirozený chod hry. Pokud hráči vždy začínají, procedura hry se efektivně nezmění. PJ popíše scénu a hráči si vyberou jak chtějí reagovat.
 
+**Odehrání tahu skupiny:** Všechna stvoření v dané skupině, která je právě na řadě. Mohou odehrát svůj tah v libovolném pořadí. Dokonce si i do tahů vzájemně zasahovat.
+
 **Kolo překvapení:** Z okolností hry může vzejít situace, kdy je jedna ze stran konfliktu překvapená. Překvapení trvá 1 kolo a překvapená stvoření v tomto kole nemohou odehrát svůj tah.
 
 ## Struktura tahu
 
-Každý účastní konfliktu může během svého tahu provést *1 akci*, *1 rychlou akci* a využít své *body hybnosti*. Následuje seznam aktivit, které lze za pomocí těchto prostředků provést.
+Každý účastní konfliktu může během svého tahu provést *akci* a využít své *body hybnosti*. Následuje seznam aktivit, které lze za pomocí těchto prostředků provést.
 
 ### Akce
 
@@ -36,28 +38,22 @@ Každý účastní konfliktu může během svého tahu provést *1 akci*, *1 ryc
 
 **Použít schopnost:** Použiješ některou ze svých schopností. 
 
-**Připravit akci:** Vynecháš svůj tah a připravíš si nějakou jinou akci. Definuj podmínku za které tuhle akci použiješ. Pokud do konce kola takhle podmínka nastane, můžeš použít svou rychlou akci k provedení této akce. V opačném případě svůj tah ztrácíš.
+**Překonat:** Některé negativní efekty umožňují být předčasně ukončeny provedením této akce a úspěšným ověřením relevantní dovednosti.
+
+**Připravit akci:** Vynecháš svůj tah a připravíš si nějakou jinou akci. Definuj podmínku za které tuhle akci použiješ. Pokud do konce kola takhle podmínka nastane, můžeš se jedenkrát za kolo vložit do právě probíhajícího tahu soupeře.
 
 !!! Warning "Souběh akcí"
     Připravené akce probíhají ve stejnou chvíli jako akce soupeře. Je tedy například možné aby se postava s nepřítelem zasáhly navzájem zbraní. Vyhodnocení takových situací záleží na PJ.
 
 **Seslat kouzlo:** Sešleš kouzlo, které ovládáš. Více o kouzlech zde ==todo:odkaz==.
 
-**Sprint:** Tvá hybnost je tohle kolo trojnásobná.
+**Sprint:** Tvá hybnost je tohle kolo *dvojnásobná*.
 
 **Ukončit magický efekt:** Můžeš ukončit jeden svůj probíhající magický efekt. Pokud vidíš oblast či subjekty ním ovlivněné.
 
-**Útok:** Provedeš útok zbraní, neozbrojený útok, bojový manévr nebo na cíl použiješ předmět či kouzlo.
+**Útok:** Provedeš útok zbraní nebo neozbrojený útok.
 
 **Něco jiného:** Další věci co tě napadnou. PJ si nějak poradí.
-
-### Rychlá akce
-
-Je speciální varianta akce používaná hlavně pro speciální schopnosti postav. Rychlou akci může stvoření většinou použít kdykoliv během kola a to i během tahu soupeře (Pokud není specifikováno jinak).
-
-**Provést připravenou akci:** Pokud byla podmínka tvé připravení akci splněna, můžeš ji jako rychlou akci provést.
-
-**Něco jiného:** Schopnosti postav mohou nabízet, další možnosti využití.
 
 ### Hybnost
 
@@ -72,25 +68,20 @@ Hybnost se používá především k přesunu po bojišti. Avšak lze ji využí
 - **Vyber si cíl:** Vyber si cíl, který vidíš a je v dosahu tvé zbraně.
 - **Ověření dovednosti:** Ověř svou *Zdatnost* pro útok na blízku a nebo svou *Zručnost* pro útok na dálku, a porovnej výsledek s Obranou cíle (nebo jiným atributem specifikovaným v popisku útoku)
 - **Poškození:** Útoky udělují tolik poškození kolik je stanoveno ve statistikách monstra nebo deníku postavy hráče. Úspěšný zásah vždy udělí aspoň 1 poškození. Pokud cíl není imunní.
+- **Přirozená 20 a 1:** Stejně jako u ostatních ověření dovedností. Přirozená 20 na kostce je vždy úspěch. Stejně tak přirozená 1 je vždy neúspěch a to nezávisle na dalších modifikátorech. Některé zbraně či povolání mohou mít speciální efekty při těchto hodech.
 
 !!! note "Druhy poškození"
     Tahle hra nijak nerozlišuje specifické druhy poškození. Je na dobré úvaze PJ a domluvě s hráči, zda a jak je útok účinný proti danému typu stvoření.
 
-### Velikost a dosah
+### Ohrožení
 
-Různá stvoření ve hře mohou být různě veliká. To má především vliv na dosah jejich útoků na blízku, ale může se projevovat i v jiných situacích. Velikost je reprezentována číslem od 1/4 přes 1/2 a 1 až po potencionálně libovolné celé číslo.
+Stvoření, které se nachází v *dosahu útoku na blízku jiného stvoření* (počítá se i neozbrojený útok), je v ohrožení. Pro stvoření v ohrožení platí následující omezení:
 
-- **Velikost 1/4:** Reprezentuje extra malá stvoření, taková která by se vešla klidně i do hrsti. Dosah útoků na blízku u takových stvoření je však 1 (1 metr). Pozor zbraně na blízku s delším dosahem nemají u takto malých stvoření žádný vliv na dosah jejich útoků.
-- **Velikost 1/2:** Představuje stvoření, které by bylo běžnému člověku asi tak po kolena. Dosah útoků na blízku takových stvoření je 1.
-- **Velikost 1:** Za velikost 1 jsou považována všechna stvoření od 3/4 až po dvojnásobek velikosti běžného člověka. Dosah útoků na blízku takových stvoření je 1.
-- **Velikost 2+:** Jsou všechna stvoření, která jsou významně větší než člověk. Dosah útoků na blízku takových stvoření vždy odpovídá jejich velikosti. Zbraně či končetiny s delším dosahem, mohou tuhle vzdálenost ještě zvýšit. 
-
-#### Dosah a ohrožení
-
-Všechen prostor v dosahu útoků na blízku daného stvoření je pro jeho *nepřátele* považován za *obtížný terén*. Také jakýkoliv nepřítel, který se v dané oblasti pokusí provést *útok na dálku*, *seslat kouzlo*, *přebít zbraň* nebo *použít předmět* (jehož aktivace vyžaduje akci). Musí podstoupit *hod štěstí*. V případě neúspěchu je akce ztracena.
-
-- **V případě předmětu:** Pokud byl k akci třeba předmět, ten spadne na zem.
-- **V případě kouzla:** Jednalo-li se o kouzlo, všechny investované materiály či zdroje potřebné k vyčarování kouzla jsou ztraceny.
+- *Útoky na dálku* - Vyžaduje úspěšné ověření štěstí, jinak mine.
+- *Používání nebo manipulace s předměty* - Vyžaduje úspěšné ověření štěstí, jinak se předmět nepoužije a upadne na zem (některé předměty se mohou rozbít)
+- *Čarování kouzel* - Vyžaduje úspěšné ověření štěstí, jinak se kouzlo nepovedlo seslat a je ztraceno.
+- *Strategický pohyb* - Stvoření, které započalo svůj tah v ohrožení se celé kolo pohybuje jako by bylo pod efektem *obtížného terénu*.
+- *Speciální situace* - PJ může uznat, že stvoření není schopné nikoho ohrozit, když je bezmocné, ležící na zemi nebo pod jinými podobnými efekty.
 
 ### Krytí
 
@@ -109,20 +100,14 @@ Pozicování na bojišti může být to co rozhodne mezi vítězstvím a nevyhnu
 
 **3.** Nicole je připravená se zapojit použitím své kuše. Nachází se však v nevýhodné pozici, jelikož většinu obra zakrývá dům vedle kterého stojí. Nicole v této situaci pravděpodobně obra ještě vidí. Vidí ho ale tak málo, že se dá roh domu v cestě uznat jako *Krytí*. Pokud chce mít nicole lepší šanci na zásah, musí se přesunout.
 
-## Souboje a zóny (Volitelné)
-
-asd ==todo: dodělat (5m zóny, přesun(překážky), vázání v melee, speed roll a krytí)==
-
 ## Ostatní bojové situace
 
-**Boj se dvěma zbraněmi:** Při používání 2 zbraní si může postava vybrat v daném tahu útočit oběma zbraněmi. V takovém případě háže na zásah a poškození zvlášť za každou zbraň. Na zásah při takových útocích se vždy háže s postihem. Pokud aspoň jedna ze zbraní není příruční, tak je na tento hod uvalen extra postih. 
+**Boj se dvěma zbraněmi:** Při používání 2 zbraní si může postava vybrat v daném tahu útočit oběma zbraněmi. V takovém případě háže na zásah a poškození zvlášť za každou zbraň. Na zásah při takových útocích se vždy háže s postihem. Pokud aspoň jedna ze zbraní není příruční, tak je na tento hod uvalen extra postih.
 
 **Improvizované zbraně:** Pokud stvoření útočí něčím, co neslouží jako zbraň nebo útočí zbraní takovým způsobem, který neodpovídá jejímu původním účelu. Útočí s *Postihem* a pokud je výsledek na kostce pod 10, zbraň se rozbije nebo poškodí. Udělované poškození improvizovanou zbraní záleží na PJ, většinou však *1k6*.
 
-**Neozbrojený útok:** Je považován za útok Obratnou, Příruční, Improvizovanou zbraní, která uděluje *1k4* poškození. Pokud je cíl větší než útočník, obdrží pouze 1 poškození.
+**Neozbrojený útok:** Je považován za útok Obratnou, Příruční, Improvizovanou zbraní, která uděluje *1k4* poškození. Pokud je cíl výrazně větší může být poškození nižší nebo nulové.
 
 **Přemožení:** Postava si může u svého smrtícího útoku vybrat, zda chce svůj cíl zabít nebo jen zneškodnit. Zneškodněný cíl je poražen ale ne zabit. Jak se poražení projevuje je na domluvě mezi hráčem a PJ.
-
-**Bojové manévry:** Pokud nejsou specifikovány speciální schopností postavy, tak jsou čistě v režii PJ. Většinou obnáší relevantní ověřovací hod proti hodnotě dovednosti soupeře.
 
 <img src="/assets/sep_line.png"/>

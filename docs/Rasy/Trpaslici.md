@@ -29,9 +29,7 @@
 
 **Vrozené jazyky:** "common" + trpasličtina ==todo: vymyslet lepší jméno pro "common"==
 
-**Základní zdraví:** *12*
-
-**Velikost:** *1*
+**Základní zdraví:** *8*
 
 **Hybnost:** *5 metrů*
 

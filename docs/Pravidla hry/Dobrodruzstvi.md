@@ -37,45 +37,47 @@ Ověření dovednosti je klíčová mechanika této hry. Pokud PJ usoudí, že a
 - **Hranice úspěchu:** Jestliže pravidla nespecifikují jinak, hod je *úspěšný* pokud je výsledek hodu větší nebo roven *11*.
 - **Hod proti jiné hodnotě:** Pravidla mohou také definovat jinou hranici úspěchu často definované jako *"ověření dovednosti proti ..."*. Hranicí úspěchu je pak hodnota specifikované dovednosti či atributu. Nejčastější využití je při útoku, kdy probíhá ověření Zdatnosti či Zručnosti proti soupeřově Obraně.
 - **Bonusy a Postihy:** Pokoušená aktivita může být těžší nebo lehčí v závislosti na okolnostech dané situace. Tyto okolnosti mohou být výsledkem nějakých kouzel, stavu zúčastněných či vyvstávat ze situace jako takové. Ověření dovednosti může být, mimo dovednost samotnou, také modifikováno určitým počtem Bonusů nebo Postihů.  Bonusy a Postihy se vzájemně odečítají 1 ku 1. Na konci čehož nelze mít více jak 3 Bonusy či postihy. Každý Bonus pak reprezentuje +2 modifikátor (v případě Postihu -2) k výslednému hodu.
+- **Přirozená 20 a 1:** Přirozená 20 na kostce je vždy úspěch. Stejně tak přirozená 1 je vždy neúspěch a to nezávisle na dalších modifikátorech.
 
 #### Vzorové situace
 
 Seznam vzorových aktivit, které se při hře mohou běžně stát, jaké dovednosti jsou vhodné pro jejich vyřešení. Všechny uvedené příklady jsou jen pouhá doporučení. Každý PJ může přistoupit k řešení takových situací dle svého. 
 
-| Aktivita                                       |     Vhodná dovednost      |
-| ---------------------------------------------- | :-----------------------: |
-| Analýza nebo vybavení si informací o...        |        Inteligence        |
-| Balancování na kluzkém povrchu.                |         Zručnost          |
-| Identifikace alchymistických předmětů          |        Inteligence        |
-| Identifikace magických předmětů                |        Inteligence        |
-| Lhát                                           |         Osobnost          |
-| Nauč se kouzlo                                 |        Inteligence        |
-| Odemykání zámků                                |         Zručnost          |
-| Odvést pozornost                               |         Osobnost          |
-| Oprava předmětů                                |         Zručnost          |
-| Použití lékárničky (viz. výbava)               |        Inteligence        |
-| Požádat stvoření o...                          |         Osobnost          |
-| Proplížit se kolem nepřítele                   |         Zručnost          |
-| Přecházení po tenkém prkně.                    |         Zručnost          |
-| Přeskakování velkých děr                       |         Zdatnost          |
-| Přesvědčit někoho o něčem                      |         Osobnost          |
-| Připravit past                                 |         Zručnost          |
-| Rozlušti zašifrované spaní                     |        Inteligence        |
-| Stopování zvěře                                |         Zručnost          |
-| Šplhání po skále                               |         Zdatnost          |
-| Šplhání po stěnách bez zřejmých úchytů.        |         Zdatnost          |
-| Vybavení si znalostí o příšeře                 |        Inteligence        |
-| Vyhrožování a zastrašování                     |         Osobnost          |
-| Výroba předmětů                                | Zručnost nebo Inteligence |
-| Získávání informací                            |         Osobnost          |
-| Zneškodňování pastí                            |         Zručnost          |
-| Zpěv, předstírání nebo nějaký herecký výkon... |         Osobnost          |
+| Aktivita                                    |     Vhodná dovednost      |
+| ------------------------------------------- | :-----------------------: |
+| Analýza nebo vybavení si informací o...     |        Inteligence        |
+| Balancování na kluzkém povrchu.             |         Zručnost          |
+| Identifikace alchymistických předmětů       |        Inteligence        |
+| Identifikace magických předmětů             |        Inteligence        |
+| Lhát                                        |         Osobnost          |
+| Nauč se kouzlo                              |        Inteligence        |
+| Odemykání zámků                             |         Zručnost          |
+| Odvést pozornost                            |         Osobnost          |
+| Oprava předmětů                             |         Zručnost          |
+| Použití lékárničky (viz. výbava)            |        Inteligence        |
+| Požádat stvoření o...                       |         Osobnost          |
+| Proplížit se kolem nepřítele                |         Zručnost          |
+| Přecházení po tenkém prkně.                 |         Zručnost          |
+| Přeskakování velkých děr                    |         Zdatnost          |
+| Přesvědčit někoho o něčem                   |         Osobnost          |
+| Připravit past                              |         Zručnost          |
+| Rozlušti zašifrované spaní                  |        Inteligence        |
+| Stopování zvěře                             |         Zručnost          |
+| Šplhání po skále                            |         Zdatnost          |
+| Šplhání po stěnách bez zřejmých úchytů.     |         Zdatnost          |
+| Vybavení si znalostí o příšeře              |        Inteligence        |
+| Vyhrožování a zastrašování                  |         Osobnost          |
+| Výroba předmětů                             | Zručnost nebo Inteligence |
+| Získávání informací                         |         Osobnost          |
+| Zneškodňování pastí                         |         Zručnost          |
+| Zpěv, předstírání nebo nějaký herecký výkon |         Osobnost          |
+| Zvednout morálku spojencům                  |         Osobnost          |
 
 ### Štěstí
 
 Štěstí je speciální atribut hráčských postav, který se používá především k vyhodnocování ve směs náhodných událostí. Štěstí má pouze formu modifikátoru v rozsahu -8 až +5 (+5 není nutně maximum avšak hráč by vyšší hodnoty neměl nikdy dosáhnout). Štěstí se přičítá ke všem "hodům štěstí".
 
-- **Hod štěstí:** Je ověřovací hod (nikoliv však "ověření dovednosti") při kterém se k hodu k20 přičte pouze hodnota štěstí. Hod štěstí je úspěšný, je-li výsledná hodnota *11* nebo více.
+- **Hod štěstí:** Je ověřovací hod (nikoliv však "ověření dovednosti") při kterém se ale k hodu k20 většinou nic nepřičítá. Hod štěstí je úspěšný, je-li výsledná hodnota *11* nebo více.
 - **Štěstí ukončuje:** V popisu některých efektů můžete nalézt "štěstí ukončuje". To znamená, že na konci kola (po tahu hráčů i nepřátel) je třeba podstoupit hod štěstí a případě úspěchu se efekt ukončí. Má li stvoření v jednu chvíli více takových efektů musí si hodit zvlášť za každý.  Výjimkou jsou efekty s popiskem "štěstí ukončuje oba tyto efekty" a "štěstí ukončuje všechny tyto efekty" v takovém případě stačí jen jeden hod pro danou skupinu efektů. 
 - **Bonusy a Postihy:** Ke hodům štěstí se Bonusy a Postihy zpravidla nepřičítají. Může však nastat výjimečná situace, kdy je hod na štěstí ovlivněn nějakým efektem, který poskytuje Bonusy či Postihy. 
 - **Alternativní využití:** Štěstí má i další možná využití. Může suplovat funkci záchranného hodu při setkání s pastí, hodu na překvapení nebo PJ může dle štěstí určit kdo bude cílem monstra.
@@ -139,7 +141,11 @@ Pár běžných překážek se kterými se hráči mohou setkat a pravidla pro j
 
 ### Čas
 
-asd ==todo: Měření času na scény, dobrdružství, hodiny atd...==
+Mimo standardních jednotek času jako jsou měsíce, dny či hodiny, které plní ve hře stejnou roli jako ve skutečném životě, se lze setkat i s čistě herně mechanickými úseky času. Jejichž význam je následující:
+
+- **Dobrodružství (někdy taky Výprava):** Je nespecifikovaný úsek času během něhož se odehraje jedno dobrodružství, postavy splní úkol nebo se odehraje jiná významná událost. Dobrodružství může trvat klidně několik dní nebo být otázkou pár hodin. Důležité je, že konec dobrodružství slouží jako takový reset. Postavy postoupí na novou úroveň, všechna zranění jsou vyléčena a dočasné efekty ukončeny. Postavy si také mohou určit, kolik jim zůstane mincí smrti do dalšího dobrodružství a nakoupit si potřebnou výbavu před tím, než vyrazí na další dobrodružství.
+- **Scéna:** Odpovídá přibližně 10-ti minutám času v herním světě. Jedná se o pro postavy významný úsek času jelikož to znamená, že se něco děje. Scéna může být souboj, úprk před pronásledovateli či průzkum místnosti v kobce. PJ může usoudit, že některé časově náročnější aktivity, trvají scén hned několik.
+- **Kolo:** Je přibližně 6-ti vteřinový časový úsek, většinou při konfliktu. Při kterém měla všechna stvoření účastnící se daného konfliktu možnost reagovat či provést svou akci. Konflikt vždy trvá 1 scénu.
 
 ### Obtížný terén
 
@@ -163,15 +169,17 @@ Různá stvoření, včetně hráčských postav mohou mít speciální schopnos
 
 - **Vidění ve tmě:** Ve tmě vidíš černobíle na vzdálenost až 5 metrů.
 
-### Negativní stavy
+### Speciální stavy
 
-Hráčské postavy se během hry často setkají s všelijakými negativními stavy, které mohou uvalovat různé postihy na provádění všelijakých akcí. Nejčastější jsou následující stavy:
+Hráčské postavy se během hry často setkají s všelijakými speciálními stavy, které mohou uvalovat různé postihy na provádění všelijakých akcí. Nejčastější jsou následující stavy:
 
-- **Bezmocný:** Tvé tělo je kompletně znehybněno bez jakékoliv možnosti se bránit nebo provádět nějaké aktivity. Všechny hody proti tvé Zdatnosti, Zručnosti nebo Obraně automatiky uspějí. Je možné tě okamžitě usmrtit jedním úderem vhodnou zbraní (většinou čepel).
+- **Bezmocný (Paralyzovaný):** Tvé tělo je kompletně znehybněno bez jakékoliv možnosti se bránit nebo provádět nějaké aktivity. Všechny hody proti tvé Zdatnosti, Zručnosti nebo Obraně automatiky uspějí. Je možné tě okamžitě usmrtit jedním úderem vhodnou zbraní (většinou čepel).
 - **Bezvědomí:** *Ležíš na zemi* a jsi *Bezmocný*. Pokud je tento stav způsoben běžným spánkem. Můžeš se pokusit probudit hodem štěstí.
 - **Ležící na zemi:** Jediný pohyb, který můžeš použít je plazit se (obtížný terén) a nebo vstát (2 body hybnosti). Během toho co ležíš získávají všechny útoky na blízko proti tobě Bonus a všechny útoky na dálku Postih.
 - **Oslepený:** Jsi slepý, vše je pro tebe v absolutní černotě a nemůžeš používat nebo být postižen či benefitovat z efektů závislých na zraku. Všechny subjekty v okolí jsou pro tebe efektivně *neviditelné*. Nakonec všechen terén je pro tebe *Obtížný terén*.
 - **Perzistentní poškození:** Na konci kola obdržíš poškození a podstoupíš *hod štěstí*. Pokud uspěješ efekt končí. Rozsah poškození určuje efekt, který tento stav vyvolal. Některé typy perzistentního poškození lze předčasně ukončit vhodnou akcí (např. hořící stvoření skočí do vody). 
+- **Zvýhodněný v DOVEDNOST:** Všechny tvé hody na ověření této dovednosti jsou házeny s Bonusem a všechny hody proti této tvé dovednosti jsou házeny s Postihem.
+- **Znevýhodněný v DOVEDNOST:** Všechny tvé hody na ověření této dovednosti jsou házeny s Postihem a všechny hody proti této tvé dovednosti jsou házeny s Bonusem.
 
 ### Ostatní situace
 
@@ -207,5 +215,30 @@ Ostatní již ne tak běžné situace, se kterými se během dobrodružství lze
 I přesto, že lze získat nové úrovně, tahle hra nemá žádný systém přidělování zkušeností. Jak a kdy se postavy dostanou na podstatný milník, za který si mohou zvednout úroveň. Záleží čistě na domluvě PJ z jeho hráči. Vhodné je například, aby hráči získali novou úroveň po dokončení úkolu nebo nějaké výpravy. Nezávisle jako metodu si vyberete, novou úroveň by vždy měla dostat celá skupina společně.
 
 - **Získané schopnosti:** Každá postava postupem na novou úroveň získá zdraví (dle formule popsané v popisu povolání) a talent.
+
+### Zkušenosti za poklad (Volitelné)
+
+Pro některé kampaně může být lepší tradiční způsob získávání zkušeností za získaný poklad. Tento způsob je vhodný především pro kampaně ve stylu "West Marches", kdy jsou hráčské postavy motivované spíš samovolným průzkumem a získávání pokladů na místo následování předdefinovaných úkolů.
+
+- **Získávání zkušeností:** Hráčské postavy získávají zkušenosti za získaný poklad. Množství získaných zkušeností odpovídá 1:1 ceně v šilincích získaného pokladu. Zkušenosti jsou však získány až ve chvíli kdy je poklad prodán.
+- **Jiné zdroje zkušeností:** PJ může rozdávat hráčům zkušenosti i za jiné věci než poklad. Například za poražená monstra (získané zkušenosti odpovídají úrovni poraženého monstra), magické předměty (například 10 zkušeností za identifikovaný magický předmět) či jiné významné události.
+- **Dělení zkušenosti:** Nezávisle na finálním rozdělení pokladu. Všechny získané zkušenosti se rovným dílem rozdělí mezi všechny účastníky výpravy.
+- **Postup na vyšší úroveň:** Po získání dostatku zkušeností pro postup na další úroveň, se samotný postup nějak výrazně neliší. Postava si nechává své nakumulované zkušenosti a zapíše si nový zkušenostní cíl. Zkušenosti v tomhle kontextu fungují trochu jako skóre v arkádových hrách.
+
+**Tabulka postupu pro zkušenosti za poklad**
+
+| Úroveň | Požadované zkušenosti do další úrovně |
+| ------ | :-----------------------------------: |
+| 1      |                  200                  |
+| 2      |                  400                  |
+| 3      |                  800                  |
+| 4      |                 1 600                 |
+| 5      |                 3 200                 |
+| 6      |                 6 400                 |
+| 7      |                12 000                 |
+| 8+     |                +12 000                |
+
+!!! note "Konverze pokladu z OSR dobrodružství"
+    Tahle hra se pohybuje trochu na jiné škále bohatství, než standardní B/X inspirované hry. Pokud však z takových her hodláte čerpat, hodnota všeho pokladu musí být převedena následujícím způsobem. Nominální měna pokladu se sníží o 1 stupeň (Platina se převede na Groše, Zlaté na Šilinky atd..) a jeho hodnota ze vydělí 10-ti. Efektivně se tedy například z pokladu o hodnotě 1000 zlatých stane poklad o hodnotě 100 šilinků.
 
 <img src="/assets/sep_line.png"/>

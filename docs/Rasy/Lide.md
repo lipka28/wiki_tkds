@@ -34,9 +34,7 @@ Lidem je dobrodružná nátura přirozená. Neexistuje člověk, kterého by nel
 
 **Vrozené jazyky:** "common" ==todo: vymyslet lepší jméno pro "common"==
 
-**Základní zdraví:** *10*
-
-**Velikost:** *1*
+**Základní zdraví:** *6*
 
 **Hybnost:** *6 metrů*
 

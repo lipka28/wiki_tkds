@@ -8,7 +8,7 @@
 
 ## Popis
 
-*==todo==*
+*==todo==* Spojit se změněncemi a založit na magických branách. 
 
 **Velkomocná jména:** ==todo==
 
@@ -29,9 +29,7 @@
 
 **Vrozené jazyky:** "common" ==todo: vymyslet lepší jméno pro "common"==
 
-**Základní zdraví:** *9*
-
-**Velikost:** *1*
+**Základní zdraví:** *5*
 
 **Hybnost:** *6 metrů*
 

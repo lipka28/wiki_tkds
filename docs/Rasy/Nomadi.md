@@ -29,9 +29,7 @@
 
 **Vrozené jazyky:** "common" + "Nomádština" ==todo: vymyslet lepší jméno pro "common" a nomádština==
 
-**Základní zdraví:** *11*
-
-**Velikost:** *1*
+**Základní zdraví:** *7*
 
 **Hybnost:** *6 metrů*
 
