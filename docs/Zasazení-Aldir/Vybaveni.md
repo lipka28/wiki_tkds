@@ -441,4 +441,18 @@ Dvoukolá kárka s malou kapacitou a místem pro 2 jezdce (jezdci navíc se poč
 
 asd ==todo: ale až po downtime==
 
+### Družníci
+
+Přesunout do výbavy
+
+• Adventuring parties can recruit hirelings, relying on their unique skills,
+knowledge, and training to aid in expeditions.
+• To create a hireling, choose an appropriate role from the Hirelings table in
+the Marketplace (pg. 16). Roll 3d6 for each attribute and 1d6 for their HP. Give
+them equipment appropriate to their station, then roll on the Character Traits
+tables to further flesh them out.
+• Alternatively, choose an appropriate background and name from the
+Character Creation guide. Roll (or choose from) the tables for that
+background. Then roll for Rations, Gold Pieces, Attributes, HP, and age.
+
 <img src="/assets/sep_line.png"/>

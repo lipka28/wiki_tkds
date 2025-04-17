@@ -1,12 +1,8 @@
 nav:
   - index.md
-  - Terminologie.md
-  - Tvorba postavy.md
-  - Rasy
-  - Povolání
-  - Vybaveni.md
-  - Talenty.md
-  - Pravidla hry
-  - Magie.md
-  - Aldir.md
+  - Player.md
+  - Zakladni_pravidla.md
+  - Procedury.md
+  - Zasazení-Aldir
+  - Nástroje pro Strážce
   - ...

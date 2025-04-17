@@ -6,10 +6,31 @@
 
 <img src="/assets/sep_line.png"/>
 
-Vítejte *Tam, kde draci spí.* Nebo spíš v přehledu pravidel  stejnojmenné stolní dobrodružné hry. Tahle hra je původně založena na Low Fantasy gamimg. Je však modifikována a dále rozšířena o další mechanismy a procedury z jiných populárních stolních RPG a dobrodružných her jako jsou Pathfinder 2e, D&D 5e, Shadow of the Weird Wizard a další. ==todo: zmínit myšlenku více hrdinského low fantasy==
+Vítejte *Tam, kde draci spí.* Nebo spíš v přehledu pravidel stejnojmenné stolní dobrodružné hry. Tahle hra je ve směs po domácky udělaný český překlad Cairn, s pár nepatrnými změnami a zasazením do vlastního světa lamačů kouzel.
 
-## Pravidlo 0
+**Atribuce:** Autorem Cairn je Yochai Gal a celý původní text je licencován dle [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Více o Cairn se můžete dozvědět na [cairnrpg.com](https://cairnrpg.com/).
 
-Nejdůležitější a dost možná i jediné pravidlo, které pro hraní tohohle (nebo i jakéhokoliv jiného) stolního dobrodružství potřebujete, je pravidlo 0: "Bavte se". Všechno ostatní je vedlejší. Přijde vám nějaké pravidlo v tomhle přehledu zbytečné? Zahoďte ho. Něco vám chybí? přidejte to. Hráč vymyslel něco co není popsáno pravidly? Není důvod mu to zakazovat. Prostě něco vymyslete a uvidíte, kam vás to dovede. Nejdůležitější je, aby se všichni zúčastnění bavili.
+## Základní principy
+
+Základní principy na kterých tato hra staví.
+
+**Neutralita:** Údělem Strážce (Pán jeskyně / Dungon master) je vystupovat jako neutrální rozhodčí a jasně představovat pravidla, situace, nehráčské postavy (NPC) a narativ.
+
+**Bez povolání:** Role nebo dovednosti hráčských postavy nejsou omezeny jedním povolání. Místo toho je jejich specializace určena vybavením, které nosí, a zkušenostmi, které získaly.
+
+**Smrt:** Hráčské postavy mohou být silné, ale zároveň jsou zranitelné. Smrt je vždy blízko, ale nikdy není náhodná nebo nečekaná.
+
+**Fikce na prvním místě:** Hod kostkou ne vždy odráží obtížnost výzvy nebo její výsledek. Místo toho je úspěch či neúspěch založen na prvcích světa a posuzován Strážcem na základě dialogu s hráči.
+
+**Růst hráčských postav:** Hráčské postavy se mění skrze pokrok ve světě, získávají nové dovednosti a schopnosti tím, že přežívají nebezpečné události a překonávají překážky.
+
+**Hráčská rozhodnutí:** Hráči by vždy měli chápat důvody svých rozhodnutí a stejně tak, být strážcem dostatečně informováni o možných rizikách svých rozhodnutí.
+
+**Principy:** Strážce i hráči mají k dispozici vodítka, která podporují specifický herní zážitek založený na kritickém myšlení, objevování a vznikajícím příběhu.
+
+- **Principy pro hráče:** zde ==todo: okdaz==
+- **Principy pro strážce:** zde ==todo:odkaz==
+
+**Společné cíle:** Hráči by si navzájem měli důvěřovat, v následování společných cílů a společném pokoření překážek. Družina hráčských postavy by tedy měla mít vždy nějaký společný cíl. 
 
 <img src="/assets/sep_line.png"/>

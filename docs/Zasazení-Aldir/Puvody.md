@@ -8,6 +8,10 @@
 
 Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://www.tkds.cz/) ==todo: update links==. Jak budeš připraven, následuj tyto kroky.
 
+Race viz screen shot na laptopu
+
+backgrounds
+
 ## 1. Zamysli se nad konceptem 
 
 asd
