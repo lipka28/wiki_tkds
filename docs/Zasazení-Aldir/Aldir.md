@@ -25,16 +25,6 @@ Všechen text v těchto pravidlech předpokládají zasazení do Aldiru. Násled
 
 Všechny inteligentní stvoření mluví nějakou formou vlastního jazyka. Včetně různých nářečí a nuancí existující v různých částech světa. Na Aldirském kontinentě ja však poměrně vysoká pravděpodobnost, že inteligentní stvoření aspoň rozumí Aldirštině. Jelikož to je zde nejrozšířenější jazyk.
 
-- **Vrozené jazyky:** Každá postava začíná s jazyky získanými s výběru rasy. Většinou je to mix *Aldirštiny* a dalších jazyků. 
-- **Extra jazyky:** Postavy co se mohou naučit extra jazyky, si je nevybírají předem. Postava se může vybrat, že daný jazyk ovládá ve chvíli, kdy s ním přijde do styku.
-
-### Speciální a magické jazyky
-
-Existuje i několik jazyků, které jsou poněkud výjimečné svou formou nebo tím co umožňují. Tyto jazyky se nelze normálně naučit. Postava k nim získá přístup buď speciální schopností, talentem nebo relevantní událostí v příběhu.
-
-- **Magické jazyky:** Pro každou magickou bránu existuje stejnojmenný magický jazyk. Ten umožňuje uživateli používat magické svitky a komunikovat s magickými stvořeními stejné brány. (Magické jazyky: *Agni*, *Ara*, *Durus*, *Asha*, *Nur*, *Skia*)
-- **Dvojřeč:** Speciální metoda řeči, která umožňuje maskovat tajné zprávy do běžné konverzace. Většinou foré zlodějů a vrahů.
-
 <img src="/assets/sep_line.png"/>
 
 ## Náboženství 

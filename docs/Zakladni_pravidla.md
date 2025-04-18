@@ -84,7 +84,7 @@ Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se n
 - **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny týdenním odpočinkem, léčitelem či jiným vhodným zdrojem potřebné expertízy.
 - **Cena léčení:** Běžné léčení je většinou zdarma avšak magické zdroje léčení či jiná specializovaná léčba může něco stát.
 
-### Oslabení a únava
+### Únava a vyčerpání
 
 - **Body únavy:** Postava může na základě svých akcí obdržet bod únavy. Ten obsadí místo v inventáři jako by se jednalo o předmět. Pokud postava obdrží bod únavy a nemá na něj místo ve svém inventáři, musí zahodit předmět a tak místo uvolnit. Všechny body únavy se odstraní přespáním do dalšího dne na bezpečném místě.
 - **Vyčerpání:** Postava, která není schopna obstarat své základní životní potřeby (jídlo, pití spánek) se stává *vyčerpanou* a také obdrží *body únavy* za každý den, kde není schopna tyto potřeby obstarat. Vyčerpaná postava si nemůže doplnit *body ochrany*, vyléčit *ztracené dovednosti* či zbavit se *bodů únavy*.
@@ -174,33 +174,17 @@ Velké skupiny nepřátel (jako třeba armáda zombie) nebo gigantičtí nepřá
 
 Pokud je hráčská postava zredukována *přesně na 0 HP* obdrží jizvu. Typ jizvy záleží na tabulce níže a rozsahu poškození, které stvoření dostalo na 0 HP. Například pokud stvoření mělo 3 HP a obdrželo 3 poškození. Obdrží jizvu uvedenou v tabulce u 3 HP.
 
-1 HPLasting Scar: Roll 1d6 | 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear.
-Roll 1d6. If the total is higher than your max HP, take the new result.
-2 HPRattling Blow: You’re disoriented and shaken. Describe how you refocus.
-Roll 1d6. If the total is higher than your max HP, take the new result.
-3 HPWalloped: You’re sent flying and land flat on your face, winded. You are
-deprived until you rest for a few hours. Then, roll 1d6. Add that amount to
-your max HP.
-4 HPBroken Limb: Roll 1d6 | 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended,
-roll 2d6. If the total is higher than your max HP, take the new result.
-5 HPDiseased: You’re afflicted with a gross, uncomfortable infection. When
-you get over it, roll 2d6. If the total is higher than your max HP, take the
-new result.
-6 HPReorienting Head Wound: Roll 1d6 | 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6.
-If the total is higher than your current attribute, take the new result.
-7 HPHamstrung: You can barely move until you get serious help and rest. After
-recovery, roll 3d6. If the total is higher than your max DEX, take the new
-result.
-8 HPDeafened: You cannot hear anything until you find extraordinary aid.
-Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.
-9 HPRe-brained: Some hidden part of your psyche is knocked loose. Roll 3d6.
-If the total is higher than your max WIL, take the new result.
-10 HPSundered: An appendage is torn off, crippled, or useless (the Warden will
-tell you which.) Then make a WIL save. If you pass, increase your max WIL
-by 1d6.
-11 HPMortal Wound: You are deprived and out of action. You die in one hour
-unless healed. Upon recovery, roll 2d6. Take the new result as your max
-HP.
-12 HPDoomed: Death seemed ever so close, but somehow you survived. If your
-next save against Critical Damage is a fail, you die horribly. If you pass, roll
-3d6. If the total is higher than your max HP, take the new result.
+| Ztráta HP | Efekt                                                        |
+| :-------: | :----------------------------------------------------------- |
+| **1 HP**  | **Jizva na památku:** Hoď *1k6* pro umístění jizvy (*1*: Krk, *2*: Ruka, *3*: Oko, *4*: Hruď, *5*: Noha, *6*: Ucho). Hoď další *1k6*. Pokud je výsledek vyšší než tvé maximální HP, tahle nová hodnota je tvým novým maximálním HP. |
+| **2 HP**  | **Otřesený:** Jsi dezorientovaný a otřesený. Popiš jak se vzpamatuješ. Hoď *1k6*. Pokud je výsledek vyšší než tvé maximální HP, tahle nová hodnota je tvým novým maximálním HP. |
+| **3 HP**  | **Odhozený:** Proletěl si se vzduchem, padl na hubu a lapáš po dechu. Jsi *vyčerpaný* dokud si aspoň pár hodin neodpočineš. Po odpočinku si hoď *1k6* a výsledek přičti ke svému maximálnímu HP. |
+| **4 HP**  | **Něco zlomeného:** Hoď *1k6* pro umístění zlomeniny (*1-2*: Noha, *3-4*: Ruka, *5*: Žebro, *6*: Lebka). Jakmile si tuhle zlomeninu zahojíš, hoď si *2k6*. Pokud je výsledek vyšší než tvé maximální HP, tahle nová hodnota je tvým novým maximálním HP. |
+| **5 HP**  | **Infekce:** Byl si vystaven nějaké příšerné infekci. Jakmile se ji zbavíš, hoď si *2k6*. Pokud je výsledek vyšší než tvé maximální HP, tahle nová hodnota je tvým novým maximálním HP. |
+| **6 HP**  | **Bolest tvrdí charakter:** Hoď *1k6* pro výběr dovednosti (*1-2*: STR, *3-4*: DEX, *5-6*: WIL). Následně hoď *3K6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota v dané dovednosti. Vem si tuto novou hodnotu jako své nové maximum. |
+| **7 HP**  | **Přetrhané šlachy:** Dokud neobdržíš významnou lékařskou pomoc, můžeš se sotva hýbat. Poté co se tvé šlachy zahojí, hoď *3k6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota DEX. Vem si tuto novou hodnotu jako své nové maximum. |
+| **8 HP**  | **Ohluchlý:** Dokud neobdržíš významnou lékařskou pomoc, si ohluchlý. Vzápětí si hoď *1k4* a výsledek přičti ke své maximální hodnotě WIL (Max 18). |
+| **9 HP**  | **Až se ti rozsvítilo:** Něco se ti v hlavě změnilo. Hoď *3k6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota WIL. Vem si tuto novou hodnotu jako své nové maximum. |
+| **10 HP** | **Zmrzačený:** Jedna s tvých končetin je urvána, useknuta nebo jinak permanentně znefunkčněna (Strážce určí která). Hoď si na záchranu WIL. Pokud uspěješ, přičti si ke svému maximálnímu WIL *1k6* (Max 18). |
+| **11 HP** | **Smrtelné zranění:** Jsi vyčerpaný, umíráš a pokud nejsi do hodiny stabilizován tak zemřeš. Po uzdravení si hoď *2k6*. Výsledek je tvým novým maximálním HP. |
+| **12 HP** | **Odsouzený k smrti:** Tento zásah tě měl rozhodně zabít, ale nějakým zázrakem si přežil. Cítíš ale, že smrt je blízko. Pokud neuspěješ ve svém dalším záchranném hodu proti *kritickému poškození* tak *zemřeš*. V opačném případě hoď *3k6*. Pokud je výsledek vyšší než tvé maximum HP, tak je tento výsledek tvým novým maximem. |
