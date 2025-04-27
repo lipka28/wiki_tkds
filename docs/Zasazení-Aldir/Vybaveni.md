@@ -6,16 +6,6 @@
 
 <img src="/assets/sep_line.png"/>
 
-## Nosnost
-
-Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava v jednu chvíli u sebe. Výbava postavy se umisťuje do tak zvaných *Slotů* v *inventáři*.
-
-- **Inventář:** Je abstraktní pojem pro umístění předmětů postavy. V logice hry postava uchovává své předměty různě na svém těle. První 2 sloty jsou vymezeny pro ruce a ostatní předměty jsou například na opasku, v kapsách, přivázané na zádech či v batohu.
-- **Sloty:** Všechny věci, pokud není uvedeno jinak, zabírají *1 slot*. Pokud lze předmět považovat za *neskladný*, zabírá sloty *2*. Některé předměty jsou také označeny jako *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo.
-- **Nosnost:** Nosnost postavy je *10 slotů*.
-- **Překročení nosnosti:** Nosnost postavy nelze překročit. Pokud postava kompletně naplní svou nosnost, její *HP je 0*.
-- **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých Arkan.
-
 ## Peníze a bohatství
 
 Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším platidlem v Aldiru jsou však *Šilinky*.
@@ -40,14 +30,13 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Zbraně                                                       |  Cena |
 | ------------------------------------------------------------ | ----: |
 | Neozbrojený útok (1k4 poškození)                             |     - |
-| Malá nebo improvizovaná zbraň na blízku jako je: nůž, srp ale i hůl (1k6 poškození, může být neskladná) |  5 ši |
+| Malá, jednoduchá nebo improvizovaná zbraň na blízku jako je: nůž, srp, krátký meč ale i hůl (1k6 poškození, může být *neskladná*) |  5 ši |
 | Jednoruční zbraň na blízku jako je: kopí, meč, palcát a podobně (1k8 poškození) | 10 ši |
-| Obouruční zbraň na blízku jako je: Halapartno, válečné kladivo či obouruční meč (1k10 poškození, *neskladná*) | 20 ši |
-| Jednoruční či improvizovaná zbraň na dálku jako je: příruční kuše, prak či hozený nůž (1k4 poškození) |  5 ši |
-| Běžná střelná zbraň jako luk či kuše (1k6 poškození, *neskladná*) | 20 ši |
-| Těžká střelná zbraň jako například těžká kuše (1k8 poškození, *neskladná*, nelze se hýbat a střílet v jenom kole) | 30 ši |
-| Jednoruční křesadlová zbraň jako je bambitka (1k6 poškození, náchylné na vodu a oheň, dlouhé přebíjení) | 30 ši |
-| Obouruční křesadlová zbraň jako je mušketa (1k10 poškození, *neskladná*, náchylné na vodu a oheň, dlouhé přebíjení) | 50 ši |
+| Obouruční zbraň na blízku jako je: Halapartna, válečné kladivo či obouruční meč (1k10 poškození, *neskladná*) | 20 ši |
+| Jednoruční či improvizovaná zbraň na dálku jako je: příruční kuše, prak či hozený nůž (1k6 poškození) |  5 ši |
+| Běžná střelná zbraň jako luk či kuše (1k8 poškození, *neskladná*) | 25 ši |
+| Jednoruční křesadlová zbraň jako je bambitka (1k10 poškození, náchylné na vodu a oheň, přebíjí se 1 kolo) | 50 ši |
+| Obouruční křesadlová zbraň jako je mušketa (1k12 poškození, *neskladná*, náchylné na vodu a oheň, přebíjí se 1 kolo) | 75 ši |
 
 ## Výbava dobrodruha
 
@@ -59,42 +48,41 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Čistící sada na křesadlové zbraně (6 použití)                |  20 ši |
 | Dalekohled                                                   |  40 ši |
 | Dřevěná tyč - 2 metry                                        |   2 ši |
-| Dřevěný kůl (*zanedbatelné*)                                       |   1 ši |
-| Dýmka (*zanedbatelné*)                                             |  10 ši |
+| Dýmka (*zanedbatelné*)                                       |  10 ši |
 | Hák                                                          |   5 ši |
 | Horolezecké náčiní (*neskladné*)                             |  15 ši |
-| Hra (*zanedbatelné*, jako jsou karty, kostky atd.)                 |  10 ši |
-| Hrnek (*zanedbatelné*)                                             |   2 ši |
+| Hra (*zanedbatelné*, jako jsou karty, kostky atd.)           |  10 ši |
+| Hrnek (*zanedbatelné*)                                       |   2 ši |
 | Hudební nástroj - Ruční                                      |  25 ši |
 | Hudební nástroj - Velký (*neskladný*)                        |  50 ši |
 | Kniha                                                        |  30 ši |
 | Kompas                                                       |  75 ši |
-| Kovový hřeb (*zanedbatelné*)                                       |   2 ši |
-| Kovový ježci                                                 |  10 ši |
-| Křída (*zanedbatelné*)                                             |   1 ši |
+| Kovový hřeb (*zanedbatelné*)                                 |   2 ši |
+| Kovový ježci (1 použití)                                     |  10 ši |
+| Křída (*zanedbatelné*)                                       |   1 ši |
 | Lampový olej (6 použití)                                     |  15 ši |
 | Léčivé obvazy (3 použití)                                    |  30 ši |
 | Lucerna                                                      |  10 ši |
 | Motouz (10 metrů)                                            |   2 ši |
 | Nádoba (jako měch na vodu, pytel či lahvička se zátkou)      |   5 ši |
 | Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo, Prut na ryby atd...) |  10 ši |
-| Oblečení - Běžné (*zanedbatelné* pokud oblečené)                   |   1 ši |
-| Oblečení - Pro dobrodruha (*zanedbatelné* pokud oblečené)          |   1 ši |
-| Oblečení - Společenské (*zanedbatelné* pokud oblečené)             |  20 ši |
+| Oblečení - Běžné (*zanedbatelné* pokud oblečené)             |   1 ši |
+| Oblečení - Pro dobrodruha (*zanedbatelné* pokud oblečené)    |   1 ši |
+| Oblečení - Společenské (*zanedbatelné* pokud oblečené)       |  20 ši |
 | Oblečení - Módní společenské (*neskladné*)                   | 100 ši |
 | Oblečení - Zimní                                             |  25 ši |
-| Past na medvěda (1k6 STR poškození)                          |  35 ši |
-| Pochodně (3 použití)                                         |   5 ši |
+| Past na medvěda (1k6 poškození, obchází BO)                  |  35 ši |
+| Pochodeň (3 použití)                                         |   5 ši |
 | Pouta                                                        |  20 ši |
 | Protijed                                                     |  20 ši |
 | Provaz (5 metrů)                                             |   5 ši |
 | Psací potřeby a pergamen (6 použití)                         |  30 ši |
-| Rukavice (*zanedbatelné*)                                          |  15 ši |
+| Rukavice (*zanedbatelné*)                                    |  15 ši |
 | Řetěz (2 metry)                                              |  10 ši |
 | Sada líčidel a převleků (3 použití, *neskladná*)             |  50 ši |
 | Sedativum                                                    |  30 ši |
 | Síť                                                          |  10 ši |
-| Svíčka (*zanedbatelné*)                                            |   2 ši |
+| Svíčka (*zanedbatelné*)                                      |   2 ši |
 | Šicí potřeby (6 použití)                                     |  20 ši |
 | Tabák (6 použití)                                            |  15 ši |
 | Truhla se zámkem (1 slot)                                    |  20 ši |
@@ -105,8 +93,8 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Zásoby (3 použití)                                           |  10 ši |
 | Zásoby pro zvíře (3 použití, *neskladné*)                    |   5 ši |
 | Zlodějské náčiní (6 použití)                                 |  25 ši |
-| Zrcátko (*zanedbatelné*)                                           |   5 ši |
-| Zvoneček (*zanedbatelné*)                                          |  10 ši |
+| Zrcátko (*zanedbatelné*)                                     |   5 ši |
+| Zvoneček (*zanedbatelné*)                                    |  10 ši |
 | A další... (Řekni si PJ co potřebuješ)                       |     ?? |
 
 ## Nájemná pomoc
@@ -123,9 +111,9 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Učenec                                   |       20 ši |
 | Zámečník                                 |       10 ši |
 | Žoldák                                   |       10 ši |
-| Žoldák veterán (HP se háže jako 1k6+1k6) |       20 ši |
+| Žoldák veterán (BO se háže jako 1k6+1k6) |       20 ši |
 
-**Určení statistik nájemné výpomoci:** Je li třeba určit statistiky nájemné pomoci ty lze určit jako vše 10 a 1k6 HP. Neb alternativně 1k6 HP a 3k6 na každou dovednost (tyto hodnoty určuje strážce).
+**Určení statistik nájemné výpomoci:** Je li třeba určit statistiky nájemné pomoci ty lze určit jako vše 10 a 1k6 BO. Neb alternativně 1k6 BO a 3k6 na každou dovednost (tyto hodnoty určuje strážce).
 
 ## Transport a služby
 

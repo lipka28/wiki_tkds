@@ -6,7 +6,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-Vítejte *Tam, kde draci spí.* Nebo spíš v přehledu pravidel stejnojmenné stolní dobrodružné hry. Tahle hra je ve směs po domácky udělaný český překlad Cairn, s pár nepatrnými změnami a zasazením do vlastního světa lamačů kouzel.
+Vítejte *Tam, kde draci spí.* Nebo spíš v přehledu pravidel stejnojmenné stolní dobrodružné hry. Tahle hra je ve směs po domácky udělaná modifikace Cairn, s pár nepatrnými změnami a zasazením do vlastního světa lamačů kouzel.
 
 **Atribuce:** Autorem Cairn je Yochai Gal a celý původní text je licencován dle [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Více o Cairn se můžete dozvědět na [cairnrpg.com](https://cairnrpg.com/).
 

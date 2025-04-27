@@ -34,6 +34,8 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Více kostková notace:** Pokud je vyžadován hod více kostek naráz, je počet hozených kostek indikován před *k*. Například *2k6* znamená: Hoď 2 šesti-stranné kostky a sečti výsledek.
 
+**Přičítání kostek:** Pokud efekt (většinou útok) je zapsán jako 1k8+1k8, znamení to, že hráč si na vyhodnocení hodí 2k8, ale bere jen nejvyšší výsledek z těchto dvou kostek. Stejně tak pokud efekt udává +1k12. Znamená to, že se k hodu přihodí 1k12 a opět se bere jen ten nejvyšší hod ze všech hodů.
+
 <img src="/assets/sep_line.png"/>
 
 ## Hlavní herní smyčka
@@ -56,20 +58,23 @@ Základní koncepty a pravidla
 
 Každé stvoření ve hře disponuje 3-mi základními dovednostmi, které slouží k *záchranným hodům* s rozličnými účely.
 
-- **Síla (STR):** Využívá se k záchranným hodům vyžadující fyzickou sílu a odolnost. Například při aktivitách jako jsou zvedání těžkých věcí, ohýbání mříží, odolání jedu a podobně.
-- **Zručnost (DEX):**  Využívá se k záchranným hodům vyžadující zručnost, rychlost a rovnováhu. Například při uhýbání, šplhání, plížení, udržování rovnováhy a podobně.
-- **Vůle (WIL):** Využívá se k záchranným hodům vyžadující inteligenci, sílu vůle či osobnosti. Například při přesvědčování, zastrašování, používání magie a podobně.
+- **Síla (SIL):** Využívá se k záchranným hodům vyžadující fyzickou sílu a odolnost. Například při aktivitách jako jsou zvedání těžkých věcí, ohýbání mříží, odolání jedu a podobně.
+- **Hbitost (HBI):**  Využívá se k záchranným hodům vyžadující zručnost, rychlost a rovnováhu. Například při uhýbání, šplhání, plížení, udržování rovnováhy a podobně.
+- **Vůle (VUL):** Využívá se k záchranným hodům vyžadující inteligenci, sílu vůle či osobnosti. Například při přesvědčování, zastrašování, používání magie a podobně.
 
 ### Záchranné hody
 
 Záchranný hod je hod kostkou za účelem vyvarování se negativním následkům riskantní akce. 
 
-- **Hod proti 21:** Záchranný hod je úspěšný pokud hod k20 + relevantní dovednost je rovno nebo výše jak 21. Hod přirozených 20 je vždy úspěch a hod přirozených 1 vždy neúspěch.
+- **Podhoď dovednost:** Záchranný hod na dovednost probíhá hodem *1k20* a porovnání výsledku s relevantní dovedností. Pokud je výsledek *menší nebo roven* hodnotě dovednosti, jedná se o *úspěch*. Hody přirozených *1* jsou vždy *úspěch* a hody přirozených *20* vždy *neúspěch*.
 - **Soupeření:** Pokud se dvě stvoření snaží provést protichůdnou akci (například 1 stvoření drží dveře druhé se je snaží prorazit). Záchranný hod podstupuje to stvoření, které je ve větším ohrožení.
 - **Spolupráce:** Provádí li několik stvoření společnou akci. Záchranný hod podstupuje to stvoření, které je v největším ohrožení (většinou stvoření s nejnižší relevantní dovedností).
 
-!!! example "Alternativní varianta: podhození dovednosti"
-	Skupiny, kterým nevadí házet nízká čísla na k20, mohou záchranné hody zjednodušit na pouhé podhození dovednosti (hoď stejně nebo méně jako dovednost). Přirozených 20 je pak vždy neúspěch a přirozených 1 vždy úspěch.
+!!! note "Ověřovací hody"
+	Tato hra *NEPOUŽÍVÁ* ověřovací hody pouze záchranné hody. V praxi to znamená, že pokud má postava dostatek času na provedení akce, vhodné nástroje a lze předpokládat, že by akci dokázala (třeba na základě původu či předešlých zkušeností). Automaticky uspěje! Strážce si může na základě akce vyžádat záchranný hod, ale pouze tehdy, když hrozí významné negativní následky.
+
+!!! example "Alternativní varianta: Přehození cílené hodnoty"
+	Skupiny, které radši hází vysoká čísla mohou zkusit následující variantu. Záchranný hod je úspěšný pokud hod *1k20+relevantní dovednost* je rovno nebo výše jak *21*. Hod přirozených *20* je vždy *úspěch* a hod přirozených *1* vždy *neúspěch*.
 
 ### Kostka osudu
 
@@ -77,21 +82,31 @@ Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se n
 
 - **Hod K6:** Výsledky *>=4* jsou obecně prospěšnější pro hráče. Zatím co výsledky *<=3* jsou pro hráče spíše nepříznivé. 
 
-### Body ochrany, odpočinek a léčení
+### Body obrany (BO), odpočinek a léčení
 
-- **Body ochrany (HP - Hit Protection):** Každé stvoření disponuje body ochrany. Které představují jeho boje schopnost a schopnost vyvarovat se zranění v boji. 
-- **Odpočinek:** Krátký odpočinek a napití se vody doplní stvoření všechny jeho *body ochrany*. Předměty jako jsou třeba náplasti mohou během odpočinku stabilizovat umírající postavy.
+- **Body obrany (BO - Hit Protection):** Každé stvoření disponuje body obrany. Které schopnost vyvarovat se zraněním.
+- **Odpočinek:** Krátký odpočinek a napití se vody doplní stvoření všechny jeho *body obrany*. Předměty jako jsou třeba náplasti mohou během odpočinku stabilizovat umírající postavy.
 - **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny týdenním odpočinkem, léčitelem či jiným vhodným zdrojem potřebné expertízy.
-- **Cena léčení:** Běžné léčení je většinou zdarma avšak magické zdroje léčení či jiná specializovaná léčba může něco stát.
+- **Cena léčení:** Běžné léčení, které trvá je většinou zdarma avšak rychlé nebo třeba magické zdroje léčení či jiná specializovaná léčba může něco stát.
+
+### Nosnost
+
+Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava v jednu chvíli u sebe. Výbava postavy se umisťuje do tak zvaných *Slotů* v *inventáři*.
+
+- **Inventář:** Je abstraktní pojem pro umístění předmětů postavy. V logice hry postava uchovává své předměty různě na svém těle. První 2 sloty jsou vymezeny pro ruce a ostatní předměty jsou například na opasku, v kapsách, přivázané na zádech či v batohu.
+- **Sloty:** Všechny věci, pokud není uvedeno jinak, zabírají *1 slot*. Pokud lze předmět považovat za *neskladný*, zabírá sloty *2*. Některé předměty jsou také označeny jako *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo.
+- **Nosnost:** Nosnost postavy je *12 slotů*.
+- **Překročení nosnosti:** Nosnost postavy nelze překročit. Výjimkou je překročení vzhledem k získání únavy. Je-li nosnost inventáře touhle formou překročena, *BO postavy je 0*.
+- **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých Arkan.
 
 ### Únava a vyčerpání
 
-- **Body únavy:** Postava může na základě svých akcí obdržet bod únavy. Ten obsadí místo v inventáři jako by se jednalo o předmět. Pokud postava obdrží bod únavy a nemá na něj místo ve svém inventáři, musí zahodit předmět a tak místo uvolnit. Všechny body únavy se odstraní přespáním do dalšího dne na bezpečném místě.
-- **Vyčerpání:** Postava, která není schopna obstarat své základní životní potřeby (jídlo, pití spánek) se stává *vyčerpanou* a také obdrží *body únavy* za každý den, kde není schopna tyto potřeby obstarat. Vyčerpaná postava si nemůže doplnit *body ochrany*, vyléčit *ztracené dovednosti* či zbavit se *bodů únavy*.
+- **Body únavy:** Postava může na základě svých akcí obdržet bod únavy. Ten obsadí místo v inventáři jako by se jednalo o předmět. Všechny body únavy se odstraní přespáním do dalšího dne na bezpečném místě.
+- **Vyčerpání:** Postava, která není schopna obstarat své základní životní potřeby (jídlo, pití spánek) se stává *vyčerpanou* a také obdrží *body únavy* za každý den, kde není schopna tyto potřeby obstarat. Vyčerpaná postava si nemůže doplnit *body obrany*, vyléčit *ztracené dovednosti* či zbavit se *bodů únavy*.
 
 ### Brnění
 
-- **Body brnění:** Před odpočítáním poškození z HP cíle. Je tohle poškození sníženo o hodnotu brnění až na potencionální 0.
+- **Body brnění:** Před odpočítáním poškození z BO cíle. Je tohle poškození sníženo o hodnotu brnění až na potencionální 0.
 - **Přilbice a štíty:** Poskytují bonus +1 k brnění (Mohou poskytovat i jiné bonusy na základy toho jak je popsáno jejich využití).
 - **Maximální brnění:** Postavy a příšery nemohou mít hodnotu brnění nikdy vyšší než *3*. 
 
@@ -107,42 +122,42 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 | 9 - 11 |  Přátelská  |
 | 12     |  Nápomocná  |
 
-## Souboje
-
-Pravidla boje
-
 ### Kola
 
-- **Kolo:** Představuje přibližně 10 vteřin v herním světě. Během kola jsou všechny strany konfliktu odehrát svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první. Výsledky všech tahů dané strany jsou vyhodnoceny najednou.
-- **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit záchranu *DEX*. Pokud neuspějí, první kolo vynechávají.
-- **Následující kola:** Ve všech následujících kolej sou vždy hráčské postavy na tahu první a nemusí již podstupovat další záchranu DEX.
+- **Kolo:** Představuje nespecifikovaný úsek času během kterého všechny strany konfliktu odehrát svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první. Výsledky všech tahů dané strany jsou vyhodnoceny najednou.
+- **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit záchranu *HBI*. Pokud neuspějí, první kolo vynechávají.
+- **Následující kola:** Ve všech následujících kolej sou vždy hráčské postavy na tahu první a nemusí již podstupovat další záchranu HBI.
 
 ### Tahy
 
-- **Aktivity během tahu:** Stvoření během svého tahu může provést akci a přesunout se až o 6 metrů. Všechny postavy musí své tahy deklarovat předem a ty jsou společně vyhodnoceny v jednu chvíli.
-- **Akce:** Za akci lze považovat útok, seslání kouzla, dalších až 6 metrů pohybu a nebo jiná smysluplná akce. Pokud je daná akce riskantní, strážce si může vyžádat hod na záchranu relevantní dovednosti nebo hodit na na záchranu relevantní dovednosti za ovlivněné stvoření.
+- **Deklarace:** Každý hráč na tahu, deklaruje co chce v daném tahu provádět, strážce si to poznačí a následně vyhodnotí všechny tahy hráčů na jednou.
+- **Aktivity během tahu:** Stvoření během svého tahu může provést akci a přesunout se až o *8 metrů*. Všechny postavy musí své tahy deklarovat předem a ty jsou společně vyhodnoceny v jednu chvíli.
+- **Akce:** Za akci lze považovat útok, seslání kouzla, dalších až 8 metrů pohybu a nebo jiná smysluplná akce. Pokud je daná akce riskantní, strážce si může vyžádat hod na záchranu relevantní dovednosti nebo hodit na na záchranu relevantní dovednosti za ovlivněné stvoření.
+- **Drobné akce:** Hráči mohou na místo pohybu provádět drobné akce (jako třeba výměna zbraní).
 
 ### Útok a poškození
 
-- **Poškození:** Útočník hodí na poškození kostkou určenou použitou zbraní. Z hodnoty se odečte brnění cíle a výsledek se pak odečte z jeho HP. Útoky v boji vždy automaticky zasáhnou.
+- **Útok:** Útočník uděluje poškození určenou kostkou poškození použité zbraně.
+- **Poškození:** Když jedinec obdrží poškození. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho SIL a musí podstoupit záchranný hod proti *kritickému poškození*.
 - **Vícenásobný útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
-- **Jizvy:** Pokud je hráčská postava zredukována *přesně na 0 HP* obdrží jizvu. Jizvy jsou většinou krátkodobě negativní a dlouhodobě pozitivní následky zranění v boji. Hoď si nad tabulkou jizev zde ==todo: odkaz==
+- **Jizvy:** Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Jizvy jsou většinou krátkodobě negativní a dlouhodobě pozitivní následky zranění v boji. Hoď si nad tabulkou jizev zde ==todo: odkaz==
 
 ### Modifikátory útoků
 
-- **Oslabený útok:** Útok za nevýhodných okolností (jako je například skrz kouř či se svázanýma rukama) je považován za oslabený. Oslabený útok vždy uděluje pouze *1k4* poškození.
-- **Posílený útok:** Útok za výhodných okolností (jako například proti nepříteli sraženému na zem) je považován za posílený. Posílený útok vždy uděluje *1k12* poškození.
+- **Oslabený útok:** Útok za nevýhodných okolností (jako je například skrz kouř či se svázanýma rukama) je považován za oslabený. Oslabený útok vždy uděluje pouze *1k4 poškození* a za běžných okolností nemůže čerpat bonusová poškození (pokud strážce nerozhodne jinak).
+- **Posílený útok:**  Útok za výhodných okolností může poskytnout bonusové poškození označované jako například +1k6 či +1k8 (nebo například +1k12 proti úplně bezbranným cílům). Tohle bonusové poškození se háže jako součást běžného hodu na poškození a udělen je pak pouze nejvyšší dosažený výsledek.
 - **Výbuch:** Zbraně a útoky s touto vlastností, zasáhnou všechna stvoření v uvedené oblasti. Poškození se háže za každé ovlivněné stvoření zvlášť. Pokud z popisku efektu není jasné kolik cílů může být efektem ovlivněno lze tak určit hodem stejnou kostkou poškození jako je u efektu uvedena.
-- **Útok dvěma zbraněmi:** Pokud stvoření útočí dvěma zbraněmi, tak si hodí na poškození obou zbraní a platí pouze ten vyšší výsledek (zapisuje se se znaménkem +, například 1k6+1k6).
+- **Útok dvěma zbraněmi:** Pokud stvoření útočí dvěma zbraněmi, druhá zbraň poskytuje posílení ve výši své kostky poškození. Většinou se zapisuje následovně: "dva nože 1k6+1k6".
 
 ### Útok na dálku
 
 - **Dostřel:** Zbraněmi na dálku lze efektivně útočit na nepřítele dostatečně blízko na to, aby bylo vidět bělmo jeho očí (dle uvážení strážce avšak většinou do vzdálenosti 12 metrů). Útok na mimořádně vzdálené cíle je považována za *oslabený útok*.
-- **Munice:** Pokud není vysloveně relevantní pro vyprávěný příběh, stvoření má dostatek munice pro zbraň, kterou používá.
+- **Ohrožení:** Pokud je stvořené v dosahu útoku na blízku jiného tvora, nemůže provést útok střelnou zbraní.
+- **Munice:** Pokud není vysloveně relevantní pro vyprávěný příběh (například boj o přežití na opuštěném ostrově), stvoření má dostatek munice pro zbraň, kterou používá.
 
 ### Kritické poškození
 
-- **Vyhodnocení:** Pokud udělené poškození sníží hodnotu HP cíle pod 0, přebytečné poškození je následně odečteno ze jeho STR. Takto poškozený cíl musí následně uspět v záchraně STR (s touhle novou hodnotou), aby se vyvaroval *kritickému poškození* a zůstal schopen boje.
+- **Vyhodnocení:** Pokud udělené poškození sníží hodnotu BO cíle pod 0, přebytečné poškození je následně odečteno ze jeho SIL. Takto poškozený cíl musí následně uspět v záchraně SIL (s touhle novou hodnotou), aby se vyvaroval *kritickému poškození* a zůstal schopen boje.
 - **Efekt kritického poškození:** V případě neúspěchu obdrží *kritické poškození*. Stvoření zasaženo kritický poškození, leží na zemi a umírá. Nemůže dělat nic jiného než jen sýpat, sápat se a velmi pomalu se plazit po zemi. Pokud takové stvoření není do hodiny stabilizováno (třeba za pomocí bandáží), zemře.
 - **Monstra:** V případě monster, znamená kritické poškození většinou smrt. Některá monstra také mají speciální schopnosti, která se projeví, když dané monstrum způsobí kritické poškození.
 
@@ -155,36 +170,37 @@ Pravidla boje
 
 ### Útěk z boje
 
-- **Útěk:** Útěk ze svízelné situace vyžaduje bezpečné místo k úniku a také úspěšné záchranu DEX.  
+- **Útěk:** Útěk ze svízelné situace vyžaduje bezpečné místo k úniku a také úspěšné záchranu HBI.  
 
 ### Morálka
 
 - **Spouštěč:** Strana (jen nehráčské postavy), která ztratí prvního člena nebo polovinu ze svého celkového počtu musí uspět v ověření morálky. V případě neúspěchu strana uteče, vzdá se nebo cokoliv jiného dle uvážení strážce.
-- **Ověření morálky:** Je záchranný hod na WIL. Skupiny vedené nějkým vůdcem mohou použít WIL tohoto vůdce.
+- **Ověření morálky:** Je záchranný hod na VUL. Skupiny vedené nějkým vůdcem mohou použít VUL tohoto vůdce.
 
 ### Oddíly
 
 Velké skupiny nepřátel (jako třeba armáda zombie) nebo gigantičtí nepřátelé (jako draci či obři) jsou považovány za oddíly.
 
-- **Kritické poškození:** Když oddíl obdrží kritické poškození, tak se buď rozprchne nebo je výrazně oslaben. Když STR oddílu dosáhne 0, oddíl je zničen.
+- **Kritické poškození:** Oddíly na místo SIL se zachraňují proti VUL (případně VUL svého vůdce). Když oddíl obdrží kritické poškození, tak se dá na útěk. 
+- **Zničení oddílu:** Když SIL oddílu dosáhne 0, oddíl je zničen.
 - **Útoky proti oddílům:** Pokud jedinec útočí na oddíl, jeho útok je považován za *oslabený*. Neplatí pro *výbuchy*.
-- **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok je vždy považován za *posílený* a *výbuch*.
+- **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok jeho útok probíhá s +1k12 a je považován za *výbuch*.
 
 ## Jizvy
 
-Pokud je hráčská postava zredukována *přesně na 0 HP* obdrží jizvu. Typ jizvy záleží na tabulce níže a rozsahu poškození, které stvoření dostalo na 0 HP. Například pokud stvoření mělo 3 HP a obdrželo 3 poškození. Obdrží jizvu uvedenou v tabulce u 3 HP.
+Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Typ jizvy záleží na tabulce níže a rozsahu poškození, které stvoření dostalo na 0 BO. Například pokud stvoření mělo 3 BO a obdrželo 3 poškození. Obdrží jizvu uvedenou v tabulce u 3 BO.
 
-| Ztráta HP | Efekt                                                        |
+| Ztráta BO | Efekt                                                        |
 | :-------: | :----------------------------------------------------------- |
-| **1 HP**  | **Jizva na památku:** Hoď *1k6* pro umístění jizvy (*1*: Krk, *2*: Ruka, *3*: Oko, *4*: Hruď, *5*: Noha, *6*: Ucho). Hoď další *1k6*. Pokud je výsledek vyšší než tvé maximální HP, tahle nová hodnota je tvým novým maximálním HP. |
-| **2 HP**  | **Otřesený:** Jsi dezorientovaný a otřesený. Popiš jak se vzpamatuješ. Hoď *1k6*. Pokud je výsledek vyšší než tvé maximální HP, tahle nová hodnota je tvým novým maximálním HP. |
-| **3 HP**  | **Odhozený:** Proletěl si se vzduchem, padl na hubu a lapáš po dechu. Jsi *vyčerpaný* dokud si aspoň pár hodin neodpočineš. Po odpočinku si hoď *1k6* a výsledek přičti ke svému maximálnímu HP. |
-| **4 HP**  | **Něco zlomeného:** Hoď *1k6* pro umístění zlomeniny (*1-2*: Noha, *3-4*: Ruka, *5*: Žebro, *6*: Lebka). Jakmile si tuhle zlomeninu zahojíš, hoď si *2k6*. Pokud je výsledek vyšší než tvé maximální HP, tahle nová hodnota je tvým novým maximálním HP. |
-| **5 HP**  | **Infekce:** Byl si vystaven nějaké příšerné infekci. Jakmile se ji zbavíš, hoď si *2k6*. Pokud je výsledek vyšší než tvé maximální HP, tahle nová hodnota je tvým novým maximálním HP. |
-| **6 HP**  | **Bolest tvrdí charakter:** Hoď *1k6* pro výběr dovednosti (*1-2*: STR, *3-4*: DEX, *5-6*: WIL). Následně hoď *3K6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota v dané dovednosti. Vem si tuto novou hodnotu jako své nové maximum. |
-| **7 HP**  | **Přetrhané šlachy:** Dokud neobdržíš významnou lékařskou pomoc, můžeš se sotva hýbat. Poté co se tvé šlachy zahojí, hoď *3k6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota DEX. Vem si tuto novou hodnotu jako své nové maximum. |
-| **8 HP**  | **Ohluchlý:** Dokud neobdržíš významnou lékařskou pomoc, si ohluchlý. Vzápětí si hoď *1k4* a výsledek přičti ke své maximální hodnotě WIL (Max 18). |
-| **9 HP**  | **Až se ti rozsvítilo:** Něco se ti v hlavě změnilo. Hoď *3k6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota WIL. Vem si tuto novou hodnotu jako své nové maximum. |
-| **10 HP** | **Zmrzačený:** Jedna s tvých končetin je urvána, useknuta nebo jinak permanentně znefunkčněna (Strážce určí která). Hoď si na záchranu WIL. Pokud uspěješ, přičti si ke svému maximálnímu WIL *1k6* (Max 18). |
-| **11 HP** | **Smrtelné zranění:** Jsi vyčerpaný, umíráš a pokud nejsi do hodiny stabilizován tak zemřeš. Po uzdravení si hoď *2k6*. Výsledek je tvým novým maximálním HP. |
-| **12 HP** | **Odsouzený k smrti:** Tento zásah tě měl rozhodně zabít, ale nějakým zázrakem si přežil. Cítíš ale, že smrt je blízko. Pokud neuspěješ ve svém dalším záchranném hodu proti *kritickému poškození* tak *zemřeš*. V opačném případě hoď *3k6*. Pokud je výsledek vyšší než tvé maximum HP, tak je tento výsledek tvým novým maximem. |
+| **1 BO**  | **Jizva na památku:** Hoď *1k6* pro umístění jizvy (*1*: Krk, *2*: Ruka, *3*: Oko, *4*: Hruď, *5*: Noha, *6*: Ucho). Hoď další *1k6*. Pokud je výsledek vyšší než tvé maximální BO, tahle nová hodnota je tvým novým maximálním BO. |
+| **2 BO**  | **Otřesený:** Jsi dezorientovaný a otřesený. Popiš jak se vzpamatuješ. Hoď *1k6*. Pokud je výsledek vyšší než tvé maximální BO, tahle nová hodnota je tvým novým maximálním BO. |
+| **3 BO**  | **Odhozený:** Proletěl si se vzduchem, padl na hubu a lapáš po dechu. Jsi *vyčerpaný* dokud si aspoň pár hodin neodpočineš. Po odpočinku si hoď *1k6* a výsledek přičti ke svému maximálnímu BO. |
+| **4 BO**  | **Něco zlomeného:** Hoď *1k6* pro umístění zlomeniny (*1-2*: Noha, *3-4*: Ruka, *5*: Žebro, *6*: Lebka). Jakmile si tuhle zlomeninu zahojíš, hoď si *2k6*. Pokud je výsledek vyšší než tvé maximální BO, tahle nová hodnota je tvým novým maximálním BO. |
+| **5 BO**  | **Infekce:** Byl si vystaven nějaké příšerné infekci. Jakmile se ji zbavíš, hoď si *2k6*. Pokud je výsledek vyšší než tvé maximální BO, tahle nová hodnota je tvým novým maximálním BO. |
+| **6 BO**  | **Bolest tvrdí charakter:** Hoď *1k6* pro výběr dovednosti (*1-2*: SIL, *3-4*: HBI, *5-6*: VUL). Následně hoď *3K6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota v dané dovednosti. Vem si tuto novou hodnotu jako své nové maximum. |
+| **7 BO**  | **Přetrhané šlachy:** Dokud neobdržíš významnou lékařskou pomoc, můžeš se sotva hýbat. Poté co se tvé šlachy zahojí, hoď *3k6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota HBI. Vem si tuto novou hodnotu jako své nové maximum. |
+| **8 BO**  | **Ohluchlý:** Dokud neobdržíš významnou lékařskou pomoc, si ohluchlý. Vzápětí si hoď *1k4* a výsledek přičti ke své maximální hodnotě VUL (Max 18). |
+| **9 BO**  | **Až se ti rozsvítilo:** Něco se ti v hlavě změnilo. Hoď *3k6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota VUL. Vem si tuto novou hodnotu jako své nové maximum. |
+| **10 BO** | **Zmrzačený:** Jedna s tvých končetin je urvána, useknuta nebo jinak permanentně znefunkčněna (Strážce určí která). Hoď si na záchranu VUL. Pokud uspěješ, přičti si ke svému maximálnímu VUL *1k6* (Max 18). |
+| **11 BO** | **Smrtelné zranění:** Jsi vyčerpaný, umíráš a pokud nejsi do hodiny stabilizován tak zemřeš. Po uzdravení si hoď *2k6*. Výsledek je tvým novým maximálním BO. |
+| **12 BO** | **Odsouzený k smrti:** Tento zásah tě měl rozhodně zabít, ale nějakým zázrakem si přežil. Cítíš ale, že smrt je blízko. Pokud neuspěješ ve svém dalším záchranném hodu proti *kritickému poškození* tak *zemřeš*. V opačném případě hoď *3k6*. Pokud je výsledek vyšší než tvé maximum BO, tak je tento výsledek tvým novým maximem. |

@@ -20,7 +20,7 @@ Magie v Aldiru je uměním ztraceným v mlhách času, třebaže svět po skonu 
 
 - **Sesílání:** Kdokoliv může seslat kouzlo tím, že uchopí grimoár do obou ruk a nahlas přečte jeho obsah. Kdokoliv tak učiní si musí také přičíst bod únavy do svého inventáře.
 - **Posílení kouzel:** Pokud je postava v bezpečí a má dostatek času může při sesílání kouzla rozšířit jeho efekt (věci jako: zasažení více cílů, zvětšit jeho sílu a nebo jinak ohnout znění kouzla dle tolerance strážce). Tohle rozšíření je většinou zdarma avšak v extrémních případech může strážce uvalit na tohle posílení další cenu.
-- **Nebezpečí:** Pokud je postava v *vyčerpaná* nebo v nebezpečí (například v boji), seslání kouzla může vyžadovat záchranu WIL, aby se čarující vyvaroval potencionálním vedlejším efektům kouzla. Negativní následky nepovedeného sesílání jsou vždy odvozeny ze sesílaného kouzla a jeho využití. Mohou to být efekty jako extra body únavy, zničení grimoáru, zranění či dokonce smrt.
+- **Nebezpečí:** Pokud je postava v *vyčerpaná* nebo v nebezpečí (například v boji), seslání kouzla může vyžadovat záchranu VUL, aby se čarující vyvaroval potencionálním vedlejším efektům kouzla. Negativní následky nepovedeného sesílání jsou vždy odvozeny ze sesílaného kouzla a jeho využití. Mohou to být efekty jako extra body únavy, zničení grimoáru, zranění či dokonce smrt.
 
 ## Svitky 
 
@@ -33,5 +33,5 @@ Svitky jsou funkcí velmi podobné magickým grimoárům, až na následující 
 ## Arkany
 
 - **Co jsou zač:** Libovolné předměty či objekty nabyté magickou mocí. Jejich použití nezpůsobuje *ůnavu*. Avšak často mají omezený počet použití a speciální podmínky dobíjení.
-- **Rozpoznání Arkan:** Kdokoliv kdo Arkanu spatří dokáže s jistotou říct, že se jedná o Arkanu. Především díky jisté auroře, kterou všechny Arkany vyzařují.
+- **Rozpoznání Arkan:** Kdokoliv kdo se Arkany dotkne dokáže s jistotou říct, že se jedná o Arkanu.
 - **Identifikace:** Identifikovat jak se Arkana používá, kolik má použití a jak se dobíjí, vyžaduje experimentování. Alternativně se může jedinec pokusit Arkanu identifikovat jako *volno-časovou aktivitu*.

@@ -21,6 +21,12 @@ Všechen text v těchto pravidlech předpokládají zasazení do Aldiru. Násled
 
 <img src="/assets/sep_line.png"/>
 
+## Rasy Aldiru
+
+asd ==todo==
+
+<img src="/assets/sep_line.png"/>
+
 ## Jazyk
 
 Všechny inteligentní stvoření mluví nějakou formou vlastního jazyka. Včetně různých nářečí a nuancí existující v různých částech světa. Na Aldirském kontinentě ja však poměrně vysoká pravděpodobnost, že inteligentní stvoření aspoň rozumí Aldirštině. Jelikož to je zde nejrozšířenější jazyk.
