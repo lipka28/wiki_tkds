@@ -11,23 +11,23 @@
 - Bonekeeper -> Hrobník ✅
 - Cutpurse -> Zlodějíček
 - Fieldwarden -> Hraničář ✅
-- Fletchwind -> Lukodivec (Lukostřelec)
+- Fletchwind -> Lukodivec  ✅
 - Half witch -> Dítě lesa ✅
 - Hexenbane -> Přepracovat komplet na Lamače ⚠️
 - Jongleur -> Kejklíř ✅
-- Kettlewright -> řemeslník
-- Mountebank -> Potížista
+- Kettlewright -> Řemeslník <---
+- Mountebank -> Podvodník ✅
 - Outrider -> Udělat vlastní "Cechovní dobrodruh (Cech ochránců)" ⚠️
-- Prowler -> Stopař / Lovec <---
-- Rill Runner -> Potulný bard
+- Prowler -> Lovec ✅
+- Rill Runner -> Potulný bard ✅
 - Scrivener -> Historik ✅
 
 Chci navíc:
 
 - Arkanista ⚠️
-- Trpaslík -> trpasličí klany
+- Trpaslík -> trpasličí klany ⚠️
 - Kuduk -> Pod jakým mistrem studoval ⚠️
-- Rudý nomád  -> Postavení v kmeni
+- Rudý nomád  -> Postavení v kmeni ⚠️
 - Velkomocný  -> Magická brána, + nadpřirozená věc (jako vidění ve tmě imunita na nemoci atd)
 
 <img src="/assets/sep_line.png"/>
@@ -411,29 +411,202 @@ Přivlastněná Arkana ze skladů.
 - Plachta (ukryje 1 stvoření)
 - Kožešinové brnění (1 Brnění)
 - Krátký meč (1k6)
-- Past na medvědy (Způsobuje 4 poškození (obchází BO))
+- Past na medvědy (Způsobuje ztrátu 1k6 SIL)
 
 **Poslední lov**
 
-| 1k6  | Co byl tvůj poslední lov? |
-| :--: | :------------------------ |
-|  1   |                           |
-|  2   |                           |
-|  3   |                           |
-|  4   |                           |
-|  5   |                           |
-|  6   |                           |
+| 1k6  | Co byl tvůj poslední lov?                                    |
+| :--: | :----------------------------------------------------------- |
+|  1   | Obří masožravou světlušku, která lákala nevinné pocestné svým světlem. Jako náhradu za ruku, kterou ti ukousla, získáváš **Alchymistickou ruku** (1k8, *zanedbatelná* pokud nesena, jinak *neskladná*). Tato ruka je odolná proti ohni a jedům. Tvá noha potřebuje každodenní mazání jinak bude hlasitě vrzat a způsobovat ti *vyčerpání*. Na tuto údržbu navíc získáváš **Lampový olej** (6 použití). |
+|  2   | Ledová kopřiva, která chytala a vysávala krev ze zvířat na statku. O svou odměnu za lov si ale přišel, jelikož tvé řešení za pomocí houby, která kopřivu vymýtí. Zabilo polovinu zvířat. Získáváš **Bobuli mrazu** (1 použití). Zmrazí libovolnou vodní plochu o oblasti až 1 kilometr čtverečný. Nejíst !!! |
+|  3   | Stříbrná čupakabra, která zabila někoho tobě blízkého. Nosíš teď **Provázek se zubem čupakabry** (*zanedbatelný*) jako varování pro ostatní čupakabry. Zub lehce vibruje, když tě někdo sleduje. |
+|  4   | Záškodnický lesní duch, který otrávil malou usedlost. Získáváš **Měch otrávené vody** (3 použití, konzumace způsobuje ztrátu 1k6 SIL a *vyčerpání* dokud není poskytnuta adekvátní pomoc). Navíc získáváš i **Železné chrániče zápěstí** (+1 Brnění, *neskladné* pokud neoblečeny). |
+|  5   | **Zbloudilá duše vlka** (5 BO, 11 SIL, 13 HBI, 8 VUL, kousnutí 1k6), která děsila pocestné. Slitoval jsi se nad tímto hladovějícím stvořením a pomohl mu. On ti je na oplátku až na do smrti věrný. Má černé (hmotné) chlupaté tělo a na místo hlavy vlčí lebku. Umí skvěle hrabat. |
+|  6   | **Azurová pěnice**. Jejich pohlavní žlázy, pokud správně extrahovány, se prodávají za dobré peníze. Byl si úspěšný, ale ponechal si její hnízdo na pospas vlkům. Získáváš **vykosťovací nůž** (1k6), extra **20 šilinků** a lítost nad svými činy. |
 
 **Nástroj:**
 
-| 1k6  | Co si nikdy nezapomeneš vzít sebou? |
-| :--: | :---------------------------------- |
-|  1   |                                     |
-|  2   |                                     |
-|  3   |                                     |
-|  4   |                                     |
-|  5   |                                     |
-|  6   |                                     |
+| 1k6  | Co si nikdy nezapomeneš vzít sebou?                          |
+| :--: | :----------------------------------------------------------- |
+|  1   | **Trpasličí pálenka** (3 použití) - V lepších časech je dobrá na zahřátí, v těch horších se dá použít jako hořlavina. |
+|  2   | **Stopařovo hrkátko** - Hlasitý nástroj, který odhalí blízké stezky i pokud jsou dobře ukryty. |
+|  3   | **Zívací vosk** (1 použití) - Váleček vosku, pokud rozpuštěn, jeho výpary mají uspávací účinky. |
+|  4   | **Lanko s kovovými kolky** - Výborné pro cestování obtížným terénem nebo na výrobu provizorních pastí. |
+|  5   | **Kovové chrastítko** - Sloužící k odvedení pozornosti nebo vyplašení tvé oběti. Zní přesvědčivě jako chřestýš. |
+|  6   | **Tvrdnoucí lepidlo** (3 použití, drahé: 20 šilinků za láhev) - Udělá jakýkoliv plochý materiál (látka, papír, kůže, písek) tvrdý jako kámen. |
 
 <img src="/assets/sep_line.png"/>
 
+## Lukodivec
+
+*Útočíš z dálky, ale to z tebe nedělá zbabělce. Luk je tvým hudebním nástrojem, zpívajícím o příslibu rychlé a tiché smrti.*
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+- Luk (dle tabulky níže)
+- Zubatý nůž (1k6)
+- Zbroj z vařené kůže (1 Brnění)
+- Mast z živého kořene (1 použití, vyléčí 1k4 SIL)
+
+**Získání luku:**
+
+| 1k6  | Čím sis zasloužil svůj luk?                                  |
+| :--: | ------------------------------------------------------------ |
+|  1   | Válka. Poku jsi v boji první na tahu (součást první skupiny). Tvůj luk získá vlastnost *výbuch* během tvého prvního tahu. |
+|  2   | Sokolnictví. Máš **Sokola** (3 BO, 5 SIL, 16 HBI, 4 VUL, pařáty (1k6+1k6) nebo klovnutí 1k8). Živý se pouze zvěřinou. |
+|  3   | Lov. ==todo: dodělat po wilderness procedure==               |
+|  4   | Turnaj. Pokud se tvůj cíl nemůže hýbat tvůj útok lukem je *posílen* o kostku poškození luku. |
+|  5   | Trénink. Poku jsi v boji první na tahu (součást první skupiny). Všechny útoky na blízku proti tobě jsou *oslabeny*. Platí do konce boje nebo dokud neobdržíš poškození do SIL. |
+|  6   | Průzkumnictví. ==todo: dodělat po wilderness procedure==     |
+
+**Luk:**
+
+| 1k6  | Z jakého dřeva je tvůj luk vyroben?                          |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Luk ze západního tisu** (1k6, *neskladný*, hlasitý) - Lze použít jako zbraň na blízku působící 1k6 poškození. |
+|  2   | **Luk z krvavého dubu** (1k8, *neskladný*) - Má obrovský tah. Při způsobení *kritického poškození* je cíli něco urváno. |
+|  3   | **Luk z kamenné borovice** (1k6, *neskladný*) - Produkuje 1 použití **lepivé smůly** za den. Tato smůla je vysoce výbušná. |
+|  4   | **Luk z bílého jasanu** (1k6, *neskladný*) - Při boji na blízko může být použit jako štít poskytující +1 Brnění. |
+|  5   | **Luk z pruhovaného bambusu** (1k6) - Skládací, takže zabírá jen 1 slot. Stále vyžaduje 2 ruce k používání. |
+|  6   | **Luk z melebonského jilmu** (1k6, *neskladný*) - Pokud držen v ruce, ochraňuje nositele před jedy a jinými toxiny. |
+
+<img src="/assets/sep_line.png"/>
+
+## Podvodník
+
+*Důvtip je tvou nejostřejší zbraní a přetvářka tvým nejsilnějším štítem. Většinou neprohráváš ale když už prohraješ, tak to neseš špatně.*
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+- Kárka (+4 sloty, *neskladná*, třeba táhnout v rukách)
+- Cinknuté hrací karty
+- Honosný klobouk (*zanedbatelný*)
+- Vycházková hůl se skrytou čepelí (1k6)
+
+**Podovd:**
+
+| 1k6  | Tvůj poslední nepovedený podvod?                             |
+| :--: | ------------------------------------------------------------ |
+|  1   | Tví "pacienti" se stále zázračně uzdravovali, i když si nikdy medicíně nějak nerozuměl. Získáváš **Léčivé obvazy** (3 použití, stabilizuje, léčí 1 SIL 1x denně) a talent pro medicínu. |
+|  2   | Poté co si svedl bohatého patrona / patronku. Jeho / její rodina si najala gang, aby tě zřídil. Musíš se skrývat a získáváš **Mastičku krásy** (2 použití). Po aplikaci se staneš neodolatelně krásný na následujících 12 hodin. |
+|  3   | Byl jsi překupníkem falešných proroctví. Jedno z tvých proroctví se však ukázalo pravdivé, což přitáhlo nechtěnou pozornost. Pokud ti strážce dal k dispozici tabulku *Znamení*, hoď si nad ní a výsledek si nech pro sebe. Navíc získáváš **Schovaný nůž** (1k6, *zanedbatelný*). |
+|  4   | Tvá poslední eskapáda zničila artefakt nevyčíslitelné hodnoty a vážně zranila několik kolemjdoucích. Získáváš **Uniformu kapitána stráží** (*zanedbatelný*), **Ceremoniální meč** (neškodný, 60 šilinků) a **Buket květin**. |
+|  5   | Byl si proklet čarodějnicí za okradení nějakých vesničanů. Magie se v tvých rukou chová nevyzpytatelně. (Vyžaduje záchranu VUL na předejití katastrofě). Pokud si cílem magie, stejně platí pro jejího sesilatele. |
+|  6   | Tvé duchovní seance byli jen špinavý trik využívající dobře schovaný **Grimoár** s kouzlem *Zvuková iluze* (*Charakter:* Náhodně vydává během dne zvuky, občas velmi nevhodné zvuky). Jeden s tvých zákazníků tuto skutečnost odhalil.  Získáváš tento Grimoár a **Pytel hadrů**.<br /><br />**Zvuková iluze:** Vytvoříš iluzorní zvuk vycházející z libovolného místa, které si určíš. |
+
+**Památka:**
+
+| 1k6  | Co sis nechal na památku a může pomoc ke tvé identifikaci?   |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Šlechtický erb** (*zanedbatelný*) - Narozený do významné rodiny. Nosíš malý odznak, který často funguje jako vstupenka tam, kde se běžný smrtelník nedostane.  Poskytuje tvé rodině informaci o tom, kde se zrovna nacházíš. |
+|  2   | **Zázračný olejíček** (2 použití) - Smradlavá kluzká substance. |
+|  3   | **Chirurgovo mýdlo** (4 použití) - Kostka mýdla, která když aplikována na kůží způsobí, že kůže se stane dočasně průhledná. Lze tak lépe vidět anatomii těla. |
+|  4   | **Kozí prášek** (1 použití) - Vyrobený z kozí placenty. Dočasně vyléčí jakoukoliv nemoc. Ta se však během pár hodin zase navrátí. |
+|  5   | **Prokletý safír** - V hodnotě 200 šilinků. Nápadně se vrátí do tvé kapsy, pár vteřin poté co jej ztratíš. |
+|  6   | **Alchymistické tetování** (*zanedbatelné*) - Tetování psa, kočky nebo ptáka, které může opustit tvé tělo. Následuje tvé příkazy jak nejlépe mu jeho fyzická forma umožňuje. Obdržené poškození je přeneseno na tebe ve formě ztráty SIL. |
+
+<img src="/assets/sep_line.png"/>
+
+## Potulný bard
+
+*Zpíváš příběhy řek, lesů a hor, tvůj talent uklidňuje přátele i živly. Viděl jsi víc než většina lidí, ale nikdy ti to nebylo dost.* 
+
+Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno vícekrát.
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+- Brigandina (1 brnění, *neskladná*)
+- Kompas
+- Psací potřeby a pergamen (6 použití)
+- Nůž (1k6)
+
+**Píseň:**
+
+| 1k6  | Jaká píseň je tvá nejznámější?                               |
+| :--: | ------------------------------------------------------------ |
+|  1   | Vynálezcův dupák. Humorná pohádka o dárky rozdávajícím cestovateli. Získáváš **Rákosovou píšťalku**. Kdokoliv v doslechu (včetně tebe) musí uspět v záchranném hodu VUL. Jinak musí ihned vykonat násilný čin. |
+|  2   | O sylfě a jejím milenci. Necudný příběh o zakázané lásce. Získáváš **Větrný uzel** (3 použití, *Dobíjení:* Přivaž na vysoký stožár během bouře). Vytvoří silný závan větru. |
+|  3   | Harfeníkova láska. Smutný krátký příběh o muzikantovi, který se zamiloval do hvězdy. Získáváš **Hvězdnou loutnu**, která odhalí hvězdné konstelace nad tebou. Nezávisle na počasí. |
+|  4   | Rákosník. Oslavná píseň o obřím kaprovi, který vždy rybářům uteče. Začínáš s **Klubkem říční nitě** (5 použití). Každé ponoření do vody, garantuje úlovek. Ne vždy však musíš ulovit to co chceš. |
+|  5   | Píseň stříbrné říčky. Bez zpěvná ukolébavka, která napodobuje proudění říčky. Získáváš **Kamennou flétnu**, která dokáže uklidnit skoro každou řeku. |
+|  6   | Drozd a louka. Náladový příběh s proměnlivým refrénem. Získáváš **Psací pero** (1 použití, *zanedbatelné*). Mapa nakreslená tímto perem. Odhalí nejvhodnější cestu mezi dvěma body. |
+
+**Zdroj peněz:**
+
+| 1k6  | Jak si vyděláváš na své cestování?                           |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Vystupování** - Vystupování v hostincích ti vždy poskytne jídlo a nocleh, a občas si i něco vyděláš. Začínáš s extra 1k6 šilinky. |
+|  2   | **Ochrana** - Jsi ochránce těch, co se bojí cestovat sami. Získáváš **Rapír** (1k8). |
+|  3   | **Obchod** - Nakupuješ za levno a prodáváš draze. Vždy vyděláš tak akorát, aby si přežil. Získáváš libovolný předmět z běžné výbavy, který není dražší než 20 šilinků. ==todo: odkaz== |
+|  4   | **Přeprava** - Přepravuješ balíčky z místa na místo snad po celém známém světě.  V každém větším městě znáš aspoň 1 kontakt. |
+|  5   | **Přítel námořníků** - I přes nebezpečné vody a neklidné větry, vždy si námořníkům dobrou společností. Lodí vždy cestuješ zdarma. |
+|  6   | **Průvodcovství** - Doprovázíš karavany a naviguješ je obtížným terénem. Získáváš **Mapu** relevantní ke své další výpravě. |
+
+<img src="/assets/sep_line.png"/>
+
+## Rudý nomád ==todo: dodělat==
+
+*asd*
+
+ability swap to STR nebo DEX
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+
+asd
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+## Řemeslník ==todo: dodělat==
+
+*asd*
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+
+asd
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+## Trpaslík ==todo: dodělat==
+
+*asd*
+
+ability swap to STR nebo WIL
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+
+asd
+
+asd
+
+<img src="/assets/sep_line.png"/>

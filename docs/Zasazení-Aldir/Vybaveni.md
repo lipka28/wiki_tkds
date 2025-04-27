@@ -61,7 +61,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Kovový ježci (1 použití)                                     |  10 ši |
 | Křída (*zanedbatelné*)                                       |   1 ši |
 | Lampový olej (6 použití)                                     |  15 ši |
-| Léčivé obvazy (3 použití)                                    |  30 ši |
+| Léčivé obvazy (3 použití, stabilizuje, léčí 1 SIL 1x denně)  |  30 ši |
 | Lucerna                                                      |  10 ši |
 | Motouz (10 metrů)                                            |   2 ši |
 | Nádoba (jako měch na vodu, pytel či lahvička se zátkou)      |   5 ši |
@@ -71,7 +71,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Oblečení - Společenské (*zanedbatelné* pokud oblečené)       |  20 ši |
 | Oblečení - Módní společenské (*neskladné*)                   | 100 ši |
 | Oblečení - Zimní                                             |  25 ši |
-| Past na medvěda (1k6 poškození, obchází BO)                  |  35 ši |
+| Past na medvěda (ztráta 1k6 SIL)                             |  35 ši |
 | Pochodeň (3 použití)                                         |   5 ši |
 | Pouta                                                        |  20 ši |
 | Protijed                                                     |  20 ši |
