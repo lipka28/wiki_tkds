@@ -97,7 +97,7 @@ Teď už jen dolaď maličkosti.
 | 4    | Nechutné   | 9    | Zapáchající |
 | 5    | Cizokrajné | 10   | Špinavé     |
 
-**Ctnost**
+**Pozitivní vlastnost**
 
 | 1k10 | Rys            | 1k10 | Rys        |
 | ---- | -------------- | ---- | ---------- |
@@ -107,7 +107,7 @@ Teď už jen dolaď maličkosti.
 | 4    | Disciplinovaný | 9    | Klidný     |
 | 5    | Společenský    | 10   | Tolerantní |
 
-**Neřest**
+**Negativní vlastnost**
 
 | 1k10 | Rys       | 1k10 | Rys          |
 | ---- | --------- | ---- | ------------ |

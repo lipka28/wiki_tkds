@@ -19,7 +19,7 @@ Magie v Aldiru je uměním ztraceným v mlhách času, třebaže svět po skonu 
 ## Sesílání kouzel
 
 - **Sesílání:** Kdokoliv může seslat kouzlo tím, že uchopí grimoár do obou ruk a nahlas přečte jeho obsah. Kdokoliv tak učiní si musí také přičíst bod únavy do svého inventáře.
-- **Posílení kouzel:** Pokud je postava v bezpečí a má dostatek času může při sesílání kouzla rozšířit jeho efekt (věci jako: zasažení více cílů, zvětšit jeho sílu a nebo jinak ohnout znění kouzla dle tolerance strážce). Tohle rozšíření je většinou zdarma avšak v extrémních případech může strážce uvalit na tohle posílení další cenu.
+- **Posílení kouzel:** Pokud je postava v bezpečí a má dostatek času může při sesílání kouzla rozšířit jeho efekt (věci jako: zasažení více cílů, zvětšit jeho sílu a nebo jinak ohnout znění kouzla dle tolerance strážce). Tohle posílení většinou vyžaduje záchranu VUL.
 - **Nebezpečí:** Pokud je postava v *vyčerpaná* nebo v nebezpečí (například v boji), seslání kouzla může vyžadovat záchranu VUL, aby se čarující vyvaroval potencionálním vedlejším efektům kouzla. Negativní následky nepovedeného sesílání jsou vždy odvozeny ze sesílaného kouzla a jeho využití. Mohou to být efekty jako extra body únavy, zničení grimoáru, zranění či dokonce smrt.
 
 ## Svitky 

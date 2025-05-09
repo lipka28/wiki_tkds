@@ -9,26 +9,26 @@
 - Uarifex -> Alchymista ✅
 - Surgeon -> Felčar ✅
 - Bonekeeper -> Hrobník ✅
-- Cutpurse -> Zlodějíček
+- Cutpurse -> Zlodějíček ✅
 - Fieldwarden -> Hraničář ✅
 - Fletchwind -> Lukodivec  ✅
 - Half witch -> Dítě lesa ✅
-- Hexenbane -> Přepracovat komplet na Lamače ⚠️
+- Hexenbane -> Přepracovat komplet na Lamače ⚠️ ==todo==
 - Jongleur -> Kejklíř ✅
-- Kettlewright -> Řemeslník <---
+- Kettlewright -> Hrnčíř ✅
 - Mountebank -> Podvodník ✅
-- Outrider -> Udělat vlastní "Cechovní dobrodruh (Cech ochránců)" ⚠️
+- Outrider -> Udělat vlastní "Cechovní dobrodruh (Cech ochránců)" ⚠️ ==todo==
 - Prowler -> Lovec ✅
 - Rill Runner -> Potulný bard ✅
 - Scrivener -> Historik ✅
 
 Chci navíc:
 
-- Arkanista ⚠️
-- Trpaslík -> trpasličí klany ⚠️
-- Kuduk -> Pod jakým mistrem studoval ⚠️
-- Rudý nomád  -> Postavení v kmeni ⚠️
-- Velkomocný  -> Magická brána, + nadpřirozená věc (jako vidění ve tmě imunita na nemoci atd)
+- Arkanista ✅
+- Trpaslík -> trpasličí klany ⚠️ ==todo==
+- Kuduk -> Pod jakým mistrem studoval ⚠️ ==todo==
+- Rudý nomád  -> Postavení v kmeni ⚠️ ==todo==
+- Velkomocný  -> who knows ⚠️ ==todo==
 
 <img src="/assets/sep_line.png"/>
 
@@ -70,9 +70,9 @@ Chci navíc:
 
 <img src="/assets/sep_line.png"/>
 
-## Arkanista ==todo: dodělat arkanistu==
+## Arkanista ==todo: oddělat brány kompletně==
 
-*Vyděláváš si prodejem cetek a polo-magických talismanů. Tvé srdce je však jinde. Jsi vášnivým sběratelem magických artefaktů a kouzel a tvým vědomostem se v tomhle oboru jen málo kdo vyrovná.*
+*Vyděláváš si prodejem cetek a polo-magických talismanů. Tvé srdce je však jinde. Jsi vášnivým sběratelem magických artefaktů a kouzel a tvým znalostem se v tomhle oboru jen málo kdo vyrovná.*
 
 **Počáteční výbava:** 
 
@@ -85,27 +85,27 @@ Chci navíc:
 - Svitek (*zanedbatelný*, **Převlek:** Změň vzhled humanoidního stvoření libovolným způsobem. Musí však zůstat humanoidním stvořením. Pokusy o napodobení specifických subjektů budou vždy trochu nedokonalé.)
 - špičatý klobouk (*zanedbatelný*)
 
-**Magická brána:**
+**Nepovedený výzkum:**
 
-| 1k6  | Jaká magická brána tě vždy fascinovala? |
-| :--: | --------------------------------------- |
-|  1   | 70 - scry - Asha                        |
-|  2   | 26 - Earthquake - Ara                   |
-|  3   | 66 - Raise dead - Skia                  |
-|  4   | 87 - Telekinezis - Durus                |
-|  5   | 54 - Mirror image - Agni                |
-|  6   | 96 - Ward - Nur                         |
+| 1k6  | Co jsi obětoval svému poslednímu výzkumu?                    |
+| :--: | ------------------------------------------------------------ |
+|  1   | Blízkého. Při neopatrném zacházení se vzácnou Arkanou, si v ní věznil sobě blízkou osobu. Získáváš **Věznící krystal** (Plný), Může vnímat co se děje kolem něj? Nikdo neví. Třeba jednou přijdeš na to jak jej osvobodit. |
+|  2   | Ruku. Při nepovedeném pokusu o přesunu moci z Arkany do své ruky. Si ji nekontrolovaným magickým výbojem rozmetal na kusy. Z pahýlu v rameni, který bývala tvá ruka, ti teď vyrůstá **Magický krystal** (*zanedbatelný*, Křehký). Jeho rozbití (max 1x denně) ti způsobí ztrátu *1k4* SIL, ale vyvolá **Levitující magickou ruku** (3 BO, 6 SIL, 10 HBI, 0 VUL, úder (*1k6*)) o velikosti psa, kterou ovládáš. Tato ruka je s tebou propojena neviditelným magickým vláknem a nemůže se od tebe vzdálit na více jak 5 metrů. |
+|  3   | Duši. Vyobchodoval si svou duši s démonem za **Lektvar věčného mládí**(1 použití). Jeho vypití zaručí věčnou krásu a mládí. Požití také ihned vyléčí všechna zranění, únavu či jiné negativní stavy. Po tvé smrti máš však místo ve věčných pekelných plamenech zaručené. |
+|  4   | Půlku vesnice. Při svém pokusu o otevření brány do jiného světa, si vypustil na tento svět ohromné hadovité monstrum, které před tím, než se odpotácelo někam do divočiny, srovnalo se zemí půlku vesnice. Získáváš **Zub orizny** (1k6, Při *kritickém poškození* je cíl *vyčerpaný* a bez patřičné pomoci zemře do 1 hodiny na otravu) a tvé jméno vyvolává nechtěnou pozornost Lamačů kouzel. |
+|  5   | Život. Při svém pokusu o oživení mrtvého, za pomocí prastarého rituálu, si neopatrným přeřeknutím přišel o svůj vlastní život. O to větší bylo tvé překvapení, když si se později probudil s **Podivnou mincí** (zanedbatelné) v kapse a spoustou otázek. |
+|  6   | Nic. Ale bylo to o fous. Naštěstí si unikl z nebezpeční na poslední chvíli díky svým **Přemisťovacím oblázkům** (2 použití). Křehké kamínky podobné modrému sklu. Je li kamínek potřísněn čerstvou krví. Při rozbití přemístí na své místo stvoření, jehož krví byl potřísněn. |
 
-**Cetka:**
+**Magická kniha:**
 
-| 1k6  | Bez jaké Arkany si nedovedeš představit svůj život? |
-| :--: | --------------------------------------------------- |
-|  1   | asd                                                 |
-|  2   | asd                                                 |
-|  3   | asd                                                 |
-|  4   | asd                                                 |
-|  5   | asd                                                 |
-|  6   | asd                                                 |
+| 1k6  | Jaký grimoár nikdy nedáš z ruky?                             |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Grimoár magického vidění** (*Osobnost:* Po použití jsou tvé oči hodinu bílé jako mléko) - Můžeš vidět očima stvoření, kterého ses během dneška dotkl. |
+|  2   | **Grimoár Zemětřesení** (*Osobnost:* Z rohů knížky se neustále sype písek) - Země se začne silně otřásat, budovy mohou být poškozeny nebo se dokonce zhroutit. |
+|  3   | **Grimoár kostlivce** (*Osobnost:* Majitel se po každém použití stane více fascinovaný kostmi) - Kostlivec se vyhrabe ze země aby ti sloužil. Je extrémně hloupý a dokáže plnit jen základní rozkazy. |
+|  4   | **Grimoár telekineze** (*Osobnost:* Majitel může grimoár vyvolat pouhou myšlenkou ať je kdekoliv (Záchrana VUL nebo se staneš vyčerpaný)) - Můžeš sílou mysli pohnout jedním předmětem do 50 Kg. |
+|  5   | **Grimoár zrcadlového obrazu** (*Osobnost:* Postupem času začne majitel pochybovat nad tím zda je skutečný nebo jen duplikát) - Vytvoří tvůj iluzorní duplikát pod tvou kontrolou. |
+|  6   | **Grimoár Odvrácení** (*Osobnost:* Obal je pokryt kresbami děsivých stvoření se stovkami očí.) - Vytvoří stříbrný kruh o průměru 10 metrů. Vyber jedno živočišný druh, který nemůže překročit čáru tohohle kruhu. |
 
 <img src="/assets/sep_line.png"/>
 
@@ -159,10 +159,10 @@ Poslední získaná arkana
 | :--: | ------------------------------------------------------------ |
 |  1   | **Popel znovuzrození** (3 použití) - Získaný z pozůstatků ztracené duše žijící v kůře stromu. Umrlý plamen posypán tímto popelem procitne v nový život. Stejně jako stvoření mrtvé jen pár chvil se znovu navrátí ze světa mrtvých. |
 |  2   | **Pírko zastření** (1 použití) - Pero utržené z ocasu ptáka ohniváka. Umožní jakémukoliv stvoření se vydávat za někoho (nebo něco) jiného. |
-|  3   | **Žalud Dřevohonu** (1 použití) - Semínko získané ze světa za bránou Ara, sklizené za jarní rovnodennosti. Pokud zasazeno. Během okamžiků z něj vyroste luxusní dřevěný příbytek, který se zhroutí o večeru dalšího dne. |
+|  3   | **Žalud Dřevohonu** (1 použití) - Semínko získané ze světa Fey, sklizené za jarní rovnodennosti. Pokud zasazeno. Během okamžiků z něj vyroste luxusní dřevěný příbytek, který se zhroutí o večeru dalšího dne. |
 |  4   | **Smůla z kamenného stromu** (+1 Brnění, 3 použití) - Smůla získaná výměnou za krev. Mazlavá substance, která ztvrdne po rozmazání na libovolný povrch. |
 |  5   | **Nocitvor** (2 použití) - Prach vzniklý z rituálního upálení 6-ti sov. Když rozprášen do vzduchu, den se na krátkou chvíli změní v noc. |
-|  6   | **Zaříkávací kámen** (1 použití) - Kámen získaný z řeky tekoucí z brány Ara. Pokud vyndán ze své kovové schránky může pohltit a uchovat jeden magický efekt. Rozbití kamene uchovaný magický efekt znovu vypustí. |
+|  6   | **Zaříkávací kámen** (1 použití) - Kámen získaný z řeky tekoucí ze světa Fey. Pokud vyndán ze své kovové schránky může pohltit a uchovat jeden magický efekt. Rozbití kamene uchovaný magický efekt znovu vypustí. |
 
 <img src="/assets/sep_line.png"/>
 
@@ -226,7 +226,7 @@ Poslední získaná arkana
 | :--: | ------------------------------------------------------------ |
 |  1   | **O jazyku divočiny**. Svazek v kůži vázaných svitků. Seminární práce popisující jazyky a chování různých bestií a jak jim porozumět. |
 |  2   | **Neviditelné symfonie**. Vázaná v lehce svítivém obalu. Velmi vzácná. Popisuje nepatrné náznaky magie neviditelnosti. |
-|  3   | **Pojednání o stínech**. Nenadepsaná černá kniha. Hloubkový a vysoce teoretický text o světě za bránou Skia. Také popisuje cestu k nejbližší takové bráně. |
+|  3   | **Pojednání o stínech**. Nenadepsaná černá kniha. Hloubkový a vysoce teoretický text o stíno-světě. Také popisuje cestu k nejbližší bráně do tohoto světa. |
 |  4   | **Hvězdný valčík**. Sada spisů držených pohromadě sponou o tvaru komety a kvalitním koženým vázáním. Detailně vyobrazuje astronomické mapy a pohyby těles na noční obloze. Extrémně vzácná a ceněná (100 šilinků) především pro cestovatele. |
 |  5   | **Katedrály v korunách stromů**. Velký věčně zelený list, držící po hromadě sadu pergamenů. Původně zamýšlená jako dětská knížka. Avšak celkem důkladně popisuje cestování a přežívání v Nespoutané Divočině. |
 |  6   | **Zahrada zrcadel**. Stránky ukryté v obalu jiné knihy. Důmyslný traktát popisující potřebné materiály, procedury a nejvhodnější místa pro otevření brány. Kam? Nikdo neví. |
@@ -239,8 +239,8 @@ Poslední získaná arkana
 |  2   | **Šifrovací kameny** - Pár špičatých černých kamenů. Vzájemně rozšifrují zprávy, které jsou napsané tím druhým. |
 |  3   | **Všepero** (*zanedbatelný*) - Pero, které píše na jakýkoliv povrch. I tak vyžaduje inkoust. |
 |  4   | **Šeptík** - Lahvička se zátkou, která nahraje vzkaz, co je do ní pošeptán. Vzkaz je následně přehrán komukoliv, kdo lahvičku otevře. |
-|  5   | **Pamatovací jehla** - Drobná jehla s váčkem, kterou lze někomu nepozorovaně odebrat krev. Pokud si tuhle krev následně někdo kápne do oka. Přehraje se mu dění celého předchozího dne oběti (Předchozí den ode dne odebrání). |
-|  6   | **Opakovací papír** - Na první pohled prostý svitek. Tomu kdo jej otevře. Popíše celý jeho dnešní dosavadní den. |
+|  5   | **Pamatovací jehla** (*zanedbatelná*) - Drobná jehla s váčkem, kterou lze někomu nepozorovaně odebrat krev. Pokud si tuhle krev následně někdo kápne do oka. Přehraje se mu dění celého předchozího dne oběti (Předchozí den ode dne odebrání). |
+|  6   | **Opakovací papír** (*zanedbatelný*) - Na první pohled prostý svitek. Tomu kdo jej otevře. Popíše celý jeho dnešní dosavadní den. |
 
 <img src="/assets/sep_line.png"/>
 
@@ -282,6 +282,45 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 |  4   | **Kotvící kámen** - Malý kámen, který při dopadu na zem magicky zváže nejbližší stvoření (které není větší jak vlk). |
 |  5   | **Luční píšťalka** - Píšťalka, která uklidňuje květiny a umožňuje lehčí průchod těžce zarostlými oblastmi. |
 |  6   | **Věčně rozkvetlý náramek** - Náramek posetý rozkvetlými květy, které nikdy neuvadnou. Pokud obdržíš *kritické poškození*, květiny se rozpadnou v prach ale ty funguješ dál jako by si uspěl v záchranném hodu (ztráta SIL stále proběhne). |
+
+<img src="/assets/sep_line.png"/>
+
+## Hrnčíř
+
+*Poznávají tě podle zápachu roztaveného kovu a cinkání cínu. Nejsi jen obchodník, ale řemeslník pracující s ohněm a kovem.*
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+- Kleště
+- Role plechu
+- Kožené rukavice (*zanedbatelné*)
+- Kladívko (1k6)
+
+**Živobytí:**
+
+| 1k6  | Čím se živíš?                                                |
+| :--: | ------------------------------------------------------------ |
+|  1   | Vyrábíš malá udělátka pro okolní cechy a neptáš se na moc otázek. Získáváš extra **40 šilinků** a **Plakát "Hledaný"** s tvým obličejem. S dostatkem času a materiálů dokážeš otevřít téměř libovolné dveře nebo trezor. |
+|  2   | Živíš se výrobou předmětů pro domácnosti a taháš se s nimi po celém městě. Vyber si předměty z vybavení, které dohromady nejsou dražší než 20 šilinků. ==todo: odkaz== Navíc získáváš **Kárku** (+4 sloty, neskladná, třeba táhnout v rukách). |
+|  3   | Byl si vojenský kovář, ale mír ti zničil živnost. Získáváš **Kovářské kladivo** (1k10, *neskladné*) a **Plechovou přilbu** (+1 Brnění). Pokud máš čas a dostatečný materiál, dokáže opravit libovolnou výzbroj. |
+|  4   | Prodáváš vzácné a kvalitní výrobky do klášterů a šlechtě. Získáváš **Dalekohled**, **Náhrdelník** (*zanedbatelný*, hodnota 20 šilinků) a **Svitek zrcadlochodectví** (*zanedbatelný*).<br /><br />**Zrcadlochodectví:** Očarované zrcadlo se stane průchodem do jiného zrcadla, které si dnes viděl. |
+|  5   | Nabízíš ochranu. Tiše dohlížejíc na obchody jiných. Získáváš extra +1k4 BO do začátku, **Dlouhý meč** (1k10, *neskladný*) a **Gambeson** (+1 brnění). |
+|  6   | Sbíráš materiál z bojišť. Získáváš **Osla** (+4 sloty, pomalý), **Kuši** (1k8, *neskladná*) a **Ruční pilu** (1k6) |
+
+**Nástroj:**
+
+| 1k6  | Jaký předmět tě zaručeně dostane ze šlamastiky               |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Ohnivé vejce** (1k8, *výbuch*, 1 použití) - Kulatý předmět z mořské soli, dřeva a výbušné směsi. Exploduje při větším otřesu. |
+|  2   | **Černý dehet** (3 použití) - Velmi lepkavý a extrémně hořlavý. |
+|  3   | **Kovové boty s ostny** (1k8) - Drtí hlavy, led a jiná svinstva s naprostou lehkostí. Cestování v nich je o něco pomalejší ale může být jednoduší. |
+|  4   | **Kutilova pasta** (3 použití) - Okamžitě zalepí díru až o velikosti pěsti. |
+|  5   | **Ohňostroj** (2 použití) - Ohromující i když poněkud nebezpečná podívaná. Dost výbušného materiálu, že by si jeden mohl urvat prst nebo dva. |
+|  6   | **Supovitá kočka** (3 BO, 5 SIL, 15 HBI, 12 VUL, *neskladná*) - Vychytralý mazlíček co se ti vejde do batohu, ale dostatečně silný na to aby odehnal malé predátory. Vyžaduje 1 zásobu denně a musí to být maso. |
 
 <img src="/assets/sep_line.png"/>
 
@@ -375,7 +414,16 @@ ability swap to Dex nebo Wil
 - Zásoby (3 použití)
 - Pochodeň (3 použití) <-- pravděpodobně nějaká fancy lucerna
 
-asd
+**Studium:**
+
+| 1k6  | Jaký obor jsi vystudoval? |
+| :--: | ------------------------- |
+|  1   |                           |
+|  2   |                           |
+|  3   |                           |
+|  4   |                           |
+|  5   |                           |
+|  6   |                           |
 
 asd
 
@@ -383,7 +431,7 @@ asd
 
 ## Lamač kouzel ==todo: dodělat==
 
-*asd*
+*Jsi ochránce nevinných a inkvizitorem magie. Pod záštitou řádu lamačů kouzel je tvým údělem zachraňovat Arkany ze spárů šílenců, lovit nebezpečná magická stvoření a zabraňovat zneužívání magie.*
 
 **Počáteční výbava:** 
 
@@ -391,10 +439,32 @@ asd
 - Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
+- Brigandina (1 brnění, *neskladná*)
+- Dlouhý meč (1k8)
+- Lamačský odznak (*zanedbatelný*) - Způsobuje bolest magickým bytostem a zahřívá se v přítomnosti magie.
+- Gaulosova čočka - Prohlédnutí touto čočkou umožňuje vidět proudění magie, neviditelná stvoření a jiné magické efekty. Ztratíš zrak v oku na 1 hodinu (Během této doby jsi *vyčerpaný*).
 
-Jakou funkci si v řádu vykonával
+**Mise:**
 
-Přivlastněná Arkana ze skladů.
+| 1k6  | Co byla tvá poslední mise?                                   |
+| :--: | :----------------------------------------------------------- |
+|  1   | Unesená zvířata - (unášena pro rituál) - pet dog             |
+|  2   | Zmizelé děti - (unášeni lesními vílami) - vztah (vítán u víl) |
+|  3   | Vlkodlak - (usable item, stříbrnej řetě (obmotání zabraňuje v přeměňování)) |
+|  4   | Upír - (usable item(sun rod))                                |
+|  5   | Ohnivý elementál (Quell stone (Hexenbane))                   |
+|  6   | Kurolišek (Mast na odkameňění)                               |
+
+**Předmět:**
+
+| 1k6  | Co jsi si přivlastnil z Lamačských skladů?               |
+| :--: | :------------------------------------------------------- |
+|  1   | Surový pyridit                                           |
+|  2   | Bambitka a pyriditová munice                             |
+|  3   | Hůlka ohně                                               |
+|  4   | Vše klíč (dobíjecí)                                      |
+|  5   | Lokalizační kyvadélko                                    |
+|  6   | Magický kompas (směr nejsilnějšího zdroje magie v okolí) |
 
 <img src="/assets/sep_line.png"/>
 
@@ -569,24 +639,16 @@ ability swap to STR nebo DEX
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
 
-asd
+**Pozice v kmeni:**
 
-asd
-
-<img src="/assets/sep_line.png"/>
-
-## Řemeslník ==todo: dodělat==
-
-*asd*
-
-**Počáteční výbava:** 
-
-- *3k6* šilinků
-- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
-- Zásoby (3 použití)
-- Pochodeň (3 použití)
-
-asd
+| 1k6  | Jaká byla tvá pozice v kmeni? |
+| :--: | ----------------------------- |
+|  1   |                               |
+|  2   |                               |
+|  3   |                               |
+|  4   |                               |
+|  5   |                               |
+|  6   |                               |
 
 asd
 
@@ -605,8 +667,75 @@ ability swap to STR nebo WIL
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
 
+**Klan:**
+
+| 1k6  | Do jakého klanu si se narodil? |
+| :--: | ------------------------------ |
+|  1   |                                |
+|  2   |                                |
+|  3   |                                |
+|  4   |                                |
+|  5   |                                |
+|  6   |                                |
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+## Velkomocný ==todo: dodělat==
+
+*asd*
+
+special power
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+
 asd
 
 asd
+
+<img src="/assets/sep_line.png"/>
+
+## Zlodějíček
+
+*Žiješ na pomezí mezi světem bohatých a chudých. Vidíš příležitosti tam, kde ostatní vidí jen chaos. Šikovnými prsty obíráš jak bohaté obchodníky, tak chudé strážné.*
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+- Dva nože (1k6+1k6, *neskladné*)
+- Vycpávaná zbroj (1 Brnění)
+- Zlodějské náčiní (6 použití)
+- Černý oblek (*zanedbatelný*)
+
+**Prácička:**
+
+| 1k6  | Co bylo tvou poslední velkou loupeží?                        |
+| :--: | ------------------------------------------------------------ |
+|  1   | Šlechtické letní sídlo. Měl tam plno dobrého vína ale nic moc jiného. Získáváš **20 šilinků** a **Štípačky**. |
+|  2   | Banka (Byl si chycen). Máš cejch, který lze vidět jen při záři ohně. Kdokoliv spatří tenhle cejch, tě může požádat o pivo. Získáváš **Navíjecí lanko**. |
+|  3   | Cechovní sklad. Získáváš **Žebřík** (2 metry, *neskladný*) a **Oslepující prášek** (1 použití) |
+|  4   | Lichvář. Někdo tě ale přeběhl. Nechal však po sobě **Svitek magického oka** (*zanedbatelný*)<br /><br />**Magické oko:** Můžeš vidět skrz magické vznášející se oko, které se vznáší a pohybuje na tvůj příkaz. |
+|  5   | Strážmistrovi komnaty. Povedlo se ti utéct, ale nechal si nějaké přátele na pospas. Získáváš **Hedvábný provaz** (5 metrů) a znechucení sebou samotným. |
+|  6   | Univerzita. Byl si odhalen ale nikdo tě nepronásledoval. Stále nemáš ponětí proč. Získáváš **Kouřové bombičky** (3 použití) |
+
+**Nástroj:**
+
+| 1k6  | Jaký nástroj ti pomáhá při kradení?                          |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Prsten kočky** (2 použití, *Dobíjení:* Nasaď tento prsten na ocas toulavé kočky) - Umožňuje ti bezproblémové šplhání a bezpečný pád z libovolné výšky. |
+|  2   | **Všeklíč** (1 použití, *Dobíjení:* Na noc zabal s 100 šilinky) - Klíč, který funguje na každý běžný zámek. |
+|  3   | **Sledovací očko** (3 použití, s posledním použití se roztříští) - Monokl, který umožňuje dívat se skrz stěny nebo jiné překážky. |
+|  4   | **Hlas domova** (1 použití, *Dobíjení:* Ztratíš jednu cennou vzpomínku (popiš jakou)) - Všichni kdo slyší zvuk této píšťalky. Uslyší někde v dálce povědomí hlas, který prostě musí následovat. |
+|  5   | **Tulákův závoj** (1 použití, *Dobíjení:* Daruj své celodenní výdělky chudým) - Jeho použití ti umožňuje ztratit se davu s vizáží běžného žebráka. |
+|  6   | **Převíjecí káča** (1 použití) - Když roztočena, vrátí čas o 30 vteřin. Všichni si pamatují co se stalo. |
 
 <img src="/assets/sep_line.png"/>
