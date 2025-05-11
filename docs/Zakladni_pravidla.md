@@ -140,13 +140,13 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 - **Útok:** Útočník uděluje poškození určenou kostkou poškození použité zbraně.
 - **Poškození:** Když jedinec obdrží poškození. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho SIL a musí podstoupit záchranný hod proti *kritickému poškození*.
 - **Vícenásobný útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
-- **Jizvy:** Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Jizvy jsou většinou krátkodobě negativní a dlouhodobě pozitivní následky zranění v boji. Hoď si nad tabulkou jizev zde ==todo: odkaz==
+- **Jizvy:** Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Jizvy jsou většinou krátkodobě negativní a dlouhodobě pozitivní následky zranění v boji. Hoď si nad tabulkou jizev zde ==todo: odkaz==, kostkou, která jizvu způsobila.
 
 ### Modifikátory útoků
 
 - **Oslabený útok:** Útok za nevýhodných okolností (jako je například skrz kouř či se svázanýma rukama) je považován za oslabený. Oslabený útok vždy uděluje pouze *1k4 poškození* a za běžných okolností nemůže čerpat bonusová poškození (pokud strážce nerozhodne jinak).
-- **Posílený útok:**  Útok za výhodných okolností může poskytnout bonusové poškození označované jako například +1k6 či +1k8 (nebo například +1k12 proti úplně bezbranným cílům). Tohle bonusové poškození se háže jako součást běžného hodu na poškození a udělen je pak pouze nejvyšší dosažený výsledek.
-- **Výbuch:** Zbraně a útoky s touto vlastností, zasáhnou všechna stvoření v uvedené oblasti. Poškození se háže za každé ovlivněné stvoření zvlášť. Pokud z popisku efektu není jasné kolik cílů může být efektem ovlivněno lze tak určit hodem stejnou kostkou poškození jako je u efektu uvedena.
+- **Posílený útok:**  Útok za výhodných okolností může poskytnout bonusové poškození označované jako například +1k6 či +1k8 (nebo například +1k12 proti úplně bezbranným cílům). Tohle bonusové poškození se háže jako součást běžného hodu na poškození a udělen je pak pouze nejvyšší dosažený výsledek. Většinou je tento bonus +1k8.
+- **Plošné:** Zbraně a útoky s touto vlastností, zasáhnou všechna stvoření v uvedené oblasti. Poškození se háže za každé ovlivněné stvoření zvlášť. Pokud z popisku efektu není jasné kolik cílů může být efektem ovlivněno lze tak určit hodem stejnou kostkou poškození jako je u efektu uvedena.
 - **Útok dvěma zbraněmi:** Pokud stvoření útočí dvěma zbraněmi, druhá zbraň poskytuje posílení ve výši své kostky poškození. Většinou se zapisuje následovně: "dva nože 1k6+1k6".
 
 ### Útok na dálku
@@ -183,12 +183,12 @@ Velké skupiny nepřátel (jako třeba armáda zombie) nebo gigantičtí nepřá
 
 - **Kritické poškození:** Oddíly na místo SIL se zachraňují proti VUL (případně VUL svého vůdce). Když oddíl obdrží kritické poškození, tak se dá na útěk. 
 - **Zničení oddílu:** Když SIL oddílu dosáhne 0, oddíl je zničen.
-- **Útoky proti oddílům:** Pokud jedinec útočí na oddíl, jeho útok je považován za *oslabený*. Neplatí pro *výbuchy*.
-- **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok jeho útok probíhá s +1k12 a je považován za *výbuch*.
+- **Útoky proti oddílům:** Pokud jedinec útočí na oddíl, jeho útok je považován za *oslabený*. Neplatí pro *plošné*.
+- **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok jeho útok probíhá s +1k12 a je považován za *plošné*.
 
 ## Jizvy
 
-Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Typ jizvy záleží na tabulce níže a rozsahu poškození, které stvoření dostalo na 0 BO. Například pokud stvoření mělo 3 BO a obdrželo 3 poškození. Obdrží jizvu uvedenou v tabulce u 3 BO.
+Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Hoď si nad tabulkou níže kostkou, která jizvu způsobila. Například pokud stvoření mělo 3 BO a obdrželo 3 poškození z hodu 1k6. Tak si nad tabulkou níže hodí 1k6.
 
 | Ztráta BO | Efekt                                                        |
 | :-------: | :----------------------------------------------------------- |
