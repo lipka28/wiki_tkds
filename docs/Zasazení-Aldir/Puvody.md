@@ -13,7 +13,7 @@
 - Fieldwarden -> Hraničář ✅
 - Fletchwind -> Lukodivec  ✅
 - Half witch -> Dítě lesa ✅
-- Hexenbane -> Lamačský inkvizitor ✅
+- (Vlastní) Lamačský inkvizitor ✅
 - Jongleur -> Kejklíř ✅
 - Kettlewright -> Hrnčíř ✅
 - Mountebank -> Podvodník ✅
@@ -24,11 +24,11 @@
 
 Chci navíc:
 
-- Arkanista ✅
-- Prokletý -> Druh prokletí (vlkodlak, upír atd) ⚠️ ==todo==
-- Akolyta -> Pod jakým mistrem studoval ⚠️ ==todo==
-- Nomád -> Postavení v kmeni ⚠️ ==todo==
-- Velkomocný  -> who knows ⚠️ ==todo==
+- (Vlastní) Arkanista ✅
+- (Vlastní) Prokletý -> Druh prokletí (vlkodlak, upír atd) ⚠️ ==todo==
+- (Vlastní) Akolyta -> Pod jakým mistrem studoval ⚠️ ==todo==
+- (Vlastní) Nomád -> Postavení v kmeni ⚠️ ==todo==
+- (Vlastní) Velkomocný  -> Mutace + power ⚠️ ==todo==
 
 <img src="/assets/sep_line.png"/>
 
@@ -456,6 +456,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 - Brigandina (1 brnění, *neskladná*)
 - Dlouhý meč (1k8)
 - Lamačský odznak - Dotyk způsobuje bolest magickým bytostem.
+- Rudá kápě s kapucí a maskou ve tvaru dravce (*zanedbatelné* pokud oblečené)
 - Alchymisticky upravené oko (*zanedbatelné*) - Lamačští inkvizitoři mají jedno alchymisticky upravené oko (odborně nazýváno Gaulosovo oko). Na tohle oko jsou efektivně slepí, dokáží ním však bez většího soustředění, vidět chaotické proudění magie a tím poznat, že jsou v blízké vzdálenosti od magie.
     - *Soustředění:* Lamač se může pokusit identifikovat vzory v těchto chaotických proudech (pokud není *vyčerpaný*) a tím si otevřít nové možnosti jako jsou například: Rozpoznání zdrojů magie i na velké vzdálenosti, prohlédnutí iluzí či neviditelnosti a nebo třeba identifikování podstaty magického efektu. Každé takové použití vyžaduje záchranu VUL. V případě neúspěchu je lamač *vyčerpaný*.
 

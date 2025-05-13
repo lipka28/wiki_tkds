@@ -29,7 +29,7 @@ Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci s
 Teď už jen dolaď maličkosti.
 
 - **Jméno:** Vymysli si jméno
-- **Věk:** Stanov svůj věk nebo si hoď *15+2K20* (Pokud máš původ Trpaslíka nebo Velkomocného můžeš výsledek vynásobit 4x)
+- **Věk:** Stanov svůj věk nebo si hoď *15+2K20* (Pokud máš původ Velkomocného můžeš výsledek vynásobit 4x)
 - **Vizuální a povahové rysy:** Stanov klíčové vizuální a povahové rysy své postavy. Mohou ti pomoci tabulky níže (není třeba používat všechny)
 - **Vazby:** Pokud ti strážce dal k dispozici tabulku *Vazeb*, hoď si nad ní.
 - **Znamení:** Pokud je věk tvé postavy nejnižší ve skupině a strážce ti dal k dispozici tabulku *Znamení*, hoď si nad ní a o výsledek se poděl se skupinou.

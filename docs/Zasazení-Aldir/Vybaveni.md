@@ -91,7 +91,6 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Visací zámek s klíčem                                        |  10 ši |
 | Vzduchový měchýř                                             |   5 ši |
 | Zásoby (3 použití)                                           |  10 ši |
-| Zásoby pro zvíře (3 použití, *neskladné*)                    |   5 ši |
 | Zlodějské náčiní (6 použití)                                 |  25 ši |
 | Zrcátko (*zanedbatelné*)                                     |   5 ši |
 | Zvoneček (*zanedbatelné*)                                    |  10 ši |

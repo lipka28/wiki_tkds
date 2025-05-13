@@ -34,4 +34,4 @@ Svitky jsou funkcí velmi podobné magickým grimoárům, až na následující 
 
 - **Co jsou zač:** Libovolné předměty či objekty nabyté magickou mocí. Jejich použití nezpůsobuje *ůnavu*. Avšak často mají omezený počet použití a speciální podmínky dobíjení.
 - **Rozpoznání Arkan:** Kdokoliv kdo se Arkany dotkne dokáže s jistotou říct, že se jedná o Arkanu.
-- **Identifikace:** Identifikovat jak se Arkana používá, kolik má použití a jak se dobíjí, vyžaduje experimentování. Alternativně se může jedinec pokusit Arkanu identifikovat jako *volno-časovou aktivitu*.
+- **Identifikace:** Identifikovat jak se Arkana používá, kolik má použití a jak se dobíjí, vyžaduje experimentování (může vyžadovat i záchranu VUL na předejití ublížení si). Alternativně může jedinec Arkanu identifikovat jako *volno-časovou aktivitu*.

@@ -84,7 +84,7 @@ Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se n
 
 ### Body obrany (BO), odpočinek a léčení
 
-- **Body obrany (BO - Hit Protection):** Každé stvoření disponuje body obrany. Které schopnost vyvarovat se zraněním.
+- **Body obrany (BO):** Každé stvoření disponuje body obrany. Které schopnost vyvarovat se zranění v boji.
 - **Odpočinek:** Krátký odpočinek a napití se vody doplní stvoření všechny jeho *body obrany*. Předměty jako jsou třeba náplasti mohou během odpočinku stabilizovat umírající postavy.
 - **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny týdenním odpočinkem, léčitelem či jiným vhodným zdrojem potřebné expertízy.
 - **Cena léčení:** Běžné léčení, které trvá je většinou zdarma avšak rychlé nebo třeba magické zdroje léčení či jiná specializovaná léčba může něco stát.
@@ -106,7 +106,7 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 
 ### Brnění
 
-- **Body brnění:** Před odpočítáním poškození z BO cíle. Je tohle poškození sníženo o hodnotu brnění až na potencionální 0.
+- **Brnění:** Před odpočítáním poškození z BO cíle. Je tohle poškození sníženo o hodnotu brnění až na potencionální 0.
 - **Přilbice a štíty:** Poskytují bonus +1 k brnění (Mohou poskytovat i jiné bonusy na základy toho jak je popsáno jejich využití).
 - **Maximální brnění:** Postavy a příšery nemohou mít hodnotu brnění nikdy vyšší než *3*. 
 
@@ -131,14 +131,14 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 ### Tahy
 
 - **Deklarace:** Každý hráč na tahu, deklaruje co chce v daném tahu provádět, strážce si to poznačí a následně vyhodnotí všechny tahy hráčů na jednou.
-- **Aktivity během tahu:** Stvoření během svého tahu může provést akci a přesunout se až o *8 metrů*. Všechny postavy musí své tahy deklarovat předem a ty jsou společně vyhodnoceny v jednu chvíli.
+- **Aktivity během tahu:** Stvoření během svého tahu může provést akci a přesunout se až o *10 metrů*. Všechny postavy musí své tahy deklarovat předem a ty jsou společně vyhodnoceny v jednu chvíli.
 - **Akce:** Za akci lze považovat útok, seslání kouzla, dalších až 8 metrů pohybu a nebo jiná smysluplná akce. Pokud je daná akce riskantní, strážce si může vyžádat hod na záchranu relevantní dovednosti nebo hodit na na záchranu relevantní dovednosti za ovlivněné stvoření.
 - **Drobné akce:** Hráči mohou na místo pohybu provádět drobné akce (jako třeba výměna zbraní).
 
 ### Útok a poškození
 
 - **Útok:** Útočník uděluje poškození určenou kostkou poškození použité zbraně.
-- **Poškození:** Když jedinec obdrží poškození. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho SIL a musí podstoupit záchranný hod proti *kritickému poškození*.
+- **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a musí podstoupit záchranný hod proti *kritickému poškození*.
 - **Vícenásobný útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
 - **Jizvy:** Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Jizvy jsou většinou krátkodobě negativní a dlouhodobě pozitivní následky zranění v boji. Hoď si nad tabulkou jizev zde ==todo: odkaz==, kostkou, která jizvu způsobila.
 
@@ -157,7 +157,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 ### Kritické poškození
 
-- **Vyhodnocení:** Pokud udělené poškození sníží hodnotu BO cíle pod 0, přebytečné poškození je následně odečteno ze jeho SIL. Takto poškozený cíl musí následně uspět v záchraně SIL (s touhle novou hodnotou), aby se vyvaroval *kritickému poškození* a zůstal schopen boje.
+- **Vyhodnocení:** Pokud udělené poškození sníží hodnotu BO cíle pod 0, přebytečné poškození je následně odečteno z jeho relevantní dovednosti (většinou SIL). Takto poškozený cíl musí následně uspět v záchraně dané dovednosti (s touhle novou hodnotou), aby se vyvaroval *kritickému poškození* a zůstal schopen boje.
 - **Efekt kritického poškození:** V případě neúspěchu obdrží *kritické poškození*. Stvoření zasaženo kritický poškození, leží na zemi a umírá. Nemůže dělat nic jiného než jen sýpat, sápat se a velmi pomalu se plazit po zemi. Pokud takové stvoření není do hodiny stabilizováno (třeba za pomocí bandáží), zemře.
 - **Monstra:** V případě monster, znamená kritické poškození většinou smrt. Některá monstra také mají speciální schopnosti, která se projeví, když dané monstrum způsobí kritické poškození.
 
