@@ -10,7 +10,7 @@
 
 Ke hře jsou zapotřebí minimálně následující nástroje.
 
-**Deník Postavy:** Je libovolný list papíru, sešit či elektronický záznam, ve kterém jsou zapsány všechny údaje a statistiky hráčovy postavy. Pokud chcete deník postavy pro specificky tuhle verzi pravidel, můžete jej najít [zde](https://www.tkds.cz/) ==todo: fix links==.
+**Deník Postavy:** Je libovolný list papíru, sešit či elektronický záznam, ve kterém jsou zapsány všechny údaje a statistiky hráčovy postavy. Pokud chcete deník postavy pro specificky tuhle verzi pravidel, můžete jej najít [zde](https://docs.google.com/spreadsheets/d/1uAZa4CWrVsyl2LF_RfK6E02R4ydYQbxczojsxa8i4p8/edit?usp=sharing).
 
 **Tužka:** Nebo jiný způsob zapisování poznámek do deníku postavy.
 
@@ -140,7 +140,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 - **Útok:** Útočník uděluje poškození určenou kostkou poškození použité zbraně.
 - **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a musí podstoupit záchranný hod proti *kritickému poškození*.
 - **Vícenásobný útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
-- **Jizvy:** Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Jizvy jsou většinou krátkodobě negativní a dlouhodobě pozitivní následky zranění v boji. Hoď si nad tabulkou jizev zde ==todo: odkaz==, kostkou, která jizvu způsobila.
+- **Jizvy:** Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Jizvy jsou většinou krátkodobě negativní a dlouhodobě pozitivní následky zranění v boji. Hoď si nad tabulkou jizev [níže](/Zakladni_pravidla/#jizvy), kostkou, která jizvu způsobila.
 
 ### Modifikátory útoků
 

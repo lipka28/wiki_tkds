@@ -347,7 +347,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 | 1k6  | Čím se živíš?                                                |
 | :--: | ------------------------------------------------------------ |
 |  1   | Vyrábíš malá udělátka pro okolní cechy a neptáš se na moc otázek. Získáváš extra **40 šilinků** a **Plakát "Hledaný"** s tvým obličejem. S dostatkem času a materiálů dokážeš otevřít téměř libovolné dveře nebo trezor. |
-|  2   | Živíš se výrobou předmětů pro domácnosti a taháš se s nimi po celém městě. Vyber si předměty z vybavení, které dohromady nejsou dražší než 20 šilinků. ==todo: odkaz== Navíc získáváš **Kárku** (+4 sloty, neskladná, třeba táhnout v rukách). |
+|  2   | Živíš se výrobou předmětů pro domácnosti a taháš se s nimi po celém městě. Vyber si předměty z [vybavení](/Zasazení-Aldir/Vybaveni/), které dohromady nejsou dražší než 20 šilinků. Navíc získáváš **Kárku** (+4 sloty, neskladná, třeba táhnout v rukách). |
 |  3   | Byl si vojenský kovář, ale mír ti zničil živnost. Získáváš **Kovářské kladivo** (1k10, *neskladné*) a **Plechovou přilbu** (+1 Brnění). Pokud máš čas a dostatečný materiál, dokáže opravit libovolnou výzbroj. |
 |  4   | Prodáváš vzácné a kvalitní výrobky do klášterů a šlechtě. Získáváš **Dalekohled**, **Náhrdelník** (*zanedbatelný*, hodnota 20 šilinků) a **Svitek zrcadlochodectví** (*zanedbatelný*).<br /><br />**Zrcadlochodectví:** Očarované zrcadlo se stane průchodem do jiného zrcadla, které si dnes viděl. |
 |  5   | Nabízíš ochranu. Tiše dohlížejíc na obchody jiných. Získáváš extra +1k4 BO do začátku, **Dlouhý meč** (1k10, *neskladný*) a **Gambeson** (+1 brnění). |
@@ -655,7 +655,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 | :--: | ------------------------------------------------------------ |
 |  1   | **Vystupování** - Vystupování v hostincích ti vždy poskytne jídlo a nocleh, a občas si i něco vyděláš. Začínáš s extra 1k6 šilinky. |
 |  2   | **Ochrana** - Jsi ochránce těch, co se bojí cestovat sami. Získáváš **Rapír** (1k8). |
-|  3   | **Obchod** - Nakupuješ za levno a prodáváš draze. Vždy vyděláš tak akorát, aby si přežil. Získáváš libovolný předmět z běžné výbavy, který není dražší než 20 šilinků. ==todo: odkaz== |
+|  3   | **Obchod** - Nakupuješ za levno a prodáváš draze. Vždy vyděláš tak akorát, aby si přežil. Získáváš libovolný předmět z [běžné výbavy](/Zasazení-Aldir/Vybaveni/), který není dražší než 20 šilinků. |
 |  4   | **Přeprava** - Přepravuješ balíčky z místa na místo snad po celém známém světě.  V každém větším městě znáš aspoň 1 kontakt. |
 |  5   | **Přítel námořníků** - I přes nebezpečné vody a neklidné větry, vždy si námořníkům dobrou společností. Lodí vždy cestuješ zdarma. |
 |  6   | **Průvodcovství** - Doprovázíš karavany a naviguješ je obtížným terénem. Získáváš **Mapu** relevantní ke své další výpravě. |

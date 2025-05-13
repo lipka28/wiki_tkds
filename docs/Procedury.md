@@ -2,7 +2,7 @@
 
 ## Průzkum významných lokací
 
-Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významné lokace se řídí, jako všechno ostatní ve hře, základní herní smyčkou ==todo: odkaz==. Během té se hráči mohou volně pohybovat po úseku zkoumané oblasti (většinou místnost nebo na dosah pochodně či se přesunout mezi místnostmi) a provádět průzkumné akce. 
+Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významné lokace se řídí, jako všechno ostatní ve hře, [základní herní smyčkou](/Zakladni_pravidla/#hlavni-herni-smycka). Během té se hráči mohou volně pohybovat po úseku zkoumané oblasti (většinou místnost nebo na dosah pochodně či se přesunout mezi místnostmi) a provádět průzkumné akce. 
 
 - **Opatrný pohyb:** Při průzkumu nebezpečných oblastí se předpokládá, že hráčské postavy postupují pomalu a opatrně. Jakékoliv nebezpečí či smrtelné nástrahy odhalí v čas. Čím větší nebezpečí tím více zřejmé by mělo být opatrně postupujícím postavám.
 - **Neopatrný pohyb:** Mohou nastat situace, kdy se postavy opatrně nepohybují, například při útěku před nepřáteli, či úniku z hroutící se jeskyně.
@@ -23,7 +23,7 @@ Strážce může hod kostky osudu interpretovat jak si přeje, nebo si může po
 
 | 1k6  | Speciální událost                                            |
 | :--: | ------------------------------------------------------------ |
-|  1   | **Náhodné setkání** - Setkání s monstrem nebo jinou nehráčskou postavou. Může být agresivní (viz. reakce ==todo:odkaz==) |
+|  1   | **Náhodné setkání** - Setkání s monstrem nebo jinou nehráčskou postavou. Může být agresivní (viz. [reakce](/Zakladni_pravidla/#reakce)) |
 |  2   | **Ztráta nebo prostředí** - Postava ztratí zdroj světla, probíhající kouzlo je ukončeno, nepřátelský magický rituál postoupí do další fáze, země se otřese, hladina vody stoupne a podobně. |
 |  3   | **Znamení** - Náznak toho co se po oblasti pohybuje. Věci jako stopy, zápach, předchozí oběti, přibližující se zvuk kroků a podobně. |
 | 4-6  | **Nic** - Nic zajímavého se neděje. Alternativně při 6 může být pozitivní událost nebo objev. |

@@ -18,7 +18,7 @@ Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ neb
 
 ## 3. Urči svůj původ
 
-Vyber si jeden z původů v tabulce níže (nebo si hoď 1k20 pro náhodný původ). Každý původ obsahuje popis, výbavu (jak funguje inventář najdeš zde ==todo:odkaz==) a 2 tabulky extra výbavy či schopností. Nad těmito tabulkami si můžeš buď hodit nebo si s každé jednu položku vybrat.
+Vyber si jeden z původů v tabulce níže (nebo si hoď 1k20 pro náhodný původ). Každý původ obsahuje popis, výbavu (jak funguje inventář najdeš [zde](/Zakladni_pravidla/#nosnost)) a 2 tabulky extra výbavy či schopností. Nad těmito tabulkami si můžeš buď hodit nebo si s každé jednu položku vybrat.
 
 Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci se strážcem sestavit vlastní.
 
