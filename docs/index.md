@@ -28,8 +28,8 @@ Základní principy na kterých tato hra staví.
 
 **Principy:** Strážce i hráči mají k dispozici vodítka, která podporují specifický herní zážitek založený na kritickém myšlení, objevování a vznikajícím příběhu.
 
-- **Principy pro hráče:** zde ==todo: okdaz==
-- **Principy pro strážce:** zde ==todo:odkaz==
+- **Principy pro hráče:** [zde](/Player/)
+- **Principy pro strážce:** [zde](/Warden/)
 
 **Společné cíle:** Hráči by si navzájem měli důvěřovat, v následování společných cílů a společném pokoření překážek. Družina hráčských postavy by tedy měla mít vždy nějaký společný cíl. 
 
