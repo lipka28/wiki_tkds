@@ -48,7 +48,7 @@ Hráčské postavy mohou, mimo jiné, provádět následující *hlídkové akce
 
 ## Mezi dobrodružstvími
 
-Mezi dobrodružstvími (herními sezení), když se postavy nachází v dostatečném bezpečí (kdekoliv kde lze přenocovat). Mohou provádět volno-časové aktivity. Každá postava, co se nezotavuje z nějakých výjimečně těžkých zranění. Může provést *1 volno-časovou aktivitu*. Volno-časová aktivita nemůže nikdy vystavit postavu smrtelnému nebezpečí. Pokud smrtelné nebezpečí hrozí, měla by být tato aktivita předmětem dobrodružství.
+Mezi dobrodružstvími (herními sezení), když se postavy nachází v dostatečném bezpečí (kdekoliv kde lze přenocovat). Mohou provádět volno-časové aktivity. Každá postava může provést *1 volno-časovou aktivitu*. Volno-časová aktivita nemůže nikdy vystavit postavu smrtelnému nebezpečí. Pokud smrtelné nebezpečí hrozí, měla by být tato aktivita předmětem dobrodružství.
 
 **Milníky**
 
@@ -70,6 +70,12 @@ Splnění milníku často mívá asociovanou cenu. Pokud postava není schopna c
 ### Volno-časové aktivity
 
 Nejběžnější volno-časové aktivity.
+
+**Zotavení**
+
+Postava si vyléčí všechna zranění (ztracené dovednostní body) pokud dané zranění není trvalejšího charakteru nebo nepotřebuje specifickou expertízu ke správnému vyléčení.
+
+- **Léčitel:** Pokud dostupné, postava si na místo zotavení může zaplatit služby léčitele a tak uvolnit svou *volno-časovou aktivitu* pro jiné účely.
 
 **Naučit se něco nového**
 

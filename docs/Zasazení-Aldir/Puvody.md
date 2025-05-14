@@ -25,16 +25,16 @@
 Chci navíc:
 
 - (Vlastní) Arkanista ✅
-- (Vlastní) Prokletý -> Druh prokletí (vlkodlak, upír atd) ⚠️ ==todo==
-- (Vlastní) Akolyta -> Pod jakým mistrem studoval ⚠️ ==todo==
-- (Vlastní) Nomád -> Postavení v kmeni ⚠️ ==todo==
+- (Vlastní) Prokletý ✅
+- (Vlastní) Akolyta ✅
+- (Vlastní) Divoch -> ✅
 - (Vlastní) Velkomocný  -> Mutace + power ⚠️ ==todo==
 
 <img src="/assets/sep_line.png"/>
 
-## Akolyta ==todo: dodělat==
+## Akolyta
 
-*asd*
+*Jsi oddaným služebníkem církve. Odpouštíš hříchy a provádíš náboženské rituály. Když je třeba potrestáš i nějakého toho hříšníka. To, že bohové opustili tento svět neznamená, že jejich učení má být zapomenuto.*
 
 **Počáteční výbava:** 
 
@@ -42,28 +42,32 @@ Chci navíc:
 - Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
+- Palcát (1k6)
+- Kniha modliteb
+- Symbol církve (*zanedbatelný*)
+- Léčivé obvazy (3 použití, stabilizuje, léčí 1 SIL)
 
 **Strážce:**
 
-| 1k6  | Před kterým strážcem si složil svou přísahu? |
-| :--: | -------------------------------------------- |
-|  1   | Alamar (Ochránce) ???                        |
-|  2   | Amorundur (Cestovatel)                       |
-|  3   | Luménie (Paní světla)                        |
-|  4   | Matka noci (Neznámá)                         |
-|  5   | Noadhir (Drak)                               |
-|  6   | Tera (Všematka)                              |
+| 1k6  | Před kterým strážcem si složil svou přísahu?                 |
+| :--: | ------------------------------------------------------------ |
+|  1   | Alamar (Ochránce). Přísahal si Alamarovi, že budeš ochráncem pravdy a spravedlnosti. Na důkaz této přísahy nosíš **Štít** (+1 Brnění), který nedáš nikdy z ruky. |
+|  2   | Juna (Léčitelka). Přísahal si léčitelce, že vždy pomůžeš zraněným a nemocným. Máš výjimečný talent pro léčitelství. Kdykoliv provádíš nějkou léčbu, její efekt je navýšen o +1 (Například z vyléčených 1 SIL se stane 2 SIL). |
+|  3   | Amorundur (Cestovatel). Přísahal si Amorundurovi, že vždy pomůžeš ztracenému hledajíc cestu. Zkrátíš každou cestu mezi body o 1 hlídku (minimum 1 hlídka). |
+|  4   | Umdur (Válečník). Přísahal si Umdurovi, že vždy budeš bojovat čestně a bez použití lsti. Na znamení své přísahy nosíš **Kopí**(1k8). |
+|  5   | Tera (Všematka). Přísahal si Teře, že budeš ochráncem přírody a nebudeš brát její dary na lehkou váhu. Když se zúčastníš *hlídkové akce zásobování*. Mimo standardního bonusu, posílíš hod na získané zásoby o *+1k4*. |
+|  6   | Neznámý. Přísahal si neznámému, že ochráníš všechna jeho tajemství a že nenecháš trpět umírajícího. Získáváš **Knihu tajemství** (1 použití, *Dobíjení:* Poznač do knihy cenné tajemství). Kniha obsahuje pravdivou odpověď na libovolnou otázkou (nedokáže předvídat budoucnost ani popisovat aktuálně se dějící události). |
 
 **Cetka:**
 
-| 1k6  | Jakou cetku sis nechal jako vzpomínku na svůj předešlí život? |
-| ---- | ------------------------------------------------------------ |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
+| 1k6  | Co je tvou vzpomínkou na předešlý život?                     |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Psací potřeby a pergamen** (6 použití) - Jako vzpomínka na tvou profesi písaře. |
+|  2   | **Zlodějské náčiní** (6 použití) - Jako vzpomínka na tvou profesi zámečníka. |
+|  3   | **Pouta** - Jako vzpomínka na tvou profesi vězeňského strážného. |
+|  4   | **Rybářský prut** - Jako vzpomínka na tvou profesi rybáře.   |
+|  5   | **Šicí potřeby** (6 použití) - Jako vzpomínka na rvou profesi ševce. |
+|  6   | **Kvalitní víno** (Cena: 50 šilinků) - Jako vzpomínka na tvé dny obchodování s vínem. |
 
 <img src="/assets/sep_line.png"/>
 
@@ -117,7 +121,6 @@ Chci navíc:
 - Pochodeň (3 použití)
 - Magická kniha (viz tabulka níže)
 - Dřevěná hůl (1k6, *neskladná*)
-- Svitek (*zanedbatelný*, **Převlek:** Změň vzhled humanoidního stvoření libovolným způsobem. Musí však zůstat humanoidním stvořením. Pokusy o napodobení specifických subjektů budou vždy trochu nedokonalé.)
 - špičatý klobouk (*zanedbatelný*)
 
 **Nepovedený výzkum:**
@@ -144,9 +147,9 @@ Chci navíc:
 
 <img src="/assets/sep_line.png"/>
 
-## Divoch ==todo: dodělat==
+## Divoch
 
-*asd Seveřan*
+*Pocházíš s izolovaných divokých kmenů, kde kmen znamená více než rodina a slovo náčelníka je zákon. Jsi mistrem přežití v divočině a extrémně nebezpečným válečníkem.*
 
 **Počáteční výbava:** 
 
@@ -154,19 +157,31 @@ Chci navíc:
 - Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
+- Pokreslené sekery (1k6+1k6, *neskladné*)
+- Hadry ze zvířecích kůží (1 Brnění, *neskladné*)
+- Kostěný nůž na stahování z kůží (1k6)
 
-**Pozice v kmeni:**
+**Kmen:**
 
-| 1k6  | Jaká byla tvá pozice v kmeni? |
-| :--: | ----------------------------- |
-|  1   |                               |
-|  2   |                               |
-|  3   |                               |
-|  4   |                               |
-|  5   |                               |
-|  6   |                               |
+| 1k6  | K jakému kmeni patříš?                                       |
+| :--: | ------------------------------------------------------------ |
+|  1   | Kmen Zběsilého Divočáka. Aldirský kmen válečníků známý především svou divokostí. Kdykoliv v boji obdržíš poškození do SIL. Tvůj další útok na blízku v daném boji bude posílen o +1k12. |
+|  2   | Kmen Zlovlka. Severský kmen specializovaný na chov a trénink zlovlků. Získáváš **Osedlaného Zlovlka** (8 BO, 14 SIL, 12 HBI, 8 VUL, kousnutí (1k10), lze na něm jezdit, +2 sloty). Poslouchá tě na slovo. |
+|  3   | Kmen Medvědice.  Aldirský kmen extrémně silných divoký žen. Tvá SIL je o 2 vyšší. |
+|  4   | Kmen Pouštního hada. Jižanský kmen rudo-kožců žijící v poušti Vyprahlině. Jsi zvyklý na horko a pohyb písčitým terénem. Veškeré obdržené ohnivé poškození je o 1 stupeň nižší (1k8 -> 1k6 atd.) |
+|  5   | Kmen Sněžného leoparda. Severský kmen žijící v Ledových pláních. Jsi zvyklý na zimu a pohyb zasněženým nebo ledovým terénem. Veškeré obdržené mrazivé poškození je o 1 stupeň nižší (1k8 -> 1k6 atd.) |
+|  6   | Kmen Havrana. Tajemný kmen žijící v severních lesích. Získáváš **Přívěšek Havrana**. Vyvolá spirituálního havrana černého jako noc. Ten následuje tvé příkazy jak nejlépe mu jeho fyzická forma umožňuje. Pokud obdrží poškození rozplyne se a dané poškození je přeneseno na tebe ve formě ztráty SIL. |
 
-asd
+**Památka:**
+
+| 1k6  | Jakou památku na svůj kmen sis odnesl?                       |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Vachrlatý luk** (1k6, střela vyžaduje obě ruce i když není neskladný) - Improvizovaný luk vyrobený pro lehčí lov zvěře. Pokud se rozbije, víš jak si vyrobit nový. |
+|  2   | **Jizva na obličeji** -  Při duelu o post nového náčelníka si byl poražen a nechán na pospas divočině. Překvapivě si ale přežil. Získáváš extra +1k4 BO a nehynoucí chuť po odplatě. |
+|  3   | **Přilba z lebky bestie** (+1 Brnění) - Přilba z lebky obřího divokého zvířete, které zabilo tvého blízkého. |
+|  4   | **Trauma** - Z rituálu dospělosti v jehož průběhu si utekl. Třeba jednou najdeš odvahu jej dokončit a získáš zpět svou ztracenou čest. |
+|  5   | **Podivná flétna** - Kterou si ukradl šamanovi svého kmene. Hraje hezky, ale máš podezření, že má i jiné využití. |
+|  6   | **Popel kmenového staršího** - Jeho poslední přání bylo, aby byly jeho ostatky rozsypány na vrcholu světa. Zapřísáhl ses, že mu tohle poslední přání splníš. |
 
 <img src="/assets/sep_line.png"/>
 
@@ -231,7 +246,7 @@ asd
 | 2    | Jedna tvá **noha** je převážně kovová (kopanec, 1k6). To ti umožně lehčí průchod některými druhy obtížného terénu. Tvá noha potřebuje každodenní mazání jinak bude hlasitě vrzat a způsobovat ti *vyčerpání*. Na tuto údržbu navíc získáváš **Lampový olej** (6 použití). |
 | 3    | Seřízl sis jeden svůj **prst** a na jeho konec zabudoval soket z kovu a zlata. Získáváš navíc 2 **násady** (*zanedbatelný*), které do tohohle soketu můžeš zasadit. Jedna je **Hák** a druhá **Šroubovák**. |
 | 4    | Obě tvé **uši** jsou chirurgicky vylepšené, efektivně ztrojnásobujíc tvůj sluch. Můžeš se soustředit na specifické zvuk (jako je třeba konverzace) a bez problému jej slyšet i na velkou vzdálenost. Na ochranu tvého citlivého sluchu nosíš **Klapky na uších** (*Zanedbatelný*), ale i tak vystavení velmi hlasitým zvukům vyžaduje záchranu VUL jinak ti způsobí dočasnou paralýzu. |
-| 5    | Tvá **hruď** je pokryta alchymistickými symboly, které zpevňují tvou kůži (1 Brnění). Nošení jakéhokoliv kovového brnění tento efekt vyruší. |
+| 5    | Tvá **hruď** je pokryta alchymistickými symboly, které zpevňují tvou kůži (+1 Brnění). Nošení jakéhokoliv kovového brnění tento efekt vyruší. |
 | 6    | Jedna tvá **paže** je plně mechanická a dá se v rameni oddělit od tvého těla. Lze ji použít jako zbraň (1k8, *zanedbatelná*, *neskladná* pokud oddělena od těla) a pokud na ni vidíš, dokážeš ji ovládat i oddělenou od těla. |
 
 **Nepostradatelný nástroj:**
@@ -427,7 +442,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 |  2   | Dav zbožňoval tvou chytlavou píseň o šlechtici a jeho neúspěšných milostných záletech. Získáváš **Grimoár** s kouzlem *Čtení myšlenek* (*Charakter:* Dlouhodobé používání způsobuje pletení vlastních a cizích myšlenek).<br /><br /> **Čtení myšlenek:** Můžeš slyšet povrchové myšlenky blízkých stvoření. |
 |  3   | Debutové vystoupení s tvou novou skladbou. Dohnalo publikum k nesmyslnému žvatlaní o jasně svítivých bytostech, přicházející z nočního nebe. Později sis všiml, že noty této kompozice, trochu vypadají jako hvězdné konstelace. Získáváš **Knížku o astronomii** a spoustu otázek. |
 |  4   | Zesměšnil si zapomenutého boha srandy, který tě za trest proklel. Dokážeš mluvit pouze v perfektním rýmu. Což z tebe ironicky udělalo ještě populárnějšího kejklíře. Získáváš **Slovník synonym** (20 šilinků). Bez něj si *vyčerpaný*. |
-|  5   | Při nehodě na pódiu si byl zraněn. Avšak publikum si myslelo, že je to součástí vystoupení a sklidil si za to bouřlivý potlesk.  Získáváš **Ošuntělý kyrys** (1 Brnění), vzpomínkovou jizvu a hrůzu z potlesku. |
+|  5   | Při nehodě na pódiu si byl zraněn. Avšak publikum si myslelo, že je to součástí vystoupení a sklidil si za to bouřlivý potlesk.  Získáváš **Ošuntělý kyrys** (1 Brnění, *neskladný*), vzpomínkovou jizvu a hrůzu z potlesku. |
 |  6   | Tvé loutkařství bylo tak dokonalé, že si byl prohlášen za černokněžníka / čarodějnici a vyhnán z vesnice. Získáváš **Podivnou loutku** a **Lebku zajíce** (*zanedbatelná*), která chrání před prokletím. |
 
 **Cetka:**
@@ -467,7 +482,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 | :--: | :----------------------------------------------------------- |
 |  1   | Unesená zvířata. Kult pokoušející se vyvolat nebezpečnou magickou bytost. Unášel zvířata z blízké vesnice, aby je obětoval při svých rituálech. Rozprášením tohoto kultu a záchrannou zvířat jsi si vysloužil oddanost jednoho toulavého **Loveckého psa** (4 BO, 10 SIL, 14 HBI, 6 VUL, Kousnutí (1k8)) |
 |  2   | Zmizelé děti. Organizovaná zločinecká skupina v Praagu si myslela, že může bez trestně unášet mladé dívky. Na jejich metodách ani záměrech nebylo vůbec nic magického. Ale aspoň ses pocvičil v boji. Navyš své BO o *1k4*. |
-|  3   | Měňavec, který se pokusil nahradit senátora Wulfa. Získáváš **Ladičku odmaskování** (1 použití, *Dobíjení:* Musí být rozžhavena a srovnána velmi šikovným kovářem), Rozeznění ladičky naruší všechny iluze a přeměny v blízkém okolí. Přeměněná stvoření se, po dobu vibrování ladičky, vrátí do své originální podoby. |
+|  3   | Měňavec, který se pokusil nahradit senátora Wulfa. Získáváš **Ladičku odmaskování** (2 použití, *Dobíjení:* Musí být roztavena a znovu ukována, pokaždé hoď 1k6 při 1 - 2 je navždy zničená), Rozeznění ladičky naruší všechny iluze a přeměny v blízkém okolí. Přeměněná stvoření se, po dobu vibrování ladičky, vrátí do své originální podoby. |
 |  4   | Upír vydávajíc se za žebráka v malém přímořském městě. Získáváš **Sluneční tyč** (1 použití, *Dobíjení:* Nechej na silném slunečním světle celý den) - Poskytuje spoustu slunečního světla a tepla podobu až 1 hodiny. |
 |  5   | Ohnivý elementál rozsévající chaos v pohraničí. Získáváš **Hasící kámen** (2 použití), zabalený v pytlovině. Vystavení vzduchu uhasí všechny plameny v blízkém okolí. |
 |  6   | Kurolišek ohrožoval dobytek v Senoseších. Získáváš **Mast z baziliščí krve** (3 použití). Zvrátí efekty zkamenění. |
@@ -496,7 +511,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
 - Plachta (ukryje 1 stvoření)
-- Kožešinové brnění (1 Brnění)
+- Kožešinové brnění (1 Brnění, *neskladné*)
 - Krátký meč (1k6)
 - Past na medvědy (Způsobuje ztrátu 1k6 SIL)
 
@@ -536,7 +551,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 - Pochodeň (3 použití)
 - Luk (dle tabulky níže)
 - Zubatý nůž (1k6)
-- Zbroj z vařené kůže (1 Brnění)
+- Zbroj z vařené kůže (1 Brnění, *neskladné*)
 - Mast z živého kořene (1 použití, vyléčí 1k4 SIL)
 
 **Získání luku:**
@@ -545,10 +560,10 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 | :--: | ------------------------------------------------------------ |
 |  1   | Válka. Poku jsi v boji první na tahu (součást první skupiny). Tvůj luk získá vlastnost *plošné* během tvého prvního tahu. |
 |  2   | Sokolnictví. Máš **Sokola** (3 BO, 5 SIL, 16 HBI, 4 VUL, klování a škrábání (1k6)). Živý se pouze zvěřinou. |
-|  3   | Lov. ==todo: dodělat po wilderness procedure==               |
+|  3   | Lov. Když se zúčastníš *hlídkové akce zásobování*. Mimo standardního bonusu, posílíš hod na získané zásoby o *+1k6*. |
 |  4   | Turnaj. Pokud se tvůj cíl nemůže hýbat tvůj útok lukem je *posílen* o kostku poškození luku. |
 |  5   | Trénink. Poku jsi v boji první na tahu (součást první skupiny). Všechny útoky na blízku proti tobě jsou *oslabeny*. Platí do konce boje nebo dokud neobdržíš poškození do SIL. |
-|  6   | Průzkumnictví. ==todo: dodělat po wilderness procedure==     |
+|  6   | Průzkumnictví. V případě boje nemusíš házet na záchranu HBI. Díky své ostražitosti jsi vždy první na tahu. |
 
 **Luk:**
 
@@ -557,7 +572,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 |  1   | **Luk ze západního tisu** (1k6, *neskladný*, hlasitý) - Lze použít jako zbraň na blízku působící 1k6 poškození. |
 |  2   | **Luk z krvavého dubu** (1k8, *neskladný*) - Má obrovský tah. Při způsobení *kritického poškození* je cíli něco urváno. |
 |  3   | **Luk z kamenné borovice** (1k6, *neskladný*) - Produkuje 1 použití **lepivé smůly** za den. Tato smůla je vysoce výbušná. |
-|  4   | **Luk z bílého jasanu** (1k6, *neskladný*) - Při boji na blízko může být použit jako štít poskytující +1 Brnění. |
+|  4   | **Luk z bílého jasanu** (1k6, *neskladný*) - Při boji na blízko funguje jako štít poskytující +1 Brnění. |
 |  5   | **Luk z pruhovaného bambusu** (1k6) - Skládací, takže zabírá jen 1 slot. Stále vyžaduje 2 ruce k používání. |
 |  6   | **Luk z melebonského jilmu** (1k6, *neskladný*) - Pokud držen v ruce, ochraňuje nositele před jedy a jinými toxiny. |
 
@@ -601,7 +616,7 @@ Poslední získaná arkana
 
 | 1k6  | Tvůj poslední nepovedený podvod?                             |
 | :--: | ------------------------------------------------------------ |
-|  1   | Tví "pacienti" se stále zázračně uzdravovali, i když si nikdy medicíně nějak nerozuměl. Získáváš **Léčivé obvazy** (3 použití, stabilizuje, léčí 1 SIL 1x denně) a talent pro medicínu. |
+|  1   | Tví "pacienti" se stále zázračně uzdravovali, i když si nikdy medicíně nějak nerozuměl. Získáváš **Léčivé obvazy** (3 použití, stabilizuje, léčí 1 SIL) a talent pro medicínu. |
 |  2   | Poté co si svedl bohatého patrona / patronku. Jeho / její rodina si najala gang, aby tě zřídil. Musíš se skrývat a získáváš **Mastičku krásy** (2 použití). Po aplikaci se staneš neodolatelně krásný na následujících 12 hodin. |
 |  3   | Byl jsi překupníkem falešných proroctví. Jedno z tvých proroctví se však ukázalo pravdivé, což přitáhlo nechtěnou pozornost. Pokud ti strážce dal k dispozici tabulku *Znamení*, hoď si nad ní a výsledek si nech pro sebe. Navíc získáváš **Schovaný nůž** (1k6, *zanedbatelný*). |
 |  4   | Tvá poslední eskapáda zničila artefakt nevyčíslitelné hodnoty a vážně zranila několik kolemjdoucích. Získáváš **Uniformu kapitána stráží** (*zanedbatelný*), **Ceremoniální meč** (neškodný, 60 šilinků) a **Buket květin**. |
@@ -662,9 +677,9 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 
 <img src="/assets/sep_line.png"/>
 
-## Prokletý ==todo: dodělat==
+## Prokletý
 
-*asd*
+*Kdysi jsi býval poměrně úspěšný dobrodruh, tvá ctižádostivost tě nakonec doběhla. Jsi jen zlomkem své předchozí slávy, sžírán prokletím, které ti komplikuje život.*
 
 **Počáteční výbava:** 
 
@@ -672,19 +687,32 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 - Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
+- Provaz (5 metrů)
+- Bambitka (1k10 poškození, náchylné na vodu a oheň, přebíjí se 1 kolo)
+- Čistící sada na křesadlové zbraně (6 použití)
+- Kožené rukavice (*zanedbatelné*)
 
 **Prokletí:**
 
-| 1k6  | Jaké prokletí tě postihlo? |
-| :--: | -------------------------- |
-|  1   | Upír                       |
-|  2   | Vlkodlak                   |
-|  3   |                            |
-|  4   |                            |
-|  5   |                            |
-|  6   |                            |
+| 1k6  | Jaké prokletí tě postihlo?                                   |
+| :--: | ------------------------------------------------------------ |
+|  1   | Jsi **Nižší forma upíra**. Trpíš běžnými slabostmi upírů jako jsou tekoucí voda, česnek či sluneční svit (Způsobuje 0 BO a *vyčerpání*). Běžné jídlo a pití tě nezasytí. Můžeš zaútočit kousnutím (1k8). Pokud tímto útokem způsobíš zranění teplokrevnému stvoření, doplníš si 1k6 BO (Nemůžeš přesáhnout své maximum). Každý den musíš vysát aspoň 1 středně velké stvoření, jinak jsi *vyčerpaný*. |
+|  2   | Jsi prokletý vlkodlak. Pokud se tě dotkne svit měsíce musíš uspět v záchraně VUL jinak ztratíš nad sebou kontrolu a proměníš se ve **Vlkodlaka** (8 BO, 15 SIL, 14 HBI, drápy (1k6+1k6) nebo kousnutí (1k8)). VUL zůstává tvá. Proměníš se zpět s koncem noci nebo pokud jsi poražen. |
+|  3   | Máš smůlu. Pokud dojde na *hod kostkou osudu*, který se týká tebe nebo skupiny, které jsi členem. Výsledek je vždy brán jako o 1 horší. Už mnohokrát si uvažoval, že ti to za to nestojí. Získáváš navíc **Lahvičku jedu** (1 použití). Po konzumaci stvoření o velikosti člověka do hodiny zemře. |
+|  4   | Ztráta řeči. Nejsi schopen ze sebe vydat ani hlásku. Proto preferuješ jiné způsoby komunikace. Získáváš navíc **Psací potřeby a pergamen** (6 použití) |
+|  5   | Postrach zvěře. Zvířata menší jak ty, se tě bojí. Zvířata stejně velká jako ty nebo větší tě nenávidí. |
+|  6   | Lepivý sliz. Jsi neustále oslizlý a lepivý. Za den vyprodukuješ až 2 použití **Lepivého slizu**. Funguje jako vysoce kvalitní lepidlo, které dokáže slepit v podstatě cokoliv. |
 
-asd
+Zdroj prokletí:
+
+| 1k6  | Co bylo zdrojem tvého prokletí                               |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Démon** - Vyhandloval si s démonem **nesmrtelnost**, ale za jakou cenu? Nestárneš ale stále se můžeš zranit a cítíš bolest. Nikdy však nezemřeš pokud po tobě zbude aspoň hlava (nemusí být v dokonalém stavu). Léčíš si 1 SIL denně. Chybějící části těla ti však nedorůstají. |
+|  2   | **Prokleté chrániče zápěstí** (+1 Brnění, *neskladné* pokud neoblečeny) - Tyto chrániče jsou k tobě vázány tvou kletbou a nelze je sundat. |
+|  3   | **Peníze** - Získal jsi velký pirátský poklad (1000 šilinků). Když jsi většinu rozfofroval. Došlo ti, že jsi prokletý. Zbývá ti ještě **200 prokletých šilinků**. |
+|  4   | **Grimoár rozkaž!** (*Osobnost:* S každým použitím je tenčí a tenčí až jednou prostě zmizí (50 použití)) - Cíl uposlechne jeden příkaz ne delší jak 3 slova, který mu neublíží. <br /> <br />Tento grimoár je zdrojem tvého prokletí. Ale kdo ví co by se stalo, kdyby si o něj přišel? |
+|  5   | **Jiný prokletý** - Nakazil tě jiný prokletý. Tvé prokletí je infekční. |
+|  6   | **Významné společenství** - Přidal si se k jednomu tajnému elitnímu společenství. Tvé prokletí bylo podmínkou pro vstup. **Získáváš Pečetící prsten spolku** (*zanedbatelný*) |
 
 <img src="/assets/sep_line.png"/>
 
@@ -718,9 +746,8 @@ asd
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
 - Dva nože (1k6+1k6, *neskladné*)
-- Vycpávaná zbroj (1 Brnění)
+- Vycpávaný černý oblek (+1 Brnění)
 - Zlodějské náčiní (6 použití)
-- Černý oblek (*zanedbatelný*)
 
 **Prácička:**
 

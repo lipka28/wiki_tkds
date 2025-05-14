@@ -78,7 +78,7 @@ Záchranný hod je hod kostkou za účelem vyvarování se negativním následk�
 
 ### Kostka osudu
 
-Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se na jeho výsledek zeptat kostky kostky osudu.
+Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se na jeho výsledek zeptat kostky osudu.
 
 - **Hod K6:** Výsledky *>=4* jsou obecně prospěšnější pro hráče. Zatím co výsledky *<=3* jsou pro hráče spíše nepříznivé. 
 
@@ -86,7 +86,7 @@ Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se n
 
 - **Body obrany (BO):** Každé stvoření disponuje body obrany. Které schopnost vyvarovat se zranění v boji.
 - **Odpočinek:** Krátký odpočinek a napití se vody doplní stvoření všechny jeho *body obrany*. Předměty jako jsou třeba náplasti mohou během odpočinku stabilizovat umírající postavy.
-- **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny týdenním odpočinkem, léčitelem či jiným vhodným zdrojem potřebné expertízy.
+- **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny jako volno-časová aktivita nebo rychleji zaplacením léčitele či jiným vhodným zdrojem potřebné expertízy.
 - **Cena léčení:** Běžné léčení, které trvá je většinou zdarma avšak rychlé nebo třeba magické zdroje léčení či jiná specializovaná léčba může něco stát.
 
 ### Nosnost
@@ -132,8 +132,8 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 - **Deklarace:** Každý hráč na tahu, deklaruje co chce v daném tahu provádět, strážce si to poznačí a následně vyhodnotí všechny tahy hráčů na jednou.
 - **Aktivity během tahu:** Stvoření během svého tahu může provést akci a přesunout se až o *10 metrů*. Všechny postavy musí své tahy deklarovat předem a ty jsou společně vyhodnoceny v jednu chvíli.
-- **Akce:** Za akci lze považovat útok, seslání kouzla, dalších až 8 metrů pohybu a nebo jiná smysluplná akce. Pokud je daná akce riskantní, strážce si může vyžádat hod na záchranu relevantní dovednosti nebo hodit na na záchranu relevantní dovednosti za ovlivněné stvoření.
-- **Drobné akce:** Hráči mohou na místo pohybu provádět drobné akce (jako třeba výměna zbraní).
+- **Akce:** Za akci lze považovat útok, seslání kouzla, dalších až 8 metrů pohybu a nebo jiná smysluplná akce. Pokud je daná akce riskantní, strážce si může vyžádat hod na záchranu relevantní dovednosti nebo hodit na záchranu relevantní dovednosti za ovlivněné stvoření.
+- **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy či drobné interakce s prostředím (jako je třeba otevírání a zavírání dveří) 
 
 ### Útok a poškození
 

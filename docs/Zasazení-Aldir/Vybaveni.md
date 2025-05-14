@@ -1,4 +1,4 @@
-# Vybavení, nosnost a ceny služeb
+# Vybavení
 
 <img src="/assets/sep_line.png"/>
 
@@ -61,7 +61,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Kovový ježci (1 použití)                                     |  10 ši |
 | Křída (*zanedbatelné*)                                       |   1 ši |
 | Lampový olej (6 použití)                                     |  15 ši |
-| Léčivé obvazy (3 použití, stabilizuje, léčí 1 SIL 1x denně)  |  30 ši |
+| Léčivé obvazy (3 použití, stabilizuje, léčí 1 SIL)           |  30 ši |
 | Lucerna                                                      |  10 ši |
 | Motouz (10 metrů)                                            |   2 ši |
 | Nádoba (jako měch na vodu, pytel či lahvička se zátkou)      |   5 ši |
