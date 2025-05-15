@@ -20,9 +20,20 @@ Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ neb
 
 Vyber si jeden z původů v tabulce níže (nebo si hoď 1k20 pro náhodný původ). Každý původ obsahuje popis, výbavu (jak funguje inventář najdeš [zde](/Zakladni_pravidla/#nosnost)) a 2 tabulky extra výbavy či schopností. Nad těmito tabulkami si můžeš buď hodit nebo si s každé jednu položku vybrat.
 
-Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci se strážcem sestavit vlastní.
+Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci se strážcem sestavit vlastní původ nebo některý z existujících původů upravit.
 
-==todo: tabulka původů==
+| 1k20 |                      Původ                       | 1k20 |                            Původ                             |
+| :--: | :----------------------------------------------: | :--: | :----------------------------------------------------------: |
+|  1   |    [Akolyta](/Zasazení-Aldir/Puvody/#akolyta)    |  11  |          [Kejlkíř](/Zasazení-Aldir/Puvody/#kejklir)          |
+|  2   | [Alchymista](/Zasazení-Aldir/Puvody/#alchymista) |  12  | [Lamačský inkvizitor](/Zasazení-Aldir/Puvody/#lamacsky-inkvizitor) |
+|  3   |  [Arkanista](/Zasazení-Aldir/Puvody/#arkanista)  |  13  |            [Lovec](/Zasazení-Aldir/Puvody/#lovec)            |
+|  4   |     [Divoch](/Zasazení-Aldir/Puvody/#divoch)     |  14  |        [Lukodivec](/Zasazení-Aldir/Puvody/#lukodivec)        |
+|  5   |  [Dítě lesa](/Zasazení-Aldir/Puvody/#dite-lesa)  |  15  |         [Ochránce](/Zasazení-Aldir/Puvody/#ochrance)         |
+|  6   |     [Felčar](/Zasazení-Aldir/Puvody/#felcar)     |  16  |        [Podvodník](/Zasazení-Aldir/Puvody/#podvodnik)        |
+|  7   |   [Historik](/Zasazení-Aldir/Puvody/#historik)   |  17  |     [Potulný bard](/Zasazení-Aldir/Puvody/#potulny-bard)     |
+|  8   |   [Hraničář](/Zasazení-Aldir/Puvody/#hranicar)   |  18  |         [Prokletý](/Zasazení-Aldir/Puvody/#proklety)         |
+|  9   |     [Hrnčíř](/Zasazení-Aldir/Puvody/#hrncir)     |  19  |       [Velkomocný](/Zasazení-Aldir/Puvody/#velkomocny)       |
+|  10  |    [Hrobník](/Zasazení-Aldir/Puvody/#hrobnik)    |  20  |       [Zlodějíček](/Zasazení-Aldir/Puvody/#zlodejicek)       |
 
 ## 4. Dodělej detaily
 

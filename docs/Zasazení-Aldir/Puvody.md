@@ -589,11 +589,34 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 - *3k6* šilinků
 - Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
 - Zásoby (3 použití)
-- Pochodeň (3 použití)
+- Lucerna
+- Lampový olej (6 použití)
+- Zbraň (Viz tabulka níže)
+- Provaz (5 metrů)
+- Řetízek ochránců (*zanedbatelné*)
+- Léčivé obvazy (3 použití, stabilizuje, léčí 1 SIL)
 
-Osobní kód, kterým se řídíš při misích pro cech?
+**Mise:**
 
-Poslední získaná arkana
+| 1k6  | Jaká byla tvá poslední mise pro cech? |
+| :--: | ------------------------------------- |
+|  1   | Escort (you got a horse)              |
+|  2   |                                       |
+|  3   |                                       |
+|  4   |                                       |
+|  5   |                                       |
+|  6   |                                       |
+
+**Zbraň:**
+
+| 1k6  | Tvá preferovaná zbraň?   |
+| :--: | ------------------------ |
+|  1   | Bow                      |
+|  2   | Great sword              |
+|  3   | Axe and shield           |
+|  4   | Musket                   |
+|  5   | Sword and hand cross bow |
+|  6   | Bojová hůl               |
 
 <img src="/assets/sep_line.png"/>
 

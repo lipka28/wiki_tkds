@@ -47,7 +47,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu) |  50 ši |
 | Čistící sada na křesadlové zbraně (6 použití)                |  20 ši |
 | Dalekohled                                                   |  40 ši |
-| Dřevěná tyč - 2 metry                                        |   2 ši |
+| Dřevěná tyč (*neskladná*) - 2 metry                          |   2 ši |
 | Dýmka (*zanedbatelné*)                                       |  10 ši |
 | Hák                                                          |   5 ši |
 | Horolezecké náčiní (*neskladné*)                             |  15 ši |
