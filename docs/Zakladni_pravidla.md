@@ -34,7 +34,7 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Více kostková notace:** Pokud je vyžadován hod více kostek naráz, je počet hozených kostek indikován před *k*. Například *2k6* znamená: Hoď 2 šesti-stranné kostky a sečti výsledek.
 
-**Přičítání kostek:** Pokud efekt (většinou útok) je zapsán jako 1k8+1k8, znamení to, že hráč si na vyhodnocení hodí 2k8, ale bere jen nejvyšší výsledek z těchto dvou kostek. Stejně tak pokud efekt udává +1k12. Znamená to, že se k hodu přihodí 1k12 a opět se bere jen ten nejvyšší hod ze všech hodů.
+**Přičítání kostek:** Pokud efekt (většinou útok) je zapsán jako *1k8+1k8*, znamení to, že hráč si na vyhodnocení hodí *2k8*, ale bere jen *nejvyšší výsledek* z těchto dvou kostek. Stejně tak pokud efekt udává *+1k12*. Znamená to, že se k hodu přihodí *1k12* a opět se bere jen ten *nejvyšší hod ze všech hodů*.
 
 <img src="/assets/sep_line.png"/>
 

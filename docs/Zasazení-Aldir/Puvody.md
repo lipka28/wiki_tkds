@@ -471,7 +471,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 - Brigandina (1 brnění, *neskladná*)
 - Dlouhý meč (1k8)
 - Lamačský odznak - Dotyk způsobuje bolest magickým bytostem.
-- Rudá kápě s kapucí a maskou ve tvaru dravce (*zanedbatelné* pokud oblečené)
+- Lamačská uniforma (*zanedbatelné* pokud oblečené)
 - Alchymisticky upravené oko (*zanedbatelné*) - Lamačští inkvizitoři mají jedno alchymisticky upravené oko (odborně nazýváno Gaulosovo oko). Na tohle oko jsou efektivně slepí, dokáží ním však bez většího soustředění, vidět chaotické proudění magie a tím poznat, že jsou v blízké vzdálenosti od magie.
     - *Soustředění:* Lamač se může pokusit identifikovat vzory v těchto chaotických proudech (pokud není *vyčerpaný*) a tím si otevřít nové možnosti jako jsou například: Rozpoznání zdrojů magie i na velké vzdálenosti, prohlédnutí iluzí či neviditelnosti a nebo třeba identifikování podstaty magického efektu. Každé takové použití vyžaduje záchranu VUL. V případě neúspěchu je lamač *vyčerpaný*.
 
@@ -594,16 +594,15 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 - Zbraň (Viz tabulka níže)
 - Provaz (5 metrů)
 - Řetízek ochránců (*zanedbatelné*)
-- Léčivé obvazy (3 použití, stabilizuje, léčí 1 SIL)
 
 **Mise:**
 
 | 1k6  | Jaká byla tvá poslední mise pro cech? |
 | :--: | ------------------------------------- |
 |  1   | Escort (you got a horse)              |
-|  2   |                                       |
-|  3   |                                       |
-|  4   |                                       |
+|  2   | Chycení zloděje (coin)                |
+|  3   | Lov X                                 |
+|  4   | Lov X                                 |
 |  5   |                                       |
 |  6   |                                       |
 
