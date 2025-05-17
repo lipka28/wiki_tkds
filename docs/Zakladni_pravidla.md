@@ -140,7 +140,6 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 - **Útok:** Útočník uděluje poškození určenou kostkou poškození použité zbraně.
 - **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a musí podstoupit záchranný hod proti *kritickému poškození*.
 - **Vícenásobný útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
-- **Jizvy:** Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Jizvy jsou většinou krátkodobě negativní a dlouhodobě pozitivní následky zranění v boji. Hoď si nad tabulkou jizev [níže](/Zakladni_pravidla/#jizvy), kostkou, která jizvu způsobila.
 
 ### Modifikátory útoků
 
@@ -186,21 +185,53 @@ Velké skupiny nepřátel (jako třeba armáda zombie) nebo gigantičtí nepřá
 - **Útoky proti oddílům:** Pokud jedinec útočí na oddíl, jeho útok je považován za *oslabený*. Neplatí pro *plošné*.
 - **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok jeho útok probíhá s +1k12 a je považován za *plošné*.
 
-## Jizvy
+## Růst postav
 
-Pokud je hráčská postava zredukována *přesně na 0 BO* obdrží jizvu. Hoď si nad tabulkou níže kostkou, která jizvu způsobila. Například pokud stvoření mělo 3 BO a obdrželo 3 poškození z hodu 1k6. Tak si nad tabulkou níže hodí 1k6.
+Na místo často používané mechaniky získávání úrovní a zkušeností za zabíjení monster a získávání pokladu. Tato hra spoléhá na přirozenější vývoj postavy. Ten staví na těchto dvou základních pilířích: 
 
-| Ztráta BO | Efekt                                                        |
-| :-------: | :----------------------------------------------------------- |
-| **1 BO**  | **Jizva na památku:** Hoď *1k6* pro umístění jizvy (*1*: Krk, *2*: Ruka, *3*: Oko, *4*: Hruď, *5*: Noha, *6*: Ucho). Hoď další *1k6*. Pokud je výsledek vyšší než tvé maximální BO, tahle nová hodnota je tvým novým maximálním BO. |
-| **2 BO**  | **Otřesený:** Jsi dezorientovaný a otřesený. Popiš jak se vzpamatuješ. Hoď *1k6*. Pokud je výsledek vyšší než tvé maximální BO, tahle nová hodnota je tvým novým maximálním BO. |
-| **3 BO**  | **Odhozený:** Proletěl si se vzduchem, padl na hubu a lapáš po dechu. Jsi *vyčerpaný* dokud si aspoň pár hodin neodpočineš. Po odpočinku si hoď *1k6* a výsledek přičti ke svému maximálnímu BO. |
-| **4 BO**  | **Něco zlomeného:** Hoď *1k6* pro umístění zlomeniny (*1-2*: Noha, *3-4*: Ruka, *5*: Žebro, *6*: Lebka). Jakmile si tuhle zlomeninu zahojíš, hoď si *2k6*. Pokud je výsledek vyšší než tvé maximální BO, tahle nová hodnota je tvým novým maximálním BO. |
-| **5 BO**  | **Infekce:** Byl si vystaven nějaké příšerné infekci. Jakmile se ji zbavíš, hoď si *2k6*. Pokud je výsledek vyšší než tvé maximální BO, tahle nová hodnota je tvým novým maximálním BO. |
-| **6 BO**  | **Bolest tvrdí charakter:** Hoď *1k6* pro výběr dovednosti (*1-2*: SIL, *3-4*: HBI, *5-6*: VUL). Následně hoď *3K6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota v dané dovednosti. Vem si tuto novou hodnotu jako své nové maximum. |
-| **7 BO**  | **Přetrhané šlachy:** Dokud neobdržíš významnou lékařskou pomoc, můžeš se sotva hýbat. Poté co se tvé šlachy zahojí, hoď *3k6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota HBI. Vem si tuto novou hodnotu jako své nové maximum. |
-| **8 BO**  | **Ohluchlý:** Dokud neobdržíš významnou lékařskou pomoc, si ohluchlý. Vzápětí si hoď *1k4* a výsledek přičti ke své maximální hodnotě VUL (Max 18). |
-| **9 BO**  | **Až se ti rozsvítilo:** Něco se ti v hlavě změnilo. Hoď *3k6*. Pokud je výsledek tohoto hodu vyšší než tvá maximální hodnota VUL. Vem si tuto novou hodnotu jako své nové maximum. |
-| **10 BO** | **Zmrzačený:** Jedna s tvých končetin je urvána, useknuta nebo jinak permanentně znefunkčněna (Strážce určí která). Hoď si na záchranu VUL. Pokud uspěješ, přičti si ke svému maximálnímu VUL *1k6* (Max 18). |
-| **11 BO** | **Smrtelné zranění:** Jsi vyčerpaný, umíráš a pokud nejsi do hodiny stabilizován tak zemřeš. Po uzdravení si hoď *2k6*. Výsledek je tvým novým maximálním BO. |
-| **12 BO** | **Odsouzený k smrti:** Tento zásah tě měl rozhodně zabít, ale nějakým zázrakem si přežil. Cítíš ale, že smrt je blízko. Pokud neuspěješ ve svém dalším záchranném hodu proti *kritickému poškození* tak *zemřeš*. V opačném případě hoď *3k6*. Pokud je výsledek vyšší než tvé maximum BO, tak je tento výsledek tvým novým maximem. |
+- **Vylepšování dovedností za selhání**
+- **Růst na základě herních interakcí**
+
+### Vylepšování dovedností za selhání
+
+První mechanizmus pro postupný růst je nezávislý na okolnostech hry či kampaně samotné. 
+
+- **Získávání zkušeností:** Pokaždé, když postava selže v záchranném hodu. Přičte si *1 zkušenostní bod* do dovednosti ve které selhal. Pokud postava nasbírá *5 zkušenostních bodů* v nějaké ze svých dovedností. Těchto 5 nasbíraných zkušenostních bodů si smaže a získá "novou úroveň" dané dovednosti.
+- **Nová úroveň dovednosti:** Při získání nové úrovně, si může postava vybrat mezi *navýšením maximální hodnoty ovlivněné dovednosti* o *1* (max 20) nebo zvýšit své maximální *Body obrany (BO)* o *1*.
+
+### Růst na základě herních interakcí
+
+Hlavním a nejčastějším prostorem pro růst je interakce postavy s herním světem. Stejně jako se herní svět v průběhu kampaně rozvíjí, rozvíjí se i hráčské postavy. To může být na základě toho jak postava využije svých *volno-časových aktivit* (viz. mezi [dobrodružstvími](/Procedury/#mezi-dobrodruzstvimi)), jaká učiní rozhodnutí (například k jakým frakcím se přidá) a nebo prostě kumulativně dle toho, čemu se chce postava věnovat.
+
+#### Zásady pro růst
+
+- Růst je vždy vázán na konkrétní události ve hře, nikdy náhodný.
+- Je důležitější, aby se postava růstem stala zajímavější a ne nutně silnější.
+- Postavy nerostou jen proto, že zažili něco nového, ale především proto, že to na ně mělo nějaký trvalý dopad. 
+- Postavy by měli mít příležitosti k růstu při hře stejně tak často, jako při volno-časových aktivitách.
+- Růst by měl podbízet k dalším interakcím se světem a s jeho výzvami.
+- Růst není odměnou ale pouze logickým důsledkem akcí postavy.
+- Růst není vždy kontrolovatelný, změna může mít svou cenu a ne vžy musí být po chuti hráči, který za postavu hraje. Avšak snaha o zvrácení takových změn vede k dalšímu rozvoji příběhu a světa.
+- Arkany, poklady, frakce monstra a důležité nehráčské postavy. Poskytují výborný potenciál k nějakému tomu růstu.
+
+#### Vhodný spouštěč růstu
+
+Spouštěčem růstu může být ve směs cokoliv. Univerzálně lze však považovat za dobrý spouštěč, když postava provede nebo provádí aspoň dvě z následujících aktivit:
+
+- Konzistentní a opakované akce snažící se dosáhnout specifického cíle.
+- Podstoupení zřejmého rizika s významnými následky.
+- Pravidelná interakce s unikátním předmětem, stvořením či entitou. 
+
+#### Příklady růstu na základě herních interakcí
+
+Pár příkladů vhodného růstu (v angličtině, odkaz na stránky Cairn)
+
+- [Interakce s něčím nebo někým neznámým](https://cairnrpg.com/second-edition/wardens-guide/growth/#interacting-with-something-or-someone-they-do-not-understand)
+- [Dlouhodobá manipulace nebo vystavení se magickému grimoáru (spellbook) či arkaně (relic)](https://cairnrpg.com/second-edition/wardens-guide/growth/#long-term-exposure-or-manipulation-of-a-spellbook-or-relic)
+- [Navázání vztahu se velmi mocným stvořením](https://cairnrpg.com/second-edition/wardens-guide/growth/#forging-a-relationship-with-a-being-of-great-power)
+- [Překonání dlouhodobého soka](https://cairnrpg.com/second-edition/wardens-guide/growth/#overcoming-a-long-time-woe-misdeed-or-foe)
+- [Zranění nebo nákaza](https://cairnrpg.com/second-edition/wardens-guide/growth/#injury-or-contamination)
+- [Chybami se člověk učí](https://cairnrpg.com/second-edition/wardens-guide/growth/#learning-through-trial-and-error)
+- [Úspěch či neúspěch na vzdory přirozenému talentu](https://cairnrpg.com/second-edition/wardens-guide/growth/#success-or-failure-despite-a-natural-talent-or-ability)
+- [Postup ve frakci](https://cairnrpg.com/second-edition/wardens-guide/growth/#faction-advancement)
+- [Rozřešení vazby (bond) nebo znamení (omen)](https://cairnrpg.com/second-edition/wardens-guide/growth/#resolution-of-a-bond-or-omen)

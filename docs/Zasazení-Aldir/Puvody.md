@@ -458,7 +458,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 
 <img src="/assets/sep_line.png"/>
 
-## Lamačský inkvizitor
+## Lamačský inkvizitor ==todo: slepota na oko je nesmysl pro bojovníka==
 
 *Jsi ochránce nevinných a inkvizitorem magie. Pod záštitou řádu lamačů kouzel je tvým údělem zachraňovat Arkany ze spárů šílenců, lovit nebezpečná magická stvoření a zabraňovat zneužívání magie.*
 
