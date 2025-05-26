@@ -28,10 +28,10 @@ Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci s
 |  2   | [Alchymista](/Zasazení-Aldir/Puvody/#alchymista) |  12  | [Lamačský inkvizitor](/Zasazení-Aldir/Puvody/#lamacsky-inkvizitor) |
 |  3   |  [Arkanista](/Zasazení-Aldir/Puvody/#arkanista)  |  13  |            [Lovec](/Zasazení-Aldir/Puvody/#lovec)            |
 |  4   |     [Divoch](/Zasazení-Aldir/Puvody/#divoch)     |  14  |        [Lukodivec](/Zasazení-Aldir/Puvody/#lukodivec)        |
-|  5   |  [Dítě lesa](/Zasazení-Aldir/Puvody/#dite-lesa)  |  15  |         [Ochránce](/Zasazení-Aldir/Puvody/#ochrance)         |
-|  6   |     [Felčar](/Zasazení-Aldir/Puvody/#felcar)     |  16  |        [Podvodník](/Zasazení-Aldir/Puvody/#podvodnik)        |
-|  7   |   [Historik](/Zasazení-Aldir/Puvody/#historik)   |  17  |     [Potulný bard](/Zasazení-Aldir/Puvody/#potulny-bard)     |
-|  8   |   [Hraničář](/Zasazení-Aldir/Puvody/#hranicar)   |  18  |         [Prokletý](/Zasazení-Aldir/Puvody/#proklety)         |
+|  5   |  [Dítě lesa](/Zasazení-Aldir/Puvody/#dite-lesa)  |  15  |        [Podvodník](/Zasazení-Aldir/Puvody/#podvodnik)        |
+|  6   |     [Felčar](/Zasazení-Aldir/Puvody/#felcar)     |  16  |     [Potulný bard](/Zasazení-Aldir/Puvody/#potulny-bard)     |
+|  7   |   [Historik](/Zasazení-Aldir/Puvody/#historik)   |  17  |         [Prokletý](/Zasazení-Aldir/Puvody/#proklety)         |
+|  8   |   [Hraničář](/Zasazení-Aldir/Puvody/#hranicar)   |  18  |          [Strážce](/Zasazení-Aldir/Puvody/#strazce)          |
 |  9   |     [Hrnčíř](/Zasazení-Aldir/Puvody/#hrncir)     |  19  |       [Velkomocný](/Zasazení-Aldir/Puvody/#velkomocny)       |
 |  10  |    [Hrobník](/Zasazení-Aldir/Puvody/#hrobnik)    |  20  |       [Zlodějíček](/Zasazení-Aldir/Puvody/#zlodejicek)       |
 

@@ -1,34 +1,8 @@
-# Původy ==todo: rework==
+# Původy
 
 <img src="/assets/sep_line.png"/>
 
 <img src="/assets/Tvorba_postavy.png"/>
-
-<img src="/assets/sep_line.png"/>
-
-- Uarifex -> Alchymista ✅
-- Surgeon -> Felčar ✅
-- Bonekeeper -> Hrobník ✅
-- Cutpurse -> Zlodějíček ✅
-- Fieldwarden -> Hraničář ✅
-- Fletchwind -> Lukodivec  ✅
-- Half witch -> Dítě lesa ✅
-- (Vlastní) Lamačský inkvizitor ✅
-- Jongleur -> Kejklíř ✅
-- Kettlewright -> Hrnčíř ✅
-- Mountebank -> Podvodník ✅
-- Outrider -> Udělat vlastní "Ochránce (Cech ochránců)" ⚠️ ==todo==
-- Prowler -> Lovec ✅
-- Rill Runner -> Potulný bard ✅
-- Scrivener -> Historik ✅
-
-Chci navíc:
-
-- (Vlastní) Arkanista ✅
-- (Vlastní) Prokletý ✅
-- (Vlastní) Akolyta ✅
-- (Vlastní) Divoch -> ✅
-- (Vlastní) Velkomocný  -> Mutace + power ⚠️ ==todo==
 
 <img src="/assets/sep_line.png"/>
 
@@ -305,7 +279,7 @@ Chci navíc:
 
 *Ochránci sklizně, obrana proti škůdcům, zlodějům a šelmám. Pozice velké cti, dokud trvá. Mnozí hraničáři však dlouho nevydrží.*
 
-Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno vícekrát.
+Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jednou.
 
 **Počáteční výbava:** 
 
@@ -324,7 +298,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 | :--: | :----------------------------------------------------------- |
 |  1   | Obrovský houf havěti, který žral všechno co mu přišlo do cesty. Jak úrodu tak zvířata. Jelikož si se neměl čím bránit, tak si utekl. Získáváš **Výtažek z květu Rychlonožky** (3 použití). Pozření ti umožňuje se pohybovat až 4x své hybnosti. Jakmile efekt vyprchá, přičti si *bod únavy*. |
 |  2   | Posvátný duch úrody, rozzuřen nevhodnou obětí. Téměř všechno lehlo plamene. Z popele si byl schopen posbírat pytlík **Ohnivých semen** (1k8, *plošné*, 4 použití). |
-|  3   | Málem tě zabil parohatý démon se zuby jako bodáky. Získáváš **Zakrvácený nůž z kosti** (1k6). Při způsobení *kritického poškození* je další útok tímto nožem *posílen* (díky kontaktu s krví). |
+|  3   | Málem tě zabil parohatý démon se zuby jako bodáky. Získáváš **Zakrvácený nůž z kosti** (1k6). Při způsobení *kritického poškození* je další útok tímto nožem posílen o +1k12 (díky kontaktu s krví). |
 |  4   | Hnilosmrt, Typ hniloby, která se nenápadně plíží od kořene. Získáváš **Nakažená úroda** (6 použití). Rozdrcení na žijící rostlinu způsobí, že rostlina uhnije. |
 |  5   | Vlci, nebo aspoň sis myslel, že to jsou vlci. Jsi **Vlkodlak** (8 BO, 15 SIL, 14 HBI, drápy (1k6+1k6) nebo kousnutí (1k8)). VUL zůstává tvá. Můžeš se proměnit kdy chceš, ale pokud se chceš proměnit zpátky do normální podoby, musíš uspět v záchranně VUL. Kdokoliv kdo přežije tvůj útok musí uspět v záchranně VUL jinak se od tebe nakazí. |
 |  6   | Zloději úrody. Ne všichni přežili ale i tak jich na tebe bylo moc. Začínáš s  **+1k4 BO** a **Zahnutým mečem** (1k8) |
@@ -363,7 +337,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 | :--: | ------------------------------------------------------------ |
 |  1   | Vyrábíš malá udělátka pro okolní cechy a neptáš se na moc otázek. Získáváš extra **40 šilinků** a **Plakát "Hledaný"** s tvým obličejem. S dostatkem času a materiálů dokážeš otevřít téměř libovolné dveře nebo trezor. |
 |  2   | Živíš se výrobou předmětů pro domácnosti a taháš se s nimi po celém městě. Vyber si předměty z [vybavení](/Zasazení-Aldir/Vybaveni/), které dohromady nejsou dražší než 20 šilinků. Navíc získáváš **Kárku** (+4 sloty, neskladná, třeba táhnout v rukách). |
-|  3   | Byl si vojenský kovář, ale mír ti zničil živnost. Získáváš **Kovářské kladivo** (1k10, *neskladné*) a **Plechovou přilbu** (+1 Brnění). Pokud máš čas a dostatečný materiál, dokáže opravit libovolnou výzbroj. |
+|  3   | Byl si vojenský kovář. Získáváš **Kovářské kladivo** (1k10, *neskladné*) a **Plechovou přilbu** (+1 Brnění). Pokud máš čas a dostatečný materiál, dokáže opravit libovolnou výzbroj. |
 |  4   | Prodáváš vzácné a kvalitní výrobky do klášterů a šlechtě. Získáváš **Dalekohled**, **Náhrdelník** (*zanedbatelný*, hodnota 20 šilinků) a **Svitek zrcadlochodectví** (*zanedbatelný*).<br /><br />**Zrcadlochodectví:** Očarované zrcadlo se stane průchodem do jiného zrcadla, které si dnes viděl. |
 |  5   | Nabízíš ochranu. Tiše dohlížejíc na obchody jiných. Získáváš extra +1k4 BO do začátku, **Dlouhý meč** (1k10, *neskladný*) a **Gambeson** (+1 brnění). |
 |  6   | Sbíráš materiál z bojišť. Získáváš **Osla** (+4 sloty, pomalý), **Kuši** (1k8, *neskladná*) a **Ruční pilu** (1k6) |
@@ -458,9 +432,9 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 
 <img src="/assets/sep_line.png"/>
 
-## Lamačský inkvizitor ==todo: slepota na oko je nesmysl pro bojovníka==
+## Lamačský inkvizitor
 
-*Jsi ochránce nevinných a inkvizitorem magie. Pod záštitou řádu lamačů kouzel je tvým údělem zachraňovat Arkany ze spárů šílenců, lovit nebezpečná magická stvoření a zabraňovat zneužívání magie.*
+*Jsi ochránce nevinných a inkvizitorem magie. Pod záštitou polo-vojenského řádu lamačů kouzel je tvým údělem zachraňovat Arkany ze spárů šílenců, lovit nebezpečná magická stvoření a zabraňovat zneužívání magie.*
 
 **Počáteční výbava:** 
 
@@ -472,7 +446,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 - Dlouhý meč (1k8)
 - Lamačský odznak - Dotyk způsobuje bolest magickým bytostem.
 - Lamačská uniforma (*zanedbatelné* pokud oblečené)
-- Alchymisticky upravené oko (*zanedbatelné*) - Lamačští inkvizitoři mají jedno alchymisticky upravené oko (odborně nazýváno Gaulosovo oko). Na tohle oko jsou efektivně slepí, dokáží ním však bez většího soustředění, vidět chaotické proudění magie a tím poznat, že jsou v blízké vzdálenosti od magie.
+- Alchymisticky upravené oko (*zanedbatelné*) - Lamačští inkvizitoři mají jedno alchymisticky upravené oko (odborně nazýváno Gaulosovo oko). Tímto okem dokáží, bez většího soustředění, vidět chaotické proudění magie a tím poznat, že jsou v blízko u zdroje magie.
     - *Soustředění:* Lamač se může pokusit identifikovat vzory v těchto chaotických proudech (pokud není *vyčerpaný*) a tím si otevřít nové možnosti jako jsou například: Rozpoznání zdrojů magie i na velké vzdálenosti, prohlédnutí iluzí či neviditelnosti a nebo třeba identifikování podstaty magického efektu. Každé takové použití vyžaduje záchranu VUL. V případě neúspěchu je lamač *vyčerpaný*.
 
 
@@ -578,47 +552,6 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 
 <img src="/assets/sep_line.png"/>
 
-## Ochránce ==todo: dodělat==
-
-*Cech ochránců, neláska lamačů*
-
-Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno vícekrát.
-
-**Počáteční výbava:** 
-
-- *3k6* šilinků
-- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
-- Zásoby (3 použití)
-- Lucerna
-- Lampový olej (6 použití)
-- Zbraň (Viz tabulka níže)
-- Provaz (5 metrů)
-- Řetízek ochránců (*zanedbatelné*)
-
-**Mise:**
-
-| 1k6  | Jaká byla tvá poslední mise pro cech? |
-| :--: | ------------------------------------- |
-|  1   | Escort (you got a horse)              |
-|  2   | Chycení zloděje (coin)                |
-|  3   | Lov X                                 |
-|  4   | Lov X                                 |
-|  5   |                                       |
-|  6   |                                       |
-
-**Zbraň:**
-
-| 1k6  | Tvá preferovaná zbraň?   |
-| :--: | ------------------------ |
-|  1   | Bow                      |
-|  2   | Great sword              |
-|  3   | Axe and shield           |
-|  4   | Musket                   |
-|  5   | Sword and hand cross bow |
-|  6   | Bojová hůl               |
-
-<img src="/assets/sep_line.png"/>
-
 ## Podvodník
 
 *Důvtip je tvou nejostřejší zbraní a přetvářka tvým nejsilnějším štítem. Většinou neprohráváš ale když už prohraješ, tak to neseš špatně.*
@@ -662,7 +595,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno víc
 
 *Zpíváš příběhy řek, lesů a hor, tvůj talent uklidňuje přátele i živly. Viděl jsi víc než většina lidí, ale nikdy ti to nebylo dost.* 
 
-Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní o jedno vícekrát.
+Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jednou.
 
 **Počáteční výbava:** 
 
@@ -738,11 +671,9 @@ Zdroj prokletí:
 
 <img src="/assets/sep_line.png"/>
 
-## Velkomocný ==todo: dodělat==
+## Strážce
 
-*asd*
-
-special power
+*Vyděláváš si eskortou karavan, stopování uprchlíků nebo ochranou bohatých. Byl jsi hrdinou zachráncem ale i katem. V dřívějších dobách by jsi byl pravděpodobně rytířem ale dnes těmto tradicím již odzvonilo.*
 
 **Počáteční výbava:** 
 
@@ -750,10 +681,71 @@ special power
 - Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
+- Zbraň (Viz tabulka níže)
+- Brigandina (1 brnění, *neskladná*)
+- Záložní krátký meč (1k6)
 
-asd
+**Osobní kodex:**
 
-asd
+| 1k6  | Jaký osobní kodex vždy dodržuješ                             |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Krev nevinných nesmí být prolita**; Pod tvým vedením nesmí být nikdy ublíženo nevinným. Získáváš **Ochráncův štít** (+1 Brnění). Pokud držíš tento štít, jeho bonus k brnění je aplikován i na jedno další tebou vybrané stvoření vedle tebe. |
+|  2   | **O své nástroje smrti se vždy dobře postaráš**; Zbraně by měli být respektovány a udržovány. Získáváš **Brusný kámen z kosti wyverny**. Po provedení půl hodinového rituálu, kdy svou zbraň brousíš tímto kamenem. Se všechny útoky této zbraně stanou posílené o poškození dané zbraně. Tohle posílení platí, dokud danou zbraní není uděleno poškození SIL. |
+|  3   | **Vždy až do smrti**; Nikdy se nevzdáš nebo neutečeš z boje, nezávisle na tom jaké převaze čelíš. Získáváš **Píšťalku smrti** (1 použití, *Dobíjení:* Zachyť do ní poslední dech umírajícího válečníka). Píšťalka vydá děsivý jekot, který vyděsí všechny kdo jej slyší (zachraň VUL nebo uteč). |
+|  4   | **Mrtvé vždy uctíš**; Smrt je cesta, kterou budeme muset jednou podstoupit všichni. Ti, kteří se na ni vydali před námi, si zaslouží náš respekt. Získáváš **30 šilinků** navíc. Vždy umístíš 2 šilinky na víčka poraženého nepřítele. Překvapivě na to máš vždy peníze. |
+|  5   | **Oddanost tvé práci**; Pokud jednou přijmeš úkol, tak ho dokončíš i kdyby měl nastat konec světa. Získáváš ošuntělou **Vrubovku**. Je-li do ní vytesán slib, stane se pevnou jako ocel (1k6) dokud není slib naplněn. Vrubovka se samovolně zlomí pokud je zaznamenaný slib někdy porušen. |
+|  6   | **Vždy splatíš své dluhy**; Vždy splatíš to co dlužíš. Ať už se jedná o peníze či protislužbu. Očekáváš to samé od ostatních. Získáváš **Vyškrtanou účetní knihu**. Pokud ti strážce dal k dispozici tabulku vazeb, tak si nad ní hoď ještě jednou. |
+
+**Zbraň:**
+
+| 1k6  | Zvláštní zbraň kterou vlastníš?                              |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Kuše s optikou** (1k8, neskladná) - Jeden šikovný vynálezce v Axiomu ti na kuši přidělal optiku. To ti umožňuje s ní být efektivní i na poměrně velké vzdálenosti. |
+|  2   | **Masivní válečné kladivo** (1k12, *neskladné*) - Pokovovaný kamenný blok na kovové tyči. Touhle zbraní se dokážeš ohnat jen proto, že ti mistr v Žuloharu ukázal jak s ní správně zacházet. Pro běžného smrtelníka je nepoužitelná. |
+|  3   | **Dračí zahnutý meč** (1k8) - Získal si jej, když si zachránil život cestovateli z dalekých krajin. Ukázal ti i speciální techniku jeho užití. Tvůj první útok po prvním vytasení tohoto meče v boji je posílen o +1k12. |
+|  4   | **Pepřenka** (1k6+1k6 nebo 1k6 *plošně*, náchylné na vodu a oheň) - Unikátní prototyp poloautomatické příruční pistole, střílející malé kovové kuličky. Získal si ji jako dárek od velmi vděčného klienta. |
+|  5   | **Nůž na samo-navíjecím lanku** (1k6) - Velmi obskurní zbraň, kterou ses naučil při spolupráci s jedním nejmenovaným asasínem. Pevné kovové lanko se dá natáhnout až na 3 metry. |
+|  6   | **Bojová hůl** (1k8, *neskladná*)- Hůl s pokovovanými konci. Jeden kejklíř tě kdysi naučil udržovat rovnováhu za pomocí tyče a ty jsi v tomto nástroji objevil i oblíbenou zbraň. |
+
+<img src="/assets/sep_line.png"/>
+
+## Velkomocný
+
+*Jsi zvláštní úkaz. Člověk narozený s magickým krystalem zaklíněným ve svém srdci. Od ostatních lidí se můžeš lišit nějakým zřejmými mutacemi, ale tvým hlavním poznávacím znamením jsou tvé vrozené magické schopnosti. Dávej pozor na jejich zneužívání, řád Lamačů kouzel se vždy dívá.*
+
+Vrozená schopnost (viz tabulka níže) - Každý velkomocný se narodí s unikátní magickou schopností, kterou se během svého života naučí ovládat. Tyto vrozené schopnosti fungují efektivně stejně jako [kouzlení z magického grimoáru](/Zasazení-Aldir/Magie/#magicke-grimoary), nevyžadují však žádný speciální předmět. Na druhou stranu má však její používání extra negativní následky (viz. druhá tabulka následků).
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+- Kapesní nůž (1k6)
+- Pršiplášť s kapucí (*zanedbatelné* pokud oblečené)
+- Dřevěná hůl (1k6, *neskladná*)
+
+**Cena:**
+
+| 1k6  | Jaká je cena za tvé schopnosti?                              |
+| :--: | ------------------------------------------------------------ |
+|  1   | Žravost. Po každém použití tvé vrozené schopnosti jsi *vyčerpaný* dokud nesníš zásobu. Pro tyto účely sebou nosíš extra **Zásoby** (3 použití). |
+|  2   | Zranění. Po každém použití tvé vrozené schopnosti se někde na tvém těle udělá krvavý šrám a ztratíš tak 1 SIL. Proto sebou nosíš **Léčivé obvazy** (3 použití, stabilizuje, léčí 1 SIL). |
+|  3   | Otupění. Po každém použití tvé vrozené schopnosti je tvá mysl otupělejší  a ztratíš tak 1 VUL. Proto sebou nosíš **Povzbudivý elixír** (1 použití, léčí 3 VUL). |
+|  4   | Tuhnutí. Po každém použití tvé vrozené schopnosti ti tuhnou svaly a klouby a ztratíš tak 1 HBI. Proto sebou nosíš **Uvolňovací mast** (3 použití,  léčí 1 HBI) |
+|  5   | Omezená použití. Svou schopnost dokážeš vyvolat maximálně 2x za den a zatím si nepřišel na to jak tento limit překonat. Jelikož si občas musíš pomoci i jinak získáváš **Sedativum** (1 použití). |
+|  6   | Hlas. Dočasně ztratíš svůj hlas. Nemůžeš tedy mluvit a ani aktivovat svou vrozenou schopnost. Proto sebou nosíš **Psací potřeby a pergamen** (6 použití) |
+
+**Schopnost:**
+
+| 1k6  | Jaká nadpřirozená schopnost se u tebe vyvinula?              |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Fóbie** - Stvoření, které vidíš, se bude bát subjektu (stvoření či předmět), který určíš. |
+|  2   | **Ovládání počasí** - Můžeš změnit počasí avšak nemáš nad ním vyšší větší kontrolu. |
+|  3   | **Zvířecí forma** - Ty a tvá výbava se přeměníte do podoby běžného zvířete. |
+|  4   | **Štít** - Stvoření, které vidíš je pokryto ochrannou energií, která ho dělá nezranitelným proti běžným fyzickým útokům po dobu 1 minuty (6 kol). |
+|  5   | **Okouzlení** - Stvoření, které vidíš, tě považuje za přítele. |
+|  6   | **Zastření** - Stvoření, kterého se dotkneš, se stane pro všechny (mimo tebe) neviditelné dokud se nepohne. |
 
 <img src="/assets/sep_line.png"/>
 

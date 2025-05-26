@@ -124,7 +124,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 ### Kola
 
-- **Kolo:** Představuje nespecifikovaný úsek času během kterého všechny strany konfliktu odehrát svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první. Výsledky všech tahů dané strany jsou vyhodnoceny najednou.
+- **Kolo:** Představuje přibližně *10 vteřin* času, během kterého všechny strany konfliktu odehrát svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první. Výsledky všech tahů dané strany jsou vyhodnoceny najednou.
 - **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit záchranu *HBI*. Pokud neuspějí, první kolo vynechávají.
 - **Následující kola:** Ve všech následujících kolej sou vždy hráčské postavy na tahu první a nemusí již podstupovat další záchranu HBI.
 

@@ -1,4 +1,4 @@
-# Aldir
+# Aldir ==todo: Finish==
 
 <img src="/assets/sep_line.png"/>
 
@@ -18,12 +18,6 @@ Všechen text v těchto pravidlech předpokládají zasazení do Aldiru. Násled
 - Na Teře jako takové nepochybně žijí desítky až stovky různých inteligentních ras. V okolí Alridu jsou to však převážně Lidé, Trpaslíci a Kuduci. Ti žijí po spolu pod záštitou Aldirské republiky. Trpaslíci mají svůj domov již po staletí ve skalách Rudého draka, a Kuduci osedlali létající ostrovy severovýchodním cípu Aldirské republiky. Tuhle svou domovinu nazývají Eulérie. ==todo: remove non-humans==
 - Aldirská republika může na první pohled působit jako země žijící v míru a rovnováze. Opak je ale pravdou. Republika je rozdělena na oblasti (kraje), kterým vládnou různí šlechtici, obchodníci a jiné vysoce postavené rodiny, které se ne vždy mají v lásce. Tito vůdci krajů se pak schází v republikovém senátu, který z jeho sídla v hlavním městě Praag řídí celou republiku.  ==todo: redo==
 - Předpokládá se, že reálie Aldiru odpovídá středověké renezanční Evropě. Obohacené o nějakou tu alchymii a kudukské vynálezy.
-
-<img src="/assets/sep_line.png"/>
-
-## Rasy Aldiru
-
-asd ==todo==
 
 <img src="/assets/sep_line.png"/>
 
