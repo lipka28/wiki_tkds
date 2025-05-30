@@ -454,7 +454,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 
 | 1k6  | Co byla tvá poslední mise?                                   |
 | :--: | :----------------------------------------------------------- |
-|  1   | Unesená zvířata. Kult pokoušející se vyvolat nebezpečnou magickou bytost. Unášel zvířata z blízké vesnice, aby je obětoval při svých rituálech. Rozprášením tohoto kultu a záchrannou zvířat jsi si vysloužil oddanost jednoho toulavého **Loveckého psa** (4 BO, 10 SIL, 14 HBI, 6 VUL, Kousnutí (1k8)) |
+|  1   | Unesená zvířata. Kult pokoušející se vyvolat nebezpečnou magickou bytost. Unášel zvířata z blízké vesnice, aby je obětoval při svých rituálech. Rozprášením tohoto kultu a záchrannou zvířat sis vysloužil oddanost jednoho toulavého **Loveckého psa** (4 BO, 10 SIL, 14 HBI, 6 VUL, Kousnutí (1k8)) |
 |  2   | Zmizelé děti. Organizovaná zločinecká skupina v Praagu si myslela, že může bez trestně unášet mladé dívky. Na jejich metodách ani záměrech nebylo vůbec nic magického. Ale aspoň ses pocvičil v boji. Navyš své BO o *1k4*. |
 |  3   | Měňavec, který se pokusil nahradit senátora Wulfa. Získáváš **Ladičku odmaskování** (2 použití, *Dobíjení:* Musí být roztavena a znovu ukována, pokaždé hoď 1k6 při 1 - 2 je navždy zničená), Rozeznění ladičky naruší všechny iluze a přeměny v blízkém okolí. Přeměněná stvoření se, po dobu vibrování ladičky, vrátí do své originální podoby. |
 |  4   | Upír vydávajíc se za žebráka v malém přímořském městě. Získáváš **Sluneční tyč** (1 použití, *Dobíjení:* Nechej na silném slunečním světle celý den) - Poskytuje spoustu slunečního světla a tepla podobu až 1 hodiny. |
@@ -463,7 +463,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 
 **Předmět:**
 
-| 1k6  | Co jsi si přivlastnil z Lamačských skladů?                   |
+| 1k6  | Co sis přivlastnil z Lamačských skladů?                   |
 | :--: | :----------------------------------------------------------- |
 |  1   | **Surový pyridit** (cenný: 100 šilinků) - Extrémně vzácný, nikdo by neměl vědět že ho máš. |
 |  2   | **Bambitka** (1k10, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo) - Ničím speciální ale účinná. |
