@@ -10,7 +10,7 @@
 
 Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším platidlem v Aldiru jsou však *Šilinky*.
 
-- **Peníze a skladnost:** Měšec mincí do 100 šilinků nezabírá žádné místo v inventáři. Následně pak mince do 1000 šilinků zabírají 1 slot.
+- **Peníze a skladnost:** Měšec mincí do *100 šilinků* nezabírá žádné místo v inventáři. Následně pak mince do *1000 šilinků* zabírají *1 slot*.
 - **Prodej předmětů:** Poklady získané na dobrodružství se prodávají za svou plnou cenu (nepoškozené). Běžné předměty se pak prodávají za polovinu. Poškozené běžné předměty jsou neprodejné.
 - **Nákup předmětů:** Při tvorbě postavy je níže popsaná výbava dostupná za uváděné ceny. Při hře samotné se však dostupnost i cena předmětů může lišit v závislosti na tom, kde se postavy zrovna nachází.
 
@@ -30,13 +30,13 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Zbraně                                                       |  Cena |
 | ------------------------------------------------------------ | ----: |
 | Neozbrojený útok (1k4 poškození)                             |     - |
-| Malá, jednoduchá nebo improvizovaná zbraň na blízku jako je: nůž, srp, krátký meč ale i hůl (1k6 poškození, může být *neskladná*) |  5 ši |
+| Jednoduchá nebo improvizovaná zbraň na blízku jako je: nůž, srp, krátký meč ale i hůl (1k6 poškození, může být *neskladná*) |  5 ši |
 | Jednoruční zbraň na blízku jako je: kopí, meč, palcát a podobně (1k8 poškození) | 10 ši |
 | Obouruční zbraň na blízku jako je: Halapartna, válečné kladivo či obouruční meč (1k10 poškození, *neskladná*) | 20 ši |
 | Jednoruční či improvizovaná zbraň na dálku jako je: příruční kuše, prak či hozený nůž (1k6 poškození) |  5 ši |
 | Běžná střelná zbraň jako luk či kuše (1k8 poškození, *neskladná*) | 25 ši |
-| Jednoruční křesadlová zbraň jako je bambitka (1k10 poškození, náchylné na vodu a oheň, přebíjí se 1 kolo) | 50 ši |
-| Obouruční křesadlová zbraň jako je mušketa (1k12 poškození, *neskladná*, náchylné na vodu a oheň, přebíjí se 1 kolo) | 75 ši |
+| Jednoruční křesadlová zbraň jako je bambitka (1k10 poškození, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo) | 50 ši |
+| Obouruční křesadlová zbraň jako je mušketa (1k12 poškození, *neskladná*, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo) | 75 ši |
 
 ## Výbava dobrodruha
 

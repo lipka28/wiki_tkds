@@ -14,11 +14,11 @@ Každá tvá dovednost (SIL, HBI, VUL) začíná s *8 body*. Hoď si *3k6* a ka�
 
 ## 2. Urči své body obrany (BO)
 
-Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ nebezpečně, můžeš si na místo toho hodit 1k6 a zapsat si výsledek.
+Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ nebezpečně, můžeš si na místo toho hodit *1k6* a zapsat si výsledek.
 
 ## 3. Urči svůj původ
 
-Vyber si jeden z původů v tabulce níže (nebo si hoď 1k20 pro náhodný původ). Každý původ obsahuje popis, výbavu (jak funguje inventář najdeš [zde](/Zakladni_pravidla/#nosnost)) a 2 tabulky extra výbavy či schopností. Nad těmito tabulkami si můžeš buď hodit nebo si s každé jednu položku vybrat.
+Vyber si jeden z původů v tabulce níže (nebo si hoď *1k20* pro náhodný původ). Každý původ obsahuje popis, výbavu (jak funguje inventář najdeš [zde](/Zakladni_pravidla/#nosnost)) a 2 tabulky extra výbavy či schopností. Nad těmito tabulkami si můžeš buď hodit nebo si z každé jednu položku vybrat.
 
 Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci se strážcem sestavit vlastní původ nebo některý z existujících původů upravit.
 

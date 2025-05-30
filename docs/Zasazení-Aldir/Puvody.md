@@ -67,7 +67,7 @@
 |  2   | Nechtěně si dematerializoval svého oblíbeného domácího mazlíčka. Ten je teď neviditelný ale všude tě následuje. Je trénovaný na základní příkazy ale nedokáže interagovat s fyzickým světem. Můžeš se sním však propojit a na chvilku vnímat jeho smysly (každé použití způsobuje *bod únavy*). |
 |  3   | Byl si vystaven dlouho působícímu séru pravdy, jehož efekty na tebe stále působí. Nedokážeš sice říct lež, ale má to i své výhody. Nedokážeš totiž ani zopakovat lži co si slyšel. |
 |  4   | Byl si fakt dobrý ve výrobě falešného zlata. Tvé podvody ale byli odhaleny a ty jsi teď na útěku před těmi, které si ošidil. Získáváš navíc **Ingot z těžkého kovu** a **Zlatý prášek** (3 použití). |
-|  5   | Tvůj alchymistický recept fungoval, ale tvůj věčný sok ti jej ukradl dřív, než si byl schopen všem dokázat jeho účinky. Získáváš **Prototyp houfnice** (1k10, *plošné*, *neskladná*, náchylné na vodu a oheň, přebíjí se 1 kolo) a touhu po odplatě. |
+|  5   | Tvůj alchymistický recept fungoval, ale tvůj věčný sok ti jej ukradl dřív, než si byl schopen všem dokázat jeho účinky. Získáváš **Prototyp houfnice** (1k10, *plošné*, *neskladná*, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo) a touhu po odplatě. |
 |  6   | Byl si všem pro smích, když si dokázal proměnit zlato v olovo. Ty se ale budeš smát jako poslední. Získáváš **Univerzální rozpouštědlo** (2 použití), které rozloží všechno čeho se dotkne na prvočinitele. |
 
 **Geniální vynález:**
@@ -466,7 +466,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 | 1k6  | Co jsi si přivlastnil z Lamačských skladů?                   |
 | :--: | :----------------------------------------------------------- |
 |  1   | **Surový pyridit** (cenný: 100 šilinků) - Extrémně vzácný, nikdo by neměl vědět že ho máš. |
-|  2   | **Bambitka**(1k10, náchylné na vodu a oheň, přebíjí se 1 kolo) - Ničím speciální ale účinná. |
+|  2   | **Bambitka**(1k10, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo) - Ničím speciální ale účinná. |
 |  3   | **Hůlka ohně** (6 použití) - Zapálí hořlavý materiál na který je namířena. |
 |  4   | **Vše klíč** (4 použití) - Odemkne libovolný zámek.          |
 |  5   | **Lokalizační kyvadélko** - Je-li potřísněnou krví cíle a rozhoupáno nad mapou. Ukáže pozici cíle na dané mapě. |
@@ -643,7 +643,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
 - Provaz (5 metrů)
-- Bambitka (1k10 poškození, náchylné na vodu a oheň, přebíjí se 1 kolo)
+- Bambitka (1k10 poškození, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo)
 - Čistící sada na křesadlové zbraně (6 použití)
 - Kožené rukavice (*zanedbatelné*)
 
