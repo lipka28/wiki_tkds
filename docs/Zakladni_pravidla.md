@@ -34,7 +34,7 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Více kostková notace:** Pokud je vyžadován hod více kostek naráz, je počet hozených kostek indikován před *k*. Například *2k6* znamená: Hoď 2 šesti-stranné kostky a sečti výsledek.
 
-**Přičítání kostek:** Pokud efekt (většinou útok) je zapsán jako *1k8+1k8*, znamení to, že hráč si na vyhodnocení hodí *2k8*, ale bere jen *nejvyšší výsledek* z těchto dvou kostek. Stejně tak pokud efekt udává *+1k12*. Znamená to, že se k hodu přihodí *1k12* a opět se bere jen ten *nejvyšší hod ze všech hodů*.
+**Přičítání kostek:** Pokud efekt (většinou útok) je zapsán jako *1k8+1k8*, znamená to, že hráč si na vyhodnocení hodí *2k8*, ale bere jen *nejvyšší výsledek* z těchto dvou kostek. Stejně tak pokud efekt udává *+1k12*. Znamená to, že se k hodu přihodí *1k12* a opět se bere jen ten *nejvyšší hod ze všech hodů*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -169,7 +169,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 ### Útěk z boje
 
-- **Útěk:** Útěk ze svízelné situace vyžaduje bezpečné místo k úniku a také úspěšné záchranu HBI.  
+- **Útěk:** Útěk ze svízelné situace vyžaduje bezpečné místo k úniku a také úspěšné záchranu HBI.
 
 ### Morálka
 
@@ -180,7 +180,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 Velké skupiny nepřátel (jako třeba armáda zombie) nebo gigantičtí nepřátelé (jako draci či obři) jsou považovány za oddíly.
 
-- **Kritické poškození:** Oddíly na místo SIL se zachraňují proti VUL (případně VUL svého vůdce). Když oddíl obdrží kritické poškození, tak se dá na útěk. 
+- **Kritické poškození:** Oddíly na místo SIL se zachraňují proti VUL (případně VUL svého vůdce). Když oddíl obdrží kritické poškození, tak se rozpadne na samostatné členy nebo se dá na útěk. 
 - **Zničení oddílu:** Když SIL oddílu dosáhne 0, oddíl je zničen.
 - **Útoky proti oddílům:** Pokud jedinec útočí na oddíl, jeho útok je považován za *oslabený*. Neplatí pro *plošné*.
 - **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok jeho útok probíhá s +1k12 a je považován za *plošné*.
