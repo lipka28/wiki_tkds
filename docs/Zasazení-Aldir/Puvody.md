@@ -102,7 +102,7 @@
 | 1k6  | Co jsi obětoval svému poslednímu výzkumu?                    |
 | :--: | ------------------------------------------------------------ |
 |  1   | Blízkého. Při neopatrném zacházení se vzácnou Arkanou, si v ní věznil sobě blízkou osobu. Získáváš **Věznící krystal** (Plný), Může vnímat co se děje kolem něj? Nikdo neví. Třeba jednou přijdeš na to jak jej osvobodit. |
-|  2   | Ruku. Při nepovedeném pokusu o přesunu moci z Arkany do své ruky. Si ji nekontrolovaným magickým výbojem rozmetal na kusy. Z pahýlu v rameni, který bývala tvá ruka, ti teď vyrůstá **Magický krystal** (*zanedbatelný*, Křehký). Jeho rozbití (max 1x denně) ti způsobí ztrátu *1k4* SIL, ale vyvolá **Levitující magickou ruku** (3 BO, 6 SIL, 10 HBI, 0 VUL, úder (*1k6*)) o velikosti psa, kterou ovládáš. Tato ruka je s tebou propojena neviditelným magickým vláknem a nemůže se od tebe vzdálit na více jak 5 metrů. |
+|  2   | Ruku. Při nepovedeném pokusu o přesunu moci z Arkany do své ruky. Si ji nekontrolovaným magickým výbojem rozmetal na kusy. Z pahýlu v rameni, který bývala tvá ruka, ti teď vyrůstá **Magický krystal** (*zanedbatelný*, Křehký). Jeho rozbití ti způsobí ztrátu *1k4* SIL, ale vyvolá **Levitující magickou ruku** (3 BO, 6 SIL, 10 HBI, 0 VUL, úder (*1k6*)) o velikosti psa, kterou ovládáš. Tato ruka je s tebou propojena neviditelným magickým vláknem a nemůže se od tebe vzdálit na více jak 5 metrů. Rozbitý krystal do dalšího dne doroste. |
 |  3   | Duši. Vyobchodoval si svou duši s démonem za **Lektvar věčného mládí**(1 použití). Jeho vypití zaručí věčnou krásu a mládí. Požití také ihned vyléčí všechna zranění, únavu či jiné negativní stavy. Po tvé smrti máš však místo ve věčných pekelných plamenech zaručené. |
 |  4   | Půlku vesnice. Při svém pokusu o otevření brány do jiného světa, si vypustil na tento svět ohromné hadovité monstrum, které před tím, než se odpotácelo někam do divočiny, srovnalo se zemí půlku vesnice. Získáváš **Zub orizny** (1k6, Při *kritickém poškození* je cíl *vyčerpaný* a bez patřičné pomoci zemře do 1 hodiny na otravu) a tvé jméno vyvolává nechtěnou pozornost Lamačů kouzel. |
 |  5   | Život. Při svém pokusu o oživení mrtvého, za pomocí prastarého rituálu, si neopatrným přeřeknutím přišel o svůj vlastní život. O to větší bylo tvé překvapení, když si se později probudil s **Podivnou mincí** (zanedbatelné) v kapse a spoustou otázek. |
@@ -141,7 +141,7 @@
 | :--: | ------------------------------------------------------------ |
 |  1   | Kmen Zběsilého Divočáka. Aldirský kmen válečníků známý především svou divokostí. Kdykoliv v boji obdržíš poškození do SIL. Tvůj další útok na blízku v daném boji bude posílen o +1k12. |
 |  2   | Kmen Zlovlka. Severský kmen specializovaný na chov a trénink zlovlků. Získáváš **Osedlaného Zlovlka** (8 BO, 14 SIL, 12 HBI, 8 VUL, kousnutí (1k10), lze na něm jezdit, +2 sloty). Poslouchá tě na slovo. |
-|  3   | Kmen Medvědice.  Aldirský kmen extrémně silných divoký žen. Tvá SIL je o 2 vyšší. |
+|  3   | Kmen Medvědice.  Aldirský kmen extrémně silných divokých žen. Tvá SIL je o 2 vyšší. |
 |  4   | Kmen Pouštního hada. Jižanský kmen rudo-kožců žijící v poušti Vyprahlině. Jsi zvyklý na horko a pohyb písčitým terénem. Veškeré obdržené ohnivé poškození je o 1 stupeň nižší (1k8 -> 1k6 atd.) |
 |  5   | Kmen Sněžného leoparda. Severský kmen žijící v Ledových pláních. Jsi zvyklý na zimu a pohyb zasněženým nebo ledovým terénem. Veškeré obdržené mrazivé poškození je o 1 stupeň nižší (1k8 -> 1k6 atd.) |
 |  6   | Kmen Havrana. Tajemný kmen žijící v severních lesích. Získáváš **Přívěšek Havrana**. Vyvolá spirituálního havrana černého jako noc. Ten následuje tvé příkazy jak nejlépe mu jeho fyzická forma umožňuje. Pokud obdrží poškození rozplyne se a dané poškození je přeneseno na tebe ve formě ztráty SIL. |
@@ -177,12 +177,12 @@
 
 | 1k6  | Co sis od druidů odnesl?                                     |
 | :--: | :----------------------------------------------------------- |
-|  1   | Druidům si ukradl ten nestřeženější poklad, **Srdce lesa**. Kus dřeva tvrdý jako kámen o velikosti pěsti. Druidi věří, že až přijde vhodná chvíle z jeho zasazení vzroste nový strom života. Ta chvíle však ještě nenastala a druidové tuto svatokrádež rozhodně nenechají bez odezvy. |
+|  1   | Druidům si ukradl ten nejstřeženější poklad, **Srdce lesa**. Kus dřeva tvrdý jako kámen o velikosti pěsti. Druidi věří, že až přijde vhodná chvíle z jeho zasazení vzroste nový strom života. Ta chvíle však ještě nenastala a druidové tuto svatokrádež rozhodně nenechají bez odezvy. |
 |  2   | **Prokletí**, které způsobuje, že tě všechna zvířata nenávidí. Možná existuje způsob jak se jej zbavit? |
 |  3   | **Živoucí noční můru** žijící v hlubinách tvé mysli a která nabere fyzickou formu pokaždé když si v nebezpečí. Tahle fyzická forma má stejné dovednosti a BO jako ty a útočí drápy (1k8+1k8). Když obdrží *kritické poškození*, tak se rozplyne. Navrátí se až při dalším úplňku. |
 |  4   | Cestou z lesa tě následovala **Spřátelená veverka** (1 BO, 2 SIL, 12 HBI, 8 VUL, nebojuje). Je ti naprosto oddaná a na veverku je poměrně inteligentní. |
 |  5   | Při útěku sis nezapomněl sbalit své **Oblíbené kouzlo**. Při hodu (či výběru) nad tabulkou druidských kouzel níže, obdržíš vyvolený předmět dvakrát na místo jednou. |
-|  6   | Znáš **Pravé jméno víly**. Jeho vyslovením můžeš tohle vílu vyvolat, aby pro tebe vykonala službu. Avšak pouze jednou. Pravá jména víl jsou věčně proměnlivá a vzácná komunita. Tato informace by ti mohla přinést nemalý peníz od vhodného kupce. |
+|  6   | Znáš **Pravé jméno víly**. Jeho vyslovením můžeš tohle vílu vyvolat, aby pro tebe vykonala službu. Avšak pouze jednou. Pravá jména víl jsou věčně proměnlivá a vzácná komodita. Tato informace by ti mohla přinést nemalý peníz od vhodného kupce. |
 
 **Druidské kouzlo:**
 
@@ -256,10 +256,10 @@
 | 1k6  | Jaké dílo sis nechal pro sebe?                               |
 | :--: | ------------------------------------------------------------ |
 |  1   | **O jazyku divočiny**. Svazek v kůži vázaných svitků. Seminární práce popisující jazyky a chování různých bestií a jak jim porozumět. |
-|  2   | **Neviditelné symfonie**. Vázaná v lehce svítivém obalu. Velmi vzácná. Popisuje nepatrné náznaky magie neviditelnosti. |
-|  3   | **Pojednání o stínech**. Nenadepsaná černá kniha. Hloubkový a vysoce teoretický text o světě mrtvých. Také popisuje (prý bezpečný) způsob jak se do tohoto světa. |
+|  2   | **Neviditelné symfonie**. Vázaná v lehce svítivém obalu. Velmi vzácná. Popisuje nepatrné projevy magie neviditelnosti. |
+|  3   | **Pojednání o stínech**. Nenadepsaná černá kniha. Hloubkový a vysoce teoretický text o světě mrtvých. Také popisuje (prý bezpečný) způsob jak se do tohoto světa dostat. |
 |  4   | **Hvězdný valčík**. Sada spisů držených pohromadě sponou o tvaru komety a kvalitním koženým vázáním. Detailně vyobrazuje astronomické mapy a pohyby těles na noční obloze. Extrémně vzácná a ceněná (100 šilinků) především pro cestovatele. |
-|  5   | **Katedrály v korunách stromů**. Velký věčně zelený list, držící po hromadě sadu pergamenů. Původně zamýšlená jako dětská knížka. Avšak celkem důkladně popisuje cestování a přežívání v Nespoutané Divočině. |
+|  5   | **Katedrály v korunách stromů**. Velký věčně zelený list, držící po hromadě sadu pergamenů. Původně zamýšlená jako dětská knížka. Avšak celkem důkladně popisuje cestování a přežívání v Nespoutané Divočině. ==todo: fix with new lore== |
 |  6   | **Zahrada zrcadel**. Stránky ukryté v obalu jiné knihy. Důmyslný traktát popisující potřebné materiály, procedury a nejvhodnější místa pro přípravu přemisťovacího rituálu. Kam? To z textu není úplně jasné. |
 
 **Metoda:**
@@ -403,7 +403,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 - Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
-- Kostým
+- Kostým (*zanedbatlený* když oblečen)
 - Ruční hudební nástroj (Dudy, loutna a podobně)
 - Šťastná vesta (+1 Brnění)
 - Prak (1k6)
@@ -417,7 +417,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 |  3   | Debutové vystoupení s tvou novou skladbou. Dohnalo publikum k nesmyslnému žvatlaní o jasně svítivých bytostech, přicházející z nočního nebe. Později sis všiml, že noty této kompozice, trochu vypadají jako hvězdné konstelace. Získáváš **Knížku o astronomii** a spoustu otázek. |
 |  4   | Zesměšnil si zapomenutého boha srandy, který tě za trest proklel. Dokážeš mluvit pouze v perfektním rýmu. Což z tebe ironicky udělalo ještě populárnějšího kejklíře. Získáváš **Slovník synonym** (20 šilinků). Bez něj si *vyčerpaný*. |
 |  5   | Při nehodě na pódiu si byl zraněn. Avšak publikum si myslelo, že je to součástí vystoupení a sklidil si za to bouřlivý potlesk.  Získáváš **Ošuntělý kyrys** (1 Brnění, *neskladný*), vzpomínkovou jizvu a hrůzu z potlesku. |
-|  6   | Tvé loutkařství bylo tak dokonalé, že si byl prohlášen za černokněžníka / čarodějnici a vyhnán z vesnice. Získáváš **Podivnou loutku** a **Lebku zajíce** (*zanedbatelná*), která chrání před prokletím. |
+|  6   | Tvé loutkařství bylo tak dokonalé, že si byl prohlášen za černokněžníka / čarodějnici a vyhnán z vesnice. Získáváš **Podivnou loutku** a **Lebku zajíce**, která chrání před prokletím. |
 
 **Cetka:**
 
@@ -466,7 +466,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 | 1k6  | Co jsi si přivlastnil z Lamačských skladů?                   |
 | :--: | :----------------------------------------------------------- |
 |  1   | **Surový pyridit** (cenný: 100 šilinků) - Extrémně vzácný, nikdo by neměl vědět že ho máš. |
-|  2   | **Bambitka**(1k10, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo) - Ničím speciální ale účinná. |
+|  2   | **Bambitka** (1k10, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo) - Ničím speciální ale účinná. |
 |  3   | **Hůlka ohně** (6 použití) - Zapálí hořlavý materiál na který je namířena. |
 |  4   | **Vše klíč** (4 použití) - Odemkne libovolný zámek.          |
 |  5   | **Lokalizační kyvadélko** - Je-li potřísněnou krví cíle a rozhoupáno nad mapou. Ukáže pozici cíle na dané mapě. |
@@ -476,7 +476,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 
 ## Lovec
 
-*Jdi příznak v noci, prchavý stín, který se nepozorovaně plíží ke své oběti. Každé zabití je zkouškou lsti a odhodlání. Souboj mezi životem a smrtí, který víš že jednou nevyhraješ.*
+*Jdi příznak v noci, prchavý stín, který se nepozorovaně plíží ke své oběti. Každé zabití je zkouškou lsti a odhodlání. Souboj mezi životem a smrtí, který víš že jednou prohraješ.*
 
 **Počáteční výbava:** 
 
@@ -493,18 +493,18 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 
 | 1k6  | Co byl tvůj poslední lov?                                    |
 | :--: | :----------------------------------------------------------- |
-|  1   | Obří masožravou světlušku, která lákala nevinné pocestné svým světlem. Jako náhradu za ruku, kterou ti ukousla, získáváš **Alchymistickou ruku** (1k8, *zanedbatelná* pokud nesena, jinak *neskladná*). Tato ruka je odolná proti ohni a jedům. Tvá noha potřebuje každodenní mazání jinak bude hlasitě vrzat a způsobovat ti *vyčerpání*. Na tuto údržbu navíc získáváš **Lampový olej** (6 použití). |
-|  2   | Ledová kopřiva, která chytala a vysávala krev ze zvířat na statku. O svou odměnu za lov si ale přišel, jelikož tvé řešení za pomocí houby, která kopřivu vymýtí. Zabilo polovinu zvířat. Získáváš **Bobuli mrazu** (1 použití). Zmrazí libovolnou vodní plochu o oblasti až 1 kilometr čtverečný. Nejíst !!! |
+|  1   | Obří masožravou světlušku, která lákala nevinné pocestné svým světlem. Jako náhradu za ruku, kterou ti ukousla, získáváš **Alchymistickou ruku** (1k8, *zanedbatelná* pokud nesena, jinak *neskladná*). Tato ruka je odolná proti ohni a jedům ale potřebuje každodenní mazání jinak bude hlasitě vrzat a způsobovat ti *vyčerpání*. Na tuto údržbu navíc získáváš **Lampový olej** (6 použití). |
+|  2   | Ledová kopřiva, která chytala a vysávala krev ze zvířat na statku. O svou odměnu za lov si ale přišel, jelikož tvé řešení za pomocí houby, která kopřivu vymýtí. Zabilo polovinu zvířat. Získáváš **Bobuli mrazu** (1 použití). Zmrazí libovolnou vodní plochu o oblasti až 1 kilometr. Nejíst!!! |
 |  3   | Stříbrná čupakabra, která zabila někoho tobě blízkého. Nosíš teď **Provázek se zubem čupakabry** (*zanedbatelný*) jako varování pro ostatní čupakabry. Zub lehce vibruje, když tě někdo sleduje. |
 |  4   | Záškodnický lesní duch, který otrávil malou usedlost. Získáváš **Měch otrávené vody** (3 použití, konzumace způsobuje ztrátu 1k6 SIL a *vyčerpání* dokud není poskytnuta adekvátní pomoc). Navíc získáváš i **Železné chrániče zápěstí** (+1 Brnění, *neskladné* pokud neoblečeny). |
 |  5   | **Zbloudilá duše vlka** (5 BO, 11 SIL, 13 HBI, 8 VUL, kousnutí 1k6), která děsila pocestné. Slitoval jsi se nad tímto hladovějícím stvořením a pomohl mu. On ti je na oplátku až na do smrti věrný. Má černé (hmotné) chlupaté tělo a na místo hlavy vlčí lebku. Umí skvěle hrabat. |
-|  6   | **Azurová pěnice**. Jejich pohlavní žlázy, pokud správně extrahovány, se prodávají za dobré peníze. Byl si úspěšný, ale ponechal si její hnízdo na pospas vlkům. Získáváš **vykosťovací nůž** (1k6), extra **20 šilinků** a lítost nad svými činy. |
+|  6   | Azurová pěnice. Jejich pohlavní žlázy, pokud správně extrahovány, se prodávají za dobré peníze. Byl si úspěšný, ale ponechal si její hnízdo na pospas vlkům. Získáváš **vykosťovací nůž** (1k6), extra **20 šilinků** a lítost nad svými činy. |
 
 **Nástroj:**
 
 | 1k6  | Co si nikdy nezapomeneš vzít sebou?                          |
 | :--: | :----------------------------------------------------------- |
-|  1   | **Trpasličí pálenka** (3 použití) - V lepších časech je dobrá na zahřátí, v těch horších se dá použít jako hořlavina. |
+|  1   | **Severská pálenka** (3 použití) - V lepších časech je dobrá na zahřátí, v těch horších se dá použít jako hořlavina. |
 |  2   | **Stopařovo hrkátko** - Hlasitý nástroj, který odhalí blízké stezky i pokud jsou dobře ukryty. |
 |  3   | **Zívací vosk** (1 použití) - Váleček vosku, pokud rozpuštěn, jeho výpary mají uspávací účinky. |
 |  4   | **Lanko s kovovými kolky** - Výborné pro cestování obtížným terénem nebo na výrobu provizorních pastí. |
@@ -532,7 +532,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 
 | 1k6  | Čím sis zasloužil svůj luk?                                  |
 | :--: | ------------------------------------------------------------ |
-|  1   | Válka. Poku jsi v boji první na tahu (součást první skupiny). Tvůj luk získá vlastnost *plošné* během tvého prvního tahu. |
+|  1   | Válka. Poku jsi v boji na tahu jako první (součást první skupiny). Tvůj luk získá vlastnost *plošné* během tvého prvního tahu. |
 |  2   | Sokolnictví. Máš **Sokola** (3 BO, 5 SIL, 16 HBI, 4 VUL, klování a škrábání (1k6)). Živý se pouze zvěřinou. |
 |  3   | Lov. Když se zúčastníš *hlídkové akce zásobování*. Mimo standardního bonusu, posílíš hod na získané zásoby o *+1k6*. |
 |  4   | Turnaj. Pokud se tvůj cíl nemůže hýbat tvůj útok lukem je *posílen* o kostku poškození luku. |
@@ -543,7 +543,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 
 | 1k6  | Z jakého dřeva je tvůj luk vyroben?                          |
 | :--: | ------------------------------------------------------------ |
-|  1   | **Luk ze západního tisu** (1k6, *neskladný*, hlasitý) - Lze použít jako zbraň na blízku působící 1k6 poškození. |
+|  1   | **Luk ze západního tisu** (1k6, *neskladný*) - Lze použít jako zbraň na blízku působící 1k6 poškození. |
 |  2   | **Luk z krvavého dubu** (1k8, *neskladný*) - Má obrovský tah. Při způsobení *kritického poškození* je cíli něco urváno. |
 |  3   | **Luk z kamenné borovice** (1k6, *neskladný*) - Produkuje 1 použití **lepivé smůly** za den. Tato smůla je vysoce výbušná. |
 |  4   | **Luk z bílého jasanu** (1k6, *neskladný*) - Při boji na blízko funguje jako štít poskytující +1 Brnění. |
@@ -563,7 +563,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
 - Kárka (+4 sloty, *neskladná*, třeba táhnout v rukách)
-- Cinknuté hrací karty
+- Cinknuté hrací karty (*zanedbatlené*)
 - Honosný klobouk (*zanedbatelný*)
 - Vycházková hůl se skrytou čepelí (1k6)
 
@@ -572,9 +572,9 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 | 1k6  | Tvůj poslední nepovedený podvod?                             |
 | :--: | ------------------------------------------------------------ |
 |  1   | Tví "pacienti" se stále zázračně uzdravovali, i když si nikdy medicíně nějak nerozuměl. Získáváš **Léčivé obvazy** (3 použití, stabilizuje, léčí 1 SIL) a talent pro medicínu. |
-|  2   | Poté co si svedl bohatého patrona / patronku. Jeho / její rodina si najala gang, aby tě zřídil. Musíš se skrývat a získáváš **Mastičku krásy** (2 použití). Po aplikaci se staneš neodolatelně krásný na následujících 12 hodin. |
+|  2   | Poté co si svedl bohatého patrona / patronku. Jeho / její rodina si najala gang, aby tě zřídil. Musíš se skrývat a získáváš **Mastičku krásy** (2 použití). Po aplikaci se staneš neodolatelně krásný na následujících 8 hodin. |
 |  3   | Byl jsi překupníkem falešných proroctví. Jedno z tvých proroctví se však ukázalo pravdivé, což přitáhlo nechtěnou pozornost. Pokud ti strážce dal k dispozici tabulku *Znamení*, hoď si nad ní a výsledek si nech pro sebe. Navíc získáváš **Schovaný nůž** (1k6, *zanedbatelný*). |
-|  4   | Tvá poslední eskapáda zničila artefakt nevyčíslitelné hodnoty a vážně zranila několik kolemjdoucích. Získáváš **Uniformu kapitána stráží** (*zanedbatelný*), **Ceremoniální meč** (neškodný, 60 šilinků) a **Buket květin**. |
+|  4   | Tvá poslední eskapáda zničila artefakt nevyčíslitelné hodnoty a vážně zranila několik kolemjdoucích. Získáváš **Uniformu kapitána stráží** (*zanedbatelná* pokud oblečená), **Ceremoniální meč** (neškodný, 60 šilinků) a **Buket květin**. |
 |  5   | Byl si proklet čarodějnicí za okradení nějakých vesničanů. Magie se v tvých rukou chová nevyzpytatelně. (Vyžaduje záchranu VUL na předejití katastrofě). Pokud si cílem magie, stejně platí pro jejího sesilatele. |
 |  6   | Tvé duchovní seance byli jen špinavý trik využívající dobře schovaný **Grimoár** s kouzlem *Zvuková iluze* (*Charakter:* Náhodně vydává během dne zvuky, občas velmi nevhodné zvuky). Jeden s tvých zákazníků tuto skutečnost odhalil.  Získáváš tento Grimoár a **Pytel hadrů**.<br /><br />**Zvuková iluze:** Vytvoříš iluzorní zvuk vycházející z libovolného místa, které si určíš. |
 
@@ -691,20 +691,20 @@ Zdroj prokletí:
 | :--: | ------------------------------------------------------------ |
 |  1   | **Krev nevinných nesmí být prolita**; Pod tvým vedením nesmí být nikdy ublíženo nevinným. Získáváš **Ochráncův štít** (+1 Brnění). Pokud držíš tento štít, jeho bonus k brnění je aplikován i na jedno další tebou vybrané stvoření vedle tebe. |
 |  2   | **O své nástroje smrti se vždy dobře postaráš**; Zbraně by měli být respektovány a udržovány. Získáváš **Brusný kámen z kosti wyverny**. Po provedení půl hodinového rituálu, kdy svou zbraň brousíš tímto kamenem. Se všechny útoky této zbraně stanou posílené o poškození dané zbraně. Tohle posílení platí, dokud danou zbraní není uděleno poškození SIL. |
-|  3   | **Vždy až do smrti**; Nikdy se nevzdáš nebo neutečeš z boje, nezávisle na tom jaké převaze čelíš. Získáváš **Píšťalku smrti** (1 použití, *Dobíjení:* Zachyť do ní poslední dech umírajícího válečníka). Píšťalka vydá děsivý jekot, který vyděsí všechny kdo jej slyší (zachraň VUL nebo uteč). |
+|  3   | **Vždy až do smrti**; Nikdy se nevzdáš nebo utečeš z boje, nezávisle na tom jaké převaze čelíš. Získáváš **Píšťalku smrti** (1 použití, *Dobíjení:* Zachyť do ní poslední dech umírajícího válečníka). Píšťalka vydá děsivý jekot, který vyděsí všechny kdo jej slyší (zachraň VUL nebo uteč). |
 |  4   | **Mrtvé vždy uctíš**; Smrt je cesta, kterou budeme muset jednou podstoupit všichni. Ti, kteří se na ni vydali před námi, si zaslouží náš respekt. Získáváš **30 šilinků** navíc. Vždy umístíš 2 šilinky na víčka poraženého nepřítele. Překvapivě na to máš vždy peníze. |
 |  5   | **Oddanost tvé práci**; Pokud jednou přijmeš úkol, tak ho dokončíš i kdyby měl nastat konec světa. Získáváš ošuntělou **Vrubovku**. Je-li do ní vytesán slib, stane se pevnou jako ocel (1k6) dokud není slib naplněn. Vrubovka se samovolně zlomí pokud je zaznamenaný slib někdy porušen. |
 |  6   | **Vždy splatíš své dluhy**; Vždy splatíš to co dlužíš. Ať už se jedná o peníze či protislužbu. Očekáváš to samé od ostatních. Získáváš **Vyškrtanou účetní knihu**. Pokud ti strážce dal k dispozici tabulku vazeb, tak si nad ní hoď ještě jednou. |
 
 **Zbraň:**
 
-| 1k6  | Zvláštní zbraň kterou vlastníš?                              |
+| 1k6  | Jakou Zvláštní zbraň vlastníš?                               |
 | :--: | ------------------------------------------------------------ |
 |  1   | **Kuše s optikou** (1k8, neskladná) - Jeden šikovný vynálezce v Axiomu ti na kuši přidělal optiku. To ti umožňuje s ní být efektivní i na poměrně velké vzdálenosti. |
 |  2   | **Masivní válečné kladivo** (1k12, *neskladné*) - Pokovovaný kamenný blok na kovové tyči. Touhle zbraní se dokážeš ohnat jen proto, že ti mistr v Žuloharu ukázal jak s ní správně zacházet. Pro běžného smrtelníka je nepoužitelná. |
 |  3   | **Dračí zahnutý meč** (1k8) - Získal si jej, když si zachránil život cestovateli z dalekých krajin. Ukázal ti i speciální techniku jeho užití. Tvůj první útok po prvním vytasení tohoto meče v boji je posílen o +1k12. |
-|  4   | **Pepřenka** (1k6+1k6 nebo 1k6 *plošně*, náchylné na vodu a oheň) - Unikátní prototyp poloautomatické příruční pistole, střílející malé kovové kuličky. Získal si ji jako dárek od velmi vděčného klienta. |
-|  5   | **Nůž na samo-navíjecím lanku** (1k6) - Velmi obskurní zbraň, kterou ses naučil při spolupráci s jedním nejmenovaným asasínem. Pevné kovové lanko se dá natáhnout až na 3 metry. |
+|  4   | **Pepřenka** (1k6+1k6 nebo 1k6 *plošně*, náchylné na vodu a oheň, hlučná) - Unikátní prototyp poloautomatické příruční pistole, střílející malé kovové kuličky. Získal si ji jako dárek od velmi vděčného klienta. |
+|  5   | **Nůž na samo-navíjecím lanku** (1k6) - Velmi obskurní zbraň, kterou ses naučil používat při spolupráci s jedním nejmenovaným asasínem. Pevné kovové lanko se dá natáhnout až na 3 metry. |
 |  6   | **Bojová hůl** (1k8, *neskladná*)- Hůl s pokovovanými konci. Jeden kejklíř tě kdysi naučil udržovat rovnováhu za pomocí tyče a ty jsi v tomto nástroji objevil i oblíbenou zbraň. |
 
 <img src="/assets/sep_line.png"/>
@@ -770,7 +770,7 @@ Vrozená schopnost (viz tabulka níže) - Každý velkomocný se narodí s unik�
 |  1   | Šlechtické letní sídlo. Měl tam plno dobrého vína ale nic moc jiného. Získáváš **20 šilinků** a **Štípačky**. |
 |  2   | Banka (Byl si chycen). Máš cejch, který lze vidět jen při záři ohně. Kdokoliv spatří tenhle cejch, tě může požádat o pivo. Získáváš **Navíjecí lanko**. |
 |  3   | Cechovní sklad. Získáváš **Žebřík** (2 metry, *neskladný*) a **Oslepující prášek** (1 použití) |
-|  4   | Lichvář. Někdo tě ale přeběhl. Nechal však po sobě **Svitek magického oka** (*zanedbatelný*)<br /><br />**Magické oko:** Můžeš vidět skrz magické vznášející se oko, které se vznáší a pohybuje na tvůj příkaz. |
+|  4   | Lichvář. Někdo tě ale předběhl. Nechal však po sobě **Svitek magického oka** (*zanedbatelný*)<br /><br />**Magické oko:** Můžeš vidět skrz magické vznášející se oko, které se vznáší a pohybuje na tvůj příkaz. |
 |  5   | Strážmistrovi komnaty. Povedlo se ti utéct, ale nechal si nějaké přátele na pospas. Získáváš **Hedvábný provaz** (5 metrů) a znechucení sebou samotným. |
 |  6   | Univerzita. Byl si odhalen ale nikdo tě nepronásledoval. Stále nemáš ponětí proč. Získáváš **Kouřové bombičky** (3 použití) |
 
