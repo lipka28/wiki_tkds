@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-<img src="/assets/SB/Aldir.png"/>
+<img src="/assets/SB/Aldir.webp"/>
 
 <img src="/assets/sep_line.png"/>
 

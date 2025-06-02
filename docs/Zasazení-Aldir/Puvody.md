@@ -8,7 +8,7 @@
 
 ## Akolyta
 
-*Jsi oddaným služebníkem církve. Odpouštíš hříchy a provádíš náboženské rituály. Když je třeba potrestáš i nějakého toho hříšníka. To, že bohové opustili tento svět neznamená, že jejich učení má být zapomenuto.*
+*Jsi oddaným služebníkem církve. Odpouštíš hříchy a provádíš náboženské rituály. Když je třeba potrestáš i nějakého toho hříšníka. Tvým údělem je šířit svaté učení.*
 
 **Počáteční výbava:** 
 
@@ -103,7 +103,7 @@
 | :--: | ------------------------------------------------------------ |
 |  1   | Blízkého. Při neopatrném zacházení se vzácnou Arkanou, si v ní věznil sobě blízkou osobu. Získáváš **Věznící krystal** (Plný), Může vnímat co se děje kolem něj? Nikdo neví. Třeba jednou přijdeš na to jak jej osvobodit. |
 |  2   | Ruku. Při nepovedeném pokusu o přesunu moci z Arkany do své ruky. Si ji nekontrolovaným magickým výbojem rozmetal na kusy. Z pahýlu v rameni, který bývala tvá ruka, ti teď vyrůstá **Magický krystal** (*zanedbatelný*, Křehký). Jeho rozbití ti způsobí ztrátu *1k4* SIL, ale vyvolá **Levitující magickou ruku** (3 BO, 6 SIL, 10 HBI, 0 VUL, úder (*1k6*)) o velikosti psa, kterou ovládáš. Tato ruka je s tebou propojena neviditelným magickým vláknem a nemůže se od tebe vzdálit na více jak 5 metrů. Rozbitý krystal do dalšího dne doroste. |
-|  3   | Duši. Vyobchodoval si svou duši s démonem za **Lektvar věčného mládí**(1 použití). Jeho vypití zaručí věčnou krásu a mládí. Požití také ihned vyléčí všechna zranění, únavu či jiné negativní stavy. Po tvé smrti máš však místo ve věčných pekelných plamenech zaručené. |
+|  3   | Duši. Vyobchodoval si svou duši s démonem za **Lektvar věčného mládí** (1 použití). Jeho vypití zaručí věčnou krásu a mládí. Požití také ihned vyléčí všechna zranění, únavu či jiné negativní stavy. Po tvé smrti máš však místo ve věčných pekelných plamenech zaručené. |
 |  4   | Půlku vesnice. Při svém pokusu o otevření brány do jiného světa, si vypustil na tento svět ohromné hadovité monstrum, které před tím, než se odpotácelo někam do divočiny, srovnalo se zemí půlku vesnice. Získáváš **Zub orizny** (1k6, Při *kritickém poškození* je cíl *vyčerpaný* a bez patřičné pomoci zemře do 1 hodiny na otravu) a tvé jméno vyvolává nechtěnou pozornost Lamačů kouzel. |
 |  5   | Život. Při svém pokusu o oživení mrtvého, za pomocí prastarého rituálu, si neopatrným přeřeknutím přišel o svůj vlastní život. O to větší bylo tvé překvapení, když si se později probudil s **Podivnou mincí** (zanedbatelné) v kapse a spoustou otázek. |
 |  6   | Nic. Ale bylo to o fous. Naštěstí si unikl z nebezpeční na poslední chvíli díky svým **Přemisťovacím oblázkům** (2 použití). Křehké kamínky podobné modrému sklu. Je li kamínek potřísněn čerstvou krví. Při rozbití přemístí na své místo stvoření, jehož krví byl potřísněn. |
@@ -140,11 +140,11 @@
 | 1k6  | K jakému kmeni patříš?                                       |
 | :--: | ------------------------------------------------------------ |
 |  1   | Kmen Zběsilého Divočáka. Aldirský kmen válečníků známý především svou divokostí. Kdykoliv v boji obdržíš poškození do SIL. Tvůj další útok na blízku v daném boji bude posílen o +1k12. |
-|  2   | Kmen Zlovlka. Severský kmen specializovaný na chov a trénink zlovlků. Získáváš **Osedlaného Zlovlka** (8 BO, 14 SIL, 12 HBI, 8 VUL, kousnutí (1k10), lze na něm jezdit, +2 sloty). Poslouchá tě na slovo. |
+|  2   | Kmen Zlovlka. Drakonijský kmen specializovaný na chov a trénink zlovlků. Získáváš **Osedlaného Zlovlka** (8 BO, 14 SIL, 12 HBI, 8 VUL, kousnutí (1k10), lze na něm jezdit, +2 sloty). Poslouchá tě na slovo. |
 |  3   | Kmen Medvědice.  Aldirský kmen extrémně silných divokých žen. Tvá SIL je o 2 vyšší. |
 |  4   | Kmen Pouštního hada. Jižanský kmen rudo-kožců žijící v poušti Vyprahlině. Jsi zvyklý na horko a pohyb písčitým terénem. Veškeré obdržené ohnivé poškození je o 1 stupeň nižší (1k8 -> 1k6 atd.) |
-|  5   | Kmen Sněžného leoparda. Severský kmen žijící v Ledových pláních. Jsi zvyklý na zimu a pohyb zasněženým nebo ledovým terénem. Veškeré obdržené mrazivé poškození je o 1 stupeň nižší (1k8 -> 1k6 atd.) |
-|  6   | Kmen Havrana. Tajemný kmen žijící v severních lesích. Získáváš **Přívěšek Havrana**. Vyvolá spirituálního havrana černého jako noc. Ten následuje tvé příkazy jak nejlépe mu jeho fyzická forma umožňuje. Pokud obdrží poškození rozplyne se a dané poškození je přeneseno na tebe ve formě ztráty SIL. |
+|  5   | Kmen Sněžného leoparda. Severský kmen pocházející z dalekého severu. Jsi zvyklý na zimu a pohyb zasněženým nebo ledovým terénem. Veškeré obdržené mrazivé poškození je o 1 stupeň nižší (1k8 -> 1k6 atd.) |
+|  6   | Kmen Havrana. Tajemný kmen žijící v severních lesích Ismerie. Získáváš **Přívěšek Havrana**. Vyvolá spirituálního havrana černého jako noc. Ten následuje tvé příkazy jak nejlépe mu jeho fyzická forma umožňuje. Pokud obdrží poškození rozplyne se a dané poškození je přeneseno na tebe ve formě ztráty SIL. |
 
 **Památka:**
 
@@ -161,7 +161,7 @@
 
 ## Dítě lesa
 
-*Jako dítě si byl ukraden druidy, kteří tě unesli do hlubin Nespoutané divočiny. Když se ti nakonec povedlo uniknout, vrátil se obohacen o znalosti, o které se s tebou druidové podělili.*
+*Jako dítě si byl ukraden Ismeriskými druidy, kteří tě unesli do hlubin Nespoutané divočiny. Když se ti nakonec povedlo uniknout, vrátil si se obohacen o znalosti, o které se s tebou druidové podělili.*
 
 **Počáteční výbava:** 
 
@@ -190,10 +190,10 @@
 | :--: | ------------------------------------------------------------ |
 |  1   | **Popel znovuzrození** (3 použití) - Získaný z pozůstatků ztracené duše žijící v kůře stromu. Umrlý plamen posypán tímto popelem procitne v nový život. Stejně jako stvoření mrtvé jen pár chvil se znovu navrátí ze světa mrtvých. |
 |  2   | **Pírko zastření** (1 použití) - Pero utržené z ocasu ptáka ohniváka. Umožní jakémukoliv stvoření se vydávat za někoho (nebo něco) jiného. |
-|  3   | **Žalud Dřevohonu** (1 použití) - Semínko získané z říše Fey, sklizené za jarní rovnodennosti. Pokud zasazeno. Během okamžiků z něj vyroste luxusní dřevěný příbytek, který se zhroutí o večeru dalšího dne. |
+|  3   | **Žalud Dřevohonu** (1 použití) - Semínko získané z říše víl, sklizené za jarní rovnodennosti. Pokud zasazeno. Během okamžiků z něj vyroste luxusní dřevěný příbytek, který se zhroutí o večeru dalšího dne. |
 |  4   | **Smůla z kamenného stromu** (+1 Brnění, 3 použití) - Smůla získaná výměnou za krev. Mazlavá substance, která ztvrdne po rozmazání na libovolný povrch. |
 |  5   | **Nocitvor** (2 použití) - Prach vzniklý z rituálního upálení 6-ti sov. Když rozprášen do vzduchu, den se na krátkou chvíli změní v noc. |
-|  6   | **Zaříkávací kámen** (1 použití) - Kámen získaný z řeky tekoucí z říše Fey. Pokud vyndán ze své kovové schránky může pohltit a uchovat jeden magický efekt. Rozbití kamene uchovaný magický efekt znovu vypustí. |
+|  6   | **Zaříkávací kámen** (1 použití) - Kámen získaný z řeky tekoucí z říše víl. Pokud vyndán ze své kovové schránky může pohltit a uchovat jeden magický efekt. Rozbití kamene uchovaný magický efekt znovu vypustí. |
 
 <img src="/assets/sep_line.png"/>
 
@@ -259,7 +259,7 @@
 |  2   | **Neviditelné symfonie**. Vázaná v lehce svítivém obalu. Velmi vzácná. Popisuje nepatrné projevy magie neviditelnosti. |
 |  3   | **Pojednání o stínech**. Nenadepsaná černá kniha. Hloubkový a vysoce teoretický text o světě mrtvých. Také popisuje (prý bezpečný) způsob jak se do tohoto světa dostat. |
 |  4   | **Hvězdný valčík**. Sada spisů držených pohromadě sponou o tvaru komety a kvalitním koženým vázáním. Detailně vyobrazuje astronomické mapy a pohyby těles na noční obloze. Extrémně vzácná a ceněná (100 šilinků) především pro cestovatele. |
-|  5   | **Katedrály v korunách stromů**. Velký věčně zelený list, držící po hromadě sadu pergamenů. Původně zamýšlená jako dětská knížka. Avšak celkem důkladně popisuje cestování a přežívání v Nespoutané Divočině. ==todo: fix with new lore== |
+|  5   | **Katedrály v korunách stromů**. Velký věčně zelený list, držící po hromadě sadu pergamenů. Původně zamýšlená jako dětská knížka. Avšak celkem důkladně popisuje cestování a přežívání v Nespoutané Divočině. |
 |  6   | **Zahrada zrcadel**. Stránky ukryté v obalu jiné knihy. Důmyslný traktát popisující potřebné materiály, procedury a nejvhodnější místa pro přípravu přemisťovacího rituálu. Kam? To z textu není úplně jasné. |
 
 **Metoda:**
@@ -432,6 +432,46 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 
 <img src="/assets/sep_line.png"/>
 
+## Krev prvních
+
+*Jsi zvláštní úkaz. Člověk narozený s krví prvních. Která ti propůjčuje vrozené magické schopnosti. Dávej pozor na jejich zneužívání, řád Lamačů kouzel se vždy dívá.*
+
+Vrozená schopnost (viz tabulka níže) - Každý, kdo se narodí s krví prvních, má unikátní magickou schopnost, kterou se během svého života naučí ovládat. Tyto vrozené schopnosti fungují efektivně stejně jako [kouzlení z magického grimoáru](/Zasazení-Aldir/Magie/#magicke-grimoary), nevyžadují však žádný speciální předmět. Na druhou stranu má však její používání extra negativní následky (viz. druhá tabulka následků).
+
+**Počáteční výbava:** 
+
+- *3k6* šilinků
+- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
+- Zásoby (3 použití)
+- Pochodeň (3 použití)
+- Kapesní nůž (1k6)
+- Pršiplášť s kapucí (*zanedbatelné* pokud oblečené)
+- Dřevěná hůl (1k6, *neskladná*)
+
+**Cena:**
+
+| 1k6  | Jaká je cena za tvé schopnosti?                              |
+| :--: | ------------------------------------------------------------ |
+|  1   | Žravost. Po každém použití tvé vrozené schopnosti jsi *vyčerpaný* dokud nesníš zásobu. Pro tyto účely sebou nosíš extra **Zásoby** (3 použití). |
+|  2   | Zranění. Po každém použití tvé vrozené schopnosti se někde na tvém těle udělá krvavý šrám a ztratíš tak 1 SIL. Proto sebou nosíš **Léčivé obvazy** (3 použití, stabilizuje, léčí 1 SIL). |
+|  3   | Otupění. Po každém použití tvé vrozené schopnosti je tvá mysl otupělejší  a ztratíš tak 1 VUL. Proto sebou nosíš **Povzbudivý elixír** (1 použití, léčí 3 VUL). |
+|  4   | Tuhnutí. Po každém použití tvé vrozené schopnosti ti tuhnou svaly a klouby a ztratíš tak 1 HBI. Proto sebou nosíš **Uvolňovací mast** (3 použití,  léčí 1 HBI) |
+|  5   | Omezená použití. Svou schopnost dokážeš vyvolat maximálně 2x za den a zatím si nepřišel na to jak tento limit překonat. Jelikož si občas musíš pomoci i jinak získáváš **Sedativum** (1 použití). |
+|  6   | Hlas. Dočasně ztratíš svůj hlas. Nemůžeš tedy mluvit a ani aktivovat svou vrozenou schopnost. Proto sebou nosíš **Psací potřeby a pergamen** (6 použití) |
+
+**Schopnost:**
+
+| 1k6  | Jaká nadpřirozená schopnost se u tebe vyvinula?              |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Fóbie** - Stvoření, které vidíš, se bude bát subjektu (stvoření či předmět), který určíš. |
+|  2   | **Ovládání počasí** - Můžeš změnit počasí avšak nemáš nad ním vyšší větší kontrolu. |
+|  3   | **Zvířecí forma** - Ty a tvá výbava se přeměníte do podoby běžného zvířete. |
+|  4   | **Štít** - Stvoření, které vidíš je pokryto ochrannou energií, která ho dělá nezranitelným proti běžným fyzickým útokům po dobu 1 minuty (6 kol). |
+|  5   | **Okouzlení** - Stvoření, které vidíš, tě považuje za přítele. |
+|  6   | **Zastření** - Stvoření, kterého se dotkneš, se stane pro všechny (mimo tebe) neviditelné dokud se nepohne. |
+
+<img src="/assets/sep_line.png"/>
+
 ## Lamačský inkvizitor
 
 *Jsi ochránce nevinných a inkvizitorem magie. Pod záštitou polo-vojenského řádu lamačů kouzel je tvým údělem zachraňovat Arkany ze spárů šílenců, lovit nebezpečná magická stvoření a zabraňovat zneužívání magie.*
@@ -449,13 +489,12 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 - Alchymisticky upravené oko (*zanedbatelné*) - Lamačští inkvizitoři mají jedno alchymisticky upravené oko (odborně nazýváno Gaulosovo oko). Tímto okem dokáží, bez většího soustředění, vidět chaotické proudění magie a tím poznat, že jsou v blízko u zdroje magie.
     - *Soustředění:* Lamač se může pokusit identifikovat vzory v těchto chaotických proudech (pokud není *vyčerpaný*) a tím si otevřít nové možnosti jako jsou například: Rozpoznání zdrojů magie i na velké vzdálenosti, prohlédnutí iluzí či neviditelnosti a nebo třeba identifikování podstaty magického efektu. Každé takové použití vyžaduje záchranu VUL. V případě neúspěchu je lamač *vyčerpaný*.
 
-
 **Mise:**
 
 | 1k6  | Co byla tvá poslední mise?                                   |
 | :--: | :----------------------------------------------------------- |
 |  1   | Unesená zvířata. Kult pokoušející se vyvolat nebezpečnou magickou bytost. Unášel zvířata z blízké vesnice, aby je obětoval při svých rituálech. Rozprášením tohoto kultu a záchrannou zvířat sis vysloužil oddanost jednoho toulavého **Loveckého psa** (4 BO, 10 SIL, 14 HBI, 6 VUL, Kousnutí (1k8)) |
-|  2   | Zmizelé děti. Organizovaná zločinecká skupina v Praagu si myslela, že může bez trestně unášet mladé dívky. Na jejich metodách ani záměrech nebylo vůbec nic magického. Ale aspoň ses pocvičil v boji. Navyš své BO o *1k4*. |
+|  2   | Zmizelé děti. Organizovaná zločinecká skupina v Praagu si myslela, že může bez trestně unášet mladé dívky. Na jejich metodách ani záměrech nebylo vůbec nic magického. Ale aspoň si se pocvičil v boji. Navyš své BO o *1k4*. |
 |  3   | Měňavec, který se pokusil nahradit senátora Wulfa. Získáváš **Ladičku odmaskování** (2 použití, *Dobíjení:* Musí být roztavena a znovu ukována, pokaždé hoď 1k6 při 1 - 2 je navždy zničená), Rozeznění ladičky naruší všechny iluze a přeměny v blízkém okolí. Přeměněná stvoření se, po dobu vibrování ladičky, vrátí do své originální podoby. |
 |  4   | Upír vydávajíc se za žebráka v malém přímořském městě. Získáváš **Sluneční tyč** (1 použití, *Dobíjení:* Nechej na silném slunečním světle celý den) - Poskytuje spoustu slunečního světla a tepla podobu až 1 hodiny. |
 |  5   | Ohnivý elementál rozsévající chaos v pohraničí. Získáváš **Hasící kámen** (2 použití), zabalený v pytlovině. Vystavení vzduchu uhasí všechny plameny v blízkém okolí. |
@@ -463,9 +502,9 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 
 **Předmět:**
 
-| 1k6  | Co sis přivlastnil z Lamačských skladů?                   |
+| 1k6  | Co sis přivlastnil z Lamačských skladů?                      |
 | :--: | :----------------------------------------------------------- |
-|  1   | **Surový pyridit** (cenný: 100 šilinků) - Extrémně vzácný, nikdo by neměl vědět že ho máš. |
+|  1   | **Surový pyridit** (cenný: 100 šilinků) - Extrémně vzácný kov k výrobě sepciálních lamačských zbraní pro zabíjení magických bytostí. Nikdo by neměl vědět že ho máš. |
 |  2   | **Bambitka** (1k10, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo) - Ničím speciální ale účinná. |
 |  3   | **Hůlka ohně** (6 použití) - Zapálí hořlavý materiál na který je namířena. |
 |  4   | **Vše klíč** (4 použití) - Odemkne libovolný zámek.          |
@@ -504,7 +543,7 @@ Pokud ti dal strážce k dispozici tabulku *Vazeb*, hoď si nad ní ještě jedn
 
 | 1k6  | Co si nikdy nezapomeneš vzít sebou?                          |
 | :--: | :----------------------------------------------------------- |
-|  1   | **Severská pálenka** (3 použití) - V lepších časech je dobrá na zahřátí, v těch horších se dá použít jako hořlavina. |
+|  1   | **Drakonijská pálenka** (3 použití) - V lepších časech je dobrá na zahřátí, v těch horších se dá použít jako hořlavina. |
 |  2   | **Stopařovo hrkátko** - Hlasitý nástroj, který odhalí blízké stezky i pokud jsou dobře ukryty. |
 |  3   | **Zívací vosk** (1 použití) - Váleček vosku, pokud rozpuštěn, jeho výpary mají uspávací účinky. |
 |  4   | **Lanko s kovovými kolky** - Výborné pro cestování obtížným terénem nebo na výrobu provizorních pastí. |
@@ -706,46 +745,6 @@ Zdroj prokletí:
 |  4   | **Pepřenka** (1k6+1k6 nebo 1k6 *plošně*, náchylné na vodu a oheň, hlučná) - Unikátní prototyp poloautomatické příruční pistole, střílející malé kovové kuličky. Získal si ji jako dárek od velmi vděčného klienta. |
 |  5   | **Nůž na samo-navíjecím lanku** (1k6) - Velmi obskurní zbraň, kterou ses naučil používat při spolupráci s jedním nejmenovaným asasínem. Pevné kovové lanko se dá natáhnout až na 3 metry. |
 |  6   | **Bojová hůl** (1k8, *neskladná*)- Hůl s pokovovanými konci. Jeden kejklíř tě kdysi naučil udržovat rovnováhu za pomocí tyče a ty jsi v tomto nástroji objevil i oblíbenou zbraň. |
-
-<img src="/assets/sep_line.png"/>
-
-## Velkomocný
-
-*Jsi zvláštní úkaz. Člověk narozený s magickým krystalem zaklíněným ve svém srdci. Od ostatních lidí se můžeš lišit nějakým zřejmými mutacemi, ale tvým hlavním poznávacím znamením jsou tvé vrozené magické schopnosti. Dávej pozor na jejich zneužívání, řád Lamačů kouzel se vždy dívá.*
-
-Vrozená schopnost (viz tabulka níže) - Každý velkomocný se narodí s unikátní magickou schopností, kterou se během svého života naučí ovládat. Tyto vrozené schopnosti fungují efektivně stejně jako [kouzlení z magického grimoáru](/Zasazení-Aldir/Magie/#magicke-grimoary), nevyžadují však žádný speciální předmět. Na druhou stranu má však její používání extra negativní následky (viz. druhá tabulka následků).
-
-**Počáteční výbava:** 
-
-- *3k6* šilinků
-- Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu)
-- Zásoby (3 použití)
-- Pochodeň (3 použití)
-- Kapesní nůž (1k6)
-- Pršiplášť s kapucí (*zanedbatelné* pokud oblečené)
-- Dřevěná hůl (1k6, *neskladná*)
-
-**Cena:**
-
-| 1k6  | Jaká je cena za tvé schopnosti?                              |
-| :--: | ------------------------------------------------------------ |
-|  1   | Žravost. Po každém použití tvé vrozené schopnosti jsi *vyčerpaný* dokud nesníš zásobu. Pro tyto účely sebou nosíš extra **Zásoby** (3 použití). |
-|  2   | Zranění. Po každém použití tvé vrozené schopnosti se někde na tvém těle udělá krvavý šrám a ztratíš tak 1 SIL. Proto sebou nosíš **Léčivé obvazy** (3 použití, stabilizuje, léčí 1 SIL). |
-|  3   | Otupění. Po každém použití tvé vrozené schopnosti je tvá mysl otupělejší  a ztratíš tak 1 VUL. Proto sebou nosíš **Povzbudivý elixír** (1 použití, léčí 3 VUL). |
-|  4   | Tuhnutí. Po každém použití tvé vrozené schopnosti ti tuhnou svaly a klouby a ztratíš tak 1 HBI. Proto sebou nosíš **Uvolňovací mast** (3 použití,  léčí 1 HBI) |
-|  5   | Omezená použití. Svou schopnost dokážeš vyvolat maximálně 2x za den a zatím si nepřišel na to jak tento limit překonat. Jelikož si občas musíš pomoci i jinak získáváš **Sedativum** (1 použití). |
-|  6   | Hlas. Dočasně ztratíš svůj hlas. Nemůžeš tedy mluvit a ani aktivovat svou vrozenou schopnost. Proto sebou nosíš **Psací potřeby a pergamen** (6 použití) |
-
-**Schopnost:**
-
-| 1k6  | Jaká nadpřirozená schopnost se u tebe vyvinula?              |
-| :--: | ------------------------------------------------------------ |
-|  1   | **Fóbie** - Stvoření, které vidíš, se bude bát subjektu (stvoření či předmět), který určíš. |
-|  2   | **Ovládání počasí** - Můžeš změnit počasí avšak nemáš nad ním vyšší větší kontrolu. |
-|  3   | **Zvířecí forma** - Ty a tvá výbava se přeměníte do podoby běžného zvířete. |
-|  4   | **Štít** - Stvoření, které vidíš je pokryto ochrannou energií, která ho dělá nezranitelným proti běžným fyzickým útokům po dobu 1 minuty (6 kol). |
-|  5   | **Okouzlení** - Stvoření, které vidíš, tě považuje za přítele. |
-|  6   | **Zastření** - Stvoření, kterého se dotkneš, se stane pro všechny (mimo tebe) neviditelné dokud se nepohne. |
 
 <img src="/assets/sep_line.png"/>
 
