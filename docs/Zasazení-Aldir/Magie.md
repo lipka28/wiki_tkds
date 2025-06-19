@@ -18,16 +18,16 @@ Magie v Aldiru je uměním ztraceným v mlhách času, třebaže svět po skonu 
 
 ## Sesílání kouzel
 
-- **Sesílání:** Kdokoliv může seslat kouzlo tím, že uchopí grimoár do obou ruk a nahlas přečte jeho obsah. Kdokoliv tak učiní si musí také přičíst bod únavy do svého inventáře.
+- **Sesílání:** Kdokoliv může seslat kouzlo tím, že uchopí grimoár do *obou ruk* a *nahlas* přečte jeho obsah. Kdokoliv tak učiní si musí také odečíst *1 bod VUL* (a extra 1 další bod za každý bod brnění získaný ze zbroje).
 - **Posílení kouzel:** Pokud je postava v bezpečí a má dostatek času může při sesílání kouzla rozšířit jeho efekt (věci jako: zasažení více cílů, zvětšit jeho sílu a nebo jinak ohnout znění kouzla dle tolerance strážce). Tohle posílení většinou vyžaduje záchranu VUL.
-- **Nebezpečí:** Pokud je postava v *vyčerpaná* nebo v nebezpečí (například v boji), seslání kouzla může vyžadovat záchranu VUL, aby se čarující vyvaroval potencionálním vedlejším efektům kouzla. Negativní následky nepovedeného sesílání jsou vždy odvozeny ze sesílaného kouzla a jeho využití. Mohou to být efekty jako extra body únavy, zničení grimoáru, zranění či dokonce smrt.
+- **Nebezpečí:** Pokud je postava v *vyčerpaná* nebo v nebezpečí či časovém presu (například v boji), seslání kouzla může vyžadovat záchranu VUL, aby se čarující vyvaroval potencionálním vedlejším efektům kouzla. Negativní následky nepovedeného sesílání jsou vždy odvozeny ze sesílaného kouzla a jeho využití. Mohou to být efekty jako ztráta dovednostních bodů, zničení grimoáru, zranění či dokonce smrt.
 
 ## Svitky 
 
 Svitky jsou funkcí velmi podobné magickým grimoárům, až na následující rozdíly:
 
--  Svitky jsou považovány za *zanedbatelný předmět*.
-- Sesílání se svitku nepřidává *bod únavy*.
+- Svitky jsou považovány za *zanedbatelný předmět*.
+- Sesílání ze svitku (v zamýšlkeném rozsahu) nestojí dovednostní body.
 - Po jednom použití jsou zničeny.
 
 ## Arkany

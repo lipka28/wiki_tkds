@@ -85,9 +85,8 @@ Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se n
 ### Body obrany (BO), odpočinek a léčení
 
 - **Body obrany (BO):** Každé stvoření disponuje body obrany. Které schopnost vyvarovat se zranění v boji.
-- **Odpočinek:** Krátký odpočinek a napití se vody doplní stvoření všechny jeho *body obrany*. Předměty jako jsou třeba náplasti mohou během odpočinku stabilizovat umírající postavy.
-- **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny jako volno-časová aktivita nebo rychleji zaplacením léčitele či jiným vhodným zdrojem potřebné expertízy.
-- **Cena léčení:** Běžné léčení, které trvá je většinou zdarma avšak rychlé nebo třeba magické zdroje léčení či jiná specializovaná léčba může něco stát.
+- **Krátký odpočinek:** Pokud lze předpokládat, že stvoření mělo po boji dostatek času na oddechnutí si. Vstupuje do dalšího boje vždy s *plným počtem bodů obrany*.
+- **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny několika způsoby. *1k6 dovednostních bodů*, lze vyléčit odpočinkem do dalšího dne. Alternativně si lze body dovedností vyléčit zaplacením léčitele či jiným vhodným zdrojem potřebné expertízy nebo se také doplní automaticky na konci libovolné *volno časové aktivity* (avšak případné záchranné hody ve volno časové aktivitě probíhají ještě se sníženými hodnotami).
 
 ### Nosnost
 
@@ -96,13 +95,11 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 - **Inventář:** Je abstraktní pojem pro umístění předmětů postavy. V logice hry postava uchovává své předměty různě na svém těle. První 2 sloty jsou vymezeny pro ruce a ostatní předměty jsou například na opasku, v kapsách, přivázané na zádech či v batohu.
 - **Sloty:** Všechny věci, pokud není uvedeno jinak, zabírají *1 slot*. Pokud lze předmět považovat za *neskladný*, zabírá sloty *2*. Některé předměty jsou také označeny jako *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo.
 - **Nosnost:** Nosnost postavy je *12 slotů*.
-- **Překročení nosnosti:** Nosnost postavy nelze překročit. Výjimkou je překročení vzhledem k získání únavy. Je-li nosnost inventáře touhle formou překročena, *BO postavy je 0*.
 - **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých Arkan.
 
-### Únava a vyčerpání
+### Vyčerpání
 
-- **Body únavy:** Postava může na základě svých akcí obdržet bod únavy. Ten obsadí místo v inventáři jako by se jednalo o předmět. Všechny body únavy se odstraní přespáním do dalšího dne na bezpečném místě.
-- **Vyčerpání:** Postava, která není schopna obstarat své základní životní potřeby (jídlo, pití spánek) se stává *vyčerpanou* a také obdrží *body únavy* za každý den, kde není schopna tyto potřeby obstarat. Vyčerpaná postava si nemůže doplnit *body obrany*, vyléčit *ztracené dovednosti* či zbavit se *bodů únavy*.
+- **Vyčerpání:** Postava, která není schopna obstarat své základní životní potřeby (jídlo, pití spánek) se stává *vyčerpanou* a také ztratí 1 bod z každé dovednosti za každý den, kde není schopna tyto potřeby obstarat. Vyčerpaná postava si nemůže doplnit *body obrany* a ani vyléčit *ztracené dovednostní body*.
 
 ### Brnění
 
@@ -141,6 +138,9 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 - **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a musí podstoupit záchranný hod proti *kritickému poškození*.
 - **Vícenásobný útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
 
+!!! example "Alternativní varianta: Společně jsme silnější"
+	Možnou variantou pro vícenásobný útok. Je přičíst +1 k poškození za každého útočníka do stejného cíle, schopného jej zranit (mimo prvního). Do maximální hodnoty +5. Tohle neplatí proti oddílům.
+
 ### Modifikátory útoků
 
 - **Oslabený útok:** Útok za nevýhodných okolností (jako je například skrz kouř či se svázanýma rukama) je považován za oslabený. Oslabený útok vždy uděluje pouze *1k4 poškození* a za běžných okolností nemůže čerpat bonusová poškození (pokud strážce nerozhodne jinak).
@@ -157,7 +157,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 ### Kritické poškození
 
 - **Vyhodnocení:** Pokud udělené poškození sníží hodnotu BO cíle pod 0, přebytečné poškození je následně odečteno z jeho relevantní dovednosti (většinou SIL). Takto poškozený cíl musí následně uspět v záchraně dané dovednosti (s touhle novou hodnotou), aby se vyvaroval *kritickému poškození* a zůstal schopen boje.
-- **Efekt kritického poškození:** V případě neúspěchu obdrží *kritické poškození*. Stvoření zasaženo kritický poškození, leží na zemi a umírá. Nemůže dělat nic jiného než jen sýpat, sápat se a velmi pomalu se plazit po zemi. Pokud takové stvoření není do hodiny stabilizováno (třeba za pomocí bandáží), zemře.
+- **Efekt kritického poškození:** V případě neúspěchu obdrží *kritické poškození*. Stvoření zasaženo kritický poškození, leží na zemi a umírá. Nemůže dělat nic jiného než jen sýpat, sápat se a velmi pomalu se plazit po zemi. Pokud takové stvoření není do hodiny stabilizováno (třeba za pomocí bandáží nebo pomocí spojence po boji), zemře.
 - **Monstra:** V případě monster, znamená kritické poškození většinou smrt. Některá monstra také mají speciální schopnosti, která se projeví, když dané monstrum způsobí kritické poškození.
 
 ### Ztráta dovednostních bodů
@@ -167,9 +167,9 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 - **Vůle:** Pokud je vůle stvoření zredukována na 0, stvoření není schopné přemýšlet nebo provádět akce.
 - **Poškození mimo boj:** Pokud stvoření obdrží poškození mimo boj, udělené poškození se odečte přímo z relevantní dovednosti (většinou síla)
 
-### Útěk z boje
+### Útěk
 
-- **Útěk:** Útěk ze svízelné situace vyžaduje bezpečné místo k úniku a také úspěšné záchranu HBI.
+- **Útěk:** Útěk ze svízelné situace (například z obklíčení nepřáteli) vyžaduje bezpečný směr a místo k úniku, a také úspěšné záchranu HBI.
 
 ### Morálka
 
@@ -182,8 +182,8 @@ Velké skupiny nepřátel (jako třeba armáda zombie) nebo gigantičtí nepřá
 
 - **Kritické poškození:** Oddíly na místo SIL se zachraňují proti VUL (případně VUL svého vůdce). Když oddíl obdrží kritické poškození, tak se rozpadne na samostatné členy nebo se dá na útěk. 
 - **Zničení oddílu:** Když SIL oddílu dosáhne 0, oddíl je zničen.
-- **Útoky proti oddílům:** Pokud jedinec útočí na oddíl, jeho útok je považován za *oslabený*. Neplatí pro *plošné*.
-- **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok jeho útok probíhá s +1k12 a je považován za *plošné*.
+- **Útoky proti oddílům:** Pokud jedinec útočí na oddíl, jeho útok je považován za *oslabený*. Neplatí pro *plošné* útoky.
+- **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok jeho útok probíhá s +1k12 a je považován za *plošný*.
 
 ## Růst postav
 

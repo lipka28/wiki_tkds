@@ -16,14 +16,12 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 
 ## Zbroje a štíty
 
-| Zbroj                              |  Cena |
-| ---------------------------------- | ----: |
-| Štít (+1 brnění)                   | 10 ši |
-| Přilbice (+1 brnění)               | 10 ši |
-| Gambeson (+1 brnění)               | 15 ši |
-| Brigandina (1 brnění, *neskladná*) | 20 ši |
-| Kroužková (2 brnění, *neskladná*)  | 40 ši |
-| Plátová (3 brnění, *neskladná*)    | 60 ši |
+| Zbroj                                                        |  Cena |
+| ------------------------------------------------------------ | ----: |
+| Štít (+1 brnění)                                             | 10 ši |
+| Gambeson (+1 brnění)                                         | 15 ši |
+| Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*)     | 25 ši |
+| Těžká zbroj (2 brnění, *neskladná*, stěžuje některé aktivity) | 50 ši |
 
 ## Zbraně
 
@@ -44,7 +42,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | ------------------------------------------------------------ | -----: |
 | Alchymistická substance (Výbušná, žíravá nebo mrazivá)       |  15 ši |
 | Cestovní alchymistické nástroje (3 použití)                  |  40 ši |
-| Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu) |  50 ši |
+| Cestovní výbava (obsahuje: spacák, křesadlo, mýdlo a měch na vodu) |  20 ši |
 | Čistící sada na křesadlové zbraně (6 použití)                |  20 ši |
 | Dalekohled                                                   |  40 ši |
 | Dřevěná tyč (*neskladná*) - 2 metry                          |   2 ši |
@@ -56,7 +54,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Hudební nástroj - Ruční                                      |  25 ši |
 | Hudební nástroj - Velký (*neskladný*)                        |  50 ši |
 | Kniha                                                        |  30 ši |
-| Kompas                                                       |  75 ši |
+| Kompas (*zanedbatelné*)                                      |  75 ši |
 | Kovový hřeb (*zanedbatelné*)                                 |   2 ši |
 | Kovový ježci (1 použití)                                     |  10 ši |
 | Křída (*zanedbatelné*)                                       |   1 ši |
@@ -76,15 +74,16 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Pouta                                                        |  20 ši |
 | Protijed                                                     |  20 ši |
 | Provaz (5 metrů)                                             |   5 ši |
-| Psací potřeby a pergamen (6 použití)                         |  30 ši |
-| Rukavice (*zanedbatelné*)                                    |  15 ši |
+| Psací potřeby a pergamen (10 použití)                        |  30 ši |
+| Rukavice (*zanedbatelné* pokud oblečené)                     |  15 ši |
 | Řetěz (2 metry)                                              |  10 ši |
 | Sada líčidel a převleků (3 použití, *neskladná*)             |  50 ši |
 | Sedativum                                                    |  30 ši |
 | Síť                                                          |  10 ši |
+| Stan (až pro 2 lidi)                                         |  20 ši |
 | Svíčka (*zanedbatelné*)                                      |   2 ši |
-| Šicí potřeby (6 použití)                                     |  20 ši |
-| Tabák (6 použití)                                            |  15 ši |
+| Šicí potřeby (10 použití)                                    |  20 ši |
+| Tabák (10 použití)                                           |  15 ši |
 | Truhla se zámkem (1 slot)                                    |  20 ši |
 | Víno (1 litr, obyčejné)                                      |   5 ši |
 | Víno (1 litr, Kvalitní)                                      |  50 ši |
