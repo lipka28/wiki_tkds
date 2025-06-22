@@ -76,7 +76,7 @@ Záchranný hod je hod kostkou za účelem vyvarování se negativním následk�
 !!! example "Alternativní varianta: Přehození cílené hodnoty"
 	Skupiny, které radši hází vysoká čísla mohou zkusit následující variantu. Záchranný hod je úspěšný pokud hod *1k20+relevantní dovednost* je rovno nebo výše jak *21*. Hod přirozených *20* je vždy *úspěch* a hod přirozených *1* vždy *neúspěch*.
 
-### Kostka osudu
+### Kostka osudu (hod štěstí)
 
 Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se na jeho výsledek zeptat kostky osudu.
 
@@ -94,8 +94,8 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 
 - **Inventář:** Je abstraktní pojem pro umístění předmětů postavy. V logice hry postava uchovává své předměty různě na svém těle. První 2 sloty jsou vymezeny pro ruce a ostatní předměty jsou například na opasku, v kapsách, přivázané na zádech či v batohu.
 - **Sloty:** Všechny věci, pokud není uvedeno jinak, zabírají *1 slot*. Pokud lze předmět považovat za *neskladný*, zabírá sloty *2*. Některé předměty jsou také označeny jako *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo.
-- **Nosnost:** Nosnost postavy je *12 slotů*.
-- **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých Arkan.
+- **Nosnost:** Nosnost postavy je *10 slotů*.
+- **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých magických předmětů (Arkan).
 
 ### Vyčerpání
 
@@ -105,7 +105,7 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 
 - **Brnění:** Před odpočítáním poškození z BO cíle. Je tohle poškození sníženo o hodnotu brnění až na potencionální 0.
 - **Přilbice a štíty:** Poskytují bonus +1 k brnění (Mohou poskytovat i jiné bonusy na základy toho jak je popsáno jejich využití).
-- **Maximální brnění:** Postavy a příšery nemohou mít hodnotu brnění nikdy vyšší než *3*. 
+- **Maximální brnění:** Postavy a příšery nemohou mít hodnotu brnění nikdy vyšší než *3*.
 
 ### Reakce
 
@@ -201,7 +201,7 @@ První mechanizmus pro postupný růst je nezávislý na okolnostech hry či kam
 
 ### Růst na základě herních interakcí
 
-Hlavním a nejčastějším prostorem pro růst je interakce postavy s herním světem. Stejně jako se herní svět v průběhu kampaně rozvíjí, rozvíjí se i hráčské postavy. To může být na základě toho jak postava využije svých *volno-časových aktivit* (viz. mezi [dobrodružstvími](/Procedury/#mezi-dobrodruzstvimi)), jaká učiní rozhodnutí (například k jakým frakcím se přidá) a nebo prostě kumulativně dle toho, čemu se chce postava věnovat.
+Hlavním a nejčastějším prostorem pro růst je interakce postavy s herním světem. Stejně jako se herní svět v průběhu kampaně rozvíjí, rozvíjí se i hráčské postavy. To může být na základě toho jak postava využije svých *volno-časových aktivit* (viz. mezi [dobrodružstvími](/Procedury/#mezi-dobrodruzstvimi)), jaká učiní rozhodnutí (například k jakým frakcím se přidá) a nebo prostě kumulativně dle toho, čemu se postava věnuje při hře samotné.
 
 #### Zásady pro růst
 
@@ -212,7 +212,7 @@ Hlavním a nejčastějším prostorem pro růst je interakce postavy s herním s
 - Růst by měl podbízet k dalším interakcím se světem a s jeho výzvami.
 - Růst není odměnou ale pouze logickým důsledkem akcí postavy.
 - Růst není vždy kontrolovatelný, změna může mít svou cenu a ne vžy musí být po chuti hráči, který za postavu hraje. Avšak snaha o zvrácení takových změn vede k dalšímu rozvoji příběhu a světa.
-- Arkany, poklady, frakce monstra a důležité nehráčské postavy. Poskytují výborný potenciál k nějakému tomu růstu.
+- Magické předměty (Arkany), poklady, frakce monstra a důležité nehráčské postavy. Poskytují výborný potenciál k nějakému tomu růstu.
 
 #### Vhodný spouštěč růstu
 
@@ -227,7 +227,7 @@ Spouštěčem růstu může být ve směs cokoliv. Univerzálně lze však pova�
 Pár příkladů vhodného růstu (v angličtině, odkaz na stránky Cairn)
 
 - [Interakce s něčím nebo někým neznámým](https://cairnrpg.com/second-edition/wardens-guide/growth/#interacting-with-something-or-someone-they-do-not-understand)
-- [Dlouhodobá manipulace nebo vystavení se magickému grimoáru (spellbook) či arkaně (relic)](https://cairnrpg.com/second-edition/wardens-guide/growth/#long-term-exposure-or-manipulation-of-a-spellbook-or-relic)
+- [Dlouhodobá manipulace nebo vystavení se magickému grimoáru (spellbook) či magickému předmětu (relic)](https://cairnrpg.com/second-edition/wardens-guide/growth/#long-term-exposure-or-manipulation-of-a-spellbook-or-relic)
 - [Navázání vztahu se velmi mocným stvořením](https://cairnrpg.com/second-edition/wardens-guide/growth/#forging-a-relationship-with-a-being-of-great-power)
 - [Překonání dlouhodobého soka](https://cairnrpg.com/second-edition/wardens-guide/growth/#overcoming-a-long-time-woe-misdeed-or-foe)
 - [Zranění nebo nákaza](https://cairnrpg.com/second-edition/wardens-guide/growth/#injury-or-contamination)

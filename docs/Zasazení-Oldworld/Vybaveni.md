@@ -41,6 +41,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | PŘEDMĚT                                                      |   CENA |
 | ------------------------------------------------------------ | -----: |
 | Alchymistická substance (Výbušná, žíravá nebo mrazivá)       |  30 ši |
+| Alchymistický materiál                                       |  20 ši |
 | Cestovní alchymistické nástroje (6 použití)                  |  40 ši |
 | Cestovní výbava (obsahuje: spacák, křesadlo, mýdlo a měch na vodu) |  20 ši |
 | Čistící sada na křesadlové zbraně (6 použití)                |  20 ši |
@@ -61,6 +62,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Lampový olej (6 použití)                                     |  15 ši |
 | Léčivé obvazy (3 použití, stabilizuje, léčí 1 SIL)           |  30 ši |
 | Lucerna                                                      |  10 ši |
+| Magický materiál                                             | 200 ši |
 | Motouz (10 metrů)                                            |   2 ši |
 | Nádoba (jako měch na vodu, pytel či lahvička se zátkou)      |   5 ši |
 | Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo, Prut na ryby atd...) |  10 ši |
@@ -92,6 +94,8 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Zásoby (3 použití)                                           |  10 ši |
 | Zlodějské náčiní (6 použití)                                 |  25 ši |
 | Zrcátko (*zanedbatelné*)                                     |   5 ši |
+| Zvoneček (*zanedbatelné*)                                    |  10 ši |
+| A další... (Řekni si PJ co potřebuješ)                       |     ?? |
 
 ## Nájemná pomoc
 
