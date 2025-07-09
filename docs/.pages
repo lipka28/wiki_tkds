@@ -1,10 +1,9 @@
 nav:
   - index.md
-  - Terminologie.md
-  - Dovednosti.md
-  - TvorbaPos.md
-  - Gear.md
-  - LevelUp.md
-  - Pravidla a procedury
-  - Zasazení (Žánry)
+  - Player.md
+  - Zakladni_pravidla.md
+  - Procedury.md
+  - Zasazení-Aldir
+  - Zasazení-Oldworld
+  - Warden.md
   - ...
