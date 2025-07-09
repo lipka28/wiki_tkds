@@ -22,7 +22,7 @@ Postavy dosažením různých milníků mohou postoupit na vyšší úroveň dob
 
 **Hod na dovednosti:** Postava si hodí 1k20 na každou ze svých dovedností. Je-li výsledek vyšší než aktuální maximální hodnota dané dovednosti, navýší si hodnotu této dovednosti o 1.
 
-**Rozšíření inventáře:** Nosnost postavy se navýší o *2 sloty*.
+**Rozšíření inventáře:** Nosnost postavy se navýší o *1 slot*.
 
 **Učeň:** Postava přiláká učně. Tento učeň začíná jako *začátečník*.
 
