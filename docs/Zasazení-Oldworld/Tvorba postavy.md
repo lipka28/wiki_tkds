@@ -6,33 +6,33 @@
 
 <img src="/assets/sep_line.png"/>
 
-Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://docs.google.com/spreadsheets/d/1uAZa4CWrVsyl2LF_RfK6E02R4ydYQbxczojsxa8i4p8/edit?usp=sharing). Jak budeš připraven, následuj tyto kroky.
+Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://docs.google.com/spreadsheets/d/1Sn62Pj5LBoiwqzg830dHE5THVGlDTvaI0glZ8Rxn5Ac/edit?usp=sharing). Jak budeš připraven, následuj tyto kroky.
 
-## 1. Naházej si dovednostní body
+## 1. Urči svůj původ
 
-Každá tvá dovednost (SIL, HBI, VUL) začíná s *8 body*. Hoď si *3k6* a každou z těchto kostek přiřaď k jedné ze tvých dovedností v libovolném pořadí. Výsledkem by měla být sada 3 dovedností v rozmezí *9* až *14*.
+**Základní výbava pro všechny postavy:** *3k6* šilinků; Cestovní výbava (obsahuje: spacák, křesadlo, mýdlo a měch na vodu), Běžné oblečení (*zanedbatelné* pokud oblečené) a  Zásoby (3 použití).
 
-## 2. Urči své body obrany (BO)
-
-Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ nebezpečně, můžeš si na místo toho hodit *1k6* a zapsat si výsledek.
-
-## 3. Urči svůj původ ==todo: redo==
-
-**Základní výbava pro všechny:** *3k6* šilinků; Cestovní výbava (*neskladná*, obsahuje: stan, spacák, nádobí na přípravu jídla, křesadlo, mýdlo a měch na vodu) a Zásoby (3 použití)
-
-Vyber si jeden z původů v tabulce níže (nebo si hoď *1k20* pro náhodný původ). Každý původ obsahuje popis, výbavu (jak funguje inventář najdeš [zde](/Zakladni_pravidla/#nosnost)) a 2 tabulky extra výbavy či schopností. Nad těmito tabulkami si můžeš buď hodit nebo si z každé jednu položku vybrat.
+Vyber si jeden z původů v tabulce níže (nebo si hoď *1k20* pro náhodný původ). Každý původ obsahuje popis, výbavu (jak funguje inventář najdeš [zde](/Zakladni_pravidla/#nosnost)) a jednu volbu, kterou je třeba provést.
 
 Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci se strážcem sestavit vlastní původ nebo některý z existujících původů upravit.
+
+## 2. Naházej si dovednostní body
+
+Pokud je tvá postava člověk, každá tvá dovednost (SIL, HBI, VUL) začíná s *8 body*. Pokud není člověk, řiď se hodnotami zapsanými ve tvém původu. Hoď si *3k6* a každou z těchto kostek přičti k jedné ze tvých dovedností v libovolném pořadí.
+
+## 3. Urči své body obrany (BO)
+
+Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ nebezpečně, můžeš si na místo toho hodit *1k6* a zapsat si výsledek.
 
 ## 4. Dodělej detaily
 
 Teď už jen dolaď maličkosti.
 
 - **Jméno:** Vymysli si jméno
-- **Věk:** Stanov svůj věk nebo si hoď *15+2K20* (Pokud máš původ Velkomocného můžeš výsledek vynásobit 4x)
+- **Věk:** Stanov svůj věk nebo si hoď *15+2K20* (U trpaslíků může výsledek vynásobit až *x10* a u elfů až *x100*).
 - **Vizuální a povahové rysy:** Stanov klíčové vizuální a povahové rysy své postavy. Mohou ti pomoci tabulky níže (není třeba používat všechny)
 - **Vazby:** Pokud ti strážce dal k dispozici tabulku *Vazeb*, hoď si nad ní.
-- **Znamení:** Pokud je věk tvé postavy nejnižší ve skupině a strážce ti dal k dispozici tabulku *Znamení*, hoď si nad ní a o výsledek se poděl se skupinou.
+- **Znamení:** Pokud je tvá postava nejmladší ve skupině a strážce ti dal k dispozici tabulku *Znamení*, hoď si nad ní a o výsledek se poděl se skupinou.
 - **Zformuluj popis:** Všechny tyto rysy, původ a trochu tvé kreativní licence spoj do popisu své postavy a poznač si do svého deníku postavy.
 
 ### Tabulky rysů postav

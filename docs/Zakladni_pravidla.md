@@ -36,6 +36,8 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Přičítání kostek:** Pokud efekt (většinou útok) je zapsán jako *1k8+1k8*, znamená to, že hráč si na vyhodnocení hodí *2k8*, ale bere jen *nejvyšší výsledek* z těchto dvou kostek. Stejně tak pokud efekt udává *+1k12*. Znamená to, že se k hodu přihodí *1k12* a opět se bere jen ten *nejvyšší hod ze všech hodů*.
 
+**Zaokrouhlování:** Pokud dojde na situaci, kdy je třeba zaokrouhlit nějaké číslo na celé. Vždy se zaokrouhluje dolů (pokud není specifikováno jinak).
+
 <img src="/assets/sep_line.png"/>
 
 ## Hlavní herní smyčka
@@ -86,7 +88,7 @@ Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se n
 
 - **Body obrany (BO):** Každé stvoření disponuje body obrany. Které schopnost vyvarovat se zranění v boji.
 - **Krátký odpočinek:** Pokud lze předpokládat, že stvoření mělo po boji dostatek času na oddechnutí si. Vstupuje do dalšího boje vždy s *plným počtem bodů obrany*.
-- **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny několika způsoby. *1k6 dovednostních bodů*, lze vyléčit odpočinkem do dalšího dne. Alternativně si lze body dovedností vyléčit zaplacením léčitele či jiným vhodným zdrojem potřebné expertízy nebo se také doplní automaticky na konci libovolné *volno časové aktivity* (avšak případné záchranné hody ve volno časové aktivitě probíhají ještě se sníženými hodnotami).
+- **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny několika způsoby. *1k6 dovednostních bodů*, lze vyléčit odpočinkem do dalšího dne. Alternativně si lze body dovedností vyléčit zaplacením léčitele či jiným vhodným zdrojem potřebné expertízy. Týdenní odpočinek však vždy vyléčí všechny dočasně ztracené dovednostní body.
 
 ### Nosnost
 
@@ -128,23 +130,40 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 ### Tahy
 
 - **Deklarace:** Každý hráč na tahu, deklaruje co chce v daném tahu provádět, strážce si to poznačí a následně vyhodnotí všechny tahy hráčů na jednou.
-- **Aktivity během tahu:** Stvoření během svého tahu může provést akci a přesunout se až o *10 metrů*. Všechny postavy musí své tahy deklarovat předem a ty jsou společně vyhodnoceny v jednu chvíli.
-- **Akce:** Za akci lze považovat útok, seslání kouzla, dalších až 8 metrů pohybu a nebo jiná smysluplná akce. Pokud je daná akce riskantní, strážce si může vyžádat hod na záchranu relevantní dovednosti nebo hodit na záchranu relevantní dovednosti za ovlivněné stvoření.
-- **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy či drobné interakce s prostředím (jako je třeba otevírání a zavírání dveří) 
+- **Aktivity během tahu:** Stvoření během svého tahu se může přesunout a provést akci. Všechny postavy musí své tahy deklarovat předem a ty jsou společně vyhodnoceny v jednu chvíli.
+- **Akce:** Za akci lze považovat útok, seslání kouzla, další přesun a nebo jiná smysluplná akce. Pokud je daná akce riskantní, strážce si může vyžádat hod na záchranu relevantní dovednosti nebo hodit na záchranu relevantní dovednosti za ovlivněné stvoření.
+- **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy či drobné interakce s prostředím (třeba otevírání a zavírání dveří)
+
+### Měření vzdáleností
+
+Pro měření vzdálenosti se pro zjednodušení používají **abstraktní vzdálenosti** a **zóny**.
+
+**Abstraktní vzdálenosti**
+
+Se dělí do následujících typů:
+
+- **Blízko:** Cokoliv se nachází ve stejné zóně je blízko a lze na to zaútočit útok na blízku či schopnostmi vyžadující dotek.
+- **Poblíž:** Cokoliv k čemu se lze dostat během jednoho tahu je poblíž. Většinou se jedná o vedlejší zóny.
+- **Daleko:** Cokoliv k čemu se nelze dostat během jednoho tahu ale lze na to seslat kouzlo nebo dostřelit je daleko. 
+- **Mimo dosah:** Cokoliv lze vidět avšak je mimo dosah většinou střelných zbraní a kouzel.
+
+**Zóny**
+
+Zóny jsou abstraktní výřezy bojiště nespecifikované velikosti (Nikdy však větší jak 10 metrů čtverečných). Zóny mohou mít speciální efekty, mít mezi sebou různé přechody a obecně by měli dělat bojiště zajímavější a členitější.
 
 ### Útok a poškození
 
 - **Útok:** Útočník uděluje poškození určenou kostkou poškození použité zbraně.
 - **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a musí podstoupit záchranný hod proti *kritickému poškození*.
-- **Vícenásobný útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
+- **Skupinový útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
 
 !!! example "Alternativní varianta: Společně jsme silnější"
-	Možnou variantou pro vícenásobný útok. Je přičíst +1 k poškození za každého útočníka do stejného cíle, schopného jej zranit (mimo prvního). Do maximální hodnoty +5. Tohle neplatí proti oddílům.
+	Možnou variantou pro vícenásobný útok. Je přičíst +1 k poškození za každou kostku útoku s hodnotou 4+, schopnou zranit zranit nepřítele (mimo nejvyšší kostku).
 
 ### Modifikátory útoků
 
 - **Oslabený útok:** Útok za nevýhodných okolností (jako je například skrz kouř či se svázanýma rukama) je považován za oslabený. Oslabený útok vždy uděluje pouze *1k4 poškození* a za běžných okolností nemůže čerpat bonusová poškození (pokud strážce nerozhodne jinak).
-- **Posílený útok:**  Útok za výhodných okolností může poskytnout bonusové poškození označované jako například +1k6 či +1k8 (nebo například +1k12 proti úplně bezbranným cílům). Tohle bonusové poškození se háže jako součást běžného hodu na poškození a udělen je pak pouze nejvyšší dosažený výsledek. Většinou je tento bonus +1k8.
+- **Posílený útok:**  Útok za výhodných okolností může poskytnout bonusové poškození označované jako například +1k6 či +1k8 (nebo například +1k12 proti úplně bezbranným cílům). Tohle bonusové poškození se háže jako součást běžného hodu na poškození a udělen je pak pouze nejvyšší dosažený výsledek. Většinou je tento bonus +1k8. Útok jedince nemůže mít více jak jedno posílení. Vždy se tedy počítá jen nejvyšší dosažené posílení.
 - **Plošné:** Zbraně a útoky s touto vlastností, zasáhnou všechna stvoření v uvedené oblasti. Poškození se háže za každé ovlivněné stvoření zvlášť. Pokud z popisku efektu není jasné kolik cílů může být efektem ovlivněno lze tak určit hodem stejnou kostkou poškození jako je u efektu uvedena.
 - **Útok dvěma zbraněmi:** Pokud stvoření útočí dvěma zbraněmi, druhá zbraň poskytuje posílení ve výši své kostky poškození. Většinou se zapisuje následovně: "dva nože 1k6+1k6".
 
@@ -152,7 +171,10 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 - **Dostřel:** Zbraněmi na dálku lze efektivně útočit na nepřítele dostatečně blízko na to, aby bylo vidět bělmo jeho očí (dle uvážení strážce avšak většinou do vzdálenosti 12 metrů). Útok na mimořádně vzdálené cíle je považována za *oslabený útok*.
 - **Ohrožení:** Pokud je stvořené v dosahu útoku na blízku jiného tvora, nemůže provést útok střelnou zbraní.
-- **Munice:** Pokud není vysloveně relevantní pro vyprávěný příběh (například boj o přežití na opuštěném ostrově), stvoření má dostatek munice pro zbraň, kterou používá.
+- **Munice:** Střelné zbraně většinou vyžadují k používání nějakou tu munici. Bez munice nelze ze zbraně střílet. Každá munice má specifický počet použití a je vázána na specifickou zbraň (strážce může udělat výjimku). Munice se spotřebovává následujícími způsoby:
+    - **Použití v boji:** Pokud je v boji použita zbraň využívající munici, na konci boje si uživatel odečte *1 použití munice* (nezávisle na tom kolikrát byla zbraň v boji použita).
+    - **Použití mimo boj:** Každé použití mimo boj, například na řešení nějakého problému. Spotřebuje taktéž *1 použití munice*.
+
 
 ### Kritické poškození
 

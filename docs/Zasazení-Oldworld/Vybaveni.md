@@ -10,7 +10,7 @@
 
 Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším platidlem v Aldiru jsou však *Šilinky*.
 
-- **Peníze a skladnost:** Měšec mincí do *100 šilinků* nezabírá žádné místo v inventáři. Následně pak mince do *1000 šilinků* zabírají *1 slot*.
+- **Peníze a skladnost:** Měšec mincí do *100 šilinků* nezabírá žádné místo v inventáři. Následně pak mince do *200 šilinků* zabírají *1 slot*.
 - **Prodej předmětů:** Poklady získané na dobrodružství se prodávají za svou plnou cenu (nepoškozené). Běžné předměty se pak prodávají za polovinu. Poškozené běžné předměty jsou neprodejné.
 - **Nákup předmětů:** Při tvorbě postavy je níže popsaná výbava dostupná za uváděné ceny. Při hře samotné se však dostupnost i cena předmětů může lišit v závislosti na tom, kde se postavy zrovna nachází.
 
@@ -18,8 +18,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 
 | Zbroj                                                        |  Cena |
 | ------------------------------------------------------------ | ----: |
-| Štít (+1 brnění)                                             | 10 ši |
-| Gambeson (+1 brnění)                                         | 15 ši |
+| Štít (+1 brnění)                                             | 15 ši |
 | Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*)     | 25 ši |
 | Těžká zbroj (2 brnění, *neskladná*, stěžuje některé aktivity) | 50 ši |
 
@@ -36,15 +35,22 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Jednoruční křesadlová zbraň jako je bambitka (1k10 poškození, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo) | 50 ši |
 | Obouruční křesadlová zbraň jako je mušketa (1k12 poškození, *neskladná*, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo) | 75 ši |
 
+## Munice
+
+| Typ munice                                                   |  Cena |
+| ------------------------------------------------------------ | ----: |
+| Munice do zbraně (10 použití)                                |  5 ši |
+| Munice do zbraně křesadlového typu (10 použití, náchylné na vodu a oheň) | 10 ši |
+
 ## Výbava dobrodruha
 
 | PŘEDMĚT                                                      |   CENA |
 | ------------------------------------------------------------ | -----: |
 | Alchymistická substance (Výbušná, žíravá nebo mrazivá)       |  30 ši |
-| Alchymistický materiál                                       |  20 ši |
-| Cestovní alchymistické nástroje (6 použití)                  |  40 ši |
+| Alchymistický materiál                                       |  10 ši |
+| Cestovní alchymistické nástroje                              |  40 ši |
 | Cestovní výbava (obsahuje: spacák, křesadlo, mýdlo a měch na vodu) |  20 ši |
-| Čistící sada na křesadlové zbraně (6 použití)                |  20 ši |
+| Čistící sada na křesadlové zbraně                            |  20 ši |
 | Dalekohled                                                   |  40 ši |
 | Dřevěná tyč (*neskladná*) - 2 metry                          |   2 ši |
 | Dýmka (*zanedbatelné*)                                       |  10 ši |
@@ -60,9 +66,9 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Kovový ježci (1 použití)                                     |  10 ši |
 | Křída (*zanedbatelné*)                                       |   1 ši |
 | Lampový olej (6 použití)                                     |  15 ši |
-| Léčivé obvazy (3 použití, stabilizuje, léčí 1 SIL)           |  30 ši |
+| Léčivé obvazy (3 použití, léčí 1 SIL)                        |  30 ši |
 | Lucerna                                                      |  10 ši |
-| Magický materiál                                             | 200 ši |
+| Magický materiál                                             | 100 ši |
 | Motouz (10 metrů)                                            |   2 ši |
 | Nádoba (jako měch na vodu, pytel či lahvička se zátkou)      |   5 ši |
 | Nástroj (Krumpáč, Pila, Kladivo, Lopata, Páčidlo, Prut na ryby atd...) |  10 ši |
@@ -72,19 +78,19 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Oblečení - Módní společenské (*neskladné*)                   | 100 ši |
 | Oblečení - Zimní                                             |  25 ši |
 | Past na medvěda (ztráta 1k6 SIL)                             |  35 ši |
-| Pochodeň (3 použití)                                         |   5 ši |
+| Pochodně (3 použití)                                         |   5 ši |
 | Pouta                                                        |  20 ši |
 | Protijed                                                     |  20 ši |
 | Provaz (5 metrů)                                             |   5 ši |
-| Psací potřeby a pergamen (6 použití)                         |  30 ši |
+| Psací potřeby a pergamen                                     |  30 ši |
 | Rukavice (*zanedbatelné* pokud oblečené)                     |  15 ši |
 | Řetěz (2 metry)                                              |  10 ši |
-| Sada líčidel a převleků (3 použití, *neskladná*)             |  50 ši |
+| Sada líčidel a převleků (*neskladná*)                        |  50 ši |
 | Sedativum                                                    |  30 ši |
 | Síť                                                          |  10 ši |
 | Stan (až pro 2 lidi)                                         |  20 ši |
 | Svíčka (*zanedbatelné*)                                      |   2 ši |
-| Šicí potřeby (6 použití)                                     |  20 ši |
+| Šicí potřeby                                                 |  20 ši |
 | Tabák (6 použití)                                            |  15 ši |
 | Truhla se zámkem (1 slot)                                    |  20 ši |
 | Víno (1 litr, obyčejné)                                      |   5 ši |
@@ -92,7 +98,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Visací zámek s klíčem                                        |  10 ši |
 | Vzduchový měchýř                                             |   5 ši |
 | Zásoby (3 použití)                                           |  10 ši |
-| Zlodějské náčiní (6 použití)                                 |  25 ši |
+| Zlodějské náčiní                                             |  25 ši |
 | Zrcátko (*zanedbatelné*)                                     |   5 ši |
 | Zvoneček (*zanedbatelné*)                                    |  10 ši |
 | A další... (Řekni si PJ co potřebuješ)                       |     ?? |
@@ -102,6 +108,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Povolání                                 | Cena za den |
 | ---------------------------------------- | ----------: |
 | Alchymista                               |       30 ši |
+| Inženýr                                  |       30 ši |
 | Kovář                                    |       15 ši |
 | Lovec                                    |        5 ši |
 | Námořník                                 |        5 ši |
@@ -113,21 +120,21 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Žoldák                                   |       10 ši |
 | Žoldák veterán (BO se háže jako 1k6+1k6) |       20 ši |
 
-**Určení statistik nájemné výpomoci:** Je li třeba určit statistiky nájemné pomoci ty lze určit jako vše 10 a 1k6 BO. Neb alternativně 1k6 BO a 3k6 na každou dovednost (tyto hodnoty určuje strážce).
+**Určení statistik nájemné výpomoci:** Je li třeba určit statistiky nájemné pomoci ty lze určit jako vše 10 a 1k6 BO. Nebo alternativně 1k6 BO a 3k6 na každou dovednost (tyto hodnoty určuje strážce).
 
 ## Transport a služby
 
-| Název                                               |   Cena |
-| --------------------------------------------------- | -----: |
-| Kárka (+4 sloty, neskladná, třeba táhnout v rukách) |  30 ši |
-| Kůň (+4 sloty)                                      |  75 ši |
-| Místo na drožce                                     |   5 ši |
-| Místo na lodi                                       |  10 ši |
-| Mula (+6 slotů, pomalá)                             |  30 ši |
-| Odborná lékařská pomoc                              |  50 ši |
-| Soukromý pokoj (pro 4, cena za noc)                 |  35 ši |
-| Společná místnost (cena za noc)                     |  10 ši |
-| Ustájení a krm pro zvěř (cena za noc)               |   5 ši |
-| Vagón (+8 slotů, pomalý)                            | 200 ši |
+| Název                                                        |   Cena |
+| ------------------------------------------------------------ | -----: |
+| Kárka (+4 sloty, *neskladná* třeba táhnout v rukách)         |  30 ši |
+| Kůň (+4 sloty, 4 BO)                                         |  75 ši |
+| Místo na drožce                                              |   5 ši |
+| Místo na lodi                                                |  10 ši |
+| Mula (+6 slotů, pomalá, 2 BO)                                |  30 ši |
+| Odborná lékařská pomoc                                       |  50 ši |
+| Soukromý pokoj (pro 4, cena za noc)                          |  35 ši |
+| Společná místnost (cena za noc)                              |  10 ši |
+| Ustájení a krm pro zvěř (cena za noc)                        |   5 ši |
+| Vagón (+8 slotů, pomalý, musí být tažený koněm nebo 2-mi mulami) | 200 ši |
 
 <img src="/assets/sep_line.png"/>

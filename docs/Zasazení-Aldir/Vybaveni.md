@@ -1,4 +1,4 @@
-# Vybavení
+# Vybavení ==todo: nehotove==
 
 <img src="/assets/sep_line.png"/>
 
@@ -10,7 +10,7 @@
 
 Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším platidlem v Aldiru jsou však *Šilinky*.
 
-- **Peníze a skladnost:** Měšec mincí do *100 šilinků* nezabírá žádné místo v inventáři. Následně pak mince do *1000 šilinků* zabírají *1 slot*.
+- **Peníze a skladnost:** Měšec mincí do *100 šilinků* nezabírá žádné místo v inventáři. Následně pak mince do *200 šilinků* zabírají *1 slot*.
 - **Prodej předmětů:** Poklady získané na dobrodružství se prodávají za svou plnou cenu (nepoškozené). Běžné předměty se pak prodávají za polovinu. Poškozené běžné předměty jsou neprodejné.
 - **Nákup předmětů:** Při tvorbě postavy je níže popsaná výbava dostupná za uváděné ceny. Při hře samotné se však dostupnost i cena předmětů může lišit v závislosti na tom, kde se postavy zrovna nachází.
 
@@ -43,7 +43,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Alchymistická substance (Výbušná, žíravá nebo mrazivá)       |  30 ši |
 | Cestovní alchymistické nástroje (6 použití)                  |  40 ši |
 | Cestovní výbava (obsahuje: spacák, křesadlo, mýdlo a měch na vodu) |  20 ši |
-| Čistící sada na křesadlové zbraně (6 použití)                |  20 ši |
+| Čistící sada na křesadlové zbraně                            |  20 ši |
 | Dalekohled                                                   |  40 ši |
 | Dřevěná tyč (*neskladná*) - 2 metry                          |   2 ši |
 | Dýmka (*zanedbatelné*)                                       |  10 ši |
@@ -59,7 +59,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | Kovový ježci (1 použití)                                     |  10 ši |
 | Křída (*zanedbatelné*)                                       |   1 ši |
 | Lampový olej (6 použití)                                     |  15 ši |
-| Léčivé obvazy (3 použití, stabilizuje, léčí 1 SIL)           |  30 ši |
+| Léčivé obvazy (3 použití, léčí 1 SIL)                        |  30 ši |
 | Lucerna                                                      |  10 ši |
 | Motouz (10 metrů)                                            |   2 ši |
 | Nádoba (jako měch na vodu, pytel či lahvička se zátkou)      |   5 ši |
@@ -113,17 +113,17 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 
 ## Transport a služby
 
-| Název                                               |   Cena |
-| --------------------------------------------------- | -----: |
-| Kárka (+4 sloty, neskladná, třeba táhnout v rukách) |  30 ši |
-| Kůň (+4 sloty)                                      |  75 ši |
-| Místo na drožce                                     |   5 ši |
-| Místo na lodi                                       |  10 ši |
-| Mula (+6 slotů, pomalá)                             |  30 ši |
-| Odborná lékařská pomoc                              |  50 ši |
-| Soukromý pokoj (pro 4, cena za noc)                 |  35 ši |
-| Společná místnost (cena za noc)                     |  10 ši |
-| Ustájení a krm pro zvěř (cena za noc)               |   5 ši |
-| Vagón (+8 slotů, pomalý)                            | 200 ši |
+| Název                                                        |   Cena |
+| ------------------------------------------------------------ | -----: |
+| Kárka (+4 sloty, neskladná, třeba táhnout v rukách)          |  30 ši |
+| Kůň (+4 sloty, 4 BO)                                         |  75 ši |
+| Místo na drožce                                              |   5 ši |
+| Místo na lodi                                                |  10 ši |
+| Mula (+6 slotů, pomalá, 2 BO)                                |  30 ši |
+| Odborná lékařská pomoc                                       |  50 ši |
+| Soukromý pokoj (pro 4, cena za noc)                          |  35 ši |
+| Společná místnost (cena za noc)                              |  10 ši |
+| Ustájení a krm pro zvěř (cena za noc)                        |   5 ši |
+| Vagón (+8 slotů, pomalý, musí být tažený koněm nebo 2-mi mulami) | 200 ši |
 
 <img src="/assets/sep_line.png"/>

@@ -48,7 +48,7 @@ Hráčské postavy mohou, mimo jiné, provádět následující *hlídkové akce
 
 ## Mezi dobrodružstvími
 
-Mezi dobrodružstvími (herními sezení), když se postavy nachází v dostatečném bezpečí (kdekoliv kde lze přenocovat). Mohou provádět volno-časové aktivity. Každá postava může provést *1 volno-časovou aktivitu*. Volno-časová aktivita nemůže nikdy vystavit postavu smrtelnému nebezpečí. Pokud smrtelné nebezpečí hrozí, měla by být tato aktivita předmětem dobrodružství.
+Mezi dobrodružstvími (herními sezení), když se postavy nachází v dostatečném bezpečí (kdekoliv kde lze přenocovat). Mohou provádět volno-časové aktivity. Každá postava má možnost provádět volno-časové aktivity* a v jednu chvíli nemůže postava provádět více jak jednu volno-časovou aktivitu. Volno-časová aktivita nemůže nikdy vystavit postavu smrtelnému nebezpečí. Pokud smrtelné nebezpečí hrozí, měla by být tato aktivita předmětem dobrodružství.
 
 **Milníky**
 

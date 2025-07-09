@@ -1,4 +1,4 @@
-# Původy
+# Původy ==Potřebuje revizi vah předmětů==
 
 <img src="/assets/sep_line.png"/>
 
@@ -19,7 +19,7 @@
 - Palcát (1k6)
 - Kniha modliteb
 - Symbol církve (*zanedbatelný*)
-- Léčivé obvazy (3 použití, stabilizuje, léčí 1 SIL)
+- Léčivé obvazy (3 použití, léčí 1 SIL)
 
 **Strážce:**
 
@@ -208,7 +208,7 @@
 - Zásoby (3 použití)
 - Pochodeň (3 použití)
 - Amputační "nůž" (1k6)
-- Obvazy (3 použití)
+- Obvazy (3 použití, stabilizuje, léčí 1 SIL)
 - Pijavice (léčí 1 SIL, 3 použití)
 - Zakrvácená lékařská zástěra (*zanedbatelný*)
 
@@ -456,7 +456,7 @@ Vrozená schopnost (viz tabulka níže) - Každý, kdo se narodí s krví první
 | 1k6  | Jaká je cena za tvé schopnosti?                              |
 | :--: | ------------------------------------------------------------ |
 |  1   | Žravost. Po každém použití tvé vrozené schopnosti jsi *vyčerpaný* dokud nesníš zásobu. Pro tyto účely sebou nosíš extra **Zásoby** (3 použití). |
-|  2   | Zranění. Po každém použití tvé vrozené schopnosti se někde na tvém těle udělá krvavý šrám a ztratíš tak 1 SIL. Proto sebou nosíš **Léčivé obvazy** (3 použití, stabilizuje, léčí 1 SIL). |
+|  2   | Zranění. Po každém použití tvé vrozené schopnosti se někde na tvém těle udělá krvavý šrám a ztratíš tak 1 SIL. Proto sebou nosíš **Léčivé obvazy** (3 použití, léčí 1 SIL). |
 |  3   | Otupění. Po každém použití tvé vrozené schopnosti je tvá mysl otupělejší  a ztratíš tak 2 body VUL (na místo 1 běžného). Proto sebou nosíš **Povzbudivý elixír** (1 použití, léčí 4 VUL). |
 |  4   | Tuhnutí. Po každém použití tvé vrozené schopnosti ti tuhnou svaly a klouby a ztratíš tak 1 HBI. Proto sebou nosíš **Uvolňovací mast** (3 použití,  léčí 1 HBI) |
 |  5   | Omezená použití. Svou schopnost dokážeš vyvolat maximálně 2x za den a zatím si nepřišel na to jak tento limit překonat. Jelikož si občas musíš pomoci i jinak získáváš **Sedativum** (1 použití). |
@@ -613,7 +613,7 @@ Vrozená schopnost (viz tabulka níže) - Každý, kdo se narodí s krví první
 
 | 1k6  | Tvůj poslední nepovedený podvod?                             |
 | :--: | ------------------------------------------------------------ |
-|  1   | Tví "pacienti" se stále zázračně uzdravovali, i když si nikdy medicíně nějak nerozuměl. Získáváš **Léčivé obvazy** (3 použití, stabilizuje, léčí 1 SIL) a talent pro medicínu. |
+|  1   | Tví "pacienti" se stále zázračně uzdravovali, i když si nikdy medicíně nějak nerozuměl. Získáváš **Léčivé obvazy** (3 použití, léčí 1 SIL) a talent pro medicínu. |
 |  2   | Poté co si svedl bohatého patrona / patronku. Jeho / její rodina si najala gang, aby tě zřídil. Musíš se skrývat a získáváš **Mastičku krásy** (2 použití). Po aplikaci se staneš neodolatelně krásný na následujících 8 hodin. |
 |  3   | Byl jsi překupníkem falešných proroctví. Jedno z tvých proroctví se však ukázalo pravdivé, což přitáhlo nechtěnou pozornost. Pokud ti strážce dal k dispozici tabulku *Znamení*, hoď si nad ní a výsledek si nech pro sebe. Navíc získáváš **Schovaný nůž** (1k6, *zanedbatelný*). |
 |  4   | Tvá poslední eskapáda zničila artefakt nevyčíslitelné hodnoty a vážně zranila několik kolemjdoucích. Získáváš **Uniformu kapitána stráží** (*zanedbatelná* pokud oblečená), **Ceremoniální meč** (neškodný, 60 šilinků) a **Buket květin**. |
