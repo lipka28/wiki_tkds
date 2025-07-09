@@ -73,7 +73,7 @@ Záchranný hod je hod kostkou za účelem vyvarování se negativním následk�
 - **Spolupráce:** Provádí li několik stvoření společnou akci. Záchranný hod podstupuje to stvoření, které je v největším ohrožení (většinou stvoření s nejnižší relevantní dovedností).
 
 !!! note "Ověřovací hody"
-	Tato hra *NEPOUŽÍVÁ* ověřovací hody pouze záchranné hody. V praxi to znamená, že pokud má postava dostatek času na provedení akce, vhodné nástroje a lze předpokládat, že by akci dokázala (třeba na základě původu či předešlých zkušeností). Automaticky uspěje! Strážce si může na základě akce vyžádat záchranný hod, ale pouze tehdy, když hrozí významné negativní následky.
+	Tato hra *NEPOUŽÍVÁ* ověřovací hody pouze záchranné hody. V praxi to znamená, že pokud má postava *dostatek času* na provedení akce, vhodné *nástroje* a *lze předpokládat, že by akci dokázala* (třeba na základě původu či předešlých zkušeností). Automaticky uspěje! Strážce si může na základě akce vyžádat záchranný hod, ale pouze tehdy, když hrozí významné negativní následky.
 
 !!! example "Alternativní varianta: Přehození cílené hodnoty"
 	Skupiny, které radši hází vysoká čísla mohou zkusit následující variantu. Záchranný hod je úspěšný pokud hod *1k20+relevantní dovednost* je rovno nebo výše jak *21*. Hod přirozených *20* je vždy *úspěch* a hod přirozených *1* vždy *neúspěch*.

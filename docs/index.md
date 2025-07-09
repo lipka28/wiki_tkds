@@ -24,9 +24,9 @@ Základní principy na kterých tato hra staví.
 
 **Růst hráčských postav:** Hráčské postavy se mění skrze pokrok ve světě, získávají nové dovednosti a schopnosti tím, že přežívají nebezpečné události a překonávají překážky.
 
-**Hráčská rozhodnutí:** Hráči by vždy měli chápat důvody svých rozhodnutí a stejně tak, být strážcem dostatečně informováni o možných rizikách svých rozhodnutí.
+**Hráčská rozhodnutí:** Hráči by vždy měli chápat důvody svých rozhodnutí a stejně tak, být strážcem dostatečně informováni o možných následcích s nimi spjatými.
 
-**Principy:** Strážce i hráči mají k dispozici vodítka, která podporují specifický herní zážitek založený na kritickém myšlení, objevování a přirozeně samo-vznikajícím příběhu.
+**Principy:** Strážce i hráči mají k dispozici vodítka, která podporují specifický herní zážitek založený na kritickém myšlení, objevování a přirozeně rozvíjejícímu se příběhu. 
 
 - **Principy pro hráče:** [zde](/Player/)
 - **Principy pro strážce:** [zde](/Warden/)
