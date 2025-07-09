@@ -8,13 +8,15 @@
 
 ## Roztříštěná říše
 
-Říše je roztříště, leč stále nepoddajná. Vítězství v upířích válkách sice zahájilo éru relativního míru a prosperity, ale říši chybí jednotnost. Povzbuzeni porážkou prokletých hrabat von Carstein se kurfiřti, vládnoucí městům a státům, začali dohadovat. Neschopni se dohodnout, kdo by měl být novým císařem. Hašteříc se o neexistují hranice neposlouchajíc zkazky o blížící se zkáze. Starý svět tak zůstává nebezpečným místem. Mnoho hladových očí hledí na rozdělenou Říši a ví, že nachází jejich čas.
+Říše je roztříště, leč stále nepoddajná. Vítězství v upířích válkách sice zahájilo éru relativního míru a prosperity, ale říši chybí jednotnost. Povzbuzeni porážkou prokletých hrabat von Carstein se kurfiřti, vládnoucí městům a státům, začali dohadovat. Neschopni se dohodnout, kdo by měl být novým císařem. Hašteříc se o neexistují hranice neposlouchajíc zkazky o blížící se zkáze. Starý svět tak zůstává nebezpečným místem. Mnoho hladových očí hledí na rozdělenou Říši a ví, že přichází jejich čas.
 
 <img src="/assets/sep_line.png"/>
 
 ## Hratelné rasy
 
 Hráčům se může do rukou dostat jedna z následujících hratelných ras. Zde se lze o nich něco dočíst. Každá z civilizovaných ras ovládá *reikspiel* (řeč říše). Většina ras a národů má však i *vlastní jazyk*, kterým komunikuje mezi sebou.
+
+<img src="/assets/sep_line.png"/>
 
 ### Lidé (Říše)
 
@@ -42,6 +44,8 @@ Ať už pocházejí odkudkoli, většina lidí je pověrčivá, svírajíc talis
 
 *"Tito lidé mají jistý potenciál. Pod naším vznešeným vlivem bychom z nich mohli vytvarovat něco skutečně užitečného, proměnit je v mocnou zbraň pro jedinou pravou válku, která se neodvratně blíží. Jestliže je však budeme ignorovat, jestliže je ponecháme napospas trpaslíkům, pak vám s upřímností slibuji, že toho budeme nesmírně litovat."*
 
+<img src="/assets/sep_line.png"/>
+
 ### Lesní elfové
 
 Když elfové opustili Starý svět, vzdali se svých držav a nechali své kolonie v troskách, někteří se však nedokázali vzdát všeho, co vybudovali. Zůstali skryti v dalekých horách a hlubokých lesích Starého světa a snažili se přežít. Spousta jich zahynula, ale někteří vytrvali a přežili. Největší z těchto útočišť je Athel Loren, ukrytý mezi Bretanií a Šedými horami. Elfové zde uzavřeli dohodu s duchy prastarého lesa. Chrání jeho hranice a obyvatele před cizinci a Athel Loren je za to na oplátku ukrývá. Lesní elfové žijí také v Laurelornském lese na severu Říše a údajně disponují magickými prostředky k cestování mezi jakýmkoli lesem Starého světa.
@@ -68,6 +72,8 @@ Když elfové opustili Starý svět, vzdali se svých držav a nechali své kolo
 
 *"Přežili bez vedení Krále Fénixů lépe, než by kdo rozumně očekával. Možná, kdybychom anektovali říše lesních elfů, mohli by být přestavěny k něčemu, co by bylo skutečně hodno našeho společného odkazu."*
 
+<img src="/assets/sep_line.png"/>
+
 ### Pulčíci
 
 Pulčíci z Mootlandu jsou zvláštní národ. Jsou menší než trpaslíci a mají pupek, který má jen málo co společného se svaly. Na pulčíky se často zapomíná a ve většině záležitostí jsou snadno přehlédnutelní. Ale to jim docela vyhovuje, protože když jsou přehlíženi, je mnohem snazší zmizet s jakýmikoli cennostmi, neopatrně schovanými v kapsách jiných lidí. Pulčíci by byli naprosto nepodstatní v kontextu Říše, kdyby nevládli své vlastní malé provincii zvané Mootland. Jak přesně k tomu došlo, je široce diskutováno a záleží na tom, koho se zeptáte. Mohlo jít o obratné politické intriky, nebo prostou neschopnost.
@@ -91,6 +97,8 @@ Pulčíci z Mootlandu jsou zvláštní národ. Jsou menší než trpaslíci a ma
 **Vznešení Elfové o Pulčících:**
 
 *"Přejí si být ignorováni, a my je rádi budeme ignorovat. Jakkoli jsou nepříjemní, patří mezi ty nejméně znepokojivá stvoření, která obývají tu vaši tak zvanou Říši."*
+
+<img src="/assets/sep_line.png"/>
 
 ### Trpaslíci
 
@@ -118,13 +126,11 @@ Trpaslíci jsou hrdý národ, který vyprodukoval nespočet talentovaných řeme
 
 *"Elfové sice trpaslíky z pravidla přežívají, ale ta jejich zášť. Ta nás přežije všechny. Chybí jim nadhled. Kdyby byli tak osvícení jako my. Uvědomili by si, že svět se posunul dál. Aniž by se staral o jejich triviální stížnosti. Lepší je se jimi moc nezabývat."*
 
+<img src="/assets/sep_line.png"/>
+
 ### Vznešení elfové
 
-Vznešení Elfové byli kdysi pány světa smrtelníků. Impérium Krále Fénixů se táhlo přes kontinenty, podpořené silou jejich armád a jejich mistrovstvím magie. Jejich činy z té doby se staly legendou a města, která vystavěli, byla lesklými alabastrovými monumenty pýchy a úspěchů. Jenže staletí k nim nebyla laskavá a historie Vznešených Elfů je téměř stejnou měrou historií vznešenosti a tragédie.
 
-​	Dnes jsou říše Vznešených Elfů zredukovaný na ostrovní království Ulthuan a několik roztroušených kolonií. Ruiny, které po sobě zanechali, jsou ponurou připomínkou, že vše musí jednou zaniknout. Po dlouhá staletí se stahovali z širšího světa a opustili mnoho svých držav v důsledku zničující války s Trpaslíky. Ačkoli výpravy za průzkumem a obchodem nikdy zcela neustaly, teprve v poslední době se začali znovu dívat po okolním světu pod záštitou Krále Fénixů Finubara Mořeplavce. Byly zřízeny posádky na ostrovech u pobřeží Starého Světa a vztahy s Říší byly posíleny. Diplomaty a obchodníky Vznešených Elfů lze najít po celé Říši.
-
-​	Vznešení Elfové jsou hrdí, dlouhověcí mistři mořeplavectví, válečnictví a magie, ale zenit jejich síly je téměř jistě za nimi. Ačkoli rozděleni válkou a izolováni na ostrovním kontinentu Ulthuan. Pýcha Vznešených Elfů a jejich povinnost vůči světu, který pomohli utvářet, stálé přetrvává.
 
 **Lidé o Vznešených Elfech:**
 
@@ -144,8 +150,8 @@ Vznešení Elfové byli kdysi pány světa smrtelníků. Impérium Krále Fénix
 
 <img src="/assets/sep_line.png"/>
 
-## Více o starém
+## Více o Starém světě
 
-Více o starém světě, jako jsou náboženství či historické události najdeš zde: https://warhammerfantasy.fandom.com/wiki/Warhammer_Wiki
+Více o starém světě, jako jsou náboženství či historické události najdeš zde: [https://warhammerfantasy.fandom.com/wiki/Warhammer_Wiki](https://warhammerfantasy.fandom.com/wiki/Warhammer_Wiki)
 
 <img src="/assets/sep_line.png"/>

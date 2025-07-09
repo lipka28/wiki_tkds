@@ -23,7 +23,7 @@ Všichni lidé, kteří se narodí s talentem ovládat magii se také rodí s č
 
 ## Magick
 
-Standardní jazyk užíván lidmi pro zápis a vyvolávání magie, prý vzniklý ze zjednodušené prastaré elfštiny. Jeho znalost je nutnost pro kohokoliv kdo chce praktikovat magii. Pro elfy vzhledem k nátuře tohohle jazyka, tahle podmínka neplatí.
+Standardní jazyk užíván lidmi pro zápis a vyvolávání magie, prý vzniklý ze zjednodušené prastaré elfštiny. Jeho znalost je nutnost pro kohokoliv kdo chce praktikovat magii. Pro elfy vzhledem k nátuře tohohle jazyka, tahle podmínka neplatí. Pro ostatní však nestačí jen ovládat elfštinu.
 
 ## Magické grimoáry
 
@@ -33,7 +33,14 @@ Standardní jazyk užíván lidmi pro zápis a vyvolávání magie, prý vznikl�
 
 ### Přenášení kouzel
 
-asd downtime ==todo==
+Zaznamenaná kouzla, je možné jako volno-časovou aktivitu přenášet do magických grimoárů či jiných předmětů. Je dobré mít na paměti, že při přenášení kouzel je vždy kouzlo z původního zdroje ztraceno (výjimkou jsou kouzla uložená v mysli jako v případě původu čarodějův učeň). K přenosu kouzla je většinou potřeba:
+
+- Zdroj kouzla (Většinou magický grimoár)
+- Cílový předmět (Většinou jiný magický grimoár).
+- Být Elf, nebo mít vyvinutý čarodějnický zrak a ovládat jazyk Magick.
+- Mít přístup k potřebným nástrojům (většinou psací potřeby).
+- Magický materiál v hodnotě 300 šilinků (může být víc v případě, že předmět nějak modifikuje běžné používání přenášeného kouzla).
+- Den práce.
 
 ## Sesílání kouzel
 
@@ -47,13 +54,18 @@ asd downtime ==todo==
 Svitky jsou funkcí velmi podobné magickým grimoárům, až na následující rozdíly:
 
 - Svitky jsou považovány za *zanedbatelný předmět*.
-- Efekt svitku nelze významně rozšířit mimo původní znění a efekt kouzla.
 - Sesílání ze svitku nestojí dovednostní body.
 - Po jednom použití jsou zničeny.
 
 ### Tvorba svitků
 
-asd downtime ==todo==
+Ze zaznamenaných kouzel mohou být vyrobeny magické svitky. Výroba svitků na rozdíl od přenosu kouzle nezničí původní záznam kouzla. K vytvoření magického svitku je třeba:
+
+- Zdroj kouzla (Většinou magický grimoár)
+- Být Elf, nebo mít vyvinutý čarodějnický zrak a ovládat jazyk Magick.
+- Mít přístup k potřebným nástrojům (většinou psací potřeby).
+- Magický materiál v hodnotě 100 šilinků.
+- Den práce.
 
 ## Jiné magické předměty
 

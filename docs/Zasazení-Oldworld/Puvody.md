@@ -45,7 +45,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Nikdy si nebyl dostatečně odvážný na to, aby si se ponořil do studia magie. Na místo toho si se radši věnoval studiu alchymie u zlatého řádu. Vyznáš se v přírodních vědách a máš rozsáhlý přehled o nerostech, bylinách a jiných materiálech potřebných pro alchymii, a o tom jak je získat.*
 
-**Alchymistický um:** Alchymista disponuje nevyvinutým čarodějnickým zrakem. To mu umožňuje rozpoznat, že se nachází poblíž magie. Navíc když se zúčastní *hlídkové akce zásobování*, mimo standardního bonusu, posílí hod na získané zásoby o *+1k4*. Může také rozhodnout kolik z nalezených zásob jsou opravdu zásoby a kolik z nich je alchymistický materiál. (minimálně 1 maximálně 1/4 z celkového množství).
+**Alchymistický um:** Alchymista disponuje [nevyvinutým čarodějnickým zrakem](/Zasazení-Oldworld/Magie/#carodejnicky-zrak). Navíc když se zúčastní *hlídkové akce zásobování*, mimo standardního bonusu, posílí hod na získané zásoby o *+1k4*. Může také rozhodnout kolik z nalezených zásob jsou opravdu zásoby a kolik z nich je alchymistický materiál. (minimálně 1 maximálně 1/4 z celkového množství).
 
 **Extra výbava:** Nůž (1k6), Kniha na recepty, Cestovní alchymistické nástroje, Tužka (*zanedbatelná*)
 
@@ -85,7 +85,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Tvůj mistr ti předal snad už úplně všechno. Pomohl ti ovládnout tvůj čarodějný zrak, naučil tě jazyk Magick a ukázal ti divy magie. Teď už je jen na tobě, aby sis našel své místo na světě a dodal význam svému jménu.*
 
-**Student magie:** Jako student magie máš rozvinutý čarodějnický zrak ==todo: link== a umíš si do své mysli ukládat kouzla (permanentně snižuje VUL o 1). Takto uložená kouzla nevyžadují čtení z magického grimoáru pro seslání, a také můžeš na základě těchto kouzel vytvářet svitky nebo další psané kopie bez ztráty původního kouzla. Kouzla však již nelze z paměti "odmazat" nebo "přepsat". Pokud si přeješ, kouzlo získané z formující volby můžeš již mít takto uloženo.
+**Student magie:** Jako student magie máš [rozvinutý čarodějnický zrak](/Zasazení-Oldworld/Magie/#carodejnicky-zrak) a umíš si do své mysli ukládat kouzla (permanentně snižuje VUL o 1). Takto uložená kouzla nevyžadují čtení z magického grimoáru pro seslání, a také můžeš na základě těchto kouzel vytvářet svitky nebo další psané kopie bez ztráty původního kouzla. Kouzla však již nelze z paměti "odmazat" nebo "přepsat". Pokud si přeješ, kouzlo získané z formující volby můžeš již mít takto uloženo.
 
 **Extra výbava:**  Dřevěná tyč (1k6), Psací potřeby a pergamen, 6 Svíček (*zanedbatelné*), Magický grimoár (kouzlo dle formující volby)
 
@@ -174,11 +174,11 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 !!! warning "Elfové jsou v Říši vzácní"
     Ve skupině může být maximálně 1 hráčská postava, která je elf. Toto omezení neplatí, pokud byl původ elfa vybrán náhodným hodem.
 
-*Jako lesní elf jsi mistrným průzkumníkem a máš výjimečný vztah s přírodou. Jsi jejím zapřísáhlým ochráncem stejně tak jako své domoviny v Athel Loren. Pro lesního elfa je však nezvyklé aby opustil svou domovinu ba dokonce členy své tlupy. Něco vážného se muselo stát, aby tě to samotného přivedlo do říše lidí.* ==todo: více link==
+*Jako lesní elf jsi mistrným průzkumníkem a máš výjimečný vztah s přírodou. Jsi jejím zapřísáhlým ochráncem stejně tak jako své domoviny v Athel Loren. Pro lesního elfa je však nezvyklé aby opustil svou domovinu ba dokonce členy své tlupy. Něco vážného se muselo stát, aby tě to samotného přivedlo do říše lidí.* Více o lesních elfech se lze dozvědět [zde](/Zasazení-Oldworld/OldWorld/#lesni-elfove).
 
 **Výchozí dovednosti:** 7 SIL; 10 HBI; 8 VUL;
 
-**Elfí zrak:** Máš rozvinutý čarodějnický zrak ==todo: link== a dokážeš vidět a vnímat detaily na velké vzdálenosti. To ti mimo jiné umožňuje být preciznější se svým lukem posilující tvé útoky lukem o +1k6.
+**Elfí zrak:** Máš [rozvinutý čarodějnický zrak](/Zasazení-Oldworld/Magie/#carodejnicky-zrak) a dokážeš vidět a vnímat detaily na velké vzdálenosti. To ti mimo jiné umožňuje být preciznější se svým lukem posilující tvé útoky lukem o +1k6.
 
 **Nenávist k trpaslíkům:** Tvůj druh nenávidí trpaslíky. Ale neboj, je to vzájemné.
 
@@ -214,7 +214,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Jsi obchodník, levně nakupuješ draze prodáváš. Jednou třeba vyděláš dost na to, aby si ty nemusel být ten, kdo se plahočí přes půl říše za výdělkem.*
 
-**Shánění:** Můžeš jako *volno-časovou aktivitu* shánět dobré nabídky. To ti umožňuje nakupovat a prodávat předměty o 25% výhodněji, než umožňuje daná lokalita (lze aplikovat i na výbavu při tvorbě postavy).
+**Shánění:** Můžeš jako *volno-časovou aktivitu* shánět dobré nabídky. To ti umožňuje nakupovat a prodávat běžné předměty o 25% výhodněji, než umožňuje daná lokalita (lze aplikovat i na výbavu při tvorbě postavy).
 
 **Extra výbava:** extra 3k6 šilinků, Ukrytý nůž (1k6), Vagón (+8 slotů, pomalý, musí být tažený koněm nebo 2-mi mulami), Kůň (+4 sloty, 4 BO)
 
@@ -282,7 +282,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 ## Pulčík
 
-*Nenápadní povaleči, budiž k ničemové a zloději. Tak nějk vidí svět pulčíky, pokud se zrovna netváří, že je nevidí vůbec. Pulčíci si dle tvého však zaslouží lepší zacházení, a ty si se vydal za hranice Mootlandu, aby si jim to dokázal... Nebo jen potrdil jejich doměnky. To se jiště uvidí.* ==todo: více link==
+*Nenápadní povaleči, budiž k ničemové a zloději. Tak nějk vidí svět pulčíky, pokud se zrovna netváří, že je nevidí vůbec. Pulčíci si dle tvého však zaslouží lepší zacházení, a ty si se vydal za hranice Mootlandu, aby si jim to dokázal... Nebo jen potrdil jejich doměnky. To se jiště uvidí.* Více o pulčících se dozvíš [zde](/Zasazení-Oldworld/OldWorld/#pulcici).
 
 **Výchozí dovednosti:** 6 SIL; 9 HBI; 7 VUL;
 
@@ -335,7 +335,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 ## Trpaslík
 
-*Pracovití bručouni menšího vzrůstu, kteří si ale umí vyhodit z kopýtka. Cenění pro svou řemeslnou zručnost, ale obávaní pro svůj vztek. Ukřivdíš-li trpaslíkovi a máš nepřítele na celý život, avšak pomůžeš-li mu. Získáš spolehlivého přítele.* ==todo: více link==
+*Pracovití bručouni menšího vzrůstu, kteří si ale umí vyhodit z kopýtka. Cenění pro svou řemeslnou zručnost, ale obávaní pro svůj vztek. Ukřivdíš-li trpaslíkovi a máš nepřítele na celý život, avšak pomůžeš-li mu. Získáš spolehlivého přítele.* Více o trpaslících se dozvíš [zde](/Zasazení-Oldworld/OldWorld/#trpaslici).
 
 **Výchozí dovednosti:** 10 SIL; 5 HBI; 8 VUL;
 
@@ -347,9 +347,9 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Formující volba:** Jaká byla tvá role ve tvé domovině?
 
-- **Inženýr:** Získáváš navíc původ Inženýr ==todo: link== včetně relevantních předmětů a schopností. Tvé výtvory jsou ale trochu více doceňované.
+- **Inženýr:** Získáváš navíc původ [Inženýr](/Zasazení-Oldworld/Puvody/#inzenyr) včetně relevantních předmětů a schopností. Tvé výtvory jsou ale trochu více doceňované.
 - **Rolník:** Tvá dlouhá léta ve štolách ti dali schopnost lépe vidět ve tmě. Pokud se nenacházíš v absolutní tmě vidíš 10 metrů kolem sebe, případně o 10 metrů dále než běžně umožňuje tvůj zdroj světla. Navíc získáváš krumpáč (1k8, *neskladný*, ignoruje 1 brnění), lucernu, Lampový olej (6 použití), provaz a Ochranné rukavice (*zanedbatelné*)
-- **Řemeslník:** Získáváš navíc původ Řemeslník ==todo: link== včetně relevantních předmětů a schopností. Tvé výtvory jsou ale trochu více doceňované.
+- **Řemeslník:** Získáváš navíc původ [Řemeslník](/Zasazení-Oldworld/Puvody/#remeslnik) včetně relevantních předmětů a schopností. Tvé výtvory jsou ale trochu více doceňované.
 - **Zabíječ:** Životní selhání tě dohnalo až k zabíječské přísaze a touha po velkolepé smrti v boji. Používáš jen sekery a vzdal si se jakékoliv zbroje. Získáváš obouruční sekeru (1k10, *neskladná*), Zvířecí luj (3 použití, na udržování tvého rezavého pankáče). Obdržíš-li v boji kritický zásah a uspěješ v záchranném hodu na vyvarování se kritickému poškození. Tvůj další útok je buď posílen o +1k12 a nebo *plošný*.
 
 !!! note "Zabíječská přísaha"
@@ -361,7 +361,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Jako válečný veterán máš již za sebou několik bojů a konfliktů, které tě zocelily. Své dny jsi trávil v první linii, což ti dalo cenné zkušenosti v boji a přežití. Také si pocítil říšské politikaření z první ruky. Život ti vzal již spoustu, je na čase aby začal zase něco vracet.*
 
-**Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale tvá SIL je nižší o 2 jako následek zranění.
+**Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale tvá SIL s HBI je nižší o 2 jako následek zranění.
 
 **Extra výbava:** Záložní krátký meč (1k6), Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*)
 
@@ -375,12 +375,12 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 <img src="/assets/sep_line.png"/>
 
-## Vznešený elf ==todo==
+## Vznešený elf
 
 !!! warning "Elfové jsou v Říši vzácní"
     Ve skupině může být maximálně 1 hráčská postava, která je elf. Toto omezení neplatí, pokud byl původ elfa vybrán náhodným hodem.
 
-*sad*
+*Kdysi vládci světa smrtelníků a ochránci světového pořádku. Dnes už jen hrstka msrtelníků ukrávající ve svém ostrovním králvoství Ulthuan. Mistři mořeplavectví boje a magie, ale dny jejich největší slávy jsou již za nimi. Své království opouští jen kvůli obchodu, nebo sledování vyšších cílů.* Více o Vznešených elfech se dozvíš [zde](/Zasazení-Oldworld/OldWorld/#vzneseni-elfove).
 
 **Výchozí dovednosti:** 7 SIL; 8 HBI; 10 VUL;
 
@@ -394,7 +394,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 - **Tvá síla:** Do své výbavy navíc získáváš Štít (+1 Brnění) nebo Elfí zahnutý meč (1k6).
 - **Tvá preciznost:** Do své výbavy navíc zíksáváš Elfí luk (1k8, neskladný) a Munice do luku (10 použití)
-- **Tvá mysl:** Umíš ukládat kouzla do paměti stejně jako Čarodějný učeň ==todo:link==. Vyber si jedno kouzlo z tohoto původu, které máš uložené ve své hlavě.
+- **Tvá mysl:** Umíš ukládat kouzla do paměti stejně jako [Čarodějný učeň](/Zasazení-Oldworld/Puvody/#carodejny-ucen). Vyber si jedno kouzlo z tohoto původu, které máš uložené ve své hlavě.
 - **Tvá připravenost:** Získáváš do své výbavy Elfí lucernu. Funguje jako obyčejná lucerna, její svit však nespotřebovává olej. Její "zapálení" stojí 1 VUL. Pouze lefové vědí jak ji používat. 
 
 <img src="/assets/sep_line.png"/>

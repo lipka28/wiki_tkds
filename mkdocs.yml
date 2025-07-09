@@ -27,8 +27,5 @@ plugins:
       minify_html: true
   - glightbox
 
-exclude_docs:
-  - Zasazení-Aldir/*
-
 extra_css:
   - stylesheets/extra.css

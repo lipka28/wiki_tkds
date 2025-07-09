@@ -2,7 +2,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-Sada rozšíření pravidel pro příběhy odehrávající se ve Starém světě. Tato pravidla rozšiřují a nahrazují některé pravidla popsaná v Pravidlech hry ==todo: link==
+Sada rozšíření pravidel pro příběhy odehrávající se ve Starém světě. Tato pravidla rozšiřují a nahrazují některé pravidla popsaná v [Pravidlech hry](/Zakladni_pravidla/).
 
 ## Milníky a postup na vyšší úroveň dobrodruha
 
@@ -29,7 +29,7 @@ Postavy dosažením různých milníků mohou postoupit na vyšší úroveň dob
 **Známé jméno:** Váha tvého jména tě předchází kamkoliv přejdeš. To může mít jisté výhody ale také vyvolávat nechtěnou pozornost.
 
 !!! note "A co nějaké schopnosti?"
-    Hráči zvyklí na systémy, které umožní "stavět postavu k obrazu svému" výběrem všelijakých schopností. Mohou považovat výše popsaný postup na vyšší úroveň za poněkud nedostatečný. Je dobré myslet na to, že hlavními způsoby růstu postav v této hře jsou získané předměty a přirozený růst na základě interakcí se světem (popsán zde ==todo:odkaz==). V kombinaci s úrovněmi a milníky popsanými, by měl být postavám poskytnut dostatečný prostor se rozvíjet.
+    Hráči zvyklí na systémy, které umožní "stavět postavu k obrazu svému" výběrem všelijakých schopností. Mohou považovat výše popsaný postup na vyšší úroveň za poněkud nedostatečný. Je dobré myslet na to, že hlavními způsoby růstu postav v této hře jsou získané předměty a přirozený růst na základě interakcí se světem (popsán [zde](/Zakladni_pravidla/#rust-na-zaklade-hernich-interakci)). V kombinaci s úrovněmi a milníky popsanými, by měl být postavám poskytnut dostatečný prostor se rozvíjet.
 
 !!! note "Někdy je ale hold se třeba připomenout"
     Obzvlášť ve větších skupinách se ale může stát, že strážce prostě zapomene vaší postavě poskytnout nějaký rozvoj a nebo se vaše opakované pokusy o rozvoj setkají jen s mávnutím ruky (Například když 3 sezení po nepřátelích házíte sekery se záměrem stát se dobrým vrhačem seker, ale strážce na to nereaguje). Pokud se něco takového stane, je dobré se ozvat. Ať už s tím, že jste svými akcemi zamýšleli nějaký růst a nebo že vaše postava dlouho žádný růst neměla a že by bylo pomalu na čase.
@@ -69,7 +69,7 @@ Mechanicky existují dva hlavní způsoby jak se zbavit nákazy chaosu. Těmi js
 
 ### Mutace
 
-Překoná-li postava hranici *20-ti bodů nákazy chaosu*. V noci podstoupí mutaci. Jakou mutaci hráč obdrží je čistě v režii strážce. Hráč pouze podstoupí *hod štěstí*. Díky kterému se určí zda bude jeho mutace spíš pozitivního či negativního charakteru (příklad v tabulce níže). Nezávisle na výsledku se s dotyčného stává mutant s nějakou viditelnou mutací, který je sám zdrojem slabého působení chaosu a jeho *body nákazy chaosu* klesnou na *10*.
+Překoná-li postava hranici *20-ti bodů nákazy chaosu*. V noci podstoupí mutaci. Jakou mutaci hráč obdrží je čistě v režii strážce. Hráč pouze podstoupí *hod štěstí*. Díky kterému se určí zda bude jeho mutace spíš pozitivního či negativního charakteru (příklad v tabulce níže). Nezávisle na výsledku se s dotyčného stává mutant s nějakou viditelnou mutací, který je sám zdrojem slabého působení chaosu a jeho *body nákazy chaosu* klesnou na *5*.
 
 |  1k6  | Typ mutace                                                   |
 | :---: | ------------------------------------------------------------ |
@@ -77,27 +77,27 @@ Překoná-li postava hranici *20-ti bodů nákazy chaosu*. V noci podstoupí mut
 | 3 - 4 | **Neutrální mutace:** Mutace, která není nutně pozitivní ani negativní. Například: ruka se změní v chapadlo. |
 | 5 - 6 | **Pozitivní mutace:** Permanentní zisk dovedností či jiný pozitivní bonus. |
 
-## Vazba (Zmenšit na 1k10 a udělat menší 1k4?1k6 tabulky pro ostatní rasy)
+## Vazba (Zmenšit na 1k10 a udělat menší 1k4?1k6 tabulky pro ostatní rasy) ==todo: dodělat v závislosti na kampani==
 
 Tabulka vazeb pro kampaně odehrávající se v Říši starého světa.
 
 | 1k20 | Vazba                                                        |
 | :--: | :----------------------------------------------------------- |
-|  1   | Někomu dlužíš (peníze) ==todo: rozvést==                     |
+|  1   | Někomu dlužíš (peníze)                                       |
 |  2   | Vzdálený bratranec ti zanechal drobné děditství. Získáváš **20 šilinků** a **kompas**, který rozhodně neukazuje sever. |
 |  3   | Nosíš sebou **řetízek s portrétem**, nějaké staré lásky. Kdo ví zda je ještě naživu? |
-|  4   | Někdo dluží tobě (protisluřbu) ==todo: rozvést==             |
-|  5   | Conspiracy (dostal se ti do rukou dopis ...) ==todo: rozvést== |
-|  6   | Dwarven grudge ==todo: rozvést==                             |
+|  4   | Někdo dluží tobě (protisluřbu)                               |
+|  5   | Conspiracy (dostal se ti do rukou dopis ...)                 |
+|  6   | Dwarven grudge                                               |
 |  7   | Jsi jedním ze strážců velkého tajemství. Nosíš sebou **půlku prastarého klíče** (zanedbatelný). |
-|  8   | Okradená Elven shrine (něco tě sleduje / pozoruje) ==todo: rozvést== |
-|  9   | Člen kultu? ==todo: rozvést==                                |
-|  10  | Někomu dlužíš protislužbu ==todo: rozvést==                  |
+|  8   | Okradená Elven shrine (něco tě sleduje / pozoruje)           |
+|  9   | Člen kultu?                                                  |
+|  10  | Někomu dlužíš protislužbu                                    |
 |  11  | Potulný vypravěč ti vyprávěl o velkém zakopaném pokladu. Nebral si ho příliš vážně dokud ti nedal **Srolovanou mapu** (*zanedbatelná*) s velkým červeným X. |
-|  12  | Zabitý blízký (monster hunt) ==todo: rozvést==               |
-|  13  | Jiná křivda ==todo: rozvést==                                |
+|  12  | Zabitý blízký (monster hunt)                                 |
+|  13  | Jiná křivda                                                  |
 |  14  | Jako dítě si slíbil kamarádovy / kamarádce, že mu / jí ze svých cest přineseš vzácný dárek. Nosíš **náramek ze špagátu a uschlého lučního kvítí** (*zanedbatelný*). |
-|  15  | Pomsta (ve stylu piráti z karbiku ... bambitka a 1 náboj) ==todo: rozvést== |
+|  15  | Pomsta (ve stylu piráti z karbiku ... bambitka a 1 náboj)    |
 |  16  |                                                              |
 |  17  |                                                              |
 |  18  |                                                              |

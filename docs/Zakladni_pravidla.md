@@ -66,7 +66,7 @@ Každé stvoření ve hře disponuje 3-mi základními dovednostmi, které slou�
 
 ### Záchranné hody
 
-Záchranný hod je hod kostkou za účelem vyvarování se negativním následkům riskantní akce. 
+Záchranný hod je hod kostkou za účelem vyvarování se negativním následkům riskantní akce.
 
 - **Podhoď dovednost:** Záchranný hod na dovednost probíhá hodem *1k20* a porovnání výsledku s relevantní dovedností. Pokud je výsledek *menší nebo roven* hodnotě dovednosti, jedná se o *úspěch*. Hody přirozených *1* jsou vždy *úspěch* a hody přirozených *20* vždy *neúspěch*.
 - **Soupeření:** Pokud se dvě stvoření snaží provést protichůdnou akci (například 1 stvoření drží dveře druhé se je snaží prorazit). Záchranný hod podstupuje to stvoření, které je ve větším ohrožení.

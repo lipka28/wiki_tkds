@@ -14,6 +14,19 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 Vyber si jeden z původů v tabulce níže (nebo si hoď *1k20* pro náhodný původ). Každý původ obsahuje popis, výbavu (jak funguje inventář najdeš [zde](/Zakladni_pravidla/#nosnost)) a jednu volbu, kterou je třeba provést.
 
+| 1k20 |                            Původ                             | 1k20 |                            Původ                             |
+| :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: |
+|  1   |        [Akolyta](/Zasazení-Oldworld/Puvody/#akolyta)         |  11  |      [Obchodník](/Zasazení-Oldworld/Puvody/#obchodnik)       |
+|  2   |     [Alchymista](/Zasazení-Oldworld/Puvody/#alchymista)      |  12  | [Odkopnutý šlechtic](/Zasazení-Oldworld/Puvody/#odkopnuty-slechtic) |
+|  3   | [Bretonijský rytíř](/Zasazení-Oldworld/Puvody/#bretonijsky-rytir) |  13  |          [Písař](/Zasazení-Oldworld/Puvody/#pisar)           |
+|  4   | [Čarodějný učeň](/Zasazení-Oldworld/Puvody/#carodejny-ucen)  |  14  | [Potulný umělec](/Zasazení-Oldworld/Puvody/#potulny-umelec)  |
+|  5   |         [Felčar](/Zasazení-Oldworld/Puvody/#felcar)          |  15  |         [Pulčík](/Zasazení-Oldworld/Puvody/#pulcik)          |
+|  6   |       [Hraničář](/Zasazení-Oldworld/Puvody/#hranicar)        |  16  |      [Řemeslník](/Zasazení-Oldworld/Puvody/#remeslnik)       |
+|  7   |        [Hrobník](/Zasazení-Oldworld/Puvody/#hrobnik)         |  17  |        [Spodina](/Zasazení-Oldworld/Puvody/#spodina)         |
+|  8   |        [Inženýr](/Zasazení-Oldworld/Puvody/#inzenyr)         |  18  |       [Trpaslík](/Zasazení-Oldworld/Puvody/#trpaslik)        |
+|  9   |      [Lesní elf](/Zasazení-Oldworld/Puvody/#lesni-elf)       |  19  | [Válečný veterán](/Zasazení-Oldworld/Puvody/#valecny-veteran) |
+|  10  |    [Lovec odměn](/Zasazení-Oldworld/Puvody/#lovec-odmen)     |  20  |   [Vznešený elf](/Zasazení-Oldworld/Puvody/#vzneseny-elf)    |
+
 Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci se strážcem sestavit vlastní původ nebo některý z existujících původů upravit.
 
 ## 2. Naházej si dovednostní body
@@ -28,7 +41,7 @@ Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ neb
 
 Teď už jen dolaď maličkosti.
 
-- **Jméno:** Vymysli si jméno
+- **Jméno:** Vymysli si jméno (inspirace dle rasy/národnosti [zde](https://drive.google.com/file/d/1ZVLvD4rrqeqg9l1_8N8X7xNyFE0sKpai/view?usp=sharing))
 - **Věk:** Stanov svůj věk nebo si hoď *15+2K20* (U trpaslíků může výsledek vynásobit až *x10* a u elfů až *x100*).
 - **Vizuální a povahové rysy:** Stanov klíčové vizuální a povahové rysy své postavy. Mohou ti pomoci tabulky níže (není třeba používat všechny)
 - **Vazby:** Pokud ti strážce dal k dispozici tabulku *Vazeb*, hoď si nad ní.
