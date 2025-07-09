@@ -368,7 +368,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 **Formující volba:** V jaké vojenské jednotce si sloužil?
 
 - **Šermíři:** Tvou další výbavou je Štít (+1 Brnění) a Dlouhý meč (1k8).
-- **Mušketýři:** Tvou další výbavou je Mušketa (1k12 poškození, *neskladná*, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo) a Munice do muškety (10 použití, náchylné na vodu a oheň).
+- **Mušketýři:** Tvou další výbavou je Mušketa (1k12 poškození, *neskladná*, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo), Munice do muškety (10 použití, náchylné na vodu a oheň) a Čistící sada na křesadlové zbraně.
 - **Velké meče:** Tvou další výbavou je Obouruční meč (1k10, *neskladný*)
 - **Halapartníci:** Tvou další výbavou je Halapartna (1k10, *neskladná*, dlouhá)
 - **Lukostřelci:** Tvou další výbavou je Luk (1k8, neskladný) a Munice do luku (10 použití)

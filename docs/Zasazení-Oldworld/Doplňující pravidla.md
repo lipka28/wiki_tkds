@@ -50,7 +50,7 @@ Ve směs existují dva základní stupně síly chaosu jakým mohou postavy být
 - Prodloužený kontakt s kultisty, mutanty či jinými stvořeními chaosu.
 - Být svědkem zpackaného kouzla.
 
-**Významné působení chaosu:** Při úspěšném ověření postava obdrží *1 bod nákazy chaosu* a při neúspěchu *1k6 bodů nákazy chaosu*. Zdrojem významného působení chaosu může být:
+**Významné působení chaosu:** Při úspěšném ověření postava obdrží *1 bod nákazy chaosu* a při neúspěchu *1k6+1 bodů nákazy chaosu*. Zdrojem významného působení chaosu může být:
 
 - Kontakt s démonem.
 - Zásah chaotickou energií.
@@ -63,13 +63,13 @@ Ve směs existují dva základní stupně síly chaosu jakým mohou postavy být
 
 Mechanicky existují dva hlavní způsoby jak se zbavit nákazy chaosu. Těmi jsou *vyhnutí se kontaktu* s chaosem a *temný šepot*. Kreativní hráči však jistě objeví i další způsoby jak se zbavit nákazy chaosu.
 
-**Vyhnutí se kontaktu s chaosem:** Po každém přenocování, za předpokladu že nepřišla předchozí den do kontaktu s nákazou chaosu, si může hráčská postava odečíst *1 bod nákazy chaosu*.
+**Vyhnutí se kontaktu s chaosem:** Hráčská postava si může po každém přenocování, za předpokladu že nepřišla předchozí den do kontaktu s nákazou chaosu, odečíst *1 bod nákazy chaosu*.
 
 **Temný šepot:** Strážce může pobídnout hráče k nějaké pro něj nevýhodné aktivitě. Například nechat nepřítele utéct, "náhodou" zasáhnout spojence, usnout na hlídce či podobné aktivity. Hráč může samozřejmě odmítnout, ale pokud učiní jak strážce říká. Vyléčí si *5 bodů nákazy chaosu*.
 
 ### Mutace
 
-Překoná-li postava hranici *20-ti bodů nákazy chaosu*. V noci podstoupí mutaci. Jakou mutaci hráč obdrží je čistě v režii strážce. Hráč pouze podstoupí *hod štěstí*. Díky kterému se určí zda bude jeho mutace spíš pozitivního či negativního charakteru (příklad v tabulce níže). Nezávisle na výsledku se s dotyčného stává mutant s nějakou viditelnou mutací, který je sám zdrojem slabého působení chaosu a jeho *body nákazy chaosu* klesnou na *5*.
+Překoná-li postava hranici *20-ti bodů nákazy chaosu*. V noci podstoupí mutaci. Jakou mutaci hráč obdrží je čistě v režii strážce. Hráč pouze podstoupí *hod štěstí*. Díky kterému se určí zda bude jeho mutace spíš pozitivního či negativního charakteru (příklad v tabulce níže). Nezávisle na výsledku se s dotyčného stává mutant s nějakou viditelnou mutací, který je sám zdrojem *slabého působení chaosu* a jeho *body nákazy chaosu* klesnou na *5*.
 
 |  1k6  | Typ mutace                                                   |
 | :---: | ------------------------------------------------------------ |
