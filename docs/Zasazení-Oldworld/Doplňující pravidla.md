@@ -6,6 +6,8 @@ Sada rozšíření pravidel pro příběhy odehrávající se ve Starém světě
 
 ## Milníky a postup na vyšší úroveň dobrodruha
 
+[Tohle pravidlo nahrazuje vylepšování dovedností za selhání ze základních pravidel](/Zakladni_pravidla/#vylepsovani-dovednosti-za-selhani). 
+
 Postavy dosažením různých milníků mohou postoupit na vyšší úroveň dobrodruha a tím získat různá permanentní vylepšení. Za milníky lze považovat věci jako: splnění úkolu, dosažení vlastního cíle, rozřešení vazby nebo znamení, či dosažení určitého bodu v příběhu. Postava postupuje v úrovních dle následující tabulky.
 
 | úroveň      |   požadavky   |                       Odměna                        |
@@ -14,7 +16,7 @@ Postavy dosažením různých milníků mohou postoupit na vyšší úroveň dob
 | Profesionál |   1 milník    | Navýšení BO; Hod na dovednosti; Rozšíření inventáře |
 | Expert      |   4 milníky   | Navýšení BO; Hod na dovednosti; Rozšíření inventáře |
 | Veterán     |   9 milníků   |        Navýšení BO; Hod na dovednosti; Učeň         |
-| Mistr       | speciální*\** |     Navýšení BO; Hod na dovednosti; Známé jméno     |
+| Mistr       | speciální*\** |           Navýšení BO; Hod na dovednosti;           |
 
 *\* K dosažení úrovně mistra potřebuje postava učně minimálně úrovně expert a dokončit s ním obtížný milník (například nějaká těžká mise)*
 
@@ -25,8 +27,6 @@ Postavy dosažením různých milníků mohou postoupit na vyšší úroveň dob
 **Rozšíření inventáře:** Nosnost postavy se navýší o *1 slot*.
 
 **Učeň:** Postava přiláká učně. Tento učeň začíná jako *začátečník*.
-
-**Známé jméno:** Váha tvého jména tě předchází kamkoliv přejdeš. To může mít jisté výhody ale také vyvolávat nechtěnou pozornost.
 
 !!! note "A co nějaké schopnosti?"
     Hráči zvyklí na systémy, které umožní "stavět postavu k obrazu svému" výběrem všelijakých schopností. Mohou považovat výše popsaný postup na vyšší úroveň za poněkud nedostatečný. Je dobré myslet na to, že hlavními způsoby růstu postav v této hře jsou získané předměty a přirozený růst na základě interakcí se světem (popsán [zde](/Zakladni_pravidla/#rust-na-zaklade-hernich-interakci)). V kombinaci s úrovněmi a milníky popsanými, by měl být postavám poskytnut dostatečný prostor se rozvíjet.

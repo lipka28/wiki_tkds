@@ -2,8 +2,8 @@
 
 **Svoboda volby**
 
-- Atributy a s nimi spojené záchranné hody nedefinují tvou postavu. Jsou to jen nástroje k vyhodnocování nebezpečných situací. Proto je lepší se do takových situací ani nedostat.
-- Nezamýšlej se jen nad tím co by udělala tvá postava, ale také co bys udělal ty.
+- Atributy a s nimi spojené záchranné hody nedefinují tvou postavu. Jsou to jen nástroje k vyhodnocování nebezpečných situací. A někdy je lepší se do takových situací ani nedostat.
+- Nezamýšlej se jen nad tím co by udělala tvá postava, ale také co bys v dané situaci udělal ty.
 - Buď kreativní, využívej intuici, předměty a vztahy s nehráčskými postavami.
 
 **Týmová práce**
@@ -14,7 +14,7 @@
 **Průzkum**
 
 - Pokládání otázek a vnímání detailů je užitečnější než jakékoli statistiky, předměty či dovednosti.
-- Berte popisky strážce jako danou skutečnost, ale neváhej si vyžádat více informací.
+- Berte popisky Strážce jako danou skutečnost, ale neváhej si vyžádat více informací.
 - Neexistuje jediná správná cesta vpřed.
 
 **Rozhovory s nehráčskými postavami**
@@ -35,5 +35,5 @@
 **Ambice**
 
 - Stanov si cíle a i se skromnými prostředky postupuj vpřed.
-- Neočekávej nic. Zasluž si své vítězství.
+- Neočekávej nic a zasluž si své vítězství.
 - Udržuj hru v pohybu. Hraní je jediným způsobem jak se dozvědět, co se stane dál.

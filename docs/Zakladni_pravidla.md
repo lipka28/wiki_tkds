@@ -14,7 +14,7 @@ Ke hře jsou zapotřebí minimálně následující nástroje.
 
 **Tužka:** Nebo jiný způsob zapisování poznámek do deníku postavy.
 
-**Strážce:** Ochotný hráč, který si pro ostatní připraví dobrodružství a sám na sebe vezme, často na první pohled děsivou, roli vypravěče.
+**Strážce:** Ochotný hráč, který si pro ostatní připraví dobrodružství a sám na sebe vezme, často na první pohled děsivou, roli průvodce hrou.
 
 ### Kostky
 
@@ -34,7 +34,7 @@ Stejně jako spousta dalších stolních RPG. I tato používá sadu zvláštně
 
 **Více kostková notace:** Pokud je vyžadován hod více kostek naráz, je počet hozených kostek indikován před *k*. Například *2k6* znamená: Hoď 2 šesti-stranné kostky a sečti výsledek.
 
-**Přičítání kostek:** Pokud efekt (většinou útok) je zapsán jako *1k8+1k8*, znamená to, že hráč si na vyhodnocení hodí *2k8*, ale bere jen *nejvyšší výsledek* z těchto dvou kostek. Stejně tak pokud efekt udává *+1k12*. Znamená to, že se k hodu přihodí *1k12* a opět se bere jen ten *nejvyšší hod ze všech hodů*.
+**Posílení kostek:** Pokud efekt (většinou útok) je zapsán jako *1k8+1k8*, znamená to, že hráč si na vyhodnocení hodí *2k8*, ale bere jen *nejvyšší výsledek* z těchto dvou kostek. Stejně tak pokud efekt udává *+1k12*. Znamená to, že se k hodu přihodí *1k12* a opět se bere jen ten *nejvyšší hod ze všech hodů*.
 
 **Zaokrouhlování:** Pokud dojde na situaci, kdy je třeba zaokrouhlit nějaké číslo na celé. Vždy se zaokrouhluje dolů (pokud není specifikováno jinak).
 
@@ -97,7 +97,7 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 - **Inventář:** Je abstraktní pojem pro umístění předmětů postavy. V logice hry postava uchovává své předměty různě na svém těle. První 2 sloty jsou vymezeny pro ruce a ostatní předměty jsou například na opasku, v kapsách, přivázané na zádech či v batohu.
 - **Sloty:** Všechny věci, pokud není uvedeno jinak, zabírají *1 slot*. Pokud lze předmět považovat za *neskladný*, zabírá sloty *2*. Některé předměty jsou také označeny jako *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo.
 - **Nosnost:** Nosnost postavy je *10 slotů*.
-- **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých magických předmětů (Arkan).
+- **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých magických předmětů.
 
 ### Vyčerpání
 
@@ -143,9 +143,9 @@ Pro měření vzdálenosti se pro zjednodušení používají **abstraktní vzd�
 Se dělí do následujících typů:
 
 - **Blízko:** Cokoliv se nachází ve stejné zóně je blízko a lze na to zaútočit útok na blízku či schopnostmi vyžadující dotek.
-- **Poblíž:** Cokoliv k čemu se lze dostat během jednoho tahu je poblíž. Většinou se jedná o vedlejší zóny.
-- **Daleko:** Cokoliv k čemu se nelze dostat během jednoho tahu ale lze na to seslat kouzlo nebo dostřelit je daleko. 
-- **Mimo dosah:** Cokoliv lze vidět avšak je mimo dosah většinou střelných zbraní a kouzel.
+- **Poblíž:** Cokoliv, k čemu se lze dostat během jednoho tahu, je poblíž. Většinou se jedná o vedlejší zóny.
+- **Daleko:** Cokoliv, k čemu se nelze dostat během jednoho tahu ale lze na to seslat kouzlo nebo dostřelit, je daleko. 
+- **Mimo dosah:** Cokoliv, lze vidět avšak nelze zasáhnout, žádnou schopností, kouzlem či útokem, je mimo dosah.
 
 **Zóny**
 
@@ -169,7 +169,7 @@ Zóny jsou abstraktní výřezy bojiště nespecifikované velikosti (Nikdy vša
 
 ### Útok na dálku
 
-- **Dostřel:** Zbraněmi na dálku lze efektivně útočit na nepřítele dostatečně blízko na to, aby bylo vidět bělmo jeho očí (dle uvážení strážce avšak většinou do vzdálenosti 12 metrů). Útok na mimořádně vzdálené cíle je považována za *oslabený útok*.
+- **Dostřel:** Zbraněmi na dálku lze efektivně útočit na nepřítele dostatečně blízko na to, aby bylo vidět bělmo jeho očí. Útok na mimořádně vzdálené cíle je považována za *oslabený útok*.
 - **Ohrožení:** Pokud je stvořené v dosahu útoku na blízku jiného tvora, nemůže provést útok střelnou zbraní.
 - **Munice:** Střelné zbraně většinou vyžadují k používání nějakou tu munici. Bez munice nelze ze zbraně střílet. Každá munice má specifický počet použití a je vázána na specifickou zbraň (strážce může udělat výjimku). Munice se spotřebovává následujícími způsoby:
     - **Použití v boji:** Pokud je v boji použita zbraň využívající munici, na konci boje si uživatel odečte *1 použití munice* (nezávisle na tom kolikrát byla zbraň v boji použita).

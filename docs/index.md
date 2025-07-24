@@ -14,17 +14,17 @@ Vítejte *Tam, kde draci spí.* Nebo spíš v přehledu pravidel stejnojmenné s
 
 Základní principy na kterých tato hra staví.
 
-**Neutralita:** Údělem Strážce (Pán jeskyně / Dungon master) je vystupovat jako neutrální rozhodčí a jasně představovat pravidla, situace, nehráčské postavy (NPC) a narativ.
+**Neutralita:** Údělem Strážce (Pán jeskyně / Dungon master) je vystupovat jako neutrální sudí a jasně představovat pravidla, situace, nehráčské postavy (NPC) a narativ hry.
 
-**Bez povolání:** Role nebo dovednosti hráčských postavy nejsou omezeny jedním povolání. Místo toho je jejich specializace určena vybavením, které nosí, a zkušenostmi, které získaly.
+**Bez povolání:** Role nebo dovednosti hráčských postavy nejsou omezeny jedním povolání. Místo toho je jejich specializace určena jejich původem, vybavením které nosí a zkušenostmi které získaly.
 
 **Smrt:** Hráčské postavy mohou být silné, ale zároveň jsou zranitelné. Smrt je vždy blízko, ale nikdy není náhodná nebo nečekaná.
 
-**Fikce na prvním místě:** Hod kostkou ne vždy odráží obtížnost výzvy nebo její výsledek. Místo toho je úspěch či neúspěch založen na prvcích světa a posuzován Strážcem na základě dialogu s hráči.
+**Fikce na prvním místě:** Hod kostkou ne vždy odráží obtížnost výzvy nebo její výsledek. Místo toho je úspěch či neúspěch založen na kontextu dané situace a posuzován Strážcem na základě dialogu s hráči.
 
 **Růst hráčských postav:** Hráčské postavy se mění skrze pokrok ve světě, získávají nové dovednosti a schopnosti tím, že přežívají nebezpečné události a překonávají překážky.
 
-**Hráčská rozhodnutí:** Hráči by vždy měli chápat důvody svých rozhodnutí a stejně tak, být strážcem dostatečně informováni o možných následcích s nimi spjatými.
+**Hráčská rozhodnutí:** Hráči by vždy měli chápat důvody svých rozhodnutí a stejně tak, být Strážcem dostatečně informováni o možných následcích s nimi spjatými.
 
 **Principy:** Strážce i hráči mají k dispozici vodítka, která podporují specifický herní zážitek založený na kritickém myšlení, objevování a přirozeně rozvíjejícímu se příběhu. 
 

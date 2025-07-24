@@ -1,6 +1,8 @@
 # Nástroje strážce
 
-Pokud se chcete dozvědět něco více o roli strážce a jak vést tuhle hru. Čerpejte z původního [Cairn](https://cairnrpg.com/second-edition/wardens-guide/)
+Pokud se chcete dozvědět něco více o roli strážce a jak vést tuhle hru. Čerpejte z původního [Cairn](https://cairnrpg.com/second-edition/wardens-guide/).
+
+Rady na konverze monster z jiných systémů: [https://www.bastionland.com/2020/03/bastionland-non-conversion-guide.html](https://www.bastionland.com/2020/03/bastionland-non-conversion-guide.html)
 
 ## Zásady pro strážce
 
@@ -29,7 +31,7 @@ Pokud se chcete dozvědět něco více o roli strážce a jak vést tuhle hru. �
 
 - Přirozené rozvíjení děje je to na čem záleží, nikoliv matika a schopnosti postav. Umožni hráčům následovat vlastní dějové linky a poskytni jim dostatek příležitostí k rozvoji svých postav. 
 - Měj přehled o tom co si tví hráči pro své postavy přejí a postav jim do cesty dostatek příležitostí tyto cíle následovat.
-- Jed dobré však myslet na to, že podřezání ve spánku zabije běžného humanoida nezávisle na zkušenostech či speciálním tréninku. 
+- Je dobré však myslet na to, že podřezání ve spánku zabije běžného humanoida nezávisle na zkušenostech či speciálním tréninku. 
 
 ###   Nebezpečný svět
 
@@ -42,6 +44,6 @@ Pokud se chcete dozvědět něco více o roli strážce a jak vést tuhle hru. �
 ###  Poklad
 
 - Poklad by měl odpovídat místu, kde se nachází. Poklad jako ostatní věci ve hře vypráví nějaký příběh.
-- Poklad by měl být cenný, skoro vždycky *neskladný* a v podstatě k ničemu mi svou peněžitou hodnotu.
-- Arkany, na druhou stranu, by měli být vždy užitečné a zajímavé.
-- Kombinace pokladů a Arkan, by mělo být dostatečným lákadlem k vydání se do nebezpečných lokalit.
+- Poklad by měl být cenný, skoro vždycky *neskladný* a v podstatě k ničemu mimo svou peněžitou hodnotu.
+- Magické předměty, na druhou stranu, by měli být vždy užitečné a zajímavé.
+- Kombinace pokladů a magických předmětů, by mělo být dostatečným lákadlem k vydání se do nebezpečných lokalit.

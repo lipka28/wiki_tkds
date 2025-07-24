@@ -1,10 +1,12 @@
-# Magie
+# Magie ==todo==
 
 <img src="/assets/sep_line.png"/>
 
 <img src="/assets/Magic.webp"/>
 
 <img src="/assets/sep_line.png"/>
+
+Consider this ==todo== https://murkdice.substack.com/p/freeform-magic-for-odd-likes
 
 Magie v Aldiru je uměním ztraceným v mlhách času, třebaže svět po skonu bohů přímo kypí syrovou magickou esencí. Ta nejvzácnější jiskra, talent samovolně uchopit a utvářet tuto energii do zázračných forem, však z duší smrtelníků téměř vyhasla. Udušena stínem lamačů kouzel. Místo ní se v každodennosti uchytila alchymie, méně předvídatelná, leč přeci jen bezpečnější cesta. Stále však po světě zůstávají roztroušeny ozvěny minulé slávy. Prastaré grimoáry, zaprášené svitky a předměty sálající mocí. Tyto relikvie, obecně nazývané Arkany, jsou předmětem horečnatého pátrání nejednoho sběratele či učence toužícího po jejich moci.
 
