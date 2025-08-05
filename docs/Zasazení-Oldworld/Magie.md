@@ -27,20 +27,9 @@ Standardní jazyk užíván lidmi pro zápis a vyvolávání magie, prý vznikl�
 
 ## Magické grimoáry
 
-- **Kouzla:** Magické grimoáry mohou obsahovat až *6 kouzel* a zabírají 1 slot v inventáři. Nemohou být lehce kopírovány nebo vytvořeny. Kouzla lze však složitou procedurou mezi grimoáry přenášet (původní záznam kouzla je zničen) nebo z nich vytvářet zjednodušené kopie ve formě svitků.
+- **Kouzla:** Magické grimoáry většinou obsahují *1 kouzlo* a zabírají 1 slot v inventáři. Nemohou být lehce kopírovány nebo vytvořeny. Z kouzel v grimoárech lze však složitou procedurou vytvářet zjednodušené kopie ve formě svitků.
 - **Nátura grimoárů:** Některé magické grimoáry mohou mít dodatečné efekty.
 - **Nežádaná pozornost:** Magické grimoáry mohou přilákat nežádoucí pozornost. Přece jen jsou to mocné magické předměty. Není tedy úplně dobrý nápad se jimi otevřeně prezentovat.
-
-### Přenášení kouzel
-
-Zaznamenaná kouzla, je možné jako volno-časovou aktivitu přenášet do magických grimoárů či jiných předmětů. Je dobré mít na paměti, že při přenášení kouzel je vždy kouzlo z původního zdroje ztraceno (výjimkou jsou kouzla uložená v mysli jako v případě původu čarodějův učeň). K přenosu kouzla je většinou potřeba:
-
-- Zdroj kouzla (Většinou magický grimoár)
-- Cílový předmět (Většinou jiný magický grimoár).
-- Být Elf, nebo mít vyvinutý čarodějnický zrak a ovládat jazyk Magick.
-- Mít přístup k potřebným nástrojům (většinou psací potřeby).
-- Magický materiál v hodnotě 300 šilinků (může být víc v případě, že předmět nějak modifikuje běžné používání přenášeného kouzla).
-- Den práce.
 
 ## Sesílání kouzel
 
