@@ -94,11 +94,11 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - **Aqshy (Oheň, červená):** V tvém grimoáru je zapsané kouzlo *Ohnivá stěna* - Vytvoří rovnou stěnu z ohně dlouhou až 10 metrů a vysokou až 3 metry.
 - **Azyr (Nebesa, modrá):** V tvém grimoáru je zapsané kouzlo *Kontrola počasí* - Můžeš změnit jaký typ počasí zrovna je, nemáš však nad ním hlubší kontrolu. 
 - **Ghur (Bestie, hnědá):** V tvém grimoáru je zapsané kouzlo *Proměna ve zvíře* - Ty a vše co máš na sobě se změní do podoby běžného zvířete.
-- **Ghyran (Život, zelená):** V tvém grimoáru je zapsané kouzlo *Léčení* - Dotykem zaceluje rány a léčí zlomeny. Také léčí 1k4 SIL (1x denně za stvoření).
+- **Ghyran (Život, zelená):** V tvém grimoáru je zapsané kouzlo *Léčení* - Dotykem zaceluje rány a léčí zlomeniny. Také léčí 1k4 SIL (1x denně za stvoření).
 - **Hysh (Světlo, bílá):** V tvém grimoáru je zapsané kouzlo *Světlo* - Očaruje předměty aby vydával jasné světlo. (Osvětluje oblast o 10-ti metrech)
 - **Chamon (Železo, žlutá):** V tvém grimoáru je zapsané kouzlo *Průchod* - Vytvoříš dočasný průchod skrz dřevo, cihlu či kámen.
 - **Shyish (Smrt, fialová):** V tvém grimoáru je zapsané kouzlo *Poslední slova* - Jedenkrát přivolá zpět duši čerstvě mrtvého jedince (do 24 hodin). Přivolaná duše nemůže dělat nic jiného než komunikovat. Zodpoví 3 otázky.
-- **Ulgu (Stín, šedá):** V tvém grimoáru je zapsané kouzlo *Vizuální iluze* - Vytvoří němou nepohyblivou iluzi o velikosti místnosti dle tvé představy.
+- **Ulgu (Stín, šedá):** V tvém grimoáru je zapsané kouzlo *Vizuální iluze* - Vytvoří němou nepohyblivou iluzi o velikosti běžné místnosti dle tvé představy.
 
 <img src="/assets/sep_line.png"/>
 
@@ -145,7 +145,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Formující volba:** Jaký prokletý artefakt si odcizil mrtvému?
 
-- **Amulet ve tvaru vrány:** (*zanedbatelný*) Který ti umožňuje položit otázku mrtvému. Každé použití tě stojí 1 VUL a všichni zúčastnění jsou vystaveni *slabému působení chaosu*.
+- **Amulet ve tvaru vrány:** Který ti umožňuje položit otázku mrtvému. Každé použití tě stojí 1 VUL a všichni zúčastnění jsou vystaveni *slabému působení chaosu*.
 - **Podivné vědro krve:** (*neskladné*, 1 použití, *Dobíjení:* Naplň vědro krví umírajícího bojovníka) Vylij jej na zem a povstane **nemrtvý sluha** (6 BO, 1  Brnění, 13 SIL, 11 HBI, 4 VUL, pěsti (1k8+1k8)), stvořený z čehokoliv co bylo na daném místě zakopáno. Jeho vyvolání vystaví všechny zúčastněné *významnému působení chaosu*. A jeho samotná existence způsobuje denní vystavení *slabému působení chaosu* všem poblíž.
 - **Magický grimoár:** Kniha obsahující podivné písmo a všelijaké nákresy. Si jsi jistý, že se jedná o magickou knihu, ale jelikož neovládáš magick, netušíš jaké kouzlo je v ní zapsáno.
 - **Maska cizince:** Podivná maska, kterou když si nasadíš změní se tvůj vzhled i hlas na jednoho specifického, vždy toho samého, člověka. Každé nasazení masky tě vystaví *významnému působení chaosu*.
@@ -163,7 +163,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 **Formující volba:** Jaký je tvůj dosavadní nejlepší výtvor?
 
 - **Prototyp pepřenky:** Získáváš do své počáteční výbavy (a své knihy vynálezů) unikátní prototyp poloautomatické příruční pistole, střílející malé kovové kuličky (1k6+1k6 nebo 1k6 *plošně*, náchylné na vodu a oheň, hlučná). Pokud při použití zbraně padne dvakrát po sobě 1 zbraň se zasekne. Získáváš i munici do pepřenky (10 použití, náchylné na vodu a oheň)
-- **Mechanická paže:** Získáváš do své počáteční výbavy (a své knihy vynálezů) plně mechanickou paži, co se dá v rameni oddělit od těla. Lze použít jako zbraň (1k8, *zanedbatelná*, *neskladná* pokud oddělena od těla). Hodinový mechanizmus v paži musí být každý den natažen, nebo ruka přestane fungovat. Pokud si přeješ, můžeš si na začátku hry zvolit mít tuto paži na místo jedné své vlastní.
+- **Mechanická paže:** Získáváš do své počáteční výbavy (a své knihy vynálezů) plně mechanickou paži, co se dá v rameni oddělit od těla. Lze použít jako zbraň (1k8, *zanedbatelná*, *neskladná* pokud oddělena od těla). Hodinový mechanizmus v paži musí být každý den natažen za pomocí klíčku (*zanedbatelný*), nebo ruka přestane fungovat. Pokud si přeješ, můžeš si na začátku hry zvolit mít tuto paži na místo jedné své vlastní.
 - **Paralyzující obušek:** Získáváš do své počáteční výbavy (a své knihy vynálezů) obušek, který při kontaktu okamžitě omráčí stvoření o maximální velikost člověka. Lze použít i jako zbraň (1k6, při kritickém poškození je cíl omráčen). Mechanizmus v obušku musí být po každém použití několik minut natahován, než se dá znovu použít.
 - **Háková pistole:** Získáváš do své počáteční výbavy (a své knihy vynálezů) bambitku, která umí vystřelit hák s připevněným 10-ti metrovým lankem na vzdálenost až 10 metrů. 
 
@@ -188,7 +188,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 - **Spřátelená veverka:** Poměrně inteligentní a tobě naprosto oddaná veverka (1 BO, 2 SIL, 12 HBI, 8 VUL, nebojuje). Můžeš ji nosit v inventáři. 
 - **Popel znovuzrození:** (3 použití) Umrlý plamen posypán tímto popelem procitne v nový život. Stejně jako  stvoření mrtvé jen pár chvil se znovu navrátí ze světa mrtvých.
-- **Pírko zastření:** (1 použití) Umožní jakémukoliv stvoření se vydávat za někoho (nebo něco) jiného.
+- **Pírko zastření:** (1 použití, *zanedbatelné*) Umožní jakémukoliv stvoření se vydávat za někoho (nebo něco) jiného.
 - **Smůla z kamenného stromu:** (3 použití) Mazlavá substance, která ztvrdne po rozmazání na libovolný povrch (+1 brnění).
 
 <img src="/assets/sep_line.png"/>
@@ -197,7 +197,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Tak dlouho jak se po světě budou pohybovat dezertéři, banditi, šílenci a kdo ví jaká další veteš. Lovci odměn budou mít co žrát. Někteří se dokonce specializují jako lovci čarodějnic pro Sigmarův kult. Jsi mistrný stopař a bojovník se znalostmi kriminálního podsvětí.*
 
-**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k4.
+**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
 
 **Extra výbava:** Krátký meč (1k6), Bambitka (1k10 poškození, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo), Munice do bambitky (10 použití, náchylné na vodu a oheň), Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*), Síť, Provaz, Klobouk (zanedbatelný).
 
@@ -237,7 +237,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Formující volba:** Co způsobilo tvé rodinné neshody?
 
-- **Nevhodný následovník:** Byl jsi v pořadí stát se dalším Kkrfiřtou své provincie. Politické intrikaření, tě však zanechalo s obtížnou volbou. Buď smrt nebo si změnit jméno a být odklizen na krásné malé letní panství. Volba byla jasná. Tvé nové jméno je v podstatě bezvýznamné (neplatí zvučné jméno). Získáváš však blízké panství s pokladnicí obsahující 1000 šilinků. Tohle panství zvládá samostatně hospodařit a veškeré náklady jsou pokryty jeho výdělky.
+- **Nevhodný následovník:** Byl jsi v pořadí stát se dalším Kurfiřtou své provincie. Politické intrikaření, tě však zanechalo s obtížnou volbou. Buď smrt nebo si změnit jméno a být odklizen na krásné malé letní panství. Volba byla jasná. Tvé nové jméno je v podstatě bezvýznamné (neplatí zvučné jméno). Získáváš však blízké panství s pokladnicí obsahující 1000 šilinků. Tohle panství zvládá samostatně hospodařit a veškeré náklady jsou pokryty jeho výdělky.
 - **Touha po dobrodružství:** Tvá touha zažít něco víc než jen neustále večírky a politikaření byla nejednou příčinnou domácích hádek. Tak si se jeden den prostě sebral a vydal do světa. Neznaje jestli se někdy ještě vrátíš. Získáváš *provaz* (5 metrů) a *kompas*. 
 - **Mutace:** Máš zjizvenou tvář a z halvy ti vyrůstá paroh (1k6, *zandebatlný*). Jsi mutant. Tvá rodina se za tebe stydí a za tvůj zrůdný vizuál tě poslala do vyhnanství. 
 - **Krádež:** Ukradl si cenné rodinné děditství a zmizel neznámo kam. Tvé rodině teď záleží především na tom, aby se jim artefakt navrátil. Získáváš *rodinnou cetku*, nemáš však ponětí k čemu slouží.
@@ -254,16 +254,16 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Formující volba:** Jaký spis sis přivlastnil, jelikož by se neměl dostat do rukou veřejnosti?
 
-- **O jazyku divočiny:** Svazek v kůži vázaných svitků. Seminární práce popisující jazyky a chování různých bestií a jak jim porozumět.
-- **Neviditelné symfonie:** Kniha vázaná v lehce svítivém obalu. Velmi vzácná. Popisuje nepatrné projevy magických větrů, splatitelné i netrénovaným okem.
-- **Labyrint zrcadel:** Stránky ukryté v obalu jiné knihy. Důmyslný traktát popisující potřebné  materiály, procedury a nejvhodnější místa pro přípravu přemisťovacího rituálu do chaotické říše Pána proměn Tzeentche.
+- **O jazyku divočiny:** Svazek v kůži vázaných svitků. Seminární práce popisující jazyky a chování bestií a jak jim porozumět.
+- **Neviditelné symfonie:** Kniha vázaná v lehce svítivém obalu. Velmi vzácná. Popisuje nepatrné projevy magických větrů, viditelné i netrénovaným okem.
+- **Labyrint zrcadel:** Stránky ukryté v obalu jiné knihy. Důmyslný traktát popisující potřebné materiály, procedury a nejvhodnější místa pro přípravu přemisťovacího rituálu do chaotické říše Pána proměn Tzeentche.
 - **Khornovy krvavé rituály:** Svazek vázaný v kůži nasáklý zaschlou krví. Obsahuje rituály jak si udobřit chaotického boha krve a vraždy Khorna. Také obsahuje prý zaručený postup jak vyvolat jednoho z jeho démonů a podmanit si jej. 
 
 <img src="/assets/sep_line.png"/>
 
 ## Potulný umělec
 
-*Zpíváš příběhy řek, lesů a hor, tvůj talent uklidňuje přátele i  živly. Viděl jsi víc než většina lidí, ale nikdy ti to nebylo dost.*
+*Zpíváš příběhy řek, lesů a hor, tvůj talent uklidňuje přátele i živly. Viděl jsi víc než většina lidí, ale nikdy ti to nebylo dost.*
 
 **Světaznalý:** Ovládáš další 2 jazyky vlastního výběru (lze vybrat až při setkání s neznámým jazykem). Navíc v každém větším městě máš 1 kontakt.
 
@@ -274,9 +274,9 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - **Ladičku odmaskování:** (3 použití, *Dobíjení:* Musí být roztavena a znovu ukována, pokaždé hoď 1k6 při 1 - 2 je navždy zničena), Rozeznění ladičky naruší všechny iluze a přeměny v blízkém okolí.
 - **Rákosová píšťalka:** Kdokoliv v doslechu (včetně tebe) musí uspět v záchranném hodu VUL. Jinak musí ihned vykonat násilný čin. Dotyční jsou také vystaveni *slabému působení chaosu*.
 - **Kamenná flétna:** Dokáže uklidnit téměř každou hladinu vody.
-- **Píšťalka smrtidechu** (1 použití, *Dobíjení:* Zachyť do ní poslední dech umírajícího válečníka. Vystaví nositele *významnému působení chaosu*). Píšťalka vydá děsivý jekot,  který vyděsí všechny kdo jej slyší (zachraň VUL nebo uteč).
+- **Píšťalka smrtidechu** (1 použití, *Dobíjení:* Zachyť do ní poslední dech umírajícího válečníka. Tento akt vystaví uživatele *významnému působení chaosu*). Píšťalka vydá děsivý jekot,  který vyděsí všechny kdo jej slyší (zachraň VUL nebo uteč).
 - **Všeklíč:** (1 použití, *Dobíjení:* Na noc zabal s 100 šilinky) Klíč, který funguje na každý běžný zámek.
-- **Převíjecí káča:** (1 použití) Když roztočena, vrátí čas o 30 vteřin. Všichni si pamatují co se stalo.
+- **Převíjecí káča:** (1 použití, *zanedbatelná*) Když roztočena, vrátí čas o 30 vteřin. Všichni si pamatují co se stalo.
 
 <img src="/assets/sep_line.png"/>
 
@@ -293,8 +293,8 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 **Formující volba:** Co ještě do nedávna bylo tvou obživou?
 
 - **Byl si zlodějem:** To že se říká, že všichni pulčíci jsou zloději, tě nesmírně uráží. Ne jen že je to rasistické, ale také neznáš pulčíka co by si poradil ze zámkem nebo nestřeženou kapsou brambory lépe než ty. Získáváš zlodějské náčiní.
-- **Byl si kuchařem:** Pro tvé kulinářské pošiny by se ne jeden pulčík či člověk utloukl. Získáváš hrnce na přírpavu jídla (neskladné). Navíc pokud máš k dispozici čerstvé suroviny, tak jako součást *hlídkové akce založit tábor*, připravíš výjmečné jídlo, které všem doplní 1 SIL.
-- **Byl si bavičem:** Tvé kousky a vystoupení přinesla ne jeden úsměv na tvář. Jsi talentovaný muzikant a získáváš hudební nástorj vlastního výběru (může být *neskladný*).
+- **Byl si kuchařem:** Pro tvé kulinářské počiny by se ne jeden pulčík či člověk utloukl. Získáváš hrnce na přípravu jídla (*neskladné*). Navíc pokud máš k dispozici čerstvé suroviny, tak jako součást *hlídkové akce založit tábor*, připravíš výjimečné jídlo, které všem doplní 1 libovolný dovednostní bod.
+- **Byl si bavičem:** Tvé kousky a vystoupení přinesla ne jeden úsměv na tvář. Jsi talentovaný muzikant a získáváš hudební nástroj vlastního výběru (může být *neskladný*).
 - **Byl si hraničářem:** Strážil si cesty v Mootlandu. Získáváš prak (1k6, neomezená munice) a osedlaného mootlandského jízdního psa (3 BO,  8 SIL 16 HBI 6 VUL, 1k6, +1 Slot).
 
 <img src="/assets/sep_line.png"/>
@@ -311,8 +311,8 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 - **Kameník:** Jsi odborník na opracovávání kamene. Někteří by tě dokonce nazvali umělcem. Tvá *Řemeslná výroba* poskytuje *slevu 10%* na jakoukoliv výstavbu z kamene (domy, hrady opevnění). Navíc získáváš *Kamenické kladívko* (1k6) a kovové hřeby (6 použití).
 - **Kovář:** Jsi odborník na opracovávání kovů. Tvá *řemeslná výroba* poskytuje *slevu 25%* na kovové předměty (meče, nože, štíty a podobně). Navíc získáváš *Kovářské kladivo* (1k10, *nesklané*) a *Roli plechu*.
-- **Švec:** Jsi odborní na sešívání látek a kůží do všelijakých tvarů. Tvá *řemeslná výroba* poskytuje *slevu 25%* na kožené či látkové předměty (oblečení, kožené zbroje, stany). Navíc získáváš Koženářskou jehlu (1k6) a Jutový motouz (10 metrů).
-- **Tesař:** Jsi odborníkem na práci se dřevem. Tvá *Řemeslná výroba* poskytuje *slevu 10%* na jakoukoliv výstavbu ze dřeva (domy, lodě, vozy). Navíc získáváš *Tesařskou pilku* (1k6) a *Tesařské lepidlo* (3 použití).
+- **Švec:** Jsi odborní na sešívání látek a kůží do všelijakých tvarů. Tvá *řemeslná výroba* poskytuje *slevu 25%* na kožené či látkové předměty (oblečení, lehké zbroje, stany atd.). Navíc získáváš Koženářskou jehlu (1k6) a Jutový motouz (10 metrů).
+- **Tesař:** Jsi odborníkem na práci se dřevem. Tvá *Řemeslná výroba* poskytuje *slevu 10%* na jakoukoliv výstavbu ze dřeva (domy, lodě, vozy). Navíc získáváš *Tesařskou pilku* (1k6) a *Tesařské lepidlo* (3 použití), které přidělá dřevo snad ke všemu.
 
 <img src="/assets/sep_line.png"/>
 
@@ -322,11 +322,11 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Pouliční škola života:** Život na ulici tě naučil, že žádná fyzická překážka není nepřekonatelná. Ať už se jedná o zamčené dveře či vachrlatou zítku, dovedeš si bez problému poradit.
 
-**Extra výbava:** Nůž (1k6), Zlodějské náčiní, Jed na krysy (1 použití, Po konzumaci zabije stvoření o velikost psa do 10-ti minut, člověka do hodiny.)
+**Extra výbava:** Nůž (1k6), Zlodějské náčiní, Jed na krysy (3 použití, Po konzumaci zabije stvoření o velikost psa do 10-ti minut, člověka do hodiny.)
 
 **Formující volba:** Jaký je tvůj obor?
 
-- **Krysař:** Pohrdavost ostatních ti už lezla krkem a tak si se dal na prospěšnou činnost. Získáváš klícka na tyči (*neskladná*) a psa vycvičeného v lovení a stopování krys (4 BO,  6 SIL 12 HBI 6 VUL, 1k6 (1k6+1k6 proti krysám)). Pokud o něj přijdeš, zvládneš si během týden vycvičit nového.
+- **Krysař:** Pohrdavost ostatních ti už lezla krkem a tak si se dal na prospěšnou činnost. Získáváš klícku na tyči (*neskladná*) a psa vycvičeného v lovení a stopování krys (4 BO,  6 SIL 12 HBI 6 VUL, 1k6 (1k6+1k6 proti krysám)). Pokud o něj přijdeš, zvládneš si během týden vycvičit nového jako *volno-časovou aktivitu*.
 - **Prostituce:** Prodáváš své tělo slabomyslným jedincům za peníze, dary a protislužby. Máš jednoho "známého" v každém větším městě.
 - **Vraždy:** Odstraňování nepohodlných pro majetné patrony, je něco v čem ses našel. Ke své výbavě navíc získáváš extra nůž (1k6), kuši (1k8, *neskladná*) a munici do kuše (10 použití).
 - **Zlodějna:** Specializuješ se na získávání hodnotných předmětů. Získáváš provaz (5 metrů) a prsten kočky (Umožňuje bezproblémové šplhání a bezpečný pád z libovolné výšky). Každé jeho použití tě vystaví *významnému působení chaosu*.

@@ -10,7 +10,7 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Urči svůj původ
 
-**Základní výbava pro všechny postavy:** *3k6* šilinků; Cestovní výbava (obsahuje: spacák, křesadlo, mýdlo a měch na vodu), Běžné oblečení (*zanedbatelné* pokud oblečené) a  Zásoby (3 použití).
+**Základní výbava pro všechny postavy:** *3k6* šilinků; Cestovní výbava (obsahuje: spacák, křesadlo, mýdlo a měch na vodu), Běžné oblečení (*zanedbatelné* pokud oblečené) a Zásoby (3 použití).
 
 Vyber si jeden z původů v tabulce níže (nebo si hoď *1k20* pro náhodný původ). Každý původ obsahuje popis, výbavu (jak funguje inventář najdeš [zde](/Zakladni_pravidla/#nosnost)) a jednu volbu, kterou je třeba provést.
 

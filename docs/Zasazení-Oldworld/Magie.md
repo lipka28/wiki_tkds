@@ -23,7 +23,7 @@ Všichni lidé, kteří se narodí s talentem ovládat magii se také rodí s č
 
 ## Magick
 
-Standardní jazyk užíván lidmi pro zápis a vyvolávání magie, prý vzniklý ze zjednodušené prastaré elfštiny. Jeho znalost je nutnost pro kohokoliv kdo chce praktikovat magii. Pro elfy vzhledem k nátuře tohohle jazyka, tahle podmínka neplatí. Pro ostatní však nestačí jen ovládat elfštinu.
+Standardní jazyk užíván lidmi pro zápis a vyvolávání magie, prý vzniklý ze zjednodušené prastaré elfštiny. Jeho znalost je nutnost pro kohokoliv kdo chce praktikovat magii. Pro elfy vzhledem k nátuře tohohle jazyka, tahle podmínka neplatí. Pro ostatní rasy však jen ovládat elfštinu nestačí.
 
 ## Magické grimoáry
 

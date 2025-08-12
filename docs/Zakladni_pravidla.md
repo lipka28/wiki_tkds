@@ -96,8 +96,11 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 
 - **Inventář:** Je abstraktní pojem pro umístění předmětů postavy. V logice hry postava uchovává své předměty různě na svém těle. První 2 sloty jsou vymezeny pro ruce a ostatní předměty jsou například na opasku, v kapsách, přivázané na zádech či v batohu.
 - **Sloty:** Všechny věci, pokud není uvedeno jinak, zabírají *1 slot*. Pokud lze předmět považovat za *neskladný*, zabírá sloty *2*. Některé předměty jsou také označeny jako *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo.
-- **Nosnost:** Nosnost postavy je *10 slotů*.
+- **Nosnost:** Nosnost postavy je *12 slotů*.
 - **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých magických předmětů.
+
+!!! note "Zanedbatelnost magických předmětů!"
+	Magické předměty s více jak jednorázovým použitím nemohou být nikdy *zanedbatelné*. Například běžný prsten je zanedbatelný. Zatím co prsten kočky, který tě zachrání při pádu z výšky nikoliv.
 
 ### Vyčerpání
 
