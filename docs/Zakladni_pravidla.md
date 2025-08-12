@@ -87,7 +87,7 @@ Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se n
 ### Body obrany (BO), odpočinek a léčení
 
 - **Body obrany (BO):** Každé stvoření disponuje body obrany. Které schopnost vyvarovat se zranění v boji.
-- **Krátký odpočinek:** Pokud lze předpokládat, že stvoření mělo po boji dostatek času na oddechnutí si. Vstupuje do dalšího boje vždy s *plným počtem bodů obrany*.
+- **Krátký Odpočinek (průzkumná akce):** Pokud má postava chvilku bezpečí, může si krátce odpočinout a tím doplnit všechny své *Body obrany (BO)*.
 - **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny několika způsoby. *1k6 dovednostních bodů*, lze vyléčit odpočinkem do dalšího dne. Alternativně si lze body dovedností vyléčit zaplacením léčitele či jiným vhodným zdrojem potřebné expertízy. Týdenní odpočinek však vždy vyléčí všechny dočasně ztracené dovednostní body.
 
 ### Nosnost
@@ -155,10 +155,11 @@ Zóny jsou abstraktní výřezy bojiště nespecifikované velikosti (Nikdy vša
 
 - **Útok:** Útočník uděluje poškození určenou kostkou poškození použité zbraně.
 - **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a musí podstoupit záchranný hod proti *kritickému poškození*.
+- **Jizva:** Obdrží-li jedinec tolik poškození, že jsou jeho BO sníženy přesně na 0 obdrží [jizvu](/Zakladni_pravidla/#jizvy).
 - **Skupinový útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
 
 !!! example "Alternativní varianta: Společně jsme silnější"
-	Možnou variantou pro vícenásobný útok. Je přičíst +1 k poškození za každou kostku útoku s hodnotou 4+, schopnou zranit zranit nepřítele (mimo nejvyšší kostku).
+	Možnou variantou pro vícenásobný útok. Je vzít nejvyšší kostku a přičítat +1 k poškození za každou další kostku útoku s hodnotou 4+, schopnou zranit nepřítele.
 
 ### Modifikátory útoků
 
@@ -170,7 +171,7 @@ Zóny jsou abstraktní výřezy bojiště nespecifikované velikosti (Nikdy vša
 ### Útok na dálku
 
 - **Dostřel:** Zbraněmi na dálku lze efektivně útočit na nepřítele dostatečně blízko na to, aby bylo vidět bělmo jeho očí. Útok na mimořádně vzdálené cíle je považována za *oslabený útok*.
-- **Ohrožení:** Pokud je stvořené v dosahu útoku na blízku jiného tvora, nemůže provést útok střelnou zbraní.
+- **Ohrožení:** Pokud je stvořené v ohrožení útokem na blízku jiného tvora, nemůže provést útok střelnou zbraní.
 - **Munice:** Střelné zbraně většinou vyžadují k používání nějakou tu munici. Bez munice nelze ze zbraně střílet. Každá munice má specifický počet použití a je vázána na specifickou zbraň (strážce může udělat výjimku). Munice se spotřebovává následujícími způsoby:
     - **Použití v boji:** Pokud je v boji použita zbraň využívající munici, na konci boje si uživatel odečte *1 použití munice* (nezávisle na tom kolikrát byla zbraň v boji použita).
     - **Použití mimo boj:** Každé použití mimo boj, například na řešení nějakého problému. Spotřebuje taktéž *1 použití munice*.
@@ -209,17 +210,36 @@ Velké skupiny nepřátel (jako třeba armáda zombie) nebo gigantičtí nepřá
 
 ## Růst postav
 
-Na místo často používané mechaniky získávání úrovní a zkušeností za zabíjení monster a získávání pokladu. Tato hra spoléhá na přirozenější vývoj postavy. Ten staví na těchto dvou základních pilířích: 
+Na místo často používané mechaniky získávání úrovní a zkušeností za zabíjení monster a získávání pokladu. Tato hra spoléhá na přirozenější vývoj postavy. Ten staví na těchto tří základních pilířích: 
 
+- **Jizvy**
 - **Vylepšování dovedností za selhání**
 - **Růst na základě herních interakcí**
 
+### Jizvy
+
+Prvním mechanizmem pro růst postavy jsou jizvy získané *v boji na život a na smrt*. Pokud obdržené poškození zredukuje *BO* hráčské postavy *přesně na 0*, obdrží jizvu z tabulky níže. Hodnota jizvy odpovídá ztraceným BO z daného útoku.
+
+|      | Kolik jsi ztratil BO?                                        |
+| :--- | :----------------------------------------------------------- |
+| 1    | **Otřesen** - Tvé ruce a nohy se roztřásly z útoku, který tě málem zasáhl. Poté co se vzpamatuješ si hoď *1k6*. Pokud je výsledek vyšší než tvé BO. Vem si jej jako své nové BO. |
+| 2    | **Šrám** - Hoď si *1k6* (*1 - Hlava nebo krk* \| *2 - Ruce* \| *3 - Oči* \| *4 - Hruď* \| 5 - *Nohy* \| *6 - Uši* ). Tahle rána zanechá jizvu. Poté co se zahojí, pokud jsou tvé *BO <= 2* hoď si *1k6* a o výsledek navyš své BO. |
+| 3    | **Odhozen** - Byl si odhozen a upadl si na zem. Jsi vyčerpaný dokud si pár hodin neodpočineš. |
+| 4    | **Zatmění** - Obdržíš *1k6 poškození VUL*. Poté co se z tohohle stavu vzpamatuješ, pokud je tvé *BO <= 4* hoď si *1k6* a o výsledek navyš své BO. |
+| 5    | **Už nikdy jako dřív** - V tvé hlavě se po úderu něco přeplo. Hoď si *1k6* (*1-2 - SIL a HBI* \| *3-4 - SIL a VUL* \| *5-6 - HBI a VUL*) a hodnoty výsledných dovedností prohoď. |
+| 6    | **Proražený orgán** - Jeden z tvých důležitých orgánů je proražen. Jsi vyčerpaný dokud neobdržíš dostatečnou odbornou pomoc. Navíc pokud do té doby obdržíš další kritické poškození tak zemřeš. Po zotavení pokud jsou tvé *BO <= 6* hoď si *1k6* a o výsledek navyš své BO. |
+| 7    | **Zmrzačení** - Můžeš se sotva pohybovat doku si pořádně neodpočineš a neobdržíš odbornou pomoc. Po zotavení si hoď *3k6* výsledek je nová hodnota tvé dovednosti *HBI*. |
+| 8    | **Něco upadlo** - Přišel si při boji o malou část svého těla. Hoď si *1k6* ( *1 - Nos* \| *2 - Ucho* \| *3 - Pár prstů* \| *4 - Pár zubů*  \| *5 - Oko* \| *6 - Kus svaloviny* ). Poté co se rána zahojí, pokud je tvé *BO <= 8* hoď si *1k6* a o výsledek navyš své BO. |
+| 9    | **Urvaná končetina** - Jedna z tvých končetin je urvána nebo vyžaduje nutnou amputaci (Strážce určí která). Hoď si *záchranu na VUL*. Pokud uspěješ tvá *VUL* se zvýší o *1k6* (max 20). Poté co se zotavíš hoď si *3k6* výsledek je tvá nová hodnota dovednosti *SIL*. |
+| 10   | **Rozbitá hlava** - Už ti to tak pálit nebude. Hoď si *2k6* výsledek je tvá nová hodnota dovednosti *VUL*, Také jsi vyčerpán doku si pořádně neodpočineš a neobdržíš odbornou pomoc. Jakmile se zbavíš vyčerpání a pokud jsou tvé *BO <= 10* hoď si *1k6* a o výsledek navyš své BO. |
+| 11   | **Pronásledován smrtí** - Tento útok tě měl rozhodně zabít, ale nestalo se tak. Pronásledují tě noční můry o vlastní smrti. Pokud neuspěješ ve své další *záchraně proti kritickému poškození*. Ihned zemřeš hrozivou smrtí. |
+| 12+  | **Smrtelné zranění** - Ležíš na zemi, umíráš a si vyčerpaný. Pokud nejsi do hodiny vyléčen tak zemřeš. Poté co se zotavíš si hoď *3k6*. Pokud je výsledek vyšší než hodnota tvé dovednosti SIL, je tahle hodnota tvou novou SIL. |
+
 ### Vylepšování dovedností za selhání
 
-První mechanizmus pro postupný růst je nezávislý na okolnostech hry či kampaně samotné. 
+Druhý mechanizmus pro postupný růst je nezávislý na okolnostech hry či kampaně samotné. 
 
-- **Získávání zkušeností:** Pokaždé, když postava selže v záchranném hodu. Přičte si *1 zkušenostní bod* do dovednosti ve které selhal. Pokud postava nasbírá *5 zkušenostních bodů* v nějaké ze svých dovedností. Těchto 5 nasbíraných zkušenostních bodů si smaže a získá "novou úroveň" dané dovednosti.
-- **Nová úroveň dovednosti:** Při získání nové úrovně, si může postava vybrat mezi *navýšením maximální hodnoty ovlivněné dovednosti* o *1* (max 20) nebo zvýšit své maximální *Body obrany (BO)* o *1*.
+- **Získávání zkušeností:** Pokaždé, když postava selže v záchranném hodu. Přičte si *1 zkušenostní bod* do dovednosti ve které selhal. Pokud postava nasbírá *5 zkušenostních bodů* v nějaké ze svých dovedností. Těchto 5 nasbíraných zkušenostních bodů si smaže a daná dovednost se mu navýší o 1 bod (max 20).
 
 ### Růst na základě herních interakcí
 

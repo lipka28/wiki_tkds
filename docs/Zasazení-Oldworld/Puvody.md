@@ -69,7 +69,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - *Nikdy nezradit přítele nebo spojence.*
 - *Chovat se čestně a zdvořile.*
 
-**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k4.
+**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
 
 **Extra výbava:** Dlouhý meč (1k8), Jezdecké kopí (1k12, *neskladné*, použitelné jen na zvířeti), Štít (+1 brnění), Těžká zbroj (2 brnění, *neskladná*, stěžuje některé aktivity)
 
@@ -122,7 +122,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Ochránci sklizně, obrana proti škůdcům, zlodějům a šelmám. Pozice velké cti, dokud trvá. Mnozí hraničáři však dlouho nevydrží.*
 
-**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k4.
+**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
 
 **Extra výbava:** Prak (1k6, neomezená munice), Sekyrka (1k6), Brigandina (1 brnění, pokud neoblečena tak *neskladná*), Pochodeň (3 použití), Dalekohled
 
@@ -130,7 +130,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 - **Bič z Krvemějky:** 1k8 poškození. Při způsobení *kritického poškození* se napije soupeřovi krve. Další útok tím získává vlastnost *plošné*.
 - **Rachotidlo:** Krabička s kličkou. Její otáčení působí ohromný rámus, který vyděsí většinu neinteligentních stvoření.
-- **Kotvící kámen:** Malý kámen, který při dopadu na zem magicky sváže nejbližší stvoření (které není větší jak vlk).
+- **Kotvící kámen:** Kámen, který při dopadu na zem magicky sváže nejbližší stvoření (které není větší jak vlk).
 - **Sluneční tyč:** Tyč, která při aktivaci poskytuje spoustu slunečního světla a tepla podobu až 1 hodiny. (1 použití, *Dobíjení:* Nechej na silném slunečním světle celý den).
 
 <img src="/assets/sep_line.png"/>
@@ -145,7 +145,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Formující volba:** Jaký prokletý artefakt si odcizil mrtvému?
 
-- **Amulet ve tvaru vrány:** Který ti umožňuje položit otázku mrtvému. Každé použití tě stojí 1 VUL a všichni zúčastnění jsou vystaveni *slabému působení chaosu*.
+- **Amulet ve tvaru vrány:** (*zanedbatelný*) Který ti umožňuje položit otázku mrtvému. Každé použití tě stojí 1 VUL a všichni zúčastnění jsou vystaveni *slabému působení chaosu*.
 - **Podivné vědro krve:** (*neskladné*, 1 použití, *Dobíjení:* Naplň vědro krví umírajícího bojovníka) Vylij jej na zem a povstane **nemrtvý sluha** (6 BO, 1  Brnění, 13 SIL, 11 HBI, 4 VUL, pěsti (1k8+1k8)), stvořený z čehokoliv co bylo na daném místě zakopáno. Jeho vyvolání vystaví všechny zúčastněné *významnému působení chaosu*. A jeho samotná existence způsobuje denní vystavení *slabému působení chaosu* všem poblíž.
 - **Magický grimoár:** Kniha obsahující podivné písmo a všelijaké nákresy. Si jsi jistý, že se jedná o magickou knihu, ale jelikož neovládáš magick, netušíš jaké kouzlo je v ní zapsáno.
 - **Maska cizince:** Podivná maska, kterou když si nasadíš změní se tvůj vzhled i hlas na jednoho specifického, vždy toho samého, člověka. Každé nasazení masky tě vystaví *významnému působení chaosu*.

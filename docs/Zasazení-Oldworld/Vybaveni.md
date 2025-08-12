@@ -20,7 +20,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | ------------------------------------------------------------ | ----: |
 | Štít (+1 brnění)                                             | 15 ši |
 | Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*)     | 25 ši |
-| Těžká zbroj (2 brnění, *neskladná*, stěžuje některé aktivity) | 50 ši |
+| Plná zbroj (2 brnění, *neskladná*, stěžuje některé aktivity) | 50 ši |
 
 ## Zbraně
 

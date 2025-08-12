@@ -4,39 +4,9 @@
 
 Sada rozšíření pravidel pro příběhy odehrávající se ve Starém světě. Tato pravidla rozšiřují a nahrazují některé pravidla popsaná v [Pravidlech hry](/Zakladni_pravidla/).
 
-## Milníky a postup na vyšší úroveň dobrodruha
-
-[Tohle pravidlo nahrazuje vylepšování dovedností za selhání ze základních pravidel](/Zakladni_pravidla/#vylepsovani-dovednosti-za-selhani). 
-
-Postavy dosažením různých milníků mohou postoupit na vyšší úroveň dobrodruha a tím získat různá permanentní vylepšení. Za milníky lze považovat věci jako: splnění úkolu, dosažení vlastního cíle, rozřešení vazby nebo znamení, či dosažení určitého bodu v příběhu. Postava postupuje v úrovních dle následující tabulky.
-
-| úroveň      |   požadavky   |                       Odměna                        |
-| :---------- | :-----------: | :-------------------------------------------------: |
-| Začátečník  |       -       |                          -                          |
-| Profesionál |   1 milník    | Navýšení BO; Hod na dovednosti; Rozšíření inventáře |
-| Expert      |   4 milníky   | Navýšení BO; Hod na dovednosti; Rozšíření inventáře |
-| Veterán     |   9 milníků   |        Navýšení BO; Hod na dovednosti; Učeň         |
-| Mistr       | speciální*\** |           Navýšení BO; Hod na dovednosti;           |
-
-*\* K dosažení úrovně mistra potřebuje postava učně minimálně úrovně expert a dokončit s ním obtížný milník (například nějaká těžká mise)*
-
-**Navýšení BO:** Postavě se zvýší BO o *1k6*. Pokud si hráč na navýšení nechce házet, může prostě přijmout navýšení o *3*.
-
-**Hod na dovednosti:** Postava si hodí 1k20 na každou ze svých dovedností. Je-li výsledek vyšší než aktuální maximální hodnota dané dovednosti, navýší si hodnotu této dovednosti o 1.
-
-**Rozšíření inventáře:** Nosnost postavy se navýší o *1 slot*.
-
-**Učeň:** Postava přiláká učně. Tento učeň začíná jako *začátečník*.
-
-!!! note "A co nějaké schopnosti?"
-    Hráči zvyklí na systémy, které umožní "stavět postavu k obrazu svému" výběrem všelijakých schopností. Mohou považovat výše popsaný postup na vyšší úroveň za poněkud nedostatečný. Je dobré myslet na to, že hlavními způsoby růstu postav v této hře jsou získané předměty a přirozený růst na základě interakcí se světem (popsán [zde](/Zakladni_pravidla/#rust-na-zaklade-hernich-interakci)). V kombinaci s úrovněmi a milníky popsanými, by měl být postavám poskytnut dostatečný prostor se rozvíjet.
-
-!!! note "Někdy je ale hold se třeba připomenout"
-    Obzvlášť ve větších skupinách se ale může stát, že strážce prostě zapomene vaší postavě poskytnout nějaký rozvoj a nebo se vaše opakované pokusy o rozvoj setkají jen s mávnutím ruky (Například když 3 sezení po nepřátelích házíte sekery se záměrem stát se dobrým vrhačem seker, ale strážce na to nereaguje). Pokud se něco takového stane, je dobré se ozvat. Ať už s tím, že jste svými akcemi zamýšleli nějaký růst a nebo že vaše postava dlouho žádný růst neměla a že by bylo pomalu na čase.
-
 ## Nákaza chaosu
 
-Chaos je všudypřítomnou energií podobný magické radiaci. Jejímž působením se mohou postav uchopit různé démonické síly. Hráčské postavy akumulují body nákazy chaosu. Pokud na konci dne disponuje aspoň *20-ti body nákazy chaosu*. Podstoupí mutaci.
+Chaos je všudypřítomnou energií podobný magické radiaci. Jejímž působením se mohou postav uchopit různé démonické síly. Hráčské postavy akumulují body nákazy chaosu. Pokud na konci dne disponuje aspoň *12-ti body nákazy chaosu*. Podstoupí mutaci.
 
 ### Vystavení se chaosu
 
@@ -69,10 +39,10 @@ Mechanicky existují dva hlavní způsoby jak se zbavit nákazy chaosu. Těmi js
 
 ### Mutace
 
-Překoná-li postava hranici *20-ti bodů nákazy chaosu*. V noci podstoupí mutaci. Jakou mutaci hráč obdrží je čistě v režii strážce. Hráč pouze podstoupí *hod štěstí*. Díky kterému se určí zda bude jeho mutace spíš pozitivního či negativního charakteru (příklad v tabulce níže). Nezávisle na výsledku se s dotyčného stává mutant s nějakou viditelnou mutací, který je sám zdrojem *slabého působení chaosu* a jeho *body nákazy chaosu* klesnou na *5*.
+Překoná-li postava hranici *10-ti bodů nákazy chaosu*. V noci podstoupí mutaci. Jakou mutaci hráč obdrží je čistě v režii strážce. Hráč pouze podstoupí *hod štěstí*. Díky kterému se určí zda bude jeho mutace spíš pozitivního či negativního charakteru (příklad v tabulce níže). Nezávisle na výsledku se s dotyčného stává mutant s nějakou viditelnou mutací, který je sám zdrojem *slabého působení chaosu* a jeho *body nákazy chaosu* klesnou na *0*.
 
 |  1k6  | Typ mutace                                                   |
 | :---: | ------------------------------------------------------------ |
-| 1 - 2 | **Negativní mutace:** Permanentní ztráta dovedností či jiný negativní postih. |
+| 1 - 2 | **Negativní mutace:** Permanentní ztráta dovednosti či jiný negativní postih. |
 | 3 - 4 | **Neutrální mutace:** Mutace, která není nutně pozitivní ani negativní. Například: ruka se změní v chapadlo. |
-| 5 - 6 | **Pozitivní mutace:** Permanentní zisk dovedností či jiný pozitivní bonus. |
+| 5 - 6 | **Pozitivní mutace:** Permanentní zisk dovednosti či jiný pozitivní bonus. |

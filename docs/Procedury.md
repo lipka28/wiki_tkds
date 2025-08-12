@@ -13,11 +13,7 @@ Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významn
 
 ### Speciální události
 
-Průzkum neznámé oblasti může oproti normální herní smyčce spustit speciální události. Hod na speciální událost je hod *kostkou osudu* (k6) při následujících situacích:
-
-- Příchod do nové lokace
-- Zdržují se delší dobu v jedné lokaci (aspoň jeden z hráčů provede více jak 1 akci od posledního hodu na speciální události)
-- Postavy jsou výjimečně hlasité
+Průzkum neznámé oblasti může oproti normální herní smyčce spustit speciální události. Hod na speciální událost je hod *kostkou osudu* (k6) při příchodu do místnosti/lokace, zdržování se nebo způsobení hluku.
 
 Strážce může hod kostky osudu interpretovat jak si přeje, nebo si může pomoci následující tabulkou.
 
