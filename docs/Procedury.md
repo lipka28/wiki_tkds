@@ -2,10 +2,11 @@
 
 ## Průzkum významných lokací
 
-Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významné lokace se řídí, jako všechno ostatní ve hře, [základní herní smyčkou](/Zakladni_pravidla/#hlavni-herni-smycka). Během té se hráči mohou volně pohybovat po úseku zkoumané oblasti (většinou místnost nebo na dosah pochodně či se přesunout mezi místnostmi) a provádět průzkumné akce. 
+Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významné lokace se řídí, jako všechno ostatní ve hře, [základní herní smyčkou](/Zakladni_pravidla/#hlavni-herni-smycka).
 
-- **Opatrný pohyb:** Při průzkumu nebezpečných oblastí se předpokládá, že hráčské postavy postupují pomalu a opatrně. Jakékoliv nebezpečí či smrtelné nástrahy odhalí v čas. Čím větší nebezpečí tím více zřejmé by mělo být opatrně postupujícím postavám.
-- **Neopatrný pohyb:** Mohou nastat situace, kdy se postavy opatrně nepohybují, například při útěku před nepřáteli, či úniku z hroutící se jeskyně.
+- **Průzkumné směny:** Průzkumná směna je nespecifikovaný úsek času. Během kterého se každá hráčská postava může volně pohybovat po zkoumané oblasti (většinou místnost nebo na dosah pochodně, či se přesunout mezi místnostmi) a provést 1 průzkumnou akci (případně reagovat na následky své akce). 
+- **Průzkumná akce:** Akce trvající 1 průzkumnou směnu.
+- **Opatrný pohyb:** Při průzkumu nebezpečných oblastí se předpokládá, že hráčské postavy postupují pomalu a opatrně. Jakékoliv nebezpečí či smrtelné nástrahy odhalí v čas. Čím větší nebezpečí tím více zřejmé by mělo být opatrně postupujícím postavám. To však nemusí být pravda pokud třeba před něčím utíkají. 
 - **Světlo:** Pochodně a lucerny svítí přibližně do okolí 10 metrů a svítí tak dlouho dokud nejsou uhašeny prostředím nebo nositelem. *Pochodeň* může být znovu zapálena až 3x než je zničena a *lucerna* může být zapálena neomezeně pokud je k dispozici nějaký *lampový olej*.
 - **Prohledat (průzkumná akce):** Postava může důkladně prohledat objekt či malou oblast lokace a tím automaticky odhalit cokoliv skrytého v dané oblasti. Věci jako pasti, tajné přihrádky, skryté dveře a podobně.
 - **Odpočinek (průzkumná akce):** Pokud má postava chvilku bezpečí, může si krátce odpočinout a tím doplnit všechny své *Body obrany (BO)*.
@@ -13,7 +14,7 @@ Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významn
 
 ### Speciální události
 
-Průzkum neznámé oblasti může oproti normální herní smyčce spustit speciální události. Hod na speciální událost je hod *kostkou osudu* (k6) při příchodu do místnosti/lokace, zdržování se nebo způsobení hluku.
+Průzkum neznámé oblasti může oproti normální herní smyčce spustit speciální události. Hod na speciální událost je hod *kostkou osudu* (k6), který se stane na konci každé průzkumné směny nebo když postavy udělají mimořádný hluk.
 
 Strážce může hod kostky osudu interpretovat jak si přeje, nebo si může pomoci následující tabulkou.
 

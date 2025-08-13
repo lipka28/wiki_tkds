@@ -2,19 +2,19 @@
 
 **Svoboda volby**
 
-- Atributy a s nimi spojené záchranné hody nedefinují tvou postavu. Jsou to jen nástroje k vyhodnocování nebezpečných situací. A někdy je lepší se do takových situací ani nedostat.
+- Atributy a s nimi spojené záchranné hody nedefinují tvou postavu. Jsou to jen nástroje k vyhodnocování nebezpečných situací. A někdy je lepší se do takových situací prostě nedostat.
 - Nezamýšlej se jen nad tím co by udělala tvá postava, ale také co bys v dané situaci udělal ty.
 - Buď kreativní, využívej intuici, předměty a vztahy s nehráčskými postavami.
 
 **Týmová práce**
 
 - Než se bezhlavě pustíš vpřed, prodiskutuj svou strategii s ostatními hráči.
-- Zůstaňte na stejné vlně ohledně cílů a limitů, respektujte se navzájem a dosáhněte jako skupina více, než byste dokázali sami.
+- Zůstaňte na stejné vlně ohledně cílů a hranic, respektujte se navzájem a dosáhněte jako skupina více, než byste dokázali sami.
 
 **Průzkum**
 
-- Pokládání otázek a vnímání detailů je užitečnější než jakékoli statistiky, předměty či dovednosti.
-- Berte popisky Strážce jako danou skutečnost, ale neváhej si vyžádat více informací.
+- Pokládání otázek a vnímání detailů je užitečnější než jakékoli statistiky, předměty či dovednosti. Když ti není něco jasné. Ptej se!
+- Ber popisky Strážce jako danou skutečnost, ale neváhej si vyžádat více informací.
 - Neexistuje jediná správná cesta vpřed.
 
 **Rozhovory s nehráčskými postavami**
@@ -25,7 +25,7 @@
 **Opatrnost**
 
 - Boj je volba – a málokdy ta rozumná. Zvaž, jestli je násilí opravdu nejlepší způsob, jak dosáhnout svého cíle.
-- Snaž se využít každé šance jak otočit boj ve svůj prospěch a neboj se dát na útěk, když se situace nevyvíjí dobře.
+- Ale když už na boj dojde. Snaž se využít každé šance jak otočit boj ve svůj prospěch a neváhej se dát na útěk, když se situace nevyvíjí dobře.
 
 **Plánování**
 
@@ -35,5 +35,5 @@
 **Ambice**
 
 - Stanov si cíle a i se skromnými prostředky postupuj vpřed.
-- Neočekávej nic a zasluž si své vítězství.
-- Udržuj hru v pohybu. Hraní je jediným způsobem jak se dozvědět, co se stane dál.
+- Neočekávej nic a zasluž si svá vítězství.
+- Udržuj hru v pohybu. Hraní je jediným způsobem jak se dozvědět, co bude dál.

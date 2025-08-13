@@ -19,7 +19,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Modlitby a žádosti o pomoc:** Jakékoliv stvoření, se může pomodlit ke svému bohu a doufat v zázrak. V některých vzácných případech mu bude i vyhověno. U akolyty žádající o zázrak (ve sféře vlivu svého patrona), podpořený patřičnou obětí, je pravděpodobnost vyhovění však podstatně vyšší (Dle uvážení strážce může vyhodnocení začínat jako hod štěstí a dále se rozvíjet dle vztahu mezi akolytou a patronem).
 
-**Extra výbava:** Cestovní hůl (1k6), Kniha modliteb, Symbol patrona (*zanedbatelný*), Kněžská róba (pokud oblečená tak *zanedbatelná*).
+**Extra výbava:** Cestovní hůl (1k6), Kniha modliteb, Symbol patrona (*zanedbatelný*), Kněžská róba (pokud oblečená tak *zanedbatelná*). Kadidlo (3 použití)
 
 !!! note "Projevy zázraků"
     Zázraky nejsou tak spontánní, výbušné a ani tak předvídatelné jako použití magie. V porovnání s magií jsou však bezpečnější. Zázraky jsou převážně nenápadné. Jako: rychleji se hojící zranění, tvá zbraň najednou ubližuje určitým typům nepřátel více nebo třeba tvé cestě lodí přeje vítr.
@@ -71,7 +71,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
 
-**Extra výbava:** Dlouhý meč (1k8), Jezdecké kopí (1k12, *neskladné*, použitelné jen na zvířeti), Štít (+1 brnění), Těžká zbroj (2 brnění, *neskladná*, stěžuje některé aktivity)
+**Extra výbava:** Krátký meč (1k6), Jezdecké kopí (1k10, *neskladné*, na zvířeti je jednoruční a s rozjezdem je útok posílen o +1k10), Štít (+1 brnění), Plná zbroj (2 brnění, *neskladná*, stěžuje některé aktivity), Přilba
 
 **Formující volba:** Jakého sis oblíbil koně?
 
@@ -87,9 +87,9 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Student magie:** Jako student magie máš [rozvinutý čarodějnický zrak](/Zasazení-Oldworld/Magie/#carodejnicky-zrak) a umíš si do své mysli ukládat kouzla (permanentně snižuje VUL o 1). Takto uložená kouzla nevyžadují čtení z magického grimoáru pro seslání, a také můžeš na základě těchto kouzel vytvářet svitky nebo další psané kopie bez ztráty původního kouzla. Kouzla však již nelze z paměti "odmazat" nebo "přepsat". Pokud si přeješ, kouzlo získané z formující volby můžeš již mít takto uloženo.
 
-**Extra výbava:**  Dřevěná tyč (1k6), Psací potřeby a pergamen, 6 Svíček (*zanedbatelné*), Magický grimoár (kouzlo dle formující volby)
+**Extra výbava:**  Dřevěná tyč (1k6), Psací potřeby a pergamen, Svíčky (6 použití), Magický grimoár (kouzlo dle formující volby)
 
-**Formující volba:** Na jaký magický vítr jsi se při studiích specializoval?
+**Formující volba:** Na jakou magii jsi se při studiích specializoval?
 
 - **Aqshy (Oheň, červená):** V tvém grimoáru je zapsané kouzlo *Ohnivá stěna* - Vytvoří rovnou stěnu z ohně dlouhou až 10 metrů a vysokou až 3 metry.
 - **Azyr (Nebesa, modrá):** V tvém grimoáru je zapsané kouzlo *Kontrola počasí* - Můžeš změnit jaký typ počasí zrovna je, nemáš však nad ním hlubší kontrolu. 
@@ -112,7 +112,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Formující volba:** Kde bylo tvé poslední lékařské působení?
 
-- **Vojenský doktor:** Neustále vystavení potencionálním nepřátelům, tě naučilo být připraven na všechno. Ke své výbavě získáváš navíc kuši (1k8, *neskladná*) a munici do kuše (10 použití).
+- **Vojenský doktor:** Neustále vystavení potencionálním nepřátelům, tě naučilo být připraven na všechno. Ke své výbavě získáváš navíc kuši (1k8, *neskladná*, pomalá).
 - **Městský doktor:** Jako poskytovateli velmi užitečné služby si bohatství města našlo cestu i do tvé pokladnice. Získáváš navíc 3k6 šilinků.
 - **Vesnický felčar:** Na vesnici často lidé platí vším co zrovna mají a někdy je všechno co mají jen dobré slovo. Získáváš slepci (1 BO, 2 Všechny statistiky, nebojuje) a jsi naprosto uctívaný ve své vesnici (tvá volba, která vesnice to je)
 
@@ -124,11 +124,11 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
 
-**Extra výbava:** Prak (1k6, neomezená munice), Sekyrka (1k6), Brigandina (1 brnění, pokud neoblečena tak *neskladná*), Pochodeň (3 použití), Dalekohled
+**Extra výbava:** Prak (1k4), Sekyrka (1k6), Brigandina (1 brnění, pokud neoblečena tak *neskladná*), Pochodeň (3 použití), Dalekohled
 
 **Formující volba:** Jaký nástroj ti již nesčetněkrát zachránil život?
 
-- **Bič z Krvemějky:** 1k8 poškození. Při způsobení *kritického poškození* se napije soupeřovi krve. Další útok tím získává vlastnost *plošné*.
+- **Bič z Krvemějky:** (1k8, větší) Při způsobení *kritického poškození* se napije soupeřovi krve. Další útok tím získává vlastnost *plošné*.
 - **Rachotidlo:** Krabička s kličkou. Její otáčení působí ohromný rámus, který vyděsí většinu neinteligentních stvoření.
 - **Kotvící kámen:** Kámen, který při dopadu na zem magicky sváže nejbližší stvoření (které není větší jak vlk).
 - **Sluneční tyč:** Tyč, která při aktivaci poskytuje spoustu slunečního světla a tepla podobu až 1 hodiny. (1 použití, *Dobíjení:* Nechej na silném slunečním světle celý den).
@@ -158,12 +158,12 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Inženýrský přístup:** Tvá brašna nářadí funguje jako dostatečná substituce za jiné mechanické nástroje (u kterých to dává smysl) jako jsou čistící sada na křesadlové zbraně či zlodějské náčiní. Navíc pokud máš dostatek času, můžeš rozebrat mechanická zařízení na šrot (*neskladný*), který lze následně použít pro své vynálezy.
 
-**Extra výbava:** Kladívko (1k6), Kniha na vynálezy, Tužka (*zanedbatelná*), Brašna nářadí, Lucerna, Lampový olej (6 použití), Ochranné brýle (zanedbatelné)
+**Extra výbava:** Kladívko (1k6), Kniha na vynálezy, Tužka (*zanedbatelná*), Brašna nářadí, Lucerna, Lampový olej (6 použití), Ochranné brýle (*zanedbatelné*)
 
 **Formující volba:** Jaký je tvůj dosavadní nejlepší výtvor?
 
-- **Prototyp pepřenky:** Získáváš do své počáteční výbavy (a své knihy vynálezů) unikátní prototyp poloautomatické příruční pistole, střílející malé kovové kuličky (1k6+1k6 nebo 1k6 *plošně*, náchylné na vodu a oheň, hlučná). Pokud při použití zbraně padne dvakrát po sobě 1 zbraň se zasekne. Získáváš i munici do pepřenky (10 použití, náchylné na vodu a oheň)
-- **Mechanická paže:** Získáváš do své počáteční výbavy (a své knihy vynálezů) plně mechanickou paži, co se dá v rameni oddělit od těla. Lze použít jako zbraň (1k8, *zanedbatelná*, *neskladná* pokud oddělena od těla). Hodinový mechanizmus v paži musí být každý den natažen za pomocí klíčku (*zanedbatelný*), nebo ruka přestane fungovat. Pokud si přeješ, můžeš si na začátku hry zvolit mít tuto paži na místo jedné své vlastní.
+- **Prototyp pepřenky:** Získáváš do své počáteční výbavy (a své knihy vynálezů) unikátní prototyp poloautomatické příruční pistole, střílející malé kovové kuličky (1k6+1k6 nebo 1k6 *plošně*, křesadlová a zasekává se jen při hodu 1, nepřesná). 
+- **Mechanická paže:** Získáváš do své počáteční výbavy (a své knihy vynálezů) plně mechanickou paži, co se dá v rameni oddělit od těla. Lze použít jako zbraň (1k8, *zanedbatelná*, pokud oddělena od těla tak *neskladná*). Hodinový mechanizmus v paži musí být každý den natažen za pomocí klíčku (*zanedbatelný*), nebo ruka přestane fungovat. Pokud si přeješ, můžeš si na začátku hry zvolit mít tuto paži na místo jedné své vlastní.
 - **Paralyzující obušek:** Získáváš do své počáteční výbavy (a své knihy vynálezů) obušek, který při kontaktu okamžitě omráčí stvoření o maximální velikost člověka. Lze použít i jako zbraň (1k6, při kritickém poškození je cíl omráčen). Mechanizmus v obušku musí být po každém použití několik minut natahován, než se dá znovu použít.
 - **Háková pistole:** Získáváš do své počáteční výbavy (a své knihy vynálezů) bambitku, která umí vystřelit hák s připevněným 10-ti metrovým lankem na vzdálenost až 10 metrů. 
 
@@ -182,13 +182,13 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Nenávist k trpaslíkům:** Tvůj druh nenávidí trpaslíky. Ale neboj, je to vzájemné.
 
-**Extra výbava:** Dva zahnuté elfí meče (1k6+1k6, neskladné), Elfí luk (1k8, neskladný), Munice do luku (10 použití), Elfí zbroj (1 brnění, pokud neoblečena tak *neskladná*), Plášť s kapucí (zanedbatelný).
+**Extra výbava:** Dva zahnuté elfí meče (1k6+1k6, *neskladné*), Elfí luk (1k8, *neskladný*), Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*), Plášť s kapucí (*zanedbatelný*).
 
 **Formující volba:** Co sis odnesl z elfích lesů?
 
 - **Spřátelená veverka:** Poměrně inteligentní a tobě naprosto oddaná veverka (1 BO, 2 SIL, 12 HBI, 8 VUL, nebojuje). Můžeš ji nosit v inventáři. 
 - **Popel znovuzrození:** (3 použití) Umrlý plamen posypán tímto popelem procitne v nový život. Stejně jako  stvoření mrtvé jen pár chvil se znovu navrátí ze světa mrtvých.
-- **Pírko zastření:** (1 použití, *zanedbatelné*) Umožní jakémukoliv stvoření se vydávat za někoho (nebo něco) jiného.
+- **Pírko zastření:** (1 použití) Umožní jakémukoliv stvoření se vydávat za někoho (nebo něco) jiného.
 - **Smůla z kamenného stromu:** (3 použití) Mazlavá substance, která ztvrdne po rozmazání na libovolný povrch (+1 brnění).
 
 <img src="/assets/sep_line.png"/>
@@ -199,7 +199,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
 
-**Extra výbava:** Krátký meč (1k6), Bambitka (1k10 poškození, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo), Munice do bambitky (10 použití, náchylné na vodu a oheň), Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*), Síť, Provaz, Klobouk (zanedbatelný).
+**Extra výbava:** Krátký meč (1k6), Bambitka (1k10, křesadlové, nepřesné, dlouho nabíjecí),  Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*), Síť, Provaz, Klobouk (*zanedbatelný*).
 
 **Formující volba:** Jaký nástroj ti vždy při lovu zaručeně pomůže?
 
@@ -222,7 +222,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 - **Bižuterie:** Vozíš sebou hromadu cetek (*neskladné*) o celkové hodnotě 3k6 šilinků. Máš však také drahokam jenž si ceníš na 50 šilinků.
 - **Veteš:** Obchoduješ s veteší. Vyber si předmět z výbavy dobrodruha v celkové hodnotě do 40 šilinků.
-- **Zbraně:** Obchoduješ se zbraněmi. Vyber si předměty ze zbraní, zbrojí a munice v celkové hodnotě do 40 šilinků.
+- **Zbraně:** Obchoduješ se zbraněmi. Vyber si předměty ze zbraní a zbrojí v celkové hodnotě do 40 šilinků.
 - **Podivnosti:** Obchoduješ s podivnostmi. Nedávno si od někoho koupil spoutaného krysáka (4 BO, 8 SIL, 12 HBI, 8 VUL) chyceného poblíž Marienburgu. Toho teď vozíš ve svém vagónu.
 
 <img src="/assets/sep_line.png"/>
@@ -233,7 +233,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Zvučné jméno:** Jsi příslušníkem nejvýznamnějšího rodu v okolí. Váha tvého rodového jména ti otevírá spoustu zavřených dveří.
 
-**Extra výbava:** extra 3k6 šilinků, křesadlová pistole (1k10 poškození, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo), Munice do křesadlové pistole (10 použití, náchylné na vodu a oheň) Společenské oblečení (*zanedbatelné* pokud oblečené, nahrazuje běžné oblečení ze základní výbavy), Pečetící prsten (zanedbatelný), Sluha (2 BO)
+**Extra výbava:** extra 3k6 šilinků, křesadlová pistole (1k10, křesadlová, lehká, nepřesná, dlouho nabíjecí), Společenské oblečení (*zanedbatelné* pokud oblečené, nahrazuje běžné oblečení ze základní výbavy), Pečetící prsten (*zanedbatelný*), Sluha (2 BO)
 
 **Formující volba:** Co způsobilo tvé rodinné neshody?
 
@@ -250,7 +250,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Lingvista:** Ovládáš magick a další 3 jazyky dle vlastního výběru (lze vybrat až při setkání s jazykem) navíc kdykoliv se setkáš s textem, kterému nerozumíš. Jsi schopen vydedukovat aspoň jeho záměr (např. varování, modlitba, instrukce atd..).
 
-**Extra výbava:** Šídlo (1k6), Rozepsaná kniha, Kniha (dle formující volby), Psací potřeby a pergamen, Svíčky (6), Říšský certifikát písaře (*zanedbatelný*), Svitek magického oka (*zanedbatelný*, Můžeš vidět skrz magické vznášející se oko, které se vznáší a pohybuje na tvůj příkaz.)
+**Extra výbava:** Šídlo (1k6), Rozepsaná kniha, Kniha (dle formující volby), Psací potřeby a pergamen, Svíčky (6 použití), Říšský certifikát písaře (*zanedbatelný*), Svitek magického oka (*zanedbatelný*, Můžeš vidět skrz magické vznášející se oko, které se vznáší a pohybuje na tvůj příkaz.)
 
 **Formující volba:** Jaký spis sis přivlastnil, jelikož by se neměl dostat do rukou veřejnosti?
 
@@ -276,7 +276,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - **Kamenná flétna:** Dokáže uklidnit téměř každou hladinu vody.
 - **Píšťalka smrtidechu** (1 použití, *Dobíjení:* Zachyť do ní poslední dech umírajícího válečníka. Tento akt vystaví uživatele *významnému působení chaosu*). Píšťalka vydá děsivý jekot,  který vyděsí všechny kdo jej slyší (zachraň VUL nebo uteč).
 - **Všeklíč:** (1 použití, *Dobíjení:* Na noc zabal s 100 šilinky) Klíč, který funguje na každý běžný zámek.
-- **Převíjecí káča:** (1 použití, *zanedbatelná*) Když roztočena, vrátí čas o 30 vteřin. Všichni si pamatují co se stalo.
+- **Převíjecí káča:** (1 použití) Když roztočena, vrátí čas o 30 vteřin. Všichni si pamatují co se stalo.
 
 <img src="/assets/sep_line.png"/>
 
@@ -295,7 +295,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - **Byl si zlodějem:** To že se říká, že všichni pulčíci jsou zloději, tě nesmírně uráží. Ne jen že je to rasistické, ale také neznáš pulčíka co by si poradil ze zámkem nebo nestřeženou kapsou brambory lépe než ty. Získáváš zlodějské náčiní.
 - **Byl si kuchařem:** Pro tvé kulinářské počiny by se ne jeden pulčík či člověk utloukl. Získáváš hrnce na přípravu jídla (*neskladné*). Navíc pokud máš k dispozici čerstvé suroviny, tak jako součást *hlídkové akce založit tábor*, připravíš výjimečné jídlo, které všem doplní 1 libovolný dovednostní bod.
 - **Byl si bavičem:** Tvé kousky a vystoupení přinesla ne jeden úsměv na tvář. Jsi talentovaný muzikant a získáváš hudební nástroj vlastního výběru (může být *neskladný*).
-- **Byl si hraničářem:** Strážil si cesty v Mootlandu. Získáváš prak (1k6, neomezená munice) a osedlaného mootlandského jízdního psa (3 BO,  8 SIL 16 HBI 6 VUL, 1k6, +1 Slot).
+- **Byl si hraničářem:** Strážil si cesty v Mootlandu. Získáváš prak (1k4 ale v tvých rukách 1k6) a osedlaného mootlandského jízdního psa (3 BO,  8 SIL 16 HBI 6 VUL, 1k6, +1 Slot).
 
 <img src="/assets/sep_line.png"/>
 
@@ -305,12 +305,12 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Vlastní výroba:** Může strávit volný čas výrobou a tím získat slevu na určité výrobky. Jak velká je tato sleva a na jaké výrobky ji lze aplikovat. Záleží na volbě níže (Lze aplikovat při tvorbě postavy).
 
-**Extra výbava:** 3k6 šilinků, Řemeslnické náčiní (*neskladné*, specifické pro tvé řemeslo). Kárka (+4 sloty, *neskladná* třeba táhnout v rukách), Ochranné rukavice (*zanedbatelné*)
+**Extra výbava:** 3k6 šilinků, Řemeslnické náčiní (*neskladné*, specifické pro tvé řemeslo). Kárka (+4 sloty, *neskladná* třeba táhnout v rukách), Ochranné rukavice (*zanedbatelné* pokud oblečené)
 
 **Formující volba:** Tvé řemeslo?
 
 - **Kameník:** Jsi odborník na opracovávání kamene. Někteří by tě dokonce nazvali umělcem. Tvá *Řemeslná výroba* poskytuje *slevu 10%* na jakoukoliv výstavbu z kamene (domy, hrady opevnění). Navíc získáváš *Kamenické kladívko* (1k6) a kovové hřeby (6 použití).
-- **Kovář:** Jsi odborník na opracovávání kovů. Tvá *řemeslná výroba* poskytuje *slevu 25%* na kovové předměty (meče, nože, štíty a podobně). Navíc získáváš *Kovářské kladivo* (1k10, *nesklané*) a *Roli plechu*.
+- **Kovář:** Jsi odborník na opracovávání kovů. Tvá *řemeslná výroba* poskytuje *slevu 25%* na kovové předměty (meče, nože, štíty a podobně). Navíc získáváš *Kovářské kladivo* (1k8, větší) a *Roli plechu*.
 - **Švec:** Jsi odborní na sešívání látek a kůží do všelijakých tvarů. Tvá *řemeslná výroba* poskytuje *slevu 25%* na kožené či látkové předměty (oblečení, lehké zbroje, stany atd.). Navíc získáváš Koženářskou jehlu (1k6) a Jutový motouz (10 metrů).
 - **Tesař:** Jsi odborníkem na práci se dřevem. Tvá *Řemeslná výroba* poskytuje *slevu 10%* na jakoukoliv výstavbu ze dřeva (domy, lodě, vozy). Navíc získáváš *Tesařskou pilku* (1k6) a *Tesařské lepidlo* (3 použití), které přidělá dřevo snad ke všemu.
 
@@ -328,7 +328,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 - **Krysař:** Pohrdavost ostatních ti už lezla krkem a tak si se dal na prospěšnou činnost. Získáváš klícku na tyči (*neskladná*) a psa vycvičeného v lovení a stopování krys (4 BO,  6 SIL 12 HBI 6 VUL, 1k6 (1k6+1k6 proti krysám)). Pokud o něj přijdeš, zvládneš si během týden vycvičit nového jako *volno-časovou aktivitu*.
 - **Prostituce:** Prodáváš své tělo slabomyslným jedincům za peníze, dary a protislužby. Máš jednoho "známého" v každém větším městě.
-- **Vraždy:** Odstraňování nepohodlných pro majetné patrony, je něco v čem ses našel. Ke své výbavě navíc získáváš extra nůž (1k6), kuši (1k8, *neskladná*) a munici do kuše (10 použití).
+- **Vraždy:** Odstraňování nepohodlných pro majetné patrony, je něco v čem ses našel. Ke své výbavě navíc získáváš extra nůž (1k6) a kuši (1k8, *neskladná*, pomalá).
 - **Zlodějna:** Specializuješ se na získávání hodnotných předmětů. Získáváš provaz (5 metrů) a prsten kočky (Umožňuje bezproblémové šplhání a bezpečný pád z libovolné výšky). Každé jeho použití tě vystaví *významnému působení chaosu*.
 
 <img src="/assets/sep_line.png"/>
@@ -348,9 +348,9 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 **Formující volba:** Jaká byla tvá role ve tvé domovině?
 
 - **Inženýr:** Získáváš navíc původ [Inženýr](/Zasazení-Oldworld/Puvody/#inzenyr) včetně relevantních předmětů a schopností. Tvé výtvory jsou ale trochu více doceňované.
-- **Rolník:** Tvá dlouhá léta ve štolách ti dali schopnost lépe vidět ve tmě. Pokud se nenacházíš v absolutní tmě vidíš 10 metrů kolem sebe, případně o 10 metrů dále než běžně umožňuje tvůj zdroj světla. Navíc získáváš krumpáč (1k8, *neskladný*, ignoruje 1 brnění), lucernu, Lampový olej (6 použití), provaz a Ochranné rukavice (*zanedbatelné*)
+- **Rolník:** Tvá dlouhá léta ve štolách ti dali schopnost lépe vidět ve tmě. Pokud se nenacházíš v absolutní tmě vidíš 10 metrů kolem sebe, případně o 10 metrů dále než běžně umožňuje tvůj zdroj světla. Navíc získáváš krumpáč (1k8, větší), lucernu, Lampový olej (6 použití), provaz a Ochranné rukavice (*zanedbatelné*)
 - **Řemeslník:** Získáváš navíc původ [Řemeslník](/Zasazení-Oldworld/Puvody/#remeslnik) včetně relevantních předmětů a schopností. Tvé výtvory jsou ale trochu více doceňované.
-- **Zabíječ:** Životní selhání tě dohnalo až k zabíječské přísaze a touha po velkolepé smrti v boji. Používáš jen sekery a vzdal si se jakékoliv zbroje. Získáváš obouruční sekeru (1k10, *neskladná*), Zvířecí luj (3 použití, na udržování tvého rezavého pankáče). Obdržíš-li v boji kritický zásah a uspěješ v záchranném hodu na vyvarování se kritickému poškození. Tvůj další útok je buď posílen o +1k12 a nebo *plošný*.
+- **Zabíječ:** Životní selhání tě dohnalo až k zabíječské přísaze a touha po velkolepé smrti v boji. Používáš jen sekery a vzdal si se jakékoliv zbroje. Získáváš zabíječskou sekeru (1k12, *neskladná*, neohrabaná, pomalá), Zvířecí luj (3 použití, na udržování tvého rezavého pankáče). Utržíš-li v boji zranění a uspěješ v záchranném hodu na vyvarování se kritickému poškození. Můžeš ve svém dalším tahu ignorovat vlastnost "pomalá" u tvé sekery a tvůj útok je buď posílen o +1k12 nebo *plošný*.
 
 !!! note "Zabíječská přísaha"
 	Jsem trpaslík! Moje čest je mým životem a bez ní nejsem ničím. Stanu se Zabíječem a budu hledat vykoupení v očích svých předků. Stanu se smrtí pro všechny své nepřátele, dokud sám nepojdu tváří v tvář tomu, kdo ukončí můj život a mou hanbu.
@@ -363,15 +363,15 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale tvá SIL s HBI je nižší o 2 jako následek zranění.
 
-**Extra výbava:** Záložní krátký meč (1k6), Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*)
+**Extra výbava:** Záložní krátký meč (1k6), Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*), tetování vyznačující příslušnost k jednotce (*zanedbatlené*)
 
 **Formující volba:** V jaké vojenské jednotce si sloužil?
 
-- **Šermíři:** Tvou další výbavou je Štít (+1 Brnění) a Dlouhý meč (1k8).
-- **Mušketýři:** Tvou další výbavou je Mušketa (1k12 poškození, *neskladná*, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo), Munice do muškety (10 použití, náchylné na vodu a oheň) a Čistící sada na křesadlové zbraně.
-- **Velké meče:** Tvou další výbavou je Obouruční meč (1k10, *neskladný*)
-- **Halapartníci:** Tvou další výbavou je Halapartna (1k10, *neskladná*, dlouhá)
-- **Lukostřelci:** Tvou další výbavou je Luk (1k8, neskladný) a Munice do luku (10 použití)
+- **Šermíři:** Tvou další výbavou je Štít (+1 Brnění) a Dlouhý meč (1k8, větší).
+- **Mušketýři:** Tvou další výbavou je Mušketa (1k12, *neskladná*, pomalá, křesadlová, dlouho nabíjecí) a Čistící sada na křesadlové zbraně.
+- **Velké meče:** Tvou další výbavou je Obouruční meč (1k12, *neskladný*, neohrabaný, pomalý)
+- **Halapartníci:** Tvou další výbavou je Halapartna (1k10, *neskladná*, neohrabaná)
+- **Lukostřelci:** Tvou další výbavou je Válečný luk (1k8, *neskladný*, pomalý).
 
 <img src="/assets/sep_line.png"/>
 
@@ -388,13 +388,13 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Nenávist k trpaslíkům:** Tvůj druh nenávidí trpaslíky. Ale neboj, je to vzájemné.
 
-**Extra výbava:** Dlouhý elfí meč (1k8), Elfí zbroj (1 brnění, pokud neoblečena tak *neskladná*), Plášť s kapucí (zanedbatelný).
+**Extra výbava:** Dlouhý elfí meč (1k8, větší), Elfí zbroj (1 brnění, pokud neoblečena tak *neskladná*), Plášť s kapucí (*zanedbatelný*).
 
 **Formující volba:** Co je tvým nepostradatelným společníkem na cestách?
 
 - **Tvá síla:** Do své výbavy navíc získáváš Štít (+1 Brnění) nebo Elfí zahnutý meč (1k6).
-- **Tvá preciznost:** Do své výbavy navíc zíksáváš Elfí luk (1k8, neskladný) a Munice do luku (10 použití)
+- **Tvá preciznost:** Do své výbavy navíc zíksáváš Elfí luk (1k8, *neskladný*).
 - **Tvá mysl:** Umíš ukládat kouzla do paměti stejně jako [Čarodějný učeň](/Zasazení-Oldworld/Puvody/#carodejny-ucen). Vyber si jedno kouzlo z tohoto původu, které máš uložené ve své hlavě.
-- **Tvá připravenost:** Získáváš do své výbavy Elfí lucernu. Funguje jako obyčejná lucerna, její svit však nespotřebovává olej. Její "zapálení" stojí 1 VUL. Pouze lefové vědí jak ji používat. 
+- **Tvá připravenost:** Získáváš do své výbavy Elfí lucernu. Funguje jako obyčejná lucerna, její svit však nespotřebovává olej. Její "zapálení" stojí 1 VUL. Pouze elfové vědí jak ji používat. 
 
 <img src="/assets/sep_line.png"/>

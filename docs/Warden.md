@@ -4,7 +4,7 @@ Pokud se chcete dozvědět něco více o roli strážce a jak vést tuhle hru. �
 
 Rady na konverze monster z jiných systémů: [https://www.bastionland.com/2020/03/bastionland-non-conversion-guide.html](https://www.bastionland.com/2020/03/bastionland-non-conversion-guide.html)
 
-Další čtení ohledně obtížnosti a výhody a nevýhody na hody: [https://www.bastionland.com/2020/03/difficulty-in-bastionland.html](https://www.bastionland.com/2020/03/difficulty-in-bastionland.html)
+Další čtení ohledně obtížnosti a nepoužívání výhody a nevýhody na hody: [https://www.bastionland.com/2020/03/difficulty-in-bastionland.html](https://www.bastionland.com/2020/03/difficulty-in-bastionland.html)
 
 Další čtení ohledně bonusů k poškození:
 [https://www.bastionland.com/2022/06/bonuses.html](https://www.bastionland.com/2022/06/bonuses.html)

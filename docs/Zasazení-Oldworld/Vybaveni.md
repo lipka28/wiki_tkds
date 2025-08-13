@@ -18,29 +18,46 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 
 | Zbroj                                                        |  Cena |
 | ------------------------------------------------------------ | ----: |
+| Přilba (speciální)                                           | 10 ši |
 | Štít (+1 brnění)                                             | 15 ši |
 | Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*)     | 25 ši |
 | Plná zbroj (2 brnění, *neskladná*, stěžuje některé aktivity) | 50 ši |
 
+**Přilba:** Chrání před traumaty hlavy. Může být zničena pro jednorázové snížení příchozího poškození o *1k4* nebo pro předejití či částečné předejití některých jizev (např. kompletní ochrana proti jizvě "Nikdy jako dřív" nebo částečná ochrana proti "Odhozen").
+
 ## Zbraně
 
-| Zbraně                                                       |  Cena |
-| ------------------------------------------------------------ | ----: |
-| Neozbrojený útok (1k4 poškození)                             |     - |
-| Jednoduchá nebo improvizovaná zbraň na blízku jako je: nůž, srp, krátký meč ale i hůl (1k6 poškození, může být *neskladná*) |  5 ši |
-| Jednoruční zbraň na blízku jako je: kopí, meč, palcát a podobně (1k8 poškození) | 10 ši |
-| Obouruční zbraň na blízku jako je: Halapartna, válečné kladivo či obouruční meč (1k10 poškození, *neskladná*) | 20 ši |
-| Jednoruční či improvizovaná zbraň na dálku jako je: příruční kuše, prak či hozený nůž (1k6 poškození) |  5 ši |
-| Běžná střelná zbraň jako luk či kuše (1k8 poškození, *neskladná*) | 25 ši |
-| Jednoruční křesadlová zbraň jako je bambitka (1k10 poškození, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo) | 50 ši |
-| Obouruční křesadlová zbraň jako je mušketa (1k12 poškození, *neskladná*, náchylné na vodu a oheň, hlučná přebíjí se 1 kolo) | 75 ši |
+Zbraně nejsou jen kostka poškození. Je dobré myslet i na to jaké může mít daná zbraň výhody či nevýhody. Například kopí a válečná sekera by obě měli kostku poškození 1k8. Mohou mít však rozličné využití. Kopím se dá pravděpodobně útočit i z poza spojenců zatímco sekery může být velmi užitečná pro sekání dřeva.
 
-## Munice
+**Klíčová slova pro vlastnosti zbraní:**
 
-| Typ munice                                                   |  Cena |
-| ------------------------------------------------------------ | ----: |
-| Munice do zbraně (10 použití)                                |  5 ši |
-| Munice do zbraně křesadlového typu (10 použití, náchylné na vodu a oheň) | 10 ši |
+- **Dlouho nabíjecí:** Po každém použití je zbraň třeba přebít. To trvá 2 celá kola. Po prvním kole přebíjení se lze pokusit o z*áchranu HB*I a tím přebíjení zkrátit o 1 kolo.
+- **Křesadlové:** Zbraň je velmi hlučná. Zbraň a její munice je náchylná na žár a vlhkost. Pokud při útoku zbraní padne na kostce poškození 1 nebo 2. Zbraň se zasekne a potřebuje pročistit.
+- **Neohrabané:** Ve stísněných prostorách je útok zbraní *oslabený*.
+- **Nepřesné:** Zbraň uděluje psané poškození jen na blízké vzdálenosti. Pro ostatní vzdálenosti je útok *oslabený*.
+- **Pomalé:** Nelze se pohnout a zaútočit touhle zbraní v jednom tahu.
+- **Větší:** V jednu chvíli lze mít v rukách jen jednu větší jednoruční zbraň. Lze ji však kombinovat se štíty či jinými jednoručními zbraněmi.
+
+### Zbraně na blízku
+
+| Kategorie - příklady                                         | Poškození |  Cena |
+| ------------------------------------------------------------ | :-------: | ----: |
+| **Neozbrojený útok** - Kopanec, útok pěstí atd.              |    1k4    |     - |
+| **Improvizované** (*neskladné*) - Židle, lopata, vidle atd.  |    1k6    | různá |
+| **Jednoruční zbraně** - Nůž, krátký meč sekyrka, hůl atd.    |    1k6    |  5 ši |
+| **Jednoruční zbraně** (větší) - Dlouhý meč, palcát, válečná sekera, kopí atd. |    1k8    | 15 ši |
+| **Obouruční dlouhé zbraně** (*neskladné*, neohrabané) - Halapartny, píky atd. |   1k10    | 20 ši |
+| **Obouruční masivní zbraně** (*neskladné*, neohrabané, pomalé) - Claymore, dvou-břitá sekera, kladivo. |   1k12    | 30 ši |
+
+### Zbraně na dálku
+
+| Kategorie - příklady                                         | Poškození |  Cena |
+| ------------------------------------------------------------ | :-------: | ----: |
+| **Improvizované na dálku** (může být *neskladné*) - Hozený nůž, hozená židle, prak atd. |    1k4    |     - |
+| **Běžné zbraně na dálku** (*neskladné*) - Krátký nebo lovecký luk |    1k6    | 15 ši |
+| **Válečné zbraně na dálku** (*neskladné*, pomalé) - Dalekonosné a válečné luky, kuše atd. |    1k8    | 25 ši |
+| **Ruční křesadlové zbraně** (křesadlové, lehké, nepřesné, dlouho nabíjecí) - bambitka atd. |   1k10    | 35 ši |
+| **Velké křesadlové zbraně** (*neskladné*, pomalé, křesadlové, dlouho nabíjecí) - Mušketa atd. |   1k12    | 50 ši |
 
 ## Výbava dobrodruha
 
