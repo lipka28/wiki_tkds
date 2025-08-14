@@ -1,11 +1,5 @@
 # Původy
 
-<img src="/assets/sep_line.png"/>
-
-<img src="/assets/Tvorba_postavy.png"/>
-
-<img src="/assets/sep_line.png"/>
-
 Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsahuje popis, popisující základní kompetence a někdy i speciální schopnosti. Extra výbavu a také formující volbu, která může rozšířit kompetence postavy, přidat další výbavu či speciální schopnost.
 
 !!! note "Původy jiných ras"

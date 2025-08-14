@@ -1,6 +1,6 @@
 # Doplňující pravidla
 
-<img src="/assets/sep_line.png"/>
+<img src="/assets/chaos.webp"/>
 
 Sada rozšíření pravidel pro příběhy odehrávající se ve Starém světě. Tato pravidla rozšiřují a nahrazují některé pravidla popsaná v [Pravidlech hry](/Zakladni_pravidla/).
 
@@ -39,7 +39,7 @@ Mechanicky existují dva hlavní způsoby jak se zbavit nákazy chaosu. Těmi js
 
 ### Mutace
 
-Překoná-li postava hranici *10-ti bodů nákazy chaosu*. V noci podstoupí mutaci. Jakou mutaci hráč obdrží je čistě v režii strážce. Hráč pouze podstoupí *hod štěstí*. Díky kterému se určí zda bude jeho mutace spíš pozitivního či negativního charakteru (příklad v tabulce níže). Nezávisle na výsledku se s dotyčného stává mutant s nějakou viditelnou mutací, který je sám zdrojem *slabého působení chaosu* a jeho *body nákazy chaosu* klesnou na *0*.
+Překoná-li postava hranici *12-ti bodů nákazy chaosu*. V noci podstoupí mutaci. Jakou mutaci hráč obdrží je čistě v režii strážce. Hráč pouze podstoupí *hod štěstí*. Díky kterému se určí zda bude jeho mutace spíš pozitivního či negativního charakteru (příklad v tabulce níže). Nezávisle na výsledku se s dotyčného stává mutant s nějakou viditelnou mutací, který je sám zdrojem *slabého působení chaosu* a jeho *body nákazy chaosu* klesnou na *0*.
 
 |  1k6  | Typ mutace                                                   |
 | :---: | ------------------------------------------------------------ |

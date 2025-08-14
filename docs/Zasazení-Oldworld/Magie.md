@@ -1,10 +1,6 @@
 # Magie
 
-<img src="/assets/sep_line.png"/>
-
-<img src="/assets/Magic.webp"/>
-
-<img src="/assets/sep_line.png"/>
+<img src="/assets/magic.webp"/>
 
 ## Magie obecně
 

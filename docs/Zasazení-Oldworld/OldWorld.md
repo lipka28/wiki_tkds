@@ -1,10 +1,6 @@
 # Starý svět
 
-<img src="/assets/sep_line.png"/>
-
 <img src="/assets/OW/IOW.png"/>
-
-<img src="/assets/sep_line.png"/>
 
 ## Roztříštěná říše
 

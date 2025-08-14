@@ -1,10 +1,6 @@
 # Tvorba postavy
 
-<img src="/assets/sep_line.png"/>
-
-<img src="/assets/Tvorba_postavy.png"/>
-
-<img src="/assets/sep_line.png"/>
+<img src="/assets/char_creation.webp"/>
 
 Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://docs.google.com/spreadsheets/d/1Sn62Pj5LBoiwqzg830dHE5THVGlDTvaI0glZ8Rxn5Ac/edit?usp=sharing). Jak budeš připraven, následuj tyto kroky.
 

@@ -2,6 +2,8 @@
 
 ## Průzkum významných lokací
 
+<img src="/assets/proc_dungeon.webp"/>
+
 Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významné lokace se řídí, jako všechno ostatní ve hře, [základní herní smyčkou](/Zakladni_pravidla/#hlavni-herni-smycka).
 
 - **Průzkumné směny:** Průzkumná směna je nespecifikovaný úsek času. Během kterého se každá hráčská postava může volně pohybovat po zkoumané oblasti (většinou místnost nebo na dosah pochodně, či se přesunout mezi místnostmi) a provést 1 průzkumnou akci (případně reagovat na následky své akce). 
@@ -27,6 +29,8 @@ Strážce může hod kostky osudu interpretovat jak si přeje, nebo si může po
 
 ## Divočina
 
+<img src="/assets/proc_wild.webp"/>
+
 Při cestování či průzkumu divočiny se čas měří na *hlídky*. Každý den je rozdělen na 3 osmihodinové hlídky: Ráno, Odpoledne a Noc. 
 
 - **Hlídková akce:** Každý hráč si může určit svou hlídkovou akci co bude provádět. Některé hlídkové akce však požadují účast všech členů skupiny.
@@ -44,6 +48,8 @@ Hráčské postavy mohou, mimo jiné, provádět následující *hlídkové akce
 - **Jiné:** Cokoliv zabere relevantní množství času z daného dne. Například nákup ve vesnici či získávání informací.
 
 ## Mezi dobrodružstvími
+
+<img src="/assets/proc_downtime.webp"/>
 
 Mezi dobrodružstvími (herními sezení), když se postavy nachází v dostatečném bezpečí (kdekoliv kde lze přenocovat). Mohou provádět volno-časové aktivity. Každá postava má možnost provádět volno-časové aktivity* a v jednu chvíli nemůže postava provádět více jak jednu volno-časovou aktivitu. Volno-časová aktivita nemůže nikdy vystavit postavu smrtelnému nebezpečí. Pokud smrtelné nebezpečí hrozí, měla by být tato aktivita předmětem dobrodružství.
 

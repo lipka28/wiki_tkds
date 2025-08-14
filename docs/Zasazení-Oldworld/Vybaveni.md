@@ -1,10 +1,6 @@
 # Vybavení
 
-<img src="/assets/sep_line.png"/>
-
-<img src="/assets/Adventure_gear.png"/>
-
-<img src="/assets/sep_line.png"/>
+<img src="/assets/equipment.webp"/>
 
 ## Peníze a bohatství
 

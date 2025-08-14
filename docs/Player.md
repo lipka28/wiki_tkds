@@ -1,5 +1,7 @@
 # Principy pro hráče
 
+<img src="/assets/player_principles.webp"/>
+
 **Svoboda volby**
 
 - Atributy a s nimi spojené záchranné hody nedefinují tvou postavu. Jsou to jen nástroje k vyhodnocování nebezpečných situací. A někdy je lepší se do takových situací prostě nedostat.

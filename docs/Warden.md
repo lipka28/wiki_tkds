@@ -1,5 +1,7 @@
 # Nástroje strážce
 
+<img src="/assets/warden_tools.webp"/>
+
 Pokud se chcete dozvědět něco více o roli strážce a jak vést tuhle hru. Čerpejte z původního [Cairn](https://cairnrpg.com/second-edition/wardens-guide/).
 
 Rady na konverze monster z jiných systémů: [https://www.bastionland.com/2020/03/bastionland-non-conversion-guide.html](https://www.bastionland.com/2020/03/bastionland-non-conversion-guide.html)

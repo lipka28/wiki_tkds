@@ -1,10 +1,6 @@
 # Pravidla hry
 
-<img src="/assets/sep_line.png"/>
-
-<img src="/assets/Basics.png"/>
-
-<img src="/assets/sep_line.png"/>
+<img src="/assets/prav_hry.webp"/>
 
 ## Nástroje potřebné ke hře
 
@@ -123,6 +119,8 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 ## Konflikt
 
+<img src="/assets/prav_hry_combat.webp"/>
+
 ### Kola
 
 - **Kolo:** Představuje přibližně *10 vteřin* času, během kterého všechny strany konfliktu odehrát svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první. Výsledky všech tahů dané strany jsou vyhodnoceny najednou.
@@ -207,7 +205,9 @@ Velké skupiny nepřátel (jako třeba armáda zombie) nebo gigantičtí nepřá
 - **Útoky proti oddílům:** Pokud jedinec útočí na oddíl, jeho útok je považován za *oslabený*. Neplatí pro *plošné* útoky.
 - **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok jeho útok probíhá s +1k12 a je považován za *plošný*.
 
-## Růst postav
+## Růst postavy
+
+<img src="/assets/prav_hry_growth.webp"/>
 
 Na místo často používané mechaniky získávání úrovní a zkušeností za zabíjení monster a získávání pokladu. Tato hra spoléhá na přirozenější vývoj postavy. Ten staví na těchto tří základních pilířích: 
 
