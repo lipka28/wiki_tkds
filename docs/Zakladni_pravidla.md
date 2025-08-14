@@ -156,6 +156,7 @@ Zóny jsou abstraktní výřezy bojiště nespecifikované velikosti (Nikdy vša
 - **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a musí podstoupit záchranný hod proti *kritickému poškození*.
 - **Jizva:** Obdrží-li jedinec tolik poškození, že jsou jeho BO sníženy přesně na 0 obdrží [jizvu](/Zakladni_pravidla/#jizvy).
 - **Skupinový útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
+- **Bojové manévry:** V případě speciálních útoků jako je odzbrojení či shození na zem. Strana, která je nejvíce ohrožena následky manévru podstoupí záchranný hod (většinou na HBI).
 
 !!! example "Alternativní varianta: Společně jsme silnější"
 	Možnou variantou pro vícenásobný útok. Je vzít nejvyšší zdroj poškození a přičítat +1 k poškození za každou další zdroj poškození s hodnotou 4+, schopný zranit nepřítele.
