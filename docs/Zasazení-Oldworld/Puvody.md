@@ -118,7 +118,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
 
-**Extra výbava:** Prak (1k4), Sekyrka (1k6), Brigandina (1 brnění, pokud neoblečena tak *neskladná*), Pochodeň (3 použití), Dalekohled
+**Extra výbava:** Prak (1k4), Sekyrka (1k6), Brigandina (1 brnění, *neskladná*), Pochodeň (3 použití), Dalekohled
 
 **Formující volba:** Jaký nástroj ti již nesčetněkrát zachránil život?
 
@@ -176,7 +176,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Nenávist k trpaslíkům:** Tvůj druh nenávidí trpaslíky. Ale neboj, je to vzájemné.
 
-**Extra výbava:** Dva zahnuté elfí meče (1k6+1k6, *neskladné*), Elfí luk (1k8, *neskladný*), Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*), Plášť s kapucí (*zanedbatelný*).
+**Extra výbava:** Dva zahnuté elfí meče (1k6+1k6, *neskladné*), Elfí luk (1k8, *neskladný*), Lehká zbroj (1 brnění, *neskladná*), Plášť s kapucí (*zanedbatelný*).
 
 **Formující volba:** Co sis odnesl z elfích lesů?
 
@@ -193,7 +193,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
 
-**Extra výbava:** Krátký meč (1k6), Bambitka (1k10, křesadlové, nepřesné, dlouho nabíjecí),  Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*), Síť, Provaz, Klobouk (*zanedbatelný*).
+**Extra výbava:** Krátký meč (1k6), Bambitka (1k10, křesadlové, nepřesné, dlouho nabíjecí),  Lehká zbroj (1 brnění, *neskladná*), Síť, Provaz, Klobouk (*zanedbatelný*).
 
 **Formující volba:** Jaký nástroj ti vždy při lovu zaručeně pomůže?
 
@@ -261,7 +261,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Světaznalý:** Ovládáš další 2 jazyky vlastního výběru (lze vybrat až při setkání s neznámým jazykem). Navíc v každém větším městě máš 1 kontakt.
 
-**Extra výbava:** Nůž (1k6), Brigandina (1 brnění, pokud neoblečena tak *neskladná*), Kompas, Psací potřeby a pergamen, Hudební nástroj dle vlastní volby (většinou *neskladný*)
+**Extra výbava:** Nůž (1k6), Brigandina (1 brnění, *neskladná*), Kompas, Psací potřeby a pergamen, Hudební nástroj dle vlastní volby (většinou *neskladný*)
 
 **Formující volba:** Jaký zajímavý artefakt se ti dostal pod prsty při tvých cestách?
 
@@ -299,7 +299,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Vlastní výroba:** Může strávit volný čas výrobou a tím získat slevu na určité výrobky. Jak velká je tato sleva a na jaké výrobky ji lze aplikovat. Záleží na volbě níže (Lze aplikovat při tvorbě postavy).
 
-**Extra výbava:** 3k6 šilinků, Řemeslnické náčiní (*neskladné*, specifické pro tvé řemeslo). Kárka (+4 sloty, *neskladná* třeba táhnout v rukách), Ochranné rukavice (*zanedbatelné* pokud oblečené)
+**Extra výbava:** 3k6 šilinků, Řemeslnické náčiní (*neskladné*, specifické pro tvé řemeslo). Kárka (+4 sloty, *neskladná* třeba táhnout v rukách), Ochranné rukavice (*zanedbatelné*)
 
 **Formující volba:** Tvé řemeslo?
 
@@ -357,7 +357,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale tvá SIL s HBI je nižší o 2 jako následek zranění.
 
-**Extra výbava:** Záložní krátký meč (1k6), Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*), tetování vyznačující příslušnost k jednotce (*zanedbatlené*)
+**Extra výbava:** Záložní krátký meč (1k6), Lehká zbroj (1 brnění, *neskladná*), tetování vyznačující příslušnost k jednotce (*zanedbatlené*)
 
 **Formující volba:** V jaké vojenské jednotce si sloužil?
 
@@ -382,7 +382,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Nenávist k trpaslíkům:** Tvůj druh nenávidí trpaslíky. Ale neboj, je to vzájemné.
 
-**Extra výbava:** Dlouhý elfí meč (1k8, větší), Elfí zbroj (1 brnění, pokud neoblečena tak *neskladná*), Plášť s kapucí (*zanedbatelný*).
+**Extra výbava:** Dlouhý elfí meč (1k8, větší), Elfí zbroj (1 brnění, *neskladná*), Plášť s kapucí (*zanedbatelný*).
 
 **Formující volba:** Co je tvým nepostradatelným společníkem na cestách?
 

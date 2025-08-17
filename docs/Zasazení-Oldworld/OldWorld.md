@@ -4,7 +4,7 @@
 
 ## Roztříštěná říše
 
-Říše je roztříště, leč stále nepoddajná. Vítězství v upířích válkách sice zahájilo éru relativního míru a prosperity, ale říši chybí jednotnost. Povzbuzeni porážkou prokletých hrabat von Carstein se kurfiřti, vládnoucí městům a státům, začali dohadovat. Neschopni se dohodnout, kdo by měl být novým císařem. Hašteříc se o neexistují hranice neposlouchajíc zkazky o blížící se zkáze. Starý svět tak zůstává nebezpečným místem. Mnoho hladových očí hledí na rozdělenou Říši a ví, že přichází jejich čas.
+Říše je roztříštěna, leč stále nepoddajná. Vítězství v upířích válkách sice zahájilo éru relativního míru a prosperity, ale říši chybí jednotnost. Povzbuzeni porážkou prokletých hrabat von Carstein se kurfiřti, vládnoucí říšským provinciím, začali dohadovat. Neschopni se dohodnout, kdo by měl být novým císařem. Hašteříc se o neexistují hranice neposlouchajíc zkazky o blížící se zkáze. Starý svět tak zůstává nebezpečným místem. Mnoho hladových očí hledí na rozdělenou Říši a ví, že přichází jejich čas.
 
 <img src="/assets/sep_line.png"/>
 
@@ -18,7 +18,7 @@ Hráčům se může do rukou dostat jedna z následujících hratelných ras. Zd
 
 Říše leží v srdci Starého světa. I když roztříštěna, zůstává nejmocnějším z lidských království a její občané si toho jsou dobře vědomi. Na hranicích Říše i uvnitř nich číhají nebezpeční nepřátelé, a ačkoli byla téměř rozervána intrikami mocichtivých kurfiřtů a nižších šlechticů, panuje zde přetrvávající víra, že Říše založená Sigmarem dokáže přečkat každou bouři.
 
-Lidé Říše se mohou od sebe značně lišit. Ti narození ve městech jsou vychováni v relativním bezpečí. Naučili se řemeslům a armádu viděli se shromažďovat jen cvičně na náměstí. Ti, kteří žijí mimo bezpečí městských hradeb v izolovaných vesnicích Velkého lesa nebo na větrem ošlehaných březích severního pobřeží. Vědí, že nebezpečí je vždy na blízku a že armády objevující se na obzoru jsou zřídka vítaným znamením.
+Lidé Říše se mohou od sebe značně lišit. Ti narození ve městech jsou vychováni v relativním bezpečí. Naučili se řemeslům a armádu viděli jen během přehlídek na náměstí. Ti, kteří žijí mimo bezpečí městských hradeb v izolovaných vesnicích Velkého lesa nebo na větrem ošlehaných březích severního pobřeží. Vědí, že nebezpečí je vždy na blízku a že armády objevující se na obzoru jsou zřídka vítaným znamením.
 
 Ať už pocházejí odkudkoli, většina lidí je pověrčivá, svírajíc talismany starých i nových bohů. Za dobrých časů proklínajíce čarodějnice, ale když přijdou časy zlé, nebojí se praktikovat zakázané magie. Mezi lidmi existují jak čestní a zásadoví hrdinové, tak i vražedný hrdlořezové skrývající se ve stínech.
 
@@ -26,7 +26,7 @@ Ať už pocházejí odkudkoli, většina lidí je pověrčivá, svírajíc talis
 
 **Lesní Elfové o Lidech:**
 
-*"Mohli v těchto lesích postavit něco krásného, místo tohohle monumentu hlouposti. Nedokážu si vysvětlit, jak mohli prosperovat, když důstojnější civilizace padly; mohu jen předpokládat, že je čeká strašlivá zkáza. Ale les je všechny přežije."*
+*"Mohli v těchto lesích postavit něco krásného, místo tohohle monumentu hlouposti. Nedokážu si vysvětlit, jak mohli prosperovat, když důstojnější civilizace padly; mohu jen předpokládat, že je čeká strašlivá zkáza. Ale les je přežije všechny."*
 
 **Pulčíci o Lidech:**
 
@@ -34,7 +34,7 @@ Ať už pocházejí odkudkoli, většina lidí je pověrčivá, svírajíc talis
 
 **Trpaslíci o Lidech:**
 
-*"Tisíc let se už nedomluvili na vůdci, ale ti blázni se furt považujou za jeden národ. Je na tom cosi obdivuhodnýho. Říkám si, že je to jak rýžovat zlato v hnoji. Když vydržíš dost dlouho, třeba něco k světu najdeš. Ale poslední dobou to ale byly samé hovna. Naštěstí na hovno vládci dělaj žíznivé občany. Tam je teprve to zlato!"*
+*"Tisíc let se už nedomluvili na vůdci, ale ti blázni se furt považujou za jeden národ. Je na tom cosi obdivuhodnýho. Říkám si, že je to jak rýžovat zlato v hnoji. Když vydržíš dost dlouho, třeba něco k světu najdeš. Ale poslední dobou to ale byly samé hovna. Naštěstí na hovno vládci dělaj žíznivé občany. Tam se dá vydělat i nějaké to zlato!"*
 
 **Vznešení Elfové o Lidech:**
 
@@ -44,13 +44,13 @@ Ať už pocházejí odkudkoli, většina lidí je pověrčivá, svírajíc talis
 
 ### Lesní elfové
 
-Když elfové opustili Starý svět, vzdali se svých držav a nechali své kolonie v troskách, někteří se však nedokázali vzdát všeho, co vybudovali. Zůstali skryti v dalekých horách a hlubokých lesích Starého světa a snažili se přežít. Spousta jich zahynula, ale někteří vytrvali a přežili. Největší z těchto útočišť je Athel Loren, ukrytý mezi Bretanií a Šedými horami. Elfové zde uzavřeli dohodu s duchy prastarého lesa. Chrání jeho hranice a obyvatele před cizinci a Athel Loren je za to na oplátku ukrývá. Lesní elfové žijí také v Laurelornském lese na severu Říše a údajně disponují magickými prostředky k cestování mezi jakýmkoli lesem Starého světa.
+Když elfové opustili Starý svět, vzdali se svých držav a nechali své kolonie v troskách, někteří se však nedokázali vzdát všeho, co vybudovali. Zůstali skryti v dalekých horách a hlubokých lesích Starého světa a snažili se přežít. Spousta jich zahynula, ale někteří vytrvali a přežili. Největší z těchto útočišť je Athel Loren, ukrytý mezi Bretanií a Šedými horami. Elfové zde uzavřeli dohodu s duchy prastarého lesa. Chrání jeho hranice a obyvatele před cizinci a Athel Loren je za to na oplátku ukrývá. Lesní elfové žijí také v Laurelornském lese na severu Říše a údajně disponují tajnými magickými prostředky k cestování mezi jakýmkoli lesem Starého světa.
 
 ​	Většina cizinců považuje lesní elfy za zlé, a možná mají pravdu, neboť lesům ani jejich ochráncům nezáleží na životech lidí či trpaslíků. Každý, kdo přijde do Athel Lorenu hledat štěstí nebo kořist, nalezne jen smrt. Ti šťastnější zahynou šípem, zatímco nešťastníci jsou roztrháni na kusy děsivými lesními bytostmi.
 
 ​	Lesní elfové zřídka opouštějí svůj domov, aby prozkoumali země Říše či vzdálenější kraje. Když se tak však stane, nikdy to nečiní bezdůvodně. Někteří jsou diplomaty, jiní špiony. Ne že by to byl v případně lesních elfů výrazný rozdíl. Nepřátelé Athel Lorenu přicházejí z daleka, a stejně tam je i ochránci lesa musí pronásledovat.
 
-​	Lesní elfové jsou od přírody proměnliví, během okamžiku přecházejí z pasivního zvažování k radostné euforii nebo vražedné zlosti. Podle lidských měřítek je většina z nich zkušenými lučištníky a až nepřirozeně nenápadnými. Pro lesní elfy jsou tohle však dovednosti učené už od dětství, stejně přirozené jako dýchání.
+​	Lesní elfové jsou od přírody proměnliví, během okamžiku přecházejí z pasivního zvažování k radostné euforii nebo vražedné zlosti. Podle lidských měřítek je většina z nich zkušenými lučištníky a až nepřirozeně nenápadnými. Lesní elfy jsou však tyto dovednosti učené už od dětství. Jsou pro ně stejně přirozené jako dýchání.
 
 **Lidé o Lesních Elfech:**
 
@@ -58,7 +58,7 @@ Když elfové opustili Starý svět, vzdali se svých držav a nechali své kolo
 
 **Pulčíci o Lesních Elfech:**
 
-*"No, viděl jsem je, jak oni viděli, že je vidím. To jejich čumění a vyčkávání, to je asi jediná věc, co je baví. Mě to po chvíli zmohlo. Tak jsem se vrátil k svým bramborám. Tak říkám lidem. Brambory se totiž o dost snázej okrádaj."*
+*"No, viděl jsem je, jak oni viděli, že je vidím. To jejich čumění a vyčkávání, to je asi jediná věc, co je baví. Mě to po chvíli bavit přestalo. Tak jsem se vrátil k svým bramborám. Tak říkám lidem. Brambory se totiž o dost snázej okrádaj."*
 
 **Trpaslíci o Lesních Elfech:**
 
@@ -72,7 +72,7 @@ Když elfové opustili Starý svět, vzdali se svých držav a nechali své kolo
 
 ### Pulčíci
 
-Pulčíci z Mootlandu jsou zvláštní národ. Jsou menší než trpaslíci a mají pupek, který má jen málo co společného se svaly. Na pulčíky se často zapomíná a ve většině záležitostí jsou snadno přehlédnutelní. Ale to jim docela vyhovuje, protože když jsou přehlíženi, je mnohem snazší zmizet s jakýmikoli cennostmi, neopatrně schovanými v kapsách jiných lidí. Pulčíci by byli naprosto nepodstatní v kontextu Říše, kdyby nevládli své vlastní malé provincii zvané Mootland. Jak přesně k tomu došlo, je široce diskutováno a záleží na tom, koho se zeptáte. Mohlo jít o obratné politické intriky, nebo prostou neschopnost.
+Pulčíci z Mootlandu jsou zvláštní národ. Jsou menší než trpaslíci a často se honosí pupky, které mají jen málo co společného se svaly. Na pulčíky se často zapomíná a ve většině záležitostí jsou snadno přehlédnutelní. Ale to jim docela vyhovuje, protože když jsou přehlíženi, je mnohem snazší zmizet s jakýmikoli cennostmi, neopatrně schovanými v kapsách jiných lidí. Pulčíci by byli naprosto nepodstatní v kontextu Říše, kdyby nevládli své vlastní malé provincii zvané Mootland. Jak přesně k tomu došlo, je široce diskutováno a záleží na tom, koho se zeptáte. Mohlo jít o obratné politické intriky, nebo prostou neschopnost říšských politiků.
 
 ​	Ačkoli je primárně najdete v Mootlandu, kde si staví domy v norách, které by se daly velkoryse popsat jako „rustikální“. Pulčíci žijí po celé Říši. Jsou všeobecně považováni za zloděje a darebáky nejhoršího zrna, ale stejně tak jako jsou známí pro své pohrdání soukromým vlastnictví ostatních, tak jsou také proslulí svými kulinářskými dovednostmi a pohostinností. 
 
@@ -80,7 +80,7 @@ Pulčíci z Mootlandu jsou zvláštní národ. Jsou menší než trpaslíci a ma
 
 **Lidé o Pulčících:**
 
-*"Viděl jsem jejich lučištníky sestřelovat harpyje z oblohy, jejich zloděje mizet z císařských žalářů a jejich zvědy rozervat ungora na kusy. Myslíte si, že jsou k smíchu? Přesně to chtějí, abyste si mysleli."*
+*"Viděl jsem jejich práčata sestřelovat harpyje z oblohy, jejich zloděje mizet z císařských žalářů a jejich hraničáře rozervat ungora na kusy. Myslíte si, že jsou k smíchu? Přesně to chtějí, abyste si mysleli."*
 
 **Lesní Elfové o Pulčících:**
 
@@ -98,11 +98,11 @@ Pulčíci z Mootlandu jsou zvláštní národ. Jsou menší než trpaslíci a ma
 
 ### Trpaslíci
 
-Trpaslíci jsou hrdý národ, který vyprodukoval nespočet talentovaných řemeslníků a schopných válečníků. Kdysi vládli velké části Starého Světa, ale zničující válka s Elfy a staletí neštěstí, jež následovala, oslabily jejich moc oslabili. Mnoho z jejich rodových horských pevností bylo ztraceno a tento vynucený exodus vytvořil široce rozptýlenou trpasličí diasporu.
+Trpaslíci jsou hrdý národ, který vyprodukoval nespočet talentovaných řemeslníků a schopných válečníků. Kdysi vládli velké části Starého Světa, ale zničující válka s Elfy a staletí neštěstí, jež následovala, oslabily jejich moc. Mnoho z jejich rodových horských pevností bylo ztraceno a tento vynucený exodus vytvořil široce rozptýlenou trpasličí diasporu.
 
-​	V těch pevnostech, které přečkaly tisíciletí neštěstí, je tvrdohlavá hrdost trpaslíků daleko od vyhasnutí. Karaz Ankor, jak nazývají své horské království, zůstává stejně odhodlané a neústupné jako vždy. Pro trpaslíky jsou jejich staré domovy baštami cti, síly a odvahy ve světě napadeném temnými silami. A co Lidské říše? Jen namyšlený národ, sotva civilizovaný a to ještě jen s trpasličí pomocí.
+​	V jejich pevnostech, které přečkaly tisíciletí neštěstí, je však tvrdohlavá hrdost trpaslíků daleko od vyhasnutí. Karaz Ankor, jak nazývají své horské království, zůstává stejně odhodlané a neústupné jako vždy. Pro trpaslíky jsou jejich staré domovy baštami cti, síly a odvahy ve světě napadeném temnými silami. A co Lidské říše? Jen namyšlený národ, sotva civilizovaný a to ještě jen s trpasličí pomocí.
 
-​	Nicméně, tohle staré spojenectví mezi trpaslíky a lidmi i nadále setrvává. Mnoho trpaslíků našlo nové domovy mezi městy a městečky v Říši, kde je trpasličím komunitám dopřáván respekt a určitá míra nezávislosti. Jejich pracovitá povaha a zručné řemeslné umění se Říši mnohokrát vyplatilo. Mezi svými jsou ti, kdo nalezli domov v Říši, nazývání říšskými trpaslíky.
+​	Nicméně, tohle staré spojenectví mezi trpaslíky a lidmi i nadále setrvává. Mnoho trpaslíků našlo nové domovy ve městech a na vesnicích Říše, kde je trpasličím komunitám dopřáván respekt a určitá míra nezávislosti. Jejich pracovitá povaha a zručné řemeslné umění se Říši mnohokrát vyplatilo. Mezi svými jsou ti, kdo nalezli domov v Říši, nazývání říšskými trpaslíky.
 
 ​	Trpaslíci se lehce naštvou, jsou náchylní k urážkám při sebemenší provokaci a nikdy nezapomenou křivdu. Nicméně, jakmile si získáte jejich přízeň, nemůžete si přát lepšího přítele nebo spojence, jak se Říši zas a znovu osvědčilo.
 
@@ -112,7 +112,7 @@ Trpaslíci jsou hrdý národ, který vyprodukoval nespočet talentovaných řeme
 
 **Lesní Elfové o Trpaslících:**
 
-*"Pálí lesy, ne jen aby živili své obludné stroje. Myslím, že za tím vězí zloba a msta. Jejich srdce jsou tvrdá a malá, ale šíp jimi projde stejně."*
+*"Pálí lesy, jen aby živili své obludné stroje. Myslím, že za tím vězí zloba a msta. Jejich srdce jsou tvrdá a malá, ale šíp jimi projde stejně."*
 
 **Pulčíci o Trpaslících:**
 
@@ -126,7 +126,11 @@ Trpaslíci jsou hrdý národ, který vyprodukoval nespočet talentovaných řeme
 
 ### Vznešení elfové
 
+Vznešení Elfové byli kdysi pány světa smrtelníků. Impérium Krále Fénixů se táhlo přes kontinenty, podpořené silou jejich armád a jejich mistrovstvím magie. Jejich činy z té doby se staly legendou a města, která vystavěli, byla lesklými alabastrovými monumenty pýchy a úspěchů. Jenže staletí k nim nebyla laskavá a historie Vznešených Elfů je téměř stejnou měrou historií vznešenosti a tragédie.
 
+​	Dnes jsou říše Vznešených Elfů zredukovaný na ostrovní království Ulthuan a několik roztroušených kolonií. Ruiny, které po sobě zanechali, jsou ponurou připomínkou, že vše musí jednou zaniknout. Po dlouhá staletí se stahovali z širšího světa a opustili mnoho svých držav v důsledku zničující války s Trpaslíky. Ačkoli výpravy za průzkumem a obchodem nikdy zcela neustaly, teprve v poslední době se začali znovu dívat po okolním světu pod záštitou Krále Fénixů Finubara Mořeplavce. Byly zřízeny posádky na ostrovech u pobřeží Starého Světa a vztahy s Říší byly posíleny. Diplomaty a obchodníky Vznešených Elfů lze najít po celé Říši.
+
+​	Vznešení Elfové jsou hrdí, dlouhověcí mistři mořeplavectví, válečnictví a magie, ale zenit jejich síly je téměř jistě za nimi. Ačkoli rozděleni válkou a izolováni na ostrovním kontinentu Ulthuan. Pýcha Vznešených Elfů a jejich povinnost vůči světu, který pomohli utvářet, stálé přetrvává.
 
 **Lidé o Vznešených Elfech:**
 
@@ -142,7 +146,7 @@ Trpaslíci jsou hrdý národ, který vyprodukoval nespočet talentovaných řeme
 
 **Trpaslíci o Vznešených Elfech:**
 
-*"Zůstaňte u tych vašich lodiček a ostrovnich skrýši. Na této hroudě nemate co dělat. A jak se zkusite vratit. Pamatujte, co se stalo naposled."*
+*"Zůstaňte u tych vašich lodiček a ostrovnich skrýši. Na této hroudě nemate co dělat. A když sa zkusite vratit. Pamatujte, co se stalo naposled."*
 
 <img src="/assets/sep_line.png"/>
 

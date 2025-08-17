@@ -6,10 +6,10 @@
 
 Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významné lokace se řídí, jako všechno ostatní ve hře, [základní herní smyčkou](/Zakladni_pravidla/#hlavni-herni-smycka).
 
-- **Průzkumné směny:** Průzkumná směna je nespecifikovaný úsek času. Během kterého se každá hráčská postava může volně pohybovat po zkoumané oblasti (většinou místnost nebo na dosah pochodně, či se přesunout mezi místnostmi) a provést 1 průzkumnou akci (případně reagovat na následky své akce). 
+- **Průzkumné směny:** Průzkumná směna je nespecifikovaný úsek času. Během kterého se každá hráčská postava může volně pohybovat po zkoumané oblasti (většinou místnost nebo na dosah pochodně) a provést 1 průzkumnou akci. 
 - **Průzkumná akce:** Akce trvající 1 průzkumnou směnu.
 - **Opatrný pohyb:** Při průzkumu nebezpečných oblastí se předpokládá, že hráčské postavy postupují pomalu a opatrně. Jakékoliv nebezpečí či smrtelné nástrahy odhalí v čas. Čím větší nebezpečí tím více zřejmé by mělo být opatrně postupujícím postavám. To však nemusí být pravda pokud třeba před něčím utíkají. 
-- **Světlo:** Pochodně a lucerny svítí přibližně do okolí 10 metrů a svítí tak dlouho dokud nejsou uhašeny prostředím nebo nositelem. *Pochodeň* může být znovu zapálena až 3x než je zničena a *lucerna* může být zapálena neomezeně pokud je k dispozici nějaký *lampový olej*.
+- **Světlo:** Pochodně a lucerny svítí přibližně do okolí *10 metrů* a svítí tak dlouho dokud nejsou uhašeny prostředím nebo nositelem. *Pochodeň* může být znovu zapálena až 3x než je zničena a *lucerna* může být zapálena neomezeně pokud je k dispozici nějaký *lampový olej*.
 - **Prohledat (průzkumná akce):** Postava může důkladně prohledat objekt či malou oblast lokace a tím automaticky odhalit cokoliv skrytého v dané oblasti. Věci jako pasti, tajné přihrádky, skryté dveře a podobně.
 - **Odpočinek (průzkumná akce):** Pokud má postava chvilku bezpečí, může si krátce odpočinout a tím doplnit všechny své *Body obrany (BO)*.
 - **Přenocování:** Přenocování v nebezpečných lokacích většinou není možné, pokud si postavy nejsou schopny zajistit dostatečně bezpečné místo.
@@ -31,11 +31,11 @@ Strážce může hod kostky osudu interpretovat jak si přeje, nebo si může po
 
 <img src="/assets/proc_wild.webp"/>
 
-Při cestování či průzkumu divočiny se čas měří na *hlídky*. Každý den je rozdělen na 3 osmihodinové hlídky: Ráno, Odpoledne a Noc. 
+Při cestování či průzkumu divočiny se čas měří na *hlídky*. Každý den je rozdělen na *3 osmihodinové hlídky*: Ráno, Odpoledne a Noc. 
 
 - **Hlídková akce:** Každý hráč si může určit svou hlídkovou akci co bude provádět. Některé hlídkové akce však požadují účast všech členů skupiny.
-- **Cestování:** Postavy většinou cestují mezi zajímavými lokacemi jako body na mapě. Strážce určuje kolik hlídek, trvá cesta mezi určitými body. Při určování délky cesty by měl strážce, mimo vzdálenosti, také vzít v potaz stav skupiny, jejích schopnosti, počasí, terén a jiné proměnné, které mohou ovlivnit délku cesty. Hráči by měli mít vždy přibližnou představu o nástrahách, které je mohou potkat na dané cestě.
-- **Speciální události:** Každou hlídku může strážce hodit na speciální událost. Používá stejný *hod kostkou osudu* a *tabulku speciálních událostí* jako je popsána výše. S tím rozdílem, že výsledek na kostce *6* znamená objev. Ať už významné lokace, zdroje jídla, pokladu nebo cokoliv jiného s pozitivním dopadem. Také ztráta může být interpretována jako ztráta směru.
+- **Cestování:** Postavy většinou cestují mezi zajímavými lokacemi jako body na mapě. Strážce určuje, kolik hlídek trvá cesta mezi určitými body. Při určování délky cesty by měl strážce, mimo vzdálenosti, také vzít v potaz stav skupiny, jejích schopnosti, počasí, terén a jiné proměnné, které mohou ovlivnit délku cesty. Hráči by měli mít vždy přibližnou představu o nástrahách, které je mohou potkat na dané cestě.
+- **Speciální události:** Každou hlídku může strážce hodit na speciální událost. Používá stejný *hod kostkou osudu* a *tabulku speciálních událostí* jako je popsána výše. S tím rozdílem, že výsledek na kostce *6* znamená objev. Ať už významné lokace, zdroje jídla, poklad nebo cokoliv jiného s pozitivním dopadem. Také ztráta může být interpretována jako ztráta směru.
 
 ### Hlídkové akce
 
@@ -43,19 +43,19 @@ Hráčské postavy mohou, mimo jiné, provádět následující *hlídkové akce
 
 - **Cestování:** Posun k bodu zájmu na mapě o *1 hlídku*. Všechny zřejmé prvky dané oblasti jsou hráčům průchodem odhaleny. Tato akce musí být prováděna celou skupinou.
 - **Průzkum:** Jeden nebo více členů skupiny se může zúčastnit průzkumu velké oblasti. Umožňující zaručeně odhalit skryté prvky, které nemusí být odhaleny pouhým průchodem. Pokud oblast obsahuje více takových to prvků, je třeba ji prozkoumat vícekrát nebo se průzkumu musí zúčastnit více průzkumníků (1 prvek za každého průzkumníka).
-- **Zásobování:** Jeden nebo více členů skupiny se může zúčastnit lovení, rybaření nebo jiného způsobu sběru jídla. A získat tak *1k4* zásob (3 použití). Každý účastník lovu zvedá množství získaných zásob o 1 stupeň (1k4 -> 1k6 atd. až po maximum 1k12). Množství získaných zásob lze také zvednout speciálními schopnostmi či relevantním vybavením.
-- **Založit tábor:** Skupina se zastaví a založí si tábor (většinou 3. *hlídková akce* každého dne, pokud vynechána všichni si ztratí 1 bod každé dovednosti). Každý ve skupině (včetně zvířat a jiných družníků) spotřebuje 1 použití zásoby. Pokud možné, určí se pořadí hlídek a postavy se vyspí do dalšího dne. Pokud se postavy vyspí bez většího vyrušení do dalšího dne, vyléčí si *1k6* dovednostních bodů (dle vlastního výběru).
+- **Zásobování:** Jeden nebo více členů skupiny se může zúčastnit lovení, rybaření nebo jiného způsobu sběru jídla. A získat tak *1k4* čerstvých zásob (3 použití, kazí se). Každý účastník lovu zvedá množství získaných zásob o 1 stupeň (1k4 -> 1k6 atd. až po maximum 1k12). Množství získaných zásob lze také zvednout speciálními schopnostmi či relevantním vybavením.
+- **Založit tábor:** Skupina se zastaví a založí si tábor (většinou 3. *hlídková akce* každého dne. Každý ve skupině (včetně zvířat a jiných družníků) spotřebuje 1 použití zásoby. Pokud možné, určí se pořadí hlídek a postavy se vyspí do dalšího dne a vyléčí si *1k6* dovednostních bodů (dle vlastního výběru). Pokud je tato akce vynechána všichni členové výpravy jsou *vyčerpaní* a ztratí 1 bod každé dovednosti).
 - **Jiné:** Cokoliv zabere relevantní množství času z daného dne. Například nákup ve vesnici či získávání informací.
 
 ## Mezi dobrodružstvími
 
 <img src="/assets/proc_downtime.webp"/>
 
-Mezi dobrodružstvími (herními sezení), když se postavy nachází v dostatečném bezpečí (kdekoliv kde lze přenocovat). Mohou provádět volno-časové aktivity. Každá postava má možnost provádět volno-časové aktivity* a v jednu chvíli nemůže postava provádět více jak jednu volno-časovou aktivitu. Volno-časová aktivita nemůže nikdy vystavit postavu smrtelnému nebezpečí. Pokud smrtelné nebezpečí hrozí, měla by být tato aktivita předmětem dobrodružství.
+Mezi dobrodružstvími (herními sezení), když se postavy nachází v dostatečném bezpečí (kdekoliv kde lze přenocovat). Mohou provádět *volno-časové* aktivity. Každá postava má možnost provádět volno-časové aktivity a v jednu chvíli nemůže postava provádět více jak jednu volno-časovou aktivitu. Volno-časová aktivita nemůže nikdy vystavit postavu smrtelnému nebezpečí. Pokud smrtelné nebezpečí hrozí, měla by být tato aktivita předmětem herního sezení / dobrodružství.
 
 **Milníky**
 
-Některé aktivity mohou vyžadovat více kroků. Lze je tedy rozdělit do 1 - 5-ti milníků. Milník představuje úplnou neinteraktivní aktivitu, kterou lze provést jako *1 volno-časovou aktivitu*. Milníky mohou být v průběhu hry mazány, přidávány nebo měněny, dle dění ve hře.
+Některé aktivity mohou vyžadovat k úspěšnému dokončení více kroků. Lze je tedy rozdělit do 1 - 5-ti milníků. Milník představuje úplnou neinteraktivní aktivitu, kterou lze provést jako *volno-časovou aktivitu*. Milníky mohou být v průběhu hry mazány, přidávány nebo měněny, dle dění ve hře.
 
 **Cena**
 
@@ -64,7 +64,7 @@ Splnění milníku často mívá asociovanou cenu. Pokud postava není schopna c
 - **Peníze:** Specifický obnos šilinků.
 - **Zdroje:** Běžné předměty, nástroje či materiály.
 - **Reputace:** Dát v sázku vlastní reputaci či vztah s NPC či organizací.
-- **Vzácnost:** Cenný materiál, kus těla, duše, Arkana a podobně.
+- **Vzácnost:** Cenný materiál, kus těla, duše, magický předmět a podobně.
 - **Záchranný hod:** Relevantní záchranný hod
 - **Kombinace:** Kombinace více možných cen.
 
@@ -78,11 +78,11 @@ Nejběžnější volno-časové aktivity.
 
 Postava si vyléčí všechna zranění (ztracené dovednostní body) pokud dané zranění není trvalejšího charakteru nebo nepotřebuje specifickou expertízu ke správnému vyléčení.
 
-- **Léčitel:** Pokud dostupné, postava si na místo zotavení může zaplatit služby léčitele a tak uvolnit svou *volno-časovou aktivitu* pro jiné účely.
+- **Léčitel:** Pokud dostupné, postava si na místo zotavení může zaplatit služby léčitele a tak uvolnit svou *volno-časovou aktivitu* pro jiné účely. Léčitel (nebo jiný adekvátní odborník) je také užitečný, pro léčbu dlouhodobějších následků.
 
 **Naučit se něco nového**
 
-Postava se může zlepšit v určité aktivitě či naučit se něco nového. Věci jako naučit se nový jazyk, zlepšit se v útocích se specifickou zbraní či třeba vyrábět léčivé masti. Výsledkem tréninku by měl být jasný narativní či mechanický efekt.
+Postava se může zlepšit v určité aktivitě či naučit se něco nového. Věci jako naučit se nový jazyk, zlepšit se v útocích se specifickou zbraní či třeba naučit se vyrábět léčivé masti. Výsledkem tréninku by měl být jasný narativní či mechanický efekt.
 
 - **Mistr:** K naučením některých věcí může být třeba mistr nebo nějaký trenér. Alternativně může mistr učení se novým věcem výrazně urychlit.
 
@@ -104,7 +104,7 @@ Postava může zlepšovat své vztahy s jinými NPC či frakcemi. Hráč určí 
 
 **Získávání informací**
 
-Postava může hledat odpověď na specifickou otázku. Věci jako: kde nalézt určité NPC, jak odolat dračímu ohni, kde najít specifickou Araknu. Při stanovení zkoumané otázky musí hráč vycházet ze znalostí své postavy.
+Postava může hledat odpověď na specifickou otázku. Věci jako: kde nalézt určité NPC, jak odolat dračímu ohni, kde najít specifický magický předmět. Při stanovení zkoumané otázky musí hráč vycházet ze znalostí své postavy.
 
 -  **Zdroj:** Získávání informací vyžaduje relevantní zdroj informací. Pokud postava takový zdroj nemá k dispozici, může se ho pokusit, jako *volno-časovou aktivitu*, najít. 
 

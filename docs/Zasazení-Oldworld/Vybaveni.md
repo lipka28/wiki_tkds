@@ -4,9 +4,9 @@
 
 ## Peníze a bohatství
 
-Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším platidlem v Aldiru jsou však *Šilinky*.
+Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším platidlem v Říši jsou však *Šilinky*.
 
-- **Peníze a skladnost:** Měšec mincí do *100 šilinků* nezabírá žádné místo v inventáři. Následně pak mince do *200 šilinků* zabírají *1 slot*.
+- **Peníze a skladnost:** Měšec mincí do *100 šilinků* nezabírá žádné místo v inventáři a je tedy považován za *zanedbatelný* předmět. Následně pak mince do *200 šilinků* zabírají *1 slot*.
 - **Prodej předmětů:** Poklady získané na dobrodružství se prodávají za svou plnou cenu (nepoškozené). Běžné předměty se pak prodávají za polovinu. Poškozené běžné předměty jsou neprodejné.
 - **Nákup předmětů:** Při tvorbě postavy je níže popsaná výbava dostupná za uváděné ceny. Při hře samotné se však dostupnost i cena předmětů může lišit v závislosti na tom, kde se postavy zrovna nachází.
 
@@ -14,12 +14,10 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 
 | Zbroj                                                        |  Cena |
 | ------------------------------------------------------------ | ----: |
-| Přilba (speciální)                                           | 10 ši |
+| Přilba ([speciální](/Zakladni_pravidla/#brneni))             | 10 ši |
 | Štít (+1 brnění)                                             | 15 ši |
 | Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*)     | 25 ši |
 | Plná zbroj (2 brnění, *neskladná*, stěžuje některé aktivity) | 50 ši |
-
-**Přilba:** Chrání před traumaty hlavy. Může být zničena pro jednorázové snížení příchozího poškození o *1k4* nebo pro předejití či částečné předejití některých jizev (např. kompletní ochrana proti jizvě "Nikdy jako dřív" nebo částečná ochrana proti "Odhozen").
 
 ## Zbraně
 
@@ -27,8 +25,8 @@ Zbraně nejsou jen kostka poškození. Je dobré myslet i na to jaké může mí
 
 **Klíčová slova pro vlastnosti zbraní:**
 
-- **Dlouho nabíjecí:** Po každém použití je zbraň třeba přebít. To trvá 2 celá kola. Po prvním kole přebíjení se lze pokusit o z*áchranu HB*I a tím přebíjení zkrátit o 1 kolo.
-- **Křesadlové:** Zbraň je velmi hlučná. Zbraň a její munice je náchylná na žár a vlhkost. Pokud při útoku zbraní padne na kostce poškození 1 nebo 2. Zbraň se zasekne a potřebuje pročistit.
+- **Dlouho nabíjecí:** Po každém použití je zbraň třeba přebít. To trvá 2 celá kola. Po prvním kole přebíjení se lze pokusit o *záchranu HBI* a tím přebíjení zkrátit o 1 kolo.
+- **Křesadlové:** Zbraň je velmi hlučná. Zbraň a její munice je náchylná na žár a vlhkost. Pokud při útoku zbraní padne na kostce poškození *1 nebo 2*. Zbraň se zasekne a potřebuje pročistit.
 - **Neohrabané:** Ve stísněných prostorách je útok zbraní *oslabený*.
 - **Nepřesné:** Zbraň uděluje psané poškození jen na blízké vzdálenosti. Pro ostatní vzdálenosti je útok *oslabený*.
 - **Pomalé:** Nelze se pohnout a zaútočit touhle zbraní v jednom tahu.

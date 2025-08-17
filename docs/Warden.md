@@ -4,13 +4,6 @@
 
 Pokud se chcete dozvědět něco více o roli strážce a jak vést tuhle hru. Čerpejte z původního [Cairn](https://cairnrpg.com/second-edition/wardens-guide/).
 
-Rady na konverze monster z jiných systémů: [https://www.bastionland.com/2020/03/bastionland-non-conversion-guide.html](https://www.bastionland.com/2020/03/bastionland-non-conversion-guide.html)
-
-Další čtení ohledně obtížnosti a nepoužívání výhody a nevýhody na hody: [https://www.bastionland.com/2020/03/difficulty-in-bastionland.html](https://www.bastionland.com/2020/03/difficulty-in-bastionland.html)
-
-Další čtení ohledně bonusů k poškození:
-[https://www.bastionland.com/2022/06/bonuses.html](https://www.bastionland.com/2022/06/bonuses.html)
-
 ## Zásady pro strážce
 
 ### Dostatek informací
@@ -54,3 +47,12 @@ Další čtení ohledně bonusů k poškození:
 - Poklad by měl být cenný, skoro vždycky *neskladný* a v podstatě k ničemu mimo svou peněžitou hodnotu.
 - Magické předměty, na druhou stranu, by měli být vždy užitečné a zajímavé.
 - Kombinace pokladů a magických předmětů, by mělo být dostatečným lákadlem k vydání se do nebezpečných lokalit.
+
+## Další materiály
+
+Rady na konverze monster z jiných systémů: [https://www.bastionland.com/2020/03/bastionland-non-conversion-guide.html](https://www.bastionland.com/2020/03/bastionland-non-conversion-guide.html)
+
+Další čtení ohledně obtížnosti a nepoužívání výhody a nevýhody na hody: [https://www.bastionland.com/2020/03/difficulty-in-bastionland.html](https://www.bastionland.com/2020/03/difficulty-in-bastionland.html)
+
+Další čtení ohledně bonusů k poškození:
+[https://www.bastionland.com/2022/06/bonuses.html](https://www.bastionland.com/2022/06/bonuses.html)

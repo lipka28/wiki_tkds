@@ -4,7 +4,7 @@
 
 ## Magie obecně
 
-Přestože je magie ve Starém světě všudypřítomná, ti kdo ji ovládají jsou vzácní. Tajemství magie zná jen málo kdo a koluje o ní mnoho mylných představ, pomýlených názorů a podivných pověr. Obyčejní lidé vám o magii dokážou navykládat nejrůznější věci, ale jestli jsou pravdivé, to už je věc druhá.
+Přestože je magie ve Starém světě všudypřítomná, ti kdo ji ovládají jsou vzácní. Tajemství magie zná jen málo kdo a koluje o ní mnoho pomýlených představ a podivných pověr. Obyčejní lidé vám o magii dokážou navykládat nejrůznější věci, ale jestli jsou pravdivé, to už je věc druhá.
 
 Čarodějové to vidí tak, že používání magie znamená dávat tvar samotnému Chaosu. Čaroděj využívá svou mysl a tělo k vytvoření mostu mezi hmotným světem a nehmotnou říší Chaosu, čerpaje sílu z magických větrů. Díky tréninku, síle vůle a vrozenému talentu může Čaroděj vyvolat oheň, vytvářet iluze nebo proměnit olovo ve zlato. Zároveň však může přivolat katastrofu nebo přilákat pozornost něčeho zlého. Říká se, že Démoni putují na magických větrech a neustále vyhlížejí ty, kdo zabloudí do jejich světa. Ať už je pravda jakákoli, obecně se má za to, že magie je vrtkavá milenka, s tváří krutosti ale i laskavosti. Všichni, kdo praktikují magii, riskují své životy a duše.
 
@@ -39,15 +39,15 @@ Standardní jazyk užíván lidmi pro zápis a vyvolávání magie, prý vznikl�
 Svitky jsou funkcí velmi podobné magickým grimoárům, až na následující rozdíly:
 
 - Svitky jsou považovány za *zanedbatelný předmět*.
-- Sesílání ze svitku nestojí dovednostní body.
+- Sesílání ze svitku nestojí dovednostní bod (při selhání však může).
 - Po jednom použití jsou zničeny.
 
 ### Tvorba svitků
 
-Ze zaznamenaných kouzel mohou být vyrobeny magické svitky. Výroba svitků na rozdíl od přenosu kouzle nezničí původní záznam kouzla. K vytvoření magického svitku je třeba:
+Ze zaznamenaných kouzel mohou být vyrobeny magické svitky. K vytvoření magického svitku je třeba:
 
 - Zdroj kouzla (Většinou magický grimoár)
-- Být Elf, nebo mít vyvinutý čarodějnický zrak a ovládat jazyk Magick.
+- Mít vyvinutý čarodějnický zrak a ovládat jazyk Magick nebo být Elf.
 - Mít přístup k potřebným nástrojům (většinou psací potřeby).
 - Magický materiál v hodnotě 100 šilinků.
 - Den práce.

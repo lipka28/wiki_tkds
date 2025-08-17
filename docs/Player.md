@@ -5,7 +5,7 @@
 **Svoboda volby**
 
 - Atributy a s nimi spojené záchranné hody nedefinují tvou postavu. Jsou to jen nástroje k vyhodnocování nebezpečných situací. A někdy je lepší se do takových situací prostě nedostat.
-- Nezamýšlej se jen nad tím co by udělala tvá postava, ale také co bys v dané situaci udělal ty.
+- Nezamýšlej se pouze nad tím co by udělala tvá postava, ale také co bys v dané situaci udělal ty.
 - Buď kreativní, využívej intuici, předměty a vztahy s nehráčskými postavami.
 
 **Týmová práce**
@@ -26,7 +26,7 @@
 
 **Opatrnost**
 
-- Boj je volba – a málokdy ta rozumná. Zvaž, jestli je násilí opravdu nejlepší způsob, jak dosáhnout svého cíle.
+- Boj je volba – a bez dostatečné výhod, málokdy ta rozumná. Zvaž, jestli je násilí opravdu nejlepší způsob, jak dosáhnout svého cíle.
 - Ale když už na boj dojde. Snaž se využít každé šance jak otočit boj ve svůj prospěch a neváhej se dát na útěk, když se situace nevyvíjí dobře.
 
 **Plánování**
@@ -38,4 +38,4 @@
 
 - Stanov si cíle a i se skromnými prostředky postupuj vpřed.
 - Neočekávej nic a zasluž si svá vítězství.
-- Udržuj hru v pohybu. Hraní je jediným způsobem jak se dozvědět, co bude dál.
+- Udržuj hru v pohybu. Hraní je jediným způsobem jak se dozvědět, co se stane dál.
