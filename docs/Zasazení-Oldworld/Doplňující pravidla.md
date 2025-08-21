@@ -46,3 +46,18 @@ Překoná-li postava hranici *12-ti bodů nákazy chaosu*. V noci podstoupí mut
 | 1 - 2 | **Negativní mutace:** Permanentní ztráta dovednosti či jiný negativní postih. |
 | 3 - 4 | **Neutrální mutace:** Mutace, která není nutně pozitivní ani negativní. Například: ruka se změní v chapadlo. |
 | 5 - 6 | **Pozitivní mutace:** Permanentní zisk dovednosti či jiný pozitivní bonus. |
+
+## Body osudu
+
+Body osudu jsou speciálním společným zdrojem pro hráče. Bod osudu získá skupina pokaždé, když dosáhne nějakého důležitého milníku. Jako je třeba významný posun v rozřešení znamení či vazby některé z postav. Alternativně může strážce přidělit skupině bod osudu, když mu přijde, že si to zaslouží.
+
+- **Bod do začátku:** Skupina začíná kampaň s *jedním bodem osudu*.
+- **Přenášení bodů:** Všechny získané a nespotřebované body osudu se vždy přenáší do dalšího sezení v rámci jedné kampaně.
+
+### Použití
+
+Body osudu lze použít následujícím způsobem:
+
+- **Úspěch:** Bod osudu lze použít pro automatický úspěch hráče v záchranném hodu.
+- **Maximální poškození:** Hráč může použít bod osudu k udělení maximálního poškození svou zbraní.
+- **Druhý dech:** Hráč si doplní všechny své BO.

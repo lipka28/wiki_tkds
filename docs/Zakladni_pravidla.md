@@ -132,6 +132,9 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 - **Akce:** Za akci lze považovat útok, seslání kouzla, další přesun a nebo jiná smysluplná akce. Pokud je daná akce riskantní, strážce si může vyžádat hod na záchranu relevantní dovednosti nebo hodit na záchranu relevantní dovednosti za ovlivněné stvoření.
 - **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy či drobné interakce s prostředím (např. otevírání a zavírání dveří)
 
+!!! note "Pohyb na čtvercové síti"
+	Je-li potřeba odehrávat konflikt na čtvercové síti. Lze uvažovat, že se stvoření může pohnout o tolik polí za kolo, kolik je jeho hodnota HBI. U stvoření, které lze považovat za "rychlé", jako je třeba kůň. Lze tuto hodnotu zdvojnásobit nebo jinak smysluplně navýšit.
+
 ### Měření vzdáleností
 
 Pro měření vzdáleností v boji se pro zjednodušení používají **abstraktní vzdálenosti** a **zóny**.
