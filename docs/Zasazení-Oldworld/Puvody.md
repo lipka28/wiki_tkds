@@ -65,7 +65,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
 
-**Extra výbava:** Krátký meč (1k6), Jezdecké kopí (1k10, *neskladné*, na zvířeti je jednoruční a s rozjezdem je útok posílen o +1k10), Štít (+1 brnění), Plná zbroj (2 brnění, *neskladná*, stěžuje některé aktivity), Přilba
+**Extra výbava:** Krátký meč (1k6), Jezdecké kopí (1k10, *neskladné*, na zvířeti je jednoruční a s rozjezdem je útok posílen o +1k10), Štít (+1 brnění), Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*), Přilba
 
 **Formující volba:** Jakého sis oblíbil koně?
 
