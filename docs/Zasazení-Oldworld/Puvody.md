@@ -39,7 +39,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Nikdy si nebyl dostatečně odvážný na to, aby si se ponořil do studia magie. Na místo toho si se radši věnoval studiu alchymie u zlatého řádu. Vyznáš se v přírodních vědách a máš rozsáhlý přehled o nerostech, bylinách a jiných materiálech potřebných pro alchymii, a o tom jak je získat.*
 
-**Alchymistický um:** Alchymista disponuje [nevyvinutým čarodějnickým zrakem](/Zasazení-Oldworld/Magie/#carodejnicky-zrak). Navíc když se zúčastní *hlídkové akce zásobování*, mimo standardního bonusu, posílí hod na získané zásoby o *+1k4*. Může také rozhodnout kolik z nalezených zásob jsou opravdu zásoby a kolik z nich je alchymistický materiál. (minimálně 1 maximálně 1/4 z celkového množství).
+**Alchymistický um:** Alchymista disponuje [nevyvinutým čarodějnickým zrakem](/Zasazení-Oldworld/Magie/#carodejnicky-zrak). Navíc když se zúčastní *hlídkové akce zásobování*, mimo standardního bonusu, posílí hod na získané zásoby o *+1k4*. Může také rozhodnout kolik z nalezených zásob jsou opravdu zásoby a kolik z nich je alchymistický materiál. (minimálně 1 maximálně 1/2 z celkového množství).
 
 **Extra výbava:** Nůž (1k6), Kniha na recepty, Cestovní alchymistické nástroje, Tužka (*zanedbatelná*)
 
@@ -63,7 +63,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - *Nikdy nezradit přítele nebo spojence.*
 - *Chovat se čestně a zdvořile.*
 
-**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
+**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k4.
 
 **Extra výbava:** Krátký meč (1k6), Jezdecké kopí (1k10, *neskladné*, na zvířeti je jednoruční a s rozjezdem je útok posílen o +1k10), Štít (+1 brnění), Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*), Přilba
 
@@ -116,7 +116,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Ochránci sklizně, obrana proti škůdcům, zlodějům a šelmám. Pozice velké cti, dokud trvá. Mnozí hraničáři však dlouho nevydrží.*
 
-**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
+**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k4.
 
 **Extra výbava:** Prak (1k4), Sekyrka (1k6), Brigandina (1 brnění, *neskladná*), Pochodeň (3 použití), Dalekohled
 
@@ -150,7 +150,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Jsi mechanicky zdatný jedinec, který vynalézá, navrhuje a buduje všelijaká mechanická zařízení či struktury. Jako jsou mosty, kanály či opevnění. Jsi certifikovaný říšskou školou inženýrství a pocházíš buď z Říše nebo z domova praotce inženýrství Tilie.*
 
-**Inženýrský přístup:** Tvá brašna nářadí funguje jako dostatečná substituce za jiné mechanické nástroje (u kterých to dává smysl) jako jsou čistící sada na křesadlové zbraně či zlodějské náčiní. Navíc pokud máš dostatek času, můžeš rozebrat mechanická zařízení na šrot (*neskladný*), který lze následně použít pro své vynálezy.
+**Inženýrský přístup:** Poradíš si s každým mechanickým zařízením (včetně zámků). Tvá brašna nářadí funguje jako dostatečná substituce za jiné nástroje (u kterých to dává smysl) jako jsou čistící sada na křesadlové zbraně či zlodějské náčiní. Navíc pokud máš dostatek času, můžeš rozebrat mechanická zařízení na šrot (*neskladný*), který lze následně použít pro své vynálezy.
 
 **Extra výbava:** Kladívko (1k6), Kniha na vynálezy, Tužka (*zanedbatelná*), Brašna nářadí, Lucerna, Lampový olej (6 použití), Ochranné brýle (*zanedbatelné*)
 
@@ -191,7 +191,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Tak dlouho jak se po světě budou pohybovat dezertéři, banditi, šílenci a kdo ví jaká další veteš. Lovci odměn budou mít co žrát. Někteří se dokonce specializují jako lovci čarodějnic pro Sigmarův kult. Jsi mistrný stopař a bojovník se znalostmi kriminálního podsvětí.*
 
-**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k6.
+**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k4.
 
 **Extra výbava:** Krátký meč (1k6), Bambitka (1k10, křesadlové, nepřesné, dlouho nabíjecí),  Lehká zbroj (1 brnění, *neskladná*), Síť, Provaz, Klobouk (*zanedbatelný*).
 
@@ -208,7 +208,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Jsi obchodník, levně nakupuješ draze prodáváš. Jednou třeba vyděláš dost na to, aby si ty nemusel být ten, kdo se plahočí přes půl říše za výdělkem.*
 
-**Shánění:** Můžeš jako *volno-časovou aktivitu* shánět dobré nabídky. To ti umožňuje nakupovat a prodávat běžné předměty o 25% výhodněji, než umožňuje daná lokalita (lze aplikovat i na výbavu při tvorbě postavy).
+**Shánění:** Můžeš jako *volno-časovou aktivitu* shánět dobré nabídky. To ti umožňuje nakupovat a prodávat o 10% výhodněji, než umožňuje daná lokalita (lze aplikovat i na výbavu při tvorbě postavy).
 
 **Extra výbava:** extra 3k6 šilinků, Ukrytý nůž (1k6), Vagón (+8 slotů, pomalý, musí být tažený koněm nebo 2-mi mulami), Kůň (+4 sloty, 4 BO)
 
@@ -303,10 +303,10 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Formující volba:** Tvé řemeslo?
 
-- **Kameník:** Jsi odborník na opracovávání kamene. Někteří by tě dokonce nazvali umělcem. Tvá *Řemeslná výroba* poskytuje *slevu 10%* na jakoukoliv výstavbu z kamene (domy, hrady opevnění). Navíc získáváš *Kamenické kladívko* (1k6) a kovové hřeby (6 použití).
+- **Kameník:** Jsi odborník na opracovávání kamene. Někteří by tě dokonce nazvali umělcem. Tvá *Řemeslná výroba* poskytuje *slevu 25%* na jakoukoliv výstavbu z kamene (domy, hrady opevnění). Navíc získáváš *Kamenické kladívko* (1k6) a kovové hřeby (6 použití).
 - **Kovář:** Jsi odborník na opracovávání kovů. Tvá *řemeslná výroba* poskytuje *slevu 25%* na kovové předměty (meče, nože, štíty a podobně). Navíc získáváš *Kovářské kladivo* (1k8, větší) a *Roli plechu*.
 - **Švec:** Jsi odborní na sešívání látek a kůží do všelijakých tvarů. Tvá *řemeslná výroba* poskytuje *slevu 25%* na kožené či látkové předměty (oblečení, lehké zbroje, stany atd.). Navíc získáváš Koženářskou jehlu (1k6) a Jutový motouz (10 metrů).
-- **Tesař:** Jsi odborníkem na práci se dřevem. Tvá *Řemeslná výroba* poskytuje *slevu 10%* na jakoukoliv výstavbu ze dřeva (domy, lodě, vozy). Navíc získáváš *Tesařskou pilku* (1k6) a *Tesařské lepidlo* (3 použití), které přidělá dřevo snad ke všemu.
+- **Tesař:** Jsi odborníkem na práci se dřevem. Tvá *Řemeslná výroba* poskytuje *slevu 25%* na jakoukoliv výstavbu ze dřeva (domy, lodě, vozy). Navíc získáváš *Tesařskou pilku* (1k6) a *Tesařské lepidlo* (3 použití), které přidělá dřevo snad ke všemu.
 
 <img src="/assets/sep_line.png"/>
 
@@ -314,7 +314,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Jsi naprostá spodina společnosti, špinavý pobuda, zloděj a podvodník, který by pro pár šilinků zaprodal svou vlastní mámu. ty to však vidíš jinak. Prostě máš žaludek na práce, kterých se ostatní štítí.*
 
-**Pouliční škola života:** Život na ulici tě naučil, že žádná fyzická překážka není nepřekonatelná. Ať už se jedná o zamčené dveře či vachrlatou zítku, dovedeš si bez problému poradit.
+**Pouliční škola života:** Život na ulici tě naučil, že žádná fyzická překážka není nepřekonatelná. Odemykání zámků a šplhání po všelijakých zítkách, ovládáš přirozeně jako dýchání.
 
 **Extra výbava:** Nůž (1k6), Zlodějské náčiní, Jed na krysy (3 použití, Po konzumaci zabije stvoření o velikost psa do 10-ti minut, člověka do hodiny.)
 
@@ -344,7 +344,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - **Inženýr:** Získáváš navíc původ [Inženýr](/Zasazení-Oldworld/Puvody/#inzenyr) včetně relevantních předmětů a schopností. Tvé výtvory jsou ale trochu více doceňované.
 - **Rolník:** Tvá dlouhá léta ve štolách ti dali schopnost lépe vidět ve tmě. Pokud se nenacházíš v absolutní tmě vidíš 10 metrů kolem sebe, případně o 10 metrů dále než běžně umožňuje tvůj zdroj světla. Navíc získáváš krumpáč (1k8, větší), lucernu, Lampový olej (6 použití), provaz a Ochranné rukavice (*zanedbatelné*)
 - **Řemeslník:** Získáváš navíc původ [Řemeslník](/Zasazení-Oldworld/Puvody/#remeslnik) včetně relevantních předmětů a schopností. Tvé výtvory jsou ale trochu více doceňované.
-- **Zabíječ:** Životní selhání tě dohnalo až k zabíječské přísaze a touha po velkolepé smrti v boji. Získáváš extra 1k6 BO. Používáš jen sekery a vzdal si se jakékoliv zbroje. Získáváš zabíječskou sekeru (1k12, *neskladná*, neohrabaná, pomalá), Zvířecí luj (3 použití, na udržování tvého rezavého pankáče). Utržíš-li v boji zranění a uspěješ v záchranném hodu na vyvarování se kritickému poškození. Můžeš ve svém dalším tahu ignorovat vlastnost "pomalá" u tvé sekery a tvůj útok je buď posílen o +1k12 nebo *plošný*.
+- **Zabíječ:** Životní selhání tě dohnalo až k zabíječské přísaze a touha po velkolepé smrti v boji. Používáš jen sekery a vzdal si se jakékoliv zbroje. Získáváš zabíječskou sekeru (1k12, *neskladná*, neohrabaná, pomalá), Zvířecí luj (3 použití, na udržování tvého rezavého pankáče). Utržíš-li v boji zranění a uspěješ v záchranném hodu na vyvarování se kritickému poškození. Můžeš ve svém dalším tahu ignorovat vlastnost "pomalá" u tvé sekery a tvůj útok je buď posílen o +1k12 nebo *plošný*.
 
 !!! note "Zabíječská přísaha"
 	Jsem trpaslík! Moje čest je mým životem a bez ní nejsem ničím. Stanu se Zabíječem a budu hledat vykoupení v očích svých předků. Stanu se smrtí pro všechny své nepřátele, dokud sám nepojdu tváří v tvář tomu, kdo ukončí můj život a mou hanbu.
@@ -355,7 +355,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Jako válečný veterán máš již za sebou několik bojů a konfliktů, které tě zocelily. Své dny jsi trávil v první linii, což ti dalo cenné zkušenosti v boji a přežití. Také si pocítil říšské politikaření z první ruky. Život ti vzal již spoustu, je na čase aby začal zase něco vracet.*
 
-**Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale tvá SIL s HBI je nižší o 2 jako následek zranění.
+**Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale tvá SIL, HBI a VUL jsou nižší o 1 jako následek zranění.
 
 **Extra výbava:** Záložní krátký meč (1k6), Lehká zbroj (1 brnění, *neskladná*), tetování vyznačující příslušnost k jednotce (*zanedbatlené*)
 
@@ -378,7 +378,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Výchozí dovednosti:** 7 SIL; 8 HBI; 10 VUL;
 
-**Elfí zrak:** Máš rozvinutý čarodějnický zrak a dokážeš vidět a vnímat detaily na velké vzdálenosti. To ti mimo jiné umožňuje být preciznější se svým lukem posilující tvé útoky lukem o +1k6.
+**Elfí zrak:** Máš [rozvinutý čarodějnický zrak](/Zasazení-Oldworld/Magie/#carodejnicky-zrak) a dokážeš vidět a vnímat detaily na velké vzdálenosti. To ti mimo jiné umožňuje být preciznější se svým lukem posilující tvé útoky lukem o +1k6.
 
 **Nenávist k trpaslíkům:** Tvůj druh nenávidí trpaslíky. Ale neboj, je to vzájemné.
 
