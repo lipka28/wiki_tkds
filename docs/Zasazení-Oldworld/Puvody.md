@@ -170,7 +170,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Jako lesní elf jsi mistrným průzkumníkem a máš výjimečný vztah s přírodou. Jsi jejím zapřísáhlým ochráncem stejně tak jako své domoviny v Athel Loren. Pro lesního elfa je však nezvyklé aby opustil svou domovinu ba dokonce členy své tlupy. Něco vážného se muselo stát, aby tě to samotného přivedlo do říše lidí.* Více o lesních elfech se lze dozvědět [zde](/Zasazení-Oldworld/OldWorld/#lesni-elfove).
 
-**Výchozí dovednosti:** 7 SIL; 10 HBI; 8 VUL;
+**Bonus k dovednostem:** +7 SIL; +10 HBI; +8 VUL;
 
 **Elfí zrak:** Máš [rozvinutý čarodějnický zrak](/Zasazení-Oldworld/Magie/#carodejnicky-zrak) a dokážeš vidět a vnímat detaily na velké vzdálenosti. To ti mimo jiné umožňuje být preciznější se svým lukem posilující tvé útoky lukem o +1k6.
 
@@ -278,7 +278,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Nenápadní povaleči, budiž k ničemové a zloději. Tak nějk vidí svět pulčíky, pokud se zrovna netváří, že je nevidí vůbec. Pulčíci si dle tvého však zaslouží lepší zacházení, a ty si se vydal za hranice Mootlandu, aby si jim to dokázal... Nebo jen potrdil jejich doměnky. To se jiště uvidí.* Více o pulčících se dozvíš [zde](/Zasazení-Oldworld/OldWorld/#pulcici).
 
-**Výchozí dovednosti:** 6 SIL; 9 HBI; 7 VUL;
+**Bonus k dovednostem:** +6 SIL; +9 HBI; +7 VUL;
 
 **Malý odboj chaosu:** Tvůj malý vzrůst způsobuje, že tě samotného většina větších nepřátel nepovažuje za hrozbu (dokud se jako hrozba neprojevíš). Navíc jsi imunní vůči *slabému působení chaosu*.
 
@@ -331,7 +331,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Pracovití bručouni menšího vzrůstu, kteří si ale umí vyhodit z kopýtka. Cenění pro svou řemeslnou zručnost, ale obávaní pro svůj vztek. Ukřivdíš-li trpaslíkovi a máš nepřítele na celý život, avšak pomůžeš-li mu. Získáš spolehlivého přítele.* Více o trpaslících se dozvíš [zde](/Zasazení-Oldworld/OldWorld/#trpaslici).
 
-**Výchozí dovednosti:** 10 SIL; 5 HBI; 8 VUL;
+**Bonus k dovednostem:** +10 SIL; +5 HBI; +8 VUL;
 
 **Podivná fyziologie:** Jako trpaslík jsi kompletně imunní vůči působení chaosu a běžná magie má na tebe menší efekt než na ostatní. Navíc nejsi schopen ovládat běžnou magii. Grimoáry a svitky v tvých rukách prostě nefungují. výjimkou jsou magické trpasličí runy a některé typy magických předmětů (např. lektvary).
 
@@ -376,7 +376,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Kdysi vládci světa smrtelníků a ochránci světového pořádku. Dnes už jen hrstka msrtelníků ukrávající ve svém ostrovním králvoství Ulthuan. Mistři mořeplavectví boje a magie, ale dny jejich největší slávy jsou již za nimi. Své království opouští jen kvůli obchodu, nebo sledování vyšších cílů.* Více o Vznešených elfech se dozvíš [zde](/Zasazení-Oldworld/OldWorld/#vzneseni-elfove).
 
-**Výchozí dovednosti:** 7 SIL; 8 HBI; 10 VUL;
+**Bonus k dovednostem:** +7 SIL; +8 HBI; +10 VUL;
 
 **Elfí zrak:** Máš [rozvinutý čarodějnický zrak](/Zasazení-Oldworld/Magie/#carodejnicky-zrak) a dokážeš vidět a vnímat detaily na velké vzdálenosti. To ti mimo jiné umožňuje být preciznější se svým lukem posilující tvé útoky lukem o +1k6.
 

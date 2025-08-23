@@ -4,11 +4,19 @@
 
 Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://docs.google.com/spreadsheets/d/1Sn62Pj5LBoiwqzg830dHE5THVGlDTvaI0glZ8Rxn5Ac/edit?usp=sharing). Jak budeš připraven, následuj tyto kroky.
 
-## 1. Urči svůj původ
+## 1. Naházej co je třeba
+
+**Dovednostní body:** Hoď si *3k6* a každou z těchto kostek si zapiš k jedné ze tvých dovedností v libovolném pořadí.
+
+**Body obrany(BO):** Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ nebezpečně, můžeš si na místo toho hodit *1k6* a zapsat si výsledek.
+
+## 2. Urči svůj původ
 
 **Základní výbava pro všechny postavy:** *3k6* šilinků; Cestovní výbava (obsahuje: spacák, křesadlo, mýdlo a měch na vodu), Běžné oblečení (*zanedbatelné* pokud oblečené) a Zásoby (3 použití). Jak funguje inventář najdeš [zde](/Zakladni_pravidla/#nosnost). 
 
-Vyber si jeden z původů v tabulce níže (nebo si hoď *1k20* pro náhodný původ). Každý původ obsahuje popis, výbavu a jednu volbu, kterou je třeba provést.
+Vyber si jeden z původů v tabulce níže. Každý původ obsahuje popis, výbavu a jednu volbu, kterou je třeba provést.
+
+**Náhodný výběr:** Alternativně si můžeš hodit *1k20* pro náhodný výběr původu. Pokud tak učiníš získáváš navíc do začátku extra [bod osudu](/Zasazení-Oldworld/Doplňující pravidla/#body-osudu) pro svou skupinu.
 
 | 1k20 |                            Původ                             | 1k20 |                            Původ                             |
 | :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: |
@@ -25,15 +33,9 @@ Vyber si jeden z původů v tabulce níže (nebo si hoď *1k20* pro náhodný p�
 
 Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci se strážcem sestavit vlastní původ nebo některý z existujících původů upravit.
 
-## 2. Naházej si dovednostní body
+**Dopočet dovedností:** Pokud je tvá postava člověk, ke každé ze svých dovedností (SIL, HBI, VUL) si přičti *8*. Pokud není člověk, řiď se hodnotami zapsanými ve tvém původu.
 
-Pokud je tvá postava člověk, každá tvá dovednost (SIL, HBI, VUL) začíná s *8 body*. Pokud není člověk, řiď se hodnotami zapsanými ve tvém původu. Hoď si *3k6* a každou z těchto kostek přičti k jedné ze tvých dovedností v libovolném pořadí.
-
-## 3. Urči své body obrany (BO)
-
-Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ nebezpečně, můžeš si na místo toho hodit *1k6* a zapsat si výsledek.
-
-## 4. Dodělej detaily
+## 3. Dodělej detaily
 
 Teď už jen dolaď maličkosti.
 
