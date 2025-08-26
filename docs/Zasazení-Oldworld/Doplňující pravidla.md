@@ -15,7 +15,7 @@ Ve směs existují dva základní stupně síly chaosu jakým mohou postavy být
 **Slabé působení chaosu:** Při úspěšném ověření neobdrží postava *nic* a při neúspěchu *1 bod nákazy chaosu*. Zdrojem slabého působení chaosu může být:
 
 - Spatření démona.
-- Kontakt s opracovaným warpovým kamenem nebo jiným chaotickým artefaktem.
+- Kontakt s opracovaným chaotitem nebo jiným chaotickým artefaktem.
 - Poddání se negativní emoci (vztek, beznaděj a podobně).
 - Prodloužený kontakt s kultisty, mutanty či jinými stvořeními chaosu.
 - Být svědkem zpackaného kouzla.
