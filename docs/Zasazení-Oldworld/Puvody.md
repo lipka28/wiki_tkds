@@ -178,7 +178,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Nenávist k trpaslíkům:** Tvůj druh nenávidí trpaslíky. Ale neboj, je to vzájemné.
 
-**Extra výbava:** Dva zahnuté elfí meče (1k6+1k6, *neskladné*), Elfí luk (1k8, *neskladný*), Lehká zbroj (1 brnění, *neskladná*), Plášť s kapucí (*zanedbatelný*).
+**Extra výbava:** Zahnutý elfí meč (1k8), Elfí luk (1k8, *neskladný*), Lehká zbroj (1 brnění, *neskladná*), Plášť s kapucí (*zanedbatelný*).
 
 **Formující volba:** Co sis odnesl z elfích lesů?
 
@@ -384,12 +384,12 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Nenávist k trpaslíkům:** Tvůj druh nenávidí trpaslíky. Ale neboj, je to vzájemné.
 
-**Extra výbava:** Dlouhý elfí meč (1k8, větší), Elfí zbroj (1 brnění, *neskladná*), Plášť s kapucí (*zanedbatelný*).
+**Extra výbava:** Elfí obouruční meč (1k10, *neskladný*), Elfí zbroj (1 brnění, *neskladná*), Plášť s kapucí (*zanedbatelný*).
 
 **Formující volba:** Co je tvým nepostradatelným společníkem na cestách?
 
-- **Tvá síla:** Do své výbavy navíc získáváš Štít (+1 Brnění) nebo Elfí zahnutý meč (1k6).
-- **Tvá preciznost:** Do své výbavy navíc zíksáváš Elfí luk (1k8, *neskladný*).
+- **Tvá síla:** Tvé počáteční BO je vyšší o *1k4*.
+- **Tvá preciznost:** Do své výbavy navíc získáváš Elfí luk (1k8, *neskladný*).
 - **Tvá mysl:** Umíš ukládat kouzla do paměti stejně jako [Čarodějný učeň](/Zasazení-Oldworld/Puvody/#carodejny-ucen). Vyber si jedno kouzlo z tohoto původu, které máš uložené ve své hlavě.
 - **Tvá připravenost:** Získáváš do své výbavy Elfí lucernu. Funguje jako obyčejná lucerna, její svit však nespotřebovává olej. Její "zapálení" stojí 1 VUL. Pouze elfové vědí jak ji používat. 
 
