@@ -38,7 +38,7 @@ Zbraně nejsou jen kostka poškození. Je dobré myslet i na to jaké může mí
 | ------------------------------------------------------------ | :-------: | ----: |
 | **Neozbrojený útok** - Kopanec, útok pěstí atd.              |    1k4    |     - |
 | **Improvizované** (*neskladné*) - Židle, lopata, vidle atd.  |    1k6    | různá |
-| **Jednoruční zbraně** - Nůž, krátký meč sekyrka, hůl atd.    |    1k6    |  5 ši |
+| **Jednoruční zbraně** - Nůž, krátký meč, sekyrka, hůl atd.   |    1k6    |  5 ši |
 | **Jednoruční zbraně** (větší) - Dlouhý meč, palcát, válečná sekera, kopí atd. |    1k8    | 15 ši |
 | **Obouruční dlouhé zbraně** (*neskladné*, neohrabané) - Halapartny, píky atd. |   1k10    | 20 ši |
 | **Obouruční masivní zbraně** (*neskladné*, neohrabané, pomalé) - Claymore, dvou-břitá sekera, kladivo. |   1k12    | 30 ši |

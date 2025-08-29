@@ -13,7 +13,9 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Modlitby a žádosti o pomoc:** Jakékoliv stvoření, se může pomodlit ke svému bohu a doufat v zázrak. V některých vzácných případech mu bude i vyhověno. U akolyty žádající o zázrak (ve sféře vlivu svého patrona), podpořený patřičnou obětí, je pravděpodobnost vyhovění však podstatně vyšší (Dle uvážení strážce může vyhodnocení začínat jako hod štěstí a dále se rozvíjet dle vztahu mezi akolytou a patronem).
 
-**Extra výbava:** Cestovní hůl (1k6), Kniha modliteb, Symbol patrona (*zanedbatelný*), Kněžská róba (pokud oblečená tak *zanedbatelná*). Kadidlo (3 použití)
+**Extra výbava:** Cestovní hůl (1k6), Kniha modliteb, Symbol patrona (Ve tvých rukách 1x denně *Zahnat*), Kněžská róba (pokud oblečená tak *zanedbatelná*). Kadidlo (3 použití)
+
+**Zahnat:** Vytvoří stříbrný kruh o průměru 10 metrů, který jeden tebou zvolený druh stvoření, nemůže překročit.
 
 !!! note "Projevy zázraků"
     Zázraky nejsou tak spontánní, výbušné a ani tak předvídatelné jako použití magie. V porovnání s magií jsou však bezpečnější. Zázraky jsou převážně nenápadné. Jako: rychleji se hojící zranění, tvá zbraň najednou ubližuje určitým typům nepřátel více nebo třeba tvé cestě lodí přeje vítr.
