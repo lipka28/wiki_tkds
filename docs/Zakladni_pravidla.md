@@ -32,7 +32,7 @@ Stejně jako spousta dalších stolních her. I tato používá sadu zvláštně
 
 **Posílení kostek:** Pokud efekt (většinou útok) je zapsán jako *1k8+1k8*, znamená to, že hráč si na vyhodnocení hodí *2k8*, ale bere jen *nejvyšší výsledek* z těchto dvou kostek. Stejně tak pokud efekt udává *+1k12*. Znamená to, že se k hodu přihodí *1k12* a opět se bere jen ten *nejvyšší hod ze všech hodů*.
 
-**Zaokrouhlování:** Pokud dojde na situaci, kdy je třeba zaokrouhlit nějaké číslo na celé. Vždy se zaokrouhluje v neprospěch hráče.
+**Zaokrouhlování:** Pokud dojde na situaci, kdy je třeba zaokrouhlit nějaké číslo na celé. Vždy se zaokrouhluje dolů.
 
 <img src="/assets/sep_line.png"/>
 
@@ -87,7 +87,7 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 
 - **Inventář:** Je abstraktní pojem pro umístění předmětů postavy. V logice hry postava uchovává své předměty různě na svém těle. První 2 sloty jsou vymezeny pro ruce a ostatní předměty jsou například na opasku, v kapsách, přivázané na zádech či v batohu.
 - **Sloty:** Všechny předměty, pokud není uvedeno jinak, zabírají *1 slot*. Pokud lze předmět považovat za *neskladný* (vyžaduje 2 ruce k manipulaci), zabírá sloty *2*. Některé předměty jsou také označeny jako *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo v inventáři.
-- **Nosnost:** Nosnost hráčské postavy je *12 slotů*. Kdokoliv má všech svých *12 slotů zaplněné*, je zatížený a jeho *BO se sníží na 0*.
+- **Nosnost:** Nosnost hráčské postavy je *12 slotů*. Kdokoliv má všech svých *12 slotů zaplněné*, je zatížený a jeho *BO se sníží na 0* dokud nějaké sloty neuvolní.
 - **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých magických předmětů.
 
 !!! note "NE-Zanedbatelnost magických předmětů"
@@ -102,7 +102,7 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 - **Brnění:** Před odpočítáním poškození z BO cíle. Je tohle poškození sníženo o hodnotu brnění až na potencionální 0.
 - **Štíty:** Poskytují bonus +1 k brnění (Mohou poskytovat i jiné bonusy na základy toho jak je popsáno jejich využití).
 - **Přilbice:** Chrání před traumaty hlavy. Může být zničena pro jednorázové snížení příchozího poškození o *1k4* nebo pro předejití či částečné předejití některých jizev (např. kompletní ochrana proti jizvě "Nikdy jako dřív" nebo částečná ochrana proti "Odhozen").
-- **Maximální brnění:** Postavy a příšery nemohou mít hodnotu brnění nikdy vyšší než *3*.
+- **Maximální brnění:** Hráčské postavy a příšery nemohou mít hodnotu brnění nikdy vyšší než *3*. mohou však být za určitých podmínek nezranitelné.
 
 ### Reakce
 
@@ -133,7 +133,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 - **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy či drobné interakce s prostředím (např. otevírání a zavírání dveří)
 
 !!! note "Pohyb na čtvercové síti"
-	Je-li potřeba odehrávat konflikt na čtvercové síti. Lze uvažovat, že se stvoření může pohnout o tolik polí za kolo, kolik je jeho hodnota HBI. U stvoření, které lze považovat za "rychlé", jako je třeba kůň. Lze tuto hodnotu zdvojnásobit nebo jinak smysluplně navýšit.
+	Je-li potřeba odehrávat konflikt na čtvercové síti. Lze uvažovat, že se stvoření může pohnout o tolik polí za kolo, kolik je jeho hodnota HBI. U stvoření, které lze považovat za "rychlé", jako je třeba kůň. Lze tuto hodnotu zdvojnásobit a opačně pro významně pomalá stvoření.
 
 ### Měření vzdáleností
 
@@ -155,7 +155,7 @@ Zóny jsou abstraktní výřezy bojiště nespecifikované velikosti (Nikdy vša
 ### Útok a poškození
 
 - **Útok:** Útočník uděluje poškození určenou kostkou poškození použité zbraně.
-- **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a musí podstoupit záchranný hod proti *kritickému poškození*.
+- **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a je *poraněn*. Dotyčný musí také podstoupit záchranný hod proti *kritickému poškození*.
 - **Jizva:** Obdrží-li jedinec tolik poškození, že jsou jeho BO sníženy přesně na 0 obdrží [jizvu](/Zakladni_pravidla/#jizvy).
 - **Skupinový útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
 - **Bojové manévry:** V případě speciálních útoků jako je odzbrojení či shození na zem. Strana, která je nejvíce ohrožena následky manévru podstoupí záchranný hod (většinou na HBI).
