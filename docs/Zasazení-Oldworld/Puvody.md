@@ -31,7 +31,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 | Rhya     | Plodnost, život, léto             | Svazek obilí / Luk a Šíp                  | První sklizeň, pšenice, ovoce                       |
 | Shallya  | Milosrdenství a léčení            | Holubice / Srdce s kapkou krve            | Jídlo, léky, mince                                  |
 | Sigmar   | Říše, Reikland, Civilizace        | Válečné kladivo / Dvouocasá kometa        | Kladiva, mince, jídlo                               |
-| Taal     | Divoká příroda, jaro, Talabecland | Parohy / Jelení lebka                     | Ponechaná divoká země, první zabití z lovu, zvířata |
+| Taal     | Divoká příroda, jaro, Talabecland | Parohy / Jelení lebka                     | Nedotčená divoká země, první zabití z lovu, zvířata |
 | Ulric    | Válka, zima, vlci, Middenland     | Bílý vlk                                  | Zbraně, trofeje, pivo, vlčí nory                    |
 | Verena   | Učení, spravedlnost, moudrost     | Sova / Váhy (někdy vyobrazované jako meč) | Knihy, vědomosti, spravedlivé činy                  |
 
@@ -81,7 +81,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Tvůj mistr ti předal snad už úplně všechno. Pomohl ti ovládnout tvůj čarodějný zrak, naučil tě jazyk Magick a ukázal ti divy magie. Teď už je jen na tobě, aby sis našel své místo na světě a dodal význam svému jménu.*
 
-**Student magie:** Jako student magie máš [rozvinutý čarodějnický zrak](/Zasazení-Oldworld/Magie/#carodejnicky-zrak) a umíš si do své mysli ukládat kouzla (permanentně snižuje VUL o 1). Takto uložená kouzla nevyžadují čtení z magického grimoáru pro seslání, a také můžeš na základě těchto kouzel vytvářet svitky nebo další psané kopie bez ztráty původního kouzla. Kouzla však již nelze z paměti "odmazat" nebo "přepsat". Pokud si přeješ, kouzlo získané z formující volby můžeš již mít takto uloženo.
+**Student magie:** Jako student magie máš [rozvinutý čarodějnický zrak](/Zasazení-Oldworld/Magie/#carodejnicky-zrak) a umíš si do své mysli ukládat kouzla (permanentně snižuje VUL o 1). Takto uložená kouzla nevyžadují čtení z magického grimoáru pro seslání, a také můžeš na základě těchto kouzel vytvářet svitky. Kouzla však již nelze z paměti "odmazat" nebo "přepsat". Pokud si přeješ, kouzlo získané z formující volby můžeš již mít takto uloženo.
 
 **Extra výbava:**  Dřevěná tyč (1k6), Psací potřeby a pergamen, Svíčky (6 použití), Magický grimoár (kouzlo dle formující volby)
 
