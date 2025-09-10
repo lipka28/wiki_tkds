@@ -6,7 +6,7 @@
 
 Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významné lokace se řídí, jako všechno ostatní ve hře, [základní herní smyčkou](/Zakladni_pravidla/#hlavni-herni-smycka).
 
-- **Průzkumné směny:** Průzkumná směna je nespecifikovaný úsek času. Během kterého se každá hráčská postava může volně pohybovat po zkoumané oblasti (většinou místnost nebo na dosah pochodně) a provést 1 průzkumnou akci. 
+- **Průzkumné směny:** Průzkumná směna je úsek přibližně 10-ti minut. Během kterého se každá hráčská postava může volně pohybovat po zkoumané oblasti (většinou místnost nebo na dosah pochodně) a provést 1 průzkumnou akci. 
 - **Průzkumná akce:** Akce trvající 1 průzkumnou směnu.
 - **Opatrný pohyb:** Při průzkumu nebezpečných oblastí se předpokládá, že hráčské postavy postupují pomalu a opatrně. Jakékoliv nebezpečí či smrtelné nástrahy odhalí v čas. Čím větší nebezpečí tím více zřejmé by mělo být opatrně postupujícím postavám. To však nemusí být pravda pokud třeba před něčím utíkají. 
 - **Světlo:** Pochodně a lucerny svítí přibližně do okolí *10 metrů* a svítí tak dlouho dokud nejsou uhašeny prostředím nebo nositelem. *Pochodeň* může být znovu zapálena až 3x než je zničena a *lucerna* může být zapálena neomezeně pokud je k dispozici nějaký *lampový olej*.

@@ -127,7 +127,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - **Bič z Krvemějky:** (1k8, větší) Při způsobení *kritického poškození* se napije soupeřovi krve. Další útok tím získává vlastnost *plošné*.
 - **Rachotidlo:** Krabička s kličkou. Její otáčení působí ohromný rámus, který vyděsí většinu neinteligentních stvoření.
 - **Kotvící kámen:** Kámen, který při dopadu na zem magicky sváže nejbližší stvoření (které není větší jak vlk).
-- **Sluneční tyč:** Tyč, která při aktivaci poskytuje spoustu slunečního světla a tepla podobu až 1 hodiny. (1 použití, *Dobíjení:* Nechej na silném slunečním světle celý den).
+- **Sluneční tyč:** Tyč, která při aktivaci poskytuje spoustu slunečního světla a tepla podobu až 1 hodiny (6 směn). (1 použití, *Dobíjení:* Nechej na silném slunečním světle celý den).
 
 <img src="/assets/sep_line.png"/>
 
@@ -200,7 +200,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 **Formující volba:** Jaký nástroj ti vždy při lovu zaručeně pomůže?
 
 - **Stříbrný nůž:** (1k6) Traduje se, že je výjimečně účinný na vlkodlaky a jinou podobnou havěť. 
-- **Sluneční tyč:** Tyč, která při aktivaci poskytuje spoustu slunečního světla a tepla podobu až 1 hodiny. (1 použití, *Dobíjení:* Nechej na silném slunečním světle celý den).
+- **Sluneční tyč:** Tyč, která při aktivaci poskytuje spoustu slunečního světla a tepla podobu až 1 hodiny (6 směn). (1 použití, *Dobíjení:* Nechej na silném slunečním světle celý den).
 - **Magický kompas:** Ukazuje k nejsilnějším koncentraci magických větrů poblíž.
 - **Lokalizační kyvadélko:** Je-li potřísněnou krví cíle a rozhoupáno nad mapou. Ukáže pozici cíle na dané mapě.
 
