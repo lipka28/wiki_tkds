@@ -16,7 +16,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 | ------------------------------------------------------------ | ----: |
 | Přilba ([speciální](/Zakladni_pravidla/#brneni))             | 10 ši |
 | Štít (+1 brnění)                                             | 15 ši |
-| Lehká zbroj (1 brnění, pokud neoblečena tak *neskladná*)     | 25 ši |
+| Lehká zbroj (1 brnění, *neskladná*)                          | 25 ši |
 | Plná zbroj (2 brnění, *neskladná*, stěžuje některé aktivity) | 50 ši |
 
 ## Zbraně
