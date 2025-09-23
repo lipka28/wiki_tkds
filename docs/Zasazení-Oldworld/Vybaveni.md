@@ -50,7 +50,7 @@ Zbraně nejsou jen kostka poškození. Je dobré myslet i na to jaké může mí
 | **Improvizované na dálku** (může být *neskladné*) - Hozený nůž, hozená židle, prak atd. |    1k4    |     - |
 | **Běžné zbraně na dálku** (*neskladné*) - Krátký nebo lovecký luk |    1k6    | 15 ši |
 | **Válečné zbraně na dálku** (*neskladné*, pomalé) - Dalekonosné a válečné luky, kuše atd. |    1k8    | 25 ši |
-| **Ruční křesadlové zbraně** (křesadlové, lehké, nepřesné, dlouho nabíjecí) - bambitka atd. |   1k10    | 35 ši |
+| **Ruční křesadlové zbraně** (křesadlové, nepřesné, dlouho nabíjecí) - bambitka atd. |   1k10    | 35 ši |
 | **Velké křesadlové zbraně** (*neskladné*, pomalé, křesadlové, dlouho nabíjecí) - Mušketa atd. |   1k12    | 50 ši |
 
 ## Výbava dobrodruha
