@@ -229,7 +229,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Zvučné jméno:** Jsi příslušníkem nejvýznamnějšího rodu v okolí. Váha tvého rodového jména ti otevírá spoustu zavřených dveří.
 
-**Extra výbava:** extra 3k6 šilinků, křesadlová pistole (1k10, křesadlová, lehká, nepřesná, dlouho nabíjecí), Společenské oblečení (*zanedbatelné* pokud oblečené, nahrazuje běžné oblečení ze základní výbavy), Pečetící prsten (*zanedbatelný*), Sluha (2 BO)
+**Extra výbava:** extra 3k6 šilinků, křesadlová pistole (1k10, křesadlová, nepřesná, dlouho nabíjecí), Společenské oblečení (*zanedbatelné* pokud oblečené, nahrazuje běžné oblečení ze základní výbavy), Pečetící prsten (*zanedbatelný*), Sluha (2 BO)
 
 **Formující volba:** Co způsobilo tvé rodinné neshody?
 

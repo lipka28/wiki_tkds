@@ -268,6 +268,23 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 <img src="/assets/sep_line.png"/>
 
+## Odkopnutý šlechtic
+
+*Jsi vzdělaný aristokrat pocházející z významného rodu. Navzdory vznešenému původu, tvůj život však nebyl žádné peříčko. Neustálé intrikaření a politikaření utvořilo propast mezi tebou a tvou rodinou. Až ti přijde, že na světě nemáš blízkého člověka.*
+
+**Významné jméno:** Jsi příslušníkem nejvýznamnějšího rodu v okolí. Váha tvého rodového jména ti otevírá spoustu možností.
+
+**Extra výbava:** extra 3k6 šilinků, křesadlová pistole (1k10, křesadlová, nepřesná, dlouho nabíjecí), Společenské oblečení (*zanedbatelné* pokud oblečené, nahrazuje běžné oblečení ze základní výbavy), Pečetící prsten (*zanedbatelný*), Sluha (2 BO)
+
+**Formující volba:** Co způsobilo tvé rodinné neshody?
+
+- **Nevhodný následovník:** Byl jsi v pořadí stát se dalším Kurfiřtou své provincie. Politické intrikaření, tě však zanechalo s obtížnou volbou. Buď smrt nebo si změnit jméno a být odklizen na krásné malé letní panství. Volba byla jasná. Tvé nové jméno je v podstatě bezvýznamné (neplatí zvučné jméno). Získáváš však blízké panství s pokladnicí obsahující 1000 šilinků. Tohle panství zvládá samostatně hospodařit a veškeré náklady jsou pokryty jeho výdělky. ==todo: upravit nebo změnit==
+- **Touha po dobrodružství:** Tvá touha zažít něco víc než jen neustále večírky a politikaření byla nejednou příčinnou domácích hádek. Tak si se jeden den prostě sebral a vydal do světa. Neznaje jestli se někdy ještě vrátíš. Získáváš *provaz* (5 metrů) a *kompas*. 
+- **Mutace:** Máš zjizvenou tvář a z halvy ti vyrůstá paroh (1k6, *zandebatlný*). Jsi mutant. Tvá rodina se za tebe stydí a za tvůj zrůdný vizuál tě poslala do vyhnanství. ==todo: upravit nebo změnit==
+- **Krádež:** Ukradl si cenné rodinné děditství a zmizel neznámo kam. Tvé rodině teď záleží především na tom, aby se jim artefakt navrátil. Získáváš *rodinnou cetku*, nemáš však ponětí k čemu slouží.
+
+<img src="/assets/sep_line.png"/>
+
 ## Písař
 
 *Opisuješ starobylé texty a objasňuješ rukopisy, zaznamenáváš hlasy  vzdělaných, velkých a mocných. Věříš, že jednou dokážeš, že pero je  opravdu mocnější než meč.*
@@ -301,42 +318,6 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - **Píšťalka smrtidechu** (1 použití, *Dobíjení:* Zachyť do ní poslední dech umírajícího válečníka. Tento akt vystaví uživatele *významnému působení chaosu*). Píšťalka vydá děsivý jekot,  který vyděsí všechny kdo jej slyší (zachraň VUL nebo uteč).
 - **Všeklíč:** (1 použití, *Dobíjení:* Na noc zabal s 100 šilinky) Klíč, který funguje na každý běžný zámek.
 - **Převíjecí káča:** (1 použití) Když roztočena, vrátí čas o 30 vteřin. Všichni si pamatují co se stalo.
-
-<img src="/assets/sep_line.png"/>
-
-## Prokletý (==todo: upravit==)
-
-*Kdysi jsi býval poměrně úspěšný dobrodruh, tvá ctižádostivost tě však nakonec doběhla. Jsi jen zlomkem své předchozí slávy, sžírán prokletím, které ti komplikuje život.*
-
-**Počáteční výbava:** 
-
-- Pochodeň (3 použití)
-- Provaz (5 metrů)
-- Bambitka (1k10 poškození, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo)
-- Čistící sada na křesadlové zbraně (6 použití)
-- Kožené rukavice (*zanedbatelné*)
-
-**Prokletí:**
-
-| 1k6  | Jaké prokletí tě postihlo?                                   |
-| :--: | ------------------------------------------------------------ |
-|  1   | Jsi **Nižší forma upíra**. Trpíš běžnými slabostmi upírů jako jsou tekoucí voda, česnek či sluneční svit (Způsobuje 0 BO a *vyčerpání*). Běžné jídlo a pití tě nezasytí. Můžeš zaútočit kousnutím (1k8). Pokud tímto útokem způsobíš zranění teplokrevnému stvoření, doplníš si 1k6 BO (Nemůžeš přesáhnout své maximum). Každý den musíš vysát aspoň 1 středně velké stvoření, jinak jsi *vyčerpaný*. |
-|  2   | Jsi prokletý vlkodlak. Pokud se tě dotkne svit měsíce musíš uspět v záchraně VUL jinak ztratíš nad sebou kontrolu a proměníš se ve **Vlkodlaka** (8 BO, 15 SIL, 14 HBI, drápy (1k6+1k6) nebo kousnutí (1k8)). VUL zůstává tvá. Proměníš se zpět s koncem noci nebo pokud jsi poražen. |
-|  3   | Máš smůlu. Pokud dojde na *hod kostkou osudu*, který se týká tebe nebo skupiny, které jsi členem. Výsledek je vždy brán jako o 1 horší. Už mnohokrát si uvažoval, že ti to za to nestojí. Získáváš navíc **Lahvičku jedu** (1 použití). Po konzumaci stvoření o velikosti člověka do hodiny zemře. |
-|  4   | Ztráta řeči. Nejsi schopen ze sebe vydat ani hlásku. Proto preferuješ jiné způsoby komunikace. Získáváš navíc **Psací potřeby a pergamen** (6 použití) |
-|  5   | Postrach zvěře. Zvířata menší jak ty, se tě bojí. Zvířata stejně velká jako ty nebo větší tě nenávidí. |
-|  6   | Lepivý sliz. Jsi neustále oslizlý a lepivý. Za den vyprodukuješ až 2 použití **Lepivého slizu**. Funguje jako vysoce kvalitní lepidlo, které dokáže slepit v podstatě cokoliv. |
-
-Zdroj prokletí:
-
-| 1k6  | Co bylo zdrojem tvého prokletí                               |
-| :--: | ------------------------------------------------------------ |
-|  1   | **Démon** - Vyhandloval si s démonem **nesmrtelnost**, ale za jakou cenu? Nestárneš ale stále se můžeš zranit a cítíš bolest. Nikdy však nezemřeš pokud po tobě zbude aspoň hlava (nemusí být v dokonalém stavu). Léčíš si 1 SIL denně. Chybějící části těla ti však nedorůstají. |
-|  2   | **Prokleté chrániče zápěstí** (+1 Brnění, *neskladné* pokud neoblečeny) - Tyto chrániče jsou k tobě vázány tvou kletbou a nelze je sundat. |
-|  3   | **Peníze** - Získal jsi velký pirátský poklad (1000 šilinků). Když jsi většinu rozfofroval. Došlo ti, že jsi prokletý. Zbývá ti ještě **200 prokletých šilinků**. |
-|  4   | **Grimoár rozkaž!** (*Osobnost:* S každým použitím je tenčí a tenčí až jednou prostě zmizí (50 použití)) - Cíl uposlechne jeden příkaz ne delší jak 3 slova, který mu neublíží. <br /> <br />Tento grimoár je zdrojem tvého prokletí. Ale kdo ví co by se stalo, kdyby si o něj přišel? |
-|  5   | **Jiný prokletý** - Nakazil tě jiný prokletý. Tvé prokletí je infekční. |
-|  6   | **Významné společenství** - Přidal si se k jednomu tajnému elitnímu společenství. Tvé prokletí bylo podmínkou pro vstup. **Získáváš Pečetící prsten spolku** (*zanedbatelný*) |
 
 <img src="/assets/sep_line.png"/>
 
