@@ -251,9 +251,28 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 <img src="/assets/sep_line.png"/>
 
+## Námořník
+
+*Větrem ošlehaný tulák oceánů, doručovatel zpráv a přepravce zboží. Pozice velké svobody, která svádí k divokým dobrodružstvím.*
+
+**Výborný plavec:** Jsi výborný plavec a dokážeš zadržet dech až pětkrát tak dlouho jako běžný člověk. 
+
+**Extra výbava:** Šavle (1k6), Síť, Lněný provaz (5 metrů), balíček karet (*zanedbatelný*)
+
+**Formující volba:** Jakou zvláštnost sis přivezl ze svých plaveb?
+
+-   **Papoušek:** Barevný papoušek z ostrovů svobody (2 BO, 5 SIL, 6 VUL, neútočí), Který dokáže zjednodušeně mluvit.
+-   **Hák:** Přišel si o dlaň a místo ní sis nechal přidělat hák (1k6), který je na lodi obzvlášť užitečný.
+-   **Trojzubec moří:** (1k8, větší) Ukraden mořské panně s rudými vlasy. Kdokoliv jej drží, může komunikovat s rybami.  
+-   **Zázračná mast** (2 použití): Od nějaké severské báby. Zacelí, kde jakou ránu. Dokonce i během několika dní doroste ztracenou končetinu.
+-   **Xianské hedvábí:** Role hedvábí (*neskladné*) z dalekého východu. Má obrovskou cenu (200 šilinků).
+-   **Převíjecí káča** (1 použití): Od podivína z Paranthi. Když roztočena, vrátí čas o 30 vteřin. Všichni si pamatují co se stalo.
+
+<img src="/assets/sep_line.png"/>
+
 ## Obchodník
 
-*Jsi obchodník, levně nakupuješ draze prodáváš. Jednou třeba vyděláš dost na to, aby si ty nemusel být ten, kdo se plahočí přes půl říše za výdělkem.*
+*Jsi obchodník, levně nakupuješ draze prodáváš. Jednou třeba vyděláš dost na to, aby si ty nemusel být ten, kdo se plahočí přes půl světa za výdělkem.*
 
 **Shánění:** Můžeš jako *volno-časovou aktivitu* shánět dobré nabídky. To ti umožňuje nakupovat a prodávat o 10% výhodněji, než umožňuje daná lokalita (lze aplikovat i na výbavu při tvorbě postavy).
 
@@ -268,30 +287,13 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 <img src="/assets/sep_line.png"/>
 
-## Odkopnutý šlechtic
-
-*Jsi vzdělaný aristokrat pocházející z významného rodu. Navzdory vznešenému původu, tvůj život však nebyl žádné peříčko. Neustálé intrikaření a politikaření utvořilo propast mezi tebou a tvou rodinou. Až ti přijde, že na světě nemáš blízkého člověka.*
-
-**Významné jméno:** Jsi příslušníkem nejvýznamnějšího rodu v okolí. Váha tvého rodového jména ti otevírá spoustu možností.
-
-**Extra výbava:** extra 3k6 šilinků, křesadlová pistole (1k10, křesadlová, nepřesná, dlouho nabíjecí), Společenské oblečení (*zanedbatelné* pokud oblečené, nahrazuje běžné oblečení ze základní výbavy), Pečetící prsten (*zanedbatelný*), Sluha (2 BO)
-
-**Formující volba:** Co způsobilo tvé rodinné neshody?
-
-- **Nevhodný následovník:** Byl jsi v pořadí stát se dalším Kurfiřtou své provincie. Politické intrikaření, tě však zanechalo s obtížnou volbou. Buď smrt nebo si změnit jméno a být odklizen na krásné malé letní panství. Volba byla jasná. Tvé nové jméno je v podstatě bezvýznamné (neplatí zvučné jméno). Získáváš však blízké panství s pokladnicí obsahující 1000 šilinků. Tohle panství zvládá samostatně hospodařit a veškeré náklady jsou pokryty jeho výdělky. ==todo: upravit nebo změnit==
-- **Touha po dobrodružství:** Tvá touha zažít něco víc než jen neustále večírky a politikaření byla nejednou příčinnou domácích hádek. Tak si se jeden den prostě sebral a vydal do světa. Neznaje jestli se někdy ještě vrátíš. Získáváš *provaz* (5 metrů) a *kompas*. 
-- **Mutace:** Máš zjizvenou tvář a z halvy ti vyrůstá paroh (1k6, *zandebatlný*). Jsi mutant. Tvá rodina se za tebe stydí a za tvůj zrůdný vizuál tě poslala do vyhnanství. ==todo: upravit nebo změnit==
-- **Krádež:** Ukradl si cenné rodinné děditství a zmizel neznámo kam. Tvé rodině teď záleží především na tom, aby se jim artefakt navrátil. Získáváš *rodinnou cetku*, nemáš však ponětí k čemu slouží.
-
-<img src="/assets/sep_line.png"/>
-
 ## Písař
 
 *Opisuješ starobylé texty a objasňuješ rukopisy, zaznamenáváš hlasy  vzdělaných, velkých a mocných. Věříš, že jednou dokážeš, že pero je  opravdu mocnější než meč.*
 
 **Lingvista:** Mimo svůj rodilý jazyk ovládáš také 3 jazyky dle vlastního výběru (lze vybrat až při setkání s jazykem) navíc kdykoliv se setkáš s textem, kterému nerozumíš. Jsi schopen vydedukovat aspoň jeho záměr (např. varování, modlitba, instrukce atd..).
 
-**Extra výbava:** Šídlo (1k6), Rozepsaná kniha, Kniha (dle formující volby), Psací potřeby a pergamen, Svíčky (6 použití), Říšský certifikát písaře (*zanedbatelný*), Svitek magického oka (*zanedbatelný*, Můžeš vidět skrz magické vznášející se oko, které se vznáší a pohybuje na tvůj příkaz.)
+**Extra výbava:** Šídlo (1k6), Rozepsaná kniha, Kniha (dle formující volby), Psací potřeby a pergamen, Svíčky (6 použití), Svitek magického oka (*zanedbatelný*, Můžeš vidět skrz magické vznášející se oko, které se vznáší a pohybuje na tvůj příkaz.)
 
 **Formující volba:** Jaký spis sis přivlastnil, jelikož by se neměl dostat do rukou veřejnosti?
 
@@ -372,7 +374,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 ## Válečný veterán
 
-*Jako válečný veterán máš již za sebou několik bojů a konfliktů, které tě zocelily. Své dny jsi trávil v první linii, což ti dalo cenné zkušenosti v boji a přežití. Také si pocítil říšské politikaření z první ruky. Život ti vzal již spoustu, je na čase aby začal zase něco vracet.*
+*Jako válečný veterán máš již za sebou několik bojů a konfliktů, které tě zocelily. Své dny jsi trávil v první linii, což ti dalo cenné zkušenosti v boji a přežití. Život ti vzal již spoustu, je na čase aby začal zase něco vracet.*
 
 **Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale jedna z tvých dovedností je nižší o 2.
 

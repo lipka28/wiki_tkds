@@ -6,7 +6,7 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Naházej co je třeba
 
-**Dovednostní body:** Hoď si *3k6* a každou z těchto kostek si zapiš k jedné ze tvých dovedností v libovolném pořadí.
+**Dovednostní body:** Každá z tvých dovedností (SIL / HBI /VUL) začíná na hodnotě *8*. Hoď si *3k6* a každou z těchto kostek si přičti k jedné z těchto dovedností.
 
 **Body obrany(BO):** Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ nebezpečně, můžeš si na místo toho hodit *1k6* a zapsat si výsledek.
 
@@ -18,29 +18,27 @@ Vyber si jeden z původů v tabulce níže. Každý původ obsahuje popis, výba
 
 **Náhodný výběr:** Alternativně si můžeš hodit *1k20* pro náhodný výběr původu.
 
-| 1k20 |                        Původ                        | 1k20 |                            Původ                             |
-| :--: | :-------------------------------------------------: | :--: | :----------------------------------------------------------: |
-|  1   |                       Akolyta                       |  11  |                              --                              |
-|  2   | [Alchymista](/Zasazení-Oldworld/Puvody/#alchymista) |  12  |                              --                              |
-|  3   |                         --                          |  13  |          [Písař](/Zasazení-Oldworld/Puvody/#pisar)           |
-|  4   |                         --                          |  14  | [Potulný umělec](/Zasazení-Oldworld/Puvody/#potulny-umelec)  |
-|  5   |     [Felčar](/Zasazení-Oldworld/Puvody/#felcar)     |  15  |                              --                              |
-|  6   |   [Hraničář](/Zasazení-Oldworld/Puvody/#hranicar)   |  16  |      [Řemeslník](/Zasazení-Oldworld/Puvody/#remeslnik)       |
-|  7   |    [Hrobník](/Zasazení-Oldworld/Puvody/#hrobnik)    |  17  |        [Spodina](/Zasazení-Oldworld/Puvody/#spodina)         |
-|  8   |    [Inženýr](/Zasazení-Oldworld/Puvody/#inzenyr)    |  18  |                              --                              |
-|  9   |                         --                          |  19  | [Válečný veterán](/Zasazení-Oldworld/Puvody/#valecny-veteran) |
-|  10  |                         --                          |  20  |                              --                              |
+| 1k20 |                        Původ                         | 1k20 |                            Původ                             |
+| :--: | :--------------------------------------------------: | :--: | :----------------------------------------------------------: |
+|  1   |      [Akolyta](/Zasazení-Aldir/Puvody/#akolyta)      |  11  | [Lamačský inkvizitor](/Zasazení-Aldir/Puvody/#lamacsky-inkvizitor) |
+|  2   |   [Alchymista](/Zasazení-Aldir/Puvody/#alchymista)   |  12  |            [Lovec](/Zasazení-Aldir/Puvody/#lovec)            |
+|  3   |    [Arkanista](/Zasazení-Aldir/Puvody/#arkanista)    |  13  |        [Lukodivec](/Zasazení-Aldir/Puvody/#lukodivec)        |
+|  4   |       [Divoch](/Zasazení-Aldir/Puvody/#divoch)       |  14  |         [Námořník](/Zasazení-Aldir/Puvody/#namornik)         |
+|  5   |    [Dítě lesa](/Zasazení-Aldir/Puvody/#dite-lesa)    |  15  |        [Obchodník](/Zasazení-Aldir/Puvody/#obchodnik)        |
+|  6   |       [Felcar](/Zasazení-Aldir/Puvody/#felcar)       |  16  |            [Písař](/Zasazení-Aldir/Puvody/#pisar)            |
+|  7   |     [Hraničář](/Zasazení-Aldir/Puvody/#hranicar)     |  17  |  [Potulný kejklíř](/Zasazení-Aldir/Puvody/#potulny-kejklir)  |
+|  8   |      [Hrobník](/Zasazení-Aldir/Puvody/#hrobnik)      |  18  |        [Řemeslník](/Zasazení-Aldir/Puvody/#remeslnik)        |
+|  9   |      [Inženýr](/Zasazení-Aldir/Puvody/#inzenyr)      |  19  |       [Zlodějíček](/Zasazení-Aldir/Puvody/#zlodejicek)       |
+|  10  | [Krev prvních](/Zasazení-Aldir/Puvody/#krev-prvnich) |  20  |  [Válečný veterán](/Zasazení-Aldir/Puvody/#valecny-veteran)  |
 
 Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci se strážcem sestavit vlastní původ nebo některý z existujících původů upravit.
-
-**Dopočet dovedností:** Pokud je tvá postava člověk, ke každé ze svých dovedností (SIL, HBI, VUL) si přičti *8*. Pokud není člověk, řiď se hodnotami zapsanými ve tvém původu.
 
 ## 3. Dodělej detaily
 
 Teď už jen dolaď maličkosti.
 
-- **Jméno:** Vymysli si jméno (inspirace dle rasy/národnosti [zde](https://drive.google.com/file/d/1ZVLvD4rrqeqg9l1_8N8X7xNyFE0sKpai/view?usp=sharing))
-- **Věk:** Stanov svůj věk nebo si hoď *15+2K20* (U trpaslíků může výsledek vynásobit až *x10* a u elfů až *x100*).
+- **Jméno:** Vymysli si jméno.
+- **Věk:** Stanov svůj věk nebo si hoď *15+2K20*.
 - **Vizuální a povahové rysy:** Stanov klíčové vizuální a povahové rysy své postavy. Mohou ti pomoci tabulky níže (není třeba používat všechny)
 - **Vazby:** Pokud ti strážce dal k dispozici tabulku *Vazeb*, hoď si nad ní.
 - **Znamení:** Pokud je tvá postava nejmladší ve skupině a strážce ti dal k dispozici tabulku *Znamení*, hoď si nad ní a o výsledek se poděl se skupinou.
