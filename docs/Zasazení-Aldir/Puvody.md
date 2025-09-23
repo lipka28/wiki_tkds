@@ -17,7 +17,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Formující volba:** Jakému bohu sloužíš?
 
-| **Bůh**                | **Sféry** vlivu                   | **Symbol**                                                   | **Vhodné oběti**                         |
+| **Patron**             | **Sféry** vlivu                   | **Symbol**                                                   | **Vhodné oběti**                         |
 | ---------------------- | --------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
 | Alamar (Ochránce)      | Slunce, Civilizace a Spravedlnost | Zlomený meč se záštitou ve tvaru slunce                      | Mince, sliby věrnosti, spravedlivé činy  |
 | Juna (Léčitelka)       | Hadi, Léčení a Nemoci             | Stříbrný Uroboros                                            | Jídlo, léky, mince                       |
@@ -213,45 +213,41 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 <img src="/assets/sep_line.png"/>
 
-## Lovec (==todo: upravit mybe?==)
+## Lovec
 
 *Jdi přízrak divočiny, prchavý stín, který se nepozorovaně plíží ke své kořisti. Každý úlovek je zkouškou lsti a odhodlání. Souboj mezi životem a smrtí, který víš že jednou prohraješ.*
 
 **Zkušený lovec:** Když se zúčastníš *hlídkové akce zásobování*. Mimo standardního bonusu, posílíš hod na získané zásoby o *+1k6*.
 
-**Extra výbava:** sad
+**Extra výbava:** Mačeta (1k6), Kožešinové brnění (1 Brnění, *neskladné*), Pochodeň (3 použití), Plachta (ukryje jednoho člověka), Past na medvědy (Způsobuje ztrátu 1k6 SIL)
 
-**Formující volba:** asd
+**Formující volba:** Co byl tvůj poslední lov?
 
-**Počáteční výbava:**
+-   **Obří masožravá světluška:** Lákala nevinné pocestné svým světlem do záhuby. Jako náhradu za ruku, kterou ti ukousla, získáváš *Alchymistickou ruku* (1k8, *zanedbatelná* pokud oblečena, jinak *neskladná*). Tato ruka je odolná proti ohni a jedům ale potřebuje každodenní mazání jinak bude hlasitě vrzat a způsobovat ti *vyčerpání*. Na tuto údržbu navíc získáváš *Lampový olej* (6 použití).
+-   **Ledová kopřiva:** Chytala a vysávala krev ze zvířat na blízkém statku. Odměnu za lov si však nedostal. Jelikož tvé řešení za pomocí houby, která kopřivu vymýtí. Zabilo polovinu zvířat. Získáváš *Bobuli mrazu* (1 použití). Zmrazí libovolnou vodní plochu o rozsahu až 10 metrů. Nejíst!!!
+-   **Stříbrná čupakabra:** Která zabila někoho tobě blízkého. Nosíš teď *Provázek se zubem čupakabry* (*zanedbatelný*) jako varování pro ostatní čupakabry. Zub lehce vibruje, když tě někdo pronásleduje.
+-   **Zákeřný lesní duch:** Který otrávil malou usedlost. Získáváš *Měch otrávené vody* (3 použití, konzumace způsobuje ztrátu 1k6 SIL a *vyčerpání* dokud není poskytnuta adekvátní pomoc) a 10 šilinků.
+-   **Zbloudilá duše vlka:** (5 BO, 11 SIL, 13 HBI, 8 VUL, kousnutí 1k6), která děsila pocestné. Slitoval jsi se nad tímto hladovějícím stvořením a pomohl mu. On ti je na oplátku až na do smrti věrný. Má černé (hmotné) chlupaté tělo a na místo hlavy vlčí lebku. Umí skvěle hrabat.
+-   **Azurové pěnice:** Jejich pohlavní žlázy, pokud správně extrahovány, se prodávají za dobré peníze. Byl si úspěšný, ale ponechal si její hnízdo na pospas vlkům. Získáváš **vykosťovací nůž** (1k6), extra **20 šilinků** a lítost nad svými činy.
 
-- Pochodeň (3 použití)
-- Plachta (ukryje 1 stvoření)
-- Kožešinové brnění (1 Brnění, pokud neoblečeno tak *neskladné*)
-- Krátký meč (1k6)
-- Past na medvědy (Způsobuje ztrátu 1k6 SIL)
+<img src="/assets/sep_line.png"/>
 
-**Poslední lov**
+## Lukodivec
 
-| 1k6  | Co byl tvůj poslední lov?                                    |
-| :--: | :----------------------------------------------------------- |
-|  1   | Obří masožravou světlušku, která lákala nevinné pocestné svým světlem. Jako náhradu za ruku, kterou ti ukousla, získáváš **Alchymistickou ruku** (1k8, *zanedbatelná* pokud oblečena, jinak *neskladná*). Tato ruka je odolná proti ohni a jedům ale potřebuje každodenní mazání jinak bude hlasitě vrzat a způsobovat ti *vyčerpání*. Na tuto údržbu navíc získáváš **Lampový olej** (6 použití). |
-|  2   | Ledová kopřiva, která chytala a vysávala krev ze zvířat na statku. O svou odměnu za lov si ale přišel, jelikož tvé řešení za pomocí houby, která kopřivu vymýtí. Zabilo polovinu zvířat. Získáváš **Bobuli mrazu** (1 použití). Zmrazí libovolnou vodní plochu o oblasti až 1 kilometr. Nejíst!!! |
-|  3   | Stříbrná čupakabra, která zabila někoho tobě blízkého. Nosíš teď **Provázek se zubem čupakabry** (*zanedbatelný*) jako varování pro ostatní čupakabry. Zub lehce vibruje, když tě někdo sleduje. |
-|  4   | Záškodnický lesní duch, který otrávil malou usedlost. Získáváš **Měch otrávené vody** (3 použití, konzumace způsobuje ztrátu 1k6 SIL a *vyčerpání* dokud není poskytnuta adekvátní pomoc). Navíc získáváš i **Železné chrániče zápěstí** (+1 Brnění, *neskladné* pokud neoblečeny). |
-|  5   | **Zbloudilá duše vlka** (5 BO, 11 SIL, 13 HBI, 8 VUL, kousnutí 1k6), která děsila pocestné. Slitoval jsi se nad tímto hladovějícím stvořením a pomohl mu. On ti je na oplátku až na do smrti věrný. Má černé (hmotné) chlupaté tělo a na místo hlavy vlčí lebku. Umí skvěle hrabat. |
-|  6   | Azurová pěnice. Jejich pohlavní žlázy, pokud správně extrahovány, se prodávají za dobré peníze. Byl si úspěšný, ale ponechal si její hnízdo na pospas vlkům. Získáváš **vykosťovací nůž** (1k6), extra **20 šilinků** a lítost nad svými činy. |
+*Útočíš z dálky, ale to z tebe nedělá zbabělce. Luk je tvým hudebním nástrojem, zpívajícím o příslibu rychlé a tiché smrti.*
 
-**Nástroj:**
+**Mistr luku:** Poku jsi v boji na tahu jako první (součást první skupiny). Tvůj luk získá vlastnost *plošné* během tvého prvního tahu.
 
-| 1k6  | Co si nikdy nezapomeneš vzít sebou?                          |
-| :--: | :----------------------------------------------------------- |
-|  1   | **Drakonijská pálenka** (3 použití) - V lepších časech je dobrá na zahřátí, v těch horších se dá použít jako hořlavina. |
-|  2   | **Stopařovo hrkátko** - Hlasitý nástroj, který odhalí blízké stezky i pokud jsou dobře ukryty. |
-|  3   | **Zívací vosk** (1 použití, *zanedbatelný*) - Váleček vosku, pokud rozpuštěn, jeho výpary mají uspávací účinky. |
-|  4   | **Lanko s kovovými kolky** - Výborné pro cestování obtížným terénem nebo na výrobu provizorních pastí. |
-|  5   | **Kovové chrastítko** - Sloužící k odvedení pozornosti nebo vyplašení tvé oběti. Zní přesvědčivě jako chřestýš. |
-|  6   | **Tvrdnoucí lepidlo** (3 použití, drahé: 20 šilinků za láhev) - Udělá jakýkoliv plochý materiál (látka, papír, kůže, písek) tvrdý jako kámen. |
+**Extra výbava:** Luk (dle volby), Zubatý nůž (1k6), Zbroj z vařené kůže (1 Brnění, *neskladná*), Mast z živého kořene (1 použití, vyléčí 2 SIL), Lovecký sokol (3 BO, 5 SIL, 16 HBI, 4 VUL, klování a škrábání (1k4))
+
+**Formující volba:** Z jakého vzácného dřeva je vyroben tvůj luk?
+
+-   **Západní tis:** 1k6 (*neskladný*), lze použít jako improvizovanou zbraň na blízku působící 1k6 poškození.
+-   **Krvavý dub:** 1k8 (*neskladný*, pomalý), má obrovský tah. Při způsobení *kritického poškození* je cíli něco urváno.
+-   **Kamenná borovice:** 1k6 (*neskladný*), produkuje 1 použití *lepivé smůly* za den. Tato smůla je vysoce výbušná.
+-   **Bílý jasan:** 1k6 (*neskladný*), při boji na blízko funguje jako štít poskytující +1 Brnění.
+-   **Pruhovaný bambus:** 1k6, Skládací, takže zabírá jen 1 slot. Stále vyžaduje 2 ruce k používání.
+-   **Melebonský jilm:** 1k6 (*neskladný*), pokud držen v ruce, ochraňuje nositele před jedy a jinými toxiny.
 
 <img src="/assets/sep_line.png"/>
 
@@ -289,7 +285,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 <img src="/assets/sep_line.png"/>
 
-## Potulný umělec
+## Potulný kejklíř
 
 *Co víc inspiruje duši než píseň, rým či vystoupení. Proč věnovat léta studiím Arkán, když ta pravá magie je uvnitř nás.*
 
@@ -305,6 +301,42 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - **Píšťalka smrtidechu** (1 použití, *Dobíjení:* Zachyť do ní poslední dech umírajícího válečníka. Tento akt vystaví uživatele *významnému působení chaosu*). Píšťalka vydá děsivý jekot,  který vyděsí všechny kdo jej slyší (zachraň VUL nebo uteč).
 - **Všeklíč:** (1 použití, *Dobíjení:* Na noc zabal s 100 šilinky) Klíč, který funguje na každý běžný zámek.
 - **Převíjecí káča:** (1 použití) Když roztočena, vrátí čas o 30 vteřin. Všichni si pamatují co se stalo.
+
+<img src="/assets/sep_line.png"/>
+
+## Prokletý (==todo: upravit==)
+
+*Kdysi jsi býval poměrně úspěšný dobrodruh, tvá ctižádostivost tě však nakonec doběhla. Jsi jen zlomkem své předchozí slávy, sžírán prokletím, které ti komplikuje život.*
+
+**Počáteční výbava:** 
+
+- Pochodeň (3 použití)
+- Provaz (5 metrů)
+- Bambitka (1k10 poškození, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo)
+- Čistící sada na křesadlové zbraně (6 použití)
+- Kožené rukavice (*zanedbatelné*)
+
+**Prokletí:**
+
+| 1k6  | Jaké prokletí tě postihlo?                                   |
+| :--: | ------------------------------------------------------------ |
+|  1   | Jsi **Nižší forma upíra**. Trpíš běžnými slabostmi upírů jako jsou tekoucí voda, česnek či sluneční svit (Způsobuje 0 BO a *vyčerpání*). Běžné jídlo a pití tě nezasytí. Můžeš zaútočit kousnutím (1k8). Pokud tímto útokem způsobíš zranění teplokrevnému stvoření, doplníš si 1k6 BO (Nemůžeš přesáhnout své maximum). Každý den musíš vysát aspoň 1 středně velké stvoření, jinak jsi *vyčerpaný*. |
+|  2   | Jsi prokletý vlkodlak. Pokud se tě dotkne svit měsíce musíš uspět v záchraně VUL jinak ztratíš nad sebou kontrolu a proměníš se ve **Vlkodlaka** (8 BO, 15 SIL, 14 HBI, drápy (1k6+1k6) nebo kousnutí (1k8)). VUL zůstává tvá. Proměníš se zpět s koncem noci nebo pokud jsi poražen. |
+|  3   | Máš smůlu. Pokud dojde na *hod kostkou osudu*, který se týká tebe nebo skupiny, které jsi členem. Výsledek je vždy brán jako o 1 horší. Už mnohokrát si uvažoval, že ti to za to nestojí. Získáváš navíc **Lahvičku jedu** (1 použití). Po konzumaci stvoření o velikosti člověka do hodiny zemře. |
+|  4   | Ztráta řeči. Nejsi schopen ze sebe vydat ani hlásku. Proto preferuješ jiné způsoby komunikace. Získáváš navíc **Psací potřeby a pergamen** (6 použití) |
+|  5   | Postrach zvěře. Zvířata menší jak ty, se tě bojí. Zvířata stejně velká jako ty nebo větší tě nenávidí. |
+|  6   | Lepivý sliz. Jsi neustále oslizlý a lepivý. Za den vyprodukuješ až 2 použití **Lepivého slizu**. Funguje jako vysoce kvalitní lepidlo, které dokáže slepit v podstatě cokoliv. |
+
+Zdroj prokletí:
+
+| 1k6  | Co bylo zdrojem tvého prokletí                               |
+| :--: | ------------------------------------------------------------ |
+|  1   | **Démon** - Vyhandloval si s démonem **nesmrtelnost**, ale za jakou cenu? Nestárneš ale stále se můžeš zranit a cítíš bolest. Nikdy však nezemřeš pokud po tobě zbude aspoň hlava (nemusí být v dokonalém stavu). Léčíš si 1 SIL denně. Chybějící části těla ti však nedorůstají. |
+|  2   | **Prokleté chrániče zápěstí** (+1 Brnění, *neskladné* pokud neoblečeny) - Tyto chrániče jsou k tobě vázány tvou kletbou a nelze je sundat. |
+|  3   | **Peníze** - Získal jsi velký pirátský poklad (1000 šilinků). Když jsi většinu rozfofroval. Došlo ti, že jsi prokletý. Zbývá ti ještě **200 prokletých šilinků**. |
+|  4   | **Grimoár rozkaž!** (*Osobnost:* S každým použitím je tenčí a tenčí až jednou prostě zmizí (50 použití)) - Cíl uposlechne jeden příkaz ne delší jak 3 slova, který mu neublíží. <br /> <br />Tento grimoár je zdrojem tvého prokletí. Ale kdo ví co by se stalo, kdyby si o něj přišel? |
+|  5   | **Jiný prokletý** - Nakazil tě jiný prokletý. Tvé prokletí je infekční. |
+|  6   | **Významné společenství** - Přidal si se k jednomu tajnému elitnímu společenství. Tvé prokletí bylo podmínkou pro vstup. **Získáváš Pečetící prsten spolku** (*zanedbatelný*) |
 
 <img src="/assets/sep_line.png"/>
 
@@ -361,7 +393,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Jako válečný veterán máš již za sebou několik bojů a konfliktů, které tě zocelily. Své dny jsi trávil v první linii, což ti dalo cenné zkušenosti v boji a přežití. Také si pocítil říšské politikaření z první ruky. Život ti vzal již spoustu, je na čase aby začal zase něco vracet.*
 
-**Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale tvá SIL, HBI a VUL jsou nižší o 1 jako následek zranění.
+**Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale jedna z tvých dovedností je nižší o 2.
 
 **Extra výbava:** Záložní krátký meč (1k6), Lehká zbroj (1 brnění, *neskladná*), tetování vyznačující příslušnost k jednotce (*zanedbatlené*)
 
@@ -372,113 +404,5 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - **Velké meče:** Tvou další výbavou je Obouruční meč (1k12, *neskladný*, neohrabaný, pomalý)
 - **Halapartníci:** Tvou další výbavou je Halapartna (1k10, *neskladná*, neohrabaná)
 - **Lukostřelci:** Tvou další výbavou je Válečný luk (1k8, *neskladný*, pomalý).
-
-<img src="/assets/sep_line.png"/>
-
-## Lovec odměn (==todo: upravit mybe?==)
-
-*Jdi přízrak v noci, prchavý stín, který se nepozorovaně plíží ke své oběti. Každé zabití je zkouškou lsti a odhodlání. Souboj mezi životem a smrtí, který víš že jednou prohraješ.*
-
-**Počáteční výbava:**
-
-- Pochodeň (3 použití)
-- Plachta (ukryje 1 stvoření)
-- Kožešinové brnění (1 Brnění, pokud neoblečeno tak *neskladné*)
-- Krátký meč (1k6)
-- Past na medvědy (Způsobuje ztrátu 1k6 SIL)
-
-**Poslední lov**
-
-| 1k6  | Co byl tvůj poslední lov?                                    |
-| :--: | :----------------------------------------------------------- |
-|  1   | Obří masožravou světlušku, která lákala nevinné pocestné svým světlem. Jako náhradu za ruku, kterou ti ukousla, získáváš **Alchymistickou ruku** (1k8, *zanedbatelná* pokud oblečena, jinak *neskladná*). Tato ruka je odolná proti ohni a jedům ale potřebuje každodenní mazání jinak bude hlasitě vrzat a způsobovat ti *vyčerpání*. Na tuto údržbu navíc získáváš **Lampový olej** (6 použití). |
-|  2   | Ledová kopřiva, která chytala a vysávala krev ze zvířat na statku. O svou odměnu za lov si ale přišel, jelikož tvé řešení za pomocí houby, která kopřivu vymýtí. Zabilo polovinu zvířat. Získáváš **Bobuli mrazu** (1 použití). Zmrazí libovolnou vodní plochu o oblasti až 1 kilometr. Nejíst!!! |
-|  3   | Stříbrná čupakabra, která zabila někoho tobě blízkého. Nosíš teď **Provázek se zubem čupakabry** (*zanedbatelný*) jako varování pro ostatní čupakabry. Zub lehce vibruje, když tě někdo sleduje. |
-|  4   | Záškodnický lesní duch, který otrávil malou usedlost. Získáváš **Měch otrávené vody** (3 použití, konzumace způsobuje ztrátu 1k6 SIL a *vyčerpání* dokud není poskytnuta adekvátní pomoc). Navíc získáváš i **Železné chrániče zápěstí** (+1 Brnění, *neskladné* pokud neoblečeny). |
-|  5   | **Zbloudilá duše vlka** (5 BO, 11 SIL, 13 HBI, 8 VUL, kousnutí 1k6), která děsila pocestné. Slitoval jsi se nad tímto hladovějícím stvořením a pomohl mu. On ti je na oplátku až na do smrti věrný. Má černé (hmotné) chlupaté tělo a na místo hlavy vlčí lebku. Umí skvěle hrabat. |
-|  6   | Azurová pěnice. Jejich pohlavní žlázy, pokud správně extrahovány, se prodávají za dobré peníze. Byl si úspěšný, ale ponechal si její hnízdo na pospas vlkům. Získáváš **vykosťovací nůž** (1k6), extra **20 šilinků** a lítost nad svými činy. |
-
-**Nástroj:**
-
-| 1k6  | Co si nikdy nezapomeneš vzít sebou?                          |
-| :--: | :----------------------------------------------------------- |
-|  1   | **Drakonijská pálenka** (3 použití) - V lepších časech je dobrá na zahřátí, v těch horších se dá použít jako hořlavina. |
-|  2   | **Stopařovo hrkátko** - Hlasitý nástroj, který odhalí blízké stezky i pokud jsou dobře ukryty. |
-|  3   | **Zívací vosk** (1 použití, *zanedbatelný*) - Váleček vosku, pokud rozpuštěn, jeho výpary mají uspávací účinky. |
-|  4   | **Lanko s kovovými kolky** - Výborné pro cestování obtížným terénem nebo na výrobu provizorních pastí. |
-|  5   | **Kovové chrastítko** - Sloužící k odvedení pozornosti nebo vyplašení tvé oběti. Zní přesvědčivě jako chřestýš. |
-|  6   | **Tvrdnoucí lepidlo** (3 použití, drahé: 20 šilinků za láhev) - Udělá jakýkoliv plochý materiál (látka, papír, kůže, písek) tvrdý jako kámen. |
-
-<img src="/assets/sep_line.png"/>
-
-## Lukodivec (==todo: upravit==)
-
-*Útočíš z dálky, ale to z tebe nedělá zbabělce. Luk je tvým hudebním nástrojem, zpívajícím o příslibu rychlé a tiché smrti.*
-
-**Počáteční výbava:** 
-
-- Pochodeň (3 použití)
-- Luk (dle tabulky níže)
-- Zubatý nůž (1k6)
-- Zbroj z vařené kůže (1 Brnění, pokud neoblečena tak *neskladná*)
-- Mast z živého kořene (1 použití, vyléčí 1k4 SIL)
-
-**Získání luku:**
-
-| 1k6  | Čím sis zasloužil svůj luk?                                  |
-| :--: | ------------------------------------------------------------ |
-|  1   | Válka. Poku jsi v boji na tahu jako první (součást první skupiny). Tvůj luk získá vlastnost *plošné* během tvého prvního tahu. |
-|  2   | Sokolnictví. Máš **Sokola** (3 BO, 5 SIL, 16 HBI, 4 VUL, klování a škrábání (1k6)). Živý se pouze zvěřinou. |
-|  3   | Lov. Když se zúčastníš *hlídkové akce zásobování*. Mimo standardního bonusu, posílíš hod na získané zásoby o *+1k6*. |
-|  4   | Turnaj. Pokud se tvůj cíl nemůže hýbat tvůj útok lukem je *posílen* o kostku poškození luku. |
-|  5   | Trénink. Poku jsi v boji první na tahu (součást první skupiny). Všechny útoky na blízku proti tobě jsou *oslabeny*. Platí do konce boje nebo dokud neobdržíš poškození do SIL. |
-|  6   | Průzkumnictví. V případě boje nemusíš házet na záchranu HBI. Díky své ostražitosti jsi vždy první na tahu. |
-
-**Luk:**
-
-| 1k6  | Z jakého dřeva je tvůj luk vyroben?                          |
-| :--: | ------------------------------------------------------------ |
-|  1   | **Luk ze západního tisu** (1k6, *neskladný*) - Lze použít jako zbraň na blízku působící 1k6 poškození. |
-|  2   | **Luk z krvavého dubu** (1k8, *neskladný*) - Má obrovský tah. Při způsobení *kritického poškození* je cíli něco urváno. |
-|  3   | **Luk z kamenné borovice** (1k6, *neskladný*) - Produkuje 1 použití **lepivé smůly** za den. Tato smůla je vysoce výbušná. |
-|  4   | **Luk z bílého jasanu** (1k6, *neskladný*) - Při boji na blízko funguje jako štít poskytující +1 Brnění. |
-|  5   | **Luk z pruhovaného bambusu** (1k6) - Skládací, takže zabírá jen 1 slot. Stále vyžaduje 2 ruce k používání. |
-|  6   | **Luk z melebonského jilmu** (1k6, *neskladný*) - Pokud držen v ruce, ochraňuje nositele před jedy a jinými toxiny. |
-
-<img src="/assets/sep_line.png"/>
-
-## Prokletý (==todo: upravit==)
-
-*Kdysi jsi býval poměrně úspěšný dobrodruh, tvá ctižádostivost tě nakonec doběhla. Jsi jen zlomkem své předchozí slávy, sžírán prokletím, které ti komplikuje život.*
-
-**Počáteční výbava:** 
-
-- Pochodeň (3 použití)
-- Provaz (5 metrů)
-- Bambitka (1k10 poškození, náchylné na vodu a oheň, hlučná, přebíjí se 1 kolo)
-- Čistící sada na křesadlové zbraně (6 použití)
-- Kožené rukavice (*zanedbatelné*)
-
-**Prokletí:**
-
-| 1k6  | Jaké prokletí tě postihlo?                                   |
-| :--: | ------------------------------------------------------------ |
-|  1   | Jsi **Nižší forma upíra**. Trpíš běžnými slabostmi upírů jako jsou tekoucí voda, česnek či sluneční svit (Způsobuje 0 BO a *vyčerpání*). Běžné jídlo a pití tě nezasytí. Můžeš zaútočit kousnutím (1k8). Pokud tímto útokem způsobíš zranění teplokrevnému stvoření, doplníš si 1k6 BO (Nemůžeš přesáhnout své maximum). Každý den musíš vysát aspoň 1 středně velké stvoření, jinak jsi *vyčerpaný*. |
-|  2   | Jsi prokletý vlkodlak. Pokud se tě dotkne svit měsíce musíš uspět v záchraně VUL jinak ztratíš nad sebou kontrolu a proměníš se ve **Vlkodlaka** (8 BO, 15 SIL, 14 HBI, drápy (1k6+1k6) nebo kousnutí (1k8)). VUL zůstává tvá. Proměníš se zpět s koncem noci nebo pokud jsi poražen. |
-|  3   | Máš smůlu. Pokud dojde na *hod kostkou osudu*, který se týká tebe nebo skupiny, které jsi členem. Výsledek je vždy brán jako o 1 horší. Už mnohokrát si uvažoval, že ti to za to nestojí. Získáváš navíc **Lahvičku jedu** (1 použití). Po konzumaci stvoření o velikosti člověka do hodiny zemře. |
-|  4   | Ztráta řeči. Nejsi schopen ze sebe vydat ani hlásku. Proto preferuješ jiné způsoby komunikace. Získáváš navíc **Psací potřeby a pergamen** (6 použití) |
-|  5   | Postrach zvěře. Zvířata menší jak ty, se tě bojí. Zvířata stejně velká jako ty nebo větší tě nenávidí. |
-|  6   | Lepivý sliz. Jsi neustále oslizlý a lepivý. Za den vyprodukuješ až 2 použití **Lepivého slizu**. Funguje jako vysoce kvalitní lepidlo, které dokáže slepit v podstatě cokoliv. |
-
-Zdroj prokletí:
-
-| 1k6  | Co bylo zdrojem tvého prokletí                               |
-| :--: | ------------------------------------------------------------ |
-|  1   | **Démon** - Vyhandloval si s démonem **nesmrtelnost**, ale za jakou cenu? Nestárneš ale stále se můžeš zranit a cítíš bolest. Nikdy však nezemřeš pokud po tobě zbude aspoň hlava (nemusí být v dokonalém stavu). Léčíš si 1 SIL denně. Chybějící části těla ti však nedorůstají. |
-|  2   | **Prokleté chrániče zápěstí** (+1 Brnění, *neskladné* pokud neoblečeny) - Tyto chrániče jsou k tobě vázány tvou kletbou a nelze je sundat. |
-|  3   | **Peníze** - Získal jsi velký pirátský poklad (1000 šilinků). Když jsi většinu rozfofroval. Došlo ti, že jsi prokletý. Zbývá ti ještě **200 prokletých šilinků**. |
-|  4   | **Grimoár rozkaž!** (*Osobnost:* S každým použitím je tenčí a tenčí až jednou prostě zmizí (50 použití)) - Cíl uposlechne jeden příkaz ne delší jak 3 slova, který mu neublíží. <br /> <br />Tento grimoár je zdrojem tvého prokletí. Ale kdo ví co by se stalo, kdyby si o něj přišel? |
-|  5   | **Jiný prokletý** - Nakazil tě jiný prokletý. Tvé prokletí je infekční. |
-|  6   | **Významné společenství** - Přidal si se k jednomu tajnému elitnímu společenství. Tvé prokletí bylo podmínkou pro vstup. **Získáváš Pečetící prsten spolku** (*zanedbatelný*) |
 
 <img src="/assets/sep_line.png"/>
