@@ -1,4 +1,4 @@
-# Aldir ==todo: Finish==
+# Aldir
 
 <img src="/assets/sep_line.png"/>
 
@@ -6,24 +6,22 @@
 
 <img src="/assets/sep_line.png"/>
 
-## Aldir ==todo: redo==
+## Pravdy o Aldiru
 
-Všechen text v těchto pravidlech předpokládají zasazení do Aldiru. Následuje *8* pravd o Aldiru, které mají pomoci hráčům a PJ se vcítit do světa.
-
-- Aldir je poměrně malý světadíl nacházející se na planetě Tera, jehož významná část je pokryta stejnojmennou Aldirskou republikou. Aldiršťané měří čas, stejně jako my. Na týden o 7-mi dnech, měsíc o 30/31 dnech, rok o 12 měsících. Podnebí Aldiru se pohybuje mezi mírným až subtropickým.
-- Tera, jako svět, je stará několik miliónu let. Aldirská republika samotná má pak kořeny v asi přes tisíce let staré civilizaci. Kdysi zde stálo mocné Aldirské císařství, které se táhlo napříč rozsáhlým územím. To se však po *"Smrti bohů"* rozpadlo a některé vzniklé zemičky se později sjednotili do dnešní Aldirské republiky.
-- Magie v Aldiru je uměním ztraceným v mlhách času, třebaže svět po skonu bohů přímo kypí syrovou magickou esencí. Ta nejvzácnější jiskra, talent samovolně uchopit a utvářet tuto energii do zázračných forem, však z duší smrtelníků téměř vyhasla. Udušena stínem lamačů kouzel. Místo ní se v každodennosti uchytila alchymie, méně předvídatelná, leč přeci jen bezpečnější cesta. Stále však po světě zůstávají roztroušeny ozvěny minulé slávy. Prastaré grimoáry, zaprášené svitky a předměty sálající mocí. Tyto relikvie, obecně nazývané Arkany, jsou předmětem horečnatého pátrání nejednoho sběratele či učence toužícího po jejich moci.
-- Bohové neexistují, jsou mrtví nebo se prostě od tohohle světa distancují. Nebylo tomu ale tak vždy. Jelikož bohové a jejich světy jsou zdrojem veškeré magie na Teře. Avšak po obrovské katastrofě, která srovnala se zemí podstatnou část tehdejšího Aldirského císařství. Přišlo ticho, které obzvlášť v církvi vyvolalo obrovskou paniku, a s pádem císařství přišel i mocenský pád církve. Celá tato událost se dnes nazývá *"Smrt bohů"*.
-- Nelze říci, že by před Smrtí bohů na Teře nežila nebezpečná stvoření. Pokud měl člověk smůlu mohl se setkat se zlovlkem, velemedvědem nebo dokonce drakem či vyvernou. Po Smrti bohů se však na svět dostalo tolik magie, že se začali objevovat i všelijaká magická či magií zmutovaná stvoření, jako jsou elementálové, víly, mantikory či samotní velkomocní.
-- Na Teře jako takové nepochybně žijí desítky až stovky různých inteligentních ras. V okolí Alridu jsou to však převážně Lidé, Trpaslíci a Kuduci. Ti žijí po spolu pod záštitou Aldirské republiky. Trpaslíci mají svůj domov již po staletí ve skalách Rudého draka, a Kuduci osedlali létající ostrovy severovýchodním cípu Aldirské republiky. Tuhle svou domovinu nazývají Eulérie. ==todo: remove non-humans==
-- Aldirská republika může na první pohled působit jako země žijící v míru a rovnováze. Opak je ale pravdou. Republika je rozdělena na oblasti (kraje), kterým vládnou různí šlechtici, obchodníci a jiné vysoce postavené rodiny, které se ne vždy mají v lásce. Tito vůdci krajů se pak schází v republikovém senátu, který z jeho sídla v hlavním městě Praag řídí celou republiku.  ==todo: redo==
-- Předpokládá se, že reálie Aldiru odpovídá středověké renezanční Evropě. Obohacené o nějakou tu alchymii a kudukské vynálezy.
+- Aldir je poměrně malý světadíl nacházející se na planetě Tera, jehož významná část je pokryta stejnojmennou Aldirskou republikou. Aldiršťané měří čas, stejně jako my. Na týden o 7-mi dnech, měsíc o 30/31 dnech a rok o 12 měsících. Podnebí Aldiru se pohybuje mezi mírným až subtropickým.
+- Tera, jako svět, je stará několik miliónu let. Aldirská republika samotná má pak kořeny v asi přes tisíce let staré civilizaci. Kdysi zde stálo mocné Aldirské císařství, které se táhlo napříč rozsáhlým územím. To se však rozpadlo a některé vzniklé zemičky se později sjednotili do dnešní Aldirské republiky.
+- Magie v Aldiru je uměním ztraceným v mlhách času. Talent samovolně uchopit a manipulovat magii z populace v podstatě vymizel. Udušen stínem lamačů kouzel. Místo magie se v každodennosti uchytila alchymie a inženýrský um z Eulérie. Stále však po světě zůstávají roztroušeny ozvěny minulé slávy. Prastaré grimoáry a zaprášené artefakty sálající magickou mocí. Tyto relikvie, obecně nazývané Arkany, jsou předmětem horečnatého pátrání nejednoho sběratele toužícího po jejich moci.
+- Bohové existují ale jsou vzdálení a distancují se od každodenního života na tomto světě. Ale nejdou se případy, kdy se do běžného života smrtelníku vmísí. Většinou tak však dělají pro sledování vlastních zájmů. Největší církví v Aldirské republice (a obecně na Aldiru) je církev 6-ti strážců. 
+- Co se monster a maige týče, Aldirská republika je poměrně bezpečná. Občas se sice stane, že se někde projeví nějaká ta kletba, někdo zneužije Arkanu či se nějké to monstrum zatoulá hlouběji do republiky. Pro tyhle účely existují Lamači kouzel, kteří řeší právě takové problémy. V Aldiru samotném se pak můžete setkat s všelijakými nestvůrami. V severním Císařství Drakonie dokonce chovají draky.
+- Na Teře jako takové nepochybně žijí desítky různých inteligentních ras. Aldir je však převážně lidský.
+- Aldirská republika může na první pohled působit jako země žijící v míru a rovnováze. Opak je ale pravdou. Republika je rozdělena na oblasti (kraje), kterým vládnou různí šlechtici, obchodníci a jiné vysoce postavené rodiny, které se ne vždy mají v lásce. Tito vůdci krajů se pak schází v republikovém senátu, který z jeho sídla v hlavním městě Praag řídí celou republiku. 
+- Předpokládá se, že reálie Aldiru odpovídá středověké renezanční Evropě. Obohacené o nějakou tu alchymii a inženýrské vynálezy.
 
 <img src="/assets/sep_line.png"/>
 
 ## Jazyk
 
-Všechny inteligentní stvoření mluví nějakou formou vlastního jazyka. Včetně různých nářečí a nuancí existující v různých částech světa. Na Aldirském kontinentě ja však poměrně vysoká pravděpodobnost, že inteligentní stvoření aspoň rozumí Aldirštině. Jelikož to je zde nejrozšířenější jazyk.
+Všechna inteligentní stvoření mluví nějakou formou vlastního jazyka. Včetně různých nářečí a nuancí existující v různých částech světa. Na Aldirském kontinentě ja však poměrně vysoká pravděpodobnost, že inteligentní stvoření aspoň rozumí Aldirštině. Jelikož to je zde nejrozšířenější jazyk.
 
 <img src="/assets/sep_line.png"/>
 

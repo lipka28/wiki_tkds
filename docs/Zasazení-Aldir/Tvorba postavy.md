@@ -38,8 +38,8 @@ Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci s
 Teď už jen dolaď maličkosti.
 
 - **Jméno:** Vymysli si jméno.
-- **Věk:** Stanov svůj věk nebo si hoď *15+2K20*.
-- **Vizuální a povahové rysy:** Stanov klíčové vizuální a povahové rysy své postavy. Mohou ti pomoci tabulky níže (není třeba používat všechny)
+- **Věk:** Stanov svůj věk nebo si hoď *15+2K20*. (Pokud jsi krev prvních, tak můžeš hodnotu vynásobit dvěma)
+- **Vizuální a povahové rysy:** Stanov klíčové vizuální a povahové rysy své postavy. Mohou ti pomoci tabulky níže (není třeba používat všechny, stačí tak 3)
 - **Vazby:** Pokud ti strážce dal k dispozici tabulku *Vazeb*, hoď si nad ní.
 - **Znamení:** Pokud je tvá postava nejmladší ve skupině a strážce ti dal k dispozici tabulku *Znamení*, hoď si nad ní a o výsledek se poděl se skupinou.
 - **Zformuluj popis:** Všechny tyto rysy, původ a trochu tvé kreativní licence spoj do popisu své postavy a poznač si do svého deníku postavy.
