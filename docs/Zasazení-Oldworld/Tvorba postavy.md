@@ -26,10 +26,10 @@ Vyber si jeden z původů v tabulce níže. Každý původ obsahuje popis, výba
 |  4   | [Čarodějný učeň](/Zasazení-Oldworld/Puvody/#carodejny-ucen)  |  14  | [Potulný umělec](/Zasazení-Oldworld/Puvody/#potulny-umelec)  |
 |  5   |         [Felčar](/Zasazení-Oldworld/Puvody/#felcar)          |  15  |         [Pulčík](/Zasazení-Oldworld/Puvody/#pulcik)          |
 |  6   |       [Hraničář](/Zasazení-Oldworld/Puvody/#hranicar)        |  16  |      [Řemeslník](/Zasazení-Oldworld/Puvody/#remeslnik)       |
-|  7   |        [Hrobník](/Zasazení-Oldworld/Puvody/#hrobnik)         |  17  |        [Spodina](/Zasazení-Oldworld/Puvody/#spodina)         |
-|  8   |        [Inženýr](/Zasazení-Oldworld/Puvody/#inzenyr)         |  18  |       [Trpaslík](/Zasazení-Oldworld/Puvody/#trpaslik)        |
-|  9   |      [Lesní elf](/Zasazení-Oldworld/Puvody/#lesni-elf)       |  19  | [Válečný veterán](/Zasazení-Oldworld/Puvody/#valecny-veteran) |
-|  10  |    [Lovec odměn](/Zasazení-Oldworld/Puvody/#lovec-odmen)     |  20  |   [Vznešený elf](/Zasazení-Oldworld/Puvody/#vzneseny-elf)    |
+|  7   |        [Hrobník](/Zasazení-Oldworld/Puvody/#hrobnik)         |  17  |       [Trpaslík](/Zasazení-Oldworld/Puvody/#trpaslik)        |
+|  8   |        [Inženýr](/Zasazení-Oldworld/Puvody/#inzenyr)         |  18  | [Válečný veterán](/Zasazení-Oldworld/Puvody/#valecny-veteran) |
+|  9   |      [Lesní elf](/Zasazení-Oldworld/Puvody/#lesni-elf)       |  19  |   [Vznešený elf](/Zasazení-Oldworld/Puvody/#vzneseny-elf)    |
+|  10  |    [Lovec odměn](/Zasazení-Oldworld/Puvody/#lovec-odmen)     |  20  |     [Zlodějíček](/Zasazení-Oldworld/Puvody/#zlodejicek)      |
 
 Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci se strážcem sestavit vlastní původ nebo některý z existujících původů upravit.
 
@@ -41,7 +41,7 @@ Teď už jen dolaď maličkosti.
 
 - **Jméno:** Vymysli si jméno (inspirace dle rasy/národnosti [zde](https://drive.google.com/file/d/1ZVLvD4rrqeqg9l1_8N8X7xNyFE0sKpai/view?usp=sharing))
 - **Věk:** Stanov svůj věk nebo si hoď *15+2K20* (U trpaslíků může výsledek vynásobit až *x10* a u elfů až *x100*).
-- **Vizuální a povahové rysy:** Stanov klíčové vizuální a povahové rysy své postavy. Mohou ti pomoci tabulky níže (není třeba používat všechny)
+- **Vizuální a povahové rysy:** Stanov klíčové vizuální a povahové rysy své postavy. Mohou ti pomoci tabulky níže (není třeba používat všechny, stačí 3).
 - **Vazby:** Pokud ti strážce dal k dispozici tabulku *Vazeb*, hoď si nad ní.
 - **Znamení:** Pokud je tvá postava nejmladší ve skupině a strážce ti dal k dispozici tabulku *Znamení*, hoď si nad ní a o výsledek se poděl se skupinou.
 - **Zformuluj popis:** Všechny tyto rysy, původ a trochu tvé kreativní licence spoj do popisu své postavy a poznač si do svého deníku postavy.

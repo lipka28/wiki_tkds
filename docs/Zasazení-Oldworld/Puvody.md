@@ -13,7 +13,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Modlitby a žádosti o pomoc:** Jakékoliv stvoření, se může pomodlit ke svému bohu a doufat v zázrak. V některých vzácných případech mu bude i vyhověno. U akolyty žádající o zázrak (ve sféře vlivu svého patrona), podpořený patřičnou obětí, je pravděpodobnost vyhovění však podstatně vyšší (Dle uvážení strážce může vyhodnocení začínat jako hod štěstí a dále se rozvíjet dle vztahu mezi akolytou a patronem).
 
-**Extra výbava:** Cestovní hůl (1k6), Kniha modliteb, Symbol patrona (Ve tvých rukách 1x denně *Zahnat*), Kněžská róba (pokud oblečená tak *zanedbatelná*). Kadidlo (3 použití)
+**Extra výbava:** Cestovní hůl (1k6), Kniha modliteb, Symbol patrona (Ve tvých rukách 1x denně *Zahnat*), Kněžská róba (pokud oblečená tak *zanedbatelná*). Léčivé obvazy (3 použití léčí 1 SIL).
 
 **Zahnat:** Vytvoří stříbrný kruh o průměru 10 metrů, který jeden tebou zvolený druh stvoření, nemůže překročit.
 
@@ -65,9 +65,9 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - *Nikdy nezradit přítele nebo spojence.*
 - *Chovat se čestně a zdvořile.*
 
-**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k4.
+**Pán meče:** Při používání velkých obourubních mečů, pro tebe neplatí jejich vlastnost "pomalá".
 
-**Extra výbava:** Krátký meč (1k6), Jezdecké kopí (1k10, *neskladné*, na zvířeti je jednoruční a s rozjezdem je útok posílen o +1k10), Štít (+1 brnění), Lehká zbroj (1 brnění, *neskladná*), Přilba
+**Extra výbava:** Dlouhý meč (1k8, větší), Jezdecké kopí (1k10, *neskladné*, na zvířeti je jednoruční a s rozjezdem je útok posílen o +1k10), Štít (+1 brnění), Lehká zbroj (1 brnění, *neskladná*), Přilba
 
 **Formující volba:** Jakého sis oblíbil koně?
 
@@ -104,7 +104,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 **Léčitel:** Tebou poskytnutá léčení (běžnými metodami) je o 1 účinější (například léčení 1 SIL obvazy se stane 2 SIL). Také svou péčí dokážeš urychlit léčbu dlouhodobých zranění.
 
-**Extra výbava:**  Amputační "nůž" (1k6), Kovová injekční stříkačka, Obvazy (3 použití léčí 1 SIL), Provaz (5 metrů), Zakrvácené lékařská zástěra (*Zanedbatelná*).
+**Extra výbava:**  Amputační "nůž" (1k6), Kovová injekční stříkačka, Léčivé obvazy (3 použití léčí 1 SIL), Provaz (5 metrů), Zakrvácené lékařská zástěra (*Zanedbatelná*).
 
 **Formující volba:** Kde bylo tvé poslední lékařské působení?
 
@@ -118,7 +118,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Ochránci sklizně, obrana proti škůdcům, zlodějům a šelmám. Pozice velké cti, dokud trvá. Mnozí hraničáři však dlouho nevydrží.*
 
-**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k4.
+**Vždy připraven:** V prvním kole boje, jsi vždy na řadě jako první bez nutnosti ověřovat HBI.
 
 **Extra výbava:** Prak (1k4), Sekyrka (1k6), Brigandina (1 brnění, *neskladná*), Pochodeň (3 použití), Dalekohled
 
@@ -193,7 +193,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Tak dlouho jak se po světě budou pohybovat dezertéři, banditi, šílenci a kdo ví jaká další veteš. Lovci odměn budou mít co žrát. Někteří se dokonce specializují jako lovci čarodějnic pro Sigmarův kult. Jsi mistrný stopař a bojovník se znalostmi kriminálního podsvětí.*
 
-**Boj jako obživa:** Tvé počáteční BO je vyšší o 1k4.
+**Vždy po ruce:** Zvládneš přebít bambitku během jednoho kola bez nutností házet na ověření HBI.
 
 **Extra výbava:** Krátký meč (1k6), Bambitka (1k10, křesadlové, nepřesné, dlouho nabíjecí),  Lehká zbroj (1 brnění, *neskladná*), Síť, Provaz, Klobouk (*zanedbatelný*).
 
@@ -312,23 +312,6 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 <img src="/assets/sep_line.png"/>
 
-## Spodina
-
-*Jsi naprostá spodina společnosti, špinavý pobuda, zloděj a podvodník, který by pro pár šilinků zaprodal svou vlastní mámu. ty to však vidíš jinak. Prostě máš žaludek na práce, kterých se ostatní štítí.*
-
-**Pouliční škola života:** Život na ulici tě naučil, že žádná fyzická překážka není nepřekonatelná. Odemykání zámků a šplhání po všelijakých zítkách, ovládáš přirozeně jako dýchání.
-
-**Extra výbava:** Nůž (1k6), Zlodějské náčiní, Jed na krysy (3 použití, Po konzumaci zabije stvoření o velikost psa do 10-ti minut, člověka do hodiny.)
-
-**Formující volba:** Jaký je tvůj obor?
-
-- **Krysař:** Pohrdavost ostatních ti už lezla krkem a tak si se dal na prospěšnou činnost. Získáváš klícku na tyči (*neskladná*) a psa vycvičeného v lovení a stopování krys (4 BO,  6 SIL 12 HBI 6 VUL, 1k6 (1k6+1k6 proti krysám)). Pokud o něj přijdeš, zvládneš si během týden vycvičit nového jako *volno-časovou aktivitu*.
-- **Prostituce:** Prodáváš své tělo slabomyslným jedincům za peníze, dary a protislužby. Máš jednoho "známého" v každém větším městě.
-- **Vraždy:** Odstraňování nepohodlných pro majetné patrony, je něco v čem ses našel. Ke své výbavě navíc získáváš extra nůž (1k6) a kuši (1k8, *neskladná*, pomalá).
-- **Zlodějna:** Specializuješ se na získávání hodnotných předmětů. Získáváš provaz (5 metrů) a prsten kočky (Umožňuje bezproblémové šplhání a bezpečný pád z libovolné výšky). Každé jeho použití tě vystaví *významnému působení chaosu*.
-
-<img src="/assets/sep_line.png"/>
-
 ## Trpaslík
 
 *Pracovití bručouni menšího vzrůstu, kteří si ale umí vyhodit z kopýtka. Cenění pro svou řemeslnou zručnost, ale obávaní pro svůj vztek. Ukřivdíš-li trpaslíkovi a máš nepřítele na celý život, avšak pomůžeš-li mu. Získáš spolehlivého přítele.* Více o trpaslících se dozvíš [zde](/Zasazení-Oldworld/OldWorld/#trpaslici).
@@ -357,7 +340,7 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 
 *Jako válečný veterán máš již za sebou několik bojů a konfliktů, které tě zocelily. Své dny jsi trávil v první linii, což ti dalo cenné zkušenosti v boji a přežití. Také si pocítil říšské politikaření z první ruky. Život ti vzal již spoustu, je na čase aby začal zase něco vracet.*
 
-**Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale tvá SIL, HBI a VUL jsou nižší o 1 jako následek zranění.
+**Zocelený životem:** Tvé počáteční BO je vyšší o 1k6 ale jedna z tvých dovedností je nižší o 2.
 
 **Extra výbava:** Záložní krátký meč (1k6), Lehká zbroj (1 brnění, *neskladná*), tetování vyznačující příslušnost k jednotce (*zanedbatlené*)
 
@@ -392,5 +375,24 @@ Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsah
 - **Tvá preciznost:** Do své výbavy navíc získáváš Elfí luk (1k8, *neskladný*).
 - **Tvá mysl:** Umíš ukládat kouzla do paměti stejně jako [Čarodějný učeň](/Zasazení-Oldworld/Puvody/#carodejny-ucen). Vyber si jedno kouzlo z tohoto původu, které máš uložené ve své hlavě.
 - **Tvá připravenost:** Získáváš do své výbavy Elfí lucernu. Funguje jako obyčejná lucerna, její svit však nespotřebovává olej. Její "zapálení" stojí 1 VUL. Pouze elfové vědí jak ji používat. 
+
+<img src="/assets/sep_line.png"/>
+
+## Zlodějíček
+
+*Žiješ na pomezí mezi světem bohatých a chudých. Vidíš příležitosti tam, kde ostatní vidí jen chaos. Šikovnými prsty obíráš jak bohaté obchodníky, tak chudé strážné. Žádná fyzická překážka není pro tebe nepřekonatelná*
+
+**Neslyšný pohyb:** Léta praxe a tréninku způsobují, že našlapuješ tiše jako kočka.
+
+**Extra výbava:** Dva nože (1k6+1k6, *neskladné*), Vycpávaný černý oblek (1 Brnění, *neskladný*), Zlodějské náčiní
+
+**Formující volba:** Jaká byla tvá poslední prácička?
+
+- **Šlechtické letní sídlo:** Měl tam plno dobrého vína ale nic moc jiného. Získáváš *20 šilinků* a *Štípačky*.
+- **Banka (Byl si chycen):** Máš cejch, který lze vidět jen při záři ohně. Kdokoliv jej spatří, tě může požádat o pivo. Získáváš *Navíjecí lanko*.
+- **Cechovní sklad:** Získáváš *Žebřík* (3 metry, lze nést pouze v rukách (*neskladný*)) a *Oslepující prášek* (1 použití)
+- **Lichvář:** Někdo tě ale předběhl. Nechal však po sobě *Svitek magického oka* (*zanedbatelný*, Můžeš vidět skrz magické vznášející se oko, které se vznáší a pohybuje na tvůj příkaz.)
+- **Strážmistrovi komnaty:** Povedlo se ti utéct, ale nechal si nějaké přátele na pospas. Získáváš *Hedvábný provaz* (5 metrů) a znechucení sebou samotným.
+- **Univerzita:** Byl si odhalen ale nikdo tě nepronásledoval. Stále nemáš ponětí proč. Získáváš *Kouřové bombičky* (3 použití)
 
 <img src="/assets/sep_line.png"/>
