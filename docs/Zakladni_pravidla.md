@@ -241,7 +241,7 @@ Prvním mechanizmem pro růst postavy jsou jizvy získané *v boji na život a n
 
 Druhý mechanizmus pro postupný růst je nezávislý na okolnostech hry či kampaně samotné.
 
-- **Získávání zkušeností:** Pokaždé, když postava selže v záchranném hodu. Přičte si *1 zkušenostní bod* do dovednosti ve které selhal. Pokud postava nasbírá *5 zkušenostních bodů* v nějaké ze svých dovedností. Těchto 5 nasbíraných zkušenostních bodů si smaže a daná dovednost se mu navýší o 1 bod (max 18).
+- **Získávání zkušeností:** Pokaždé, když postava selže v záchranném hodu a tento výsledný hod je vyšší než její maximální hodnota dané dovednosti. Přičte si *1 zkušenostní bod* do dovednosti ve které selhal. Pokud postava nasbírá *5 zkušenostních bodů* v nějaké ze svých dovedností. Těchto 5 nasbíraných zkušenostních bodů si smaže a daná dovednost se mu navýší o 1 bod (max 18).
 
 ### Růst na základě herních interakcí
 
