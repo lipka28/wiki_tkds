@@ -1,5 +1,109 @@
 # Herní procedury
 
+## Konflikt
+
+<img src="/assets/prav_hry_combat.webp"/>
+
+### Reakce
+
+Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné, jak by NPC zareagovalo. Lze určit jeho reakci *hodem štěstí*. Výsledek lze interpretovat následující tabulkou. 
+
+| 1k6   |   Reakce    |
+| ----- | :---------: |
+| 1     | Nepřátelská |
+| 2 - 3 |  Obezřetná  |
+| 4 - 5 |   Zvídavá   |
+| 6     |  Přátelská  |
+
+### Kola
+
+- **Kolo:** Představuje přibližně *10 vteřin* času, během kterého všechny strany konfliktu odehrají svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první. Výsledky všech tahů jedné strany jsou vyhodnoceny strážcem *najednou*.
+- **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit záchranu *HBI*. Pokud neuspějí, první kolo vynechávají.
+- **Překvapení:** Z kontextu scény může vyplývat, že některé ze stran konfliktu je překvapená. Hodnota BO u překvapených jedinců je ignorována během tahu těch, co překvapení způsobili.
+- **Následující kola:** Ve všech následujících kolej sou vždy hráčské postavy na tahu první a nemusí již podstupovat další záchranu HBI.
+
+### Tahy
+
+- **Aktivity během tahu:** Stvoření během svého tahu se může přesunout a provést akci (specificky v tomto pořadí). Všechny akce dané strany (především způsobené poškození) se vyhodnotí naráz na konci tahu dané strany.
+- **Akce:** Za akci lze považovat útok, seslání kouzla, další přesun a nebo jiná smysluplná akce. Pokud je daná akce riskantní, strážce si může vyžádat hod na záchranu relevantní dovednosti nebo hodit na záchranu relevantní dovednosti za ovlivněné stvoření.
+- **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy či drobné interakce s prostředím (např. otevírání a zavírání dveří)
+
+!!! note "Pohyb na čtvercové síti"
+	Je-li potřeba odehrávat konflikt na čtvercové síti. Lze uvažovat, že se stvoření může pohnout o tolik polí za kolo, kolik je jeho hodnota HBI. U stvoření, které lze považovat za "rychlé", jako je třeba kůň. Lze tuto hodnotu zdvojnásobit a opačně pro významně pomalá stvoření.
+
+### Měření vzdáleností
+
+Pro měření vzdáleností v boji se pro zjednodušení používají **abstraktní vzdálenosti** a **zóny**.
+
+**Abstraktní vzdálenosti**
+
+Se dělí do následujících typů:
+
+- **Blízko:** Cokoliv se nachází ve stejné zóně, je blízko. Lze na to zaútočit útokem na blízku či schopnostmi vyžadující dotek.
+- **Poblíž:** Cokoliv k čemu se lze dostat během jednoho tahu, je poblíž. Většinou se jedná o vedlejší zóny.
+- **Daleko:** Cokoliv k čemu se nelze dostat během jednoho tahu, ale lze na to seslat kouzlo nebo dostřelit, je daleko. 
+- **Mimo dosah:** Cokoliv lze vidět, avšak nelze zasáhnout žádnou schopností, kouzlem či útokem, je mimo dosah.
+
+**Zóny**
+
+Zóny jsou abstraktní výřezy bojiště nespecifikované velikosti (Nikdy však větší jak 100 metrů čtverečných). Zóny mohou mít speciální efekty, mít mezi sebou specifické přechody a obecně by měli dělat bojiště zajímavější a členitější.
+
+### Útok a poškození
+
+- **Útok:** Útočník uděluje poškození určenou kostkou poškození použité zbraně.
+- **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a je *poraněn*. Dotyčný musí také podstoupit záchranný hod proti *kritickému poškození*.
+- **Jizva:** Obdrží-li jedinec tolik poškození, že jsou jeho BO sníženy přesně na 0 obdrží [jizvu](/Zakladni_pravidla/#jizvy).
+- **Skupinový útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
+- **Bojové manévry:** V případě speciálních útoků jako je odzbrojení či shození na zem. Strana, která je nejvíce ohrožena následky manévru podstoupí záchranný hod (většinou na HBI).
+
+!!! example "Alternativní varianta: Společně jsme silnější"
+	Možnou variantou pro vícenásobný útok. Je vzít nejvyšší zdroj poškození a přičítat +1 k poškození za každou další zdroj poškození s hodnotou 4+, schopný zranit nepřítele.
+
+### Modifikátory útoků
+
+- **Oslabený útok:** Útok za nevýhodných okolností (jako je například skrz kouř či se svázanýma rukama) je považován za oslabený. Oslabený útok vždy uděluje pouze *1k4 poškození* a nemůže čerpat bonusová poškození (pokud strážce nerozhodne jinak).
+- **Posílený útok:**  Útok za výhodných okolností může poskytnout bonusové poškození označované jako například *+1k8*. Tohle bonusové poškození se háže jako součást běžného hodu na poškození a udělen je pak pouze nejvyšší dosažený výsledek.
+- **Plošné:** Zbraně a útoky s touto vlastností, zasáhnou všechna stvoření v oblasti. Poškození se háže za každé ovlivněné stvoření zvlášť. Pokud z popisku efektu nebo ze situace není jasné kolik cílů může být efektem ovlivněno, lze tak určit počet cílů hodem stejnou kostkou poškození jako je u efektu uvedena.
+- **Útok dvěma zbraněmi:** Pokud stvoření útočí dvěma zbraněmi, druhá zbraň poskytuje posílení ve výši své kostky poškození. Většinou se zapisuje následovně: "dva nože (1k6+1k6, *neskladné*)".
+
+### Útok na dálku
+
+- **Dostřel:** Zbraněmi na dálku lze efektivně útočit na nepřítele dostatečně blízko na to, aby bylo vidět bělmo jeho očí. Útok na mimořádně vzdálené cíle je považována za *oslabený útok*.
+- **Ohrožení:** Pokud je stvoření útočící na dálku v ohrožení útokem na blízku nepřítele, nemůže provést útok střelnou zbraní (většinou vyplývá z kontextu scény).
+- **Munice:** Předpokládá se, že ke každé střelné zbrani má její majitel i dostatek munice pro její používání. Pokud neexistuje ve fikci hry důvod proč by ji neměl.
+
+
+### Kritické poškození
+
+- **Vyhodnocení:** Pokud udělené poškození sníží hodnotu BO cíle pod 0, přebytečné poškození je následně odečteno z jeho relevantní dovednosti (většinou SIL). Takto zraněný cíl musí následně uspět v záchraně dané dovednosti (s touhle novou hodnotou), aby se vyvaroval *kritickému poškození* a zůstal schopen boje.
+- **Efekt kritického poškození:** V případě neúspěchu obdrží *kritické poškození*. Stvoření zasaženo kritický poškození, leží na zemi a umírá. Nemůže dělat nic jiného než jen sýpat, sápat se a velmi pomalu se plazit po zemi. Pokud takové stvoření není do hodiny stabilizováno (třeba za pomocí bandáží nebo jinou pomocí), zemře.
+- **Monstra:** V případě monster, znamená kritické poškození většinou smrt. Některá monstra také mají speciální schopnosti, která se projeví, když dané monstrum způsobí kritické poškození.
+
+### Ztráta dovednostních bodů
+
+- **Síla:** Pokud je síla stvoření zredukována na 0, stvoření umírá.
+- **Hbitost:** Pokud je hbitost stvoření zredukována na 0, stvoření je paralyzováno
+- **Vůle:** Pokud je vůle stvoření zredukována na 0, stvoření není schopné přemýšlet nebo provádět akce.
+- **Poškození mimo boj:** Pokud stvoření obdrží poškození mimo boj, udělené poškození se odečte přímo z relevantní dovednosti (většinou síla)
+
+### Útěk
+
+- **Útěk:** Útěk ze svízelné situace (například z dosahu nepřátel) vyžaduje bezpečný směr a místo k úniku, a také úspěšné záchranu HBI.
+
+### Morálka
+
+- **Spouštěč:** Strana (jen nehráčské postavy), která ztratí prvního člena nebo polovinu ze svého celkového počtu musí uspět v ověření morálky. V případě neúspěchu strana uteče, vzdá se nebo cokoliv jiného dle uvážení strážce.
+- **Ověření morálky:** Je záchranný hod na VUL. Skupiny vedené nějakým vůdcem mohou použít VUL tohoto vůdce.
+
+### Oddíly
+
+Velké skupiny nepřátel (jako třeba armáda zombie) nebo gigantičtí nepřátelé (jako draci či obři) jsou považovány za oddíly.
+
+- **Kritické poškození:** Oddíly se na místo SIL zachraňují proti VUL (případně VUL svého vůdce). Když oddíl obdrží kritické poškození, tak se rozpadne na samostatné členy nebo se dá na útěk. 
+- **Zničení oddílu:** Když SIL oddílu dosáhne 0, oddíl je zničen.
+- **Útoky proti oddílům:** Pokud jedinec útočí na oddíl, jeho útok je považován za *oslabený*. Neplatí pro *plošné* útoky.
+- **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok je posílen o *+1k12* a je považován za *plošný*.
+
 ## Průzkum významných lokací
 
 <img src="/assets/proc_dungeon.webp"/>

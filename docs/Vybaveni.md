@@ -2,6 +2,15 @@
 
 <img src="/assets/equipment.webp"/>
 
+## Nosnost
+
+Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava v jednu chvíli u sebe. Výbava postavy se umisťuje do tak zvaných *Slotů* v *inventáři*.
+
+- **Inventář:** Je abstraktní pojem pro umístění předmětů postavy. V logice hry postava uchovává své předměty různě na svém těle. První 2 sloty jsou vymezeny pro ruce a ostatní předměty jsou například na opasku, v kapsách, přivázané na zádech či v batohu.
+- **Sloty:** Všechny předměty, pokud není uvedeno jinak, zabírají *1 slot*. Pokud lze předmět považovat za *neskladný* (vyžaduje 2 ruce k manipulaci), zabírá sloty *2*. Některé předměty jsou také označeny jako *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo v inventáři.
+- **Nosnost:** Nosnost hráčské postavy je *12 slotů*. Kdokoliv má všech svých *12 slotů zaplněné*, je zatížený a jeho *BO se sníží na 0* dokud nějaké sloty neuvolní.
+- **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých magických předmětů.
+
 ## Peníze a bohatství
 
 Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším platidlem v Říši jsou však *Šilinky*.
