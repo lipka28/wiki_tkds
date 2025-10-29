@@ -1,9 +1,9 @@
-# Původy
+# Rasy
 
 asd
 
 <img src="/assets/sep_line.png"/>
 
-asd
+## asd
 
 <img src="/assets/sep_line.png"/>

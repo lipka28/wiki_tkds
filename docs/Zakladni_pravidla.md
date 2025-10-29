@@ -106,16 +106,68 @@ Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se n
 
 asd
 
-### Zdraví (HP), odpočinek a léčení
+### Rasa
 
-- **Body obrany (BO):** Každé stvoření disponuje body obrany. Ty představují schopnost stvoření vyvarovat se zranění v přímém boji.
-- **Krátký Odpočinek (průzkumná akce):** Pokud má postava chvilku bezpečí, může si krátce odpočinout a tím doplnit všechny své *Body obrany (BO)*.
-- **Léčení ztráty dovednostních bodů:** Ztracené dovednostní body mohou být vyléčeny několika způsoby. *1k6 dovednostních bodů*, lze vyléčit odpočinkem do dalšího dne. Alternativně si lze body dovedností vyléčit zaplacením léčitele či jiným vhodným zdrojem potřebné expertízy. *Týdenní odpočinek* však vždy *vyléčí všechny dočasně ztracené dovednostní body*.
+asd
 
-### Vyčerpání
+### Původ
 
-- **Vyčerpání:** Postava, která není schopna obstarat své základní životní potřeby (jídlo, pití spánek) se stává *vyčerpanou* a také ztratí 1 bod z každé dovednosti za každý den, kde není schopna tyto potřeby obstarat. Vyčerpaná postava si nemůže doplnit *body obrany* a ani vyléčit *ztracené dovednostní body*.
+asd
 
-## Zkušenosti a postup na vyšší úroveň
+### Specializace
+
+asd
+
+### Úroveň
+
+asd
+
+### Body hrdinství
+
+asd
+
+### Dovednosti
+
+asd
+
+### Životy
+
+asd
+
+### Magie
+
+asd
+
+### Esence (Focus points)
+
+asd
+
+### Obranné číslo
+
+asd
+
+### Hybnost
+
+asd
+
+### Útoky
+
+asd
+
+### Jazyky
+
+asd
+
+### Perky
+
+asd
+
+### Kouzla
+
+asd
+
+### Vabavení
+
+asd
 
 <img src="/assets/prav_hry_growth.webp"/>

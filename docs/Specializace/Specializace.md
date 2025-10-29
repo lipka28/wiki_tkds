@@ -1,4 +1,4 @@
-# Původy
+# Specializace
 
 Následuje 20 původů, ze kterých mohou hráči vybírat. Každý původ obsahuje popis, popisující základní kompetence a někdy i speciální schopnosti. Extra výbavu a také formující volbu, která může rozšířit kompetence postavy, přidat další výbavu či speciální schopnost.
 
