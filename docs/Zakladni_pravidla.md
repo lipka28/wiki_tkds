@@ -57,6 +57,8 @@ Každé stvoření ve hře disponuje 4-mi základními dovednostmi, které slou�
 - **Inteligence (INT):** Využívá se k ověřovacím hodům vyžadující znalosti, inteligenci a um. Například vybavování si informací, výroba předmětů, odemykání zámků, stopování, používání některých typů magie a podobně.  
 - **Vůle (VUL):** Využívá se k záchranným hodům vyžadující sílu vůle, intuici či kouzlo osobnosti. Například při přesvědčování, zastrašování, používání některých typů magie a podobně.
 
+**Ztráta a doplňování dovednostních bodů:** Některá monstra mají schopnost dočasně nebo i dlouhodobě snížit některé dovednostní body. Pokud však není nic co by doplnění dovednostních bodů bránilo. Dovednostní body se doplňují rychlostí *1 bod za přenocování* (předpokládá se řádné přenocování jako u doplňování života popsáno níže.
+
 ### Ověřovací hody
 
 Pokud se postava pokouší o *riskantní akci s potencionálními negativními následky*, často musí podstoupit ověřovací hod. Ten probíhá jako hod *1k20* + Hodnota ověřované dovednosti. Výsledek se pak vyhodnotí na základě porovnání s *hranicí úspěchu (HU)*. Hranici úspěchu a použitou dovednost určuje buď PJ nebo použitá herní procedura.
@@ -134,7 +136,7 @@ Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou �
 Speciální body, které slouží hráčům jako esa v rukávu a která, může PJ používat k odměňování hráčů (například za výborný role-play). Každý hráč začíná každé herní sezení s jedním BH a to nezávisle na tom, kolik BH měl daný hráč na konci posledního sezení. Body hrdinství se dají využít na následující věci:
 
 -   **Přehodit hod:** Hráč může za *1 BH* přehodit, kterýkoliv svůj hod a vzít si nový výsledek. Hod se přehazuje jako celek, všechny kostky co jsou jeho součástí. Například hod na zásah z výhodou, by se znovu opakoval s výhodou. Poškození 3k6 by se znovu házelo jako 3k6.
--   **Stabilizovat:** ==TODO: Ujasnit si umírání==
+-   **Stabilizovat:** Hráč může utratit *všechny své HB* (minimum 1) a stabilizovat tak svou umírající postavu. Může tak učinit i kdyby měl právě umřít. Ať už následkem vypršení času či zvorané stabilizace spojencem. Stabilizovaná postava má *0 životů a je stále v bezvědomí není však smrtelně raněná*. 
 
 ### Dovednosti
 
@@ -150,9 +152,15 @@ Dovednosti jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==.
 
 **Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši maxima kostky života své specializace (například 1k6 = 6).
 
-#### Smrt ==TODO:TBD==
+#### Smrt
 
-varianta 1 -> Cairn .. you down can trigger massaccer effects, Hodina na vyléčení jinak papá. (to bude bouncy), když přidám exhausted (-2 to all rolls), Death door (prach smrti)
+Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a umírá. Zemře za *1k4* kol (na konci tahu své strany). Jakékoliv vyléčené množství životů ji přivede zpět k sobě. Jakékoliv další obdržené zranění, ji v tomhle stavu ihned zabije.
+
+- **Bezvědomí:** Postava je bezvládná nemůže nic dělat.
+- **Smrtelné zranění:** Postava má *-2 do všech ověřovacích hodů* a pokud znovu ztratí všechny své životy, tak zemře. Tento stav se ukončí, když je postava vyléčena do plného zdraví a nerušeně si odpočine do dalšího dne.
+- **Stabilizace:** Stvoření může být stabilizováno (neumírá, ale stále má 0 životů a je v bezvědomí). Libovolným inteligentním stvořením a ověřovacím hodem na inteligenci s *HU 15* (HU 10 pokud má dotyčný ==TODO: Item pro lékařskou sadu==).
+    - *Kritický úspěch:* Postavě je vyléčen 1 život a přijde zpět k vědomí. 
+    - *Kritický neúspěch:* Postava je zabita.
 
 ### Magie
 

@@ -1,6 +1,6 @@
 # Herní procedury
 
-## Konflikt
+## Setkání a konflikt
 
 <img src="/assets/prav_hry_combat.webp"/>
 
@@ -15,94 +15,79 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 | 4 - 5 |   Zvídavá   |
 | 6     |  Přátelská  |
 
-### Kola
+### Kola konfliktu
 
-- **Kolo:** Představuje přibližně *10 vteřin* času, během kterého všechny strany konfliktu odehrají svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první. Výsledky všech tahů jedné strany jsou vyhodnoceny strážcem *najednou*.
-- **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit záchranu *HBI*. Pokud neuspějí, první kolo vynechávají.
-- **Překvapení:** Z kontextu scény může vyplývat, že některé ze stran konfliktu je překvapená. Hodnota BO u překvapených jedinců je ignorována během tahu těch, co překvapení způsobili.
+- **Kolo:** Představuje přibližně *10 vteřin* času, během kterého všechny strany konfliktu odehrají svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první.
+- **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit záchranu *Obratnosti* s *HU 10*. Pokud neuspějí, první kolo vynechávají.
 - **Následující kola:** Ve všech následujících kolej sou vždy hráčské postavy na tahu první a nemusí již podstupovat další záchranu HBI.
 
 ### Tahy
 
-- **Aktivity během tahu:** Stvoření během svého tahu se může přesunout a provést akci (specificky v tomto pořadí). Všechny akce dané strany (především způsobené poškození) se vyhodnotí naráz na konci tahu dané strany.
-- **Akce:** Za akci lze považovat útok, seslání kouzla, další přesun a nebo jiná smysluplná akce. Pokud je daná akce riskantní, strážce si může vyžádat hod na záchranu relevantní dovednosti nebo hodit na záchranu relevantní dovednosti za ovlivněné stvoření.
-- **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy či drobné interakce s prostředím (např. otevírání a zavírání dveří)
-
-!!! note "Pohyb na čtvercové síti"
-	Je-li potřeba odehrávat konflikt na čtvercové síti. Lze uvažovat, že se stvoření může pohnout o tolik polí za kolo, kolik je jeho hodnota HBI. U stvoření, které lze považovat za "rychlé", jako je třeba kůň. Lze tuto hodnotu zdvojnásobit a opačně pro významně pomalá stvoření.
+- **Aktivity během tahu:** Stvoření během svého tahu se může přesunout o svou hybnost a provést akci (specificky v tomto pořadí).
+- **Akce:** Za akci lze považovat útok, seslání kouzla, použití perku, další přesun o svou hybnost a nebo jiná smysluplná akce.
+- **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy, mluvení či drobné interakce s prostředím (např. otevírání a zavírání dveří)
 
 ### Měření vzdáleností
 
-Pro měření vzdáleností v boji se pro zjednodušení používají **abstraktní vzdálenosti** a **zóny**.
+==TODO: Možná rozebrat měření různých tvarů?==
 
-**Abstraktní vzdálenosti**
+### Útok obecně
 
-Se dělí do následujících typů:
+Útočící stvoření podstoupí ověřovací hod na *SIL* (pro útok na blízku) nebo na *OBR* a přičte k výsledku relevantní modifikátory. Výslednou hodnotu pak porovná s *OČ* soupeře.
 
-- **Blízko:** Cokoliv se nachází ve stejné zóně, je blízko. Lze na to zaútočit útokem na blízku či schopnostmi vyžadující dotek.
-- **Poblíž:** Cokoliv k čemu se lze dostat během jednoho tahu, je poblíž. Většinou se jedná o vedlejší zóny.
-- **Daleko:** Cokoliv k čemu se nelze dostat během jednoho tahu, ale lze na to seslat kouzlo nebo dostřelit, je daleko. 
-- **Mimo dosah:** Cokoliv lze vidět, avšak nelze zasáhnout žádnou schopností, kouzlem či útokem, je mimo dosah.
+- **Kritický úspěch:** Uděluje dvojnásobné poškození.
+- **Úspěch:** Uděluje standardní poškození dle zbraně nebo útoku.
+- **Neúspěch:** Útok nezpůsobil žádné poškození.
+- **Kritický neúspěch:** V tomhle případě stejné jako neúspěch avšak některá monstra nebo i postavy, mohou mít schopnost takového selhání využít.
 
-**Zóny**
+**Nezranitelnost:** Některá stvoření jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje poškození.
 
-Zóny jsou abstraktní výřezy bojiště nespecifikované velikosti (Nikdy však větší jak 100 metrů čtverečných). Zóny mohou mít speciální efekty, mít mezi sebou specifické přechody a obecně by měli dělat bojiště zajímavější a členitější.
+!!! note "Minimální poškození" Úspěšný zásah vždy udělí aspoň 1 poškození. (Pokud cíl není imunní)
 
-### Útok a poškození
+**Typy poškození:** Některá stvoření mohou mít *odolnost* (poloviční poškození), *imunitu* (žádné poškození) nebo *slabost* (dvojnásobné poškození) proti některým typům útoků. Je na PJ aby tyto případné odolnosti a slabosti vyhodnotil.
 
-- **Útok:** Útočník uděluje poškození určenou kostkou poškození použité zbraně.
-- **Poškození:** Když jedinec obdrží poškození v boji. Ztratí tolik BO rovno obdrženému poškození. Pokud jedinec obdržel více poškození než je jeho hodnota BO, přebytečné poškození se odečte z jeho relevantní dovednosti (většinou SIL) a je *poraněn*. Dotyčný musí také podstoupit záchranný hod proti *kritickému poškození*.
-- **Jizva:** Obdrží-li jedinec tolik poškození, že jsou jeho BO sníženy přesně na 0 obdrží [jizvu](/Zakladni_pravidla/#jizvy).
-- **Skupinový útok:** Pokud na cíl útočí více útočníků. Strážce si poznačí nejvyšší udělené poškození a na konci tahu udělí cíli těchto útoků pouze tohle nejvyšší poškození.
-- **Bojové manévry:** V případě speciálních útoků jako je odzbrojení či shození na zem. Strana, která je nejvíce ohrožena následky manévru podstoupí záchranný hod (většinou na HBI).
+!!! note "Příklad: Ohnivý elementál" Ohnivému elementálovi, by zásah ohnivou koulí asi nic moc neudělal. Avšak smetením vodním proudem by mělo devastující účinky.
 
-!!! example "Alternativní varianta: Společně jsme silnější"
-	Možnou variantou pro vícenásobný útok. Je vzít nejvyšší zdroj poškození a přičítat +1 k poškození za každou další zdroj poškození s hodnotou 4+, schopný zranit nepřítele.
+**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé  kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny.
 
-### Modifikátory útoků
+!!! note "Příklad: Hořící nestvůra" Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
 
-- **Oslabený útok:** Útok za nevýhodných okolností (jako je například skrz kouř či se svázanýma rukama) je považován za oslabený. Oslabený útok vždy uděluje pouze *1k4 poškození* a nemůže čerpat bonusová poškození (pokud strážce nerozhodne jinak).
-- **Posílený útok:**  Útok za výhodných okolností může poskytnout bonusové poškození označované jako například *+1k8*. Tohle bonusové poškození se háže jako součást běžného hodu na poškození a udělen je pak pouze nejvyšší dosažený výsledek.
-- **Plošné:** Zbraně a útoky s touto vlastností, zasáhnou všechna stvoření v oblasti. Poškození se háže za každé ovlivněné stvoření zvlášť. Pokud z popisku efektu nebo ze situace není jasné kolik cílů může být efektem ovlivněno, lze tak určit počet cílů hodem stejnou kostkou poškození jako je u efektu uvedena.
-- **Útok dvěma zbraněmi:** Pokud stvoření útočí dvěma zbraněmi, druhá zbraň poskytuje posílení ve výši své kostky poškození. Většinou se zapisuje následovně: "dva nože (1k6+1k6, *neskladné*)".
+### Ostatní bojové situace
 
-### Útok na dálku
+**Boj dvěma zbraněmi:** Kdokoliv může držet 2 zbraně a však útočnou akci může provést jen s jednou. Efektivní využití obou zbraní však vyžaduje některé specializace nebo perky.
 
-- **Dostřel:** Zbraněmi na dálku lze efektivně útočit na nepřítele dostatečně blízko na to, aby bylo vidět bělmo jeho očí. Útok na mimořádně vzdálené cíle je považována za *oslabený útok*.
-- **Ohrožení:** Pokud je stvoření útočící na dálku v ohrožení útokem na blízku nepřítele, nemůže provést útok střelnou zbraní (většinou vyplývá z kontextu scény).
-- **Munice:** Předpokládá se, že ke každé střelné zbrani má její majitel i dostatek munice pro její používání. Pokud neexistuje ve fikci hry důvod proč by ji neměl.
+**Coup de grâce:** Bezmocní nepřátelé. Jako  například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem  bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
 
+**Neozbrojený útok:** Působí *1k4* poškození.
 
-### Kritické poškození
+**Netrénovaná brnění (a štíty):** Používání netrénované zbroje způsobuje *nevýhodu* na všechny ověření *SIL* a *OBR* a nelze v nich čarovat.
 
-- **Vyhodnocení:** Pokud udělené poškození sníží hodnotu BO cíle pod 0, přebytečné poškození je následně odečteno z jeho relevantní dovednosti (většinou SIL). Takto zraněný cíl musí následně uspět v záchraně dané dovednosti (s touhle novou hodnotou), aby se vyvaroval *kritickému poškození* a zůstal schopen boje.
-- **Efekt kritického poškození:** V případě neúspěchu obdrží *kritické poškození*. Stvoření zasaženo kritický poškození, leží na zemi a umírá. Nemůže dělat nic jiného než jen sýpat, sápat se a velmi pomalu se plazit po zemi. Pokud takové stvoření není do hodiny stabilizováno (třeba za pomocí bandáží nebo jinou pomocí), zemře.
-- **Monstra:** V případě monster, znamená kritické poškození většinou smrt. Některá monstra také mají speciální schopnosti, která se projeví, když dané monstrum způsobí kritické poškození.
+**Netrénované zbraně:** Používání netrénované zbraně způsobuje *nevýhodu* na všechny útoky touhle zbraní.
 
-### Ztráta dovednostních bodů
+**Průchod spojenci:** Při používání čtvercové sítě pro boj, spojenci lze volně procházet. Nelze však skončit tah na stejném místě jako spojenec.
 
-- **Síla:** Pokud je síla stvoření zredukována na 0, stvoření umírá.
-- **Hbitost:** Pokud je hbitost stvoření zredukována na 0, stvoření je paralyzováno
-- **Vůle:** Pokud je vůle stvoření zredukována na 0, stvoření není schopné přemýšlet nebo provádět akce.
-- **Poškození mimo boj:** Pokud stvoření obdrží poškození mimo boj, udělené poškození se odečte přímo z relevantní dovednosti (většinou síla)
+**Průchod nepřáteli:** Průchod nepřáteli vyžaduje ověření *SIL* nebo *OBR* v závislosti na zvolené "metodě průchodu". Obtížnost stanovuje PJ dle situace.
+
+**Přemožení:** Zredukuje-li postava nebo inteligentní monstrum svého nepřítele na 0 HP. Může jej na místo zabití omráčit, odzbrojit nebo jinak vyřadit z boje bez zabití.
+
+**Vzájemné ohrožení:** Stvoření stojící v dosahu svých útoků se nachází ve vzájemném ohrožení. Stvoření ve vzájemném ohrožení mají *nevýhodu* na všechny útoky na dálku a sesílání kouzel jejichž cílem je někdo jiný než stvoření způsobující vzájemné ohrožení.
 
 ### Útěk
 
-- **Útěk:** Útěk ze svízelné situace (například z dosahu nepřátel) vyžaduje bezpečný směr a místo k úniku, a také úspěšné záchranu HBI.
+- **Útěk:** Útěk ze svízelné situace (například ze vzájemného ohrožení nepřítele) vyžaduje bezpečný směr a místo k úniku, a také úspěšné ověření *OBR* (*HU 10* ale může se lišit dle situace).
 
 ### Morálka
 
-- **Spouštěč:** Strana (jen nehráčské postavy), která ztratí prvního člena nebo polovinu ze svého celkového počtu musí uspět v ověření morálky. V případě neúspěchu strana uteče, vzdá se nebo cokoliv jiného dle uvážení strážce.
-- **Ověření morálky:** Je záchranný hod na VUL. Skupiny vedené nějakým vůdcem mohou použít VUL tohoto vůdce.
+- **Spouštěč:** Strana (jen nehráčské postavy), která ztratí vůdce nebo polovinu ze svého celkového počtu musí uspět v ověření morálky. V případě neúspěchu strana uteče, vzdá se nebo cokoliv jiného dle uvážení strážce.
+- **Ověření morálky:** Je ověření *VUL* s *HU 10*. Skupiny vedené nějakým vůdcem mohou použít *VUL* tohoto vůdce.
 
-### Oddíly
+### Negativní stavy
 
-Velké skupiny nepřátel (jako třeba armáda zombie) nebo gigantičtí nepřátelé (jako draci či obři) jsou považovány za oddíly.
+Tahle hra definuje pouze 3 negativní stavy a těmi jsou *Bezvědomí*, *Smrtelné zranění* a *Vyčerpání*. Pro ostatní efekty jako jsou slepota, hluchota či třeba přidržení. Používejte především logiku fikce. Většinou stačí uvalit nějaké nevýhody na hody nebo znemožnit některé akce.
 
-- **Kritické poškození:** Oddíly se na místo SIL zachraňují proti VUL (případně VUL svého vůdce). Když oddíl obdrží kritické poškození, tak se rozpadne na samostatné členy nebo se dá na útěk. 
-- **Zničení oddílu:** Když SIL oddílu dosáhne 0, oddíl je zničen.
-- **Útoky proti oddílům:** Pokud jedinec útočí na oddíl, jeho útok je považován za *oslabený*. Neplatí pro *plošné* útoky.
-- **Útoky oddílů:** Pokud oddíl útočí na jedince jejich útok je posílen o *+1k12* a je považován za *plošný*.
+- **Bezvědomí:** Postava je bezvládná nemůže nic dělat.
+- **Smrtelné zranění:** Postava má *-2 do všech ověřovacích hodů* a pokud znovu ztratí všechny své životy, tak zemře.
+- **Vyčerpání:** Postava je na pokraji svých sil. Má postih -2 do všech ověřovacích hodů a OČ.
 
 ## Průzkum významných lokací
 
@@ -113,21 +98,21 @@ Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významn
 - **Průzkumné směny:** Průzkumná směna je úsek přibližně 10-ti minut. Během kterého se každá hráčská postava může volně pohybovat po zkoumané oblasti (většinou místnost nebo na dosah pochodně) a provést 1 průzkumnou akci. 
 - **Průzkumná akce:** Akce trvající 1 průzkumnou směnu.
 - **Opatrný pohyb:** Při průzkumu nebezpečných oblastí se předpokládá, že hráčské postavy postupují pomalu a opatrně. Jakékoliv nebezpečí či smrtelné nástrahy odhalí v čas. Čím větší nebezpečí tím více zřejmé by mělo být opatrně postupujícím postavám. To však nemusí být pravda pokud třeba před něčím utíkají. 
-- **Světlo:** Pochodně a lucerny svítí přibližně do okolí *10 metrů* a svítí tak dlouho dokud nejsou uhašeny prostředím nebo nositelem. *Pochodeň* může být znovu zapálena až 3x než je zničena a *lucerna* může být zapálena neomezeně pokud je k dispozici nějaký *lampový olej*.
+- **Světlo:** Pochodně a lucerny svítí přibližně do okolí *10 metrů* a svítí tak dlouho dokud nejsou uhašeny prostředím nebo nositelem.
 - **Prohledat (průzkumná akce):** Postava může důkladně prohledat objekt či malou oblast lokace a tím automaticky odhalit cokoliv skrytého v dané oblasti. Věci jako pasti, tajné přihrádky, skryté dveře a podobně.
-- **Odpočinek (průzkumná akce):** Pokud má postava chvilku bezpečí, může si krátce odpočinout a tím doplnit všechny své *Body obrany (BO)*.
+- **Odpočinek (průzkumná akce):** Pokud má postava chvilku bezpečí, může si krátce odpočinout a tím doplnit svou esenci.
 - **Přenocování:** Přenocování v nebezpečných lokacích většinou není možné, pokud si postavy nejsou schopny zajistit dostatečně bezpečné místo.
 
 ### Speciální události
 
-Průzkum neznámé oblasti může oproti normální herní smyčce spustit speciální události. Hod na speciální událost je hod *kostkou osudu* (k6), který se stane na konci každé průzkumné směny nebo když postavy udělají mimořádný hluk.
+Průzkum neznámé oblasti může oproti normální herní smyčce spustit speciální události. Hod na speciální událost je hod *hodem štěstí* (k6), který se stane na konci každé průzkumné směny nebo když postavy udělají mimořádný hluk.
 
-Strážce může hod kostky osudu interpretovat jak si přeje, nebo si může pomoci následující tabulkou.
+PJ může hod kostky osudu interpretovat jak si přeje, nebo si může pomoci následující tabulkou.
 
 | 1k6  | Speciální událost                                            |
 | :--: | ------------------------------------------------------------ |
 |  1   | **Náhodné setkání** - Setkání s monstrem nebo jinou nehráčskou postavou. Může být agresivní (viz. [reakce](/Zakladni_pravidla/#reakce)) |
-|  2   | **Ztráta nebo prostředí** - Postava ztratí zdroj světla, probíhající kouzlo je ukončeno, nepřátelský magický rituál postoupí do další fáze, země se otřese, hladina vody stoupne a podobně. |
+|  2   | **Ztráta nebo prostředí** - Postava ztratí zdroj světla, probíhající kouzlo je vyrušeno, nepřátelský magický rituál postoupí do další fáze, země se otřese, hladina vody stoupne a podobně. |
 |  3   | **Znamení** - Náznak toho co se po oblasti pohybuje. Věci jako stopy, zápach, předchozí oběti, přibližující se zvuk kroků a podobně. |
 | 4-6  | **Nic** - Nic zajímavého se neděje. Alternativně při 6 může být pozitivní událost nebo objev. |
 
@@ -138,8 +123,8 @@ Strážce může hod kostky osudu interpretovat jak si přeje, nebo si může po
 Při cestování či průzkumu divočiny se čas měří na *hlídky*. Každý den je rozdělen na *3 osmihodinové hlídky*: Ráno, Odpoledne a Noc. 
 
 - **Hlídková akce:** Každý hráč si může určit svou hlídkovou akci co bude provádět. Některé hlídkové akce však požadují účast všech členů skupiny.
-- **Cestování:** Postavy většinou cestují mezi zajímavými lokacemi jako body na mapě. Strážce určuje, kolik hlídek trvá cesta mezi určitými body. Při určování délky cesty by měl strážce, mimo vzdálenosti, také vzít v potaz stav skupiny, jejích schopnosti, počasí, terén a jiné proměnné, které mohou ovlivnit délku cesty. Hráči by měli mít vždy přibližnou představu o nástrahách, které je mohou potkat na dané cestě.
-- **Speciální události:** Každou hlídku může strážce hodit na speciální událost. Používá stejný *hod kostkou osudu* a *tabulku speciálních událostí* jako je popsána výše. S tím rozdílem, že výsledek na kostce *6* znamená objev. Ať už významné lokace, zdroje jídla, poklad nebo cokoliv jiného s pozitivním dopadem. Také ztráta může být interpretována jako ztráta směru.
+- **Cestování:** Postavy většinou cestují mezi zajímavými lokacemi jako body na mapě. PJ určuje, kolik hlídek trvá cesta mezi určitými body. Při určování délky cesty by měl PJ, mimo vzdálenosti, také vzít v potaz stav skupiny, jejích schopnosti, počasí, terén a jiné proměnné, které mohou ovlivnit délku cesty. Hráči by měli mít vždy přibližnou představu o nástrahách, které je mohou potkat na dané cestě.
+- **Speciální události:** Každou hlídku může PJ hodit na speciální událost. Používá stejný *hod štěstí* a *tabulku speciálních událostí* jako je popsána výše. S tím rozdílem, že výsledek na kostce *6* znamená objev. Ať už významné lokace, zdroje jídla, poklad nebo cokoliv jiného s pozitivním dopadem. Také ztráta může být interpretována jako ztráta směru.
 
 ### Hlídkové akce
 
@@ -147,19 +132,19 @@ Hráčské postavy mohou, mimo jiné, provádět následující *hlídkové akce
 
 - **Cestování:** Posun k bodu zájmu na mapě o *1 hlídku*. Všechny zřejmé prvky dané oblasti jsou hráčům průchodem odhaleny. Tato akce musí být prováděna celou skupinou.
 - **Průzkum:** Jeden nebo více členů skupiny se může zúčastnit průzkumu velké oblasti. Umožňující zaručeně odhalit skryté prvky, které nemusí být odhaleny pouhým průchodem. Pokud oblast obsahuje více takových to prvků, je třeba ji prozkoumat vícekrát nebo se průzkumu musí zúčastnit více průzkumníků (1 prvek za každého průzkumníka).
-- **Zásobování:** Jeden nebo více členů skupiny se může zúčastnit lovení, rybaření nebo jiného způsobu sběru jídla. A získat tak *1k4* čerstvých zásob (3 použití, kazí se). Každý účastník lovu zvedá množství získaných zásob o 1 stupeň (1k4 -> 1k6 atd. až po maximum 1k12). Množství získaných zásob lze také zvednout speciálními schopnostmi či relevantním vybavením.
-- **Založit tábor:** Skupina se zastaví a založí si tábor (většinou 3. *hlídková akce* každého dne. Každý ve skupině (včetně zvířat a jiných družníků) spotřebuje 1 použití zásoby. Pokud možné, určí se pořadí hlídek a postavy se vyspí do dalšího dne a vyléčí si *1k6* dovednostních bodů (dle vlastního výběru). Pokud je tato akce vynechána všichni členové výpravy jsou *vyčerpaní* a ztratí 1 bod každé dovednosti).
+- **Zásobování:** Jeden nebo více členů skupiny se může zúčastnit lovení, rybaření nebo jiného způsobu sběru jídla. A získat tak *1k4* čerstvých zásob (kazí se). Každý účastník lovu zvedá nalezené množství o *1k4*.
+- **Založit tábor:** Skupina se zastaví a založí si tábor (většinou 3. *hlídková akce* každého dne. Každý ve skupině (včetně zvířat a jiných družníků) spotřebuje 1 zásobu. Pokud možné, určí se pořadí hlídek a postavy se vyspí do dalšího dne. Nerušený spánek umožní *přirozenou regeneraci* a případnou léčbu jednoho dovednostního bodu. Pokud je tato akce vynechána všichni členové výpravy jsou *vyčerpaní*.
 - **Jiné:** Cokoliv zabere relevantní množství času z daného dne. Například nákup ve vesnici či získávání informací.
 
 ## Mezi dobrodružstvími
 
 <img src="/assets/proc_downtime.webp"/>
 
-Mezi dobrodružstvími (herními sezení), když se postavy nachází v dostatečném bezpečí (kdekoliv kde lze přenocovat). Mohou provádět *volno-časové* aktivity. Každá postava má možnost provádět volno-časové aktivity a v jednu chvíli nemůže postava provádět více jak jednu volno-časovou aktivitu. Volno-časová aktivita nemůže nikdy vystavit postavu smrtelnému nebezpečí. Pokud smrtelné nebezpečí hrozí, měla by být tato aktivita předmětem herního sezení / dobrodružství.
+Mezi dobrodružstvími (herními sezení), když se postavy nachází v dostatečném bezpečí (kdekoliv kde lze přenocovat). Má každá postava možnost provést jednu volno-časovou aktivitu. Volno-časová aktivita nemůže nikdy vystavit postavu smrtelnému nebezpečí. Pokud smrtelné nebezpečí hrozí, měla by být tato aktivita předmětem herního sezení / dobrodružství.
 
 **Milníky**
 
-Některé aktivity mohou vyžadovat k úspěšnému dokončení více kroků. Lze je tedy rozdělit do 1 - 5-ti milníků. Milník představuje úplnou neinteraktivní aktivitu, kterou lze provést jako *volno-časovou aktivitu*. Milníky mohou být v průběhu hry mazány, přidávány nebo měněny, dle dění ve hře.
+Některé volno-časové aktivity mohou vyžadovat k úspěšnému dokončení více kroků. Lze je tedy rozdělit do 1 - 5-ti milníků. Milník představuje úplnou neinteraktivní aktivitu, kterou lze provést jako *volno-časovou aktivitu*. Milníky mohou být v průběhu hry mazány, přidávány nebo měněny, dle dění ve hře.
 
 **Cena**
 
@@ -169,10 +154,10 @@ Splnění milníku často mívá asociovanou cenu. Pokud postava není schopna c
 - **Zdroje:** Běžné předměty, nástroje či materiály.
 - **Reputace:** Dát v sázku vlastní reputaci či vztah s NPC či organizací.
 - **Vzácnost:** Cenný materiál, kus těla, duše, magický předmět a podobně.
-- **Záchranný hod:** Relevantní záchranný hod
+- **Ověřovací hod:** Relevantní ověřovací hod.
 - **Kombinace:** Kombinace více možných cen.
 
-**Odpuštění ceny:** Cena může být také hráči odpuštěna například pokud ji již někdy předtím uhradil, má již vše potřebné k provedení aktivity, či má relevantní schopnost či zkušenost, která dělá tuto cenu bezvýznamnou.
+**Odpuštění ceny:** Cena může být také hráči odpuštěna například pokud ji již někdy předtím uhradil, má již vše potřebné k provedení aktivity, či má relevantní schopnost, která dělá tuto cenu bezvýznamnou.
 
 ### Volno-časové aktivity
 
@@ -180,40 +165,20 @@ Nejběžnější volno-časové aktivity.
 
 **Zotavení**
 
-Postava si vyléčí všechna zranění (ztracené dovednostní body) pokud dané zranění není trvalejšího charakteru nebo nepotřebuje specifickou expertízu ke správnému vyléčení.
-
-- **Léčitel:** Pokud dostupné, postava si na místo zotavení může zaplatit služby léčitele a tak uvolnit svou *volno-časovou aktivitu* pro jiné účely. Léčitel (nebo jiný adekvátní odborník) je také užitečný, pro léčbu dlouhodobějších následků.
+Postava si může zaplatit léčitelské služby pro zotavení se z následků dlouhodobějšího charakteru.
 
 **Naučit se něco nového**
 
-Postava se může zlepšit v určité aktivitě či naučit se něco nového. Věci jako naučit se nový jazyk, zlepšit se v útocích se specifickou zbraní či třeba naučit se vyrábět léčivé masti. Výsledkem tréninku by měl být jasný narativní či mechanický efekt.
+Postava se může zlepšit v určité aktivitě či naučit se něco nového. Hráčská postava se nikdy nemůže naučit perk navíc nebo perk z jiné specializace. Lze se však naučit věci jako nový jazyk, věnovat se nějaké profesi (např bylinkářství), či přeučit se některý ze svých perků za něco jiného.
 
-- **Mistr:** K naučením některých věcí může být třeba mistr nebo nějaký trenér. Alternativně může mistr učení se novým věcem výrazně urychlit.
-
-!!! note "Příklad 1: Dvou-ruční vykrytí"
-    Při boji s jednou volnou rukou se dočasně zvýší tvé BO o 1k4. Skupina najala žoldáka z Poříčského panství, kde se učí speciální způsob boje, zaměřený na vyhýbání se útokům nepřítele. Souhlasil s tím, že bude trénovat každého, kdo ji dokáže porazit v boji v šermu jeden na jednoho.
-
-!!! note "Příklad 2: Bylinkářství"
-    Pokud máš potřebné ingredience můžeš vyrobit hojivou mast (obnoví  1k4 SIL, 1 použití) jako volno-časovou aktivitu. Po léčbě od starého bylinkáře v Nových Hájích požádal zraněný hráč o výcvik v umění léčby. Mistr souhlasil, ale požaduje, aby před zahájením výcviku nasbírali tři vzácné byliny.
+- **Mistr:** K učení je vždy potřeba mistr nebo nějaký trenér.
 
 **Navazování a utužování vztahů**
 
 Postava může zlepšovat své vztahy s jinými NPC či frakcemi. Hráč určí s kým chce utužovat svůj vztah a za jakým účelem (co z toho chce na konec dostat). Strážce pak stanoví *milníky* a *ceny* k dosažení tohoto cíle.
-
-!!! note "Příklad 1: Přidání se k frakci"
-    Během hry se postava spřátelí s členkou cechu Ochránců. Ohromen jejími metodami. Chce jeden z hráčů zjistit jaké jsou požadavky pro přidání se k tomuto cechu.
-
-!!! note "Příklad 2: Nový přírůstek"
-    Po návratu z neúspěšné výpravy z Rudých hor postavy zjistí, že nevědomky  sebou přinesly černého pasažéra. Čerstvě vylíhnuté mládě wyverny. Postavy se rozhodnou, že si mládě nechají a budou jej trénovat.
 
 **Získávání informací**
 
 Postava může hledat odpověď na specifickou otázku. Věci jako: kde nalézt určité NPC, jak odolat dračímu ohni, kde najít specifický magický předmět. Při stanovení zkoumané otázky musí hráč vycházet ze znalostí své postavy.
 
 -  **Zdroj:** Získávání informací vyžaduje relevantní zdroj informací. Pokud postava takový zdroj nemá k dispozici, může se ho pokusit, jako *volno-časovou aktivitu*, najít. 
-
-!!! note "Příklad 1: Jak na zkamenění kuroliškem?"
-    Knihovna řádu Lamačů kouzel obsahuje bezpočet textů o všelijakých monstrech. Pokud někde bude informace o tom jak zvrátit zkamenění kuroliškem, tak tam.
-
-!!! note "Příklad 2: Co je to za podivnou květinu?"
-    Ježibaba žijící v blízkém lese určitě zná i ty nejzvláštnější byliny. Otázkou ale zůstává co bude chtít na oplátku.
