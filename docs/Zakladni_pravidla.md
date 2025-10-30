@@ -62,6 +62,7 @@ Každé stvoření ve hře disponuje 4-mi základními dovednostmi, které slou�
 Pokud se postava pokouší o *riskantní akci s potencionálními negativními následky*, často musí podstoupit ověřovací hod. Ten probíhá jako hod *1k20* + Hodnota ověřované dovednosti. Výsledek se pak vyhodnotí na základě porovnání s *hranicí úspěchu (HU)*. Hranici úspěchu a použitou dovednost určuje buď PJ nebo použitá herní procedura.
 
 - **Soutěž:** Je variantou ověřovacího ho hodu. Kdy se výsledek ověřovacího hodu neporovnává s HU ale s výsledkem ověřovacího hodu soupeře. To může být třeba, když se dvě stvoření pokouší o vzájemně protichůdné akce. (Například pokus o přetlačení či odzbrojení nepřítele v boji).
+- **Tajný hod:** Někdy může být třeba, aby hráč nevěděl zda něco provedlo úspěšně nebo ne, dokud neuběhne určitý čas. V takový případech lze použít tajný hod, který háže PJ s hráčovými modifikátory a výsledek mu prozradí až nastane správný čas.
 
 #### Stanovení HU
 
@@ -96,6 +97,9 @@ Speciální schopnosti, perky a výjimečné situace v boji mohou uvalit na ově
 !!! note "Rada pro PJ: Obtížnost a Výhoda"
 	Výhoda a nevýhoda je něco co postihne hráče jako následek speciálních efektů či podmínek. PJ určující obtížnost aktivity by však měl preferovat posun obtížnosti HU než začne rozdávat výhody a nevýhody (Při boji však často jiná možnost není).
 
+!!! note "Rada pro PJ: Kdy neházet"
+	Obecně je dobré se řídit pravidlem: *"Čas, nástroje a znalosti"*. Pokud postava splňuje všechny tyto tři podmínky a to že, není pod časovým tlakem, má potřebné nástroje a znalosti. A reálně nehrozí žádný negativní následek za neúspěch (ztráta směny v kobce je dostatečný následek.) Může uspět bez potřeby hodu na ověření. 
+
 ### Hod štěstí
 
 Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se na vyhodnocení zeptat hodem štěstí.
@@ -104,70 +108,93 @@ Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se n
 
 ## Atributy hráčských postav
 
-asd
+Každá hráčská postava je definovaná následujícím atributy, které má každý hráč poznačené ve svém deníku postavy.
 
 ### Rasa
 
-asd
+Každá hráčská postava je příslušníkem nějaké fantastické rasy. Ať už jsou to Trpaslíci, Elfové nebo obyčejní Lidé. Rasa většinou poskytuje nějaký bonus do života a many a nějakou speciální schopnost. Také může dát přístup k extra perkům. Více o dostupných hráčských rasách ==TODO:Link==.
 
 ### Původ
 
-asd
+Původ popisuje nějakou životní zkušenost vzniklou před začátkem hry. Hráč se může pokusit aplikovat svůj původ na řešení problému ve hře a tím získat nějaké bonusy (většinou výhodu k ověřovacímu hodu). Výběr původu ==TODO:Link==
 
 ### Specializace
 
-asd
+Specializace je hlavním gró postavy a dává jí naprostou většinu jejich speciálních schopností. Popis jednotlivých specializací lze nalézt ==TODO:link==
 
 ### Úroveň
 
-asd
+Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou úrovní. Nové úrovně poskytují extra kostku života (a many u kouzlených specializací) a každá sudá úroveň navíc i perk.
 
-### Body hrdinství
+-   **Získávání úrovní:** Hráčské postavy získávají nové úrovně za významné milníky ve hře. Jako je splnění nějakého důležitého úkolu, Poražení silného nepřítele či vysvobození mocného artefaktu z prokletých kobek.
+-   **Maximální úroveň:** Teoretická maximální úroveň je 10. Ale nic vám nebrání pokračovat i dále. Po 10. úrovni by však hráči ze svých specializací neměli nic získávat (včetně kostek života) pouze nové perky každou sudou úroveň.
 
-asd
+### Body hrdinství (BH)
+
+Speciální body, které slouží hráčům jako esa v rukávu a která, může PJ používat k odměňování hráčů (například za výborný role-play). Každý hráč začíná každé herní sezení s jedním BH a to nezávisle na tom, kolik BH měl daný hráč na konci posledního sezení. Body hrdinství se dají využít na následující věci:
+
+-   **Přehodit hod:** Hráč může za *1 BH* přehodit, kterýkoliv svůj hod a vzít si nový výsledek. Hod se přehazuje jako celek, všechny kostky co jsou jeho součástí. Například hod na zásah z výhodou, by se znovu opakoval s výhodou. Poškození 3k6 by se znovu házelo jako 3k6.
+-   **Stabilizovat:** ==TODO: Ujasnit si umírání==
 
 ### Dovednosti
 
-asd
+Dovednosti jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==. 
 
 ### Životy
 
-asd
+Životy jsou nejdůležitějším zdrojem, jako postava má. Jelikož dokud jsou její životy větší jak 0, tak se může postava bránit a provádět akce. Životy se ztrácí obdržením poškození (na bázi 1:1) a lze jej získat zpět léčením (opět na bázi 1:1).  Jakou abstrakci životy reprezentují nechám na vás, co je však důležité je, že se tento atribut vyskytuje až ve třech formách.
+
+-   **Maximální životy:** Maximální množství životů, které postava v jednu chvíli může mít.
+-   **Aktuální životy:** Aktuální stav životů, reprezentující stupeň zranění postavy.
+-   **Dočasné životy:** Mohou přesáhnout i maximální životy postavy a zranění se z nich odečítá přednostně. Pokud není efektem, co dočasné životy vytvořil, specifikováno jinak po 1 směně vyprchají.
+
+**Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši maxima kostky života své specializace (například 1k6 = 6).
+
+#### Smrt ==TODO:TBD==
+
+varianta 1 -> Cairn .. you down can trigger massaccer effects, Hodina na vyléčení jinak papá. (to bude bouncy), když přidám exhausted (-2 to all rolls), Death door (prach smrti)
 
 ### Magie
 
-asd
+Magie nebo-li magická energie je používaná některými povoláními pro sesílání kouzel. Pokud postava nedisponuje schopností sesílat kouzla nemá přístup ani k magické energii. Magická energie co se týče fungování, je efektivně stejná jako životy. Více o magii a sesílání kouzel se lze dočíst ==TODO: Link==
 
-### Esence (Focus points)
+### Esence
 
-asd
+Esence je další zdroj, který mají hráčské postavy k dispozici. Esence je často využívaná k používání klíčových schopností dané specializace. Každá specializace začíná hru s maximem jednoho bodu esence.
 
-### Obranné číslo
+-   **Doplňování:** Pokud postava od posledního doplňování esence použila aspoň 1 bod esence, může se pokusit o jeho doplnění. Doplnění probíhá tím, že se postava 1 směnu věnuje aktivitě spojenou se svou specializací (např. bojovník si brousí meč nebo kněz se modlí ke svému bohu). Po dokončení této aktivity se postavě doplní 1 bod esence.  Přenocování do dalšího dne vždy doplní všechny body esence.
+-   **Získávání dalších bodů esence:** Pokud postava získá novou schopnost (třeba perk) využívající esenci. Zvedne se její maximum esence o 1. Absolutní maximum bodů esence je však 3.
 
-asd
+### Obranné číslo (OČ)
+
+Obranné číslo určuje jak těžké je zasáhnou postavu útokem v boji. Základní obranné číslo postavy bez brnění je *10*. Obranné číslo lze zvýšit různými schopnostmi, kouzly a nebo koupí lepší zbroje.
 
 ### Hybnost
 
-asd
+Určuje kolik metrů je postava se schopna pohnout během svého tahu v boji. Je určena především rasou postavy. Ale lze ji modifikovat různými schopnostmi, kouzly nebo třeba koupí koně.
 
 ### Útoky
 
-asd
+Zbraně a jejich statistiky nebo jiné formy útoků, které postava může provádět. Více o boji ==TODO: link==
 
 ### Jazyky
 
-asd
+Většinou získané volbou rasy. Pokud by postava získala, z nějaké schopnosti nebo perku, nespecifikovaný jazyk. Může si vybrat jaký jazyk se naučí až ve chvíli, kdy se s daným jazykem setká ve hře.
+
+-   **Inteligentní monstra:** Inteligentní monstra mají šanci *1-z-6-ti* (6 na hodu štěstí) že ovládají obecnou řeč.
 
 ### Perky
 
-asd
+Dodatečné schopnosti získané postupem na vyšší úroveň. Otevírající nové možnosti postavy. Lze si vybírat se perků rasy (==TODO:tbd==), specializace nebo sady obecných perků dostupných všem specializacím.
+
+-   **Získávání perků navíc:** Mimo zásah PJ (třeba odměnou v rámci kampaně) nemůže hráč získat více perků než umožňuje jeho úroveň. Může však (u perků u kterých to dává smysl) je vyměnit, v rámci investic a tréninku mezi dobrodružstvími. 
 
 ### Kouzla
 
-asd
+Seznam kouzel, které postava může používat. Čarování je komplikovanější záležitost na delší povídání. Více tedy ==TODO: link==
 
 ### Vabavení
 
-asd
+Zbraně, brnění a jiná výbava, kterou může postava aplikovat na řešení problému. Výběr výbavy a pravidla pro nosnost ==TODO: link==.
 
 <img src="/assets/prav_hry_growth.webp"/>
