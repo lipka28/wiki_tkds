@@ -102,6 +102,41 @@ Speciální schopnosti, perky a výjimečné situace v boji mohou uvalit na ově
 !!! note "Rada pro PJ: Kdy neházet"
 	Obecně je dobré se řídit pravidlem: *"Čas, nástroje a znalosti"*. Pokud postava splňuje všechny tyto tři podmínky a to že, není pod časovým tlakem, má potřebné nástroje a znalosti. A reálně nehrozí žádný negativní následek za neúspěch (ztráta směny v kobce je dostatečný následek.) Může uspět bez potřeby hodu na ověření. 
 
+**Příklady ověřovacích hodů**
+
+Jaký ověřovací hod je použit na jakou aktivitu je čistě v režii PJ. Následuje však tabulka příkladů, jaké dovednosti lze použít pro jaké aktivity.
+
+kových situací dle svého.
+
+| Aktivita                                       |  Vhodná dovednost   |
+| ---------------------------------------------- | :-----------------: |
+| Analýza nebo vybavení si informací o...        |     Inteligence     |
+| Balancování na kluzkém povrchu.                |      Obratnost      |
+| Lhát                                           |        Vůle         |
+| Nadzvednutí těžkých kovových mříží             |        Síla         |
+| Odstrčení nepřítele                            |        Síla         |
+| Odemykání zámků                                |     Inteligence     |
+| Odvést pozornost                               |        Vůle         |
+| Odzbrojení nepřítele                           |      Obratnost      |
+| Oprava předmětu                                |     Inteligence     |
+| Stabilizace umírajícího                        |     Inteligence     |
+| Požádat stvoření o...                          |        Vůle         |
+| Proplížit se kolem nepřítele                   |      Obratnost      |
+| Přecházení po úzkém prkně.                     |      Obratnost      |
+| Přeskakování velkých děr                       | Obratnost nebo Síla |
+| Přesvědčit někoho o něčem                      |        Vůle         |
+| Připravit past                                 |     Inteligence     |
+| Rozlušti zašifrované spaní                     |     Inteligence     |
+| Stopování zvěře                                |       Rozvaha       |
+| Šplhání po skále                               | Síla nebo Obratnost |
+| Šplhání po stěnách bez zřejmých úchytů.        |      Obratnost      |
+| Vybavení si znalostí o příšeře                 |     Inteligence     |
+| Vyhrožování a zastrašování                     |        Vůle         |
+| Výroba předmětů                                |     Inteligence     |
+| Získávání informací                            |     Inteligence     |
+| Zneškodňování pastí                            |     Inteligence     |
+| Zpěv, předstírání nebo nějaký herecký výkon... |        Vůle         |
+
 ### Hod štěstí
 
 Pokud je výsledek nějaké události nejasný nebo ve směs náhodný. Lze se na vyhodnocení zeptat hodem štěstí.

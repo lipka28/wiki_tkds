@@ -25,7 +25,11 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 - **Aktivity během tahu:** Stvoření během svého tahu se může přesunout o svou hybnost a provést akci (specificky v tomto pořadí).
 - **Akce:** Za akci lze považovat útok, seslání kouzla, použití perku, další přesun o svou hybnost a nebo jiná smysluplná akce.
-- **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy, mluvení či drobné interakce s prostředím (např. otevírání a zavírání dveří)
+- **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy, mluvení či drobné interakce s prostředím (např. otevírání a zavírání dveří) ==todo: movement cost 2 metry?==
+
+#### Obtížný terén a jiné formy pohybu
+
+==todo: vypsat==
 
 ### Měření vzdáleností
 
