@@ -30,7 +30,7 @@ Stejně jako spousta dalších stolních her. I tato používá sadu zvláštně
 
 **Více kostková notace:** Pokud je vyžadován hod více kostek naráz, je počet hozených kostek indikován před *k*. Například *2k6* znamená: Hoď 2 šesti-stranné kostky a sečti výsledek.
 
-**Zaokrouhlování:** Pokud dojde na situaci, kdy je třeba zaokrouhlit nějaké číslo na celé. Pokud není specifikováno jinak, vždy se zaokrouhluje dolů.
+**Zaokrouhlování:** Pokud dojde na situaci, kdy je třeba zaokrouhlit nějaké číslo na celé. Pokud není specifikováno jinak, vždy se zaokrouhluje dolů. 
 
 <img src="/assets/sep_line.png"/>
 
@@ -75,6 +75,8 @@ Pj vybere HU na základě svého mínění o obtížnosti dané akce. Obtížnos
 - **Těžká (HU 15):** Vhodná pro akce probíhajících za stížených podmínek, jako je například stopování za deště či odemykání rezavého zámku.
 - **Velmi Těžká (HU 20):** Vhodné pouze pro okrajové případy, kdy má mít hráč jen krajní šanci na úspěch.
 - **Nemožná:** Jak název napovídá. Pokud není akce možná, žádný hod kostkou nedokáže opak.
+
+**HU definované v pravidlech:** Všechna HU, která lze nalézt již před definovaná v těchto pravidlech (například jako ty na sesílání kouzel či používání cestovní lékárničky). Jsou pouze nejběžnější HU v dané situaci. PJ může obtížnost libovolně modifikovat v závislosti na okolnostech fikce.
 
 #### Vyhodnocení ověřovacího hodu
 
@@ -183,7 +185,7 @@ Dovednosti jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==.
 
 -   **Maximální životy:** Maximální množství životů, které postava v jednu chvíli může mít.
 -   **Aktuální životy:** Aktuální stav životů, reprezentující stupeň zranění postavy.
--   **Dočasné životy:** Mohou přesáhnout i maximální životy postavy a zranění se z nich odečítá přednostně. Pokud není efektem, co dočasné životy vytvořil, specifikováno jinak po 1 směně vyprchají.
+-   **Dočasné životy:** Mohou přesáhnout i maximální životy postavy a zranění se z nich odečítá přednostně. Pokud není efektem, co dočasné životy vytvořil, specifikováno jinak po 1 směně vyprchají. Dočasné životy se také vzájemně nesčítají, vždy platí jen nejvyšší hodnota.
 
 **Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši maxima kostky života své specializace (například 1k6 = 6).
 
@@ -215,6 +217,10 @@ Obranné číslo určuje jak těžké je zasáhnou postavu útokem v boji. Zákl
 ### Hybnost
 
 Určuje kolik metrů je postava se schopna pohnout během svého tahu v boji. Je určena především rasou postavy. Ale lze ji modifikovat různými schopnostmi, kouzly nebo třeba koupí koně.
+
+**Alternativní formy pohybu:** Stvoření může mít rozdílné hybnosti pro různé formy pohybu. Jako jsou lezení po zdech, plavání a podobně. Pokud stvoření nemá specifickou hybnost pro daný pohyb, a je pro něj možné daný pohyb vykonávat, tak se pohybuje poloviční rychlostí (*obtížný terén*).
+
+**Pád z výšky:** Nekontrolovaný pád z výšky působí *1k6* poškození za každé 2 metry pádu.
 
 ### Útoky
 

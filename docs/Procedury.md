@@ -25,15 +25,11 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 - **Aktivity během tahu:** Stvoření během svého tahu se může přesunout o svou hybnost a provést akci (specificky v tomto pořadí).
 - **Akce:** Za akci lze považovat útok, seslání kouzla, použití perku, další přesun o svou hybnost a nebo jiná smysluplná akce.
-- **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy, mluvení či drobné interakce s prostředím (např. otevírání a zavírání dveří) ==todo: movement cost 2 metry?==
+- **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy, mluvení, postavení se na nohy či drobné interakce s prostředím (např. otevírání a zavírání dveří)
 
 #### Obtížný terén a jiné formy pohybu
 
-==todo: vypsat==
-
-### Měření vzdáleností
-
-==TODO: Možná rozebrat měření různých tvarů?==
+Stvoření pohybující se obtížným terénem se může pohybovat maximálně polovinou své hybnosti. Různé typy obtížného terénu mohou mít dodatečné efekty.
 
 ### Útok obecně
 
@@ -56,29 +52,19 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 !!! note "Příklad: Hořící nestvůra" Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
 
+**Ohrožení:** Stvoření stojící v dosahu útoků na blízku svých nepřátel, se nachází v ohrožení. Stvoření v ohrožení mají *nevýhodu* na všechny útoky na dálku a sesílání kouzel jejichž cílem je někdo jiný než stvoření způsobující vzájemné ohrožení. Také se ve svém tahu mohou pohnout jen o polovinu své hybnosti.
+
 ### Ostatní bojové situace
 
-**Boj dvěma zbraněmi:** Kdokoliv může držet 2 zbraně a však útočnou akci může provést jen s jednou. Efektivní využití obou zbraní však vyžaduje některé specializace nebo perky.
+**Boj dvěma zbraněmi:** Kdokoliv může držet 2 zbraně a však útok může provést jen s jednou. Efektivní využití obou zbraní vyžaduje některé specializace nebo perky.
 
 **Coup de grâce:** Bezmocní nepřátelé. Jako  například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem  bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
-
-**Neozbrojený útok:** Působí *1k4* poškození.
-
-**Netrénovaná brnění (a štíty):** Používání netrénované zbroje způsobuje *nevýhodu* na všechny ověření *SIL* a *OBR* a nelze v nich čarovat.
-
-**Netrénované zbraně:** Používání netrénované zbraně způsobuje *nevýhodu* na všechny útoky touhle zbraní.
 
 **Průchod spojenci:** Při používání čtvercové sítě pro boj, spojenci lze volně procházet. Nelze však skončit tah na stejném místě jako spojenec.
 
 **Průchod nepřáteli:** Průchod nepřáteli vyžaduje ověření *SIL* nebo *OBR* v závislosti na zvolené "metodě průchodu". Obtížnost stanovuje PJ dle situace.
 
 **Přemožení:** Zredukuje-li postava nebo inteligentní monstrum svého nepřítele na 0 HP. Může jej na místo zabití omráčit, odzbrojit nebo jinak vyřadit z boje bez zabití.
-
-**Vzájemné ohrožení:** Stvoření stojící v dosahu svých útoků se nachází ve vzájemném ohrožení. Stvoření ve vzájemném ohrožení mají *nevýhodu* na všechny útoky na dálku a sesílání kouzel jejichž cílem je někdo jiný než stvoření způsobující vzájemné ohrožení.
-
-### Útěk
-
-- **Útěk:** Útěk ze svízelné situace (například ze vzájemného ohrožení nepřítele) vyžaduje bezpečný směr a místo k úniku, a také úspěšné ověření *OBR* (*HU 10* ale může se lišit dle situace).
 
 ### Morálka
 
@@ -169,7 +155,7 @@ Nejběžnější volno-časové aktivity.
 
 **Zotavení**
 
-Postava si může zaplatit léčitelské služby pro zotavení se z následků dlouhodobějšího charakteru.
+Postava si může zaplatit léčitelské služby pro zotavení se z následků dlouhodobějšího charakteru. Všechna ostatní běžná zranění se během doby mezi dobrodružství (pokud dobrodružství skončilo v bezpečné lokalitě) automaticky vyléčí (magie se také doplní).
 
 **Naučit se něco nového**
 
