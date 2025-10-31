@@ -27,6 +27,17 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 - **Akce:** Za akci lze považovat útok, seslání kouzla, použití perku, další přesun o svou hybnost a nebo jiná smysluplná akce.
 - **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy, mluvení, postavení se na nohy či drobné interakce s prostředím (např. otevírání a zavírání dveří)
 
+### Měření vzdálenosti
+
+Všechny hybnosti a vzdálenosti jsou v této hře udávány v metrech. Pokud používáte čtvercovou síť tak 1 čtverec na mapě (v amerických TTRPG většinou o vzdálenosti 5ft) představuje 1 metr. Diagonální pohyb stojí stejně hybnosti jako ten horizontální či vertikální.
+
+#### Zóny (alternativní metoda bojových map)
+
+Mimo používání čtvercových sítí pro boj. Je také možné rozdělit bojiště na tzv Zóny. Každá zóna představuje důležitou oblast bojiště. Stvoření se v rámci jedné zóny může pohybovat takřka neomezeně. Pohyb mezi zónami pak stojí 5 metrů hybnosti (nebo více v závislosti na obtížném terénu). Pokud se chce stvoření přesunout mezi zónami ale nemá dostatečnou hybnost, může podstoupit ověření rychlosti.
+
+-   **Ověření rychlosti:** Ověření rychlosti probíhá jako hod 1k20+zbývající hybnost *HU je 10*.
+-   **Speciální zóny:** Zóny mohou mít speciální efekty, které stvoření v nich ovlivňují. Například všechno může v zóně hořet nebo může zóna poskytovat krytí z některých stran.
+
 #### Obtížný terén a jiné formy pohybu
 
 Stvoření pohybující se obtížným terénem se může pohybovat maximálně polovinou své hybnosti. Různé typy obtížného terénu mohou mít dodatečné efekty.
