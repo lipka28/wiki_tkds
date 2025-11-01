@@ -35,7 +35,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 
 Používání většiny zbraní a zbrojí vyžaduje "trénink". Ten je poskytován především specializací postavy avšak lze jej získat i z perků.
 
--   **Netrénovaná brnění (a štíty):** Používání netrénované zbroje způsobuje *nevýhodu* na všechny ověření *SIL* a *OBR* a nelze v nich čarovat.
+-   **Netrénovaná brnění (a štíty):** Používání netrénované zbroje způsobuje *nevýhodu* na všechny ověření *SIL* a *HBI* a nelze v nich čarovat.
 -   **Netrénované zbraně:** Používání netrénované zbraně způsobuje *nevýhodu* na všechny útoky touhle zbraní.
 
 ### Zbroje a štíty
@@ -62,17 +62,17 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 
 -   **2R:** Zbraň pro efektivní využívání potřebuje obě ruce.
 -   **D:** Zbraní lze útočit na blízko až na vzdálenost *2 metry* a to i pokud v cestě stojí spojenci.
--   **Ho:** Zbraň lze hodit a použít ji tak jako zbraň na dálku. Efektivní dostřel *5 metrů*. Útočník si může vybrat zda na hození použije ověření *SIL* nebo *OBR*.
+-   **Ho:** Zbraň lze hodit a použít ji tak jako zbraň na dálku. Efektivní dostřel *5 metrů*. Útočník si může vybrat zda na hození použije ověření *SIL* nebo *HBI*.
 -   **NT:** Efektivní používání této zbraně nevyžaduje trénink.
--   **Obr:** Při útoku touhle zbraní se vždy ověřuje *OBR*. Na rozdíl od ostatních zbraní na blízku.
--   **S/O:** Při útoku touhle zbraní si může útočník vybrat zda na útok použije ověření *SIL* nebo *OBR*.
+-   **Hbi:** Při útoku touhle zbraní se vždy ověřuje *HBI*. Na rozdíl od ostatních zbraní na blízku.
+-   **S/H:** Při útoku touhle zbraní si může útočník vybrat zda na útok použije ověření *SIL* nebo *HBI*.
 -   **Spec:** Zbraň má speciální efekt nebo funkci. Podívej se do popisku pod tabulkou.
 -   **V:** Zbraň lze efektivně využívat jak v jednoručním tak obouručním držení. Při obouručním držení způsobuje poškození psané v závorce.
 
 | Zbraň           | Poškození | Sloty | Cena  |   Vlastnosti   |
 | :-------------- | :-------: | :---: | :---: | :------------: |
-| Bič             |    1k4    |   1   | 12 ši |  D, Obr, Spec  |
-| Bojová hůl      |    1k8    |   2   | 20 ši |    2R, S/O     |
+| Bič             |    1k4    |   1   | 12 ši |  D, Hbi, Spec  |
+| Bojová hůl      |    1k8    |   2   | 20 ši |    2R, S/H     |
 | Cep             |    1k6    |   1   | 18 ši |      Spec      |
 | Hůl             |    1k4    |   2   | 1 ši  |   NT, V(1k6)   |
 | Kopí            |    1k6    |   2   | 5 ši  |   D, V(1k8)    |
@@ -93,7 +93,7 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 
 ### Zbraně na dálku
 
-Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až do efektivního dostřelu zbraně. Útok zbraní na dálku většinou probíhá jako ověření *OBR* s relevantními modifikátory. Pokud je útočník při útoku zbraní na dálku ohrožen útokem na blízku nějakého nepřátele, útočí s *nevýhodou*.
+Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až do efektivního dostřelu zbraně. Útok zbraní na dálku většinou probíhá jako ověření *HBI* s relevantními modifikátory. Pokud je útočník při útoku zbraní na dálku ohrožen útokem na blízku nějakého nepřátele, útočí s *nevýhodou*.
 
 -   **Efektivní dostřel:** Vzdálenost na kterou lze zbraní cíleně něco trefit. Lze se pokusit střílet až na dvojnásobnou vzdálenost avšak s *nevýhodou*.
 
@@ -104,8 +104,8 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 | Zbraň                      | Poškození | Ef. Dostřel | Sloty | Cena  |  Vlastnosti   |
 | -------------------------- | :-------: | :---------: | :---: | :---: | :-----------: |
 | Dalekonosný luk            |    1k8    |    40 m     |   2   | 20 ši |   2R, Spec    |
-| Kompozitní dalekonosný luk |   1k10    |    50 m     |   2   | 60 ši | 2R, S/O, Spec |
-| Kompozitní krátký luk      |    1k8    |    40 m     |   1   | 40 ši | 2R, S/O, Spec |
+| Kompozitní dalekonosný luk |   1k10    |    50 m     |   2   | 60 ši | 2R, S/H, Spec |
+| Kompozitní krátký luk      |    1k8    |    40 m     |   1   | 40 ši | 2R, S/H, Spec |
 | Krátký Luk                 |    1k6    |    30 m     |   1   | 10 ši |      2R       |
 | Kuše                       |    1k8    |    20 m     |   2   | 20 ši |  2R, Nab, NT  |
 | Prak                       |    1k4    |    10 m     |   1   | 2 ši  |   NT, Spec    |

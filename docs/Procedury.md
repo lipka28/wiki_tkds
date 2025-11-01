@@ -18,8 +18,8 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 ### Kola konfliktu
 
 - **Kolo:** Představuje přibližně *10 vteřin* času, během kterého všechny strany konfliktu odehrají svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první.
-- **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit záchranu *Obratnosti* s *HU 10*. Pokud neuspějí, první kolo vynechávají.
-- **Následující kola:** Ve všech následujících kolej sou vždy hráčské postavy na tahu první a nemusí již podstupovat další záchranu HBI.
+- **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit ověření *HBI* s *HU 10*. Pokud neuspějí, první kolo vynechávají.
+- **Následující kola:** Ve všech následujících kolej sou vždy hráčské postavy na tahu první a nemusí již podstupovat další ověření HBI.
 
 ### Tahy
 
@@ -44,7 +44,7 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 ### Útok obecně
 
-Útočící stvoření podstoupí ověřovací hod na *SIL* (pro útok na blízku) nebo na *OBR* a přičte k výsledku relevantní modifikátory. Výslednou hodnotu pak porovná s *OČ* soupeře.
+Útočící stvoření podstoupí ověřovací hod na *SIL* (pro útok na blízku) nebo na *HBI* a přičte k výsledku relevantní modifikátory. Výslednou hodnotu pak porovná s *OČ* soupeře.
 
 - **Kritický úspěch:** Uděluje dvojnásobné poškození.
 - **Úspěch:** Uděluje standardní poškození dle zbraně nebo útoku.
@@ -73,7 +73,7 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 **Průchod spojenci:** Při používání čtvercové sítě pro boj, spojenci lze volně procházet. Nelze však skončit tah na stejném místě jako spojenec.
 
-**Průchod nepřáteli:** Průchod nepřáteli vyžaduje ověření *SIL* nebo *OBR* v závislosti na zvolené "metodě průchodu". Obtížnost stanovuje PJ dle situace.
+**Průchod nepřáteli:** Průchod nepřáteli vyžaduje ověření *SIL* nebo *HBI* v závislosti na zvolené "metodě průchodu". Obtížnost stanovuje PJ dle situace.
 
 **Přemožení:** Zredukuje-li postava nebo inteligentní monstrum svého nepřítele na 0 HP. Může jej na místo zabití omráčit, odzbrojit nebo jinak vyřadit z boje bez zabití.
 

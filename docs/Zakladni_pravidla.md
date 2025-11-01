@@ -52,10 +52,10 @@ Ať už je vaše dobrodružství založeno na prozkoumání kobek, rozplétání
 
 Každé stvoření ve hře disponuje 4-mi základními dovednostmi, které slouží především k *ověřovacím hodům*. Dovednosti hráčských postav se pohybují v rozsahu *-5* až *+5*. U monster však mohou dosahovat daleko výše.
 
-- **Síla (SIL):** Využívá se k ověřovacím hodům vyžadující fyzickou sílu a odolnost. Například při aktivitách jako jsou zvedání těžkých věcí, ohýbání mříží, bojových manévrech, odolávání toxinům a podobně.
-- **Obratnost (OBR):**  Využívá se k ověřovacím hodům vyžadující hbitost, rychlost a rovnováhu. Například při uhýbání, šplhání, plížení, udržování rovnováhy, bojových manévrech a podobně.
-- **Inteligence (INT):** Využívá se k ověřovacím hodům vyžadující znalosti, inteligenci a um. Například vybavování si informací, výroba předmětů, odemykání zámků, stopování, používání některých typů magie a podobně.  
-- **Vůle (VUL):** Využívá se k záchranným hodům vyžadující sílu vůle, intuici či kouzlo osobnosti. Například při přesvědčování, zastrašování, používání některých typů magie a podobně.
+- **Síla (SIL):** Představuje hrubou sílu, výdrž a celkovou zdatnost. Používá se pro útoky zbraněmi na blízko, lezení, plavání nebo třeba překonávání fyzických překážek. Používá se ale i pro odolávání jedům nebo třeba nemocem.
+- **Hbitost (HBI):**  Zahrnuje pohotovost, zručnost, rovnováhu a reflexy. Využívá se třeba při pokusech o udržení rovnováhy ale i aktivitách vyžadujících manuální zručnost. Používá se také pro útoky zbraní na dálku.
+- **Inteligence (INT):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů ale i výrobě magických či alchymistických předmětů. Používá se u některých typů magie. 
+- **Vůle (VUL):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro odolávání efektům ovlivňující ale třeba i zastrašování. Stejně jako Inteligence se Vůle používá se u některých typů magie. 
 
 **Ztráta a doplňování dovednostních bodů:** Některá monstra mají schopnost dočasně nebo i dlouhodobě snížit některé dovednostní body. Pokud však není nic co by doplnění dovednostních bodů bránilo. Dovednostní body se doplňují rychlostí *1 bod za přenocování* (předpokládá se řádné přenocování jako u doplňování života popsáno níže.
 
@@ -110,34 +110,35 @@ Jaký ověřovací hod je použit na jakou aktivitu je čistě v režii PJ. Nás
 
 kových situací dle svého.
 
-| Aktivita                                       |  Vhodná dovednost   |
-| ---------------------------------------------- | :-----------------: |
-| Analýza nebo vybavení si informací o...        |     Inteligence     |
-| Balancování na kluzkém povrchu.                |      Obratnost      |
-| Lhát                                           |        Vůle         |
-| Nadzvednutí těžkých kovových mříží             |        Síla         |
-| Odstrčení nepřítele                            |        Síla         |
-| Odemykání zámků                                |     Inteligence     |
-| Odvést pozornost                               |        Vůle         |
-| Odzbrojení nepřítele                           |      Obratnost      |
-| Oprava předmětu                                |     Inteligence     |
-| Stabilizace umírajícího                        |     Inteligence     |
-| Požádat stvoření o...                          |        Vůle         |
-| Proplížit se kolem nepřítele                   |      Obratnost      |
-| Přecházení po úzkém prkně.                     |      Obratnost      |
-| Přeskakování velkých děr                       | Obratnost nebo Síla |
-| Přesvědčit někoho o něčem                      |        Vůle         |
-| Připravit past                                 |     Inteligence     |
-| Rozlušti zašifrované spaní                     |     Inteligence     |
-| Stopování zvěře                                |       Rozvaha       |
-| Šplhání po skále                               | Síla nebo Obratnost |
-| Šplhání po stěnách bez zřejmých úchytů.        |      Obratnost      |
-| Vybavení si znalostí o příšeře                 |     Inteligence     |
-| Vyhrožování a zastrašování                     |        Vůle         |
-| Výroba předmětů                                |     Inteligence     |
-| Získávání informací                            |     Inteligence     |
-| Zneškodňování pastí                            |     Inteligence     |
-| Zpěv, předstírání nebo nějaký herecký výkon... |        Vůle         |
+| Aktivita                                       |     Vhodná dovednost     |
+| ---------------------------------------------- | :----------------------: |
+| Analýza nebo vybavení si informací o...        |       Inteligence        |
+| Balancování na kluzkém povrchu.                |         Hbitost          |
+| Lhát                                           |       Inteligence        |
+| Nadzvednutí těžkých kovových mříží             |           Síla           |
+| Odstrčení nepřítele                            |           Síla           |
+| Odemykání zámků                                |         Hbitost          |
+| Odvést pozornost                               |           Vůle           |
+| Odzbrojení nepřítele                           |    Hbitost nebo Síla     |
+| Oprava předmětu                                |         Hbitost          |
+| Stabilizace umírajícího                        |       Inteligence        |
+| Požádat stvoření o...                          |           Vůle           |
+| Proplížit se kolem nepřítele                   |         Hbitost          |
+| Přecházení po úzkém prkně.                     |         Hbitost          |
+| Přeskakování velkých děr                       |    Hbitost nebo Síla     |
+| Přesvědčit někoho o něčem                      |           Vůle           |
+| Připravit past                                 |         Hbitost          |
+| Rozlušti zašifrované spaní                     |       Inteligence        |
+| Stopování zvěře                                |           Vůle           |
+| Šplhání po skále                               |    Síla nebo Hbitost     |
+| Šplhání po stěnách bez zřejmých úchytů.        |         Hbitost          |
+| Vybavení si znalostí o příšeře                 |       Inteligence        |
+| Vyhrožování a zastrašování                     |           Vůle           |
+| Výroba předmětů                                | Hbitost nebo Inteligence |
+| Výzkum v knihovně                              |       Inteligence        |
+| Výzkum mezi lidmi                              |           Vůle           |
+| Zneškodňování pastí                            |         Hbitost          |
+| Zpěv, předstírání nebo nějaký herecký výkon... |           Vůle           |
 
 ### Hod štěstí
 
