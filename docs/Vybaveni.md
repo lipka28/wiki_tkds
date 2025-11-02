@@ -40,15 +40,14 @@ Používání většiny zbraní a zbrojí vyžaduje "trénink". Ten je poskytov�
 
 ### Zbroje a štíty
 
-| Zbroj              |  Cena  |  OČ  | Pož. SIL |    Sloty     |                         Vlastnosti                          |
-| ------------------ | :----: | :--: | :------: | :----------: | :---------------------------------------------------------: |
-| Obyčejné oblečení  |   -    | (10) |    -     | Zanedbatelné |                     Nevyžaduje trénink                      |
-| Vycpávané oblečení | 10 ši  |  11  |    -     |      1       |                     Nevyžaduje trénink                      |
-| Lehká zbroj        | 20 ši  |  12  |    -     |      1       |                              -                              |
-| Střední zbroj      | 60 ši  |  14  |    +2    |      2       | Přenocování nelze; Čarování, Plavání a Plížení s nevýhodou  |
-| Těžká zbroj        | 200 ši |  16  |    +3    |      4       | Přenocování a Plavání nelze; Čarování a Plížení s nevýhodou |
-| Pukléř             |  5 ši  |  +1  |          |      1       |                    Čarování s nevýhodou                     |
-| Štít               | 15 ši  |  +2  |    +1    |      1       |                    Čarování s nevýhodou                     |
+| Zbroj             |  Cena  |  OČ  | Pož. SIL |    Sloty     |                         Vlastnosti                          |
+| ----------------- | :----: | :--: | :------: | :----------: | :---------------------------------------------------------: |
+| Obyčejné oblečení |   -    | (10) |    -     | Zanedbatelné |                     Nevyžaduje trénink                      |
+| Lehká zbroj       | 20 ši  |  12  |    -     |      1       |                              -                              |
+| Střední zbroj     | 60 ši  |  14  |    +2    |      2       | Přenocování nelze; Čarování, Plavání a Plížení s nevýhodou  |
+| Těžká zbroj       | 200 ši |  16  |    +3    |      4       | Přenocování a Plavání nelze; Čarování a Plížení s nevýhodou |
+| Pukléř            |  5 ši  |  +1  |    -     |      1       |                    Čarování s nevýhodou                     |
+| Štít              | 15 ši  |  +2  |    +1    |      1       |                    Čarování s nevýhodou                     |
 
 **Pož. SIL:** Požadavek na sílu pro oblečení daného typu výbavy.
 
@@ -69,25 +68,26 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 -   **Spec:** Zbraň má speciální efekt nebo funkci. Podívej se do popisku pod tabulkou.
 -   **V:** Zbraň lze efektivně využívat jak v jednoručním tak obouručním držení. Při obouručním držení způsobuje poškození psané v závorce.
 
-| Zbraň           | Poškození | Sloty | Cena  |   Vlastnosti   |
-| :-------------- | :-------: | :---: | :---: | :------------: |
-| Bič             |    1k4    |   1   | 12 ši |  D, Hbi, Spec  |
-| Bojová hůl      |    1k8    |   2   | 20 ši |    2R, S/H     |
-| Cep             |    1k6    |   1   | 18 ši |      Spec      |
-| Hůl             |    1k4    |   2   | 1 ši  |   NT, V(1k6)   |
-| Kopí            |    1k6    |   2   | 5 ši  |   D, V(1k8)    |
-| Meč             |    1k8    |   1   | 30 ši |       -        |
-| Meč bastard     |    1k8    |   2   | 60 ši |    V(1k10)     |
-| Nůž             |    1k6    |   1   | 3 ši  |    Ho, S/O     |
-| Obou-ruční meč  |    2k6    |   2   | 80 ši |       2R       |
-| Palcát          |    1k8    |   1   | 10 ši |       -        |
-| Palice          |    1k6    |   1   | 1 ši  |       NT       |
-| Píka            |    1k8    |   2   | 15 ši | 2R, D(3 metry) |
-| Rapír           |    1k8    |   1   | 40 ši |      S/O       |
-| Sekyrka         |    1k6    |   1   | 2 ši  |       Ho       |
-| Stříbrný nůž    |    1k6    |   1   | 40 ši |       Ho       |
-| Válečná sekera  |    1d8    |   2   | 35 ši |    V(1k10)     |
-| Válečné kladivo |   1k12    |   2   | 40 ši |       -        |
+| Zbraň            | Poškození | Sloty | Cena  |   Vlastnosti   |
+| :--------------- | :-------: | :---: | :---: | :------------: |
+| Neozbrojený útok |     1     |   -   |   -   |      Hbi       |
+| Bič              |    1k4    |   1   | 12 ši |  D, Hbi, Spec  |
+| Bojová hůl       |    1k8    |   2   | 20 ši |    2R, S/H     |
+| Cep              |    1k6    |   1   | 18 ši |      Spec      |
+| Hůl              |    1k4    |   2   | 1 ši  |   NT, V(1k6)   |
+| Kopí             |    1k6    |   2   | 5 ši  |   D, V(1k8)    |
+| Meč              |    1k8    |   1   | 30 ši |       -        |
+| Meč bastard      |    1k8    |   2   | 60 ši |    V(1k10)     |
+| Nůž              |    1k6    |   1   | 3 ši  |    Ho, S/O     |
+| Obou-ruční meč   |    2k6    |   2   | 80 ši |       2R       |
+| Palcát           |    1k8    |   1   | 10 ši |       -        |
+| Palice           |    1k6    |   1   | 1 ši  |       NT       |
+| Píka             |    1k8    |   2   | 15 ši | 2R, D(3 metry) |
+| Rapír            |    1k8    |   1   | 40 ši |      S/O       |
+| Sekyrka          |    1k6    |   1   | 2 ši  |       Ho       |
+| Stříbrný nůž     |    1k6    |   1   | 40 ši |       Ho       |
+| Válečná sekera   |    1d8    |   2   | 35 ši |    V(1k10)     |
+| Válečné kladivo  |   1k12    |   2   | 40 ši |       -        |
 
 **Bič (Spec):** Bič lze použít jako prodlouženou ruku pro účely bojových manévrů zachytávání končetin nepřátel.
 
