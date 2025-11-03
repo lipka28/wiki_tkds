@@ -4,47 +4,33 @@
 
 Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://docs.google.com/spreadsheets/d/1Sn62Pj5LBoiwqzg830dHE5THVGlDTvaI0glZ8Rxn5Ac/edit?usp=sharing). Jak budeš připraven, následuj tyto kroky.
 
-## 1. Naházej co je třeba
+## 1. Dovednostní body
 
-**Dovednostní body:** Hoď si *3k6* a každou z těchto kostek si zapiš k jedné ze tvých dovedností v libovolném pořadí.
+Tvá postava začíná s *+0* ve všech dovednostních bodech. Teď si vybereš rasu, původ a specializaci, kdy každým výběrem získáš (nebo i ztratíš) nějaké dovednostní body. V každém kroku můžeš přidat nebo odebrat ze specifické dovednosti pouze jednou. Na konci procesu nesmíš mít dovednost, která by byla vyšší než *+4*. ==TODO: Rozbít do tabulek a pod nadpisů==
 
-**Body obrany(BO):** Zapiš si ke svým bodům ochrany (BO) hodnotu *3*. Pokud však rád žiješ nebezpečně, můžeš si na místo toho hodit *1k6* a zapsat si výsledek.
+-   **Rasa:** Vyber si rasu, poznač si její název a připočítej dovednostní body.
+-   **Původ:** Vyber si původ, poznač si jeho název a připočítej dovednostní body.
+-   **Specializace:** Vyber si specializaci, poznač si její název a připočítej dovednostní body.
+-   **Volné body:** Na konec si připočítej *3 libovolné dovednostní body*.
 
-## 2. Urči svůj původ
+## 2. Doplnění schopností
 
-**Základní výbava pro všechny postavy:** *3k6* šilinků; Cestovní výbava (obsahuje: spacák, křesadlo, mýdlo a měch na vodu), Běžné oblečení (*zanedbatelné* pokud oblečené) a Zásoby (3 použití). Jak funguje inventář najdeš [zde](/Zakladni_pravidla/#nosnost). 
+Poznač si schopnosti a jiné statistiky obsažené ve výběrech co si udělal v předchozím kroku. Pokud některá z těchto voleb vyžaduje, aby si učinil další volbu, udělej tak. Na konci tohohle procesu by si měl mít ve směs vyplněný deník postavy bez jména, popisu, výbavy, peněz, útoků a obranného čísla.
 
-Vyber si jeden z původů v tabulce níže. Každý původ obsahuje popis, výbavu a jednu volbu, kterou je třeba provést.
+-   **Úroveň:** Pokud se vaše skupina nedomluvila jinak. Tvá úroveň je 1.
+-   **Životy:** Tvé počáteční životy jsou dány součtem hodnoty uváděné u tvé rasy a maximální hodnotou na kostce života danou tvým povoláním.
+-   **Magie:** Tvá počáteční magie je dána součtem hodnoty uváděné u tvé rasy a maximální hodnotou na kostce magie danou tvým povoláním. Pokud tvé povolání neovládá magii, tak je tvá hodnota magie 0.
+-   **Perky:** Pokaždé, když dostaneš možnost si vybrat perk, tak můžeš vybírat buďto z perků své rasy, své specializace a nebo obecných perků popsaných ==TODO:Link==.
 
-**Náhodný výběr:** Alternativně si můžeš hodit *1k20* pro náhodný výběr původu. Pokud tak učiníš získáváš navíc do začátku extra [bod osudu](/Zasazení-Oldworld/Doplňující pravidla/#body-osudu) pro svou skupinu.
+## 3. Výbava
 
-| 1k20 |                            Původ                             | 1k20 |                            Původ                             |
-| :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: |
-|  1   |        [Akolyta](/Zasazení-Oldworld/Puvody/#akolyta)         |  11  |      [Obchodník](/Zasazení-Oldworld/Puvody/#obchodnik)       |
-|  2   |     [Alchymista](/Zasazení-Oldworld/Puvody/#alchymista)      |  12  | [Odkopnutý šlechtic](/Zasazení-Oldworld/Puvody/#odkopnuty-slechtic) |
-|  3   | [Bretonijský rytíř](/Zasazení-Oldworld/Puvody/#bretonijsky-rytir) |  13  |          [Písař](/Zasazení-Oldworld/Puvody/#pisar)           |
-|  4   | [Čarodějný učeň](/Zasazení-Oldworld/Puvody/#carodejny-ucen)  |  14  | [Potulný umělec](/Zasazení-Oldworld/Puvody/#potulny-umelec)  |
-|  5   |         [Felčar](/Zasazení-Oldworld/Puvody/#felcar)          |  15  |         [Pulčík](/Zasazení-Oldworld/Puvody/#pulcik)          |
-|  6   |       [Hraničář](/Zasazení-Oldworld/Puvody/#hranicar)        |  16  |      [Řemeslník](/Zasazení-Oldworld/Puvody/#remeslnik)       |
-|  7   |        [Hrobník](/Zasazení-Oldworld/Puvody/#hrobnik)         |  17  |       [Trpaslík](/Zasazení-Oldworld/Puvody/#trpaslik)        |
-|  8   |        [Inženýr](/Zasazení-Oldworld/Puvody/#inzenyr)         |  18  | [Válečný veterán](/Zasazení-Oldworld/Puvody/#valecny-veteran) |
-|  9   |      [Lesní elf](/Zasazení-Oldworld/Puvody/#lesni-elf)       |  19  |   [Vznešený elf](/Zasazení-Oldworld/Puvody/#vzneseny-elf)    |
-|  10  |    [Lovec odměn](/Zasazení-Oldworld/Puvody/#lovec-odmen)     |  20  |     [Zlodějíček](/Zasazení-Oldworld/Puvody/#zlodejicek)      |
+Nakonec si vyber svou výbavu. Každá postava má nosnost *12 slotů* (pokud tvé schopnosti či perky nespecifikují jinak) a začíná hru s *Výbavou dobrodruha* (popsána níže) a *60 šilinků* za které si může koupit co chce. Více informací o výbavě a předměty, které lze nakupovat, najdete ==TODO:Link==.
 
-Alternativně, pokud ti žádný původ nevyhovuje. Můžeš si ve spolupráci se strážcem sestavit vlastní původ nebo některý z existujících původů upravit.
+## 4. Detaily
 
-**Dopočet dovedností:** Pokud je tvá postava člověk, ke každé ze svých dovedností (SIL, HBI, VUL) si přičti *8*. Pokud není člověk, řiď se hodnotami zapsanými ve tvém původu.
+Nakonec doplň detaily jako je *jméno* postavy a formuluj její *popis*. Pokud si nevíš rady s popisem a nebo nemáš jasnou představu jak by tvoje postava měla vypadat nebo se chovat. Mohou ti pomoci tabulky rysů postav níže.
 
-## 3. Dodělej detaily
-
-Teď už jen dolaď maličkosti.
-
-- **Jméno:** Vymysli si jméno (inspirace dle rasy/národnosti [zde](https://drive.google.com/file/d/1ZVLvD4rrqeqg9l1_8N8X7xNyFE0sKpai/view?usp=sharing))
-- **Věk:** Stanov svůj věk nebo si hoď *15+2K20* (U trpaslíků může výsledek vynásobit až *x10* a u elfů až *x100*).
-- **Vizuální a povahové rysy:** Stanov klíčové vizuální a povahové rysy své postavy. Mohou ti pomoci tabulky níže (není třeba používat všechny, stačí 3).
-- **Vazby:** Pokud ti strážce dal k dispozici tabulku *Vazeb*, hoď si nad ní.
-- **Znamení:** Pokud je tvá postava nejmladší ve skupině a strážce ti dal k dispozici tabulku *Znamení*, hoď si nad ní a o výsledek se poděl se skupinou.
-- **Zformuluj popis:** Všechny tyto rysy, původ a trochu tvé kreativní licence spoj do popisu své postavy a poznač si do svého deníku postavy.
+-   **Hrdinské body:** Také nezapomeň, že na každé herní sezení vstupuje tvá postava s *1 hrdinským bodem*.
 
 ### Tabulky rysů postav
 

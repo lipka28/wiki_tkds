@@ -78,12 +78,12 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 | Kopí             |    1k6    |   2   | 5 ši  |   D, V(1k8)    |
 | Meč              |    1k8    |   1   | 30 ši |       -        |
 | Meč bastard      |    1k8    |   2   | 60 ši |    V(1k10)     |
-| Nůž              |    1k6    |   1   | 3 ši  |    Ho, S/O     |
+| Nůž              |    1k6    |   1   | 3 ši  |    Ho, S/H     |
 | Obou-ruční meč   |    2k6    |   2   | 80 ši |       2R       |
 | Palcát           |    1k8    |   1   | 10 ši |       -        |
 | Palice           |    1k6    |   1   | 1 ši  |       NT       |
 | Píka             |    1k8    |   2   | 15 ši | 2R, D(3 metry) |
-| Rapír            |    1k8    |   1   | 40 ši |      S/O       |
+| Rapír            |    1k8    |   1   | 40 ši |      S/H       |
 | Sekyrka          |    1k6    |   1   | 2 ši  |       Ho       |
 | Stříbrný nůž     |    1k6    |   1   | 40 ši |       Ho       |
 | Válečná sekera   |    1d8    |   2   | 35 ši |    V(1k10)     |

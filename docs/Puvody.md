@@ -154,7 +154,7 @@ Tvůj dosavadní život byl stráven v ústraní, v divočině, jeskyni či pros
 
 **Dovednostní body:** *+1 Síla* nebo *Inteligence* a *+1 jiná libovolná dovednost*
 
-**Extra:** Svitek jednoho náhodného Mystického kouzla prvního stupně.
+**Extra:** Svitek jednoho náhodného Mystického kouzla první kategorie.
 
 ## Průzkumník
 

@@ -23,7 +23,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 ### Tahy
 
-- **Aktivity během tahu:** Stvoření během svého tahu se může přesunout o svou hybnost a provést akci (specificky v tomto pořadí).
+- **Aktivity během tahu:** Stvoření během svého tahu se může přesunout o svou hybnost a provést akci.
 - **Akce:** Za akci lze považovat útok, seslání kouzla, použití perku, další přesun o svou hybnost a nebo jiná smysluplná akce.
 - **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy, mluvení, postavení se na nohy či drobné interakce s prostředím (např. otevírání a zavírání dveří)
 
@@ -63,7 +63,9 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 !!! note "Příklad: Hořící nestvůra" Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
 
-**Ohrožení:** Stvoření stojící v dosahu útoků na blízku svých nepřátel, se nachází v ohrožení. Stvoření v ohrožení mají *nevýhodu* na všechny útoky na dálku a sesílání kouzel jejichž cílem je někdo jiný než stvoření způsobující vzájemné ohrožení. Také se ve svém tahu mohou pohnout jen o polovinu své hybnosti.
+**Trvající efekty:** Které mají dobu trvání určenou počtem kol (jako například již zmíněné perzistentní poškození). Odpočítávají svou dobu trvání vždy na začátku tahu strany, která efekt vyvolala. Pokud dobra trvání padne na 0, efekt končí.
+
+**Ohrožení:** Stvoření stojící v dosahu útoků na blízku svých nepřátel, se nachází v ohrožení. Stvoření v ohrožení mají *nevýhodu* na všechny útoky na dálku a sesílání kouzel jejichž cílem je někdo jiný než stvoření způsobující vzájemné ohrožení.
 
 ### Ostatní bojové situace
 
