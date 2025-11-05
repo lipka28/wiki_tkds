@@ -4,33 +4,35 @@
 
 Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://docs.google.com/spreadsheets/d/1Sn62Pj5LBoiwqzg830dHE5THVGlDTvaI0glZ8Rxn5Ac/edit?usp=sharing). Jak budeš připraven, následuj tyto kroky.
 
-## 1. Dovednostní body
+## 1. Rasa, původ a specializace
 
-Tvá postava začíná s *+0* ve všech dovednostních bodech. Teď si vybereš rasu, původ a specializaci, kdy každým výběrem získáš (nebo i ztratíš) nějaké dovednostní body. V každém kroku můžeš přidat nebo odebrat ze specifické dovednosti pouze jednou. Na konci procesu nesmíš mít dovednost, která by byla vyšší než *+4*. ==TODO: Rozbít do tabulek a pod nadpisů==
+Začni tím, že si vybereš rasu, původ a specializaci. Prozatím si jen poznač jejich názvy. Avšak měl by sis aspoň pročíst co tvá volba obnáší.
 
--   **Rasa:** Vyber si rasu, poznač si její název a připočítej dovednostní body.
--   **Původ:** Vyber si původ, poznač si jeho název a připočítej dovednostní body.
--   **Specializace:** Vyber si specializaci, poznač si její název a připočítej dovednostní body.
--   **Volné body:** Na konec si připočítej *3 libovolné dovednostní body*.
+## 2. Dovednostní body
+
+Rozděl si následující hodnoty mezi své dovednosti. Ke každé přiřaď jednu hodnotu. Při rozdělování mysli na to, co může potřebovat tvá specializace.
+
+- **Hodnoty k rozdělení:** *3*, *2*, *1*, *0*, *-1*
 
 ## 2. Doplnění schopností
 
 Poznač si schopnosti a jiné statistiky obsažené ve výběrech co si udělal v předchozím kroku. Pokud některá z těchto voleb vyžaduje, aby si učinil další volbu, udělej tak. Na konci tohohle procesu by si měl mít ve směs vyplněný deník postavy bez jména, popisu, výbavy, peněz, útoků a obranného čísla.
 
--   **Úroveň:** Pokud se vaše skupina nedomluvila jinak. Tvá úroveň je 1.
--   **Životy:** Tvé počáteční životy jsou dány součtem hodnoty uváděné u tvé rasy a maximální hodnotou na kostce života danou tvým povoláním.
--   **Magie:** Tvá počáteční magie je dána součtem hodnoty uváděné u tvé rasy a maximální hodnotou na kostce magie danou tvým povoláním. Pokud tvé povolání neovládá magii, tak je tvá hodnota magie 0.
--   **Perky:** Pokaždé, když dostaneš možnost si vybrat perk, tak můžeš vybírat buďto z perků své rasy, své specializace a nebo obecných perků popsaných ==TODO:Link==.
+-   **Úroveň:** Pokud se vaše skupina nedomluvila jinak. Tvá úroveň je 1 a máš 0 zkušenostních bodů.
+-   **Životy:** Tvé počáteční životy jsou dány maximální hodnotou na kostce danou tvou specializací a modifikované tvou *Odolností*.
+-   **Talenty:** Pokaždé, když dostaneš možnost si vybrat talent, tak můžeš vybírat buďto z talentů své specializace a nebo obecných talentů popsaných ==TODO:Link==.
 
 ## 3. Výbava
 
-Nakonec si vyber svou výbavu. Každá postava má nosnost *12 slotů* (pokud tvé schopnosti či perky nespecifikují jinak) a začíná hru s *Výbavou dobrodruha* (popsána níže) a *60 šilinků* za které si může koupit co chce. Více informací o výbavě a předměty, které lze nakupovat, najdete ==TODO:Link==.
+Nakonec si vyber svou výbavu. Každá postava má nosnost *10 + Síla slotů* (pokud tvé schopnosti či talenty nespecifikují jinak) a začíná hru s *Výbavou dobrodruha* (popsána níže) a *60 šilinků* za které si může koupit co chce. Více informací o výbavě a předměty, které lze nakupovat, najdete ==TODO:Link==.
+
+==TODO: Výbava dobrodruha==
 
 ## 4. Detaily
 
 Nakonec doplň detaily jako je *jméno* postavy a formuluj její *popis*. Pokud si nevíš rady s popisem a nebo nemáš jasnou představu jak by tvoje postava měla vypadat nebo se chovat. Mohou ti pomoci tabulky rysů postav níže.
 
--   **Hrdinské body:** Také nezapomeň, že na každé herní sezení vstupuje tvá postava s *1 hrdinským bodem*.
+-   **Body štěstí:** Také nezapomeň, že na každé herní sezení vstupuje tvá postava s *1 bodem štěstí*.
 
 ### Tabulky rysů postav
 

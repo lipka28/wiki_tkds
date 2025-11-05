@@ -50,95 +50,47 @@ Ať už je vaše dobrodružství založeno na prozkoumání kobek, rozplétání
 
 ### Dovednosti
 
-Každé stvoření ve hře disponuje 4-mi základními dovednostmi, které slouží především k *ověřovacím hodům*. Dovednosti hráčských postav se pohybují v rozsahu *-5* až *+5*. U monster však mohou dosahovat daleko výše.
+Každé stvoření ve hře disponuje 5-ti základními dovednostmi, které slouží k *ověřovacím a záchranným hodům*. Dovednosti hráčských postav se pohybují v rozsahu *-4* až *+4*. U monster však mohou dosahovat daleko výše.
 
-- **Síla (SIL):** Představuje hrubou sílu, výdrž a celkovou zdatnost. Používá se pro útoky zbraněmi na blízko, lezení, plavání nebo třeba překonávání fyzických překážek. Používá se ale i pro odolávání jedům nebo třeba nemocem.
+- **Síla (SIL):** Představuje hrubou sílu jedince. Používá se pro útoky zbraněmi na blízko, lezení, plavání nebo třeba určuje nosnost inventáře.
 - **Hbitost (HBI):**  Zahrnuje pohotovost, zručnost, rovnováhu a reflexy. Využívá se třeba při pokusech o udržení rovnováhy ale i aktivitách vyžadujících manuální zručnost. Používá se také pro útoky zbraní na dálku.
-- **Inteligence (INT):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů ale i výrobě magických či alchymistických předmětů. Používá se u některých typů magie. 
-- **Vůle (VUL):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro odolávání efektům ovlivňující ale třeba i zastrašování. Stejně jako Inteligence se Vůle používá se u některých typů magie. 
+- **Odolnost (HOU):** Představuje odolnost a zdraví jedince. Přičítá se k životům každou úroveň.
+- **Mysl (MYS):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů. Také má vliv ně některé magické specializace a počet jazyků, které postava ovládá.
+- **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Inteligence se používá se u některých typů magie.
 
 **Ztráta a doplňování dovednostních bodů:** Některá monstra mají schopnost dočasně nebo i dlouhodobě snížit některé dovednostní body. Pokud však není nic co by doplnění dovednostních bodů bránilo. Dovednostní body se doplňují rychlostí *1 bod za přenocování* (předpokládá se řádné přenocování jako u doplňování života popsáno níže.
 
 ### Ověřovací hody
 
-Pokud se postava pokouší o *riskantní akci s potencionálními negativními následky*, často musí podstoupit ověřovací hod. Ten probíhá jako hod *1k20* + Hodnota ověřované dovednosti. Výsledek se pak vyhodnotí na základě porovnání s *hranicí úspěchu (HU)*. Hranici úspěchu a použitou dovednost určuje buď PJ nebo použitá herní procedura.
+Pokud se postava pokouší o *riskantní akci s potencionálními negativními následky*, často musí podstoupit ověřovací hod. Ten probíhá jako hod *1k20* + Hodnota ověřované dovednosti. Výsledek se pak musí být větší nebo rovno *10*.
 
-- **Soutěž:** Je variantou ověřovacího ho hodu. Kdy se výsledek ověřovacího hodu neporovnává s HU ale s výsledkem ověřovacího hodu soupeře. To může být třeba, když se dvě stvoření pokouší o vzájemně protichůdné akce. (Například pokus o přetlačení či odzbrojení nepřítele v boji).
 - **Tajný hod:** Někdy může být třeba, aby hráč nevěděl zda něco provedlo úspěšně nebo ne, dokud neuběhne určitý čas. V takový případech lze použít tajný hod, který háže PJ s hráčovými modifikátory a výsledek mu prozradí až nastane správný čas.
-
-#### Stanovení HU
-
-Pj vybere HU na základě svého mínění o obtížnosti dané akce. Obtížnosti jsou *Lehká*, *Normální*, *Těžká*, *Velmi Těžká* a *Nemožná*.
-
-- **Lehká:** U lehkých aktivit reálně nehrozí žádné významné následky a tedy není třeba ověřovací hod vůbec podstupovat.
-- **Normální (HU 10):** Vhodná pro naprostou většinu riskantních akcí.
-- **Těžká (HU 15):** Vhodná pro akce probíhajících za stížených podmínek, jako je například stopování za deště či odemykání rezavého zámku.
-- **Velmi Těžká (HU 20):** Vhodné pouze pro okrajové případy, kdy má mít hráč jen krajní šanci na úspěch.
-- **Nemožná:** Jak název napovídá. Pokud není akce možná, žádný hod kostkou nedokáže opak.
-
-**HU definované v pravidlech:** Všechna HU, která lze nalézt již před definovaná v těchto pravidlech (například jako ty na sesílání kouzel či používání cestovní lékárničky). Jsou pouze nejběžnější HU v dané situaci. PJ může obtížnost libovolně modifikovat v závislosti na okolnostech fikce.
-
-#### Vyhodnocení ověřovacího hodu
-
-Výsledek hráčova hodu je ve finále porovnán s HU následujícím způsobem.
-
-- **Kritický neúspěch (Výsledek < HU o 10 nebo více):** Akce se nepovedla a hráč utrpí nejhorší možné následky. 
-- **Neúspěch (Výsledek < HU):** Akce se nepovedla a hráč utrpí následky.
-- **Úspěch (Výsledek >= HU):** Akce se povedla bez vážných následků.
-- **Kritický úspěch (Výsledek >= HU o 10 nebo více):** Akce se povedla nad očekávání.
+- **Obtížnost hodu:** PJ může ovlivnit obtížnost hodu uvalením výhody či nevýhody na jeho provedení.
 
 **Přirozených 1 a přirozených 20**
 
-Pokud na k20 padne nemodifikovaná 1 sníží se stupeň úspěchu o 1 (většinou z neúspěchu na kritický neúspěch). Padne-li nemodifikovaná 20 stupeň úspěchu se naopak zvýší (většinou z úspěchu na kritický úspěch.)
+Pokud na k20 padne nemodifikovaná 1 znamená to vždy neúspěch. Padne-li nemodifikovaná 20 znamená to vždy úspěch (v boji pak kritický zásah).
 
 **Výhoda a Nevýhoda**
 
-Speciální schopnosti, perky a výjimečné situace v boji mohou uvalit na ověřovací hod *výhodu* nebo *nevýhodu*.
+Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit výhodu či nevýhodu.
 
 - **Výhoda:** Při výhodě se hází 2k20 na místo 1k20 a použije se lepší výsledek.
 - **Nevýhoda:** Při nevýhodě se pak hází 2k20 na místo 1k20 a použije se horší výsledek.
-
-!!! note "Rada pro PJ: Obtížnost a Výhoda"
-	Výhoda a nevýhoda je něco co postihne hráče jako následek speciálních efektů či podmínek. PJ určující obtížnost aktivity by však měl preferovat posun obtížnosti HU než začne rozdávat výhody a nevýhody (Při boji však často jiná možnost není).
+- **Souběh:** Souběh výhody a nevýhody se vzájemně vyruší. Výhoda s výhodou pak utvoří automatický úspěch a nevýhoda s nevýhodou zase neúspěch.
 
 !!! note "Rada pro PJ: Kdy neházet"
 	Obecně je dobré se řídit pravidlem: *"Čas, nástroje a znalosti"*. Pokud postava splňuje všechny tyto tři podmínky a to že, není pod časovým tlakem, má potřebné nástroje a znalosti. A reálně nehrozí žádný negativní následek za neúspěch (ztráta směny v kobce je dostatečný následek.) Může uspět bez potřeby hodu na ověření. 
 
-**Příklady ověřovacích hodů**
+### Záchranné hody
 
-Jaký ověřovací hod je použit na jakou aktivitu je čistě v režii PJ. Následuje však tabulka příkladů, jaké dovednosti lze použít pro jaké aktivity.
+Jsou také variantou ověřovacího hodu. Potřeba hodu na záchranu však většinou nerozhoduje o úspěchu či neúspěchu vlastní akce. Ale spíše vyvarování se negativních následků akce někoho jiného (nebo prostředí). Záchranný hod se háže proti hodnotě zapsané v deníku postavy (na první úrovni většinou 16) a je třeba hodit stejně nebo více. V závislosti na zdroji efektu, který záchranný hod vyvolal je hod modifikován následujícím způsobem:
 
-kových situací dle svého.
-
-| Aktivita                                       |     Vhodná dovednost     |
-| ---------------------------------------------- | :----------------------: |
-| Analýza nebo vybavení si informací o...        |       Inteligence        |
-| Balancování na kluzkém povrchu.                |         Hbitost          |
-| Lhát                                           |       Inteligence        |
-| Nadzvednutí těžkých kovových mříží             |           Síla           |
-| Odstrčení nepřítele                            |           Síla           |
-| Odemykání zámků                                |         Hbitost          |
-| Odvést pozornost                               |           Vůle           |
-| Odzbrojení nepřítele                           |    Hbitost nebo Síla     |
-| Oprava předmětu                                |         Hbitost          |
-| Stabilizace umírajícího                        |       Inteligence        |
-| Požádat stvoření o...                          |           Vůle           |
-| Proplížit se kolem nepřítele                   |         Hbitost          |
-| Přecházení po úzkém prkně.                     |         Hbitost          |
-| Přeskakování velkých děr                       |    Hbitost nebo Síla     |
-| Přesvědčit někoho o něčem                      |           Vůle           |
-| Připravit past                                 |         Hbitost          |
-| Rozlušti zašifrované spaní                     |       Inteligence        |
-| Stopování zvěře                                |           Vůle           |
-| Šplhání po skále                               |    Síla nebo Hbitost     |
-| Šplhání po stěnách bez zřejmých úchytů.        |         Hbitost          |
-| Vybavení si znalostí o příšeře                 |       Inteligence        |
-| Vyhrožování a zastrašování                     |           Vůle           |
-| Výroba předmětů                                | Hbitost nebo Inteligence |
-| Výzkum v knihovně                              |       Inteligence        |
-| Výzkum mezi lidmi                              |           Vůle           |
-| Zneškodňování pastí                            |         Hbitost          |
-| Zpěv, předstírání nebo nějaký herecký výkon... |           Vůle           |
+- **Síla:** Modifikuje především záchranné hody proti efektům snažící se omezit rychlost jedince.
+- **Hbitost:** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 
+- **Odolnost:** Modifikuje záchranné hody proti toxinům ale i efektům okamžitého zabití.
+- **Mysl:** Modifikuje záchranné hody proti efektům ovlivňující mysl a kouzlům cíleným na jedince.
+- **Srdce:** Speciální kategorie. Modifikuje všechny záchranné hody proti všem magickým efektům. Sčítá se s ostatními případnými modifikátory pro dané efekt. (Například kouzlo na ovládnutí mysli, by se odolávalo součtem modifikátoru za Mysl a Srdce).
 
 ### Hod štěstí
 
@@ -152,7 +104,7 @@ Každá hráčská postava je definovaná následujícím atributy, které má k
 
 ### Rasa
 
-Každá hráčská postava je příslušníkem nějaké fantastické rasy. Ať už jsou to Trpaslíci, Elfové nebo obyčejní Lidé. Rasa většinou poskytuje nějaký bonus do života a many a nějakou speciální schopnost. Také může dát přístup k extra perkům. Více o dostupných hráčských rasách ==TODO:Link==.
+Každá hráčská postava je příslušníkem nějaké fantastické rasy. Ať už jsou to Trpaslíci, Elfové nebo obyčejní Lidé. Rasa většinou poskytuje nějaký bonus do života a many a nějakou speciální schopnost. Také může dát přístup k extra talentům. Více o dostupných hráčských rasách ==TODO:Link==.
 
 ### Původ
 
@@ -164,17 +116,37 @@ Specializace je hlavním gró postavy a dává jí naprostou většinu jejich sp
 
 ### Úroveň
 
-Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou úrovní. Nové úrovně poskytují extra kostku života (a many u kouzlených specializací) a každá sudá úroveň navíc i perk.
+Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou úrovní. Nové úrovně poskytují extra možnosti každé postavě. Postup úrovněmi pro postavu ukazuje tabulka postupu níže.
 
--   **Získávání úrovní:** Hráčské postavy získávají nové úrovně za významné milníky ve hře. Jako je splnění nějakého důležitého úkolu, Poražení silného nepřítele či vysvobození mocného artefaktu z prokletých kobek.
--   **Maximální úroveň:** Teoretická maximální úroveň je 10. Ale nic vám nebrání pokračovat i dále. Po 10. úrovni by však hráči ze svých specializací neměli nic získávat (včetně kostek života) pouze nové perky každou sudou úroveň.
+**Získávání úrovní:** Hráčské postavy získávají nové úrovně za každých 1000 získaných zkušenostních bodů. Jak PJ rozdává zkušenosti je na něm. Avšak lze se řídit následujícími vodítky.
 
-### Body hrdinství (BH)
+- **Potyčka (10 - 100 zk):** Dle obtížnosti boje. Vyrovnaný boj by měl být kolem *50 zk*. Zatímco zdolání velkého monstra na konci příběhu *100 zk*. Zkušenosti za potyčky získávají všichni v plném rozsahu.
+- **Peníze:** Postavy by si měli rozdělit *10 zk* za každých získaných *100 šilinků*. Zkušenosti za peníze si hráčské postavy dělí rovnoměrně mezi sebe.
+- **Splnění úkolu či poslání (250+ zk):** Dokončení významného úkolu by mělo odměnit hráče minimálně *250 zk*. Zkušenosti za úkoly získávají všichni zúčastnění v plném rozsahu.
 
-Speciální body, které slouží hráčům jako esa v rukávu a která, může PJ používat k odměňování hráčů (například za výborný role-play). Každý hráč začíná každé herní sezení s jedním BH a to nezávisle na tom, kolik BH měl daný hráč na konci posledního sezení. Body hrdinství se dají využít na následující věci:
+#### Tabulka postupu úrovněmi
 
--   **Přehodit hod:** Hráč může za *1 BH* přehodit, kterýkoliv svůj hod a vzít si nový výsledek. Hod se přehazuje jako celek, všechny kostky co jsou jeho součástí. Například hod na zásah z výhodou, by se znovu opakoval s výhodou. Poškození 3k6 by se znovu házelo jako 3k6.
--   **Stabilizovat:** Hráč může utratit *všechny své HB* (minimum 1) a stabilizovat tak svou umírající postavu. Může tak učinit i kdyby měl právě umřít. Ať už následkem vypršení času či zvorané stabilizace spojencem. Stabilizovaná postava má *0 životů a je stále v bezvědomí není však smrtelně raněná*. 
+| úroveň | životy  | Zásah | Záchr. H. |                      Ostatní                       |
+| :----- | :-----: | :---: | :-------: | :------------------------------------------------: |
+| 1      | plná Kž |  +0   |    16     |         Rasa, Původ, Specializace, Talent          |
+| 2      |   +Kž   |  +0   |    16     |                       Talent                       |
+| 3      |   +Kž   |  +1   |    15     |                         -                          |
+| 4      |   +Kž   |  +1   |    15     |                       Talent                       |
+| 5      |   +Kž   |  +2   |    14     |     2 dovednostní body (do různých dovedností)     |
+| 6      |   +Kž   |  +2   |    14     |                       Talent                       |
+| 7      |   +Kž   |  +3   |    13     |                         -                          |
+| 8      |   +Kž   |  +3   |    13     |                       Talent                       |
+| 9      |   +Kž   |  +4   |    12     |                         -                          |
+| 10     |   +Kž   |  +4   |    12     | 2 dovednostní body (do různých dovedností), Talent |
+| 11+    |    -    |  +4   |    12     |           - (Talent každou sudou úroveň)           |
+
+**Maximální úroveň:** Teoretická maximální úroveň je 10. Ale nic vám nebrání pokračovat i dále. Po 10. úrovni by však hráči ze svých specializací neměli nic získávat (včetně kostek života) pouze nové talenty každou sudou úroveň.
+
+### Body štěstí
+
+Speciální body, které slouží hráčům jako esa v rukávu a která, může PJ používat k odměňování hráčů (například za výborný role-play). Každý hráč začíná každé herní sezení s jedním bodem štěstí a to nezávisle na tom, kolik bodů štěstí měl daný hráč na konci posledního sezení. Body hrdinství se dají využít na následující věci:
+
+-   **Přehodit hod:** Hráč může za *1 BH* přidat výhodu na svůj ověřovací nebo záchranný hod.
 
 ### Dovednosti
 
@@ -190,7 +162,7 @@ Dovednosti jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==.
 
 **Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši maxima kostky života své specializace (například 1k6 = 6).
 
-#### Smrt
+#### Smrt ==TODO: needs modification==
 
 Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a umírá. Zemře za *1k4* kol (na konci tahu své strany). Jakékoliv vyléčené množství životů ji přivede zpět k sobě. Jakékoliv další obdržené zranění, ji v tomhle stavu ihned zabije.
 
@@ -200,28 +172,23 @@ Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a um
     - *Kritický úspěch:* Postavě je vyléčen 1 život a přijde zpět k vědomí. 
     - *Kritický neúspěch:* Postava je zabita.
 
-### Magie
-
-Magie nebo-li magická energie je používaná některými povoláními pro sesílání kouzel. Pokud postava nedisponuje schopností sesílat kouzla nemá přístup ani k magické energii. Magická energie co se týče fungování, je efektivně stejná jako životy. Více o magii a sesílání kouzel se lze dočíst ==TODO: Link==
-
-### Esence
-
-Esence je další zdroj, který mají hráčské postavy k dispozici. Esence je často využívaná k používání klíčových schopností dané specializace. Každá specializace začíná hru s maximem jednoho bodu esence.
-
--   **Doplňování:** Pokud postava od posledního doplňování esence použila aspoň 1 bod esence, může se pokusit o jeho doplnění. Doplnění probíhá tím, že se postava 1 směnu věnuje aktivitě spojenou se svou specializací (např. bojovník si brousí meč nebo kněz se modlí ke svému bohu). Po dokončení této aktivity se postavě doplní 1 bod esence.  Přenocování do dalšího dne vždy doplní všechny body esence.
--   **Získávání dalších bodů esence:** Pokud postava získá novou schopnost (třeba perk) využívající esenci. Zvedne se její maximum esence o 1. Absolutní maximum bodů esence je však 3.
-
 ### Obranné číslo (OČ)
 
-Obranné číslo určuje jak těžké je zasáhnou postavu útokem v boji. Základní obranné číslo postavy bez brnění je *10*. Obranné číslo lze zvýšit různými schopnostmi, kouzly a nebo koupí lepší zbroje.
+Obranné číslo určuje jak těžké je zasáhnou postavu útokem v boji. Základní obranné číslo postavy bez brnění je *10+Hbitost*. Obranné číslo lze zvýšit různými kouzly, zvýšením Hbitosti a nebo koupí lepší zbroje.
 
-### Hybnost
+### Záchranný hod (ZH)
+
+Záchranné hody jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==. 
+
+- **Magická odolnost (MO):** Modifikátor magické odolnosti. Odpovídající dovednosti Srdce.
+
+### Rychlost
 
 Určuje kolik metrů je postava se schopna pohnout během svého tahu v boji. Je určena především rasou postavy. Ale lze ji modifikovat různými schopnostmi, kouzly nebo třeba koupí koně.
 
-**Alternativní formy pohybu:** Stvoření může mít rozdílné hybnosti pro různé formy pohybu. Jako jsou lezení po zdech, plavání a podobně. Pokud stvoření nemá specifickou hybnost pro daný pohyb, a je pro něj možné daný pohyb vykonávat, tak se pohybuje poloviční rychlostí (*obtížný terén*).
+**Alternativní formy pohybu:** Stvoření může mít rozdílné rychlosti pro různé formy pohybu. Jako jsou lezení po zdech, plavání a podobně. Pokud stvoření nemá specifickou rychlost pro daný pohyb, a je pro něj možné daný pohyb vykonávat, tak se pohybuje poloviční rychlostí (*obtížný terén*).
 
-**Pád z výšky:** Nekontrolovaný pád z výšky působí *1k6* poškození za každé 2 metry pádu.
+**Pád z výšky:** Nekontrolovaný pád z výšky působí *1k6* poškození za každé 2 metry pádu. Kontrolovaný pád, může první 2 metry pádu ignorovat.
 
 ### Útoky
 
@@ -229,15 +196,15 @@ Zbraně a jejich statistiky nebo jiné formy útoků, které postava může prov
 
 ### Jazyky
 
-Většinou získané volbou rasy. Pokud by postava získala, z nějaké schopnosti nebo perku, nespecifikovaný jazyk. Může si vybrat jaký jazyk se naučí až ve chvíli, kdy se s daným jazykem setká ve hře.
+Většinou získané volbou rasy. Pokud by postava získala, z nějaké schopnosti nebo talentu, nespecifikovaný jazyk. Může si vybrat jaký jazyk se naučí až ve chvíli, kdy se s daným jazykem setká ve hře.
 
 -   **Inteligentní monstra:** Inteligentní monstra mají šanci *1-z-6-ti* (6 na hodu štěstí) že ovládají obecnou řeč.
 
-### Perky
+### talenty
 
-Dodatečné schopnosti získané postupem na vyšší úroveň. Otevírající nové možnosti postavy. Lze si vybírat se perků rasy (==TODO:tbd==), specializace nebo sady obecných perků dostupných všem specializacím.
+Dodatečné schopnosti získané postupem na vyšší úroveň. Otevírající nové možnosti postavy. Lze si vybírat se talentů rasy (==TODO:tbd==), specializace nebo sady obecných talentů dostupných všem specializacím.
 
--   **Získávání perků navíc:** Mimo zásah PJ (třeba odměnou v rámci kampaně) nemůže hráč získat více perků než umožňuje jeho úroveň. Může však (u perků u kterých to dává smysl) je vyměnit, v rámci investic a tréninku mezi dobrodružstvími. 
+-   **Získávání talentů navíc:** Mimo zásah PJ (třeba odměnou v rámci kampaně) nemůže hráč získat více talentů než umožňuje jeho úroveň. Může však (u talentů u kterých to dává smysl) je vyměnit, v rámci investic a tréninku mezi dobrodružstvími. 
 
 ### Kouzla
 

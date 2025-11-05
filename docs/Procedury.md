@@ -18,29 +18,29 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 ### Kola konfliktu
 
 - **Kolo:** Představuje přibližně *10 vteřin* času, během kterého všechny strany konfliktu odehrají svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první.
-- **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit ověření *HBI* s *HU 10*. Pokud neuspějí, první kolo vynechávají.
+- **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit ověření *HBI*. Pokud neuspějí, první kolo vynechávají.
 - **Následující kola:** Ve všech následujících kolej sou vždy hráčské postavy na tahu první a nemusí již podstupovat další ověření HBI.
 
 ### Tahy
 
-- **Aktivity během tahu:** Stvoření během svého tahu se může přesunout o svou hybnost a provést akci.
-- **Akce:** Za akci lze považovat útok, seslání kouzla, použití perku, další přesun o svou hybnost a nebo jiná smysluplná akce.
+- **Aktivity během tahu:** Stvoření během svého tahu se může přesunout o svou rychlost a provést akci.
+- **Akce:** Za akci lze považovat útok, seslání kouzla, použití talentu, další přesun o svou rychlost a nebo jiná smysluplná akce.
 - **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy, mluvení, postavení se na nohy či drobné interakce s prostředím (např. otevírání a zavírání dveří)
 
 ### Měření vzdálenosti
 
-Všechny hybnosti a vzdálenosti jsou v této hře udávány v metrech. Pokud používáte čtvercovou síť tak 1 čtverec na mapě (v amerických TTRPG většinou o vzdálenosti 5ft) představuje 1 metr. Diagonální pohyb stojí stejně hybnosti jako ten horizontální či vertikální.
+Všechny rychlosti a vzdálenosti jsou v této hře udávány v metrech. Pokud používáte čtvercovou síť tak 1 čtverec na mapě (v amerických TTRPG většinou o vzdálenosti 5ft) představuje 1 metr. Diagonální pohyb stojí stejně rychlosti jako ten horizontální či vertikální.
 
 #### Zóny (alternativní metoda bojových map)
 
-Mimo používání čtvercových sítí pro boj. Je také možné rozdělit bojiště na tzv Zóny. Každá zóna představuje důležitou oblast bojiště. Stvoření se v rámci jedné zóny může pohybovat takřka neomezeně. Pohyb mezi zónami pak stojí 5 metrů hybnosti (nebo více v závislosti na obtížném terénu). Pokud se chce stvoření přesunout mezi zónami ale nemá dostatečnou hybnost, může podstoupit ověření rychlosti.
+Mimo používání čtvercových sítí pro boj. Je také možné rozdělit bojiště na tzv Zóny. Každá zóna představuje důležitou oblast bojiště. Stvoření se v rámci jedné zóny může pohybovat takřka neomezeně. Pohyb mezi zónami pak stojí 5 metrů rychlosti (nebo více v závislosti na obtížném terénu). Pokud se chce stvoření přesunout mezi zónami ale nemá dostatečnou rychlost, může podstoupit ověření rychlosti.
 
--   **Ověření rychlosti:** Ověření rychlosti probíhá jako hod 1k20+zbývající hybnost *HU je 10*.
+-   **Ověření rychlosti:** Ověření rychlosti probíhá jako hod 1k20+zbývající rychlost.
 -   **Speciální zóny:** Zóny mohou mít speciální efekty, které stvoření v nich ovlivňují. Například všechno může v zóně hořet nebo může zóna poskytovat krytí z některých stran.
 
 #### Obtížný terén a jiné formy pohybu
 
-Stvoření pohybující se obtížným terénem se může pohybovat maximálně polovinou své hybnosti. Různé typy obtížného terénu mohou mít dodatečné efekty.
+Stvoření pohybující se obtížným terénem se může pohybovat maximálně polovinou své rychlosti. Různé typy obtížného terénu mohou mít dodatečné efekty.
 
 ### Útok obecně
 
@@ -65,24 +65,24 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 **Trvající efekty:** Které mají dobu trvání určenou počtem kol (jako například již zmíněné perzistentní poškození). Odpočítávají svou dobu trvání vždy na začátku tahu strany, která efekt vyvolala. Pokud dobra trvání padne na 0, efekt končí.
 
-**Ohrožení:** Stvoření stojící v dosahu útoků na blízku svých nepřátel, se nachází v ohrožení. Stvoření v ohrožení mají *nevýhodu* na všechny útoky na dálku a sesílání kouzel jejichž cílem je někdo jiný než stvoření způsobující vzájemné ohrožení.
+**Ohrožení:** Stvoření stojící v dosahu útoků na blízku svých nepřátel, se nachází v ohrožení. Stvoření v ohrožení mají *nevýhodu* na všechny útoky na dálku a pohybují se po zbytek kola, jako by byli v obtížném terénu.
 
 ### Ostatní bojové situace
 
-**Boj dvěma zbraněmi:** Kdokoliv může držet 2 zbraně a však útok může provést jen s jednou. Efektivní využití obou zbraní vyžaduje některé specializace nebo perky.
+**Boj dvěma zbraněmi:** Kdokoliv může držet 2 zbraně a však útok může provést jen s jednou. Efektivní využití obou zbraní vyžaduje některé specializace nebo talenty.
 
 **Coup de grâce:** Bezmocní nepřátelé. Jako  například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem  bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti.
 
 **Průchod spojenci:** Při používání čtvercové sítě pro boj, spojenci lze volně procházet. Nelze však skončit tah na stejném místě jako spojenec.
 
-**Průchod nepřáteli:** Průchod nepřáteli vyžaduje ověření *SIL* nebo *HBI* v závislosti na zvolené "metodě průchodu". Obtížnost stanovuje PJ dle situace.
+**Průchod nepřáteli:** Průchod nepřáteli vyžaduje ověření *SIL* nebo *HBI* v závislosti na zvolené "metodě průchodu".
 
 **Přemožení:** Zredukuje-li postava nebo inteligentní monstrum svého nepřítele na 0 HP. Může jej na místo zabití omráčit, odzbrojit nebo jinak vyřadit z boje bez zabití.
 
 ### Morálka
 
 - **Spouštěč:** Strana (jen nehráčské postavy), která ztratí vůdce nebo polovinu ze svého celkového počtu musí uspět v ověření morálky. V případě neúspěchu strana uteče, vzdá se nebo cokoliv jiného dle uvážení strážce.
-- **Ověření morálky:** Je ověření *VUL* s *HU 10*. Skupiny vedené nějakým vůdcem mohou použít *VUL* tohoto vůdce.
+- **Ověření morálky:** ==TODO== 1k6 vs stupeň morálky stovření.
 
 ### Negativní stavy
 
@@ -172,7 +172,7 @@ Postava si může zaplatit léčitelské služby pro zotavení se z následků d
 
 **Naučit se něco nového**
 
-Postava se může zlepšit v určité aktivitě či naučit se něco nového. Hráčská postava se nikdy nemůže naučit perk navíc nebo perk z jiné specializace. Lze se však naučit věci jako nový jazyk, věnovat se nějaké profesi (např bylinkářství), či přeučit se některý ze svých perků za něco jiného.
+Postava se může zlepšit v určité aktivitě či naučit se něco nového. Hráčská postava se nikdy nemůže naučit talent navíc nebo talent z jiné specializace. Lze se však naučit věci jako nový jazyk, věnovat se nějaké profesi (např bylinkářství), či přeučit se některý ze svých talentů za něco jiného.
 
 - **Mistr:** K učení je vždy potřeba mistr nebo nějaký trenér.
 

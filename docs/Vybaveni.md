@@ -1,4 +1,4 @@
-# Vybavení
+# Vybavení ==todo, překopat na nové dovednosti + savy==
 
 <img src="/assets/equipment.webp"/>
 
@@ -33,7 +33,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 
 ## Zbraně a zbroje
 
-Používání většiny zbraní a zbrojí vyžaduje "trénink". Ten je poskytován především specializací postavy avšak lze jej získat i z perků.
+Používání většiny zbraní a zbrojí vyžaduje "trénink". Ten je poskytován především specializací postavy avšak lze jej získat i z talentů.
 
 -   **Netrénovaná brnění (a štíty):** Používání netrénované zbroje způsobuje *nevýhodu* na všechny ověření *SIL* a *HBI* a nelze v nich čarovat.
 -   **Netrénované zbraně:** Používání netrénované zbraně způsobuje *nevýhodu* na všechny útoky touhle zbraní.
@@ -99,7 +99,7 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 
 **Vlastnosti střelných zbraní:**
 
--   **Nab:** Zbraň vyžaduje nabití po každém použití. Zbraň lze nabít použitím akce nebo veškeré své hybnosti v daném tahu.
+-   **Nab:** Zbraň vyžaduje nabití po každém použití. Zbraň lze nabít použitím akce nebo veškeré své rychlosti v daném tahu.
 
 | Zbraň                      | Poškození | Ef. Dostřel | Sloty | Cena  |  Vlastnosti   |
 | -------------------------- | :-------: | :---------: | :---: | :---: | :-----------: |

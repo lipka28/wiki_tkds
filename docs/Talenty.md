@@ -1,4 +1,4 @@
-# Obecné perky
+# Obecné talenty
 
 asd
 
