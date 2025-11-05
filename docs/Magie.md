@@ -56,6 +56,10 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 
 <img src="/assets/sep_line.png"/>
 
+## Dosahy a rozsahy kouzel ==TODO: specifikovat==
+
+asd
+
 ## Magické předměty
 
 Základní pravidla k běžným magickým předmětům.
@@ -333,6 +337,7 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 | ----------------- | ----- |
 | Dýchání pod vodou | --    |
 | Identifikuj magii | --    |
+| Kletba oslepení   | --    |
 | Naruš magii       | --    |
 | Odolej energii    | --    |
 | Ochraňuj          | --    |
@@ -408,13 +413,13 @@ Ponoř se do hluboké meditace a vytvoř svůj magický odraz ve svém zorném p
 -   **Kritický úspěch:** Kouzlo lze udržet až 1 směnu nebo jej lze seslat za polovinu magie.
 -   **Úspěch:** Kouzlo funguje tak jak je popsáno.
 -   **Neúspěch:** Kouzlo lze udržet jen maximálně po dobu 5 kol.
--   **Kritický neúspěch:** Kouzlo se nepovedlo seslat a sesilatel upadl do bezvědomí na 1 směnu, zatímco jeho mysl bloudí mezi dimenzemi.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 <img src="/assets/sep_line.png"/>
 
 ### Bez-magická zóna
 
-**Magické tradice:** Praktická, živelná a Mystická
+**Magické tradice:** Praktická, Živelná a Mystická
 
 **Cena (obtížnost):** 8 magie (HU 14)
 
@@ -429,11 +434,11 @@ Kouzlo vytvoří ochranou kopuli, která ruší ostatní slabší magii. Při vy
 -   **Kritický úspěch:** Kopule obsáhne oblast o velikosti 7 nebo je její trvání až 1 hodina (6 směn).
 -   **Úspěch:** Kouzlo funguje tak jak je popsáno.
 -   **Neúspěch:** Kopule vydrží jen 3 kola.
--   **Kritický neúspěch:** Sesilatel ztratí schopnost čarovat na 2 kola.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Bouře
 
-**Magické tradice:** živelná
+**Magické tradice:** Živelná
 
 **Cena (obtížnost):** 12 magie (HU 16)
 
@@ -448,7 +453,7 @@ Vyvolá ohromnou bouři s prudkým deštěm, který dělá létání v dané obl
 -   **Kritický úspěch:** Každé kolo vyvolá 2k4 blesků.
 -   **Úspěch:** Kouzlo funguje jak je popsáno.
 -   **Neúspěch:** Kouzlo vyvolá jen slabý déšť (bez postihů) a jen 1 blesk při seslání a každé druhé kolo udržování kouzla.
--   **Kritický neúspěch:** Kouzlo selže a blesk zasáhne náhodný cíl v okolí sesilatele.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Dimenzionální kotva
 
@@ -467,7 +472,7 @@ Naruš schopnost cíle se teleportovat. Při vyčarování tohohle kouzla si poz
 -   **Kritický úspěch:** Trvání kouzla je 1 hodina.
 -   **Úspěch:** Kouzlo funguje tak jak je popsáno.
 -   **Neúspěch:** Kouzlo trvá jen 3 kola.
--   **Kritický neúspěch:** Kouzlo selže a sesilatel se nemůže teleportovat po dobu 2 kol.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Dimenzionální skok
 
@@ -486,7 +491,7 @@ Během mžiku se s veškerou svou výbavou přemístíš z místa na místo. Pok
 -   **Kritický úspěch:** Můžeš se přemístit až 1 kilometr daleko a nemusí to být v dohledu. Stále by si ale měl vědět kam se přemisťuješ. 
 -   **Úspěch:** Kouzlo funguje tak jak je popsáno.
 -   **Neúspěch:** Přemístíš se až na 10 metrů.
--   **Kritický neúspěch:** Přemístíš se na PJ-em určené místo ve vzdálenosti 10 metrů.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Dotek hlouposti
 
@@ -505,235 +510,237 @@ Otupíš mysl cíle a snížíš tak jeho inteligenci o 2 body.
 -   **Kritický úspěch:** Inteligence cíle je snížena o 4 body.
 -   **Úspěch:** Kouzlo funguje tak jak je popsáno. 
 -   **Neúspěch:** Inteligence cíle je snížena o 1 bod.
--   **Kritický neúspěch:** Inteligence sesilatele je snížena o 1 bod.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Dýchání pod vodou
 
-**Magické tradice:** asd
+**Magické tradice:** Praktická, Živelná a Mystická
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 4 magie (HU 12)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Instantní
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** Dotyk **Cíle:** 1 stvoření
 
-**Trvání:** asd
+**Trvání:** 8 hodin (48 směn)
 
-Popis
+Očarované stvoření získá schopnost dýchat i pod vodou. Pokud se jedná o stvoření, které může dýchat pouze pod vodou. Získá schopnost dýchat i vzduch.
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Kouzlo lze seslat na všechna stvoření v oblastí velikosti 5 centrované na sesilatele.
+-   **Úspěch:** Kouzlo funguje tak jak je popsáno.
+-   **Neúspěch:** Kouzlo trvá jen 1 hodinu (6 směn).
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Elektrický výboj
 
-**Magické tradice:** asd
+**Magické tradice:** Praktická a Živelná
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 4 magie (HU 12)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Instantní
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** 10 metrů **Cíle:** 1 až 2 stvoření
 
-**Trvání:** asd
+**Trvání:** Instantní
 
-Popis
+Vyvolá elektrický výboj, který zraní cíl v dosahu za 1k12 poškození a následně se odrazí do nejbližšího stvoření ve vzdálenosti až 2 metry za 1k6 poškození. 
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Udělené poškození je dvojnásobné (násobí se po hodu)
+-   **Úspěch:** Kouzlo funguje tak jak je popsáno.
+-   **Neúspěch:** Kouzlo zasáhne jen první cíl za 1k6 poškození.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Eventualita
 
-**Magické tradice:** asd
+**Magické tradice:** Praktická, Stínová a Mystická
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 12 magie (HU 16)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Rituál
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** Dotyk **Cíle:** Libovolný povrch
 
-**Trvání:** asd
+**Trvání:** 1 den
 
-Popis
+Vytvoří magickou značku s uloženým kouzlem. Při seslání kouzla sešli další kouzlo 1. nebo 2. kategorie, které do značky uložíš (nevyžaduje hod na sesílání). Dále definuj podmínku, za které se kouzlo spustí. V případě spuštění se kouzlo provede na tebou předem určenou oblast velikosti 5 vedle značky.
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+**Více značek:** Vytvoření nové značky vyruší existenci jakékoliv předešlé.
+
+-   **Kritický úspěch:** Kouzlo je sesláno jako kdyby si kriticky uspěl při jeho sesílání.
+-   **Úspěch:** Kouzlo je sesláno jako kdyby si uspěl při jeho sesílání.
+-   **Neúspěch:** Kouzlo je sesláno jako kdyby si neuspěl při jeho sesílání.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Chození po vodě
 
-**Magické tradice:** asd
+**Magické tradice:** Živelná
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 4 magie (HU 12)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Instantní
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** Dotyk **Cíle:** 1 stvoření
 
-**Trvání:** asd
+**Trvání:** 1 hodin (6 směn)
 
-Popis
+Očarované stvoření získá schopnost chodit po vodě.
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Kouzlo lze seslat na všechna stvoření v oblastí velikosti 5 centrované na sesilatele.
+-   **Úspěch:** Kouzlo funguje tak jak je popsáno.
+-   **Neúspěch:** Kouzlo trvá jen 1 směnu.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Chůze větru
 
-**Magické tradice:** asd
+**Magické tradice:** Živelná
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 12 magie (HU 16)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Rituál
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** Ty a tebou zvolená stvoření v oblasti velikosti 5 centrované na tebe.
 
-**Trvání:** asd
+**Trvání:** koncentrace až 8 hodin
 
-Popis
+Ty a tebou vybraná stvoření v dosahu se promění do formy mraku a odletí směrem po větru rychlostí 30 km/h. Sesilatel určuje jakým směrem vítr vane. Během přeměny může kdokoliv ze skupiny útočit nebo používat kouzla. Avšak pokud tak učiní koncentrace je ukončena. 
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Kouzlo lze udržovat celý den.
+-   **Úspěch:** Kouzlo probíhá tak jak je popsáno. 
+-   **Neúspěch:** Kouzlo trvá jen 1 hodinu.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Identifikuj magii
 
-**Magické tradice:** asd
+**Magické tradice:** Praktická, Živelná, Stínová a Mystická 
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 4 (HU dle typu efektu)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Rituál
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** 1 magický efekt (může být předmět, stvoření, oblast atd.)
 
-**Trvání:** asd
+**Trvání:** Instantní
 
-Popis
+Sesilatel se na základě zkoumání magických energií dozví informace o probíhajícím magickém efektu, stvoření či předmětu. Sesilatel obdrží přibližné informace o tom co daný efekt dělá a jak jej aktivovat (pokud je to předmět). Kouzlo nelze opakovat na ten samý subjekt vícekrát jak jednou denně.
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Stejně jako úspěch avšak sesilatel se dozví přesné informace o všech aspektech daného efektu (včetně statistik) a pokud se jedná o předmět, tak se dozví jestli je předmět prokletý.
+-   **Úspěch:** Kouzlo funguje tak jak je popsáno.
+-   **Neúspěch:** Kouzlo selže s stejně jako u neúspěchu jej nelze opakovat na daný subjekt po zbytek dne.
+-   **Kritický neúspěch:** Jako neúspěch ale kouzlo nelze na subjekt opakovat dokud sesilatel nedosáhne nové úrovně.
 
 ### Iluzorní scéna
 
-**Magické tradice:** asd
+**Magické tradice:** Praktická a Stínová
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 8 (HU 14)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Rituál
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** Oblast velikosti 10 do vzdálenosti 100 metrů v dohledu. 
 
-**Trvání:** asd
+**Trvání:** 1 hodina
 
-Popis
+Vyplní určený prostor dokonalou iluzorní scénou dle sesilatelova scénáře, který musí být předem definovaný a ve scéně se opakuje v nekonečné smyčce. Scéna produkuje ty správné pachy, zvuky a na dotyk působí reálně. Stvoření ve scéně však nemohou mluvit a ani scéna nemůže způsobit žádné zranění. Vyvolání nové Iluzorní scény vyruší tu předešlou.
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Stvoření ve scéně mohou mluvit a kouzlo má neomezené trvání.
+-   **Úspěch:** Kouzlo probíhá tak jak je popsáno.
+-   **Neúspěch:** Iluze je nedokonalá. Stvoření, které přijde do styku s aspekty této iluze se může pokusit o ověření Inteligence s HU 14 aby iluzi prokoukl.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Iluzorní terén
 
-**Magické tradice:** asd
+**Magické tradice:** Živelná
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 8 (HU 14)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Riutál
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** Oblast velikosti 10 do vzdálenosti 100 metrů v dohledu. 
 
-**Trvání:** asd
+**Trvání:** 1 hodina
 
-Popis
+Vytvoří iluzorní terén, který pokryje očarovanou oblast a zamaskuje všechny nehybné subjekty tak, že budou vypadat jako součást terénu. Pohyb některého z očarovaných subjektů ukončí iluzi pro daný subjekt avšak nevyruší celkové kouzlo.
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Kouzlo nemá omezené trvání.
+-   **Úspěch:** Kouzlo probíhá tak jak je popsáno.
+-   **Neúspěch:** Iluze je nedokonalá. Stvoření, které přijde do styku s aspekty této iluze se může pokusit o ověření Inteligence s HU 14 aby iluzi prokoukl.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Imploze
 
-**Magické tradice:** asd
+**Magické tradice:** Praktická, Stínová
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 12 (HU 16)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Instantní
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** 1 stvoření s pevným fyzickým tělem v okolí 10 metrů.
 
-**Trvání:** asd
+**Trvání:** Instantní
 
-Popis
+Tělo cíleného stvoření se začne hroutit samo do sebe. Kouzlo způsobí cíli 30 poškození.
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Udělené poškození je dvojnásobné. 
+-   **Úspěch:** Kouzlo funguje tak jak je popsáno
+-   **Neúspěch:** Udělené poškození je 10.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Kletba omráčení
 
-**Magické tradice:** asd
+**Magické tradice:** Praktická a Mystická
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 12 (Hu 16)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Instantní
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** 1 stvoření v okolí 10 metrů.
 
-**Trvání:** asd
+**Trvání:** různé
 
-Popis
+Kouzlo omráčí zasažené stvoření v závislosti na jeho úrovni. Omráčené stvoření nemůže během svého tahu provádět akce. Stvoření nižší úrovně než sesilatel jsou omráčeny na 1k6 kol. Stvoření stejné nebo vyšší úrovně jako sesilatel jen na 1 kolo.
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Doba omráčení je dvojnásobná.
+-   **Úspěch:** Kouzlo funguje jak je popsáno.
+-   **Neúspěch:** Doba omráčení je poloviční a stvoření stejné nebo vyšší úrovně jako sesilatel jsou neovlivněny.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Kletba oslepení
 
-**Magické tradice:** asd
+**Magické tradice:** Praktická a Stínová
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 12 (Hu 16)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Instantní
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** 1 stvoření v okolí 10 metrů.
 
-**Trvání:** asd
+**Trvání:** různé
 
-Popis
+Kouzlo oslepí zasažené stvoření v závislosti na jeho úrovni. Stvoření o 3 nebo více úrovní nižší než sesilatel je oslepeno permanentně. Stvoření nižší úrovně než sesilatel je oslepeno na 1 směnu. Stvoření stejné nebo vyšší úrovně jako sesilatel je oslepeno na 1k6 kol.
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Efekty oslepení dle úrovně se posunou o jedno doprava (stvoření nižší úrovně než sesilatel se stane permanentně oslepen atd.)
+-   **Úspěch:** Kouzlo funguje jak je popsáno.
+-   **Neúspěch:** Efekty oslepení dle úrovně se posunou o jedno doleva (Stvoření vyšší úrovně než sesilatel nejsou ovlivněny)
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Kořeny
 
-**Magické tradice:** asd
+**Magické tradice:** Živelná
 
-**Cena (obtížnost):** asd
+**Cena (obtížnost):** 4 (HU 12)
 
-**Sesílání:** Doba sesílání a ostatní požadavky
+**Sesílání:** Instantní
 
-**Dosah / Rozsah / Cíle:** asd
+**Dosah:** 1 stvoření, které není více jak 2x tak velké jako člověk v okolí 10 metrů.
 
-**Trvání:** asd
+**Trvání:** 1 směna
 
-Popis
+Ze země vyjedou magické kořeny, které znehybní očarované stvoření. Stvoření se může za použití akce ve svém tahu pokusit vysvobodit ověřením SIL nebo HBI s nevýhodou proti HU 10. Spojenci mohou očarovaného vysvobodit stejným způsobem ale bez nevýhody.
 
--   **Kritický úspěch:** asd
--   **Úspěch:** asd
--   **Neúspěch:** asd
--   **Kritický neúspěch:** asd
+-   **Kritický úspěch:** Stejné jako úspěch ale očarované stvoření se samo nemůže vysvobodit.
+-   **Úspěch:** Kouzlo funguje tak jak je popsáno.
+-   **Neúspěch:** Hybnost očarovaného stvoření je snížena na polovinu na 1 kolo.
+-   **Kritický neúspěch:** Kouzlo selže.
 
 ### Kyselina
 
