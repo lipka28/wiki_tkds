@@ -1,4 +1,4 @@
-# Vybavení ==todo, překopat na nové dovednosti + savy==
+# Vybavení
 
 <img src="/assets/equipment.webp"/>
 
@@ -8,7 +8,7 @@ Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava
 
 - **Inventář:** Je abstraktní pojem pro umístění předmětů postavy. V logice hry postava uchovává své předměty různě na svém těle. První 2 sloty jsou vymezeny pro ruce a ostatní předměty jsou například na opasku, v kapsách, přivázané na zádech či v batohu.
 - **Sloty:** Předmět může vážit několik slotů. Většina předmětů však váží 1. 1 slot představuje předmět co lze efektivně držet a manipulovat jednou rukou. Některé drobné předměty jsou označeny za *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo v inventáři.
-- **Nosnost:** Nosnost hráčské postavy je *12 slotů*.
+- **Nosnost:** Nosnost hráčské postavy je *10+Síla slotů*.
 - **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých magických předmětů.
 
 ## Peníze a bohatství
@@ -40,14 +40,14 @@ Používání většiny zbraní a zbrojí vyžaduje "trénink". Ten je poskytov�
 
 ### Zbroje a štíty
 
-| Zbroj             |  Cena  |  OČ  | Pož. SIL |    Sloty     |                         Vlastnosti                          |
-| ----------------- | :----: | :--: | :------: | :----------: | :---------------------------------------------------------: |
-| Obyčejné oblečení |   -    | (10) |    -     | Zanedbatelné |                     Nevyžaduje trénink                      |
-| Lehká zbroj       | 20 ši  |  12  |    -     |      1       |                              -                              |
-| Střední zbroj     | 60 ši  |  14  |    +2    |      2       | Přenocování nelze; Čarování, Plavání a Plížení s nevýhodou  |
-| Těžká zbroj       | 200 ši |  16  |    +3    |      4       | Přenocování a Plavání nelze; Čarování a Plížení s nevýhodou |
-| Pukléř            |  5 ši  |  +1  |    -     |      1       |                    Čarování s nevýhodou                     |
-| Štít              | 15 ši  |  +2  |    +1    |      1       |                    Čarování s nevýhodou                     |
+| Zbroj             |  Cena  |    OČ    | Pož. SIL |    Sloty     |                    Vlastnosti                    |
+| ----------------- | :----: | :------: | :------: | :----------: | :----------------------------------------------: |
+| Obyčejné oblečení |   -    | (10+HBI) |    -     | Zanedbatelné |                Nevyžaduje trénink                |
+| Lehká zbroj       | 20 ši  |  12+HBI  |    -     |      1       |                        -                         |
+| Střední zbroj     | 60 ši  | 14+HBI/2 |    +2    |      2       | Přenocování nelze; Plavání a Plížení s nevýhodou |
+| Těžká zbroj       | 200 ši |    16    |    +3    |      4       | Přenocování a Plavání nelze; Plížení s nevýhodou |
+| Pukléř            |  5 ši  |    +1    |    -     |      1       |                        -                         |
+| Štít              | 15 ši  |    +2    |    +1    |      1       |                        -                         |
 
 **Pož. SIL:** Požadavek na sílu pro oblečení daného typu výbavy.
 
@@ -70,7 +70,7 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 
 | Zbraň            | Poškození | Sloty | Cena  |   Vlastnosti   |
 | :--------------- | :-------: | :---: | :---: | :------------: |
-| Neozbrojený útok |     1     |   -   |   -   |      Hbi       |
+| Neozbrojený útok |     1     |   -   |   -   |      S/H       |
 | Bič              |    1k4    |   1   | 12 ši |  D, Hbi, Spec  |
 | Bojová hůl       |    1k8    |   2   | 20 ši |    2R, S/H     |
 | Cep              |    1k6    |   1   | 18 ši |      Spec      |
@@ -148,16 +148,17 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 | Lezecké náčiní                                         |            1             | 15 ši |
 | Léčivá mast                                            |            1             | 8 ši  |
 | Lucerna                                                |            1             | 15 ši |
+| Měch na vodu                                           |            1             | 3 ši  |
 | Motouz (20 metrů)                                      |            1             | 2 ši  |
 | Mýdlo                                                  |            1             | 6 ši  |
 | Nástroj (Jako krumpáč, lopata či páčidlo) (vyber jaký) |            1             | 5 ši  |
-| Pochodeň (3 ks)                                        |            1             | 2 ši  |
+| Pochodně (3 ks)                                        |            1             | 2 ši  |
 | Provaz (10 metrů)                                      |            1             | 4 ši  |
 | Psací potřeby                                          |            1             | 10 ši |
+| Rolovaná podestýlka                                    |            1             | 3 ši  |
 | Rybářské náčiní                                        |            1             | 14 ši |
 | Řetěz (2 metry)                                        |            1             | 5 ši  |
 | Převleky a líčidla                                     |            1             | 15 ši |
-| Spacák                                                 |            1             | 3 ši  |
 | Stan (pro 1)                                           |            2             | 5 ši  |
 | Stan (pro 2)                                           |            3             | 15 ši |
 | Stan (pro 4)                                           |            4             | 40 ši |
@@ -170,31 +171,32 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 | Zrcátko                                                |       Zanedbatelné       | 5 ši  |
 | A další... (Řekni PJ co bys chtěl)                     |            ?             |  ??   |
 
-**Cestovní lékárnička (6 použití):** Umožňuje následující aktivit na základě ověření *INT*:
+**Cestovní lékárnička (6 použití):** Umožňuje následující aktivity na základě úspěšného ověření *INT*:
 
--   **Stabilizace (akce, HU 15):** Stabilizuje umírajícího jedince. *Kritický úspěch:* Jedinec se probere s 1 životem; *Kritický neúspěch:* Jedinec zemře.
--   **Zmírnění efektu jedu (akce, HU 15):** Odloží efekt jedu o 1 hodinu. *Kritický úspěch:* Otrava je zcela vyléčena; *Kritický neúspěch:* Efekt jedu je umocněn.
--   **Léčení (Průzkumná akce, HU 10):** Vyléčí jedinci *1k6 života*. *Kritický úspěch:* Vyléčené množství je dvojnásobné; *Kritický neúspěch:* Jedinec obdrží *1k6 poškození*.
+- **Léčení (průzkumná akce):** Vyléčí jedinci *1k6 životů*. Po zbytek dne je dotyčný imunní vůči efektům lékárničky.
+- **Léčení v boji (akce):** Léčit lze i jako akci ve výru boje. Ověřovací hod však probíhá s *nevýhodou* a vyléčené množství je *1k4 životů*.
 
-**Křesadlo:** Umožňuje rozdělat oheň. Úspěšné použití při vypjatých situacích (například v boji) vyžaduje úspěšné ověření *OBR* s *HU 10*.
+**Křesadlo:** Umožňuje rozdělat oheň. Úspěšné použití při vypjatých situacích (například v boji) vyžaduje úspěšné ověření *HBI*.
 
 **Lahvička oleje:** Umožňuje lucerně svítit až *24 směn*.
 
 **Lahvička svěcené vody:** Lze použít jako hozenou zbraň proti proti nemrtvým a démonům působící 2k6 poškození.
 
-**Lezecké náčiní:** Umožňuje zdolat obtížné vertikální plochy. Zároveň mírní kritický neúspěch (pád) při lezení na neúspěch (komplikace).
+**Lezecké náčiní:** Umožňuje zdolat obtížné vertikální plochy. Zároveň kompletně neguje šanci na pád při šplhání.
 
 **Léčivá mast:** Aplikace masti vyléčí po přenocování *1k6 života*.
 
 **Lucerna:** Poskytuje světlo v oblasti *10 metrů* kolem nositele. Pro fungování vyžaduje olej. Lze připevnit na výbavu a tak nezabírá místo v ruce. Není tak náchylná na efekty prostředí ale je křehká.
 
+**Měch na vodu:** Udrží denní zásobu vody.
+
 **Pochodeň (3 ks):** Poskytuje světlo v oblasti *10 metrů* kolem nositele. Jedna pochodeň vydrží svítit maximálně *6 směn* a může být lehce uhašena prostředím.
+
+**Rolovaná podestýlka:** Potřebné pro pohodlné přenocování v divočině.
 
 **Rybářské náčiní:** Zvyšuje zisk čerstvých zásob z hlídkové akce zásobování u vodních ploch na *1k6*.
 
 **Převleky a líčidla:** Umožňuje pokusit se maskovat svou vizáž či vydávat se za někoho jiného.
-
-**Spacák:** Potřebné pro poklidné přenocování v divočině.
 
 **Stan (pro ...):** Potřebné pro poklidné přenocování v divočině za špatného počasí.
 
@@ -216,7 +218,7 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 | Žoldák             |       10 ši |
 | Žoldák veterán     |       20 ši |
 
-**Určení statistik nájemné výpomoci:** Je li třeba určit statistiky nájemné pomoci ty lze určit jako vše *+0* a 1k4 životů.).
+**Určení statistik nájemné výpomoci:** Je li třeba určit statistiky nájemné pomoci ty lze určit jako vše *+0* a 1k4 životů (žoldáci pak *1k8* a veteráni *2k8*).
 
 ## Transport a služby
 

@@ -54,7 +54,7 @@ Každé stvoření ve hře disponuje 5-ti základními dovednostmi, které slou�
 
 - **Síla (SIL):** Představuje hrubou sílu jedince. Používá se pro útoky zbraněmi na blízko, lezení, plavání nebo třeba určuje nosnost inventáře.
 - **Hbitost (HBI):**  Zahrnuje pohotovost, zručnost, rovnováhu a reflexy. Využívá se třeba při pokusech o udržení rovnováhy ale i aktivitách vyžadujících manuální zručnost. Používá se také pro útoky zbraní na dálku.
-- **Odolnost (HOU):** Představuje odolnost a zdraví jedince. Přičítá se k životům každou úroveň.
+- **Odolnost (ODO):** Představuje odolnost a zdraví jedince. Přičítá se k životům každou úroveň.
 - **Mysl (MYS):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů. Také má vliv ně některé magické specializace a počet jazyků, které postava ovládá.
 - **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Inteligence se používá se u některých typů magie.
 
@@ -62,7 +62,7 @@ Každé stvoření ve hře disponuje 5-ti základními dovednostmi, které slou�
 
 ### Ověřovací hody
 
-Pokud se postava pokouší o *riskantní akci s potencionálními negativními následky*, často musí podstoupit ověřovací hod. Ten probíhá jako hod *1k20* + Hodnota ověřované dovednosti. Výsledek se pak musí být větší nebo rovno *10*.
+Pokud se postava pokouší o *riskantní akci s potencionálními negativními následky*, často musí podstoupit ověřovací hod. Ten probíhá jako hod *1k20* + Hodnota ověřované dovednosti. Výsledek se pak musí být větší nebo rovno *12*.
 
 - **Tajný hod:** Někdy může být třeba, aby hráč nevěděl zda něco provedlo úspěšně nebo ne, dokud neuběhne určitý čas. V takový případech lze použít tajný hod, který háže PJ s hráčovými modifikátory a výsledek mu prozradí až nastane správný čas.
 - **Obtížnost hodu:** PJ může ovlivnit obtížnost hodu uvalením výhody či nevýhody na jeho provedení.
@@ -86,11 +86,11 @@ Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit vý
 
 Jsou také variantou ověřovacího hodu. Potřeba hodu na záchranu však většinou nerozhoduje o úspěchu či neúspěchu vlastní akce. Ale spíše vyvarování se negativních následků akce někoho jiného (nebo prostředí). Záchranný hod se háže proti hodnotě zapsané v deníku postavy (na první úrovni většinou 16) a je třeba hodit stejně nebo více. V závislosti na zdroji efektu, který záchranný hod vyvolal je hod modifikován následujícím způsobem:
 
-- **Síla:** Modifikuje především záchranné hody proti efektům snažící se omezit rychlost jedince.
-- **Hbitost:** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 
-- **Odolnost:** Modifikuje záchranné hody proti toxinům ale i efektům okamžitého zabití.
-- **Mysl:** Modifikuje záchranné hody proti efektům ovlivňující mysl a kouzlům cíleným na jedince.
-- **Srdce:** Speciální kategorie. Modifikuje všechny záchranné hody proti všem magickým efektům. Sčítá se s ostatními případnými modifikátory pro dané efekt. (Například kouzlo na ovládnutí mysli, by se odolávalo součtem modifikátoru za Mysl a Srdce).
+- **Síla (Omezení pohybu):** Modifikuje především záchranné hody proti efektům snažící se omezit rychlost jedince či zabránit nebo přinutit jej k pohybu.
+- **Hbitost (úhyb):** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 
+- **Odolnost (Zhouba):** Modifikuje záchranné hody proti toxinům ale i efektům okamžitého zabití.
+- **Mysl (Kouzla):** Modifikuje záchranné hody proti efektům ovlivňující mysl a kouzlům cíleným na jedince.
+- **Srdce (Magická odolnost):** Speciální kategorie. Modifikuje všechny záchranné hody proti všem magickým efektům. Sčítá se s ostatními případnými modifikátory pro dané efekt. (Například kouzlo na ovládnutí mysli, by se odolávalo součtem modifikátoru za Mysl a Srdce).
 
 ### Hod štěstí
 
@@ -146,7 +146,8 @@ Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou �
 
 Speciální body, které slouží hráčům jako esa v rukávu a která, může PJ používat k odměňování hráčů (například za výborný role-play). Každý hráč začíná každé herní sezení s jedním bodem štěstí a to nezávisle na tom, kolik bodů štěstí měl daný hráč na konci posledního sezení. Body hrdinství se dají využít na následující věci:
 
--   **Přehodit hod:** Hráč může za *1 BH* přidat výhodu na svůj ověřovací nebo záchranný hod.
+-   **Přehodit hod:** Hráč může za *1 Bod štěstí* přidat výhodu na svůj ověřovací nebo záchranný hod.
+-   **Zachránit se:** Hráč může za *všechny své Body štěstí* přivést svou umírající (viz smrt níže) postavu zpět k životu s 1 životem.
 
 ### Dovednosti
 
@@ -162,15 +163,13 @@ Dovednosti jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==.
 
 **Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši maxima kostky života své specializace (například 1k6 = 6).
 
-#### Smrt ==TODO: needs modification==
+#### Smrt
 
-Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a umírá. Zemře za *1k4* kol (na konci tahu své strany). Jakékoliv vyléčené množství životů ji přivede zpět k sobě. Jakékoliv další obdržené zranění, ji v tomhle stavu ihned zabije.
+Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a umírá. Jakékoliv vyléčené množství životů ji přivede zpět k sobě. Jakékoliv další obdržené zranění, ji v tomhle stavu ihned zabije.
 
 - **Bezvědomí:** Postava je bezvládná nemůže nic dělat.
-- **Smrtelné zranění:** Postava má *-2 do všech ověřovacích hodů* a pokud znovu ztratí všechny své životy, tak zemře. Tento stav se ukončí, když je postava vyléčena do plného zdraví a nerušeně si odpočine do dalšího dne.
-- **Stabilizace:** Stvoření může být stabilizováno (neumírá, ale stále má 0 životů a je v bezvědomí). Libovolným inteligentním stvořením a ověřovacím hodem na inteligenci s *HU 15* (HU 10 pokud má dotyčný ==TODO: Item pro lékařskou sadu==).
-    - *Kritický úspěch:* Postavě je vyléčen 1 život a přijde zpět k vědomí. 
-    - *Kritický neúspěch:* Postava je zabita.
+- **Smrt:** Na konci každého tahu své strany podstoupí postava hod štěstí. Pokud padne 1 postava umírá.
+- **Smrtelné zranění:** Postava má *-2 do všech ověřovacích a záchranných hodů* a pokud znovu ztratí všechny své životy, tak zemře. Tento stav se ukončí, když je postava vyléčena do plného zdraví a nerušeně si odpočine do dalšího dne.
 
 ### Obranné číslo (OČ)
 
@@ -196,15 +195,15 @@ Zbraně a jejich statistiky nebo jiné formy útoků, které postava může prov
 
 ### Jazyky
 
-Většinou získané volbou rasy. Pokud by postava získala, z nějaké schopnosti nebo talentu, nespecifikovaný jazyk. Může si vybrat jaký jazyk se naučí až ve chvíli, kdy se s daným jazykem setká ve hře.
+Většinou získané volbou rasy, talentu a nebo vysokou hodnotou dovednosti Mysl. Pokud postava získá nespecifikovaný jazyk. Může si vybrat jaký jazyk se naučí až ve chvíli, kdy se s daným jazykem setká ve hře.
 
 -   **Inteligentní monstra:** Inteligentní monstra mají šanci *1-z-6-ti* (6 na hodu štěstí) že ovládají obecnou řeč.
 
-### talenty
+### Talenty
 
-Dodatečné schopnosti získané postupem na vyšší úroveň. Otevírající nové možnosti postavy. Lze si vybírat se talentů rasy (==TODO:tbd==), specializace nebo sady obecných talentů dostupných všem specializacím.
+Dodatečné schopnosti získané postupem na vyšší úroveň. Otevírající nové možnosti postavy. Lze si vybírat se talentů specializace nebo sady obecných talentů dostupných všem specializacím.
 
--   **Získávání talentů navíc:** Mimo zásah PJ (třeba odměnou v rámci kampaně) nemůže hráč získat více talentů než umožňuje jeho úroveň. Může však (u talentů u kterých to dává smysl) je vyměnit, v rámci investic a tréninku mezi dobrodružstvími. 
+-   **Získávání talentů navíc:** Mimo zásah PJ (třeba odměnou v rámci kampaně či zajímavý vývoj postavy) hráč nemůže získat více talentů než umožňuje jeho úroveň. Může však (u talentů u kterých to dává smysl) je vyměnit, v rámci investic a tréninku mezi dobrodružstvími. 
 
 ### Kouzla
 

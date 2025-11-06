@@ -20,13 +20,20 @@ Poznač si schopnosti a jiné statistiky obsažené ve výběrech co si udělal 
 
 -   **Úroveň:** Pokud se vaše skupina nedomluvila jinak. Tvá úroveň je 1 a máš 0 zkušenostních bodů.
 -   **Životy:** Tvé počáteční životy jsou dány maximální hodnotou na kostce danou tvou specializací a modifikované tvou *Odolností*.
--   **Talenty:** Pokaždé, když dostaneš možnost si vybrat talent, tak můžeš vybírat buďto z talentů své specializace a nebo obecných talentů popsaných ==TODO:Link==.
+-   **Talenty:** Na první úrovni máš také možnost si vybrat 1 talent. Pokaždé, když dostaneš možnost si vybrat talent, tak můžeš vybírat buďto z talentů své specializace a nebo obecných talentů popsaných ==TODO:Link==.
 
 ## 3. Výbava
 
 Nakonec si vyber svou výbavu. Každá postava má nosnost *10 + Síla slotů* (pokud tvé schopnosti či talenty nespecifikují jinak) a začíná hru s *Výbavou dobrodruha* (popsána níže) a *60 šilinků* za které si může koupit co chce. Více informací o výbavě a předměty, které lze nakupovat, najdete ==TODO:Link==.
 
-==TODO: Výbava dobrodruha==
+**Výbava dobrodruha:**
+
+- Rolovaná podestýlka (1 slot)
+- Křesadlo (1 slot)
+- Pochodně (3 ks, 1 slot)
+- zásoby (3 ks, 1 slot)
+- Provaz (1 slot)
+- Měch na vodu (1 slot)
 
 ## 4. Detaily
 

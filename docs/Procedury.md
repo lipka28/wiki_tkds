@@ -4,6 +4,12 @@
 
 <img src="/assets/prav_hry_combat.webp"/>
 
+### Překvapení
+
+Pokud není ze situace jasné jaká strana (pokud nějaká) je překvapena. PJ může rozhodnout hodem štěstí. Výsledek 1 znamená, že jsou překvapení hráči a výsledek 6, že nepřítel.
+
+- **Překvapená strana:** netáhne v prvním kole konfliktu. Dále se pokračuje dle iniciativy.
+
 ### Reakce
 
 Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné, jak by NPC zareagovalo. Lze určit jeho reakci *hodem štěstí*. Výsledek lze interpretovat následující tabulkou. 
@@ -46,10 +52,9 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 Útočící stvoření podstoupí ověřovací hod na *SIL* (pro útok na blízku) nebo na *HBI* a přičte k výsledku relevantní modifikátory. Výslednou hodnotu pak porovná s *OČ* soupeře.
 
-- **Kritický úspěch:** Uděluje dvojnásobné poškození.
 - **Úspěch:** Uděluje standardní poškození dle zbraně nebo útoku.
 - **Neúspěch:** Útok nezpůsobil žádné poškození.
-- **Kritický neúspěch:** V tomhle případě stejné jako neúspěch avšak některá monstra nebo i postavy, mohou mít schopnost takového selhání využít.
+- **Přirozených 20:** Uděluje plnou hodnotu kostky poškození zbraně (např 1k8 = 8).
 
 **Nezranitelnost:** Některá stvoření jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje poškození.
 
@@ -59,13 +64,7 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 !!! note "Příklad: Ohnivý elementál" Ohnivému elementálovi, by zásah ohnivou koulí asi nic moc neudělal. Avšak smetením vodním proudem by mělo devastující účinky.
 
-**Perzistentní poškození:** Je typ poškození, které je většinou součástí nějakého dalšího efektu a uděluje se každé  kolo, co se cíl nachází pod tímto efektem. Perzistentní poškození je vždy uděleno na konci tahu dané skupiny.
-
-!!! note "Příklad: Hořící nestvůra" Nestvůra, která byla zapálena obdrží, podobu doby co bude hořet, *1k8* poškození jakmile celá její skupina (v iniciativě) odehraje svůj tah.
-
-**Trvající efekty:** Které mají dobu trvání určenou počtem kol (jako například již zmíněné perzistentní poškození). Odpočítávají svou dobu trvání vždy na začátku tahu strany, která efekt vyvolala. Pokud dobra trvání padne na 0, efekt končí.
-
-**Ohrožení:** Stvoření stojící v dosahu útoků na blízku svých nepřátel, se nachází v ohrožení. Stvoření v ohrožení mají *nevýhodu* na všechny útoky na dálku a pohybují se po zbytek kola, jako by byli v obtížném terénu.
+**Ohrožení střelce:** Stvoření stojící v dosahu útoků na blízku svých nepřátel, se nachází v ohrožení. Stvoření v ohrožení mají *nevýhodu* na všechny útoky na dálku.
 
 ### Ostatní bojové situace
 
@@ -82,7 +81,7 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 ### Morálka
 
 - **Spouštěč:** Strana (jen nehráčské postavy), která ztratí vůdce nebo polovinu ze svého celkového počtu musí uspět v ověření morálky. V případě neúspěchu strana uteče, vzdá se nebo cokoliv jiného dle uvážení strážce.
-- **Ověření morálky:** ==TODO== 1k6 vs stupeň morálky stovření.
+- **Ověření morálky:** Hod štěstí, kde výsledek 5 nebo 6 znamená, že nepřítel uteče nebo se vzdá. Některá monstra mohou být prchlivější nebo odvážnější dle jejich nátury.
 
 ### Negativní stavy
 
@@ -103,7 +102,6 @@ Průzkum neznámých oblastí, jako jsou kobky, různé hrady či jiné významn
 - **Opatrný pohyb:** Při průzkumu nebezpečných oblastí se předpokládá, že hráčské postavy postupují pomalu a opatrně. Jakékoliv nebezpečí či smrtelné nástrahy odhalí v čas. Čím větší nebezpečí tím více zřejmé by mělo být opatrně postupujícím postavám. To však nemusí být pravda pokud třeba před něčím utíkají. 
 - **Světlo:** Pochodně a lucerny svítí přibližně do okolí *10 metrů* a svítí tak dlouho dokud nejsou uhašeny prostředím nebo nositelem.
 - **Prohledat (průzkumná akce):** Postava může důkladně prohledat objekt či malou oblast lokace a tím automaticky odhalit cokoliv skrytého v dané oblasti. Věci jako pasti, tajné přihrádky, skryté dveře a podobně.
-- **Odpočinek (průzkumná akce):** Pokud má postava chvilku bezpečí, může si krátce odpočinout a tím doplnit svou esenci.
 - **Přenocování:** Přenocování v nebezpečných lokacích většinou není možné, pokud si postavy nejsou schopny zajistit dostatečně bezpečné místo.
 
 ### Speciální události
