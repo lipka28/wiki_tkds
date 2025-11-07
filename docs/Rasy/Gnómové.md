@@ -1,4 +1,4 @@
-# Lidé
+# Gnómové
 
 *Popisek* ==TODO: Doplnit popisek==
 

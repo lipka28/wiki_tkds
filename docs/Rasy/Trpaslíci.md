@@ -1,4 +1,4 @@
-# Lidé
+# Trpaslíci
 
 *Popisek* ==TODO: Doplnit popisek==
 

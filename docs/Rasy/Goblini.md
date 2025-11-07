@@ -1,4 +1,4 @@
-# Lidé
+# Goblini
 
 *Popisek* ==TODO: Doplnit popisek==
 

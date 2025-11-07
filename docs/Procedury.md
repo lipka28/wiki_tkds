@@ -35,14 +35,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 
 ### Měření vzdálenosti
 
-Všechny rychlosti a vzdálenosti jsou v této hře udávány v metrech. Pokud používáte čtvercovou síť tak 1 čtverec na mapě (v amerických TTRPG většinou o vzdálenosti 5ft) představuje 1 metr. Diagonální pohyb stojí stejně rychlosti jako ten horizontální či vertikální.
-
-#### Zóny (alternativní metoda bojových map)
-
-Mimo používání čtvercových sítí pro boj. Je také možné rozdělit bojiště na tzv Zóny. Každá zóna představuje důležitou oblast bojiště. Stvoření se v rámci jedné zóny může pohybovat takřka neomezeně. Pohyb mezi zónami pak stojí 5 metrů rychlosti (nebo více v závislosti na obtížném terénu). Pokud se chce stvoření přesunout mezi zónami ale nemá dostatečnou rychlost, může podstoupit ověření rychlosti.
-
--   **Ověření rychlosti:** Ověření rychlosti probíhá jako hod 1k20+zbývající rychlost.
--   **Speciální zóny:** Zóny mohou mít speciální efekty, které stvoření v nich ovlivňují. Například všechno může v zóně hořet nebo může zóna poskytovat krytí z některých stran.
+Všechny rychlosti a vzdálenosti jsou v této hře udávány v metrech. Pokud používáte čtvercovou síť tak 1 čtverec na mapě (v amerických TTRPG většinou o vzdálenosti 5ft) představuje 1 metr. Diagonální vzdálenosti pak 1.5 metrů.
 
 #### Obtížný terén a jiné formy pohybu
 

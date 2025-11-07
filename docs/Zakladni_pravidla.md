@@ -87,10 +87,21 @@ Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit vý
 Jsou také variantou ověřovacího hodu. Potřeba hodu na záchranu však většinou nerozhoduje o úspěchu či neúspěchu vlastní akce. Ale spíše vyvarování se negativních následků akce někoho jiného (nebo prostředí). Záchranný hod se háže proti hodnotě zapsané v deníku postavy (na první úrovni většinou 16) a je třeba hodit stejně nebo více. V závislosti na zdroji efektu, který záchranný hod vyvolal je hod modifikován následujícím způsobem:
 
 - **Síla (Omezení pohybu):** Modifikuje především záchranné hody proti efektům snažící se omezit rychlost jedince či zabránit nebo přinutit jej k pohybu.
-- **Hbitost (úhyb):** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 
+- **Hbitost (Na úhyb):** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 
 - **Odolnost (Zhouba):** Modifikuje záchranné hody proti toxinům ale i efektům okamžitého zabití.
 - **Mysl (Kouzla):** Modifikuje záchranné hody proti efektům ovlivňující mysl a kouzlům cíleným na jedince.
 - **Srdce (Magická odolnost):** Speciální kategorie. Modifikuje všechny záchranné hody proti všem magickým efektům. Sčítá se s ostatními případnými modifikátory pro dané efekt. (Například kouzlo na ovládnutí mysli, by se odolávalo součtem modifikátoru za Mysl a Srdce).
+
+#### Mapování na B/X a jiné OSR
+
+Pokud používáte materiály pro B/X D&D nebo jiný retro-clone založený na podobných pravidlech. Monstra mohou mít popsané záchranné hody následujícím způsobem. Udávanou hodnotu stačí přehodit. Není třeba počítat žádné modifikátory.
+
+| Záchranný hod         | B/X Záchranný hod              |
+| --------------------- | ------------------------------ |
+| Síla (Omezení pohybu) | Paralysis (P)                  |
+| Hbitost (Na úhyb)     | Wands (W) a Breath attacks (B) |
+| Odolnost (Zhouba)     | Death (D)                      |
+| Mysl (Kouzla)         | Spells, Rods, Staves (S)       |
 
 ### Hod štěstí
 
@@ -104,11 +115,11 @@ Každá hráčská postava je definovaná následujícím atributy, které má k
 
 ### Rasa
 
-Každá hráčská postava je příslušníkem nějaké fantastické rasy. Ať už jsou to Trpaslíci, Elfové nebo obyčejní Lidé. Rasa většinou poskytuje nějaký bonus do života a many a nějakou speciální schopnost. Také může dát přístup k extra talentům. Více o dostupných hráčských rasách ==TODO:Link==.
+Každá hráčská postava je příslušníkem nějaké fantastické rasy. Ať už jsou to Trpaslíci, Elfové nebo obyčejní Lidé. Rasa většinou poskytuje nějaké speciální schopnost a podobně jako původ i vědomosti spjaté s touhle rasou. Více o dostupných hráčských rasách ==TODO:Link==.
 
 ### Původ
 
-Původ popisuje nějakou životní zkušenost vzniklou před začátkem hry. Hráč se může pokusit aplikovat svůj původ na řešení problému ve hře a tím získat nějaké bonusy (většinou výhodu k ověřovacímu hodu). Výběr původu ==TODO:Link==
+Původ popisuje nějakou životní zkušenost vzniklou před začátkem hry. Hráč se může pokusit aplikovat svůj původ na řešení problému ve hře a tím získat nějaké bonusy (většinou výhodu k ověřovacímu hodu). Seznam původů ==TODO:Link==
 
 ### Specializace
 
@@ -126,19 +137,19 @@ Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou �
 
 #### Tabulka postupu úrovněmi
 
-| úroveň | životy  | Zásah | Záchr. H. |                      Ostatní                       |
-| :----- | :-----: | :---: | :-------: | :------------------------------------------------: |
-| 1      | plná Kž |  +0   |    16     |         Rasa, Původ, Specializace, Talent          |
-| 2      |   +Kž   |  +0   |    16     |                       Talent                       |
-| 3      |   +Kž   |  +1   |    15     |                         -                          |
-| 4      |   +Kž   |  +1   |    15     |                       Talent                       |
-| 5      |   +Kž   |  +2   |    14     |     2 dovednostní body (do různých dovedností)     |
-| 6      |   +Kž   |  +2   |    14     |                       Talent                       |
-| 7      |   +Kž   |  +3   |    13     |                         -                          |
-| 8      |   +Kž   |  +3   |    13     |                       Talent                       |
-| 9      |   +Kž   |  +4   |    12     |                         -                          |
-| 10     |   +Kž   |  +4   |    12     | 2 dovednostní body (do různých dovedností), Talent |
-| 11+    |    -    |  +4   |    12     |           - (Talent každou sudou úroveň)           |
+| úroveň | životy  | Zásah | Záchr. H. |              Ostatní              |
+| :----- | :-----: | :---: | :-------: | :-------------------------------: |
+| 1      | plná Kž |  +0   |    16     | Rasa, Původ, Specializace, Talent |
+| 2      |   +Kž   |  +0   |    16     |              Talent               |
+| 3      |   +Kž   |  +1   |    15     |                 -                 |
+| 4      |   +Kž   |  +1   |    15     |              Talent               |
+| 5      |   +Kž   |  +2   |    14     |        1 dovednostní body         |
+| 6      |   +Kž   |  +2   |    14     |              Talent               |
+| 7      |   +Kž   |  +3   |    13     |                 -                 |
+| 8      |   +Kž   |  +3   |    13     |              Talent               |
+| 9      |   +Kž   |  +4   |    12     |                 -                 |
+| 10     |   +Kž   |  +4   |    12     |     1 dovednostní bod, Talent     |
+| 11+    |    -    |  +4   |    12     |  - (Talent každou sudou úroveň)   |
 
 **Maximální úroveň:** Teoretická maximální úroveň je 10. Ale nic vám nebrání pokračovat i dále. Po 10. úrovni by však hráči ze svých specializací neměli nic získávat (včetně kostek života) pouze nové talenty každou sudou úroveň.
 
@@ -161,14 +172,14 @@ Dovednosti jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==.
 -   **Aktuální životy:** Aktuální stav životů, reprezentující stupeň zranění postavy.
 -   **Dočasné životy:** Mohou přesáhnout i maximální životy postavy a zranění se z nich odečítá přednostně. Pokud není efektem, co dočasné životy vytvořil, specifikováno jinak po 1 směně vyprchají. Dočasné životy se také vzájemně nesčítají, vždy platí jen nejvyšší hodnota.
 
-**Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši maxima kostky života své specializace (například 1k6 = 6).
+**Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu a má přístup k pitné vodě) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši maxima kostky života své specializace (například 1k6 = 6).
 
 #### Smrt
 
 Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a umírá. Jakékoliv vyléčené množství životů ji přivede zpět k sobě. Jakékoliv další obdržené zranění, ji v tomhle stavu ihned zabije.
 
 - **Bezvědomí:** Postava je bezvládná nemůže nic dělat.
-- **Smrt:** Na konci každého tahu své strany podstoupí postava hod štěstí. Pokud padne 1 postava umírá.
+- **Smrt:** Na konci každého tahu své strany podstoupí postava *hod štěstí*. Pokud padne *1* postava umírá.
 - **Smrtelné zranění:** Postava má *-2 do všech ověřovacích a záchranných hodů* a pokud znovu ztratí všechny své životy, tak zemře. Tento stav se ukončí, když je postava vyléčena do plného zdraví a nerušeně si odpočine do dalšího dne.
 
 ### Obranné číslo (OČ)
@@ -209,7 +220,7 @@ Dodatečné schopnosti získané postupem na vyšší úroveň. Otevírající n
 
 Seznam kouzel, které postava může používat. Čarování je komplikovanější záležitost na delší povídání. Více tedy ==TODO: link==
 
-### Vabavení
+### Vybavení
 
 Zbraně, brnění a jiná výbava, kterou může postava aplikovat na řešení problému. Výběr výbavy a pravidla pro nosnost ==TODO: link==.
 

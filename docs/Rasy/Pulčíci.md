@@ -1,4 +1,4 @@
-# Lidé
+# Pulčíci
 
 *Popisek* ==TODO: Doplnit popisek==
 

@@ -1,4 +1,4 @@
-# Magie
+# Magie 
 
 <img src="/assets/sep_line.png"/>
 
@@ -6,43 +6,24 @@ Zde naleznete pravidla pokrývající fungování magie a některých magických
 
 <img src="/assets/sep_line.png"/>
 
-## Magie (magická energie)
+## Typy magie
 
-Postavy specializované na magii disponují schopností manipulovat a schraňovat magickou energii (označována jen jako magie). Množství magie dané postavy záleží především na její rase, specializaci a úrovni.
+Tato hra rozlišuje dva základní typy magie. Těmi jsou obecná magie, také nazývaná *Magika* a *Zázračná magie*. Oba tyto typy mají specifické způsoby používání a získávání kouzel.
 
--   **Cena kouzel:** Je stanovena v popisku kouzel samotných.
--   **Regenerace magie:** Stvoření ovládající magii si odpočinkem většinou doplní magii odpovídající maximální hodnotě na kostce magie dané specializace.
+### Magika
 
-<img src="/assets/sep_line.png"/>
+Představuje pokus o uchopení magie civilizovanými rasami. Ovládnutí Magiky většinou vyžaduje dlouhá léta studia a odříkání. Principiálně funguje Magika na základě učení se kouzel a jejich sesílání za magickou energii.
 
-## Magické energie, disciplíny a seznamy kouzel
+-   **Získávání kouzel:** Čarodějové užívající Magiku mají často přístup jen k velmi omezenému množství naučených kouzel. Mohou se však naučit až přes 10 dalších kouzel ať už studiem nebo postupem na vyšší úroveň. Tato kouzla mohou být buď z jejich poměrně rozsáhlého seznamu kouzel a nebo jiných zdrojů.
+-   **Sesílání kouzel:** Sesílat pak mohou, kterékoliv z těchto naučených kouzel. Zaplacením jeho sesílací ceny *Magickou energií*, kterou disponují. Cena kouzla odpovídá jeho třídě (takže kouzlo 3. třídy je sesíláno za 3 body magické energie).
+-   **Doplňování magické energie:** Magická energie se doplňuje při řádném přenocování (kdy čaroděj splňuje podmínky pro doplňování života). Takhle se doplní vždy všechna magická energie.
 
-Magie není nic jiného než manipulace, tvorba nebo destrukce magických energií. Většina mágů a učenců magie se shodne, že základními energiemi magie jsou *Matérie* nebo-li fyzično, *Mysl*, *Duše* a *Život*. To jak tyto esence mezi sebou mohou či nemohou interagovat je téma na  delší povídání. Co je však důležité je, že na základě těchto 4 energií,  vznikly 4 hlavní magické disciplíny, kterým se lze věnovat.  Výběr disciplíny definuje *seznam kouzel* a tedy kouzla, které může postava sesílat. Disciplína také ovlivňuje, jaká dovednost se ověřuje při sesílání daného kouzla. Disciplíny jsou následující:
+### Zázračná magie
 
--   **Praktická magie (Inteligence)** - Někdy také nazývaná *Arkanum*. Zabývá se kouzly využívající energie *Matérie* a *Mysli*. Většinou užitečná v každodenním civilizovaném životě. Jedná se o nejrozsáhlejší disciplínu s největším počtem kouzel.
--   **Živelná magie (Vůle)** - Také označovaná jako *prapůvodní* či *magie z Fey*. Jako magie, která nejspíše stvořila tento svět se živelná magie zabývá kouzly využívající energie *Života* a *Materié*. Využití pak nachází v manipulaci živlů, léčení a přírodní magii.
--   **Stínová magie (Inteligence)** - Často označovaná taky jako *černá magie*. Zabývá se kouzly využívající energie *Mysli* a *Duše*, a jejich aplikaci ne jen v nekromancii a demonologii.
--   **Mystická magie (Vůle)** - Často nazývaná *bílou magií*.  Zabývá se kouzly využívající energie *Duše* a *Života*, a jejich aplikace v léčení a ochraně před zlými silami.
+Představuje magii získanou na základě vyšší moci, vazbu na svět nebo přirozeného talentu. Funguje na principu každodenního výběru kouzel a počtu jejich sesílání z omezeného seznamu kouzel.
 
-**Řazení kouzel do disciplín:** Málo kdy je  kouzlo součástí pouze jedné magické disciplíny. Logika věci spočívá v  tom, že stejného magického efektu, lze dosáhnout manipulací doličných energií. Základní rozdělení kouzel do disciplín, lze najít v seznamech  kouzel [níže](https://pravidla.tkds.cz/Zasazení (Žánry)/Starý svět (Fantasy)/magic/#seznam-kouzel). Pokud se rozhodnete přidávat vlastní kouzla, je důležité zvážit jakými energiemi lze kouzlo napodobit a do jaké disciplíny tématicky zapadá. PJ  má vždy rozhodující slovo o tom, do jaké disciplíny kouzlo patří.
-
-<img src="/assets/sep_line.png"/>
-
-## Učení se dalších kouzel
-
-Pokud to specializace postavy nebo talent vysloveně nepovoluje. Postava se nemůže naučit více kouzel, než ta, ke která získala postupem na další úroveň nebo z talentu. Pokud není však s nějakým se svých kouzel spokojená. Může investovat čas a peníze a přeučit se kouzlo jiným kouzlem, ke kterému má přístup.
-
-<img src="/assets/sep_line.png"/>
-
-## Kategorie a obtížnost kouzel
-
-Kouzla v každém seznamu, jsou rozděleny do 3 kategorií dle síly. K jaké kategorii kouzel má postava přístup určuje zdroj jejich magických schopností (většinou specializace nebo talent). Kategorie kouzla také určuje obtížnost jeho sesílání a cena magie (udávané hodnoty jsou nejčastější).
-
--   **Kouzla 1. kategorie:** Obtížnost sesílání: *HU 12*; Cena magie: *4*. Většinou přístupné od 1. úrovně.
--   **Kouzla 2. kategorie:** Obtížnost sesílání: *HU 14*; Cena magie: *8*. Většinou přístupné od 4. úrovně. 
--   **Kouzla 3. kategorie:** Obtížnost sesílání: *HU 16*; Cena magie: *12*. Většinou přístupné od 8. úrovně.
-
-**Hod na sesílání:** Spočívá v ověření dovednosti (*INT* nebo *VUL* dle magické disciplíny) a připočítání relevantních modifikátorů. Výsledek se pak porovná s HU sesílaného kouzla. Každé kouzlo by mělo mít definováno co se stane při *Kritickém úspěchu*, *Úspěchu*, *Neúspěchu* a *Kritickém neúspěchu*. S tím, že i při Neúspěchu by kouzlo mělo stále plnit aspoň část své funkce.
+-   **Seznam kouzel:** Postavy užívající Zázračnou magii mají přístup vždy ke všem kouzlům tříd, které dokáží seslat. Musí si však předem určit jaká kouzla a kolik sesílání budou potřebovat.
+-   **Příprava a sesílání:** Uživatelé Zázračné magie můžou 1x denně podstoupit hodinový rituál (většinou modlitba nebo meditace na začátku dne), kterým získají specializací definovaný počet sesílání kouzel určitých tříd (Například 4 sesílání 1. třídy a 2 sesílání 2. třídy). Musí si však předem určit jaká kouzla (a kolikrát) daná sesílání budou. Takto "připravená" kouzla postavě zůstávají dokud je nepoužije nebo dokud neprovede znovu onen rituál.
 
 <img src="/assets/sep_line.png"/>
 
@@ -50,15 +31,13 @@ Kouzla v každém seznamu, jsou rozděleny do 3 kategorií dle síly. K jaké ka
 
 Základní pravidla a definice platící pro všechny kouzla ve hře.
 
+-   **Třídy kouzel:** Každé kouzlo spadá do jedné z pěti tříd. Čím vyšší třída kouzla, tím mocnější kouzlo je. Specializace ovládající magii získávají přístup k vyšším třídám kouzel postupem na vyšší úroveň.
+-   **Seznamy kouzel:** Každá specializace ovládající magii má svůj seznam kouzel. K tomuhle seznamu má vždy garantovaný přístup (ať už pro učení se kouzel v rámci Magiky tak jejich používání v rámci Zázračné magie). PJ však může na základě herních interakcí umožnit přístup i k dalším kouzlům.
+-   **L a L/2:** Označuje proměnou reprezentující úroveň sesilatele v popisku kouzel (L). L/2 pak udává poloviční úroveň sesilatele (zaokrouhlenou nahoru). 
 -   **Sesílání** - Vyčarování kouzla trvá většinou *akci* a vyžaduje hlasité zaříkávání, aspoň 1 volnou ruku a případně i další  komponenty. Některá kouzla lze seslat jen jako rituál. Pokud není uvedeno jak dlouho se rituál sesílá, sesílá se *1 směnu*.
--   **Koncentrace** - Některá kouzla vyžadují koncentraci.  Koncentrace nijak neomezuje fungování čaroděje ale pouze jedno kouzlo  vyžadující koncentraci může být aktivní v jednu chvíli. Koncentrace také končí ve chvíli, kdy čaroděj ztratí vědomí. Koncentrace může také být ukončena tím kdo dané kouzlo seslal.
--   **Přerušení koncentrace** - Pokud čaroděj obdrží poškození během koncentrace, opakovat ověřovací hod na sesílání kouzla. Pokud neuspěje, kouzlo je ukončeno.
+-   **Koncentrace** - Kouzla vyžadující koncentraci vyžadují nerušené soustředění na dané kouzlo. Během udržování koncentrace nemůže stvoření nic jiného dělat.
 
 <img src="/assets/sep_line.png"/>
-
-## Dosahy a rozsahy kouzel ==TODO: specifikovat==
-
-asd
 
 ## Magické předměty
 
@@ -66,7 +45,7 @@ Základní pravidla k běžným magickým předmětům.
 
 ### Detekce magie
 
-Detekce magie je schopností specifickou pro specializace ovládající magii. Každá taková specializace může detekovat magii dotykem. Získané informace jsou však jen o případné přítomnosti magie a disciplíny do které patří.
+Detekce magie je schopností specifickou pro specializace ovládající magii (ať už Magiku tak i zázračnou magii). Každá taková specializace může detekovat magii dotykem. Získané informace jsou však jen o případné přítomnosti magie a její typ.
 
  ### Identifikace magických předmětů.
 
@@ -79,30 +58,33 @@ Celkově jsou 2 způsoby jak identifikovat efekty magických předmětů.
 
 Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o *jednorázový* předmět, který se po použití zničí a jehož výsledkem, je nějaký  většinou magický nebo magii podobný efekt.
 
--   **Použití lektvaru:** Lektvary jsou považovány za  alchymistické předměty (nikoliv magické) a může je aktivovat (vypít nebo hodit) *kdokoliv*, kdo má volnou ruku.
--   **Použití svitku:** Aktivace svitku vyžaduje dvě volné ruce a také může být provedena *kýmkoliv*. Avšak aktivace svitku vyžaduje ověřovací hod na sesílání (dle magické discipliny). Pokud dotyčný neovládá magickou disciplinu do které patří svitek. Hod probíhá s *nevýhodou*.
+-   **Použití lektvaru:** Lektvary jsou jednorázové magické předměty, které může aktivovat (vypít nebo hodit) *kdokoliv*, kdo má volnou ruku.
+-   **Použití svitku:** Vyžaduje obě ruce. Specializace ovládající daný typ magie může použít svitek stejného typu magie. Ostatní mohou také, ale musí uspět v ověření Mysli (pro svitky Magiky) nebo Srdce (pro svitky Zázračné magie). Při neúspěchu se kouzlo nějakým způsobem pokazí (Záleží na PJ).
 
 ### Magická žezla
 
-Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Efekt je většinou sesílán formou úderu nebo poklepáním žezlem. *Žezla mohou být použita a aktivována kýmkoliv, bez magického nadání*.
+Skoro až metr dlouhá hůl schopna sesílat předdefinovaný magický efekt. Efekt je většinou sesílán formou úderu nebo poklepáním žezlem.
 
+-   **Kdo může používat:** Kdokoliv (pokud není specifikováno jinak)
 -   **Počet použití:** Žezlo má většinou při nálezu *1k10* použití.
 -   **Aktivace předmětu:** Aktivace žezla je většinou považováno za *akci*.
 -   **Dobytí:** Nelze, ale PJ může udělat výjimku.
 
 ### Magické hůlky
 
-Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický efekt. Efekt je většinou stejný jako některé z kouzel. *Magické hůlky mohou být aktivovány pouze postavami, které ovládají relevantní magickou disciplínu*.
+Krátká asi 30 čísel dlouhá hůlka schopna seslat předdefinovaný magický efekt. Efekt je většinou stejný jako některé z kouzel.
 
+-   **Kdo může používat:** Jakákoliv specializace ovládající Magiku.
 -   **Počet použití:** Magická hůlka má většinou při nálezu *2k10* použití.
 -   **Aktivace předmětu:** Aktivace hůlky je většinou považováno za *akci*.
 -   **Dobytí:** Nelze, ale PJ může udělat výjimku.
 
 ### Magické hole
 
-Více jak dvoumetrová magická hůl schopna uchovávat několik magických efektů. Magické hole jsou nezbytným společníkem každého čaroděje a jejich aktivace vyžaduje velkou magickou odbornost. *Magické hole mohou být aktivována pouze postavami, které ovládají relevantní magickou disciplínu*.
+Více jak dvoumetrová magická hůl schopna uchovávat několik magických efektů.
 
--   **Použití:** Magické hole většinou nemají počet použití. Na místo toho poskytují sadu kouzel, které čaroděj může sesílat za poloviční cenu. Pokud hůl obsahuje kouzlo, které čaroděj nezná. Může ho i tak při používání hole sesílat.
+-   **Kdo může používat:** Specializace ovládající magii. Některé hole mohou vyžadovat specializaci ovládající Magiku nebo Zázračnou magii specificky.
+-   **Použití:** Pokud není specifikováno jinak (nebo jiný efekt) Magické hole mají při nalezení *3k10* použití.
 -   **Aktivace předmětu:** Aktivace hole je většinou považováno za *akci*.
 
 ### Zbraně a zbroje
