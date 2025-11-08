@@ -4,10 +4,13 @@
 
 <img src="/assets/sep_line.png"/>
 
-**Jazyky:** *Obecná řeč*  a *1 libovolný běžný jazyk* + běžné jazyky ve výši tvé dovednosti *Mysl*.
+**Jazyky:** *Obecná řeč*  a *Orkština* + běžné jazyky ve výši tvé dovednosti *Mysl*.
 
-**Rychlost:**
+**Rychlost:** 6 metrů
 
-**Speciální vlastnosti:** *Talentovaný* - Na první úrovni si vyber jeden extra talent. ==asi néééé==
+**Speciální vlastnosti:**
+
+- *Divoká síla* - Tvé útoky zbraněmi na blízku mají bonus +1 k zásahu a poškození.
+- *Pouštní adaptace* - Jsi uzpůsobený životu v poušti a vysoké teploty ti nedělají problém. Navíc pokud bys obdržel poškození ohněm, tohle poškození je sníženo o 1 za každou kostku poškození.
 
 <img src="/assets/sep_line.png"/>

@@ -54,7 +54,7 @@ Každé stvoření ve hře disponuje 5-ti základními dovednostmi, které slou�
 
 - **Síla (SIL):** Představuje hrubou sílu jedince. Používá se pro útoky zbraněmi na blízko, lezení, plavání nebo třeba určuje nosnost inventáře.
 - **Hbitost (HBI):**  Zahrnuje pohotovost, zručnost, rovnováhu a reflexy. Využívá se třeba při pokusech o udržení rovnováhy ale i aktivitách vyžadujících manuální zručnost. Používá se také pro útoky zbraní na dálku.
-- **Odolnost (ODO):** Představuje odolnost a zdraví jedince. Přičítá se k životům každou úroveň.
+- **Odolnost (ODO):** Představuje odolnost a zdraví jedince. Přičítá se k životům na první úrovni.
 - **Mysl (MYS):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů. Také má vliv ně některé magické specializace a počet jazyků, které postava ovládá.
 - **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Inteligence se používá se u některých typů magie.
 
@@ -86,22 +86,22 @@ Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit vý
 
 Jsou také variantou ověřovacího hodu. Potřeba hodu na záchranu však většinou nerozhoduje o úspěchu či neúspěchu vlastní akce. Ale spíše vyvarování se negativních následků akce někoho jiného (nebo prostředí). Záchranný hod se háže proti hodnotě zapsané v deníku postavy (na první úrovni většinou 16) a je třeba hodit stejně nebo více. V závislosti na zdroji efektu, který záchranný hod vyvolal je hod modifikován následujícím způsobem:
 
-- **Síla (Omezení pohybu):** Modifikuje především záchranné hody proti efektům snažící se omezit rychlost jedince či zabránit nebo přinutit jej k pohybu.
-- **Hbitost (Na úhyb):** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 
-- **Odolnost (Zhouba):** Modifikuje záchranné hody proti toxinům ale i efektům okamžitého zabití.
-- **Mysl (Kouzla):** Modifikuje záchranné hody proti efektům ovlivňující mysl a kouzlům cíleným na jedince.
-- **Srdce (Magická odolnost):** Speciální kategorie. Modifikuje všechny záchranné hody proti všem magickým efektům. Sčítá se s ostatními případnými modifikátory pro dané efekt. (Například kouzlo na ovládnutí mysli, by se odolávalo součtem modifikátoru za Mysl a Srdce).
+- **Síla:** Modifikuje především záchranné hody proti efektům snažící se omezit rychlost jedince či zabránit nebo přinutit jej k pohybu.
+- **Hbitost:** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 
+- **Odolnost:** Modifikuje záchranné hody proti toxinům ale i efektům okamžitého zabití.
+- **Mysl:** Modifikuje záchranné hody proti efektům ovlivňující mysl a kouzlům cíleným na jedince.
+- **Srdce:** Speciální kategorie. Modifikuje všechny záchranné hody proti všem magickým efektům. Sčítá se s ostatními případnými modifikátory pro daný efekt. (Například kouzlo na ovládnutí mysli, by se odolávalo součtem modifikátoru za Mysl a Srdce).
 
 #### Mapování na B/X a jiné OSR
 
 Pokud používáte materiály pro B/X D&D nebo jiný retro-clone založený na podobných pravidlech. Monstra mohou mít popsané záchranné hody následujícím způsobem. Udávanou hodnotu stačí přehodit. Není třeba počítat žádné modifikátory.
 
-| Záchranný hod         | B/X Záchranný hod              |
-| --------------------- | ------------------------------ |
-| Síla (Omezení pohybu) | Paralysis (P)                  |
-| Hbitost (Na úhyb)     | Wands (W) a Breath attacks (B) |
-| Odolnost (Zhouba)     | Death (D)                      |
-| Mysl (Kouzla)         | Spells, Rods, Staves (S)       |
+| Záchranný hod | B/X Záchranný hod              |
+| ------------- | ------------------------------ |
+| Síla          | Paralysis (P)                  |
+| Hbitost       | Wands (W) a Breath attacks (B) |
+| Odolnost      | Death (D)                      |
+| Mysl          | Spells, Rods, Staves (S)       |
 
 ### Hod štěstí
 
@@ -127,29 +127,13 @@ Specializace je hlavním gró postavy a dává jí naprostou většinu jejich sp
 
 ### Úroveň
 
-Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou úrovní. Nové úrovně poskytují extra možnosti každé postavě. Postup úrovněmi pro postavu ukazuje tabulka postupu níže.
+Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou úrovní. Nové úrovně poskytují extra možnosti každé postavě. Postup úrovněmi má každá specializace popsán ve své tabulce postupu.
 
 **Získávání úrovní:** Hráčské postavy získávají nové úrovně za každých 1000 získaných zkušenostních bodů. Jak PJ rozdává zkušenosti je na něm. Avšak lze se řídit následujícími vodítky.
 
 - **Potyčka (10 - 100 zk):** Dle obtížnosti boje. Vyrovnaný boj by měl být kolem *50 zk*. Zatímco zdolání velkého monstra na konci příběhu *100 zk*. Zkušenosti za potyčky získávají všichni v plném rozsahu.
 - **Peníze:** Postavy by si měli rozdělit *10 zk* za každých získaných *100 šilinků*. Zkušenosti za peníze si hráčské postavy dělí rovnoměrně mezi sebe.
 - **Splnění úkolu či poslání (250+ zk):** Dokončení významného úkolu by mělo odměnit hráče minimálně *250 zk*. Zkušenosti za úkoly získávají všichni zúčastnění v plném rozsahu.
-
-#### Tabulka postupu úrovněmi
-
-| úroveň | životy  | Zásah | Záchr. H. |              Ostatní              |
-| :----- | :-----: | :---: | :-------: | :-------------------------------: |
-| 1      | plná Kž |  +0   |    16     | Rasa, Původ, Specializace, Talent |
-| 2      |   +Kž   |  +0   |    16     |              Talent               |
-| 3      |   +Kž   |  +1   |    15     |                 -                 |
-| 4      |   +Kž   |  +1   |    15     |              Talent               |
-| 5      |   +Kž   |  +2   |    14     |        1 dovednostní body         |
-| 6      |   +Kž   |  +2   |    14     |              Talent               |
-| 7      |   +Kž   |  +3   |    13     |                 -                 |
-| 8      |   +Kž   |  +3   |    13     |              Talent               |
-| 9      |   +Kž   |  +4   |    12     |                 -                 |
-| 10     |   +Kž   |  +4   |    12     |     1 dovednostní bod, Talent     |
-| 11+    |    -    |  +4   |    12     |  - (Talent každou sudou úroveň)   |
 
 **Maximální úroveň:** Teoretická maximální úroveň je 10. Ale nic vám nebrání pokračovat i dále. Po 10. úrovni by však hráči ze svých specializací neměli nic získávat (včetně kostek života) pouze nové talenty každou sudou úroveň.
 
@@ -172,7 +156,7 @@ Dovednosti jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==.
 -   **Aktuální životy:** Aktuální stav životů, reprezentující stupeň zranění postavy.
 -   **Dočasné životy:** Mohou přesáhnout i maximální životy postavy a zranění se z nich odečítá přednostně. Pokud není efektem, co dočasné životy vytvořil, specifikováno jinak po 1 směně vyprchají. Dočasné životy se také vzájemně nesčítají, vždy platí jen nejvyšší hodnota.
 
-**Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu a má přístup k pitné vodě) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši maxima kostky života své specializace (například 1k6 = 6).
+**Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu a má přístup k pitné vodě) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši maxima kostky života své specializace + Odolnost (například 1k6 = 6 + Odolnost).
 
 #### Smrt
 
