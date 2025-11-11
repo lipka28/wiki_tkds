@@ -82,9 +82,13 @@ Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit vý
 !!! note "Rada pro PJ: Kdy neházet"
 	Obecně je dobré se řídit pravidlem: *"Čas, nástroje a znalosti"*. Pokud postava splňuje všechny tyto tři podmínky a to že, není pod časovým tlakem, má potřebné nástroje a znalosti. A reálně nehrozí žádný negativní následek za neúspěch (ztráta směny v kobce je dostatečný následek.) Může uspět bez potřeby hodu na ověření. 
 
+**Soutěž**
+
+Pokud dvě stvoření usilují o vzájemně odporující si výsledek. Může být třeba vyhodnocení tzv. soutěží. Kdy si obě stvoření hodí na ověření relevantní dovednosti vyšší výsledek vítězí (nezávisle na přirozených 20 a 1).
+
 ### Záchranné hody
 
-Jsou také variantou ověřovacího hodu. Potřeba hodu na záchranu však většinou nerozhoduje o úspěchu či neúspěchu vlastní akce. Ale spíše vyvarování se negativních následků akce někoho jiného (nebo prostředí). Záchranný hod se háže proti hodnotě zapsané v deníku postavy (na první úrovni většinou 16) a je třeba hodit stejně nebo více. V závislosti na zdroji efektu, který záchranný hod vyvolal je hod modifikován následujícím způsobem:
+Jsou ověřovací hody používané jako forma obrany. Potřeba hodu na záchranu většinou nerozhoduje o úspěchu či neúspěchu vlastní akce. Ale spíše vyvarování se negativních následků akce někoho jiného (nebo prostředí). Záchranný hod se háže proti hodnotě zapsané v deníku postavy (na první úrovni většinou 16) a je třeba hodit stejně nebo více. V závislosti na zdroji efektu, který záchranný hod vyvolal je hod modifikován následujícím způsobem:
 
 - **Síla:** Modifikuje především záchranné hody proti efektům snažící se omezit rychlost jedince či zabránit nebo přinutit jej k pohybu.
 - **Hbitost:** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 

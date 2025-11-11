@@ -47,7 +47,7 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 - **Úspěch:** Uděluje standardní poškození dle zbraně nebo útoku.
 - **Neúspěch:** Útok nezpůsobil žádné poškození.
-- **Přirozených 20:** Uděluje plnou hodnotu kostky poškození zbraně (např 1k8 = 8).
+- **Přirozených 20:** Uděluje *kritické poškození*. Ve výši plné hodnotu kostky poškození daného útoku (např 1k8 = 8).
 
 **Nezranitelnost:** Některá stvoření jsou imunní vůči některým typům útoku. V takovém případě se i při úspěšném zásahu neuděluje poškození.
 
@@ -57,7 +57,7 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 !!! note "Příklad: Ohnivý elementál" Ohnivému elementálovi, by zásah ohnivou koulí asi nic moc neudělal. Avšak smetením vodním proudem by mělo devastující účinky.
 
-**Ohrožení střelce:** Stvoření stojící v dosahu útoků na blízku svých nepřátel, se nachází v ohrožení. Stvoření v ohrožení mají *nevýhodu* na všechny útoky na dálku.
+**Ohrožení:** Stvoření stojící v dosahu útoků na blízku svých nepřátel, se nachází v ohrožení. Stvoření v ohrožení mají *nevýhodu* na všechny útoky na dálku.
 
 ### Ostatní bojové situace
 
@@ -67,7 +67,7 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 **Průchod spojenci:** Při používání čtvercové sítě pro boj, spojenci lze volně procházet. Nelze však skončit tah na stejném místě jako spojenec.
 
-**Průchod nepřáteli:** Průchod nepřáteli vyžaduje ověření *SIL* nebo *HBI* v závislosti na zvolené "metodě průchodu".
+**Průchod nepřáteli:** Průchod nepřáteli vyžaduje ověření *SIL* nebo *HBI* v závislosti na zvolené "metodě průchodu". Místa na kterých stojí nepřátelé jsou považovány za *obtížný terén*.
 
 **Přemožení:** Zredukuje-li postava nebo inteligentní monstrum svého nepřítele na 0 HP. Může jej na místo zabití omráčit, odzbrojit nebo jinak vyřadit z boje bez zabití.
 
