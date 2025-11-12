@@ -1,4 +1,4 @@
-# Magie 
+# Magie
 
 <img src="/assets/sep_line.png"/>
 
@@ -33,7 +33,7 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 
 -   **Třídy kouzel:** Každé kouzlo spadá do jedné z pěti tříd. Čím vyšší třída kouzla, tím mocnější kouzlo je. Specializace ovládající magii získávají přístup k vyšším třídám kouzel postupem na vyšší úroveň.
 -   **Seznamy kouzel:** Každá specializace ovládající magii má svůj seznam kouzel. K tomuhle seznamu má vždy garantovaný přístup (ať už pro učení se kouzel v rámci Magiky tak jejich používání v rámci Zázračné magie). PJ však může na základě herních interakcí umožnit přístup i k dalším kouzlům.
--   **L a L/2:** Označuje proměnou reprezentující úroveň sesilatele v popisku kouzel (L). L/2 pak udává poloviční úroveň sesilatele (zaokrouhlenou nahoru). 
+-   **L a L/2:** Označuje proměnou reprezentující úroveň sesilatele v popisku kouzel (L). L/2 pak udává poloviční úroveň sesilatele (zaokrouhlenou nahoru). Maximální hodnota L je 10 a to nezávisle na úrovni samotného sesilatele.
 -   **Sesílání** - Vyčarování kouzla trvá většinou *akci* a vyžaduje hlasité zaříkávání, aspoň 1 volnou ruku a případně i další  komponenty. Některá kouzla lze seslat jen jako rituál. Pokud není uvedeno jak dlouho se rituál sesílá, sesílá se *1 směnu*.
 -   **Koncentrace** - Kouzla vyžadující koncentraci vyžadují nerušené soustředění na dané kouzlo. Během udržování koncentrace nemůže stvoření nic jiného dělat.
 

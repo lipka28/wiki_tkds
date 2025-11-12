@@ -62,7 +62,7 @@ Naučíš se používat 2 jednoruční zbraně naráz. Můžeš je používat n�
 
 **Omezení:** -
 
-**Opakování:** Neomezeně
+**Opakování:** Lze vzít opakovaně
 
 Tvůj usilovný trénink ti dává bonus *+1* ke všem tvým útokům zbraněmi na blízko a zbraněmi na dálku.
 

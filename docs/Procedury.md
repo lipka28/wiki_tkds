@@ -8,7 +8,7 @@
 
 Pokud není ze situace jasné jaká strana (pokud nějaká) je překvapena. PJ může rozhodnout hodem štěstí. Výsledek 1 znamená, že jsou překvapení hráči a výsledek 6, že nepřítel.
 
-- **Překvapená strana:** netáhne v prvním kole konfliktu. Dále se pokračuje dle iniciativy.
+- **Překvapená strana:** netáhne v prvním kole konfliktu. Dále se pokračuje ve standardním pořadí.
 
 ### Reakce
 
@@ -24,7 +24,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 ### Kola konfliktu
 
 - **Kolo:** Představuje přibližně *10 vteřin* času, během kterého všechny strany konfliktu odehrají svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první.
-- **První kolo:** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit ověření *HBI*. Pokud neuspějí, první kolo vynechávají.
+- **První kolo (hod na iniciativu):** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit ověření *HBI*. Pokud neuspějí, první kolo vynechávají.
 - **Následující kola:** Ve všech následujících kolej sou vždy hráčské postavy na tahu první a nemusí již podstupovat další ověření HBI.
 
 ### Tahy
