@@ -43,28 +43,13 @@ asd
 
 ## Mág seznam kouzel
 
-| Kouzla 1. třídy    | Kouzla 2. třídy | Kouzla 3. třídy | Kouzla 4. třídy | Kouzla 5. třídy |
-| ------------------ | --------------- | --------------- | --------------- | --------------- |
-| Břichomluvectví    |                 |                 |                 |                 |
-| Magická střela     |                 |                 |                 |                 |
-| Mágova lucerna     |                 |                 |                 |                 |
-| Neviditelný sluha  |                 |                 |                 |                 |
-| Okouzli osobu      |                 |                 |                 |                 |
-| Pečetící runa      |                 |                 |                 |                 |
-| Podpal             |                 |                 |                 |                 |
-| Rozlušti           |                 |                 |                 |                 |
-| Štít               |                 |                 |                 |                 |
-| Uspi               |                 |                 |                 |                 |
-| Vznášející se disk |                 |                 |                 |                 |
-| Závan větru        |                 |                 |                 |                 |
-
 ### Kouzla 1. třídy
 
 <img src="/assets/sep_line.png"/>
 
 #### Břichomluvectví
 
-**Trvání:** 3 směny
+**Trvání:** 2 směny
 
 **Dosah:** 20 metrů
 
@@ -74,11 +59,25 @@ asd
 
 #### Magická střela
 
-**Trvání:** 1 směna
+**Trvání:** 2 směny
 
 **Dosah:** 30 metrů
 
 **Efekt:** L/2 magických energií se zhmotní nad rameny mága. Ty lze následně, buď jako součást sesílání nebo kdykoliv během trvání kouzla jako akci, seslat na cíle v dosahu. Střela automaticky zasáhne cíl, způsobí 1k6+1 poškození a zničí se.
+
+<img src="/assets/sep_line.png"/>
+
+#### Magický štít
+
+**Trvání:** 2 směny
+
+**Dosah:** Sesilatel
+
+**Efekt:** Mága pokryje ohraná magická bariéra, která mu poskytne následující bonusy:
+
+- **Ochrana proti střelám:** Tvé OČ proti střelám je *17*.
+- **Ochrana proti ostatním útokům:** Tvé OČ proti ostatním útokům je *15*.
+- **Ochrana proti magickým střelám:** Bariéra kompletně blokuje střely z kouzla *Magická střela*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -96,7 +95,7 @@ asd
 
 #### Neviditelný sluha
 
-**Trvání:** 6 směn činnost
+**Trvání:** 6 směn nebo 1 činnost
 
 **Dosah:** 10 metrů na vyvolání, následně neomezeně.
 
@@ -129,81 +128,196 @@ asd
 
 #### Pečetící runa
 
-**Trvání:**
+**Trvání:** 2k6 směn
 
-**Dosah:**
+**Dosah:** 10 metrů
 
-**Efekt:**
+**Efekt:** Svítící runa, bránící otevírání, se objeví na zavřených dveřích, víku, bráně nebo jiném uzavíratelném objektu.
 
+**Násilné otevření:** Stvoření aspoň o 3 úrovně vyšší jako sesilatel se může pokusit o ověření *SIL* a při úspěchu pečetící runu silou prolomit.
 
-
-(Knock = Všeklíč)
+**Všeklíč:** Kouzlo *všeklíč* pečetící runu okamžitě vyruší.
 
 <img src="/assets/sep_line.png"/>
 
 #### Podpal
 
-**Trvání:**
+**Trvání:** Instantní
 
-**Dosah:**
+**Dosah:** 10 metrů
 
-**Efekt:**
+**Efekt:** Vyčaruje sled plamenných výbojů v počtu odpovídajícímu L, které zasáhnou mágem určené subjekty v dosahu. Zásah způsobí jedno z následujících:
+
+- **Hořlavý předmět:** Je-li zasažen hořlavý předmět, tak vzplane.
+- **Stvoření:** Způsobí 1 poškození za každý zásah. Zasažený může podstoupit záchranu *HBI*, aby se poškození vyhnul.
 
 <img src="/assets/sep_line.png"/>
 
 #### Rozlušti
 
-**Trvání:**
+**Trvání:** 2 směny
 
-**Dosah:**
+**Dosah:** Sesilatel
 
-**Efekt:**
-
-<img src="/assets/sep_line.png"/>
-
-#### Štít
-
-**Trvání:**
-
-**Dosah:**
-
-**Efekt:**
+**Efekt:** Podobu trvání kouzla se může mág dotknout libovolného textu a ten se magicky přeformuluje do obecné řeči. Přeloženy jsou jak cizojazyčné texty, tak zakódované zprávy, runy či jiné značky. Po skončení kouzla se přeložený text vrátí do původní stavu. 
 
 <img src="/assets/sep_line.png"/>
 
 #### Uspi
 
-**Trvání:**
+**Trvání:** 4d4 směn
 
-**Dosah:**
+**Dosah:** 30 metrů
 
-**Efekt:**
+**Efekt:** Zasáhne stvoření 4. nebo nižší úrovně v zóně velikosti 5 začínající v dosahu uspávacím kouzlem. Zasažená stvoření musí uspět v záchraně *MYS* nebo být po dobu trvání kouzla uspána.
+
+**Probuzení:** Uspané stvoření může být probuzeno například proliskáním.
 
 <img src="/assets/sep_line.png"/>
 
 #### Vznášející se disk
 
-**Trvání:**
+**Trvání:** 6 směn
 
-**Dosah:**
+**Dosah:** 1 metr
 
-**Efekt:**
+**Efekt:** Vytvoří levitující konkávní disk o průměru 1 metr. Po dobu trvání kouzla disk následuje mága ve výši kolen a lze na něj umístit až 10 slotů předmětů.
 
 <img src="/assets/sep_line.png"/>
 
 #### Závan větru
 
-**Trvání:**
+**Trvání:** Instantní
 
-**Dosah:**
+**Dosah:** 10 metrů
 
-**Efekt:**
+**Efekt:** Vyčaruje sled větrných proudů v počtu odpovídajícímu L, které zasáhnou mágem určené subjekty v dosahu (Proud vždy směřuje od mága). Každý proud má dost síly na to, aby odstrčil subjekt o váze 1 slot nebo uhasil oheň adekvátní velikosti. Pokud je cílem stvoření nebo předmět ve výbavě stvoření, může se pokusit o relevantní záchranný hod (většinou *SIL* nebo *HBI*), aby efektu kouzla odolalo.
 
 <img src="/assets/sep_line.png"/>
 
 ### Kouzla 2. třídy
 
-asd
+<img src="/assets/sep_line.png"/>
+
+#### Čtení myšlenek
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Identifikuj magii
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Iluze
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Levitace
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Magický zámek
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Neviditelnost
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Odhal magii
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Pavučina
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Pravé vidění
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Tancující plamen
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Všeklíč
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Zrcadlový obraz
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
 
 ### Kouzla 3. třídy
 
