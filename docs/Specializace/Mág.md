@@ -201,101 +201,137 @@ asd
 
 #### Čtení myšlenek
 
-**Trvání:** asd
+**Trvání:** Koncentrace až 12 směn
 
-**Dosah:** asd
+**Dosah:** 20 metrů
 
-**Efekt:** asd
+**Efekt:** Mág se ponoří do hluboké meditace a pokusí se, v rámci 1 směny, napojit na myšlenky stvoření ve směru, kterým je čelem. Pokud se ve směru nachází vícero stvoření, tak sesilatel uslyší jen nesrozumitelnou sněť myšlenek a musí se soustředit další směnu, aby izoloval jen to stvoření, které ho zajímá.
+
+**Blokování:** Efekt kouzla je vyrušen metr tlustou kamennou zdí nebo tenkým plátem olova.
+
+**Koncentrace:** Mág se nemůže během provádění tohohle kouzla pohybovat či provádět další akce. Jakékoliv zranění či násilné vyrušení kouzlo předčasně ukončí.
 
 <img src="/assets/sep_line.png"/>
 
 #### Identifikuj magii
 
-**Trvání:** asd
+**Trvání:** Instantí
 
-**Dosah:** asd
+**Dosah:** Dotyk
 
-**Efekt:** asd
+**Efekt:** Mág posype předmět nebo objekt diamantovým práškem v hodnotě 200 šilinků (spotřebuje se jako komponenta kouzla). Následně se dozví vše o magii skrývající se v předmětu a to i případný přesný popis efektu či kouzla a také jak je takový případný efekt aktivován. Dozví se i zda je předmět prokletý.
 
 <img src="/assets/sep_line.png"/>
 
 #### Iluze
 
-**Trvání:** asd
+**Trvání:** Koncentrace
 
-**Dosah:** asd
+**Dosah:** 30 metrů
 
-**Efekt:** asd
+**Efekt:** Kouzlo vytvoří jednu z následujících iluzí v zóně velikosti 5 začínající v dosahu:
+
+-   **Iluzorní monstrum:** Vytvoří monstrum stejné nebo nižší úrovně jako sesilatel. Monstrum má své běžné statistiky a schopnosti avšak jeho OČ je 10 a pokud je zasaženo, iluze se rozplyne.
+-   **Iluzorní scéna:** Modifikuje vzhled ovlivněné oblasti nebo v ní vytvoří něco nového. Iluze je čistě vizuální a při dotyku se rozplyne.
+-   **Iluzorní útok:** Vytvoří iluzorní útok jako například lavinu, pád stropu či nějaké útočné kouzlo.
+
+**Záchrana MYS:** Všichni kdo spatří danou iluzi musí podstoupit záchranu *MYS*. Při neúspěchu považují iluzi za skutečnou (včetně zranění, které způsobuje). Sesilatel a ti co uspějí vidí iluzi jen jako nehybný, tichý a zjevně falešný průhledný obraz.
+
+**Poškození:** Poškození způsobené iluzí není skutečné, i když ho ti co v iluzi věří za skutečné považují. Ti co jsou iluzí zabiti jsou však jen v bezvědomí, zkamenění jsou jen znehybněni a podobně. Veškerá zranění a negativní následky iluzí odezní za 1k4 směn. 
+
+**Iluze neznámého:** Pokud mág vytváří iluzi něčeho co nikdy neviděl, všechna ovlivněná stvoření mají výhodu na záchranný hod pro odolání iluzi.
+
+**Koncentrace:** Mág se nemůže během provádění tohohle kouzla pohybovat či provádět další akce. Jakékoliv zranění či násilné vyrušení kouzlo předčasně ukončí.
 
 <img src="/assets/sep_line.png"/>
 
 #### Levitace
 
-**Trvání:** asd
+**Trvání:** 6+L směn
 
-**Dosah:** asd
+**Dosah:** Sesilatel
 
-**Efekt:** asd
+**Efekt:** Mág začne volně levitovat ve vzduchu s následujícími omezeními:
+
+-   **Vertikální pohyb:** Mág se může pohybovat nahoru a dolů rychlostí 4 metry za kolo.
+-   **Horizontální pohyb:** Horizontální pohyb je možný pouze odrážením se od stěn nebo jiných statických objektů.
+-   **Nosnost:** Kouzlo nemá žádný efekt na nosnost sesilatele.
 
 <img src="/assets/sep_line.png"/>
 
 #### Magický zámek
 
-**Trvání:** asd
+**Trvání:** Permanentní
 
-**Dosah:** asd
+**Dosah:** 10 metrů
 
-**Efekt:** asd
+**Efekt:** Svítící neviditelná runa se objeví na zavřených dveřích, víku, bráně nebo jiném uzavíratelném objektu a magicky jej uzamkne.
+
+**Sesilatel:** Mág, který kouzlo seslal, ho může kdykoliv dočasně pozastavit nebo kompletně zrušit. Musí se však nacházet v dosahu.
+
+**Magické heslo:** Mág, který kouzlo seslal, může definovat speciální heslo, které umožní průchod stvořením, které ho znají.
+
+**Všeklíč:** Kouzlo *všeklíč* magický zámek dočasně pozastaví na 1 směnu.
 
 <img src="/assets/sep_line.png"/>
 
 #### Neviditelnost
 
-**Trvání:** asd
+**Trvání:** L hodin
 
-**Dosah:** asd
+**Dosah:** 10 metrů
 
-**Efekt:** asd
+**Efekt:** Očarované stvoření nebo předmět je zabaleno do iluze, které ho uschová před běžným zrakem. Subjekt je zneviditelněný včetně všech svých součástí při seslání kouzla (např. výbava).
+
+**Útok:** Pokud očarované stvoření zaútočí, sešle kouzlo nebo provede jinou podobně agresivní akci. Kouzlo je ihned ukončeno.
+
+**Světlo:** Očarované zdroje světla stále vydávají světlo. I když zdroj samotný není vidět.
 
 <img src="/assets/sep_line.png"/>
 
-#### Odhal magii
+#### Očaruj zbraň
 
-**Trvání:** asd
+**Trvání:** 1 směna
 
-**Dosah:** asd
+**Dosah:** 10 metrů
 
-**Efekt:** asd
+**Efekt:** Na mágem určené zbrani se dočasně objeví magická runa která způsobí, že zbraň se stane magickou s bonusem +1 k útoku a poškození. Kouzlo nefunguje na již magické zbraně.
 
 <img src="/assets/sep_line.png"/>
 
 #### Pavučina
 
-**Trvání:** asd
+**Trvání:** L směn
 
-**Dosah:** asd
+**Dosah:** 10 metrů
 
-**Efekt:** asd
+**Efekt:** Kouzlo vyplní oblast velikosti 3 lepkavou pavučinou, která zachytí všechny v oblasti nebo ty kdo se pokusí oblasti projít. Zachycená stvoření jsou znehybněna a nemůžou se hýbat a ani používat své akce. Jediné co mohou je pokusit se vysvobodit.
+
+**Vysvobození:** Stvoření se ve svém tahu může pokusit vymanit. Úspěšným ověřením *SIL* nebo *HBI*. Pokud uspěje, je osvobozen a přesune se na nejbližší místo mimo dosah kouzla. Jeho tah končí. Pokud neuspěje, je kompletně znehybněn a již se o další osvobození nemůže pokoušet. Musí počkat na pomoc spojenců nebo konec kouzla.
+
+**Větší stvoření:** Velká stvoření mají na ověřovací hod na vysvobození výhodu. Taktéž pokud neuspějí, mohou se o osvobození pokusit další kolo. Stejné platí i pro stvoření a hráčské postavy, která by na dané ověření měla výhodu například z kouzla či talentu.
+
+**Hořlavá:** Pokud zapálena, pavučina shoří během 2 kol. Všechna tímto osvobozená stvoření obdrží 1k8 poškození.
 
 <img src="/assets/sep_line.png"/>
 
 #### Pravé vidění
 
-**Trvání:** asd
+**Trvání:** 6 směn
 
-**Dosah:** asd
+**Dosah:** sesilatel
 
-**Efekt:** asd
+**Efekt:** Mág získá schopnost pravého vidění na vzdálenost 10 metrů kolem sebe. Dokáže tak vidět neviditelné a všechny magií dotčené subjekty vidí barveně světélkovat. Dokáže tím také rozpoznat jaká kouzla sesílají ostatní kouzelníci a kdo nebo co je jejich cílem.
 
 <img src="/assets/sep_line.png"/>
 
 #### Tancující plamen
 
-**Trvání:** asd
+**Trvání:** L kol
 
-**Dosah:** asd
+**Dosah:** 10 metrů
 
-**Efekt:** asd
+**Efekt:** Mág na místo v dosahu vyšlehne plamennou energii ==todo: finish==
 
 <img src="/assets/sep_line.png"/>
 
