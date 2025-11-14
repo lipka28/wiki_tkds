@@ -201,15 +201,17 @@ asd
 
 #### Čtení myšlenek
 
-**Trvání:** Koncentrace až 12 směn
+**Trvání:** 12 směn
 
 **Dosah:** 20 metrů
 
-**Efekt:** Mág se ponoří do hluboké meditace a pokusí se, v rámci 1 směny, napojit na myšlenky stvoření ve směru, kterým je čelem. Pokud se ve směru nachází vícero stvoření, tak sesilatel uslyší jen nesrozumitelnou sněť myšlenek a musí se soustředit další směnu, aby izoloval jen to stvoření, které ho zajímá.
+**Efekt:** Sesláním kouzla mág získá povědomí o inteligentních stvoření v dosahu. Dále se může pokusit na mysl některého z těchto stvoření napojit.
 
-**Blokování:** Efekt kouzla je vyrušen metr tlustou kamennou zdí nebo tenkým plátem olova.
+**1 směna koncentrace:** Mág se napojí na myšlenky jednoho stvoření v dosahu. 
 
-**Koncentrace:** Mág se nemůže během provádění tohohle kouzla pohybovat či provádět další akce. Jakékoliv zranění či násilné vyrušení kouzlo předčasně ukončí.
+**Výměna stvoření:** Během trvání kouzla se může sesilatel "přepojit" na další stvoření v dosahu. To však vyžaduje další 1 směnu koncentrace.
+
+**Blokování:** Fungování kouzla je narušeno metr tlustou kamennou zdí nebo tenkým plátem olova.
 
 <img src="/assets/sep_line.png"/>
 
@@ -240,8 +242,6 @@ asd
 **Poškození:** Poškození způsobené iluzí není skutečné, i když ho ti co v iluzi věří za skutečné považují. Ti co jsou iluzí zabiti jsou však jen v bezvědomí, zkamenění jsou jen znehybněni a podobně. Veškerá zranění a negativní následky iluzí odezní za 1k4 směn. 
 
 **Iluze neznámého:** Pokud mág vytváří iluzi něčeho co nikdy neviděl, všechna ovlivněná stvoření mají výhodu na záchranný hod pro odolání iluzi.
-
-**Koncentrace:** Mág se nemůže během provádění tohohle kouzla pohybovat či provádět další akce. Jakékoliv zranění či násilné vyrušení kouzlo předčasně ukončí.
 
 <img src="/assets/sep_line.png"/>
 
@@ -331,33 +331,189 @@ asd
 
 **Dosah:** 10 metrů
 
-**Efekt:** Mág na místo v dosahu vyšlehne plamennou energii ==todo: finish==
+**Efekt:** Mág na místo v dosahu vyšlehne plamennou energii, která zasáhne všechno v přímé linii k cílenému místu. Všechna zasažená stvoření musí uspět v záchraně *HBI*, jinak obdrží *1k6 poškození*. Po dobu trvání kouzla zůstává tancující plamen tam kde byl umístěn. Každé další kolo, trvání kouzla, může mág přikázat tancujícímu plamenu (akce), aby se přesunulo na nové místo, opět působící poškození všem zasaženým v cestě. Na nové místo se oheň musí dostat přímou linií a nové místo nesmí být dále než 10 metrů od předchozí pozice plamene.
 
 <img src="/assets/sep_line.png"/>
 
 #### Všeklíč
 
-**Trvání:** asd
+**Trvání:** Instantní
 
-**Dosah:** asd
+**Dosah:** Dotyk
 
-**Efekt:** asd
+**Efekt:** Mág zaklepe na zavřené či zamčené dveře, bránu, víko nebo jiný druh poklopu. Ten se pak následně otevře.
+
+**Magické zámky a runy:** *Pečetící runa* je prolomena, *Magický zámek* a jiné pečetící runy jsou na 1 směnu vypnuty.
+
+**Tajné dveře:** Kouzlo otevře i tajné dveře, u kterých sesilatel netuší jak se otevírají. Musí však vědět o jejich existenci.
 
 <img src="/assets/sep_line.png"/>
 
 #### Zrcadlový obraz
 
-**Trvání:** asd
+**Trvání:** 6 směn
 
-**Dosah:** asd
+**Dosah:** Sesilatel
 
-**Efekt:** asd
+**Efekt:** Kolem mága, v okolí 1 metru, se objeví jeho *1k4* dokonalých kopií a mág se zamíchá mezi nimi. Tyto kopie se chovají všechny jako mág a pohybují se dokonale synchronně. Takže není poznat, která z nich mág ve skutečnosti je.
+
+**Mluva a sesílání kouzel:** Vychází vždy náhodně z jedné z kopií nebo mága.
+
+**Útoky a plošná poškození:** Cílené útoky vždy zničí jednu z kopií, nezávisle na tom, zda útok zasáhl nebo ne. Mágovi není způsobeno žádné zranění. Hromadná kouzla a útoky zničí všechny zasažené kopie. Pokud se dá předpokládat, že i mág je v dosahu (například kouzlo obsáhne úplně všechny kopie i mága), tak je mu poškození uděleno normálně.
 
 <img src="/assets/sep_line.png"/>
 
 ### Kouzla 3. třídy
 
-asd
+<img src="/assets/sep_line.png"/>
+
+#### Černé oči
+
+**Trvání:** 1 den
+
+**Dosah:** Dotyk
+
+**Efekt:** Oči očarovaného stvoření kompletně zčernají. Stvoření získá schopnost vidět ve tmě jako za normálního světla na vzdálenost 20 metrů. 
+
+<img src="/assets/sep_line.png"/>
+
+#### Dýchání pod vodou
+
+**Trvání:** 1 den
+
+**Dosah:** Dotyk
+
+**Efekt:** Očarované stvoření dýchající vzduch, získá schopnost dýchat pod vodou. Obráceně, pokud očarované stvoření dýchá jen pod vodou, získá schopnost dýchat vzduch.
+
+<img src="/assets/sep_line.png"/>
+
+#### Jasnovidectví
+
+**Trvání:** 12 směn
+
+**Dosah:** 20 metrů
+
+**Efekt:** Mág získá schopnost se 1 směnu koncentrovat na specifické stvoření v dosahu a následně vidět zrakem tohoto stvoření, když zavře své oči. Napojení pak trvá, i když se stvoření vzdálí s dosahu kouzla.
+
+**Výměna stvoření:** Během trvání kouzla se může sesilatel "přepojit" na další stvoření v dosahu. To však vyžaduje další 1 směnu koncentrace.
+
+**Blokování:** Fungování kouzla je narušeno metr tlustou kamennou zdí nebo tenkým plátem olova.
+
+<img src="/assets/sep_line.png"/>
+
+#### Létání
+
+**Trvání:** L směn
+
+**Dosah:** Dotyk
+
+**Efekt:** Očarované stvoření, získá schopnost magicky létat rychlostí *12 metrů* za kolo.
+
+<img src="/assets/sep_line.png"/>
+
+#### Magická past
+
+**Trvání:** Permanentní neb dokud nespuštěna
+
+**Dosah:** Dotyk
+
+**Efekt:** Mág vytvoří na rovném povrchu svítivou runu o velikosti dlaně, uloží do ní další kouzlo a definuje podmínku spuštění. Když je podmínka naplněna kouzlo se sešle a runa se zničí.
+
+**Podmínka:** Sesilatel si může určit libovolnou podmínku spuštění a však runa kontroluje její naplnění jen v předem definované zóně velikosti 5 v okolí 10 metrů kolem runy.
+
+**Uložení kouzla:** Při seslání *magické pasti* lze definovat kouzlo, které v ní bude uloženo. Cenu sesílání tohohle dalšího kouzla je taktéž třeba zaplatit předem. Navíc musí sesilatel obětovat drahokam v hodnotě 100 šilinků za třídu uloženého kouzla.
+
+**Cíl kouzla:** Pokud není při přípravě kouzla definováno jinak. Uvolněné kouzlo zasáhne první cíl (nebo dopadne na jeho místo), který splní podmínku pasti. Pokud není validním cílem pro dané kouzlo, kouzlo selže.
+
+**Magická past bez uloženého kouzla:** Magickou past lze seslat i bez uloženého kouzla. V případě spuštění, pak sesilatel slyší jen chvilkové zvonění v uších.
+
+<img src="/assets/sep_line.png"/>
+
+#### Modrý blesk
+
+**Trvání:** Instantní
+
+**Dosah:** 10 metrů
+
+**Efekt:** Mág sešle elektrický výboj, který cestuje po rovné linii až do vzdálenosti dosahu kouzla. Zasáhne všechno v cestě za Lk6 poškození. Zasažené subjekty mohou uspět v záchraně *HBI* a tím poškození snížit na polovinu.
+
+**Odražení:** Pokud blesk cestou narazí na pevný povrch, tak se odrazí. Snažíc se dodržet pravidlo "úhel dopadu se rovná úhlu odrazu". Pokud však ze situace není jasné kam se blesk odrazí nebo se hráč s PJ neshodnou. Blesk se odrazí zpátky k sesilateli. Každé stvoření v cestě však může být zasaženou pouze jednou.
+
+<img src="/assets/sep_line.png"/>
+
+#### Ohnivá exploze
+
+**Trvání:** Instantní
+
+**Dosah:** 40 metrů
+
+**Efekt:** Oblast velikosti 9 začínající v dosahu je zasažena ohnivou explozí, která zapálí všechno hořlavé v oblasti. Zasažené subjekty obdrží Lk6 poškození. Mohou však uspět v záchraně *HBI* a tím poškození snížit na polovinu.
+
+<img src="/assets/sep_line.png"/>
+
+#### Ochrana před střelami
+
+**Trvání:** 12 směn
+
+**Dosah:** 10 metrů
+
+**Efekt:** Očarované stvoření pokryje magická bariéra, která jej chrání před obyčejnými střelami (jako jsou šípy, oštěpy či kameny z praku). Ty se neškodně roztříští při nárazu o bariéru.
+
+**Ostatní střeli:** Kouzlo nechrání před velkými střelami (jako třeba kámen z katapultu) nebo magickými či očarovanými střelami.
+
+<img src="/assets/sep_line.png"/>
+
+#### Paralyzuj
+
+**Trvání:** 6 směn
+
+**Dosah:** 20 metrů
+
+**Efekt:** Náhlá děsivá představa paralyzuje Lx2 úrovní stvoření v oblasti velikosti 5, která začíná v dosahu kouzla. Zasažená stvoření mají nárok na záchranu *MYS*, aby efektu odolali. Nemyslící stvoření jsou taktéž imunní. 
+
+**Ovlivněné úrovně:** Stvoření jsou ovlivněny postupně od nejnižší úrovně po nejvyšší.
+
+<img src="/assets/sep_line.png"/>
+
+#### Rozptyl magii
+
+**Trvání:** Instantní
+
+**Dosah:** 20 metrů
+
+**Efekt:** Všechna probíhající kouzla a magické efekty v oblasti velikosti 5 začínající v dosahu kouzla. Jsou rozptýleny do barevné exploze a ukončeny.
+
+**Rozdíl úrovní:** Pokud je úroveň sesílání stvoření, které kouzlo vyvolalo nižší než ta sesilatele, kouzlo je ihned ukončeno. V opačném případě musí sesilatel uspět v ověření *MYS* s postihem ve výši rozdílu jeho úrovně sesílaní a úrovně sesílání stvoření, které kouzlo vyvolalo.
+
+**Magické předměty a prokletí:** Jsou kouzlem neovlivněny.
+
+<img src="/assets/sep_line.png"/>
+
+#### Spěch
+
+**Trvání:** 3 směny
+
+**Dosah:** 40 metrů
+
+**Efekt:** Všechny pohybové rychlosti očarovaného stvoření jsou zdvojnásobeny. Taktéž může stvoření během svého tahu provést 2 akce na místo 1.
+
+<img src="/assets/sep_line.png"/>
+
+#### Zóna neviditelnosti
+
+**Trvání:** L hodin
+
+**Dosah:** 20
+
+**Efekt:** Očarované stvoření a další vybraná stvoření v okolí 3 metry kolem něj se zabalí do iluze, která je uschová před běžným zrakem. Subjekty jsou zneviditelněný včetně všech svých součástí při seslání kouzla (např. výbava).
+
+**Pohyblivá zóna:** Tato oblast 3 metrů kolem očarovaného stvoření se s ním i pohybuje. Pokud nějaké ovlivněné stvoření tuto zónu opustí, neviditelnost ztratí a již ji nemůže získat zpět. 
+
+**Útok:** Pokud některé ovlivněné stvoření zaútočí, sešle kouzlo nebo provede jinou podobně agresivní akci. Nenávratně ztratí svou neviditelnost. Pokud tak učiní prvotní cíl kouzla, kouzlo je ukončeno a neviditelnost ztracena pro všechny ovlivněné.
+
+**Světlo:** Očarované zdroje světla stále vydávají světlo. I když zdroj samotný není vidět.
+
+<img src="/assets/sep_line.png"/>
 
 ### Kouzla 4. třídy
 
