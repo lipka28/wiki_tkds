@@ -517,7 +517,193 @@ asd
 
 ### Kouzla 4. třídy
 
-asd
+<img src="/assets/sep_line.png"/>
+
+#### Fatamorgána
+
+**Trvání:** Permanentní dokud nedotčeno
+
+**Dosah:** 100 metrů
+
+**Efekt:** Vytvoří iluzi terénního prvku jako je třeba les, kopec, rybník a podobně. Nebo zamaskuje či pozmění již existující prvek. V obou případech se modifikace musí kompletně vejít do dosahu kouzla. Pokud se iluze dotkne inteligentní stvoření, iluze je ukončena.
+
+<img src="/assets/sep_line.png"/>
+
+#### Ledová zeď
+
+**Trvání:** 12 směn
+
+**Dosah:** 20 metrů
+
+**Efekt:** Mág vyvolá ledovou stěnu skládající se až z *L\*2* polo-průhledných ledových pilířů. Každý pilíř má délku a šířku *1 metr* a výšku až *4 metry*. Stvoření 3. nebo nižší úrovně nejsou schopny tuto stěnu překonat.
+
+**Umisťování pilířů:** Sesilatel může pilíře umístit kdekoliv v dosahu kouzla avšak musí splnit tyto podmínky:
+
+- Pilíř musí na něčem stát (třeba na zemi)
+- Pilíř nelze vytvořit na místech obsazených nehybnými objekty.
+- Každý další pilíř musí navazovat na ten předchozí.
+- Pilíře nemohou navazovat ve větším úhlu jak *45°*.
+
+**Stvoření 4 nebo vyšší úrovně:** Se mohou ověřením *SIL* s nevýhodou pokusit probít skrz pilíř. Stvoření, kterému se to povede obdrží *2k6* poškození za roztříštění pilíře.
+
+<img src="/assets/sep_line.png"/>
+
+#### Mágovo oko
+
+**Trvání:** Koncentrace
+
+**Dosah:** 100 metrů
+
+**Efekt:** Mág si nad rukou vytvoří neviditelné oko, kterým může následně prozkoumávat okolí. Mágovo oko vidí ve tmě na 10 metrů a umí létat rychlostí až 20 metrů za kolo. Nesmí se však vzdálit z dosahu sesilatele. I když neviditelné oko má stále fyzickou formu o velikosti lidského oka.
+
+**Hluboká koncentrace:** Používání oka může být dezorientující. Mág se při koncentraci na tohle kouzlo nemůže ani pohybovat.
+
+<img src="/assets/sep_line.png"/>
+
+#### Manipuluj osud
+
+**Trvání:** Instantní / Trvalé
+
+**Dosah:** Dotyk
+
+**Efekt:** Mág rozváže nebo usměrní nitky osudu protínající stvoření jedním z následujících způsobů:
+
+- **Odstraň prokletí:** Očarované stvoření je trvale vyléčeno z jednoho prokletí, které jej ovlivňovalo. Alternativně je mu umožněno zbavit se jednoho oblečeného prokletého předmětu. Tohle kouzlo nelze použít na odstranění prokletí z předmětů.
+- **Uval prokletí:** Na očarované stvoření je uvaleno prokletí. Prokletí může být v podobě až -5 bodů do specifické dovednosti nebo třeba nějaký adekvátní behaviorální efekt (např.: Již nikdy nedokážeš vstoupit na svou loď). Prokletí je trvalé.
+
+**Vícero prokletí:** Jedno stvoření může být pod efektem vícero prokletí, pokud mají rozdílné efekty. 
+
+<img src="/assets/sep_line.png"/>
+
+#### Ohnivá zeď
+
+**Trvání:** Koncentrace + L kol po konci koncentrace
+
+**Dosah:** 20 metrů
+
+**Efekt:** Mág vyvolá ohnivou stěnu skládající se až z *L\*2* divokých plamenů. Každý plamen má délku a šířku *1 metr* a výšku až *4 metry*. Stvoření 3. nebo nižší úrovně, které se pokusí plamen projít, jsou zničeny.
+
+**Umisťování plamenů:** Sesilatel může plameny umístit kdekoliv v dosahu kouzla avšak musí splnit tyto podmínky:
+
+- Plamen musí na něčem stát (třeba na zemi)
+- Plamen nelze vytvořit na místech obsazených nehybnými objekty.
+- Každý další plamen musí navazovat na ten předchozí.
+- Plameny nemohou navazovat ve větším úhlu jak *45°*.
+
+**Stvoření 4 nebo vyšší úrovně:** Mohou plameny projít. A však vstoupení do plamenů a každý ukončený tah v plamenech, způsobí stvoření *3k6* poškození.
+
+<img src="/assets/sep_line.png"/>
+
+#### Okouzli
+
+**Trvání:** Pernamentní
+
+**Dosah:** 20 metrů
+
+**Efekt:** Mág sešle mocné mysl modifikující kouzlo na *3k6* stvoření 3. nebo nižší úrovně nebo na 1 stvoření vyšší úrovně. Cílená stvoření musí uspět v záchraně *MYS*. Při neúspěchu budou považovat sesilatele za velmi dobrého přítele. 
+
+**Chování okouzleného:** Okouzlený je vůči sesilateli nápomocný jak jen to jde, taktéž bude následovat rozkazy sesilatele, pokud nejsou v rozporu s jeho zvyky či morálkou nebo pokud jej neohrozí na životě.
+
+<img src="/assets/sep_line.png"/>
+
+#### Pomatení
+
+**Trvání:** 12 kol
+
+**Dosah:** 20 metrů
+
+**Efekt:** Kouzlo pomate 3k6 náhodně vybraných stvoření v oblasti velikosti 10 začínající v dosahu kouzla. Pomatená stvoření ztrácí kontrolu nad svými akcemi.
+
+**Stvoření 3 nebo vyšší úrovně:** Každé kolo trvání kouzla má nárok na záchranný hod *MYS*. Pokud uspěje, může v daném kole konat dle své svobodné vůle.
+
+**Stvoření 2 nebo nižší úrovně:** Nemají nárok na záchranný hod.
+
+**Chování pomatených:** Každé pomatené stvoření si před odehráním svého tahu hodí nad tabulkou níže. Chová se dle výsledku v tabulce.
+
+| 1k6   | Chování                                |
+| ----- | -------------------------------------- |
+| 1 - 2 | Stvoření útočí na spojence sesilatele. |
+| 3 - 4 | Stvoření vynechá tah.                  |
+| 5 - 6 | Stvoření útočí na své spojence.        |
+
+<img src="/assets/sep_line.png"/>
+
+#### Proměna
+
+**Trvání:** 1k6 + L směn / Permanentní
+
+**Dosah:** 10 metrů
+
+**Efekt:** Mág přemění živé stvoření nebo sebe. Do podoby jiného živého stvoření dle vlastní volby.
+
+**Proměna sebe:** Mág se nemůže proměnit na stvoření větší úrovně než *L*. Mág si ponechá své aktuální životy, bonus k útoku a mentální dovednosti (mysl a srdce). Z proměny však získá všechny schopnosti a dovednosti spjaté s fyzickou formou vybrané proměny. Jiné schopnosti jako imunity, aktivní schopnosti či kouzla, které nová forma běžně ovládá, mu zůstanou nepřístupny. Přeměna trvá *1k6 + L* směn a mág v ní nemůže čarovat.
+
+**Přeměna někoho jiného:** Mág nemůže cíl proměnit na stvoření vyšší úrovně než *L\*2*. Cíl si ponechá své aktuální životy ale jinak se kompletně stane přeměněným stvořením. Včetně speciálních schopností inteligence a chování. Přeměna je permanentní.
+
+**Specifický subjekt:** Kouzlo nelze použít k získání podoby specifických subjektů.
+
+**Ukončení:** Pokud očarovaný zemře, přemění se zpět do své podoby (zůstane však mrtvý).
+
+**Odolání:** Stvoření, které si nepřeje být proměněno se může pokusit odolat úspěšnou záchranou *MYS*.
+
+<img src="/assets/sep_line.png"/>
+
+#### Přemístění
+
+**Trvání:** Instantní
+
+**Dosah:** 2 metry / 100 metrů
+
+**Efekt:** Mág přemístí sebe nebo jedno stvoření ve vzdálenosti do 2 metrů. Na jiné místo až 100 metrů daleko.
+
+**Místo určení:** Cílené místo pro teleportaci může být buď libovolné místo do vzdálenosti 100 metrů, které sesilatel vidí. Nebo může být určeno koordináty, které dohromady dají 100 metrů (např.: 20 metrů na sever, 70 metrů na východ a 10 metrů dolů). Pokud na stanoveném místě není volný prostor pro přemístění, kouzlo selže.
+
+**Odolání:** Stvoření, které si nepřeje být přemístěno se může pokusit odolat úspěšnou záchranou *SIL*.
+
+<img src="/assets/sep_line.png"/>
+
+#### Rozpohybuj mrtvé
+
+**Trvání:** Trvalé nebo dokud nezabiti
+
+**Dosah:** 10 metrů
+
+**Efekt:** Magicky rozpohybuje pod mágovou kontrolou kontrolou *L* těl (či kostěných ostatků) mrtvých osob. Nezávisle na tom, jakými schopnostmi a statistikami disponovali tyto osoby za svého života. Všichni používají následující statistiky.
+
+**Živý mrtvý**
+
+**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 12; **Statistiky:** Vše +0; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
+
+!!! note "Objasnění: Co je osoba?"
+	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
+
+<img src="/assets/sep_line.png"/>
+
+#### Řetězový blesk
+
+**Trvání:** Instantní
+
+**Dosah:** 20 metrů
+
+**Efekt:** Vyšle řetězící se blesk, který zasáhne stvoření v dosahu a následně se odrazí na dalších *L* stvoření. Přeskakující vždy na nejbližší stvoření v okolí *2 metrů* od posledního zasaženého stvoření. Žádné stvoření nemůže být zasaženo více jak jedenkrát a pokud kouzlo nemá kam dále přeskočit, před vyčerpáním počtu odražení, tak končí.
+
+**Poškození:** Každé zasažené stvoření obdrží *3k12* poškození. Může se pokusit jej zredukovat na polovinu úspěšnou záchranou *ODO*. 
+
+<img src="/assets/sep_line.png"/>
+
+#### Strach
+
+**Trvání:** L kol
+
+**Dosah:** Oblast velikosti 5 dotýkající se pozice sesilatele
+
+**Efekt:** Vír magické energie zasáhne stvoření v oblasti a k smrti je vyděsí. Zasažená stvoření musí uspět v záchraně *MYS* jinak se dají na útěk.
+
+**Akce zasažených stvoření:** Zasažená stvoření během trvání kouzla používají jak svůj pohyb tak svou akci na to, aby se přesunuli od sesilatele.
+
+**Zahazování předmětů:** Pokud stvoření neuspěje v záchranném hodu o 5 nebo více. Kromě útěku i upustí na zem to co drželo v rukách. 
+
+<img src="/assets/sep_line.png"/>
 
 ### Kouzla 5. třídy
 
