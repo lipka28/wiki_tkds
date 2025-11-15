@@ -14,18 +14,18 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň | životy | Zásah | Z.H. |                 Ostatní                 |
-| :----- | :----: | :---: | :--: | :-------------------------------------: |
-| 1      | 4+ODO  |  +0   |  16  | Přepadení; Zlodějství; Dvoj-řeč; Talent |
-| 2      |  +1k4  |  +0   |  16  |                 Talent                  |
-| 3      |  +1k4  |  +1   |  15  |                    -                    |
-| 4      |  +1k4  |  +1   |  15  |                 Talent                  |
-| 5      |  +1k4  |  +2   |  14  |            1 dovednostní bod            |
-| 6      |  +1k4  |  +2   |  14  |                 Talent                  |
-| 7      |  +1k4  |  +3   |  13  |                    -                    |
-| 8      |  +1k4  |  +3   |  13  |                 Talent                  |
-| 9      |  +1k4  |  +4   |  12  |                    -                    |
-| 10     |  +1k4  |  +4   |  12  |        1 dovednostní bod, Talent        |
+| úroveň | životy | Zásah |                 Ostatní                 |
+| :----- | :----: | :---: | :-------------------------------------: |
+| 1      | 4+ODO  |  +0   | Přepadení; Zlodějství; Dvoj-řeč; Talent |
+| 2      |  +1k4  |  +0   |                 Talent                  |
+| 3      |  +1k4  |  +1   |                    -                    |
+| 4      |  +1k4  |  +1   |                 Talent                  |
+| 5      |  +1k4  |  +2   |            1 dovednostní bod            |
+| 6      |  +1k4  |  +2   |                 Talent                  |
+| 7      |  +1k4  |  +3   |                    -                    |
+| 8      |  +1k4  |  +3   |                 Talent                  |
+| 9      |  +1k4  |  +4   |                    -                    |
+| 10     |  +1k4  |  +4   |        1 dovednostní bod; Talent        |
 
 ## Schopnosti povolání
 

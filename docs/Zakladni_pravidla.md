@@ -90,7 +90,7 @@ Je ověřovací hod, který se háže jako snaha vyvarování se negativních n�
 - **Hbitost:** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 
 - **Odolnost:** Modifikuje záchranné hody proti toxinům ale i efektům okamžitého zabití.
 - **Mysl:** Modifikuje záchranné hody proti efektům ovlivňující mysl a kouzlům cíleným na jedince.
-- **Srdce:** Speciální kategorie. Modifikuje všechny záchranné hody proti všem magickým efektům. Sčítá se s ostatními případnými modifikátory pro daný efekt. (Například kouzlo na ovládnutí mysli, by se odolávalo součtem modifikátoru za Mysl a Srdce).
+- **Srdce:** Speciální kategorie. Modifikuje všechny záchranné hody proti magickým efektům. Sčítá se s ostatními případnými modifikátory pro daný efekt. (Například kouzlo na ovládnutí mysli, by se odolávalo součtem modifikátoru za Mysl a Srdce).
 
 !!! note "Příklad: Záchranný hod"
 	Karlos, bojovník 4. úrovně byl uštknut zmijí 1. úrovně. PJ mu sdělí, že musí podstoupit záchranný hod na *Odolnost* s bonusem *+3* (Karlos je vyšší úrovně takže plus, a 3 je rozdíl úrovní mezi Karlosem a zmijí). Karolos tedy hodí 1k20 a vyjde mu *8*. Přičte svou hodnotu *Odolnosti* ve  výši *+2* a bonus *+3* za rozdíl úrovní. Výsledek hodu je tedy *13* (8+2+3), což překoná hranici *12* platící pro všechny ověřovací hody. Karlos tedy jedu odolal a dožije se dalšího dne.

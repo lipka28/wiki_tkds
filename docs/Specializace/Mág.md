@@ -14,18 +14,18 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň | životy | Zásah | Z.H. |                Ostatní                |
-| :----- | :----: | :---: | :--: | :-----------------------------------: |
-| 1      | 4+ODO  |  +0   |  16  | asd; sad; asd; Kouzla 1. třídy Talent |
-| 2      |  +1k4  |  +0   |  16  |                Talent                 |
-| 3      |  +1k4  |  +1   |  15  |            Kouzla 2. třídy            |
-| 4      |  +1k4  |  +1   |  15  |                Talent                 |
-| 5      |  +1k4  |  +2   |  14  |  1 dovednostní bod, Kouzla 3. třídy   |
-| 6      |  +1k4  |  +2   |  14  |                Talent                 |
-| 7      |  +1k4  |  +3   |  13  |            Kouzla 4. třídy            |
-| 8      |  +1k4  |  +3   |  13  |                Talent                 |
-| 9      |  +1k4  |  +4   |  12  |            Kouzla 5. třídy            |
-| 10     |  +1k4  |  +4   |  12  |       1 dovednostní bod, Talent       |
+| úroveň | životy | Zásah |                Ostatní                 |
+| :----- | :----: | :---: | :------------------------------------: |
+| 1      | 4+ODO  |  +0   | asd; sad; asd; Kouzla 1. třídy; Talent |
+| 2      |  +1k4  |  +0   |                 Talent                 |
+| 3      |  +1k4  |  +1   |            Kouzla 2. třídy             |
+| 4      |  +1k4  |  +1   |                 Talent                 |
+| 5      |  +1k4  |  +2   |   1 dovednostní bod; Kouzla 3. třídy   |
+| 6      |  +1k4  |  +2   |                 Talent                 |
+| 7      |  +1k4  |  +3   |            Kouzla 4. třídy             |
+| 8      |  +1k4  |  +3   |                 Talent                 |
+| 9      |  +1k4  |  +4   |            Kouzla 5. třídy             |
+| 10     |  +1k4  |  +4   |       1 dovednostní bod; Talent        |
 
 ## Schopnosti povolání
 
@@ -105,7 +105,7 @@ asd
 
 **Popis:** Malé neviditelné létající humanoidní stvoření bez tváře. Zvládne provádět jakoukoliv aktivitu co by zvládl běžný člověk ale neunese větší předměty než jsou 2 sloty. Nekomunikuje ale následuje rozkazy. Taktéž nebojuje a může být napaden stvořeními co vidí neviditelné.
 
-**Úroveň:** 1; **Životy:** 1; **OČ:** 15; **ZH:** 12; **Statistiky:** Vše +0; **Pohyb:** Létání 4 metry; **Útoky:** Neútočí
+**Úroveň:** 1; **Životy:** 1; **OČ:** 15; **Statistiky:** Vše +0; **Pohyb:** Létání 4 metry; **Morálka:** Neoblomná; **Útoky:** Neútočí; **Speciální:** Neviditelný
 
 <img src="/assets/sep_line.png"/>
 
@@ -483,7 +483,7 @@ asd
 
 **Efekt:** Všechna probíhající kouzla a magické efekty v oblasti velikosti 5 začínající v dosahu kouzla. Jsou rozptýleny do barevné exploze a ukončeny.
 
-**Rozdíl úrovní:** Pokud je úroveň sesílání stvoření, které kouzlo vyvolalo nižší než ta sesilatele, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rušeného kouzla uspět v záchraně *MYS*. Pozor zde na rozdíl úrovní. Jelikož úroveň sesílání se nemusí rovna úrovni stvoření.
+**Rozdíl úrovní:** Pokud je úroveň sesílání stvoření, které rozptýlené kouzlo vyvolalo nižší než ta sesilatele *rozptyl magii*, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rozptýleného kouzla uspět v záchraně *MYS*. Pozor zde na rozdíl úrovní. Jelikož úroveň sesílání se nemusí rovna úrovni stvoření.
 
 **Magické předměty a prokletí:** Jsou kouzlem neovlivněny.
 
