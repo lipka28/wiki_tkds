@@ -82,9 +82,9 @@ Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit vý
 !!! note "Rada pro PJ: Kdy neházet"
 	Obecně je dobré se řídit pravidlem: *"Čas, nástroje a znalosti"*. Pokud postava splňuje všechny tyto tři podmínky a to že, není pod časovým tlakem, má potřebné nástroje a znalosti. A reálně nehrozí žádný negativní následek za neúspěch (ztráta směny v kobce je dostatečný následek.) Může uspět bez potřeby hodu na ověření. 
 
-### Záchranné hody ==Todo: překopat jako ověření dovednosti postižené rozdílem úrovní==
+### Záchranné hody
 
-Jsou ověřovací hody používané jako forma obrany. Potřeba hodu na záchranu většinou nerozhoduje o úspěchu či neúspěchu vlastní akce. Ale spíše vyvarování se negativních následků akce někoho jiného (nebo prostředí). Záchranný hod se háže proti hodnotě zapsané v deníku postavy (na první úrovni většinou 16) a je třeba hodit stejně nebo více. V závislosti na zdroji efektu, který záchranný hod vyvolal je hod modifikován následujícím způsobem:
+Je ověřovací hod, který se háže jako snaha vyvarování se negativních následků akce někoho jiného. Nejčastějším příkladem mohou být kouzla nebo třeba pasti. Hod probíhá stejně jako ověření dovednosti a však s tím rozdílem, že pokud je spouštěčem záchranného hodu nějaké stvoření (včetně hráčských postav). Hod je modifikovaný rozdílem úrovní mezi útočníkem a obráncem. Jaká dovednost je použita pro záchranný hod, určuje použitá schopnost nebo PJ. Ale pro lepší představu, dovednosti lze aplikovat takto:
 
 - **Síla:** Modifikuje především záchranné hody proti efektům snažící se omezit rychlost jedince či zabránit nebo přinutit jej k pohybu.
 - **Hbitost:** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 
@@ -92,16 +92,11 @@ Jsou ověřovací hody používané jako forma obrany. Potřeba hodu na záchran
 - **Mysl:** Modifikuje záchranné hody proti efektům ovlivňující mysl a kouzlům cíleným na jedince.
 - **Srdce:** Speciální kategorie. Modifikuje všechny záchranné hody proti všem magickým efektům. Sčítá se s ostatními případnými modifikátory pro daný efekt. (Například kouzlo na ovládnutí mysli, by se odolávalo součtem modifikátoru za Mysl a Srdce).
 
-#### Mapování na B/X a jiné OSR
+!!! note "Příklad: Záchranný hod"
+	Karlos, bojovník 4. úrovně byl uštknut zmijí 1. úrovně. PJ mu sdělí, že musí podstoupit záchranný hod na *Odolnost* s bonusem *+3* (Karlos je vyšší úrovně takže plus, a 3 je rozdíl úrovní mezi Karlosem a zmijí). Karolos tedy hodí 1k20 a vyjde mu *8*. Přičte svou hodnotu *Odolnosti* ve  výši *+2* a bonus *+3* za rozdíl úrovní. Výsledek hodu je tedy *13* (8+2+3), což překoná hranici *12* platící pro všechny ověřovací hody. Karlos tedy jedu odolal a dožije se dalšího dne.
 
-Pokud používáte materiály pro B/X D&D nebo jiný retro-clone založený na podobných pravidlech. Monstra mohou mít popsané záchranné hody následujícím způsobem. Udávanou hodnotu stačí přehodit. Není třeba počítat žádné modifikátory.
-
-| Záchranný hod | B/X Záchranný hod              |
-| ------------- | ------------------------------ |
-| Síla          | Paralysis (P)                  |
-| Hbitost       | Wands (W) a Breath attacks (B) |
-| Odolnost      | Death (D)                      |
-| Mysl          | Spells, Rods, Staves (S)       |
+!!! note "Doplnění: Výhoda a nevýhoda"
+	Záchranné hody, jsou ve všech ohledech považovány za hody ověřovací. Takže všechny výhody či nevýhody co by se vztahovali na ověřovací hod, se vztahují i na hody záchranné. Také stejně jako u ověřovacích hodů může PJ uvalit na záchranný hod výhodu či nevýhodu v závislosti na kontextu situace.
 
 ### Hod štěstí
 
@@ -170,11 +165,9 @@ Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a um
 
 Obranné číslo určuje jak těžké je zasáhnou postavu útokem v boji. Základní obranné číslo postavy bez brnění je *10+Hbitost*. Obranné číslo lze zvýšit různými kouzly, zvýšením Hbitosti a nebo koupí lepší zbroje.
 
-### Záchranný hod (ZH)
+### Magická odolnost (MO)
 
-Záchranné hody jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==. 
-
-- **Magická odolnost (MO):** Modifikátor magické odolnosti. Odpovídající dovednosti Srdce.
+Magická odolnost postavy. Modifikuje všechny záchranné hody proti magii. V základu odpovídá dovednosti Srdce a však může být nadále modifikována. 
 
 ### Rychlost
 

@@ -483,7 +483,7 @@ asd
 
 **Efekt:** Všechna probíhající kouzla a magické efekty v oblasti velikosti 5 začínající v dosahu kouzla. Jsou rozptýleny do barevné exploze a ukončeny.
 
-**Rozdíl úrovní:** Pokud je úroveň sesílání stvoření, které kouzlo vyvolalo nižší než ta sesilatele, kouzlo je ihned ukončeno. V opačném případě musí sesilatel uspět v ověření *MYS* s postihem ve výši rozdílu jeho úrovně sesílaní a úrovně sesílání stvoření, které kouzlo vyvolalo.
+**Rozdíl úrovní:** Pokud je úroveň sesílání stvoření, které kouzlo vyvolalo nižší než ta sesilatele, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rušeného kouzla uspět v záchraně *MYS*. Pozor zde na rozdíl úrovní. Jelikož úroveň sesílání se nemusí rovna úrovni stvoření.
 
 **Magické předměty a prokletí:** Jsou kouzlem neovlivněny.
 
