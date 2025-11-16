@@ -105,7 +105,7 @@ asd
 
 **Popis:** Malé neviditelné létající humanoidní stvoření bez tváře. Zvládne provádět jakoukoliv aktivitu co by zvládl běžný člověk ale neunese větší předměty než jsou 2 sloty. Nekomunikuje ale následuje rozkazy. Taktéž nebojuje a může být napaden stvořeními co vidí neviditelné.
 
-**Úroveň:** 1; **Životy:** 1; **OČ:** 15; **Statistiky:** Vše +0; **Pohyb:** Létání 4 metry; **Morálka:** Neoblomná; **Útoky:** Neútočí; **Speciální:** Neviditelný
+**Úroveň:** 1; **Životy:** 1; **OČ:** 15; **MO:** +0; **Statistiky:** Vše +0; **Pohyb:** Létání 4 metry; **Morálka:** Neoblomná; **Útoky:** Neútočí; **Speciální:** Neviditelný
 
 <img src="/assets/sep_line.png"/>
 
@@ -142,7 +142,7 @@ asd
 
 #### Podpal
 
-**Trvání:** Instantní
+**Trvání:** Okamžité
 
 **Dosah:** 10 metrů
 
@@ -187,7 +187,7 @@ asd
 
 #### Závan větru
 
-**Trvání:** Instantní
+**Trvání:** Okamžité
 
 **Dosah:** 10 metrů
 
@@ -217,7 +217,7 @@ asd
 
 #### Identifikuj magii
 
-**Trvání:** Instantí
+**Trvání:** Okamžité
 
 **Dosah:** Dotyk
 
@@ -337,7 +337,7 @@ asd
 
 #### Všeklíč
 
-**Trvání:** Instantní
+**Trvání:** Okamžité
 
 **Dosah:** Dotyk
 
@@ -431,7 +431,7 @@ asd
 
 #### Modrý blesk
 
-**Trvání:** Instantní
+**Trvání:** Okamžité
 
 **Dosah:** 10 metrů
 
@@ -443,7 +443,7 @@ asd
 
 #### Ohnivá exploze
 
-**Trvání:** Instantní
+**Trvání:** Okamžité
 
 **Dosah:** 40 metrů
 
@@ -477,7 +477,7 @@ asd
 
 #### Rozptyl magii
 
-**Trvání:** Instantní
+**Trvání:** Okamžité
 
 **Dosah:** 20 metrů
 
@@ -562,7 +562,7 @@ asd
 
 #### Manipuluj osud
 
-**Trvání:** Instantní / Trvalé
+**Trvání:** Okamžité / Trvalé
 
 **Dosah:** Dotyk
 
@@ -628,6 +628,16 @@ asd
 
 <img src="/assets/sep_line.png"/>
 
+#### Projdi zdí
+
+**Trvání:** 3 směny
+
+**Dosah:** 10 metrů
+
+**Efekt:** Průchod o průměru a hloubce až 2 metry se otevře ve stěně. Otvor nemá žádný vliv na strukturální stabilitu stěny. Ta se chová stále jako by v ní žádná díra nebyla.
+
+<img src="/assets/sep_line.png"/>
+
 #### Proměna
 
 **Trvání:** 1k6 + L směn / Trvalé
@@ -650,7 +660,7 @@ asd
 
 #### Přemístění
 
-**Trvání:** Instantní
+**Trvání:** Okamžité
 
 **Dosah:** 2 metry / 100 metrů
 
@@ -662,26 +672,9 @@ asd
 
 <img src="/assets/sep_line.png"/>
 
-#### Rozpohybuj mrtvé
-
-**Trvání:** Trvalé nebo dokud nezabiti
-
-**Dosah:** 10 metrů
-
-**Efekt:** Magicky rozpohybuje pod mágovou kontrolou kontrolou *L* těl (či kostěných ostatků) mrtvých osob. Nezávisle na tom, jakými schopnostmi a statistikami disponovali tyto osoby za svého života. Všichni používají následující statistiky.
-
-**Živý mrtvý**
-
-**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 12; **Statistiky:** Vše +0; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
-
-!!! note "Objasnění: Co je osoba?"
-	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
-
-<img src="/assets/sep_line.png"/>
-
 #### Řetězový blesk
 
-**Trvání:** Instantní
+**Trvání:** Okamžité
 
 **Dosah:** 20 metrů
 
@@ -727,111 +720,180 @@ asd
 
 #### Kamenná stěna
 
-**Trvání:** asd
+**Trvání:** Trvalé
 
-**Dosah:** asd
+**Dosah:** 20 metrů
 
-**Efekt:** asd
+**Efekt:** Vytvoří kamennou stěnu libovolného tvaru a velikosti za předpokladu, že celkový objem stěny nepřesáhne *100 metrů krychlových*.
 
-<img src="/assets/sep_line.png"/>
-
-#### Projdi zdí
-
-**Trvání:** asd
-
-**Dosah:** asd
-
-**Efekt:** asd
+**Umístění:** Stěna musí na něčem stát (třeba na zemi) a nemůže být vytvořena na místech, kde si již vyskytují jiné objekty.
 
 <img src="/assets/sep_line.png"/>
 
 #### Proti-magický štít
 
-**Trvání:** asd
+**Trvání:** L kol
 
-**Dosah:** asd
+**Dosah:** Sesilatel
 
-**Efekt:** asd
+**Efekt:** Mága obalí ochranný štít magické energie, který jej ochraňuje před všemi kouzli 3. nebo nižší třídy (včetně svitků, hůlek a jiných obdobných předmětů). Sesilatel může tohle kouzlo kdykoliv předčasně ukončit.
+
+**Rozptyl magii:** Může předčasně ukonči Proti-magický štít.
 
 <img src="/assets/sep_line.png"/>
 
 #### Přetvoř
 
-**Trvání:** asd
+**Trvání:** Trvalé
 
-**Dosah:** asd
+**Dosah:** 20 metrů
 
-**Efekt:** asd
+**Efekt:** Přetvoří neopracovaný materiál v dosahu (např. kámen nebo dřevo) do podoby jaké určí sesilatel.
+
+**Co lze vytvořit:** Jakýkoliv jednoduchý objekt nebo předmět skládající se z použitých materiálů.
+
+**Rovnocenná výměna:** Nově vzniklý objekt musí obsahovat stejné množství a typy materiálu, které byli použity pro jeho stvoření. Sesilatel může celkem zpracovat až *L metrů krychlových* materiálu.
 
 <img src="/assets/sep_line.png"/>
 
 #### Rozlož
 
-**Trvání:** asd
+**Trvání:** Okamžité
 
-**Dosah:** asd
+**Dosah:** 20 metrů
 
-**Efekt:** asd
+**Efekt:** Okamžitě rozmetá na prach cílené stvoření nebo objekt.
+
+**Cílem je stvoření:** Cílené stvoření má nárok na záchranu *ODO*, aby kouzlu odolalo.
+
+**Cílem je objekt:** Jaké objekty či jejich části mohou být zasaženy kouzlem je čistě v režii PJ (např.: kámen, strom, příď lodi atd.). 
+
+<img src="/assets/sep_line.png"/>
+
+#### Rozpohybuj mrtvé
+
+**Trvání:** Trvalé nebo dokud nezabiti
+
+**Dosah:** 10 metrů
+
+**Efekt:** Magicky rozpohybuje pod mágovou kontrolou kontrolou *L* těl (či kostěných ostatků) mrtvých osob. Nezávisle na tom, jakými schopnostmi a statistikami disponovali tyto osoby za svého života. Všechny používají následující statistiky.
+
+**Živý mrtvý**
+
+**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 12; **MO:** +0; **Statistiky:** Vše +0; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
+
+!!! note "Objasnění: Co je osoba?"
+	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
 
 <img src="/assets/sep_line.png"/>
 
 #### Slabomyslnost
 
-**Trvání:** asd
+**Trvání:** Trvalé
 
-**Dosah:** asd
+**Dosah:** 40 metrů
 
-**Efekt:** asd
+**Efekt:** Zasažené stvoření musí uspět v záchraně *MYS* jinak utrpí slabomyslnost.
+
+**Slabomyslnost:** *MYS* ovlivněného stvoření je *-4*. Stvoření není schopno jasně přemýšlet, srozumitelně mluvit nebo sesílat kouzla.
 
 <img src="/assets/sep_line.png"/>
 
 #### Smrtonosný mrak
 
-**Trvání:** asd
+**Trvání:** 6 směn
 
-**Dosah:** asd
+**Dosah:** 10 metrů
 
-**Efekt:** asd
+**Efekt:** Mág ze svých rukou vypustí mrak jedovatého plynu, který naplní oblast velikosti 10 dotýkající se jeho pozice. 
+
+**Pohyb plynu:** Mrak plynu se každé kolo pohne o 2 metry po směru větru. Plyn je také těžší než vzduch, takže má tendenci klesat (např.: z kopce či do děr v zemi).
+
+**Poškození:** Každé stvoření, kterého se plyn dotkne nebo které ukončí svůj tah v tomto plynu. Obdrží *2 poškození*. Pokud se jedná o stvoření 4. úrovně nebo méně musí navíc pokaždé uspět v záchraně *ODO* jinak zemře.
 
 <img src="/assets/sep_line.png"/>
 
 #### Telekineze
 
-**Trvání:** asd
+**Trvání:** Koncentrace až 6 kol
 
-**Dosah:** asd
+**Dosah:** 30 metrů
 
-**Efekt:** asd
+**Efekt:** Mág svým soustředěním pohne na dálku předmětem nebo stvořením o maximální váze *2\*L slotů*.
+
+**Pohyb:** Sesilatel může pohnout očarovaným subjektem libovolným směrem (i vertikálně) a rychlostí *4 metry za kolo*.
+
+**Odolání:** Pokud je cílem stvoření nebo předmět ve výbavě nějakého stvoření. Tak má dané stvoření nárok na záchranu *SIL*, aby efektu odolalo.
+
+!!! note "Objasnění: Váha běžného humanoida"
+	Váha běžného humanoida a to i většiny hráčských postav odpovídá 6-ti slotům (+ výbava).
 
 <img src="/assets/sep_line.png"/>
 
 #### Teleportace
 
-**Trvání:** asd
+**Trvání:** Okamžité
 
-**Dosah:** asd
+**Dosah:** Dotyk
 
-**Efekt:** asd
+**Efekt:** Mág nebo cílené stvoření je přemístěno se vší svou výbavou na místo určené sesilatelem. Pokud si stvoření nepřeje být přemístěno může se pokusit odolat úspěšnou záchranou *MYS*.
+
+**Místo určení:** Může být libovolné místo, které sesilatel zná, jakkoliv daleko a však musí v něm být dost místa pro přenášené stvoření. Přemístěné stvoření se musí také přistát nohama na zemi.
+
+**Riskantní teleportace:** Pokud seislatel nemá dobrou znalost cíleného místa. Například proto, že na něm byl jen párkrát nebo už je to dávno. Přenášené stvoření musí také podstoupit *hod štěstí* s následujícími výsledky:
+
+|  1k6  | Destinace                                              |
+| :---: | ------------------------------------------------------ |
+|   1   | Přemístěný se objeví 1k20 metrů pod místem určení*\**. |
+|   2   | Přemístěný se objeví 1k20 metrů nad místem určení*\**. |
+| 3 - 6 | Přemístěný se objeví na místě dle očekávání.           |
+
+*\* Pokud se přemístěný objeví v pevném objektu tak zemře*
 
 <img src="/assets/sep_line.png"/>
 
 #### Transmutace
 
-**Trvání:** asd
+**Trvání:** Okamžité / Trvalé
 
-**Dosah:** asd
+**Dosah:** 30 metrů
 
-**Efekt:** asd
+**Efekt:** Provede jeden z následujících efektů:
+
+- **Kámen na živé:** Přivede zkamenělé stvoření zpět k životu.
+- **Živé na kámen:** Promění zasažené stvoření na kámen a to včetně výbavy. Zasažené stvoření má nárok na záchranu *SIL*, aby efektu odolalo.
 
 <img src="/assets/sep_line.png"/>
 
 #### Vytvoř elementála
 
-**Trvání:** asd
+**Trvání:** Koncentrace / Trvalé dokud neodvoláno nebo zabito
 
-**Dosah:** asd
+**Dosah:** 40 metrů
 
-**Efekt:** asd
+**Efekt:** Probere živly k životu a vytvoří masivní živelné stvoření (z ohně, větru, vody nebo země) a podřídí jej dočasné kontrole mága.
+
+**Komponenty:** Vyvolání elementála vyžaduje velké množství daného materiálu.
+
+**Koncentrace:** Dokud sesilatel drží koncentraci, tak má kontrolu nad elementálem a může mu dávat rozkazy a také jej může kdykoliv odvolat. Ztratí-li koncentraci, elementála již nemůže odvolat a ten na něj zaútočí.
+
+**Elementál**
+
+**Popis:** 5 metrů široké a 10 metrů vysoké bouřící uskupení živlů. S dvěma masivními pažemi a čtyřma očima planoucími barvou odpovídající danému živlu.
+
+**Úroveň:** 16; **Životy:** 16k8(72); **OČ:** 21; **MO:** -4 **Statistiky:** SIL +7, HBI: -2, ODO +5, MYS +3, SRD -4; **Pohyb:** Dle typu; **Morálka:** Neoblomná; **Útoky:** Úder (+11, 3k8, na vzdálenost až 3 metry)
+
+**Speciální:**
+
+- **Elementál:** Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.
+- **Imunita vůči běžným zbraním:** Lze zranit pouze magií nebo magickými zbraněmi.
+
+**Speciální dle typu:**
+
+- **Oheň:** Rychlost pohybu: 8 metrů. Zasažené stvoření hoří za 1k8 poškození podobu 2 kol. Nedostane se přes vodní plochu širší jak 5 metrů.
+- **Voda:** Rychlost pohybu: 4 metry (ve vodě 12). Nemůže se vzdálit na více jak 12 metrů od vody. Poškození vůči stvořením ve vodě je o +1k8 vyšší.
+- **Vzduch:** Rychlost pohybu: 24 metrů. Poškození vůči létacím stvoření je o +1k8 vyšší.
+- **Země:** Rychlost pohybu: 4 metry. Poškození vůči stvořením stojícím na zemi je o +1k8 vyšší. Nedostane se přes vodní plochu širší jak 5 metrů.
 
 <img src="/assets/sep_line.png"/>
 
