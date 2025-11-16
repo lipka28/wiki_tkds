@@ -45,6 +45,8 @@ Vyber si zbraň, kterou mistrně ovládáš. S touhle zbraní máš bonus ve vý
 
 ## Bojovníkovy talenty
 
+<img src="/assets/sep_line.png"/>
+
 ### Boj se dvěma zbraněmi
 
 **Omezení:** -
@@ -154,7 +156,7 @@ Osvojil sis metodu jak kosti nepřátele po skupinách. Pokud ve svém tahu spl�
 
 **Opakování:** ???
 
-Pokud tě žádný s talentů neoslovil nebo máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
+Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 

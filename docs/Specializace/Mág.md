@@ -261,7 +261,7 @@ asd
 
 #### Magický zámek
 
-**Trvání:** Permanentní
+**Trvání:** Trvalé
 
 **Dosah:** 10 metrů
 
@@ -413,7 +413,7 @@ asd
 
 #### Magická past
 
-**Trvání:** Permanentní neb dokud nespuštěna
+**Trvání:** Trvalé neb dokud nespuštěna
 
 **Dosah:** Dotyk
 
@@ -521,7 +521,7 @@ asd
 
 #### Fatamorgána
 
-**Trvání:** Permanentní dokud nedotčeno
+**Trvání:** Trvalé dokud nedotčeno
 
 **Dosah:** 100 metrů
 
@@ -596,7 +596,7 @@ asd
 
 #### Okouzli
 
-**Trvání:** Pernamentní
+**Trvání:** Trvalé
 
 **Dosah:** 20 metrů
 
@@ -630,7 +630,7 @@ asd
 
 #### Proměna
 
-**Trvání:** 1k6 + L směn / Permanentní
+**Trvání:** 1k6 + L směn / Trvalé
 
 **Dosah:** 10 metrů
 
@@ -638,7 +638,7 @@ asd
 
 **Proměna sebe:** Mág se nemůže proměnit na stvoření větší úrovně než *L*. Mág si ponechá své aktuální životy, bonus k útoku a mentální dovednosti (mysl a srdce). Z proměny však získá všechny schopnosti a dovednosti spjaté s fyzickou formou vybrané proměny. Jiné schopnosti jako imunity, aktivní schopnosti či kouzla, které nová forma běžně ovládá, mu zůstanou nepřístupny. Přeměna trvá *1k6 + L* směn a mág v ní nemůže čarovat.
 
-**Přeměna někoho jiného:** Mág nemůže cíl proměnit na stvoření vyšší úrovně než *L\*2*. Cíl si ponechá své aktuální životy ale jinak se kompletně stane přeměněným stvořením. Včetně speciálních schopností inteligence a chování. Přeměna je permanentní.
+**Přeměna někoho jiného:** Mág nemůže cíl proměnit na stvoření vyšší úrovně než *L\*2*. Cíl si ponechá své aktuální životy ale jinak se kompletně stane přeměněným stvořením. Včetně speciálních schopností inteligence a chování. Přeměna je trvalá.
 
 **Specifický subjekt:** Kouzlo nelze použít k získání podoby specifických subjektů.
 
@@ -707,9 +707,137 @@ asd
 
 ### Kouzla 5. třídy
 
-asd
+<img src="/assets/sep_line.png"/>
+
+#### Geas
+
+**Trvání:** Trvalé
+
+**Dosah:** 10 metrů
+
+**Efekt:** Mág magicky pobídne stvoření k vykonání nebo k vyhýbání se nějaké akci či aktivitě. Cílené stvoření má nárok na záchranu *MYS*, aby efektu odolalo.
+
+**Nesplnitelné nebo smrtelné úkoly:** Je-li kouzlem zadán nesplnitelný nebo přímo smrtelný úkol (např. podřež si krk). Kouzlo se odrazí na sesilatele.
+
+**Neplnění úkolu:** Pokud se stvoření svým chováním snaží odporovat svému údělu. Utrpí postupně zhoršující se postihy (dle uvážení PJ) a nakonec zemře.
+
+**Odstranění:** Kouzlo *Rozptyl magii* nemá na *Geas* žádný efekt. Lze jej však odstranit kouzlem  *Manipuluj osud* pokud je sesilatel aspoň o *2 úrovně vyšší*. Alternativně, je-li *Geas* konečně splnitelný, dá se ukončit jeho splněním.
+
+<img src="/assets/sep_line.png"/>
+
+#### Kamenná stěna
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Projdi zdí
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Proti-magický štít
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Přetvoř
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Rozlož
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Slabomyslnost
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Smrtonosný mrak
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Telekineze
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Teleportace
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Transmutace
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+#### Vytvoř elementála
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
 
 ## Mág talenty
+
+<img src="/assets/sep_line.png"/>
 
 ### Vlastní
 
@@ -717,7 +845,7 @@ asd
 
 **Opakování:** ???
 
-Pokud tě žádný s talentů neoslovil nebo máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
+Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 

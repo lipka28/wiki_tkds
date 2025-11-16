@@ -51,13 +51,15 @@ Ovládáš speciální metody co ti umožňují maskovat význam tvých slov. P�
 
 ## Lotrovi talenty
 
+<img src="/assets/sep_line.png"/>
+
 ### Kluzký jako had
 
 **Omezení:** -
 
 **Opakování:** Nelze
 
-Máš výhodu na ověření *HBI*, při pokusech o projití skrz nepřátele a také při pokusech vymanit se z držení. Navíc se můžeš. již bez výhody, pokusit vymanit z pout, svázání, či jiného obdobného zajištění. 
+Máš výhodu na ověření *HBI*, při pokusech o projití skrz nepřátele a také při pokusech vymanit se z držení. Navíc se můžeš, již bez výhody, pokusit vymanit z pout, svázání, či jiného obdobného zajištění.
 
 <img src="/assets/sep_line.png"/>
 
@@ -159,7 +161,7 @@ Tvé poškození z přepadení je navýšeno o +1k6.
 
 **Opakování:** Nelze
 
-Tvé házení nožů není postihnuto v rámci *ohrožení*. Navíc pokud pokud máš u sebe dostatek nožů a v tahu, kdy hážeš nože nepoužiješ svůj pohyb. Můžeš hodit až 3 nože. (Funguje stejně jako vícenásobný útok popsaný v talentu *Mistr nožů*).
+Tvé házení nožů není postihnuto v rámci *ohrožení*. Navíc pokud máš u sebe dostatek nožů a v tahu, kdy hážeš nože nepoužiješ svůj pohyb. Můžeš hodit až 3 nože. (Funguje stejně jako vícenásobný útok popsaný v talentu *Mistr nožů*).
 
 <img src="/assets/sep_line.png"/>
 
@@ -169,7 +171,7 @@ Tvé házení nožů není postihnuto v rámci *ohrožení*. Navíc pokud pokud 
 
 **Opakování:** ???
 
-Pokud tě žádný s talentů neoslovil nebo máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
+Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 
