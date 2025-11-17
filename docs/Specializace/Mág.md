@@ -63,6 +63,7 @@ asd
 - Spell list traversal (learn spell from dif spell list (tier up))
 - Magic resistance (+2, once)
 - Cast spell you don't have mana for (vyčerpat se)
+- Respawning familiár
 
 ### Vlastní
 
