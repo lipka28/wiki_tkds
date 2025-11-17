@@ -12,7 +12,7 @@ Tato hra rozlišuje dva základní typy magie. Těmi jsou obecná magie, také n
 
 ### Magika
 
-Představuje pokus o uchopení magie civilizovanými rasami. Ovládnutí Magiky většinou vyžaduje dlouhá léta studia a odříkání. Principiálně funguje Magika na základě učení se kouzel a jejich sesílání za magickou energii.
+Představuje pokus civilizovaných ras o uchopení magie. Ovládnutí Magiky většinou vyžaduje dlouhá léta studia a odříkání. Principiálně funguje Magika na základě učení se kouzel a jejich sesílání za magickou energii.
 
 -   **Získávání kouzel:** Čarodějové užívající Magiku mají často přístup jen k velmi omezenému množství naučených kouzel. Mohou se však naučit až přes 10 dalších kouzel ať už studiem nebo postupem na vyšší úroveň. Tato kouzla mohou být buď z jejich poměrně rozsáhlého seznamu kouzel a nebo jiných zdrojů.
 -   **Sesílání kouzel:** Sesílat pak mohou, kterékoliv z těchto naučených kouzel. Zaplacením jeho sesílací ceny *Magickou energií*, kterou disponují. Cena kouzla odpovídá jeho třídě (takže kouzlo 3. třídy je sesíláno za 3 body magické energie).
