@@ -62,7 +62,7 @@
 
 **Popis:** Malé neviditelné létající humanoidní stvoření bez tváře. Zvládne provádět jakoukoliv aktivitu co by zvládl běžný člověk ale neunese větší předměty než jsou 2 sloty. Nekomunikuje ale následuje rozkazy. Taktéž nebojuje a může být napaden stvořeními co vidí neviditelné.
 
-**Úroveň:** 1; **Životy:** 1; **OČ:** 15; **MO:** +0; **Statistiky:** Vše +0; **Pohyb:** Létání 4 metry; **Morálka:** Neoblomná; **Útoky:** Neútočí; **Speciální:** Neviditelný
+**Úroveň:** 1; **Životy:** 1; **OČ:** 15; **ZH:** 16; **Statistiky:** Vše +0; **Pohyb:** Létání 4 metry; **Morálka:** Neoblomná; **Útoky:** Neútočí; **Speciální:** Neviditelný
 
 <img src="/assets/sep_line.png"/>
 
@@ -440,7 +440,7 @@
 
 **Efekt:** Všechna probíhající kouzla a magické efekty v oblasti velikosti 5 začínající v dosahu kouzla. Jsou rozptýleny do barevné exploze a ukončeny.
 
-**Rozdíl úrovní:** Pokud je úroveň sesílání stvoření, které rozptýlené kouzlo vyvolalo nižší než ta sesilatele *rozptyl magii*, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rozptýleného kouzla uspět v záchraně *MYS*, modifikovanou rozdílem úrovní mezi kouzelníky. ==TODO: promyslet==
+**Rozdíl úrovní:** Pokud je úroveň sesílání stvoření, které rozptýlené kouzlo vyvolalo nižší než ta sesilatele *rozptyl magii*, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rozptýleného kouzla uspět v záchraně *MYS*.
 
 **Magické předměty a prokletí:** Jsou kouzlem neovlivněny.
 
@@ -651,7 +651,7 @@
 
 **Akce zasažených stvoření:** Zasažená stvoření během trvání kouzla používají jak svůj pohyb tak svou akci na to, aby se přesunuli od sesilatele.
 
-**Zahazování předmětů:** Pokud stvoření neuspěje v záchranném hodu o 5 nebo více. Kromě útěku i upustí na zem to co drželo v rukách. 
+**Zahazování předmětů:** Pokud stvoření neuspěje v záchranném hodu *o 5 nebo více* nebo hodí na záchranu přirozenou *1*. Kromě útěku i upustí na zem to co drželo v rukách. 
 
 <img src="/assets/sep_line.png"/>
 
@@ -737,7 +737,7 @@
 
 **Živý mrtvý**
 
-**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 12; **MO:** +0; **Statistiky:** Vše +0; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
+**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 12; **ZH:** 16; **Statistiky:** Vše +0; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
 
 !!! note "Objasnění: Co je osoba?"
 	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
@@ -838,7 +838,7 @@
 
 **Popis:** 5 metrů široké a 10 metrů vysoké bouřící uskupení živlů. S dvěma masivními pažemi a čtyřma očima planoucími barvou odpovídající danému živlu.
 
-**Úroveň:** 16; **Životy:** 16k8(72); **OČ:** 21; **MO:** -4 **Statistiky:** SIL +7, HBI: -2, ODO +5, MYS +3, SRD -4; **Pohyb:** Dle typu; **Morálka:** Neoblomná; **Útoky:** Úder (+11, 3k8, na vzdálenost až 3 metry)
+**Úroveň:** 16; **Životy:** 16k8(72); **OČ:** 21; **ZH:** 8; **Statistiky:** SIL +6, HBI: -2, ODO +5, MYS +4, SRD -2; **Pohyb:** Dle typu; **Morálka:** Neoblomná; **Útoky:** Úder (+11, 3k8, na vzdálenost až 3 metry)
 
 **Speciální:**
 

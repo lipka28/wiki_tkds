@@ -41,9 +41,28 @@ asd
 
 asd
 
+- magika (popis spellcastingu, progression, detect magic)
+- Learning
+- Studovaný (jako ten background + 2 jazyky?)
+- Simple magic (manipuluj předměty na vzdálenost 2 metry, kolem sebe)
+- Nic - že by spellcasteři měli jen 2 featury?
+
 ## Mág talenty
 
 <img src="/assets/sep_line.png"/>
+
+- Empower (-1 savy proti tvé magii)
+- Meta magic (Create a copy of spell with something doubled, or disadv on save, or exclude allies from area of effect)
+- Arcane cantrip (magic missile auto attack)
+- Spell learning? (pokud nebude core)
+- Magical research (+free item)
+- Counter spell
+- Spell reflect
+- Extra ME
+- Extra spell
+- Spell list traversal (learn spell from dif spell list (tier up))
+- Magic resistance (+2, once)
+- Cast spell you don't have mana for (vyčerpat se)
 
 ### Vlastní
 
