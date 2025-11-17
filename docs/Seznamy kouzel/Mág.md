@@ -440,7 +440,7 @@
 
 **Efekt:** Všechna probíhající kouzla a magické efekty v oblasti velikosti 5 začínající v dosahu kouzla. Jsou rozptýleny do barevné exploze a ukončeny.
 
-**Rozdíl úrovní:** Pokud je úroveň sesílání stvoření, které rozptýlené kouzlo vyvolalo nižší než ta sesilatele *rozptyl magii*, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rozptýleného kouzla uspět v záchraně *MYS*. Pozor zde na rozdíl úrovní. Jelikož úroveň sesílání se nemusí rovna úrovni stvoření.
+**Rozdíl úrovní:** Pokud je úroveň sesílání stvoření, které rozptýlené kouzlo vyvolalo nižší než ta sesilatele *rozptyl magii*, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rozptýleného kouzla uspět v záchraně *MYS*, modifikovanou rozdílem úrovní mezi kouzelníky. ==TODO: promyslet==
 
 **Magické předměty a prokletí:** Jsou kouzlem neovlivněny.
 
@@ -818,7 +818,7 @@
 **Efekt:** Provede jeden z následujících efektů:
 
 - **Kámen na živé:** Přivede zkamenělé stvoření zpět k životu.
-- **Živé na kámen:** Promění zasažené stvoření na kámen a to včetně výbavy. Zasažené stvoření má nárok na záchranu *SIL*, aby efektu odolalo.
+- **Živé na kámen:** Promění zasažené stvoření na kámen a to včetně výbavy. Zasažené stvoření má nárok na záchranu *ODO*, aby efektu odolalo.
 
 <img src="/assets/sep_line.png"/>
 

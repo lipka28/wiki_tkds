@@ -84,7 +84,7 @@ Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit vý
 
 ### Záchranné hody
 
-Je ověřovací hod, který se háže jako snaha vyvarování se negativních následků akce někoho jiného. Nejčastějším příkladem mohou být kouzla nebo třeba pasti. Hod probíhá stejně jako ověření dovednosti a však s tím rozdílem, že pokud je spouštěčem záchranného hodu nějaké stvoření (včetně hráčských postav). Hod je modifikovaný rozdílem úrovní mezi útočníkem a obráncem. Jaká dovednost je použita pro záchranný hod, určuje použitá schopnost nebo PJ. Ale pro lepší představu, dovednosti lze aplikovat takto:
+Jsou ověřovací hody používané jako forma obrany. Potřeba hodu na záchranu většinou nerozhoduje o úspěchu či neúspěchu vlastní akce. Ale spíše vyvarování se negativních následků akce někoho jiného (nebo prostředí). Záchranný hod se háže proti hodnotě zapsané v deníku postavy (na první úrovni většinou 16) a je třeba hodit stejně nebo více. V závislosti na zdroji efektu, který záchranný hod vyvolal je hod modifikován následujícím způsobem:
 
 - **Síla:** Modifikuje především záchranné hody proti efektům snažící se omezit rychlost jedince či zabránit nebo přinutit jej k pohybu.
 - **Hbitost:** Modifikuje záchranné hody na úhyb. Jako třeba před explozí či pastí. 
@@ -165,9 +165,11 @@ Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a um
 
 Obranné číslo určuje jak těžké je zasáhnou postavu útokem v boji. Základní obranné číslo postavy bez brnění je *10+Hbitost*. Obranné číslo lze zvýšit různými kouzly, zvýšením Hbitosti a nebo koupí lepší zbroje.
 
-### Magická odolnost (MO)
+**### Záchranný hod (ZH)**
 
-Magická odolnost postavy. Modifikuje všechny záchranné hody proti magii. V základu odpovídá dovednosti Srdce a však může být nadále modifikována. 
+Záchranné hody jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==. 
+
+- **Magická odolnost (MO):** Modifikátor magické odolnosti. Odpovídající dovednosti Srdce.
 
 ### Rychlost
 

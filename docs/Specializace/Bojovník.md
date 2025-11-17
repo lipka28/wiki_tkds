@@ -14,18 +14,18 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň | životy | Zásah |                        Ostatní                         |
-| :----- | :----: | :---: | :----------------------------------------------------: |
-| 1      | 8+ODO  |  +0   | Momentum; Nosič, potah ...; Mistrovství zbraně; Talent |
-| 2      |  +1k8  |  +0   |                         Talent                         |
-| 3      |  +1k8  |  +1   |                           -                            |
-| 4      |  +1k8  |  +1   |                         Talent                         |
-| 5      |  +1k8  |  +2   |                   1 dovednostní bod                    |
-| 6      |  +1k8  |  +2   |                         Talent                         |
-| 7      |  +1k8  |  +3   |                           -                            |
-| 8      |  +1k8  |  +3   |                         Talent                         |
-| 9      |  +1k8  |  +4   |                           -                            |
-| 10     |  +1k8  |  +4   |               1 dovednostní bod; Talent                |
+| úroveň | životy | Zásah |  ZH  |                        Ostatní                         |
+| :----- | :----: | :---: | :--: | :----------------------------------------------------: |
+| 1      | 8+ODO  |  +0   |  16  | Momentum; Nosič, potah ...; Mistrovství zbraně; Talent |
+| 2      |  +1k8  |  +0   |  16  |                         Talent                         |
+| 3      |  +1k8  |  +1   |  15  |                           -                            |
+| 4      |  +1k8  |  +1   |  15  |                         Talent                         |
+| 5      |  +1k8  |  +2   |  14  |                   1 dovednostní bod                    |
+| 6      |  +1k8  |  +2   |  14  |                         Talent                         |
+| 7      |  +1k8  |  +3   |  13  |                           -                            |
+| 8      |  +1k8  |  +3   |  13  |                         Talent                         |
+| 9      |  +1k8  |  +4   |  12  |                           -                            |
+| 10     |  +1k8  |  +4   |  12  |               1 dovednostní bod; Talent                |
 
 ## Schopnosti povolání
 
