@@ -44,9 +44,9 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 
 Základní pravidla k běžným magickým předmětům.
 
-### Detekce magie
+### Detekce magických předmětů
 
-Detekce magie je schopností specifickou pro specializace ovládající magii (ať už Magiku tak i zázračnou magii). Každá taková specializace může detekovat magii dotykem. Získané informace jsou však jen o případné přítomnosti magie a její typ.
+Díky energii, kterou magické předměty vyzařují. Dokáže i běžný magicky nenadaný člověk rozpoznat, že se dotýká magického předmětu.
 
  ### Identifikace magických předmětů.
 
@@ -60,7 +60,7 @@ Celkově jsou 2 způsoby jak identifikovat efekty magických předmětů.
 Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o *jednorázový* předmět, který se po použití zničí a jehož výsledkem, je nějaký  většinou magický nebo magii podobný efekt.
 
 -   **Použití lektvaru:** Lektvary jsou jednorázové magické předměty, které může aktivovat (vypít nebo hodit) *kdokoliv*, kdo má volnou ruku.
--   **Použití svitku:** Vyžaduje obě ruce. Specializace ovládající daný typ magie může použít svitek stejného typu magie. Ostatní mohou také, ale musí uspět v ověření Mysli (pro svitky Magiky) nebo Srdce (pro svitky Zázračné magie). Při neúspěchu se kouzlo nějakým způsobem pokazí (Záleží na PJ).
+-   **Použití svitku:** Vyžaduje obě ruce. Specializace ovládající daný typ magie může použít svitek stejného typu magie. Ostatní mohou také, ale musí uspět v ověření *Mysli* (pro svitky Magiky) nebo *Srdce* (pro svitky Zázračné magie). Při neúspěchu se kouzlo nějakým způsobem pokazí (Záleží na PJ).
 
 ### Magická žezla
 

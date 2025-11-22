@@ -92,11 +92,8 @@ Jsou ověřovací hody používané jako forma obrany. Potřeba hodu na záchran
 - **Mysl:** Modifikuje záchranné hody proti efektům ovlivňující mysl a kouzlům cíleným na jedince.
 - **Srdce:** Speciální kategorie. Modifikuje všechny záchranné hody proti magickým efektům. Sčítá se s ostatními případnými modifikátory pro daný efekt. (Například kouzlo na ovládnutí mysli, by se odolávalo součtem modifikátoru za Mysl a Srdce).
 
-!!! note "Příklad: Záchranný hod"
-	Karlos, bojovník 4. úrovně byl uštknut zmijí 1. úrovně. PJ mu sdělí, že musí podstoupit záchranný hod na *Odolnost* s bonusem *+3* (Karlos je vyšší úrovně takže plus, a 3 je rozdíl úrovní mezi Karlosem a zmijí). Karolos tedy hodí 1k20 a vyjde mu *8*. Přičte svou hodnotu *Odolnosti* ve  výši *+2* a bonus *+3* za rozdíl úrovní. Výsledek hodu je tedy *13* (8+2+3), což překoná hranici *12* platící pro všechny ověřovací hody. Karlos tedy jedu odolal a dožije se dalšího dne.
-
 !!! note "Doplnění: Výhoda a nevýhoda"
-	Záchranné hody, jsou ve všech ohledech považovány za hody ověřovací. Takže všechny výhody či nevýhody co by se vztahovali na ověřovací hod, se vztahují i na hody záchranné. Také stejně jako u ověřovacích hodů může PJ uvalit na záchranný hod výhodu či nevýhodu v závislosti na kontextu situace.
+	Záchranné hody, jsou ve všech ohledech považovány za hody ověřovací. Takže všechny výhody, nevýhody, bonusy a postihy co by se vztahovali na ověřovací hod, se vztahují i na hody záchranné. Také stejně jako u ověřovacích hodů může PJ uvalit na záchranný hod výhodu či nevýhodu v závislosti na kontextu situace.
 
 ### Hod štěstí
 

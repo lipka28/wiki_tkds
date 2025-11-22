@@ -31,21 +31,17 @@ asd ==TODO: popis a art?==
 
 ### Magika
 
-asd pokec
+Mágové disponují schopností ovládat magii ve formě Magiky. Podrobné vysvětlení magie a Magiky naleznete ==TODO:odkaz==.
 
-**Získávání kouzel:** asd
+**Získávání kouzel:** Mág začíná hru s *2-ma* kouzly vlastního výběru ze seznamu kouzel *1. třídy* pro mága ==TODO: odkaz==. Pokaždé, když mág postoupí na novou úroveň, tak si může vybrat *1* další kouzlo třídy, kterou umí seslat. Dostupnou třídu kouzel určuje tabulka postupu výše.
 
-**Magická energie:** asd
+**Magická energie:** Mág disponuje magickou energií (ME), určenou tabulkou postpu výše. Lze však získat další magickou energii například s předmětů či talentů. Magická energie slouží k sesílání kouzel, kdy cena ME sesílaného kouzla otpovídá jeho třídě (kouzlo 1. třídy = 1 ME). Magická energie se plně doplní, řádným přednovoáním.
 
-**Detekce magie:** asd
+**Magické předměty:** Mág dokáže aktivovat magické svitky Magiky, bez nutnosti ověřování dovednosti. Také dokáže aktivovat magické předměty (především hole) určené pro uživatele Magiky.
 
-**Magické předměty:** asd
+### Učení kouzel ze svitků
 
-asd Magika, Spell learning (učení ze scrollů a psaní), Simple magic ? (něco jako prestigitation? )
-
-### Spell learning
-
-Učení se kouzel z textů (jako třeba svitků)
+Mág může strávit *volnočasovou aktivitu* studováním svitku za účelem naučit se kouzlo na něm zapsané. Aby se mág kouzlo úspěšně naučil, musí uspět v ověření *MYS*. Svitek je následně zničen nezávsile na výsledku ověřovacího hodu.
 
 ## Mág talenty
 

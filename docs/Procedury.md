@@ -95,7 +95,7 @@ Tahle hra definuje pouze 3 negativní stavy a těmi jsou *Bezvědomí*, *Smrteln
 
 - **Bezvědomí:** Postava je bezvládná nemůže nic dělat.
 - **Smrtelné zranění:** Postava má *-2 do všech ověřovacích hodů* a pokud znovu ztratí všechny své životy, tak zemře.
-- **Vyčerpání:** Postava je na pokraji svých sil. Má postih -2 do všech ověřovacích hodů a OČ.
+- **Vyčerpání:** Postava je na pokraji svých sil. Má postih -2 do všech ověřovacích hodů a OČ, a sesílání kouzel a svitků má šanci 1 z 6-ti na nežádoucí efekt.
 
 ## Průzkum významných lokací
 
