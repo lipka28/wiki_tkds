@@ -20,7 +20,7 @@
 
 **Dosah:** 30 metrů
 
-**Efekt:** L/2 magických energií se zhmotní nad rameny mága. Ty lze následně, buď jako součást sesílání nebo kdykoliv během trvání kouzla jako akci, seslat na cíle v dosahu. Střela automaticky zasáhne cíl, způsobí 1k6+1 poškození a zničí se.
+**Efekt:** L/2 magických energií se zhmotní nad rameny mága. Ty lze následně, buď jako součást sesílání nebo kdykoliv během trvání kouzla jako akci seslat na cíle v dosahu. Střela automaticky zasáhne cíl, způsobí *1k6+1* poškození a zničí se.
 
 <img src="/assets/sep_line.png"/>
 
@@ -440,9 +440,9 @@
 
 **Efekt:** Všechna probíhající kouzla a magické efekty v oblasti velikosti 5 začínající v dosahu kouzla. Jsou rozptýleny do barevné exploze a ukončeny.
 
-**Rozdíl úrovní:** Pokud je úroveň sesílání stvoření, které rozptýlené kouzlo vyvolalo nižší než ta sesilatele *rozptyl magii*, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rozptýleného kouzla uspět v záchraně *MYS*.
+**Úrovně čarodějů:** Pokud je úroveň sesílání stvoření, které rozptýlené kouzlo vyvolalo nižší než ta sesilatele *rozptyl magii*, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rozptýleného kouzla uspět v záchraně *MYS*.
 
-**Magické předměty a prokletí:** Jsou kouzlem neovlivněny.
+**Magické předměty a prokletí:** Nejsou ovlivněny.
 
 <img src="/assets/sep_line.png"/>
 

@@ -47,18 +47,105 @@ Mág může strávit *volnočasovou aktivitu* studováním svitku za účelem na
 
 <img src="/assets/sep_line.png"/>
 
-- Empower (-1 savy proti tvé magii)
-- Meta magic (Create a copy of spell with something doubled, or disadv on save, or exclude allies from area of effect)
-- Arcane cantrip (magic missile auto attack)
-- Magical research (+free item)
-- Counter spell
-- Spell reflect
-- Extra ME (+2)
-- Extra spell
-- Spell list traversal (learn spell from dif spell list (tier up))
-- Magic resistance (+2, once)
-- Cast spell you don't have mana for (vyčerpat se)
-- Respawning familiár
+### Bojová magie
+
+**Omezení:** -
+
+**Opakování:** Nelze
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+### Extra kouzlo
+
+**Omezení:** -
+
+**Opakování:** Lze vzít opakovaně
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+### Extra magická energie
+
+**Omezení:** -
+
+**Opakování:**  Lze vzít opakovaně
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+### Impozantní moc
+
+**Omezení:** -
+
+**Opakování:** Lze vzít opakovaně
+
+asd (-1 savy cílů)
+
+<img src="/assets/sep_line.png"/>
+
+### Magický řemeslník
+
+**Omezení:** -
+
+**Opakování:** Nelze
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+### Modifikuj kouzlo
+
+**Omezení:** -
+
+**Opakování:** Lze vzít opakovaně ale nelze použít na kouzla vzniklá z tohohle talentu
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+### Odražení kouzla
+
+**Omezení:** Vyžaduje talent Proti-kouzlo
+
+**Opakování:** Nelze
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+### Posílená magická odolnost
+
+**Omezení:** -
+
+**Opakování:** Nelze
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+### Poslední špetka magie
+
+**Omezení:** -
+
+**Opakování:** Nelze
+
+asd
+
+<img src="/assets/sep_line.png"/>
+
+### Proti-kouzlo
+
+**Omezení:** Vyžaduje znalost kouzla Rozptyl magii. (Kouzlo Pravé vidění je pro tento talent také užitečné ale jeho znalost není vyžadována)
+
+**Opakování:** Nelze
+
+asd
+
+<img src="/assets/sep_line.png"/>
 
 ### Vlastní
 
