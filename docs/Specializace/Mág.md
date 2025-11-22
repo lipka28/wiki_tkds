@@ -29,23 +29,23 @@ asd ==TODO: popis a art?==
 
 ## Schopnosti povolání
 
-### ASD
+### Magika
+
+asd pokec
+
+**Získávání kouzel:** asd
+
+**Magická energie:** asd
+
+**Detekce magie:** asd
+
+**Magické předměty:** asd
 
 asd Magika, Spell learning (učení ze scrollů a psaní), Simple magic ? (něco jako prestigitation? )
 
-### ASD
+### Spell learning
 
-asd
-
-### ASD
-
-asd
-
-- magika (popis spellcastingu, progression, detect magic)
-- Learning
-- Studovaný (jako ten background + 2 jazyky?)
-- Simple magic (manipuluj předměty na vzdálenost 2 metry, kolem sebe)
-- Nic - že by spellcasteři měli jen 2 featury?
+Učení se kouzel z textů (jako třeba svitků)
 
 ## Mág talenty
 
@@ -54,11 +54,10 @@ asd
 - Empower (-1 savy proti tvé magii)
 - Meta magic (Create a copy of spell with something doubled, or disadv on save, or exclude allies from area of effect)
 - Arcane cantrip (magic missile auto attack)
-- Spell learning? (pokud nebude core)
 - Magical research (+free item)
 - Counter spell
 - Spell reflect
-- Extra ME
+- Extra ME (+2)
 - Extra spell
 - Spell list traversal (learn spell from dif spell list (tier up))
 - Magic resistance (+2, once)
