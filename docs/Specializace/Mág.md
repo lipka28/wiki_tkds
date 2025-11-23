@@ -53,7 +53,10 @@ Mág může strávit *volnočasovou aktivitu* studováním svitku za účelem na
 
 **Opakování:** Nelze
 
-asd
+Ovládl si jednoduší variantu kouzla magická střela. Získáváš schopnost seslat jednoduchou magickou střelu do vzdálenosti 10 metrů, která nestojí žádnou magickou energii. Tento útok probíhá jako normální útok na dálku ale hod na zásah je modifikovaný *MYS* na místo HBI.
+
+- **Poškození:** Zásah střelou působí *1k6* magického poškození.
+- **Blokace:** Všechny předměty a kouzla co blokují kouzlo *Magická střela* blokují i tuhle schopnost.
 
 <img src="/assets/sep_line.png"/>
 
@@ -63,7 +66,7 @@ asd
 
 **Opakování:** Lze vzít opakovaně
 
-asd
+Naučíš se 1 extra kouzlo, třídy kterou můžeš seslat, ze svého seznamu kouzel.
 
 <img src="/assets/sep_line.png"/>
 
@@ -73,7 +76,7 @@ asd
 
 **Opakování:**  Lze vzít opakovaně
 
-asd
+Získáváš *+2* Magické energie.
 
 <img src="/assets/sep_line.png"/>
 
@@ -83,7 +86,7 @@ asd
 
 **Opakování:** Lze vzít opakovaně
 
-asd (-1 savy cílů)
+Všechny tvá kouzla vyžadující, aby cíl podstoupil záchranný hod. Uvalují postih *-1* na tento záchranný hod.
 
 <img src="/assets/sep_line.png"/>
 
@@ -93,17 +96,27 @@ asd (-1 savy cílů)
 
 **Opakování:** Nelze
 
-asd
+Jsi zběhlý ve výrobě magických předmětů, lektvarů a kdo ví čeho všeho dalšího. Můžeš investovat své peníze, čas a třeba i jiné komponenty do výzkumu nových kouzel, magických rituálů, výroby magických předmětů a to jak jednorázových tak trvalých.
+
+- **Extra předmět:** Při získání tohohle talentu si ve spolupráci s PJ vyber nebo vymysli magický předmět, který zdarma získáš (předmět by měl být adekvátní tvé úrovni). 
 
 <img src="/assets/sep_line.png"/>
 
-### Modifikuj kouzlo
+### Magický společník
 
 **Omezení:** -
 
-**Opakování:** Lze vzít opakovaně ale nelze použít na kouzla vzniklá z tohohle talentu
+**Opakování:** Nelze
 
-asd
+Získáš malého magického společníka, který tě oddaně poslouchá na slovo.
+
+- **Forma:** Společník může mít libovolnou formu. Nezávisle na formě však umí létat a manipulovat nosit předměty (unese 1 slot).
+- **Smrt:** Společník je smrtelný, ale v případě smrti se navrátí při úsvitu dalšího dne. Jeho smrt však způsobí mágovi *1k6* poškození a ztrátu 1 ME.
+- **Dimenzionální kapsa:** Mág může společníka kdykoliv odvolat a přivolat z místa mezi světy. Pokud při odvolání nese společník předmět, ten spadne na zem.
+
+**Magický společník**
+
+**Úroveň:** 1; **Životy:** 2; **OČ:** 14; **ZH:** 14; **Statistiky:** Vše -2; **Pohyb:** Létání 8 metrů; **Morálka:** Neoblomná; **Útoky:** Neútočí;
 
 <img src="/assets/sep_line.png"/>
 
