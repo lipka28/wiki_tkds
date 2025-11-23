@@ -14,36 +14,49 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň | životy |  ME   | Zásah |  ZH  |                Ostatní                 |
-| :----- | :----: | :---: | :---: | :--: | :------------------------------------: |
-| 1      | 4+ODO  | 1+MYS |  +0   |  16  | asd; sad; asd; Požehnání 1. třídy; Talent |
-| 2      |  +1k4  |  +1   |  +0   |  16  |                 Talent                 |
-| 3      |  +1k4  |  +1   |  +1   |  15  |            Požehnání 2. třídy             |
-| 4      |  +1k4  |  +1   |  +1   |  15  |                 Talent                 |
-| 5      |  +1k4  |  +1   |  +2   |  14  |   1 dovednostní bod; Požehnání 3. třídy   |
-| 6      |  +1k4  |  +1   |  +2   |  14  |                 Talent                 |
-| 7      |  +1k4  |  +1   |  +3   |  13  |            Požehnání 4. třídy             |
-| 8      |  +1k4  |  +1   |  +3   |  13  |                 Talent                 |
-| 9      |  +1k4  |  +1   |  +4   |  12  |            Požehnání 5. třídy             |
-| 10     |  +1k4  |  +1   |  +4   |  12  |       1 dovednostní bod; Talent        |
+| úroveň | životy | Zásah |  ZH  |                  Ostatní                  |
+| :----- | :----: | :---: | :--: | :---------------------------------------: |
+| 1      | 4+ODO  |  +0   |  16  | asd; sad; asd; Požehnání 1. třídy; Talent |
+| 2      |  +1k4  |  +0   |  16  |                  Talent                   |
+| 3      |  +1k4  |  +1   |  15  |            Požehnání 2. třídy             |
+| 4      |  +1k4  |  +1   |  15  |                  Talent                   |
+| 5      |  +1k4  |  +2   |  14  |   1 dovednostní bod; Požehnání 3. třídy   |
+| 6      |  +1k4  |  +2   |  14  |                  Talent                   |
+| 7      |  +1k4  |  +3   |  13  |            Požehnání 4. třídy             |
+| 8      |  +1k4  |  +3   |  13  |                  Talent                   |
+| 9      |  +1k4  |  +4   |  12  |            Požehnání 5. třídy             |
+| 10     |  +1k4  |  +4   |  12  |         1 dovednostní bod; Talent         |
 
 ## Tabulka požehnání dle úrovně
 
-asd
+| úroveň | 1. Třída | 2. Třída | 3. Třída | 4. Třída | 5. Třída |
+| :----: | :------: | :------: | :------: | :------: | :------: |
+|   1    |   *1*    |    -     |    -     |    -     |    -     |
+|   2    |    2     |    -     |    -     |    -     |    -     |
+|   3    |    2     |   *1*    |    -     |    -     |    -     |
+|   4    |    2     |    2     |    -     |    -     |    -     |
+|   5    |    2     |    2     |   *1*    |    -     |    -     |
+|   6    |    2     |    2     |    2     |    -     |    -     |
+|   7    |    2     |    2     |    2     |   *1*    |    -     |
+|   8    |    2     |    2     |    2     |    2     |    -     |
+|   9    |    2     |    2     |    2     |    2     |   *1*    |
+|   10   |    2     |    2     |    2     |    2     |    2     |
 
 ## Schopnosti povolání
 
 ### ASD
 
-asd 
+Spell casting
 
 ### ASD
 
-asd
+asd  Patron + Pf2e font like feature
 
 ### ASD
 
-asd
+asd Optional - Inkvizitor (paladin like thing)
+
+Kostka + 1k6, Půlka kouzel, kouzla jako L/2. Extra zbraně, Extra brnění a štíty
 
 
 ## Kněz talenty
@@ -59,4 +72,6 @@ asd
 Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
+
+- Divine protection (+1 Oč and saves)
 
