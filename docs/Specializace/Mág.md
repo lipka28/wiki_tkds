@@ -14,18 +14,18 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň | životy |  ME   | Zásah |  ZH  |                Ostatní                 |
-| :----- | :----: | :---: | :---: | :--: | :------------------------------------: |
-| 1      | 4+ODO  | 1+MYS |  +0   |  16  | asd; sad; asd; Kouzla 1. třídy; Talent |
-| 2      |  +1k4  |  +1   |  +0   |  16  |                 Talent                 |
-| 3      |  +1k4  |  +1   |  +1   |  15  |            Kouzla 2. třídy             |
-| 4      |  +1k4  |  +1   |  +1   |  15  |                 Talent                 |
-| 5      |  +1k4  |  +1   |  +2   |  14  |   1 dovednostní bod; Kouzla 3. třídy   |
-| 6      |  +1k4  |  +1   |  +2   |  14  |                 Talent                 |
-| 7      |  +1k4  |  +1   |  +3   |  13  |            Kouzla 4. třídy             |
-| 8      |  +1k4  |  +1   |  +3   |  13  |                 Talent                 |
-| 9      |  +1k4  |  +1   |  +4   |  12  |            Kouzla 5. třídy             |
-| 10     |  +1k4  |  +1   |  +4   |  12  |       1 dovednostní bod; Talent        |
+| úroveň | životy |  ME   | Zásah |  ZH  |                         Ostatní                         |
+| :----- | :----: | :---: | :---: | :--: | :-----------------------------------------------------: |
+| 1      | 4+ODO  | 1+MYS |  +0   |  16  | Magika; Učení kouzel ze svitků; Kouzla 1. třídy; Talent |
+| 2      |  +1k4  |  +1   |  +0   |  16  |                         Talent                          |
+| 3      |  +1k4  |  +1   |  +1   |  15  |                     Kouzla 2. třídy                     |
+| 4      |  +1k4  |  +1   |  +1   |  15  |                         Talent                          |
+| 5      |  +1k4  |  +1   |  +2   |  14  |           1 dovednostní bod; Kouzla 3. třídy            |
+| 6      |  +1k4  |  +1   |  +2   |  14  |                         Talent                          |
+| 7      |  +1k4  |  +1   |  +3   |  13  |                     Kouzla 4. třídy                     |
+| 8      |  +1k4  |  +1   |  +3   |  13  |                         Talent                          |
+| 9      |  +1k4  |  +1   |  +4   |  12  |                     Kouzla 5. třídy                     |
+| 10     |  +1k4  |  +1   |  +4   |  12  |                1 dovednostní bod; Talent                |
 
 ## Schopnosti povolání
 
@@ -126,7 +126,9 @@ Získáš malého magického společníka, který tě oddaně poslouchá na slov
 
 **Opakování:** Nelze
 
-asd
+Cíl zasažený proti-kouzlem, který neuspěje v záchranném hodu na odolání o *5 nebo více* se sám stane cílem svého kouzla. Pokud stvoření není validním cílem kouzla, kouzlo na místo toho dopadne na pozici kde stojí původní sesilatel. 
+
+- **Nižší úrovně:** I když nižší úrovně v odolání proti-kouzlu automaticky selžou, stále mají možnost záchranného hodu, aby se rozhodlo zda se kouzlo odrazí.
 
 <img src="/assets/sep_line.png"/>
 
@@ -136,7 +138,7 @@ asd
 
 **Opakování:** Nelze
 
-asd
+Tvá *magická odolnost* se zvýší o *+2*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -146,17 +148,19 @@ asd
 
 **Opakování:** Nelze
 
-asd
+Pokud nejsi *vyčerpaný*, Tak se můžeš vyčerpat a seslat kouzlo na jehož seslání nemáš dostatek magické energie. Postihy za vyčerpání jsou již aplikované i na dané kouzlo.
 
 <img src="/assets/sep_line.png"/>
 
 ### Proti-kouzlo
 
-**Omezení:** Vyžaduje znalost kouzla Rozptyl magii. (Kouzlo Pravé vidění je pro tento talent také užitečné ale jeho znalost není vyžadována)
+**Omezení:** Vyžaduje znalost kouzla *Rozptyl magii*. (Kouzlo *Pravé vidění* je pro tento talent také užitečné ale jeho znalost není vyžadována)
 
 **Opakování:** Nelze
 
-asd
+Jednou za kolo můžeš seslat Rozptyl magii na nepřítele, který se zrovna pokouší seslat kouzlo a tím jeho kouzlo vyrušit. 
+
+- **Podmínky proti-kouzla:** Platí stejná pravidla jako popsána v kouzlu *Rozptyl magii*. Jediný rozdíl je cena kouzla. Ta je *minimálně 3* ME ale může být více. Mág musí odhadnout (na základě manifestací kouzla) kolik ME stojí kouzlo, které protivník sesílá a zaplatit za své proti-kouzlo stejně nebo více. Jinak proti-kouzlo selže a použitá ME je ztracena. Pokud je mág používající proti-kouzlo pod efektem kouzla *Pravé vidění*, PJ mu přesně sedlí, kolik ME je třeba zaplatit.
 
 <img src="/assets/sep_line.png"/>
 
