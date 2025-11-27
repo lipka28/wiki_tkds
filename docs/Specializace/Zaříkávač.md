@@ -1,4 +1,4 @@
-# Kněz
+# Zaříkávač
 
 <img src="/assets/sep_line.png"/>
 
@@ -8,7 +8,7 @@ asd ==TODO: popis a art?==
 
 **Kostka zdraví:** 1k4
 
-**Trénované Zbraně:** Nůž a zbraň tvého patrona
+**Trénované Zbraně:** ==todo: domyslet==
 
 **Trénované Zbroje:** Žádné
 
@@ -50,16 +50,15 @@ Spell casting
 
 ### ASD
 
-asd  Patron + Pf2e font like feature
+Animal aspects
 
 ### ASD
 
-asd Optional - Inkvizitor (paladin like thing)
+asd Optional - battle variant
 
-Kostka + 1k6, Půlka kouzel, kouzla jako L/2. Extra zbraně, Extra brnění a štíty
+Kostka + 1k6, Půlka kouzel, Extra zbraně, Extra brnění a štíty
 
-
-## Kněz talenty
+## Zaříkávač talenty
 
 <img src="/assets/sep_line.png"/>
 
