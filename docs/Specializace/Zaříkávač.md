@@ -16,16 +16,16 @@ asd ==TODO: popis a art?==
 
 | úroveň | životy | Zásah |  ZH  |                  Ostatní                  |
 | :----- | :----: | :---: | :--: | :---------------------------------------: |
-| 1      | 4+ODO  |  +0   |  16  | asd; sad; asd; Požehnání 1. třídy; Talent |
-| 2      |  +1k4  |  +0   |  16  |                  Talent                   |
-| 3      |  +1k4  |  +1   |  15  |            Požehnání 2. třídy             |
-| 4      |  +1k4  |  +1   |  15  |                  Talent                   |
-| 5      |  +1k4  |  +2   |  14  |   1 dovednostní bod; Požehnání 3. třídy   |
-| 6      |  +1k4  |  +2   |  14  |                  Talent                   |
-| 7      |  +1k4  |  +3   |  13  |            Požehnání 4. třídy             |
-| 8      |  +1k4  |  +3   |  13  |                  Talent                   |
-| 9      |  +1k4  |  +4   |  12  |            Požehnání 5. třídy             |
-| 10     |  +1k4  |  +4   |  12  |         1 dovednostní bod; Talent         |
+| 1      | 4+ODO  |  +0   |  15  | asd; sad; asd; Požehnání 1. třídy; Talent |
+| 2      |  +1k4  |  +0   |  15  |                  Talent                   |
+| 3      |  +1k4  |  +1   |  14  |            Požehnání 2. třídy             |
+| 4      |  +1k4  |  +1   |  14  |                  Talent                   |
+| 5      |  +1k4  |  +2   |  13  |   1 dovednostní bod; Požehnání 3. třídy   |
+| 6      |  +1k4  |  +2   |  13  |                  Talent                   |
+| 7      |  +1k4  |  +3   |  12  |            Požehnání 4. třídy             |
+| 8      |  +1k4  |  +3   |  12  |                  Talent                   |
+| 9      |  +1k4  |  +4   |  11  |            Požehnání 5. třídy             |
+| 10     |  +1k4  |  +4   |  11  |         1 dovednostní bod; Talent         |
 
 ## Tabulka požehnání dle úrovně
 

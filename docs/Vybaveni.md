@@ -124,7 +124,7 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 
 **Dalekonosný luk (spec):** Útoky do vzdálenosti *5 metrů* probíhají s nevýhodou.
 
-**Granát:** Jednorázová zbraň, která zasáhne všechna stvoření v zóně velikosti 5 začínající v efektivním dostřelu zbraně. Hráčem určená zóna se vždy posune o *1k4* metrů náhodným směrem. Zasažená stvoření mají nárok na záchranu *HBI*, při úspěchu sníží obdržené poškození na polovinu. Zbraň je třeba před hozením zapálit. I když zbraň nevyžaduje hod na zásah, stále je třeba hodit 1k20 pro určení spolehlivosti.
+**Granát:** Jednorázová zbraň, která zasáhne všechna stvoření v zóně velikosti 5 začínající v efektivním dostřelu zbraně. Hráčem určená zóna se vždy posune o *1k4* metrů náhodným směrem. Zasažená stvoření mají nárok na záchranný hod, při úspěchu sníží obdržené poškození na polovinu. Zbraň je třeba před hozením zapálit. I když zbraň nevyžaduje hod na zásah, stále je třeba hodit 1k20 pro určení spolehlivosti.
 
 **Houfnice:** Zbraň automaticky zasáhne každé stvoření v oblasti velikosti 5 dotýkající se pozice střelce. Poškození zbraně je házeno za každé stvoření zvlášť. I když zbraň nevyžaduje hod na zásah, stále je třeba hodit 1k20 pro určení spolehlivosti.
 

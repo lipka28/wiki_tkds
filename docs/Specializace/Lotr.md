@@ -16,16 +16,16 @@ asd ==TODO: popis a art?==
 
 | úroveň | životy | Zásah |  ZH  |                 Ostatní                 |
 | :----- | :----: | :---: | :--: | :-------------------------------------: |
-| 1      | 6+ODO  |  +0   |  16  | Přepadení; Zlodějství; Dvoj-řeč; Talent |
-| 2      |  +1k6  |  +0   |  16  |                 Talent                  |
-| 3      |  +1k6  |  +1   |  15  |                    -                    |
-| 4      |  +1k6  |  +1   |  15  |                 Talent                  |
-| 5      |  +1k6  |  +2   |  14  |            1 dovednostní bod            |
-| 6      |  +1k6  |  +2   |  14  |                 Talent                  |
-| 7      |  +1k6  |  +3   |  13  |                    -                    |
-| 8      |  +1k6  |  +3   |  13  |                 Talent                  |
-| 9      |  +1k6  |  +4   |  12  |                    -                    |
-| 10     |  +1k6  |  +4   |  12  |        1 dovednostní bod; Talent        |
+| 1      | 6+ODO  |  +0   |  15  | Přepadení; Zlodějství; Dvoj-řeč; Talent |
+| 2      |  +1k6  |  +0   |  15  |                 Talent                  |
+| 3      |  +1k6  |  +1   |  14  |                    -                    |
+| 4      |  +1k6  |  +1   |  14  |                 Talent                  |
+| 5      |  +1k6  |  +2   |  13  |            1 dovednostní bod            |
+| 6      |  +1k6  |  +2   |  13  |                 Talent                  |
+| 7      |  +1k6  |  +3   |  12  |                    -                    |
+| 8      |  +1k6  |  +3   |  12  |                 Talent                  |
+| 9      |  +1k6  |  +4   |  11  |                    -                    |
+| 10     |  +1k6  |  +4   |  11  |        1 dovednostní bod; Talent        |
 
 ## Schopnosti povolání
 

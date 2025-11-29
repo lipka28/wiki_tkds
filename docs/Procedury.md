@@ -174,7 +174,7 @@ Nejběžnější volno-časové aktivity.
 
 Postava si může zaplatit léčitelské služby pro zotavení se z následků dlouhodobějšího charakteru. Všechna ostatní běžná zranění se během doby mezi dobrodružství (pokud dobrodružství skončilo v bezpečné lokalitě) automaticky vyléčí (magie se také doplní).
 
-**Naučit se něco nového** ==TODO: zavést koncept nedokonalých talentů, zlepšovaných tréninkem a investicemi==
+**Naučit se něco nového** ==TODO: zavést koncept nedokonalých talentů, zlepšovaných tréninkem a investicemi== (navázat na MYS? jako limit)
 
 Postava se může zlepšit v určité aktivitě či naučit se něco nového. Hráčská postava se nikdy nemůže naučit talent navíc nebo talent z jiné specializace. Lze se však naučit věci jako nový jazyk, věnovat se nějaké profesi (např bylinkářství), přeučit se některý ze svých talentů za něco jiného nebo získat přístup k novým talentům či kouzlům.
 

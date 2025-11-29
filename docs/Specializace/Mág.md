@@ -16,16 +16,16 @@ asd ==TODO: popis a art?==
 
 | úroveň | životy |  ME   | Zásah |  ZH  |                           Ostatní                            |
 | :----- | :----: | :---: | :---: | :--: | :----------------------------------------------------------: |
-| 1      | 4+ODO  | 1+MYS |  +0   |  16  | Magika; Učení kouzel ze svitků; Magus (volitelné); Kouzla 1. třídy; Talent |
-| 2      |  +1k4  |  +1   |  +0   |  16  |                            Talent                            |
-| 3      |  +1k4  |  +1   |  +1   |  15  |                       Kouzla 2. třídy                        |
-| 4      |  +1k4  |  +1   |  +1   |  15  |                            Talent                            |
-| 5      |  +1k4  |  +1   |  +2   |  14  |              1 dovednostní bod; Kouzla 3. třídy              |
-| 6      |  +1k4  |  +1   |  +2   |  14  |                            Talent                            |
-| 7      |  +1k4  |  +1   |  +3   |  13  |                       Kouzla 4. třídy                        |
-| 8      |  +1k4  |  +1   |  +3   |  13  |                            Talent                            |
-| 9      |  +1k4  |  +1   |  +4   |  12  |                       Kouzla 5. třídy                        |
-| 10     |  +1k4  |  +1   |  +4   |  12  |                  1 dovednostní bod; Talent                   |
+| 1      | 4+ODO  | 1+MYS |  +0   |  15  | Magika; Učení kouzel ze svitků; Magus (volitelné); Kouzla 1. třídy; Talent |
+| 2      |  +1k4  |  +1   |  +0   |  15  |                            Talent                            |
+| 3      |  +1k4  |  +1   |  +1   |  14  |                       Kouzla 2. třídy                        |
+| 4      |  +1k4  |  +1   |  +1   |  14  |                            Talent                            |
+| 5      |  +1k4  |  +1   |  +2   |  13  |              1 dovednostní bod; Kouzla 3. třídy              |
+| 6      |  +1k4  |  +1   |  +2   |  13  |                            Talent                            |
+| 7      |  +1k4  |  +1   |  +3   |  12  |                       Kouzla 4. třídy                        |
+| 8      |  +1k4  |  +1   |  +3   |  12  |                            Talent                            |
+| 9      |  +1k4  |  +1   |  +4   |  11  |                       Kouzla 5. třídy                        |
+| 10     |  +1k4  |  +1   |  +4   |  11  |                  1 dovednostní bod; Talent                   |
 
 ## Schopnosti povolání
 
