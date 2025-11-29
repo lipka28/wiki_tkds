@@ -4,9 +4,11 @@
 
 <img src="/assets/sep_line.png"/>
 
-**Jazyky:** *Obecná řeč*  a *Pulčická hatmatilka* + běžné jazyky ve výši tvé dovednosti *Mysl*.
+**Jazyky:** *Obecná řeč* a *Pulčický hantec* + běžné jazyky ve výši tvé dovednosti *Mysl*.
 
 **Rychlost:** 5 metrů
+
+**Modifikace dovedností:** *SRD +1* (může být až +5) a *SIL -1*
 
 **Speciální vlastnosti:** 
 

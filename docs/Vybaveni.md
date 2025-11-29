@@ -36,7 +36,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 Používání většiny zbraní a zbrojí vyžaduje "trénink". Ten je poskytován především specializací postavy avšak lze jej získat i z talentů.
 
 -   **Netrénovaná brnění (a štíty):** Používání netrénované zbroje způsobuje *nevýhodu* na všechny ověření *SIL* a *HBI* a nelze v nich čarovat.
--   **Netrénované zbraně:** Používání netrénované zbraně způsobuje *nevýhodu* na všechny útoky touhle zbraní.
+-   **Netrénované zbraně:** Netrénované zbraně působí jen poloviční poškození s výjimkou kritických zásahů.
 
 ### Zbroje a štíty
 
@@ -86,7 +86,7 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 | Rapír            |    1k8    |   1   | 40 ši |      S/H       |
 | Sekyrka          |    1k6    |   1   | 2 ši  |       Ho       |
 | Stříbrný nůž     |    1k6    |   1   | 40 ši |       Ho       |
-| Válečná sekera   |    1d8    |   2   | 35 ši |    V(1k10)     |
+| Válečná sekera   |    1k8    |   2   | 35 ši |    V(1k10)     |
 | Válečné kladivo  |   1k12    |   2   | 40 ši |       -        |
 
 **Bič (Spec):** Bič lze použít jako prodlouženou ruku pro účely bojových manévrů zachytávání končetin nepřátel.
@@ -100,33 +100,48 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 **Vlastnosti střelných zbraní:**
 
 -   **Nab:** Zbraň vyžaduje nabití po každém použití. Zbraň lze nabít použitím akce nebo veškeré své rychlosti v daném tahu.
+-   **VP:** Zbraň je výjimečně průrazná. Pokud má na sobě cíl zbroj nebo štít při útoku touhle zbraní je OČ cíle nižší o *1*.
+-   **Křes:** Zbraň používá černý prach a křesadlový mechanizmus. To ji umožňuje udělovat výjimečné poškození pro svou kategorii avšak má také své nevýhody.
+    -   *Dlouhé nabíjení:* Zbraň je po každém použití třeba nabít. Nabíjení trvá celé 2 kola (jak akce tak pohyb v každém). Může však být přerušeno a dokončeno později.
+    -   *Náchylnost na živly:* Vlhko a žár mohou zbraň nebo její munici poškodit. Efekty a trvalost tohohle poškození záleží na PJ.
+    -   *Nespolehlivost:* Pokud při hodu na zásah padne na kostce *1*. Zbraň se zasekne a je nepoužitelná, dokud není jednu směnu čištěna *nástroji na čištění křesadlových zbraní*.
 
-| Zbraň                      | Poškození | Ef. Dostřel | Sloty | Cena  |  Vlastnosti   |
-| -------------------------- | :-------: | :---------: | :---: | :---: | :-----------: |
-| Dalekonosný luk            |    1k8    |    40 m     |   2   | 20 ši |   2R, Spec    |
-| Kompozitní dalekonosný luk |   1k10    |    50 m     |   2   | 60 ši | 2R, S/H, Spec |
-| Kompozitní krátký luk      |    1k8    |    40 m     |   1   | 40 ši | 2R, S/H, Spec |
-| Krátký Luk                 |    1k6    |    30 m     |   1   | 10 ši |      2R       |
-| Kuše                       |    1k8    |    20 m     |   2   | 20 ši |  2R, Nab, NT  |
-| Prak                       |    1k4    |    10 m     |   1   | 2 ši  |   NT, Spec    |
-| Příruční kuše              |    1k6    |    10 m     |   1   | 25 ši |    Nab, NT    |
-| Těžká kuše                 |   1k10    |    40 m     |   2   | 40 ši |    2R, Nab    |
+
+| Zbraň                      | Poškození | Ef. Dostřel | Sloty |  Cena  |   Vlastnosti   |
+| -------------------------- | :-------: | :---------: | :---: | :----: | :------------: |
+| Bambitka                   |    2k6    |    10 m     |   1   | 50 ši  |  Křes, NT, VP  |
+| Dalekonosný luk            |    1k8    |    40 m     |   2   | 20 ši  |    2R, Spec    |
+| Granát                     |    2k8    |    10 m     |   1   | 25 ši  | Křes, NT, Spec |
+| Houfnice                   |    1k8    |  Speciální  |   2   | 100 ši | 2R, Křes, Spec |
+| Kompozitní dalekonosný luk |   1k10    |    50 m     |   2   | 60 ši  | 2R, S/H, Spec  |
+| Kompozitní krátký luk      |    1k8    |    40 m     |   1   | 40 ši  | 2R, S/H, Spec  |
+| Krátký Luk                 |    1k6    |    30 m     |   1   | 10 ši  |       2R       |
+| Kuše                       |    1k8    |    20 m     |   2   | 20 ši  |  2R, Nab, NT   |
+| Mušketa                    |    2k8    |    20 m     |   2   | 100 ši |  2R, Křes, VP  |
+| Prak                       |    1k4    |    10 m     |   1   |  2 ši  |    NT, Spec    |
+| Příruční kuše              |    1k6    |    10 m     |   1   | 25 ši  |    Nab, NT     |
+| Těžká kuše                 |   1k10    |    40 m     |   2   | 40 ši  |  2R, Nab, VP   |
 
 **Dalekonosný luk (spec):** Útoky do vzdálenosti *5 metrů* probíhají s nevýhodou.
+
+**Granát:** Jednorázová zbraň, která zasáhne všechna stvoření v zóně velikosti 5 začínající v efektivním dostřelu zbraně. Hráčem určená zóna se vždy posune o *1k4* metrů náhodným směrem. Zasažená stvoření mají nárok na záchranu *HBI*, při úspěchu sníží obdržené poškození na polovinu. Zbraň je třeba před hozením zapálit. I když zbraň nevyžaduje hod na zásah, stále je třeba hodit 1k20 pro určení spolehlivosti.
+
+**Houfnice:** Zbraň automaticky zasáhne každé stvoření v oblasti velikosti 5 dotýkající se pozice střelce. Poškození zbraně je házeno za každé stvoření zvlášť. I když zbraň nevyžaduje hod na zásah, stále je třeba hodit 1k20 pro určení spolehlivosti.
 
 **Kompozitní dalekonosný luk (spec):** Útoky do vzdálenosti *5 metrů* probíhají s nevýhodou. Navíc efektivní použití zbraně *vyžaduje aspoň +2 SIL*.
 
 **Kompozitní luk (spec):** Efektivní použití zbraně *vyžaduje aspoň +1 SIL*.
 
-**Prak (spec):** Nevyžaduje speciální munici, kamenní se většinou válí kolem.
+**Prak (spec):** Nevyžaduje speciální munici, kamenní se většinou válí kolem. Lze použít i k vrhání jiných malých předmětů jako například lektvarů či granátů.
 
 ### Munice
 
-| Munice                           |           Sloty            | Cena  |
-| -------------------------------- | :------------------------: | :---: |
-| Šípy (Toulec 20ti šípů)          |             1              | 5 ši  |
-| Šipky do kuše (Pouzdro 20 šipek) |             1              | 8 ši  |
-| Šíp / šipka se stříbrnou špičkou | (součást toulce / pouzdra) | 10 ši |
+| Munice                                     |           Sloty            | Cena  |
+| ------------------------------------------ | :------------------------: | :---: |
+| Munice do křesadlových zbraní (10 použití) |             1              | 10 ši |
+| Šípy (Toulec 20ti šípů)                    |             1              | 5 ši  |
+| Šipky do kuše (Pouzdro 20 šipek)           |             1              | 8 ši  |
+| Šíp / šipka se stříbrnou špičkou           | (součást toulce / pouzdra) | 10 ši |
 
 ## Výbava dobrodruha
 
@@ -152,6 +167,7 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 | Motouz (20 metrů)                                      |            1             | 2 ši  |
 | Mýdlo                                                  |            1             | 6 ši  |
 | Nástroj (Jako krumpáč, lopata či páčidlo) (vyber jaký) |            1             | 5 ši  |
+| Nástroje na čištění křesadlových zbraní                |            1             | 15 ši |
 | Pochodně (3 ks)                                        |            1             | 2 ši  |
 | Provaz (10 metrů)                                      |            1             | 4 ši  |
 | Psací potřeby                                          |            1             | 10 ši |

@@ -8,9 +8,11 @@
 
 **Rychlost:** 5 metrů
 
+**Modifikace dovedností:** *ODO +1* (může být až +5) a *HBI -1*
+
 **Speciální vlastnosti:** 
 
-- *Tvrdošíjný* - Máš extra 2 životy a také výhodu na záchranné hody na odolání toxinům a nemocem.
-- *Zrak uzpůsobený tmě* - I když nevidíš v absolutní tmě, stačí ti jen trocha zbytkového světla, aby si dobře viděl. Efektivně díky tomu vidíš ve tmě dál (o 10 metrů) než umožňují běžné zdroje světla. 
+- *Tvrdošíjný* - Máš extra 2 životy.
+- *Kamenná vytrvalost* - Máš výhodu na záchranné hody na odolání toxinům a nemocem.
 
 <img src="/assets/sep_line.png"/>

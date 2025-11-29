@@ -8,6 +8,8 @@
 
 **Rychlost:** 6 metrů
 
+**Modifikace dovedností:** -
+
 **Speciální vlastnosti:** 
 
 - *Talentovaný* - Na první úrovni si vyber jeden extra talent.
