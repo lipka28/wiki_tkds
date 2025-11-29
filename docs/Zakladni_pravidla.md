@@ -162,7 +162,7 @@ Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a um
 
 Obranné číslo určuje jak těžké je zasáhnou postavu útokem v boji. Základní obranné číslo postavy bez brnění je *10+Hbitost*. Obranné číslo lze zvýšit různými kouzly, zvýšením Hbitosti a nebo koupí lepší zbroje.
 
-**### Záchranný hod (ZH)**
+### Záchranný hod (ZH)
 
 Záchranné hody jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==. 
 

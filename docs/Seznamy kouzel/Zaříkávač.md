@@ -169,31 +169,37 @@
 
 ### Bouře blesků
 
-**Trvání:** asd
+**Trvání:** L směn
 
-**Dosah:** asd
+**Dosah:** 100 metrů
 
-**Efekt:** asd
+**Efekt:** Očaruje bouřkové mraky na obloze, umožňujíce sesilateli přivolávat blesky. Vyčarování kouzla vyžaduje aby na nebi již byli bouřkové mraky.
+
+**Přivolání blesku:** Během trvání kouzla může sesilatel jedenkrát za směnu jako akci. Přivolat blesk z nebe, který zasáhne stvoření v zóně velikosti 2 začínající v dosahu kouzla. Zasažená stvoření obdrží *5k12* poškození a mohou se pokusit uspět v záchraně *HBI* a zredukovat tak poškození na polovinu.
+
+**Rozehnání mraků:** Kouzlo může být předčasně ukončeno, jsou-li bouřkové mraky na nebi rozehnány.
 
 <img src="/assets/sep_line.png"/>
 
 ### Obelži smrt
 
-**Trvání:** asd
+**Trvání:** Okamžité
 
-**Dosah:** asd
+**Dosah:** Dotyk
 
-**Efekt:** asd
+**Efekt:** Dotčené mrtvé stvoření, které zanechalo ostatky a zemřelo na základě uděleného poškození (nikoliv jed) a které není mrtvé déle jak *3 kola* je navráceno k životu s *1 životem* a *smrtelným zraněním*.
+
+**Cena za podvod:** Smrt není rád připravena o jednu ze svých duší. Sesilatel za tento podvod obdrží *1k8* poškození a oživený permanentně ztratí *1* náhodný dovednostní bod.
 
 <img src="/assets/sep_line.png"/>
 
 ### Odolej jedu
 
-**Trvání:** asd
+**Trvání:** L směn
 
-**Dosah:** asd
+**Dosah:** Dotyk
 
-**Efekt:** asd
+**Efekt:** Očarované stvoření je kompletně imunní vůči jedům. Pokud očarované stvoření zemřelo následkem jedu během posledních 10-ti kol, tak je přivedeno zpět k životu.
 
 <img src="/assets/sep_line.png"/>
 
@@ -209,11 +215,11 @@
 
 ### Sejmi kletbu
 
-**Trvání:** asd
+**Trvání:** Trvalé
 
-**Dosah:** asd
+**Dosah:** Dotyk
 
-**Efekt:** asd
+**Efekt:** Očarované stvoření je trvale vyléčeno z jednoho prokletí, které jej ovlivňovalo. Alternativně je mu umožněno zbavit se jednoho oblečeného prokletého předmětu. Tohle kouzlo nelze použít na odstranění prokletí z předmětů.
 
 <img src="/assets/sep_line.png"/>
 
