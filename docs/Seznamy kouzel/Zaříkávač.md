@@ -51,8 +51,9 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Zasáhne zvíře (nebo monstrum zvířecí inteligence) L nebo nižší úrovně v dosahu magickým rozkazem. Zasažená stvoření musí uspět v záchraně *MYS* nebo se zadaným rozkazem řídit.
+**Efekt:** Zasáhne zvíře L nebo nižší úrovně v dosahu magickým rozkazem. Zasažená stvoření musí uspět v záchraně *MYS* nebo se zadaným rozkazem řídit.
 
+- **Omezení:** Funguje na obří verze zvířat ale ne na zvířata lidské či vyšší inteligence a fantastická monstra.
 - **Délka rozkazu:** Rozkaz nesmí být delší než 3 slova.
 - **Sebevražedné rozkazy:** Poku je kouzlem udělen přímo sebevražedný rozkaz, kouzlo selže.
 
@@ -181,7 +182,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-### Obelži smrt
+### Obelsti smrt
 
 **Trvání:** Okamžité
 
@@ -205,11 +206,14 @@
 
 ### Růst přírody
 
-**Trvání:** asd
+**Trvání:** 12 směn (zvířata) / trvalé (rostliny) 
 
-**Dosah:** asd
+**Dosah:** 20 metrů
 
-**Efekt:** asd
+**Efekt:** Kouzlo způsobí nadpřirozený růst zvířete nebo rostlin.
+
+- **Použití na zvíře:** Kouzlo očaruje jedno zvíře v dosahu jehož velikost, síla, nosnost a poškození se zdvojnásobí. Funguje na obří verze zvířat ale ne na zvířata lidské či vyšší inteligence a fantastická monstra.
+- **Použití na rostliny:** Rostliny v oblasti velikosti 10 začínající v dosahu kouzla vyrostou do hustého houští. Oblast je průchodná jen pro velmi velká stvoření (jako obtížný terén).
 
 <img src="/assets/sep_line.png"/>
 
@@ -225,6 +229,22 @@
 
 ### Zadrž přírodu
 
+**Trvání:** L směn
+
+**Dosah:** 30 metrů
+
+**Efekt:** Kouzlo ovlivní mysl L úrovní monster zvířecí inteligence nebo rostlinného původu, dle výběru zaříkávače a paralyzuje je. Zasažená monstra se mohou pokusit o záchranu *MYS*, aby efektu odolali.
+
+**Paralýza:** Monstrum je schopno vnímat ale nemůže se hýbat. Sesilatel může očarované monstrum kdykoliv s paralýzy částečně nebo plně uvolnit.
+
+<img src="/assets/sep_line.png"/>
+
+## Zázraky 4. třídy
+
+<img src="/assets/sep_line.png"/>
+
+### Falešný les
+
 **Trvání:** asd
 
 **Dosah:** asd
@@ -233,11 +253,47 @@
 
 <img src="/assets/sep_line.png"/>
 
-## Zázraky 4. třídy
+### Hadí transmutace
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
 
 <img src="/assets/sep_line.png"/>
 
-### ASD
+### Ochranný kruh
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+### Přivolej zvířata
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+### Vyléčit
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+### Vytvoř vodu
 
 **Trvání:** asd
 
