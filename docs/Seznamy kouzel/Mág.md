@@ -340,7 +340,7 @@
 
 **Dosah:** Dotyk
 
-**Efekt:** Očarované stvoření dýchající vzduch, získá schopnost dýchat pod vodou. Obráceně, pokud očarované stvoření dýchá jen pod vodou, získá schopnost dýchat vzduch.
+**Efekt:** Očarované stvoření dýchající vzduch, získá schopnost dýchat pod vodou. Platí také obráceně. Pokud očarované stvoření dýchá jen pod vodou, získá schopnost dýchat vzduch.
 
 <img src="/assets/sep_line.png"/>
 

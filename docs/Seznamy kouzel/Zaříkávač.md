@@ -4,6 +4,33 @@
 
 <img src="/assets/sep_line.png"/>
 
+### Nemrtvý služebník
+
+**Trvání:** 6 + L směn
+
+**Dosah:** 10 metrů
+
+**Efekt:** Magicky rozpohybuje pod zaříkávačovou kontrolou jedno mrtvé tělo (či kostěné ostatky) mrtvé osoby. Nezávisle na tom, jakými schopnostmi a statistikami tato osoba disponovala za svého života. Používají následující statistiky.
+
+**Živý mrtvý**
+
+**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 12; **ZH:** 16; **Statistiky:** Vše +0; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
+
+!!! note "Objasnění: Co je osoba?"
+	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
+
+<img src="/assets/sep_line.png"/>
+
+### Odhal zlo
+
+**Trvání:** L směn
+
+**Dosah:** sesilatel
+
+**Efekt:** Zaříkávač získá schopnost odhalit zárodky zla v okolí 10 metrů. To způsobuje, že vidí démony, nemrtvé, temnou magii ale i osoby s úmyslem mu ublížit slabě světélkovat.
+
+<img src="/assets/sep_line.png"/>
+
 ### Odvrať zlo
 
 **Trvání:** Okamžité
@@ -18,13 +45,41 @@
 
 <img src="/assets/sep_line.png"/>
 
+### Přikaž zvířeti
+
+**Trvání:** 1 směna nebo do splnění příkazu (co přijde dřív)
+
+**Dosah:** 10 metrů
+
+**Efekt:** Zasáhne zvíře (nebo monstrum zvířecí inteligence) L nebo nižší úrovně v dosahu magickým rozkazem. Zasažená stvoření musí uspět v záchraně *MYS* nebo se zadaným rozkazem řídit.
+
+- **Délka rozkazu:** Rozkaz nesmí být delší než 3 slova.
+- **Sebevražedné rozkazy:** Poku je kouzlem udělen přímo sebevražedný rozkaz, kouzlo selže.
+
+<img src="/assets/sep_line.png"/>
+
+### Vílí plamen
+
+**Trvání:** 12 směn / 1 směna
+
+**Dosah:** Sesilatel
+
+**Efekt:** Vytvoří magickou kouli zeleno-modrého neškodného plamene, který neklidně poletuje kolem zaříkávače. Tento plamen poskytuje světlo stejné síly jako pochodeň do okolí 10 metrů.
+
+**Sežehnout:** Zaříkávač může při sesílání kouzla nebo kdykoliv během jeho trvání jako akci, kouzlo předčasně ukončit a tím s neklidného plamínku vyšlehnout zelený plamen na cíl v okolí 10-ti metrů. Cíl musí uspět v záchraně *MYS* nebo je obalen tímto plamenem. Plamen nepůsobí poškození ale zažehnutý cíl svítí stejně jako vílí plamen po dobu 1 směny a nemůže se zneviditelnit nebo jinak maskovat svou polohu. Pokud je cíl nemrtví nebo démon navíc obdrží *1k8* poškození.
+
+<img src="/assets/sep_line.png"/>
+
 ### Zahoj
 
-**Trvání:** asd
+**Trvání:** Okamžité
 
-**Dosah:** asd
+**Dosah:** Dotyk
 
-**Efekt:** asd
+**Efekt:** Z ruky zaříkávače začne vyzařovat magická energie, která léčí zranění jedním z následujících efektů:
+
+- **Léčba zranění:** Cíl si vyléčí *1k6+1* životů.
+- **Vyléčení paralýzy:** Ukončí efekt dočasné paralýzy. 
 
 <img src="/assets/sep_line.png"/>
 
@@ -32,7 +87,87 @@
 
 <img src="/assets/sep_line.png"/>
 
-### ASD
+### Kůrže
+
+**Trvání:** L směn
+
+**Dosah:** Dotyk
+
+**Efekt:** Kůže očarovaného stvoření pokryje tvrdá kůra. OČ stvoření se zvedne o *+1* a také získá bonus *+1* ke všem nemagickým záchranným hodům.
+
+<img src="/assets/sep_line.png"/>
+
+### Ohni dřevo
+
+**Trvání:** Trvalé
+
+**Dosah:** 40 metrů
+
+**Efekt:** Zaříkávačem určených L slotů dřevěných objektů se pokroutí a stanou se nepoužitelnými. Předměty menší jak 1 slot (například šíp) se počítají jako 1 slot.
+
+**Magické předměty:** Magické předměty mohou kouzlu odolat jedním z následujících způsobů:
+
+- *Předměty ve výbavě:* Držitel předmětu má nárok na záchranný hod *MYS* za každý svůj ovlivněný předmět. V případě úspěchu, předmět kouzlu odolá.
+- *Volně ložené předměty:* Za každý takový předmět se hodí hod štěstí. Při výsledku 5 a 6, předmět kouzlu odolá.
+
+<img src="/assets/sep_line.png"/>
+
+### Ochraň před energií
+
+**Trvání:** L směn
+
+**Dosah:** Dotyk
+
+**Efekt:** Očarované stvoření je pokryto ochranným kouzlem, které jej chrání před *ohněm* nebo *mrazem* (vyber při sesílání). Ochrana je poskytnuta následující formou:
+
+- **Obyčejný zdroj:** Očarovanému stvoření nemůžou ublížit běžné přírodní projevy dané energie (například nemůže se spálit běžným ohněm či nezmrzne když skočí do mrazivého jezera).
+- **Záchranný hod:** Očarované stvoření má bonus *+2* k záchranným hodům proti magii a útokům stejné nátury jako je vybraná energie.
+- **Redukce poškození:** Obdržené poškození danou energií je sníženo o *1* za každou kostku poškození.
+
+<img src="/assets/sep_line.png"/>
+
+### Pravé vidění
+
+**Trvání:** 6 směn
+
+**Dosah:** sesilatel
+
+**Efekt:** Zaříkávač získá schopnost pravého vidění na vzdálenost 10 metrů kolem sebe. Dokáže tak vidět neviditelné a všechny magií dotčené subjekty vidí barveně světélkovat. Dokáže tím také rozpoznat jaká kouzla sesílají ostatní kouzelníci a kdo nebo co je jejich cílem.
+
+<img src="/assets/sep_line.png"/>
+
+### Ticho
+
+**Trvání:** 12 směn
+
+**Dosah:** 30 metrů
+
+**Efekt:** V zóně velikosti 5 začínající v dosahu kouzla vytvoří oblast, ve které nemůže vzniknout žádný zvuk. 
+
+**Očarovat stvoření:** Kouzlo lze seslat i přímo na nějaké stvoření. To se může pokusit o záchranu *MYS*. Pokud neuspěje, vyčarovaná zóna je pak centrovaná na daném stvoření a pohybuje se s ním. V případě úspěchu je efekt kouzla ve směs stejný ale zóna se s očarovaným stvořením nepohybuje.
+
+<img src="/assets/sep_line.png"/>
+
+### Zadrž osobu
+
+**Trvání:** 9 směn
+
+**Dosah:** 30 metrů
+
+**Efekt:** Kouzlo ovlivní mysl *1k4* osob, dle výběru zaříkávače, a paralyzuje je. Zasažené osoby se mohou pokusit o záchranu *MYS*, aby efektu odolali.
+
+**Paralýza:** Osoba je schopna vnímat ale nemůže se hýbat. Sesilatel může očarovanou osobu kdykoliv s paralýzy částečně (například aby mohla mluvit) nebo plně uvolnit.
+
+!!! note "Objasnění: Co je osoba?"
+	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
+
+<img src="/assets/sep_line.png"/>
+
+## Zázraky 3. třídy
+
+<img src="/assets/sep_line.png"/>
+
+### Bouře blesků
 
 **Trvání:** asd
 
@@ -42,11 +177,47 @@
 
 <img src="/assets/sep_line.png"/>
 
-## Zázraky 3. třídy
+### Obelži smrt
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
 
 <img src="/assets/sep_line.png"/>
 
-### ASD
+### Odolej jedu
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+### Růst přírody
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+### Sejmi kletbu
+
+**Trvání:** asd
+
+**Dosah:** asd
+
+**Efekt:** asd
+
+<img src="/assets/sep_line.png"/>
+
+### Zadrž přírodu
 
 **Trvání:** asd
 
