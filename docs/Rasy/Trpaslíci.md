@@ -4,7 +4,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-**Jazyky:** *Obecná řeč*  a *Trpasličtina* + běžné jazyky ve výši tvé dovednosti *Mysl*.
+**Jazyky:** *Obecná řeč* a *Trpasličtina* + běžné jazyky ve výši tvé dovednosti *Mysl*.
 
 **Rychlost:** 5 metrů
 
@@ -12,7 +12,7 @@
 
 **Speciální vlastnosti:** 
 
-- *Tvrdošíjný* - Máš extra 2 životy.
+- *Tvrdošíjný* - Máš extra 3 životy.
 - *Kamenná vytrvalost* - Máš bonus +2 k záchranným hodům na odolání toxinům a nemocem.
 
 <img src="/assets/sep_line.png"/>

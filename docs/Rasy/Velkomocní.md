@@ -4,7 +4,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-**Jazyky:** *Obecná řeč*  a *1 libovolný běžný jazyk* + běžné jazyky ve výši tvé dovednosti *Mysl*.
+**Jazyky:** *Obecná řeč* + běžné jazyky ve výši tvé dovednosti *Mysl*.
 
 **Rychlost:** 6 metrů
 

@@ -50,7 +50,7 @@ Pokud si mág přeje, při tvorbě postavy si může vybrat býti magusem na mí
 - **Životy:** Tvá kostka života je *1k6* a tedy tvé počáteční životy jsou *6+ODO*.
 - **Extra trénované zbraně:** Můžeš si vybrat další *2 zbraně* se kterými jsi trénovaný ale jejichž základní kostka poškození není vyšší než *k8*.
 - **Extra trénované brnění:** Jsi trénovaný v používání lehkých zbrojí a pukléřů.
-- **Omezená magie:** Magusové získávají odemykají nová kouzla stejným tempem jako mágové. Jejich množství magické energie je však daleko menší. Magus na první úrovni získává 1+MYS/2 (zaokrouhleno nahoru) magické energie. Mimo talenty však pak již získává +1 ME jen každou sudou úroveň.
+- **Omezená magie:** Magusové získávají odemykají nová kouzla stejným tempem jako mágové. Jejich množství magické energie je však daleko menší. Magus na první úrovni získává (1+MYS)/2 (zaokrouhleno nahoru) magické energie. Mimo talenty však pak již získává +1 ME jen každou sudou úroveň.
 
 ## Mág talenty
 
