@@ -148,7 +148,7 @@ Dovednosti jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==.
 Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a umírá. Jakékoliv vyléčené množství životů ji přivede zpět k sobě. Jakékoliv další obdržené zranění, ji v tomhle stavu ihned zabije.
 
 - **Bezvědomí:** Postava je bezvládná nemůže nic dělat.
-- **Smrt:** Na konci každého tahu své strany podstoupí postava *hod štěstí*. Pokud padne *1* postava umírá.
+- **Smrt:** Na začátku každého tahu své strany podstoupí postava *hod štěstí*. Pokud padne *1* postava umírá.
 - **Smrtelné zranění:** Postava má *-2 do všech ověřovacích a záchranných hodů* a pokud znovu ztratí všechny své životy, tak zemře. Tento stav se ukončí, když je postava vyléčena do plného zdraví a nerušeně si odpočine do dalšího dne.
 
 ### Obranné číslo (OČ)

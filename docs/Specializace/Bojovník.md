@@ -8,7 +8,7 @@ asd ==TODO: popis a art?==
 
 **Kostka zdraví:** 1k8
 
-**Trénované Zbraně:** Všechny
+**Trénované Zbraně:** Všechny běžné typy zbraní
 
 **Trénované Zbroje:** Všechny včetně štítů
 
