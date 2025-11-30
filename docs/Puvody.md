@@ -1,4 +1,4 @@
-# Původ
+# Původy
 
 Původ popisuje nějakou životní zkušenost vzniklou před začátkem hry. Výběrem původu, hráčská postava získá extra výbavu nebo nějaký jiný bonus. Hráč se může při hře pokusit aplikovat svůj původ na aktivity ve hře a tím získat nějaké bonusy (většinou v podobě výhody k ověřovacímu hodu).
 
