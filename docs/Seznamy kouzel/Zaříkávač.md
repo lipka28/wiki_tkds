@@ -14,7 +14,7 @@
 
 **Živý mrtvý**
 
-**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 12; **ZH:** *S:*12/ *O:*14 /*M:*16; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
+**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 12; **ZH:** 14; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
 
 !!! note "Objasnění: Co je osoba?"
 	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
@@ -37,7 +37,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Pulz mystické energie zažene Lx2 úrovní nemrtvých a démonů v oblasti velikosti 5, která začíná v dosahu kouzla. Zasažená stvoření mají nárok na záchranu proti magii, aby efektu odolali. Ovlivněná stvoření se po dobu 1 směny budou snažit vyhýbat sesilateli.
+**Efekt:** Pulz mystické energie zažene Lx2 úrovní nemrtvých a démonů v oblasti velikosti 5, která začíná v dosahu kouzla. Zasažená stvoření mají nárok na záchranný hod, aby efektu odolali. Ovlivněná stvoření se po dobu 1 směny budou snažit vyhýbat sesilateli.
 
 **Ovlivněné úrovně:** Stvoření jsou ovlivněny postupně od nejnižší úrovně po nejvyšší.
 
@@ -51,7 +51,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Zasáhne zvíře L nebo nižší úrovně v dosahu magickým rozkazem. Zasažená stvoření musí uspět v záchraně proti magii nebo se zadaným rozkazem řídit.
+**Efekt:** Zasáhne zvíře L nebo nižší úrovně v dosahu magickým rozkazem. Zasažená stvoření musí uspět v záchranném hodu nebo se zadaným rozkazem řídit.
 
 - **Omezení:** Funguje na obří verze zvířat ale ne na zvířata lidské či vyšší inteligence a fantastická monstra.
 - **Délka rozkazu:** Rozkaz nesmí být delší než 3 slova.
@@ -67,7 +67,7 @@
 
 **Efekt:** Vytvoří magickou kouli zeleno-modrého neškodného plamene, který neklidně poletuje kolem zaříkávače. Tento plamen poskytuje světlo stejné síly jako pochodeň do okolí 10 metrů.
 
-**Sežehnout:** Zaříkávač může při sesílání kouzla nebo kdykoliv během jeho trvání jako akci, kouzlo předčasně ukončit a tím s neklidného plamínku vyšlehnout zelený plamen na cíl v okolí 10-ti metrů. Cíl musí uspět v záchraně proti magii nebo je obalen tímto plamenem. Plamen nepůsobí poškození ale zažehnutý cíl svítí stejně jako vílí plamen po dobu 1 směny a nemůže se zneviditelnit nebo jinak maskovat svou polohu. Pokud je cíl nemrtví nebo démon navíc obdrží *1k8* poškození.
+**Sežehnout:** Zaříkávač může při sesílání kouzla nebo kdykoliv během jeho trvání jako akci, kouzlo předčasně ukončit a tím s neklidného plamínku vyšlehnout zelený plamen na cíl v okolí 10-ti metrů. Cíl musí uspět v záchranném hodu nebo je obalen tímto plamenem. Plamen nepůsobí poškození ale zažehnutý cíl svítí stejně jako vílí plamen po dobu 1 směny a nemůže se zneviditelnit nebo jinak maskovat svou polohu. Pokud je cíl nemrtví nebo démon navíc obdrží *1k8* poškození.
 
 <img src="/assets/sep_line.png"/>
 
@@ -108,7 +108,7 @@
 
 **Magické předměty:** Magické předměty mohou kouzlu odolat jedním z následujících způsobů:
 
-- *Předměty ve výbavě:* Držitel předmětu má nárok na záchranný hod proti magii za každý svůj ovlivněný předmět. V případě úspěchu, předmět kouzlu odolá.
+- *Předměty ve výbavě:* Držitel předmětu má nárok na záchranný hod za každý svůj ovlivněný předmět. V případě úspěchu, předmět kouzlu odolá.
 - *Volně ložené předměty:* Za každý takový předmět se hodí hod štěstí. Při výsledku 5 a 6, předmět kouzlu odolá.
 
 <img src="/assets/sep_line.png"/>
@@ -122,7 +122,7 @@
 **Efekt:** Očarované stvoření je pokryto ochranným kouzlem, které jej chrání před *ohněm* nebo *mrazem* (vyber při sesílání). Ochrana je poskytnuta následující formou:
 
 - **Obyčejný zdroj:** Očarovanému stvoření nemůžou ublížit běžné přírodní projevy dané energie (například nemůže se spálit běžným ohněm či nezmrzne když skočí do mrazivého jezera).
-- **Záchranný hod:** Očarované stvoření má bonus *+2* k záchranným hodům proti magii a útokům stejné nátury jako je vybraná energie.
+- **Záchranný hod:** Očarované stvoření má bonus *+2* k záchranným hodům proti efektům stejné nátury jako je vybraná energie.
 - **Redukce poškození:** Obdržené poškození danou energií je sníženo o *1* za každou kostku poškození.
 
 <img src="/assets/sep_line.png"/>
@@ -145,7 +145,7 @@
 
 **Efekt:** V zóně velikosti 5 začínající v dosahu kouzla vytvoří oblast, ve které nemůže vzniknout žádný zvuk. 
 
-**Očarovat stvoření:** Kouzlo lze seslat i přímo na nějaké stvoření. To se může pokusit o záchranu proti magii. Pokud neuspěje, vyčarovaná zóna je pak centrovaná na daném stvoření a pohybuje se s ním. V případě úspěchu je efekt kouzla ve směs stejný ale zóna se s očarovaným stvořením nepohybuje.
+**Očarovat stvoření:** Kouzlo lze seslat i přímo na nějaké stvoření. To se může pokusit o záchranný hod. Pokud neuspěje, vyčarovaná zóna je pak centrovaná na daném stvoření a pohybuje se s ním. V případě úspěchu je efekt kouzla ve směs stejný ale zóna se s očarovaným stvořením nepohybuje.
 
 <img src="/assets/sep_line.png"/>
 
@@ -155,7 +155,7 @@
 
 **Dosah:** 30 metrů
 
-**Efekt:** Kouzlo ovlivní mysl *1k4* osob, dle výběru zaříkávače, a paralyzuje je. Zasažené osoby se mohou pokusit o záchranu proti magii, aby efektu odolali.
+**Efekt:** Kouzlo ovlivní mysl *1k4* osob, dle výběru zaříkávače, a paralyzuje je. Zasažené osoby se mohou pokusit o záchranný hod, aby efektu odolali.
 
 **Paralýza:** Osoba je schopna vnímat ale nemůže se hýbat. Sesilatel může očarovanou osobu kdykoliv s paralýzy částečně (například aby mohla mluvit) nebo plně uvolnit.
 
@@ -176,7 +176,7 @@
 
 **Efekt:** Očaruje bouřkové mraky na obloze, umožňujíce sesilateli přivolávat blesky. Vyčarování kouzla vyžaduje aby na nebi již byli bouřkové mraky.
 
-**Přivolání blesku:** Během trvání kouzla může sesilatel jedenkrát za směnu jako akci. Přivolat blesk z nebe, který zasáhne stvoření v zóně velikosti 2 začínající v dosahu kouzla. Zasažená stvoření obdrží *5k12* poškození a mohou se pokusit uspět v záchraně proti magii a zredukovat tak poškození na polovinu.
+**Přivolání blesku:** Během trvání kouzla může sesilatel jedenkrát za směnu jako akci. Přivolat blesk z nebe, který zasáhne stvoření v zóně velikosti 2 začínající v dosahu kouzla. Zasažená stvoření obdrží *5k12* poškození a mohou se pokusit uspět v záchranném hodu a zredukovat tak poškození na polovinu.
 
 **Rozehnání mraků:** Kouzlo může být předčasně ukončeno, jsou-li bouřkové mraky na nebi rozehnány.
 
@@ -233,7 +233,7 @@
 
 **Dosah:** 30 metrů
 
-**Efekt:** Kouzlo ovlivní mysl L úrovní monster zvířecí inteligence nebo rostlinného původu, dle výběru zaříkávače a paralyzuje je. Zasažená monstra se mohou pokusit o záchranu proti magii, aby efektu odolali.
+**Efekt:** Kouzlo ovlivní mysl L úrovní monster zvířecí inteligence nebo rostlinného původu, dle výběru zaříkávače a paralyzuje je. Zasažená monstra se mohou pokusit o záchranný hod, aby efektu odolali.
 
 **Paralýza:** Monstrum je schopno vnímat ale nemůže se hýbat. Sesilatel může očarované monstrum kdykoliv s paralýzy částečně nebo plně uvolnit.
 
@@ -265,7 +265,7 @@
 
 **Zmije**
 
-**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 13; **ZH:** *S:*12/ *O:*14 /*M:*16; **Pohyb:** zem 6 metry; **Morálka:** Slabá (4 - 6); **Útoky:** +0 poškození 1k3 + jed; **Speciální:** Jed (Cíl musí uspět v záchraně proti smrti jinak obdrží *1* poškození každé kolo po dobu *1k6* kol)
+**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 13; **ZH:** 14; **Pohyb:** zem 6 metry; **Morálka:** Slabá (4 - 6); **Útoky:** +0 poškození 1k3 + jed; **Speciální:** Jed (Cíl musí uspět v záchranném hodu jinak obdrží *1* poškození každé kolo po dobu *1k6* kol)
 
 <img src="/assets/sep_line.png"/>
 

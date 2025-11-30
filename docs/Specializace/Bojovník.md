@@ -16,16 +16,16 @@ asd ==TODO: popis a art?==
 
 | úroveň | životy | Zásah |  ZH  |                        Ostatní                         |
 | :----- | :----: | :---: | :--: | :----------------------------------------------------: |
-| 1      | 8+ODO  |  +0   |  15  | Momentum; Nosič, potah ...; Mistrovství zbraně; Talent |
-| 2      |  +1k8  |  +0   |  15  |                         Talent                         |
-| 3      |  +1k8  |  +1   |  14  |                           -                            |
-| 4      |  +1k8  |  +1   |  14  |                         Talent                         |
-| 5      |  +1k8  |  +2   |  13  |                   1 dovednostní bod                    |
-| 6      |  +1k8  |  +2   |  13  |                         Talent                         |
-| 7      |  +1k8  |  +3   |  12  |                           -                            |
-| 8      |  +1k8  |  +3   |  12  |                         Talent                         |
-| 9      |  +1k8  |  +4   |  11  |                           -                            |
-| 10     |  +1k8  |  +4   |  11  |               1 dovednostní bod; Talent                |
+| 1      | 8+ODO  |  +0   |  14  | Momentum; Nosič, potah ...; Mistrovství zbraně; Talent |
+| 2      |  +1k8  |  +0   |  14  |                         Talent                         |
+| 3      |  +1k8  |  +1   |  13  |                           -                            |
+| 4      |  +1k8  |  +1   |  13  |                         Talent                         |
+| 5      |  +1k8  |  +2   |  12  |                   1 dovednostní bod                    |
+| 6      |  +1k8  |  +2   |  12  |                         Talent                         |
+| 7      |  +1k8  |  +3   |  11  |                           -                            |
+| 8      |  +1k8  |  +3   |  11  |                         Talent                         |
+| 9      |  +1k8  |  +4   |  10  |                           -                            |
+| 10     |  +1k8  |  +4   |  10  |               1 dovednostní bod; Talent                |
 
 ## Schopnosti povolání
 
@@ -96,7 +96,7 @@ Mistrně si ovládl další zbraň. Vyber si další typ zbraně pro *Mistrovstv
 
 **Opakování:** Nelze
 
-Při kritickém zásahu. Můžeš nepřítele, který není více jak dvakrát větší jak ty automaticky *shodit na zem* nebo odstrčit o *1k4 metrů* (Pokud by odstrčení mělo nepřítele okamžitě zabít, má nárok na záchranný hod proti smrti).
+Při kritickém zásahu. Můžeš nepřítele, který není více jak dvakrát větší jak ty automaticky *shodit na zem* nebo odstrčit o *1k4 metrů* (Pokud by odstrčení mělo nepřítele okamžitě zabít, má nárok na záchranný hod).
 
 <img src="/assets/sep_line.png"/>
 

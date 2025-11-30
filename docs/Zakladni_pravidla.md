@@ -50,13 +50,13 @@ Ať už je vaše dobrodružství založeno na prozkoumání kobek, rozplétání
 
 ### Dovednosti
 
-Každé stvoření ve hře disponuje 5-ti základními dovednostmi, které slouží především k modifikaci *ověřovacích hodů* a některých *záchranných hodů*. Dovednosti hráčských postav se pohybují v rozsahu *-4* až *+4*. U monster však mohou dosahovat daleko výše.
+Každé stvoření ve hře disponuje 5-ti základními dovednostmi, které slouží především k modifikaci *ověřovacích hodů*. Dovednosti hráčských postav se pohybují v rozsahu *-4* až *+4*. U monster však mohou dosahovat daleko výše.
 
 - **Síla (SIL):** Představuje hrubou sílu jedince. Používá se pro útoky zbraněmi na blízko, lezení, plavání nebo třeba určuje nosnost inventáře.
 - **Hbitost (HBI):**  Zahrnuje pohotovost, zručnost, rovnováhu a reflexy. Využívá se třeba při pokusech o udržení rovnováhy ale i aktivitách vyžadujících manuální zručnost. Používá se také pro útoky zbraní na dálku.
-- **Odolnost (ODO):** Představuje odolnost a zdraví jedince. Přičítá se k životům na první úrovni. Přičítá se také k záchranným hodům proti smrti.
+- **Odolnost (ODO):** Představuje odolnost a zdraví jedince. Přičítá se k životům na první úrovni.
 - **Mysl (MYS):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů. Také má vliv ně některé magické specializace a počet jazyků, které postava ovládá.
-- **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Inteligence se používá se u některých typů magie. Také se přičítá k záchranným hodům proti magii.
+- **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Inteligence se používá se u některých typů magie. Také se přičítá, jako magická odolnost, k záchranným hodům proti magii.
 
 **Ztráta a doplňování dovednostních bodů:** Některá monstra mají schopnost dočasně nebo i dlouhodobě snížit některé dovednostní body. Pokud však není nic co by doplnění dovednostních bodů bránilo. Dovednostní body se doplňují rychlostí *1 bod za přenocování* (předpokládá se řádné přenocování jako u doplňování života popsáno níže.
 
@@ -84,11 +84,9 @@ Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit vý
 
 ### Záchranné hody
 
-Pokud je postava vystavena negativnímu efektu jehož následku se lze vyhnout nebo jej aspoň zmírnit. Je ji umožněn záchranný hod. Vyhodnocení probíhá obdobně jako u ověřovacího hodu ale cílovou hodnotou není 12 ale hodnota ZH zaspané v deníku postavy (a získané z tabulky postupu specializace). Rozlišují se 3 základní záchranné hody:
+Pokud je postava vystavena negativnímu efektu jehož následku se lze vyhnout nebo jej aspoň zmírnit. Je ji umožněn záchranný hod. Vyhodnocení probíhá obdobně jako u ověřovacího hodu ale cílovou hodnotou není 12 ale hodnota ZH zaspané v deníku postavy (a získané z tabulky postupu specializace):
 
-- **Obecný:** Označován u monster jako "O". Je nejčastěji používaný obecný záchranný hod pro většinu situací. Není modifikovaný žádnou dovedností. Pokud efekt nespecifikuje typ záchranného hodu jedná se o obecný záchranný hod.
-- **Záchrana proti smrti:** Označován u monster jako "S". Je záchranný hod proti jedům a jiným efektům okamžitého zabití. Tento záchranný hod je modifikovaný dovedností *ODO*.
-- **Záchrana proti magii:** Označován u monster jako "M". Je záchranný hod proti naprosté většině kouzel a jiným magickým efektům. Tento záchranný hod je modifikovaný dovedností *SRD*.
+- **Magická odolnost (MO):** Většinou odpovídá dovednosti *SRD* postavy, ale může být modifikována předměty nebo schopnosti postavy. Přičítá se ke všem záchranným hodům proti magickým efektům (jako jsou efekty kouzel, hůlek či svitků)
 
 ### Hod štěstí
 

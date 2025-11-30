@@ -13,6 +13,6 @@
 **Speciální vlastnosti:** 
 
 - *Tvrdošíjný* - Máš extra 2 životy.
-- *Kamenná vytrvalost* - Máš výhodu na záchranné hody na odolání toxinům a nemocem.
+- *Kamenná vytrvalost* - Máš bonus +2 k záchranným hodům na odolání toxinům a nemocem.
 
 <img src="/assets/sep_line.png"/>
