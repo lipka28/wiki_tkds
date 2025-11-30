@@ -79,7 +79,7 @@
 
 **Efekt:** Z ruky zaříkávače začne vyzařovat magická energie, která léčí zranění jedním z následujících efektů:
 
-- **Léčba zranění:** Cíl si vyléčí *1k6+1* životů.
+- **Léčba zranění:** Cíl si vyléčí *1k8+1* životů.
 - **Vyléčení paralýzy:** Ukončí efekt dočasné paralýzy. 
 
 <img src="/assets/sep_line.png"/>
@@ -188,9 +188,9 @@
 
 **Dosah:** Dotyk
 
-**Efekt:** Dotčené mrtvé stvoření, které zanechalo ostatky a zemřelo na základě uděleného poškození (nikoliv jed) a které není mrtvé déle jak *3 kola* je navráceno k životu s *1 životem* a *smrtelným zraněním*.
+**Efekt:** Dotčené mrtvé stvoření, které zanechalo ostatky a zemřelo na základě uděleného poškození (nikoliv jed) a které není mrtvé déle jak *3 kola* je navráceno k životu s *1 životem* a *smrtelným zraněním*. Na rozdíl od běžného fungování *smrtelného zranění*. V tomhle případě se vyruší až týdenním odpočinkem.
 
-**Cena za podvod:** Smrt není rád připravena o jednu ze svých duší. Sesilatel za tento podvod obdrží *1k8* poškození a oživený permanentně ztratí *1* náhodný dovednostní bod.
+- **Cena za podvod:** Smrt není rád připravena o jednu ze svých duší. Sesilatel za tento podvod obdrží *1k8* poškození a oživený permanentně ztratí *1* náhodný dovednostní bod.
 
 <img src="/assets/sep_line.png"/>
 
@@ -269,43 +269,47 @@
 
 <img src="/assets/sep_line.png"/>
 
-### Ochranný kruh
+### Ochrana
 
-**Trvání:** asd
+**Trvání:** 12 směn
 
-**Dosah:** asd
+**Dosah:** Dotyk
 
-**Efekt:** asd
+**Efekt:** Vyplní povrch zóny velikosti 5 centrovanou na místo kde stojí zaříkávač magickými runami, které brání v průchodu nemrtvým, démonům ale i vyvolaným stvořením. I když tato stvoření nemohou chráněnou zónu prorazit, stále mohou do ní provádět útoky nebo třeba sesílat kouzla. Stvoření v zóně mají bonus *+2* k OČ a k záchranným hodům proti útokům a schopnostem těchto stvoření.
 
 <img src="/assets/sep_line.png"/>
 
 ### Přivolej zvířata
 
-**Trvání:** asd
+**Trvání:** 3 směny
 
-**Dosah:** asd
+**Dosah:** Sesilatel
 
-**Efekt:** asd
+**Efekt:** Přivolá L úrovní běžných zvířat z okolí zaříkávači na pomoc. Sesilatel si může vybrat specifický typ zvířat, které chce přivolat. Jaká zvířata jsou k dispozici záleží na místě, kde se zaříkávač nachází. Například v kobkách lze čerpat z místního obyvatelstva či tabulek náhodných setkání v dané lokalitě.
+
+- **Typ zvířat:** Jakékoliv běžné zvíře. Neplatí zvířata lidské či vyšší inteligence a fantastická monstra. Také neplatí na hmyz.
+- **Efekt na zvířata:** Zvířata přiběhnou na pomoc jak nejrychleji dovedou a během trvání kouzla poslouchají rozkazy sesilatele. I tak se však řídí pravidly morálky a je jich morálka nějakého zvířete zlomena, kouzlo na něj přestane účinkovat a zvíře uteče.
+- **Hejna:** Malá stvoření (jako například myši) lze spojovat do hejn a zvednout tak jejich efektivní úroveň a životy. Hejna mají stejné statistiky jako jednotlivec v daném hejnu, ale zvýšená úroveň umožňuje daleko větší rozsah životů. Cílené útoky na hejna probíhají s nevýhodou a hejna mohou útočit plošně. Některé kouzla fungující na jedince mohou také mít snížený nebo žádný efekt.
 
 <img src="/assets/sep_line.png"/>
 
 ### Vyléčit
 
-**Trvání:** asd
+**Trvání:** Okamžité
 
-**Dosah:** asd
+**Dosah:** 10 metrů
 
-**Efekt:** asd
+**Efekt:** Spirituální energie vyšlehne k subjektu a doplní mu 2k8+2 života. Pokud je cíl pod efektem dočasné paralýzy, tak i ta je vyléčena.
 
 <img src="/assets/sep_line.png"/>
 
 ### Vytvoř vodu
 
-**Trvání:** asd
+**Trvání:** Trvalé
 
-**Dosah:** asd
+**Dosah:** Dotyk
 
-**Efekt:** asd
+**Efekt:** V místě jenž se dotkne zaříkávač se prorve pramen vody. Ze kterého celkem vyteče tolik vody, co by stačila 20-ti osobám jako denní zásoba.
 
 <img src="/assets/sep_line.png"/>
 
@@ -313,13 +317,79 @@
 
 <img src="/assets/sep_line.png"/>
 
-### ASD
+### Navázat spojení
 
-**Trvání:** asd
+**Trvání:** 3 směny
 
-**Dosah:** asd
+**Dosah:** Sesilatel
 
-**Efekt:** asd
+**Efekt:** Zaříkávač se ponoří do hlubokého transu, který mu umožní komunikovat s vševědoucími duchy divočiny. Kouzlo musí být sesláno nejméně 6 kilometrů od civilizace v neponičené přírodě. 
+
+-  **Trans:** Po dobu trvání kouzla je sesilatel v hlubokém transu a nevnímá svět kolem sebe. Kouzlo vždy trvá svou plnou dobu trvání.
+- **Otázky a odpovědi:** Sesilatel může duchům divočiny položit 3 otázky na které dostane zaručeně pravdivé odpovědi formou Ano/Ne.
+- **Omezení použití:** Kouzlo lze úspěšně seslat jen první den v měsíci a nelze jej ten samý den seslat ještě jednou.
+
+<img src="/assets/sep_line.png"/>
+
+### Ovládni počasí
+
+**Trvání:** Různé
+
+**Dosah:** Nedozírné okolí
+
+**Efekt:** Kouzlo během 1 směny změní počasí v místě a okolí, kde zaříkávač tohle kouzlo seslal. Změněné počasí trvá minimálně 6 směn (pokud zvolené počasí není přirozené pro danou lokalitu) nebo do další přirozené změny počasí. Kouzlo buďto počasí uklidní nebo změní (klidně až do formy kalamit) dle sesilatelovi představy. 
+
+- **Efekt počasí:** Vyhodnocení efektů změněného počasí záleží na PJ. Déšť může způsobit obtížný terén a nevýhodu na útoky na dálku. Silný vítr může útoky na dálku kompletně znemožnit. Sníh nebo mlha mohou zhoršit viditelnost a vichřice může trhat střechy.
+- **Omezení:** Kouzlo lze seslat pouze venku pod otevřenou oblohou.
+
+<img src="/assets/sep_line.png"/>
+
+### Oživ mrtvého
+
+**Trvání:** Okamžité
+
+**Dosah:** Dotyk
+
+**Efekt:** Grandiózní hodinu trvající rituál, který navrátí mrtvého k životu. Rituál musí být proveden na místě magického významu (např. katedrála nějakého boha či druidský kruh kamení v lesích) a vyžaduje magické regenty v celkové hodnotě 2000 šilinků. 
+
+- **Omezení:** K oživení mrtvého jsou třeba jeho ostatky a jeho smrt se nesměla stát před více jak 30-ti dny.
+- **Slabost oživeného:** Oživené stvoření je navráceno k životu s *1 životem* a *smrtelným zraněním*. Na rozdíl od běžného fungování *smrtelného zranění*. V tomhle případě se vyruší až týdenním odpočinkem.
+
+<img src="/assets/sep_line.png"/>
+
+### Pohni zemí
+
+**Trvání:** 6 směn
+
+**Dosah:** 40 metrů
+
+**Efekt:** Zaříkávač může během trvání kouzla přesouvat (přelévat) hlínu v dosahu dle vlastní libosti. Rychlost přesouvání je 10 metrů za směnu.
+
+<img src="/assets/sep_line.png"/>
+
+### Vytvoř jídlo
+
+**Trvání:** Trvalé
+
+**Dosah:** 2 metry
+
+**Efekt:** Kolem zaříkávače se zjeví výborné jídlo stačící pro nakrmení 20-ti osob.
+
+<img src="/assets/sep_line.png"/>
+
+### Zeď z trní
+
+**Trvání:** L směn
+
+**Dosah:** 20 metrů
+
+**Efekt:** Vytvoří stěnu neprůchodného trní libovolného tvaru a velikosti za předpokladu, že celkový objem stěny nepřesáhne *100 metrů krychlových*.
+
+- **Umístění:** Stěna musí na něčem stát (třeba na zemi).
+- **Objekty a stvoření v cestě:** Je li stěna vytvořena na místě, kde se nachází objekt či stvoření, tak je daný subjekt obalený v trnech. Zasažené stvoření obdrží 1k8+(20-OČ) poškození.
+- **Protlačit se:** Stvoření mohou stěnou projít jako obtížným terénem ale obdrží 1k8+(20-OČ) poškození za každé 2 metry vzdálenosti.
+- **Prosekat se:** Trním se lze prosekat sečnou zbraní rychlostí 1 metr za směnu.
+- **Oheň:** Stěna je imunní proti běžnému ohni, ale může být zničena magickým ohněm (vždy je zničen jen zasažený úsek zdi nikoliv celá stěna).
 
 <img src="/assets/sep_line.png"/>
 
