@@ -29,13 +29,16 @@ asd ==TODO: popis a art?==
 
 ## Schopnosti povolání
 
-### asd
+### Gausovo oko
 
-Oko - a whatevr to přináší za bonusy
+Oko - a whatevr to přináší za bonusy (také bude dávat bonus k hit)
 
-### asd
+- Hit bonus (no damage bonus) na nepřátele v dosahu svého oka
+- See magic (10 metrů)
 
-Magická odolnost
+### Ochranné tetování
+
++ +2 MO a snížení efektivity kouzel na tebe o polovinu problém s používáním magických předmětů?
 
 ### asd
 
@@ -56,4 +59,15 @@ Optional - členství v řádu (přístup k jejich zdrojům a speciální výbav
 Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
+
+- break magic
+- Adv on magic saves
+- žadný postih na používání magických předmětů
+- to hit progress
+- Extended see magic 20 metrů
+- Identify magic (pomocí vize)
+- Quick break (break magic mimo akci)
+- Two weapon fighting
+- Advanced vision (true sight v oku)
+- Přetrhnout magii (dočasně vypni schopnost stvoření používat magii)
 
