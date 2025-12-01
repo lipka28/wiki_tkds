@@ -16,7 +16,7 @@ asd ==TODO: popis a art?==
 
 | úroveň | životy | Zásah |  ZH  |                        Ostatní                         |
 | :----- | :----: | :---: | :--: | :----------------------------------------------------: |
-| 1      | 8+ODO  |  +0   |  14  | Momentum; Nosič, potah ...; Mistrovství zbraně; Talent |
+| 1      | 8+VYT  |  +0   |  14  | Momentum; Nosič, potah ...; Mistrovství zbraně; Talent |
 | 2      |  +1k8  |  +0   |  14  |                         Talent                         |
 | 3      |  +1k8  |  +1   |  13  |                           -                            |
 | 4      |  +1k8  |  +1   |  13  |                         Talent                         |
@@ -35,7 +35,7 @@ Jedenkrát za tah, když zabiješ nepřítele. Získáš *momentum*. To se dá v
 
 ### Nosič, potah ...
 
-Tvá nosnost je navýšena o tvou *Odolnost* (pokud kladná).
+Tvá nosnost je navýšena o tvou *Vytrvalost* (pokud kladná).
 
 ### Mistrovství zbraně
 
@@ -156,7 +156,7 @@ Osvojil sis metodu jak kosti nepřátele po skupinách. Pokud ve svém tahu spl�
 
 **Opakování:** ???
 
-Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
+Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PK vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 

@@ -16,7 +16,7 @@ asd ==TODO: popis a art?==
 
 | úroveň | životy | Zásah |  ZH  |          Ostatní          |
 | :----- | :----: | :---: | :--: | :-----------------------: |
-| 1      | 6+ODO  |  +0   |  15  |   asd; asd; asd; Talent   |
+| 1      | 6+VYT  |  +0   |  15  |   asd; asd; asd; Talent   |
 | 2      |  +1k6  |  +0   |  14  |          Talent           |
 | 3      |  +1k6  |  +1   |  14  |             -             |
 | 4      |  +1k6  |  +1   |  13  |          Talent           |
@@ -53,7 +53,7 @@ Nejspíš two weapon fighting
 
 **Opakování:** ???
 
-Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
+Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PK vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 

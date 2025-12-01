@@ -53,6 +53,6 @@ Získáváš extra 2 životy.
 
 **Opakování:** ???
 
-Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
+Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PK vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>

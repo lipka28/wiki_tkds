@@ -16,7 +16,7 @@ asd ==TODO: popis a art?==
 
 | úroveň | životy | Zásah |  ZH  |                  Ostatní                  |
 | :----- | :----: | :---: | :--: | :---------------------------------------: |
-| 1      | 4+ODO  |  +0   |  15  | asd; sad; asd; Požehnání 1. třídy; Talent |
+| 1      | 4+VYT  |  +0   |  15  | asd; sad; asd; Požehnání 1. třídy; Talent |
 | 2      |  +1k4  |  +0   |  15  |                  Talent                   |
 | 3      |  +1k4  |  +1   |  14  |            Požehnání 2. třídy             |
 | 4      |  +1k4  |  +1   |  14  |                  Talent                   |
@@ -68,7 +68,7 @@ Zaříkávač se umí napojit na duchy divočiny a převzít nebo darovat někte
 
 Pokud si zaříkávač přeje, při tvorbě postavy si může vybrat býti drápem na místo zaříkávače. Drápové jsou šamanističtí válečnící schopní ne jen v magii ale i v boji. Pokud si vybereš být drápem, platí pro tebe následující modifikace:
 
-- **Životy:** Tvá kostka života je *1k6* a tedy tvé počáteční životy jsou *6+ODO*.
+- **Životy:** Tvá kostka života je *1k6* a tedy tvé počáteční životy jsou *6+VYT*.
 - **Extra trénované zbraně:** Můžeš si vybrat další *2 zbraně* se kterými jsi trénovaný ale jejichž základní kostka poškození není vyšší než *k8*.
 - **Extra trénované brnění:** Jsi trénovaný v používání lehkých zbrojí a pukléřů.
 - **Omezené zázraky:** Dráp připravuje zázraky stejným způsobem jako zaříkávač, ale disponuje jen jedním zázrakem pro každou přístupnou třídu kouzel.
@@ -212,6 +212,6 @@ Získáváš výhodu na všechny ověřovací hody spojené s medicínou. Pokud 
 
 **Opakování:** ???
 
-Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
+Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PK vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>

@@ -394,7 +394,7 @@
 
 **Efekt:** Mág sešle elektrický výboj, který cestuje po rovné linii až do vzdálenosti dosahu kouzla. Zasáhne všechno v cestě za Lk6 poškození. Zasažené subjekty mohou uspět v záchranném hodu a tím poškození snížit na polovinu.
 
-**Odražení:** Pokud blesk cestou narazí na pevný povrch, tak se odrazí. Snažíc se dodržet pravidlo "úhel dopadu se rovná úhlu odrazu". Pokud však ze situace není jasné kam se blesk odrazí nebo se hráč s PJ neshodnou. Blesk se odrazí zpátky k sesilateli. Každé stvoření v cestě však může být zasaženou pouze jednou.
+**Odražení:** Pokud blesk cestou narazí na pevný povrch, tak se odrazí. Snažíc se dodržet pravidlo "úhel dopadu se rovná úhlu odrazu". Pokud však ze situace není jasné kam se blesk odrazí nebo se hráč s PK neshodnou. Blesk se odrazí zpátky k sesilateli. Každé stvoření v cestě však může být zasaženou pouze jednou.
 
 <img src="/assets/sep_line.png"/>
 
@@ -669,7 +669,7 @@
 
 **Nesplnitelné nebo smrtelné úkoly:** Je-li kouzlem zadán nesplnitelný nebo přímo smrtelný úkol (např. podřež si krk). Kouzlo se odrazí na sesilatele.
 
-**Neplnění úkolu:** Pokud se stvoření svým chováním snaží odporovat svému údělu. Utrpí postupně zhoršující se postihy (dle uvážení PJ) a nakonec zemře.
+**Neplnění úkolu:** Pokud se stvoření svým chováním snaží odporovat svému údělu. Utrpí postupně zhoršující se postihy (dle uvážení PK) a nakonec zemře.
 
 **Odstranění:** Kouzlo *Rozptyl magii* nemá na *Geas* žádný efekt. Lze jej však odstranit kouzlem  *Manipuluj osud* pokud je sesilatel aspoň o *2 úrovně vyšší*. Alternativně, je-li *Geas* konečně splnitelný, dá se ukončit jeho splněním.
 
@@ -723,7 +723,7 @@
 
 **Cílem je stvoření:** Cílené stvoření má nárok na záchranný hod, aby kouzlu odolalo.
 
-**Cílem je objekt:** Jaké objekty či jejich části mohou být zasaženy kouzlem je čistě v režii PJ (např.: kámen, strom, příď lodi atd.). 
+**Cílem je objekt:** Jaké objekty či jejich části mohou být zasaženy kouzlem je čistě v režii PK (např.: kámen, strom, příď lodi atd.). 
 
 <img src="/assets/sep_line.png"/>
 

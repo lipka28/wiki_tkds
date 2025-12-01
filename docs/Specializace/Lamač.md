@@ -16,7 +16,7 @@ asd ==TODO: popis a art?==
 
 | úroveň | životy | Zásah |  ZH  |          Ostatní          |
 | :----- | :----: | :---: | :--: | :-----------------------: |
-| 1      | 8+ODO  |  +0   |  14  |   asd; asd; asd; Talent   |
+| 1      | 8+VYT  |  +0   |  14  |   asd; asd; asd; Talent   |
 | 2      |  +1k8  |  +0   |  14  |          Talent           |
 | 3      |  +1k8  |  +1   |  13  |             -             |
 | 4      |  +1k8  |  +1   |  13  |          Talent           |
@@ -56,7 +56,7 @@ Optional - členství v řádu (přístup k jejich zdrojům a speciální výbav
 
 **Opakování:** ???
 
-Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
+Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PK vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 

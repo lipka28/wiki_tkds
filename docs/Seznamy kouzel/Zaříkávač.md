@@ -339,7 +339,7 @@
 
 **Efekt:** Kouzlo během 1 směny změní počasí v místě a okolí, kde zaříkávač tohle kouzlo seslal. Změněné počasí trvá minimálně 6 směn (pokud zvolené počasí není přirozené pro danou lokalitu) nebo do další přirozené změny počasí. Kouzlo buďto počasí uklidní nebo změní (klidně až do formy kalamit) dle sesilatelovi představy. 
 
-- **Efekt počasí:** Vyhodnocení efektů změněného počasí záleží na PJ. Déšť může způsobit obtížný terén a nevýhodu na útoky na dálku. Silný vítr může útoky na dálku kompletně znemožnit. Sníh nebo mlha mohou zhoršit viditelnost a vichřice může trhat střechy.
+- **Efekt počasí:** Vyhodnocení efektů změněného počasí záleží na PK. Déšť může způsobit obtížný terén a nevýhodu na útoky na dálku. Silný vítr může útoky na dálku kompletně znemožnit. Sníh nebo mlha mohou zhoršit viditelnost a vichřice může trhat střechy.
 - **Omezení:** Kouzlo lze seslat pouze venku pod otevřenou oblohou.
 
 <img src="/assets/sep_line.png"/>

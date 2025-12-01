@@ -4,7 +4,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-**Jazyky:** *Obecná řeč* a *Pulčický hantec* + běžné jazyky ve výši tvé dovednosti *Mysl*.
+**Jazyky:** *Obecná řeč* a *Pulčický hantec* + běžné jazyky ve výši tvé dovednosti *MYS*.
 
 **Rychlost:** 5 metrů
 

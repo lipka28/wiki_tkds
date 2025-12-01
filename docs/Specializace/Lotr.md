@@ -16,7 +16,7 @@ asd ==TODO: popis a art?==
 
 | úroveň | životy | Zásah |  ZH  |                 Ostatní                 |
 | :----- | :----: | :---: | :--: | :-------------------------------------: |
-| 1      | 6+ODO  |  +0   |  15  | Přepadení; Zlodějství; Dvoj-řeč; Talent |
+| 1      | 6+VYT  |  +0   |  15  | Přepadení; Zlodějství; Dvoj-řeč; Talent |
 | 2      |  +1k6  |  +0   |  14  |                 Talent                  |
 | 3      |  +1k6  |  +1   |  14  |                    -                    |
 | 4      |  +1k6  |  +1   |  13  |                 Talent                  |
@@ -139,7 +139,7 @@ Máš *výhodu* při hodu na iniciativu.
 
 Pokud máš volnou ruku, můžeš se v rámci svého útoku na blízko pokusit úspěšným ověřením *HBI* o jednu z následujících aktivit:
 
--   **Sabotáž:** Naruší funkčnost mechanického zařízení (např kuše), štítu nebo zbroje co má cíl na sobě či v rukách. Efekt sabotáže záleží na domluvě s PJ. Většinou se však jedná o nějaký postih (např -1 do OČ nebo nepoužitelnost kuše) při používání daného předmětu, dokud není obětována akce na nápravu sabotáže.
+-   **Sabotáž:** Naruší funkčnost mechanického zařízení (např kuše), štítu nebo zbroje co má cíl na sobě či v rukách. Efekt sabotáže záleží na domluvě s PK. Většinou se však jedná o nějaký postih (např -1 do OČ nebo nepoužitelnost kuše) při používání daného předmětu, dokud není obětována akce na nápravu sabotáže.
 -   **Ukrást:** Ukradneš předmět, který je součást výbavy cíle a není větší jak 1 slot. Cíl nesmí předmět držet v ruce.
 -   **Umístit:** Podobně jako ukrást, ale předmět umístíš do výbavy cíle. Nevyžaduje volnou ruku, jako ostatní možnosti avšak musíš mít umisťovaný předmět v ruce. 
 
@@ -171,7 +171,7 @@ Tvé házení nožů není postihnuto v rámci *ohrožení*. Navíc pokud máš 
 
 **Opakování:** ???
 
-Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
+Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PK vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 

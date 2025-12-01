@@ -2,7 +2,7 @@
 
 <img src="/assets/char_creation.webp"/>
 
-Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš statistiky své postavy. Alternativně můžeš použít nějaký z *deníků postavy*, které najdeš [zde](https://docs.google.com/spreadsheets/d/1dWkjRkZ4v823rt_PWX0bQu6T31rGZKwwI4chJiuFY7w/edit?usp=sharing). Jak budeš připraven, následuj tyto kroky.
+Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš vlastnosti své postavy. Alternativně můžeš použít digitální *deník postavy*, který najdeš [zde](https://docs.google.com/spreadsheets/d/1dWkjRkZ4v823rt_PWX0bQu6T31rGZKwwI4chJiuFY7w/edit?usp=sharing). Jak budeš připraven, následuj tyto kroky.
 
 ## 1. Rasa, původ a specializace
 
@@ -13,18 +13,19 @@ Začni tím, že si vybereš rasu, původ a specializaci. Prozatím si jen pozna
 Rozděl si následující hodnoty mezi své dovednosti. Ke každé přiřaď jednu hodnotu. Při rozdělování mysli na to, co může potřebovat tvá specializace.
 
 - **Hodnoty k rozdělení:** *3*, *2*, *1*, *0*, *-1*
+- **Aplikuj modifikace za rasu:** Pokud tvůj výběr rasy nějak modifikuje tvé dovednosti, tak je připočítej.
 
 ## 2. Doplnění schopností
 
 Poznač si schopnosti a jiné statistiky obsažené ve výběrech co si udělal v předchozím kroku. Pokud některá z těchto voleb vyžaduje, aby si učinil další volbu, udělej tak. Na konci tohohle procesu by si měl mít ve směs vyplněný deník postavy bez jména, popisu, výbavy, peněz, útoků a obranného čísla.
 
 -   **Úroveň:** Pokud se vaše skupina nedomluvila jinak. Tvá úroveň je 1 a máš 0 zkušenostních bodů.
--   **Životy:** Tvé počáteční životy jsou dány maximální hodnotou na kostce danou tvou specializací a modifikované tvou *Odolností*.
--   **Talenty:** Na první úrovni máš také možnost si vybrat 1 talent. Pokaždé, když dostaneš možnost si vybrat talent, tak můžeš vybírat buďto z talentů své specializace a nebo [obecných talentů](/Talenty).
+-   **Životy:** Tvé počáteční životy jsou dány maximální hodnotou na *kostce života danou tvou specializací* a modifikované tvou *VYT*.
+-   **Talenty:** Na první úrovni máš také možnost si vybrat *1 talent* (pokud jsi člověk tak 2). Pokaždé když dostaneš možnost si vybrat talent, tak můžeš vybírat buďto z talentů své specializace a nebo [obecných talentů](/Talenty).
 
 ## 3. Výbava
 
-Nakonec si vyber svou výbavu. Každá postava má nosnost *10 + Síla slotů* (pokud tvé schopnosti či talenty nespecifikují jinak) a začíná hru s *Výbavou dobrodruha* (popsána níže) a *60 šilinků* za které si může koupit co chce. Více informací o výbavě a předměty, které lze nakupovat najdete [zde](/Vybaveni).
+Nakonec si nakup svou výbavu. Každá postava má nosnost *10 + SIL slotů* (pokud tvé schopnosti či talenty nespecifikují jinak) a začíná hru s *Výbavou dobrodruha* (popsána níže) a *60 šilinků* za které si může koupit co chce. Více informací o výbavě a možných předmětech [zde](/Vybaveni).
 
 **Výbava dobrodruha:**
 

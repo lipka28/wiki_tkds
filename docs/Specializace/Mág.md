@@ -16,7 +16,7 @@ asd ==TODO: popis a art?==
 
 | úroveň | životy |  ME   | Zásah |  ZH  |                           Ostatní                            |
 | :----- | :----: | :---: | :---: | :--: | :----------------------------------------------------------: |
-| 1      | 4+ODO  | 1+MYS |  +0   |  15  | Magika; Učení kouzel ze svitků; Magus (volitelné); Kouzla 1. třídy; Talent |
+| 1      | 4+VYT  | 1+MYS |  +0   |  15  | Magika; Učení kouzel ze svitků; Magus (volitelné); Kouzla 1. třídy; Talent |
 | 2      |  +1k4  |  +1   |  +0   |  15  |                            Talent                            |
 | 3      |  +1k4  |  +1   |  +1   |  14  |                       Kouzla 2. třídy                        |
 | 4      |  +1k4  |  +1   |  +1   |  14  |                            Talent                            |
@@ -47,7 +47,7 @@ Mág může strávit *volnočasovou aktivitu* studováním svitku za účelem na
 
 Pokud si mág přeje, při tvorbě postavy si může vybrat býti magusem na místo mága. Magusové jsou speciální mágové, kteří sice nejsou tak dobří v magii ale vynahrazují to svou schopností boje. Pokud si vybereš být magusem, platí pro tebe následující modifikace:
 
-- **Životy:** Tvá kostka života je *1k6* a tedy tvé počáteční životy jsou *6+ODO*.
+- **Životy:** Tvá kostka života je *1k6* a tedy tvé počáteční životy jsou *6+VYT*.
 - **Extra trénované zbraně:** Můžeš si vybrat další *2 zbraně* se kterými jsi trénovaný ale jejichž základní kostka poškození není vyšší než *k8*.
 - **Extra trénované brnění:** Jsi trénovaný v používání lehkých zbrojí a pukléřů.
 - **Omezená magie:** Magusové získávají odemykají nová kouzla stejným tempem jako mágové. Jejich množství magické energie je však daleko menší. Magus na první úrovni získává (1+MYS)/2 (zaokrouhleno nahoru) magické energie. Mimo talenty však pak již získává +1 ME jen každou sudou úroveň.
@@ -117,7 +117,7 @@ Pokaždé když sešleš kouzlo 2. nebo vyšší třídy získáš dočasnou mag
 
 Jsi zběhlý ve výrobě magických předmětů, lektvarů a kdo ví čeho všeho dalšího. Můžeš investovat své peníze, čas a třeba i jiné komponenty do výzkumu nových kouzel, magických rituálů, výroby magických předmětů a to jak jednorázových tak trvalých.
 
-- **Extra předmět:** Při získání tohohle talentu si ve spolupráci s PJ vyber nebo vymysli magický předmět, který zdarma získáš (předmět by měl být adekvátní tvé úrovni). 
+- **Extra předmět:** Při získání tohohle talentu si ve spolupráci s PK vyber nebo vymysli magický předmět, který zdarma získáš (předmět by měl být adekvátní tvé úrovni). 
 
 <img src="/assets/sep_line.png"/>
 
@@ -179,7 +179,7 @@ Pokud nejsi *vyčerpaný*, Tak se můžeš vyčerpat a seslat kouzlo na jehož s
 
 Jednou za kolo můžeš seslat Rozptyl magii na nepřítele, který se zrovna pokouší seslat kouzlo a tím jeho kouzlo vyrušit. 
 
-- **Podmínky proti-kouzla:** Platí stejná pravidla jako popsána v kouzlu *Rozptyl magii*. Jediný rozdíl je cena kouzla. Ta je *minimálně 3* ME ale může být více. Mág musí odhadnout (na základě manifestací kouzla) kolik ME stojí kouzlo, které protivník sesílá a zaplatit za své proti-kouzlo stejně nebo více. Jinak proti-kouzlo selže a použitá ME je ztracena. Pokud je mág používající proti-kouzlo pod efektem kouzla *Pravé vidění*, PJ mu přesně sedlí, kolik ME je třeba zaplatit.
+- **Podmínky proti-kouzla:** Platí stejná pravidla jako popsána v kouzlu *Rozptyl magii*. Jediný rozdíl je cena kouzla. Ta je *minimálně 3* ME ale může být více. Mág musí odhadnout (na základě manifestací kouzla) kolik ME stojí kouzlo, které protivník sesílá a zaplatit za své proti-kouzlo stejně nebo více. Jinak proti-kouzlo selže a použitá ME je ztracena. Pokud je mág používající proti-kouzlo pod efektem kouzla *Pravé vidění*, PK mu přesně sedlí, kolik ME je třeba zaplatit.
 
 <img src="/assets/sep_line.png"/>
 
@@ -199,7 +199,7 @@ Získáváš bonus *+1* ke všem tvým útokům zbraněmi na blízko a zbraněmi
 
 **Opakování:** ???
 
-Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PJ vytvořit vlastní talent.
+Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si ve spolupráci s PK vytvořit vlastní talent.
 
 <img src="/assets/sep_line.png"/>
 

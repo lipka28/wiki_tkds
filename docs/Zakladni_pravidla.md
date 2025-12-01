@@ -10,7 +10,7 @@ Ke hře jsou zapotřebí minimálně následující nástroje.
 
 **Tužka:** Nebo jiný způsob zapisování poznámek do deníku postavy.
 
-**Pán jeskyně (PJ):** Ochotný hráč, který si pro ostatní připraví dobrodružství a sám na sebe vezme, často na první pohled děsivou, roli průvodce hrou.
+**Pán kobky (PK):** Ochotný hráč, který si pro ostatní připraví dobrodružství a sám na sebe vezme, často na první pohled děsivou, roli průvodce hrou.
 
 ### Kostky
 
@@ -38,11 +38,11 @@ Stejně jako spousta dalších stolních her. I tato používá sadu zvláštně
 
 Ať už je vaše dobrodružství založeno na prozkoumání kobek, rozplétání politických intrik v městském státě a nebo chcete prozkoumávat hloubky vesmíru. Hra se vždy řídí následující herní smyčkou.
 
-1. **Popis:** Strážce popíše situaci ve které se hráčské postavy nachází. Prostředí, smyslové vjemy, objekty, monstra a jiné zajímavosti.
-2. **Doptávání:** Hráči se doptají strážce na nejasnosti, aby mohli udělat dobře informované rozhodnutí.
+1. **Popis:** Pán kobky popíše situaci ve které se hráčské postavy nachází. Prostředí, smyslové vjemy, objekty, monstra a jiné zajímavosti.
+2. **Doptávání:** Hráči se doptají pána kobky na nejasnosti, aby mohli udělat dobře informované rozhodnutí.
 3. **Akce:** Když hráči usoudí, že mají všechny potřebné informace. Vžijí se do svých postav a rozhodnou se jak budou jejich postavy v nastíněné situaci reagovat a co budou dělat.
-4. **Rozhodnutí strážce:** Na základě popisů od hráčů se strážce rozhodne jak bude jejich akce vyhodnocovat.
-5. **Rozřešení:** Akce postav jsou rozřešeny. Pokud je třeba, kostky jsou vrženy. Strážce popíše následky těchto akci a co se děje dál. Zpět na první krok. 
+4. **Rozhodnutí pána kobky:** Na základě popisů od hráčů se pán kobky rozhodne jak bude jejich akce vyhodnocovat.
+5. **Rozřešení:** Akce postav jsou rozřešeny. Pokud je třeba, kostky jsou vrženy. Pán kobky popíše následky těchto akci a co se děje dál. Zpět na první krok. 
 
 <img src="/assets/sep_line.png"/>
 
@@ -50,13 +50,13 @@ Ať už je vaše dobrodružství založeno na prozkoumání kobek, rozplétání
 
 ### Dovednosti
 
-Každé stvoření ve hře disponuje 5-ti základními dovednostmi, které slouží především k modifikaci *ověřovacích hodů*. Dovednosti hráčských postav se pohybují v rozsahu *-4* až *+4*. U monster však mohou dosahovat daleko výše.
+Hráčské postavy disponují 5-ti základními dovednostmi, které slouží především k modifikaci *ověřovacích hodů*. Dovednosti se pohybují většinou v rozsahu *-4* až *+4*. Mohou se však některými speciálními schopnostmi či magií dostat i výše.
 
-- **Síla (SIL):** Představuje hrubou sílu jedince. Používá se pro útoky zbraněmi na blízko, lezení, plavání nebo třeba určuje nosnost inventáře.
-- **Hbitost (HBI):**  Zahrnuje pohotovost, zručnost, rovnováhu a reflexy. Využívá se třeba při pokusech o udržení rovnováhy ale i aktivitách vyžadujících manuální zručnost. Používá se také pro útoky zbraní na dálku.
-- **Odolnost (ODO):** Představuje odolnost a zdraví jedince. Přičítá se k životům na první úrovni.
-- **Mysl (MYS):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů. Také má vliv ně některé magické specializace a počet jazyků, které postava ovládá.
-- **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Inteligence se používá se u některých typů magie. Také se přičítá, jako magická odolnost, k záchranným hodům proti magii.
+- **Síla (SIL):** Představuje hrubou sílu jedince. Používá se pro hody na zásah zbraněmi na blízko, lezení, plavání nebo třeba modifikuje nosnost inventáře.
+- **Hbitost (HBI):**  Zahrnuje pohotovost, zručnost, rovnováhu a reflexy. Využívá se třeba při pokusech o udržení rovnováhy ale i aktivitách vyžadujících manuální zručnost. Používá se také pro hody na zásah zbraní na dálku a někdy se přičítá k obrannému číslu.
+- **Vytrvalost (VYT):** Představuje odolnost, vytrvalost a zdraví jedince. Přičítá se k životům na první úrovni.
+- **Mysl (MYS):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů. Také má vliv na některé magické specializace a počet jazyků, které postava ovládá.
+- **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Inteligence, používá se u některých typů magie. Také se přičítá, jako magická odolnost k záchranným hodům proti magickým efektům.
 
 **Ztráta a doplňování dovednostních bodů:** Některá monstra mají schopnost dočasně nebo i dlouhodobě snížit některé dovednostní body. Pokud však není nic co by doplnění dovednostních bodů bránilo. Dovednostní body se doplňují rychlostí *1 bod za přenocování* (předpokládá se řádné přenocování jako u doplňování života popsáno níže.
 
@@ -64,8 +64,8 @@ Každé stvoření ve hře disponuje 5-ti základními dovednostmi, které slou�
 
 Pokud se postava pokouší o *riskantní akci s potencionálními negativními následky*, často musí podstoupit ověřovací hod. Ten probíhá jako hod *1k20* + Hodnota ověřované dovednosti. Výsledek se pak musí být větší nebo rovno *12*.
 
-- **Tajný hod:** Někdy může být třeba, aby hráč nevěděl zda něco provedlo úspěšně nebo ne, dokud neuběhne určitý čas. V takový případech lze použít tajný hod, který háže PJ s hráčovými modifikátory a výsledek mu prozradí až nastane správný čas.
-- **Obtížnost hodu:** PJ může ovlivnit obtížnost hodu uvalením výhody či nevýhody na jeho provedení.
+- **Tajný hod:** Někdy může být třeba, aby hráč nevěděl zda něco provedlo úspěšně nebo ne, dokud neuběhne určitý čas. V takový případech lze použít tajný hod, který háže PK s hráčovými modifikátory a výsledek mu prozradí až nastane správný čas.
+- **Obtížnost hodu:** PK může ovlivnit obtížnost hodu uvalením výhody či nevýhody na jeho provedení.
 
 **Přirozených 1 a přirozených 20**
 
@@ -79,14 +79,14 @@ Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit vý
 - **Nevýhoda:** Při nevýhodě se pak hází 2k20 na místo 1k20 a použije se horší výsledek.
 - **Souběh:** Souběh výhody a nevýhody se vzájemně vyruší. Výhoda s výhodou pak utvoří automatický úspěch a nevýhoda s nevýhodou zase neúspěch.
 
-!!! note "Rada pro PJ: Kdy neházet"
+!!! note "Rada pro PK: Kdy neházet"
 	Obecně je dobré se řídit pravidlem: *"Čas, nástroje a znalosti"*. Pokud postava splňuje všechny tyto tři podmínky a to že, není pod časovým tlakem, má potřebné nástroje a znalosti. A reálně nehrozí žádný negativní následek za neúspěch (ztráta směny v kobce je dostatečný následek.) Může uspět bez potřeby hodu na ověření. 
 
 ### Záchranné hody
 
 Pokud je postava vystavena negativnímu efektu jehož následku se lze vyhnout nebo jej aspoň zmírnit. Je ji umožněn záchranný hod. Vyhodnocení probíhá obdobně jako u ověřovacího hodu ale cílovou hodnotou není 12 ale hodnota ZH zaspané v deníku postavy (a získané z tabulky postupu specializace):
 
-- **Magická odolnost (MO):** Většinou odpovídá dovednosti *SRD* postavy, ale může být modifikována předměty nebo schopnosti postavy. Přičítá se ke všem záchranným hodům proti magickým efektům (jako jsou efekty kouzel, hůlek či svitků)
+- **Magická odolnost (MO):** Většinou odpovídá dovednosti *SRD* postavy, ale může být modifikována předměty nebo schopnosti postavy. Přičítá se ke všem záchranným hodům proti magickým efektům (jako jsou efekty kouzel, hůlek či svitků).
 
 ### Hod štěstí
 
@@ -114,17 +114,17 @@ Specializace je hlavním gró postavy a dává jí naprostou většinu jejich sp
 
 Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou úrovní. Nové úrovně poskytují extra možnosti každé postavě. Postup úrovněmi má každá specializace popsán ve své tabulce postupu.
 
-**Získávání úrovní:** Hráčské postavy získávají nové úrovně za každých 1000 získaných zkušenostních bodů. Jak PJ rozdává zkušenosti je na něm. Avšak lze se řídit následujícími vodítky.
+**Získávání úrovní:** Hráčské postavy získávají nové úrovně za každých *1000* získaných zkušenostních bodů. Jak PK rozdává zkušenosti je na něm. Avšak lze se řídit následujícími vodítky.
 
 - **Potyčka (10 - 100 zk):** Dle obtížnosti boje. Vyrovnaný boj by měl být kolem *50 zk*. Zatímco zdolání velkého monstra na konci příběhu *100 zk*. Zkušenosti za potyčky získávají všichni v plném rozsahu.
 - **Peníze:** Postavy by si měli rozdělit *10 zk* za každých získaných *100 šilinků*. Zkušenosti za peníze si hráčské postavy dělí rovnoměrně mezi sebe.
 - **Splnění úkolu či poslání (250+ zk):** Dokončení významného úkolu by mělo odměnit hráče minimálně *250 zk*. Zkušenosti za úkoly získávají všichni zúčastnění v plném rozsahu.
 
-**Maximální úroveň:** Teoretická maximální úroveň je 10. Ale nic vám nebrání pokračovat i dále. Po 10. úrovni by však hráči ze svých specializací neměli nic získávat (včetně kostek života) pouze nové talenty každou sudou úroveň.
+**Maximální úroveň:** Teoretická maximální úroveň je *10*. Ale nic vám nebrání pokračovat i dále. Po 10. úrovni by však hráči ze svých specializací neměli získávat nic mimo nových talentů každou sudou úroveň.
 
 ### Body štěstí
 
-Speciální body, které slouží hráčům jako esa v rukávu a která, může PJ používat k odměňování hráčů (například za výborný role-play). Každý hráč začíná každé herní sezení s jedním bodem štěstí a to nezávisle na tom, kolik bodů štěstí měl daný hráč na konci posledního sezení. Body hrdinství se dají využít na následující věci:
+Speciální body, které slouží hráčům jako esa v rukávu a která, může PK používat k odměňování hráčů (například za výborný role-play). Každý hráč začíná každé herní sezení s jedním bodem štěstí a to nezávisle na tom, kolik bodů štěstí měl na konci posledního sezení. Body štěstí se dají využít na následující věci:
 
 -   **Přehodit hod:** Hráč může za *1 Bod štěstí* přidat výhodu na svůj ověřovací nebo záchranný hod.
 -   **Zachránit se:** Hráč může za *všechny své Body štěstí* přivést svou umírající (viz smrt níže) postavu zpět k životu s 1 životem.
@@ -135,13 +135,13 @@ Dovednosti jsou již rozebrány na [začátku této kapitoly](/Zakladni_pravidla
 
 ### Životy
 
-Životy jsou nejdůležitějším zdrojem, jako postava má. Jelikož dokud jsou její životy větší jak 0, tak se může postava bránit a provádět akce. Životy se ztrácí obdržením poškození (na bázi 1:1) a lze jej získat zpět léčením (opět na bázi 1:1).  Jakou abstrakci životy reprezentují nechám na vás, co je však důležité je, že se tento atribut vyskytuje až ve třech formách.
+Životy jsou nejdůležitějším zdrojem, který postava má. Jelikož dokud jsou její životy větší jak 0, tak se může postava bránit a provádět akce. Životy se ztrácí obdržením poškození (na bázi 1:1) a lze jej získat zpět léčením (opět na bázi 1:1).  Jakou abstrakci životy reprezentují nechám na vás, co je však důležité je, že se tento atribut vyskytuje až ve třech formách.
 
 -   **Maximální životy:** Maximální množství životů, které postava v jednu chvíli může mít.
--   **Aktuální životy:** Aktuální stav životů, reprezentující stupeň zranění postavy.
--   **Dočasné životy:** Mohou přesáhnout i maximální životy postavy a zranění se z nich odečítá přednostně. Pokud není efektem, co dočasné životy vytvořil, specifikováno jinak po 1 směně vyprchají. Dočasné životy se také vzájemně nesčítají, vždy platí jen nejvyšší hodnota.
+-   **Aktuální životy:** Aktuální stav životů, reprezentující míru zranění postavy.
+-   **Dočasné životy:** Speciální typ životů, který může přesáhnout i maximální životy postavy a zranění se z nich odečítá přednostně. Pokud není efektem, co dočasné životy vytvořil, specifikováno jinak po 1 směně vyprchají. Dočasné životy se také vzájemně nesčítají, vždy platí jen nejvyšší obdržená hodnota.
 
-**Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu a má přístup k pitné vodě) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši maxima kostky života své specializace + Odolnost (například 1k6 = 6 + Odolnost).
+**Přirozená regenerace:** Životy lze doplňovat různými způsoby. Nejběžnějším je však přenocování do dalšího dne. Pokud postava naplní své potřeby (třeba sní zásobu a má přístup k pitné vodě) a má nerušený spánek do dalšího dne (aspoň 8 hodin). Doplní si životy ve výši *maxima kostky života své specializace + Vytrvalost* (například 1k6 = 6 + Vytrvalost).
 
 #### Smrt
 
@@ -153,7 +153,7 @@ Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a um
 
 ### Obranné číslo (OČ)
 
-Obranné číslo určuje jak těžké je zasáhnou postavu útokem v boji. Základní obranné číslo postavy bez brnění je *10+Hbitost*. Obranné číslo lze zvýšit různými kouzly, zvýšením Hbitosti a nebo koupí lepší zbroje.
+Obranné číslo určuje jak těžké je zasáhnou postavu útokem v boji. Základní obranné číslo postavy bez brnění je *10+HBI*. Obranné číslo lze zvýšit různými kouzly, zvýšením Hbitosti a nebo koupí lepší zbroje.
 
 ### Záchranný hod (ZH)
 
@@ -161,7 +161,7 @@ Záchranné hody jsou již rozebrány [na začátku této kapitoly](/Zakladni_pr
 
 ### Rychlost
 
-Určuje kolik metrů je postava se schopna pohnout během svého tahu v boji. Je určena především rasou postavy. Ale lze ji modifikovat různými schopnostmi, kouzly nebo třeba koupí koně.
+Určuje kolik metrů je postava schopna se pohnout během svého tahu v boji. Je určena především rasou postavy. Ale lze ji modifikovat různými schopnostmi, kouzly nebo třeba koupí koně.
 
 **Alternativní formy pohybu:** Stvoření může mít rozdílné rychlosti pro různé formy pohybu. Jako jsou lezení po zdech, plavání a podobně. Pokud stvoření nemá specifickou rychlost pro daný pohyb, a je pro něj možné daný pohyb vykonávat, tak se pohybuje poloviční rychlostí (*obtížný terén*).
 
@@ -173,15 +173,15 @@ Zbraně a jejich statistiky nebo jiné formy útoků, které postava může prov
 
 ### Jazyky
 
-Většinou získané volbou rasy, talentu a nebo vysokou hodnotou dovednosti Mysl. Pokud postava získá nespecifikovaný jazyk. Může si vybrat jaký jazyk se naučí až ve chvíli, kdy se s daným jazykem setká ve hře.
+Většinou získané volbou rasy, talentu a nebo vysokou hodnotou dovednosti MYS. Pokud postava získá nespecifikovaný jazyk. Může si vybrat jaký jazyk se naučí až ve chvíli, kdy se s daným jazykem setká ve hře.
 
 -   **Inteligentní monstra:** Inteligentní monstra ovládají obecnou řeč při výsledku *6* na kostce štěstí.
 
 ### Talenty
 
-Dodatečné schopnosti získané postupem na vyšší úroveň. Otevírající nové možnosti postavy. Lze si vybírat se talentů specializace nebo sady obecných talentů dostupných všem specializacím.
+Dodatečné schopnosti získané postupem na vyšší úroveň. Otevírající nové možnosti postavy. Lze si vybírat z talentů specializace nebo sady [obecných talentů](/Talenty) dostupných všem specializacím.
 
--   **Získávání talentů navíc:** Mimo zásah PJ (třeba odměnou v rámci kampaně či zajímavý vývoj postavy) hráč nemůže získat více talentů než umožňuje jeho úroveň. Může však (u talentů u kterých to dává smysl) je vyměnit, v rámci investic a tréninku mezi dobrodružstvími. 
+-   **Získávání talentů navíc:** Mimo zásah PK (třeba odměnou v rámci kampaně či zajímavý vývoj postavy) hráč nemůže získat více talentů než umožňuje jeho úroveň. Může však (u talentů u kterých to dává smysl) je vyměnit, v rámci investic a tréninku mezi dobrodružstvími. 
 
 ### Kouzla
 
@@ -191,4 +191,4 @@ Seznam kouzel, které postava může používat. Čarování je komplikovanějš
 
 Zbraně, brnění a jiná výbava, kterou může postava aplikovat na řešení problému. Výběr výbavy a pravidla pro nosnost naleznete [zde](/Vybaveni).
 
-<img src="/assets/prav_hry_growth.webp"/>
+<img src="/assets/sep_line.png"/>

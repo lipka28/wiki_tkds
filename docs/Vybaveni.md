@@ -7,9 +7,9 @@
 Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava v jednu chvíli u sebe. Výbava postavy se umisťuje do tak zvaných *Slotů* v *inventáři*.
 
 - **Inventář:** Je abstraktní pojem pro umístění předmětů postavy. V logice hry postava uchovává své předměty různě na svém těle. První 2 sloty jsou vymezeny pro ruce a ostatní předměty jsou například na opasku, v kapsách, přivázané na zádech či v batohu.
-- **Sloty:** Předmět může vážit několik slotů. Většina předmětů však váží 1. 1 slot představuje předmět co lze efektivně držet a manipulovat jednou rukou. Některé drobné předměty jsou označeny za *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo v inventáři.
-- **Nosnost:** Nosnost hráčské postavy je *10+Síla slotů*.
-- **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, či nějakých magických předmětů.
+- **Sloty:** Předmět může zabírat několik slotů. Většina předmětů však zabírá jen *1 slot*. Jeden slot představuje předmět co lze efektivně držet a manipulovat jednou rukou. Některé drobné předměty jsou označeny za *zanedbatelné*. Tyto předměty, v rámci rozumných mezí, nezabírají žádné místo v inventáři.
+- **Nosnost:** Nosnost hráčské postavy je *10+SIL slotů*.
+- **Rozšíření nosnosti:** Postavy mohou rozšířit svou nosnou kapacitu pomocí všelijakých vozíků, povozů, zvířat, družiníků, talentů, či nějakých magických předmětů.
 
 ## Peníze a bohatství
 
@@ -17,7 +17,7 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 
 - **Peníze a skladnost:** Měšec mincí do *100 šilinků* nezabírá žádné místo v inventáři a je tedy považován za *zanedbatelný* předmět. Následně pak každých 100 šilinků nad tuto hranici, zabírá *1 slot*.
 - **Prodej předmětů:** Poklady získané na dobrodružství se prodávají za svou plnou cenu (nepoškozené). Běžné předměty se pak prodávají za polovinu. Poškozené běžné předměty jsou neprodejné.
-- **Nákup předmětů:** Při tvorbě postavy je níže popsaná výbava dostupná za uváděné ceny. Při hře samotné se však dostupnost i cena předmětů může lišit v závislosti na tom, kde se postavy zrovna nachází.
+- **Nákup předmětů:** Při tvorbě postavy je níže popsaná výbava dostupná za uváděné ceny. Při hře samotné se však dostupnost i cena předmětů může lišit v závislosti na lokalitě ve které se postavy zrovna nachází.
 
 ### Váha běžných pokladů
 
@@ -35,8 +35,8 @@ Ve hře lze rozlišovat libovolné množství měn a platidel. Nejběžnějším
 
 Používání většiny zbraní a zbrojí vyžaduje "trénink". Ten je poskytován především specializací postavy avšak lze jej získat i z talentů.
 
--   **Netrénovaná brnění (a štíty):** Používání netrénované zbroje způsobuje *nevýhodu* na všechny ověření *SIL* a *HBI* a nelze v nich čarovat.
--   **Netrénované zbraně:** Netrénované zbraně působí jen poloviční poškození s výjimkou kritických zásahů.
+-   **Netrénovaná brnění (a štíty):** Používání netrénované zbroje způsobuje *nevýhodu* na všechny ověření *SIL*, *HBI* a *VYT* a nelze v nich čarovat.
+-   **Netrénované zbraně:** Netrénované zbraně mají *postih -2 k zásahu* a působí jen *poloviční poškození*.
 
 ### Zbroje a štíty
 
@@ -46,7 +46,7 @@ Používání většiny zbraní a zbrojí vyžaduje "trénink". Ten je poskytov�
 | Lehká zbroj       | 20 ši  |  12+HBI  |    -     |      1       |                        -                         |
 | Střední zbroj     | 60 ši  | 14+HBI/2 |    +2    |      2       | Přenocování nelze; Plavání a Plížení s nevýhodou |
 | Těžká zbroj       | 200 ši |    16    |    +3    |      4       | Přenocování a Plavání nelze; Plížení s nevýhodou |
-| Pukléř            |  5 ši  |    +1    |    -     |      1       |                        -                         |
+| Pukléř            |  5 ši  |    +1    |    -     |      1       |            Jen proti útokům na blízko            |
 | Štít              | 15 ši  |    +2    |    +1    |      1       |                        -                         |
 
 **Pož. SIL:** Požadavek na sílu pro oblečení daného typu výbavy.
@@ -55,7 +55,7 @@ Používání většiny zbraní a zbrojí vyžaduje "trénink". Ten je poskytov�
 
 Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. Na čtvercové síti jsou to ti nepřátelé, co jsou do vzdálenosti 1 metr. Útok zbraní na blízku většinou probíhá jako ověření *SIL* s relevantními modifikátory.
 
-**Typ poškození:** Zbraně nemají určený typ poškození. Pokud někdo disponuje odolností či slabostí na specifický typ poškození, používejte logiku popisované fikce.
+**Typ poškození:** Zbraně nemají určený typ poškození. Pokud někdo disponuje odolností či slabostí na specifický typ poškození, spoléhejte na logiku popisované fikce.
 
 **Vlastnosti zbraní:**
 
@@ -93,7 +93,7 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 
 ### Zbraně na dálku
 
-Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až do efektivního dostřelu zbraně. Útok zbraní na dálku většinou probíhá jako ověření *HBI* s relevantními modifikátory. Pokud je útočník při útoku zbraní na dálku ohrožen útokem na blízku nějakého nepřátele, útočí s *nevýhodou*.
+Zbraněmi na dálku lze útočit pouze na cíle vzdálené *2 metry a více*. Až do efektivního dostřelu zbraně. Útok zbraní na dálku většinou probíhá jako ověření *HBI* s relevantními modifikátory. Pokud je útočník při útoku zbraní na dálku ohrožen útokem na blízku nějakého nepřátele, útočí s *nevýhodou*.
 
 -   **Efektivní dostřel:** Vzdálenost na kterou lze zbraní cíleně něco trefit. Lze se pokusit střílet až na dvojnásobnou vzdálenost avšak s *nevýhodou*.
 
@@ -101,32 +101,33 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 
 -   **Nab:** Zbraň vyžaduje nabití po každém použití. Zbraň lze nabít použitím akce nebo veškeré své rychlosti v daném tahu.
 -   **VP:** Zbraň je výjimečně průrazná. Pokud má na sobě cíl zbroj nebo štít při útoku touhle zbraní je OČ cíle nižší o *1*.
--   **Křes:** Zbraň používá černý prach a křesadlový mechanizmus. To ji umožňuje udělovat výjimečné poškození pro svou kategorii avšak má také své nevýhody.
+-   **ČP:** Zbraň používá černý prach. To ji umožňuje udělovat výjimečné poškození pro svou kategorii avšak má také své nevýhody.
     -   *Dlouhé nabíjení:* Zbraň je po každém použití třeba nabít. Nabíjení trvá celé 2 kola (jak akce tak pohyb v každém). Může však být přerušeno a dokončeno později.
-    -   *Náchylnost na živly:* Vlhko a žár mohou zbraň nebo její munici poškodit. Efekty a trvalost tohohle poškození záleží na PJ.
+    -   *Náchylnost na živly:* Vlhko a žár mohou zbraň nebo její munici poškodit. Efekty a trvalost tohohle poškození záleží na PK.
     -   *Nespolehlivost:* Pokud při hodu na zásah padne na kostce *1*. Zbraň se zasekne a je nepoužitelná, dokud není jednu směnu čištěna *nástroji na čištění křesadlových zbraní*.
+    -   *Hlučná:* Zbraň dělá ohromný randál a může upozornit nepřátele v blízkém okolí.
 
 
-| Zbraň                      | Poškození | Ef. Dostřel | Sloty |  Cena  |   Vlastnosti   |
-| -------------------------- | :-------: | :---------: | :---: | :----: | :------------: |
-| Bambitka                   |    2k6    |    10 m     |   1   | 50 ši  |  Křes, NT, VP  |
-| Dalekonosný luk            |    1k8    |    40 m     |   2   | 20 ši  |    2R, Spec    |
-| Granát                     |    2k8    |    10 m     |   1   | 25 ši  | Křes, NT, Spec |
-| Houfnice                   |    1k8    |  Speciální  |   2   | 100 ši | 2R, Křes, Spec |
-| Kompozitní dalekonosný luk |   1k10    |    50 m     |   2   | 60 ši  | 2R, S/H, Spec  |
-| Kompozitní krátký luk      |    1k8    |    40 m     |   1   | 40 ši  | 2R, S/H, Spec  |
-| Krátký Luk                 |    1k6    |    30 m     |   1   | 10 ši  |       2R       |
-| Kuše                       |    1k8    |    20 m     |   2   | 20 ši  |  2R, Nab, NT   |
-| Mušketa                    |    2k8    |    20 m     |   2   | 100 ši |  2R, Křes, VP  |
-| Prak                       |    1k4    |    10 m     |   1   |  2 ši  |    NT, Spec    |
-| Příruční kuše              |    1k6    |    10 m     |   1   | 25 ši  |    Nab, NT     |
-| Těžká kuše                 |   1k10    |    40 m     |   2   | 40 ši  |  2R, Nab, VP   |
+| Zbraň                      | Poškození | Ef. Dostřel | Sloty |  Cena  |  Vlastnosti   |
+| -------------------------- | :-------: | :---------: | :---: | :----: | :-----------: |
+| Bambitka                   |    2k6    |    10 m     |   1   | 50 ši  |  ČP, NT, VP   |
+| Dalekonosný luk            |    1k8    |    40 m     |   2   | 20 ši  |   2R, Spec    |
+| Granát                     |    2k8    |    10 m     |   1   | 25 ši  | ČP, NT, Spec  |
+| Houfnice                   |    1k8    |  Speciální  |   2   | 100 ši | 2R, ČP, Spec  |
+| Kompozitní dalekonosný luk |   1k10    |    50 m     |   2   | 60 ši  | 2R, S/H, Spec |
+| Kompozitní krátký luk      |    1k8    |    40 m     |   1   | 40 ši  | 2R, S/H, Spec |
+| Krátký Luk                 |    1k6    |    30 m     |   1   | 10 ši  |      2R       |
+| Kuše                       |    1k8    |    20 m     |   2   | 20 ši  |  2R, Nab, NT  |
+| Mušketa                    |    2k8    |    20 m     |   2   | 100 ši |  2R, ČP, VP   |
+| Prak                       |    1k4    |    10 m     |   1   |  2 ši  |   NT, Spec    |
+| Příruční kuše              |    1k6    |    10 m     |   1   | 25 ši  |    Nab, NT    |
+| Těžká kuše                 |   1k10    |    40 m     |   2   | 40 ši  |  2R, Nab, VP  |
 
 **Dalekonosný luk (spec):** Útoky do vzdálenosti *5 metrů* probíhají s nevýhodou.
 
-**Granát:** Jednorázová zbraň, která zasáhne všechna stvoření v zóně velikosti 5 začínající v efektivním dostřelu zbraně. Hráčem určená zóna se vždy posune o *1k4* metrů náhodným směrem. Zasažená stvoření mají nárok na záchranný hod, při úspěchu sníží obdržené poškození na polovinu. Zbraň je třeba před hozením zapálit. I když zbraň nevyžaduje hod na zásah, stále je třeba hodit 1k20 pro určení spolehlivosti.
+**Granát:** Jednorázová zbraň, která zasáhne všechna stvoření v *zóně velikosti 5* začínající v efektivním dostřelu zbraně. Hráčem určená zóna se vždy posune o *1k4 metrů* náhodným směrem. Zasažená stvoření mají nárok na záchranný hod, při úspěchu sníží obdržené poškození na polovinu. Zbraň je třeba před hozením zapálit. I když zbraň nevyžaduje hod na zásah, stále je třeba hodit *1k20* pro určení spolehlivosti.
 
-**Houfnice:** Zbraň automaticky zasáhne každé stvoření v oblasti velikosti 5 dotýkající se pozice střelce. Poškození zbraně je házeno za každé stvoření zvlášť. I když zbraň nevyžaduje hod na zásah, stále je třeba hodit 1k20 pro určení spolehlivosti.
+**Houfnice:** Zbraň automaticky zasáhne každé stvoření v *oblasti velikosti 5* dotýkající se pozice střelce. Poškození zbraně je házeno za každé stvoření zvlášť. I když zbraň nevyžaduje hod na zásah, stále je třeba hodit *1k20* pro určení spolehlivosti.
 
 **Kompozitní dalekonosný luk (spec):** Útoky do vzdálenosti *5 metrů* probíhají s nevýhodou. Navíc efektivní použití zbraně *vyžaduje aspoň +2 SIL*.
 
@@ -136,12 +137,12 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 
 ### Munice
 
-| Munice                                     |           Sloty            | Cena  |
-| ------------------------------------------ | :------------------------: | :---: |
-| Munice do křesadlových zbraní (10 použití) |             1              | 10 ši |
-| Šípy (Toulec 20ti šípů)                    |             1              | 5 ši  |
-| Šipky do kuše (Pouzdro 20 šipek)           |             1              | 8 ši  |
-| Šíp / šipka se stříbrnou špičkou           | (součást toulce / pouzdra) | 10 ši |
+| Munice                                       |           Sloty            | Cena  |
+| -------------------------------------------- | :------------------------: | :---: |
+| Munice do zbraní na černý prach (10 použití) |             1              | 10 ši |
+| Šípy (Toulec 20ti šípů)                      |             1              | 5 ši  |
+| Šipky do kuše (Pouzdro 20 šipek)             |             1              | 8 ši  |
+| Šíp / šipka se stříbrnou špičkou             | (součást toulce / pouzdra) | 10 ši |
 
 ## Výbava dobrodruha
 
@@ -161,7 +162,7 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 | Lahvička s korkovou zátkou (prázdná)                   |            1             | 1 ši  |
 | Lahvička svěcené vody                                  |            1             | 10 ši |
 | Lezecké náčiní                                         |            1             | 15 ši |
-| Léčivá mast                                            |            1             | 8 ši  |
+| Léčivá mast                                            |            1             | 10 ši |
 | Lucerna                                                |            1             | 15 ši |
 | Měch na vodu                                           |            1             | 3 ši  |
 | Motouz (20 metrů)                                      |            1             | 2 ši  |
@@ -175,28 +176,26 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 | Rybářské náčiní                                        |            1             | 14 ši |
 | Řetěz (2 metry)                                        |            1             | 5 ši  |
 | Převleky a líčidla                                     |            1             | 15 ši |
-| Stan (pro 1)                                           |            2             | 5 ši  |
-| Stan (pro 2)                                           |            3             | 15 ši |
-| Stan (pro 4)                                           |            4             | 40 ši |
-| Dřevěný symbol patrona                                 |       Zanedbatelný       | 2 ši  |
-| Stříbrný symbol patrona                                |       Zanedbatelný       | 10 ši |
+| Stan (pro 1)                                           |            1             | 5 ši  |
+| Stan (pro 2)                                           |            2             | 15 ši |
+| Stan (pro 4)                                           |            3             | 40 ši |
 | Víno (1 litr, obyčejné)                                |            1             | 4 ši  |
 | Víno (1 litr, Kvalitní)                                |            1             | 20 ši |
 | Zásoby (3 ks)                                          |            1             | 2 ši  |
 | Zlodějské náčiní (6 použití)                           |            1             | 15 ši |
 | Zrcátko                                                |       Zanedbatelné       | 5 ši  |
-| A další... (Řekni PJ co bys chtěl)                     |            ?             |  ??   |
+| A další... (Řekni PK co bys chtěl)                     |            ?             |  ??   |
 
-**Cestovní lékárnička (6 použití):** Umožňuje následující aktivity na základě úspěšného ověření *INT*:
+**Cestovní lékárnička (6 použití):** Umožňuje následující aktivity na základě úspěšného ověření *MYS*:
 
 - **Léčení (průzkumná akce):** Vyléčí jedinci *1k6 životů*. Po zbytek dne je dotyčný imunní vůči efektům lékárničky.
 - **Léčení v boji (akce):** Léčit lze i jako akci ve výru boje. Ověřovací hod však probíhá s *nevýhodou* a vyléčené množství je *1k4 životů*.
 
 **Křesadlo:** Umožňuje rozdělat oheň. Úspěšné použití při vypjatých situacích (například v boji) vyžaduje úspěšné ověření *HBI*.
 
-**Lahvička oleje:** Umožňuje lucerně svítit až *24 směn*.
+**Lahvička oleje:** Umožňuje lucerně svítit až *24 směn*. Alternativně může pokrýt *zónu velikosti 5* kluzkou hořlavou tekutinou. ==todo: zjistit jak dlouho má hořet==
 
-**Lahvička svěcené vody:** Lze použít jako hozenou zbraň proti proti nemrtvým a démonům působící 2k6 poškození.
+**Lahvička svěcené vody:** Lze použít jako hozenou zbraň proti proti nemrtvým a démonům působící *2k6 poškození*.
 
 **Lezecké náčiní:** Umožňuje zdolat obtížné vertikální plochy. Zároveň kompletně neguje šanci na pád při šplhání.
 
@@ -234,8 +233,6 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 | Žoldák             |       10 ši |
 | Žoldák veterán     |       20 ši |
 
-**Určení statistik nájemné výpomoci:** Je li třeba určit statistiky nájemné pomoci ty lze určit jako vše *+0* a 1k4 životů (žoldáci pak *1k8* a veteráni *2k8*).
-
 ## Transport a služby
 
 | Název                                                        |   Cena |
@@ -245,6 +242,7 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené 2 metry a více. Až 
 | Místo na drožce                                              |   5 ši |
 | Místo na lodi                                                |  10 ši |
 | Mula (+8 slotů, pomalá)                                      |  30 ši |
+| Ne tak odborná lékařská pomoc                                |  20 ši |
 | Odborná lékařská pomoc                                       |  50 ši |
 | Soukromý pokoj (pro 4, cena za noc)                          |  35 ši |
 | Společná místnost (cena za noc)                              |  10 ši |

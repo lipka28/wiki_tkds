@@ -6,18 +6,18 @@
 
 <img src="/assets/sep_line.png"/>
 
-Vítejte *Tam, kde draci spí.* Nebo spíš v přehledu pravidel stejnojmenné stolní dobrodružné hry. Tahle hra je ve směs po domácky umíchaný mix TTRPG do něčeho pokud možno hratelného
+Vítejte *Tam, kde draci spí.* Nebo spíš v přehledu pravidel stejnojmenné stolní dobrodružné hry. Tahle hra je ve směs po domácky umíchaný mix TTRPG do něčeho pokud možno hratelného.
 
 ## Základní principy hry
 
 Základní principy na kterých tato hra staví.
 
-**Neutralita:** Údělem Pán jeskyně je vystupovat jako neutrální sudí a jasně zprostředkovávat pravidla, situace, nehráčské postavy (NPC) a narativ hry.
+**Neutralita:** Údělem pána kobky je vystupovat jako neutrální sudí a jasně zprostředkovávat pravidla, situace, nehráčské postavy (NPC) a narativ hry.
 
-**Fikce na prvním místě:** Hod kostkou ne vždy odráží obtížnost výzvy nebo její výsledek. Místo toho je úspěch či neúspěch založen na kontextu dané situace a posuzován Strážcem na základě dialogu s hráči.
+**Fikce na prvním místě:** Hod kostkou ne vždy plně odráží obtížnost výzvy nebo její výsledek. Kromě hodu kostkou, jsou situace vyhodnocovány i v kontextu, ve kterém se odehrávají, a jsou posuzován pánem kobky na základě dialogu s hráči.
 
-**Hráčská rozhodnutí:** Hráči by vždy měli chápat důvody svých rozhodnutí a stejně tak, být Strážcem dostatečně informováni o možných následcích s nimi spjatými.
+**Hráčská rozhodnutí:** Hráči by vždy měli chápat důvody svých rozhodnutí a stejně tak, být pánem kobky dostatečně informováni o možných následcích s nimi spjatými.
 
-**Společné cíle:** Hráči by si navzájem měli důvěřovat, v následování společných cílů a společném pokoření překážek. Družina hráčských postavy by tedy měla mít vždy nějaký jasný společný cíl. 
+**Společné cíle:** Hráči by si navzájem měli důvěřovat, v následování společných cílů a společném pokoření překážek. Družina hráčských postavy by tedy měla mít vždy nějaký jasný společný cíl.
 
 <img src="/assets/sep_line.png"/>
