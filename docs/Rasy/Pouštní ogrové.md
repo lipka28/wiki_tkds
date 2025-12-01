@@ -14,6 +14,6 @@
 
 - *Vzácní* - Jejich četnost na Aldiru je nízká nebo se vyhýbají civilizaci, a tudíž potkat jednoho je poměrně vzácné. V hráčské skupině může být za celou kampaň pouze jedna postava této rasy.
 - *Divoká síla* - Tvé útoky zbraněmi na blízku mají bonus +2 k poškození.
-- *Pouštní adaptace* - Jsi uzpůsobený životu v poušti a vysoké teploty ti nedělají problém. Navíc pokud bys obdržel poškození ohněm, tohle poškození je sníženo o 1 za každou kostku poškození.
+- *Pouštní adaptace* - Jsi uzpůsobený životu v poušti a vysoké teploty ti nedělají problém. Navíc pokud bys obdržel poškození ohněm, tohle poškození je sníženo o 1 za každou kostku v daném poškození (výsledné poškození může být minimálně 1).
 
 <img src="/assets/sep_line.png"/>

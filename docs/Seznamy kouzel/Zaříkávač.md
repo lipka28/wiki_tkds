@@ -27,7 +27,7 @@
 
 **Dosah:** sesilatel
 
-**Efekt:** Zaříkávač získá schopnost odhalit zárodky zla v okolí 10 metrů. To způsobuje, že vidí démony, nemrtvé, temnou magii ale i osoby s úmyslem mu ublížit slabě světélkovat.
+**Efekt:** Zaříkávač získá schopnost odhalit zárodky zla v okolí *10 metrů*. To způsobuje, že vidí démony, nemrtvé, temnou magii ale i osoby s úmyslem mu ublížit slabě světélkovat.
 
 <img src="/assets/sep_line.png"/>
 
@@ -37,11 +37,11 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Pulz mystické energie zažene Lx2 úrovní nemrtvých a démonů v oblasti velikosti 5, která začíná v dosahu kouzla. Zasažená stvoření mají nárok na záchranný hod, aby efektu odolali. Ovlivněná stvoření se po dobu 1 směny budou snažit vyhýbat sesilateli.
+**Efekt:** Pulz mystické energie zažene *Lx2* úrovní nemrtvých a démonů v oblasti velikosti *5 začínající v dosahu kouzla. Zasažená stvoření mají nárok na záchranný hod, aby efektu odolali. Ovlivněná stvoření se po dobu 1 směny budou snažit vyhýbat sesilateli.
 
 **Ovlivněné úrovně:** Stvoření jsou ovlivněny postupně od nejnižší úrovně po nejvyšší.
 
-**Zničení:** Pokud je zahnané stvoření nižší úrovně než sesilatel a neuspěje v záchranném hodu na odolání o 5 nebo více, tak je stvoření zničeno.
+**Zničení:** Pokud je zahnané stvoření nižší úrovně než sesilatel a neuspěje v záchranném hodu na odolání o *5* nebo více či hodí na záchranu přirozenou *1*, tak je stvoření zničeno.
 
 <img src="/assets/sep_line.png"/>
 
@@ -51,10 +51,10 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Zasáhne zvíře L nebo nižší úrovně v dosahu magickým rozkazem. Zasažená stvoření musí uspět v záchranném hodu nebo se zadaným rozkazem řídit.
+**Efekt:** Zasáhne zvíře *L* nebo nižší úrovně v dosahu magickým rozkazem. Zasažené stvoření musí uspět v záchranném hodu nebo se zadaným rozkazem řídit.
 
 - **Omezení:** Funguje na obří verze zvířat ale ne na zvířata lidské či vyšší inteligence a fantastická monstra.
-- **Délka rozkazu:** Rozkaz nesmí být delší než 3 slova.
+- **Délka rozkazu:** Rozkaz nesmí být delší než *3 slova*.
 - **Sebevražedné rozkazy:** Poku je kouzlem udělen přímo sebevražedný rozkaz, kouzlo selže.
 
 <img src="/assets/sep_line.png"/>
@@ -65,9 +65,9 @@
 
 **Dosah:** Sesilatel
 
-**Efekt:** Vytvoří magickou kouli zeleno-modrého neškodného plamene, který neklidně poletuje kolem zaříkávače. Tento plamen poskytuje světlo stejné síly jako pochodeň do okolí 10 metrů.
+**Efekt:** Vytvoří magickou kouli zeleno-modrého neškodného plamene, který neklidně poletuje kolem zaříkávače. Tento plamen poskytuje světlo stejné síly jako pochodeň.
 
-**Sežehnout:** Zaříkávač může při sesílání kouzla nebo kdykoliv během jeho trvání jako akci, kouzlo předčasně ukončit a tím s neklidného plamínku vyšlehnout zelený plamen na cíl v okolí 10-ti metrů. Cíl musí uspět v záchranném hodu nebo je obalen tímto plamenem. Plamen nepůsobí poškození ale zažehnutý cíl svítí stejně jako vílí plamen po dobu 1 směny a nemůže se zneviditelnit nebo jinak maskovat svou polohu. Pokud je cíl nemrtví nebo démon navíc obdrží *1k8* poškození.
+**Sežehnout:** Zaříkávač může při sesílání kouzla nebo kdykoliv během jeho trvání jako akci, kouzlo předčasně ukončit a tím s neklidného plamínku vyšlehnout zelený plamen na cíl v okolí *10-ti* metrů. Cíl musí uspět v záchranném hodu nebo je obalen tímto plamenem. Plamen nepůsobí poškození ale zažehnutý cíl svítí stejně jako vílí plamen po dobu *1 směny* a nemůže se zneviditelnit nebo jinak maskovat svou polohu. Pokud je cíl nemrtví nebo démon navíc obdrží *1k8* poškození.
 
 <img src="/assets/sep_line.png"/>
 
@@ -104,12 +104,12 @@
 
 **Dosah:** 40 metrů
 
-**Efekt:** Zaříkávačem určených L slotů dřevěných objektů se pokroutí a stanou se nepoužitelnými. Předměty menší jak 1 slot (například šíp) se počítají jako 1 slot.
+**Efekt:** Zaříkávačem určených *L* slotů dřevěných objektů se pokroutí a stanou se nepoužitelnými. Předměty menší jak 1 slot (například šíp) se počítají jako 1 slot.
 
 **Magické předměty:** Magické předměty mohou kouzlu odolat jedním z následujících způsobů:
 
 - *Předměty ve výbavě:* Držitel předmětu má nárok na záchranný hod za každý svůj ovlivněný předmět. V případě úspěchu, předmět kouzlu odolá.
-- *Volně ložené předměty:* Za každý takový předmět se hodí hod štěstí. Při výsledku 5 a 6, předmět kouzlu odolá.
+- *Volně ložené předměty:* Za každý takový předmět se hodí hod štěstí. Při výsledku *5* nebo *6*, předmět kouzlu odolá.
 
 <img src="/assets/sep_line.png"/>
 
@@ -123,7 +123,7 @@
 
 - **Obyčejný zdroj:** Očarovanému stvoření nemůžou ublížit běžné přírodní projevy dané energie (například nemůže se spálit běžným ohněm či nezmrzne když skočí do mrazivého jezera).
 - **Záchranný hod:** Očarované stvoření má bonus *+2* k záchranným hodům proti efektům stejné nátury jako je vybraná energie.
-- **Redukce poškození:** Obdržené poškození danou energií je sníženo o *1* za každou kostku poškození.
+- **Redukce poškození:** Obdržené poškození danou energií je sníženo o *1* za každou kostku v daném poškození (výsledné poškození může být minimálně 1).
 
 <img src="/assets/sep_line.png"/>
 
@@ -133,7 +133,7 @@
 
 **Dosah:** sesilatel
 
-**Efekt:** Zaříkávač získá schopnost pravého vidění na vzdálenost 10 metrů kolem sebe. Dokáže tak vidět neviditelné a všechny magií dotčené subjekty vidí barveně světélkovat. Dokáže tím také rozpoznat jaká kouzla sesílají ostatní kouzelníci a kdo nebo co je jejich cílem.
+**Efekt:** Zaříkávač získá schopnost pravého vidění na vzdálenost *10 metrů* kolem sebe. Dokáže tak vidět neviditelné a všechny magií dotčené subjekty vidí barveně světélkovat. Dokáže tím také rozpoznat jaká kouzla sesílají ostatní kouzelníci a kdo nebo co je jejich cílem.
 
 <img src="/assets/sep_line.png"/>
 
@@ -143,7 +143,7 @@
 
 **Dosah:** 30 metrů
 
-**Efekt:** V zóně velikosti 5 začínající v dosahu kouzla vytvoří oblast, ve které nemůže vzniknout žádný zvuk. 
+**Efekt:** V zóně velikosti *5* začínající v dosahu kouzla vytvoří oblast, ve které nemůže vzniknout žádný zvuk. 
 
 **Očarovat stvoření:** Kouzlo lze seslat i přímo na nějaké stvoření. To se může pokusit o záchranný hod. Pokud neuspěje, vyčarovaná zóna je pak centrovaná na daném stvoření a pohybuje se s ním. V případě úspěchu je efekt kouzla ve směs stejný ale zóna se s očarovaným stvořením nepohybuje.
 
@@ -176,7 +176,7 @@
 
 **Efekt:** Očaruje bouřkové mraky na obloze, umožňujíce sesilateli přivolávat blesky. Vyčarování kouzla vyžaduje aby na nebi již byli bouřkové mraky.
 
-**Přivolání blesku:** Během trvání kouzla může sesilatel jedenkrát za směnu jako akci. Přivolat blesk z nebe, který zasáhne stvoření v zóně velikosti 2 začínající v dosahu kouzla. Zasažená stvoření obdrží *5k12* poškození a mohou se pokusit uspět v záchranném hodu a zredukovat tak poškození na polovinu.
+**Přivolání blesku:** Během trvání kouzla může sesilatel jedenkrát za směnu jako akci. Přivolat blesk z nebe, který zasáhne stvoření v zóně velikosti *2* začínající v dosahu kouzla. Zasažená stvoření obdrží *5k12* poškození a mohou se pokusit uspět v záchranném hodu a zredukovat tak poškození na polovinu.
 
 **Rozehnání mraků:** Kouzlo může být předčasně ukončeno, jsou-li bouřkové mraky na nebi rozehnány.
 
@@ -190,7 +190,7 @@
 
 **Efekt:** Dotčené mrtvé stvoření, které zanechalo ostatky a zemřelo na základě uděleného poškození (nikoliv jed) a které není mrtvé déle jak *3 kola* je navráceno k životu s *1 životem* a *smrtelným zraněním*. Na rozdíl od běžného fungování *smrtelného zranění*. V tomhle případě se vyruší až týdenním odpočinkem.
 
-- **Cena za podvod:** Smrt není rád připravena o jednu ze svých duší. Sesilatel za tento podvod obdrží *1k8* poškození a oživený permanentně ztratí *1* náhodný dovednostní bod.
+- **Cena za podvod:** Smrt není ráda připravena o jednu ze svých duší. Sesilatel za tento podvod obdrží *1k8* poškození a oživený permanentně ztratí *1* náhodný dovednostní bod.
 
 <img src="/assets/sep_line.png"/>
 
@@ -200,7 +200,7 @@
 
 **Dosah:** Dotyk
 
-**Efekt:** Očarované stvoření je kompletně imunní vůči jedům. Pokud očarované stvoření zemřelo následkem jedu během posledních 10-ti kol, tak je přivedeno zpět k životu.
+**Efekt:** Očarované stvoření je kompletně imunní vůči jedům. Pokud očarované stvoření zemřelo následkem jedu během posledních *10-ti* kol, tak je přivedeno zpět k životu.
 
 <img src="/assets/sep_line.png"/>
 
@@ -213,7 +213,7 @@
 **Efekt:** Kouzlo způsobí nadpřirozený růst zvířete nebo rostlin.
 
 - **Použití na zvíře:** Kouzlo očaruje jedno zvíře v dosahu jehož velikost, síla, nosnost a poškození se zdvojnásobí. Funguje na obří verze zvířat ale ne na zvířata lidské či vyšší inteligence a fantastická monstra.
-- **Použití na rostliny:** Rostliny v oblasti velikosti 10 začínající v dosahu kouzla vyrostou do hustého houští. Oblast je průchodná jen pro velmi velká stvoření (jako obtížný terén).
+- **Použití na rostliny:** Rostliny v oblasti velikosti *10* začínající v dosahu kouzla vyrostou do hustého houští. Oblast je průchodná jen pro velmi velká stvoření (jako obtížný terén).
 
 <img src="/assets/sep_line.png"/>
 
@@ -233,7 +233,7 @@
 
 **Dosah:** 30 metrů
 
-**Efekt:** Kouzlo ovlivní mysl L úrovní monster zvířecí inteligence nebo rostlinného původu, dle výběru zaříkávače a paralyzuje je. Zasažená monstra se mohou pokusit o záchranný hod, aby efektu odolali.
+**Efekt:** Kouzlo ovlivní mysl *L* úrovní monster zvířecí inteligence nebo rostlinného původu, dle výběru zaříkávače a paralyzuje je. Zasažená monstra se mohou pokusit o záchranný hod, aby efektu odolali.
 
 **Paralýza:** Monstrum je schopno vnímat ale nemůže se hýbat. Sesilatel může očarované monstrum kdykoliv s paralýzy částečně nebo plně uvolnit.
 
@@ -249,7 +249,7 @@
 
 **Dosah:** 50 metrů
 
-**Efekt:** L stvoření v dosahu, která nejsou významně větší než člověk, se ukryjí do iluzorní podoby stromu. Tato iluze je velmi přesvědčivá pro všechny smysly a neukončí se ani pokud očarované stvoření zaútočí nebo je napadeno (i když reakce na zranění může prozradit, že se nejedná o běžný strom).
+**Efekt:** *L* stvoření v dosahu, která nejsou významně větší než člověk, se ukryjí do iluzorní podoby stromu. Tato iluze je velmi přesvědčivá pro všechny smysly a neukončí se ani pokud očarované stvoření zaútočí nebo je napadeno (i když reakce na zranění může prozradit, že se nejedná o běžný strom).
 
 **Ukončení:** Sesilatel může tohle kouzlo kdykoliv ukončit. Kouzlo je taktéž ukončeno opustí-li očarované stvoření oblast, ve které bylo kouzlo vyvoláno.
 
@@ -265,7 +265,7 @@
 
 **Zmije**
 
-**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 13; **ZH:** 14; **Pohyb:** zem 6 metry; **Morálka:** Slabá (4 - 6); **Útoky:** +0 poškození 1k3 + jed; **Speciální:** Jed (Cíl musí uspět v záchranném hodu jinak obdrží *1* poškození každé kolo po dobu *1k6* kol)
+**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 13; **ZH:** 14; **Pohyb:** zem 6 metrů; **Morálka:** Slabá (4 - 6); **Útoky:** +0 poškození 1k3 + jed; **Speciální:** Jed (Cíl musí uspět v záchranném hodu jinak obdrží *1* poškození každé kolo po dobu *1k6* kol)
 
 <img src="/assets/sep_line.png"/>
 
@@ -275,7 +275,7 @@
 
 **Dosah:** Dotyk
 
-**Efekt:** Vyplní povrch zóny velikosti 5 centrovanou na místo kde stojí zaříkávač magickými runami, které brání v průchodu nemrtvým, démonům ale i vyvolaným stvořením. I když tato stvoření nemohou chráněnou zónu prorazit, stále mohou do ní provádět útoky nebo třeba sesílat kouzla. Stvoření v zóně mají bonus *+2* k OČ a k záchranným hodům proti útokům a schopnostem těchto stvoření.
+**Efekt:** Vyplní povrch zóny velikosti *5* centrovanou na místo kde stojí zaříkávač magickými runami, které brání v průchodu nemrtvým, démonům ale i vyvolaným stvořením. I když tato stvoření nemohou chráněnou zónu prorazit, stále mohou do ní provádět útoky nebo třeba sesílat kouzla. Stvoření v zóně mají bonus *+2* k OČ a k záchranným hodům proti útokům a schopnostem těchto stvoření.
 
 <img src="/assets/sep_line.png"/>
 
@@ -285,11 +285,11 @@
 
 **Dosah:** Sesilatel
 
-**Efekt:** Přivolá L úrovní běžných zvířat z okolí zaříkávači na pomoc. Sesilatel si může vybrat specifický typ zvířat, které chce přivolat. Jaká zvířata jsou k dispozici záleží na místě, kde se zaříkávač nachází. Například v kobkách lze čerpat z místního obyvatelstva či tabulek náhodných setkání v dané lokalitě.
+**Efekt:** Přivolá *L* úrovní běžných zvířat z okolí zaříkávači na pomoc. Sesilatel si může vybrat specifický typ zvířat, které chce přivolat. Jaká zvířata jsou k dispozici záleží na místě, kde se sesilatel nachází. Například v kobkách lze čerpat z místního obyvatelstva či tabulek náhodných setkání v dané lokalitě.
 
 - **Typ zvířat:** Jakékoliv běžné zvíře. Neplatí zvířata lidské či vyšší inteligence a fantastická monstra. Také neplatí na hmyz.
-- **Efekt na zvířata:** Zvířata přiběhnou na pomoc jak nejrychleji dovedou a během trvání kouzla poslouchají rozkazy sesilatele. I tak se však řídí pravidly morálky a je jich morálka nějakého zvířete zlomena, kouzlo na něj přestane účinkovat a zvíře uteče.
-- **Hejna:** Malá stvoření (jako například myši) lze spojovat do hejn a zvednout tak jejich efektivní úroveň a životy. Hejna mají stejné statistiky jako jednotlivec v daném hejnu, ale zvýšená úroveň umožňuje daleko větší rozsah životů. Cílené útoky na hejna probíhají s nevýhodou a hejna mohou útočit plošně. Některé kouzla fungující na jedince mohou také mít snížený nebo žádný efekt.
+- **Efekt na zvířata:** Zvířata přiběhnou na pomoc jak nejrychleji dovedou a během trvání kouzla poslouchají rozkazy sesilatele. I tak se však řídí pravidly morálky. Je-li morálka nějakého zvířete zlomena, kouzlo na něj přestane účinkovat a zvíře uteče.
+- **Hejna:** Malá stvoření (jako například myši) lze spojovat do hejn a zvednout tak jejich efektivní úroveň a životy. Hejna mají stejné statistiky jako jednotlivec v daném hejnu, ale zvýšená úroveň umožňuje daleko větší rozsah životů. Cílené útoky na hejna probíhají s nevýhodou a hejna mohou útočit plošně. Některé kouzla fungující na jedince mohou také mít snížený nebo žádný efekt (dle uvážení PK).
 
 <img src="/assets/sep_line.png"/>
 
@@ -299,7 +299,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Spirituální energie vyšlehne k subjektu a doplní mu 2k8+2 života. Pokud je cíl pod efektem dočasné paralýzy, tak i ta je vyléčena.
+**Efekt:** Spirituální energie vyšlehne k subjektu a doplní mu *2k8+2* života. Pokud je cíl pod efektem dočasné paralýzy, tak i ta je vyléčena.
 
 <img src="/assets/sep_line.png"/>
 
@@ -309,7 +309,7 @@
 
 **Dosah:** Dotyk
 
-**Efekt:** V místě jenž se dotkne zaříkávač se prorve pramen vody. Ze kterého celkem vyteče tolik vody, co by stačila 20-ti osobám jako denní zásoba.
+**Efekt:** V místě jenž se dotkne zaříkávač se prorve pramen vody. Ze kterého celkem vyteče tolik vody, co by stačila *20-ti* osobám jako denní zásoba.
 
 <img src="/assets/sep_line.png"/>
 
@@ -323,11 +323,11 @@
 
 **Dosah:** Sesilatel
 
-**Efekt:** Zaříkávač se ponoří do hlubokého transu, který mu umožní komunikovat s vševědoucími duchy divočiny. Kouzlo musí být sesláno nejméně 6 kilometrů od civilizace v neponičené přírodě. 
+**Efekt:** Zaříkávač se ponoří do hlubokého transu, který mu umožní komunikovat s vševědoucími duchy divočiny. Kouzlo musí být sesláno nejméně *6 kilometrů* od civilizace v neponičené přírodě. 
 
 -  **Trans:** Po dobu trvání kouzla je sesilatel v hlubokém transu a nevnímá svět kolem sebe. Kouzlo vždy trvá svou plnou dobu trvání.
-- **Otázky a odpovědi:** Sesilatel může duchům divočiny položit 3 otázky na které dostane zaručeně pravdivé odpovědi formou Ano/Ne.
-- **Omezení použití:** Kouzlo lze úspěšně seslat jen první den v měsíci a nelze jej ten samý den seslat ještě jednou.
+- **Otázky a odpovědi:** Sesilatel může duchům divočiny položit *3 otázky* na které dostane zaručeně pravdivé odpovědi formou *Ano/Ne*.
+- **Omezení použití:** Kouzlo lze úspěšně seslat jen *první den v měsíci* a nelze jej ten samý den seslat ještě jednou.
 
 <img src="/assets/sep_line.png"/>
 
@@ -337,7 +337,7 @@
 
 **Dosah:** Nedozírné okolí
 
-**Efekt:** Kouzlo během 1 směny změní počasí v místě a okolí, kde zaříkávač tohle kouzlo seslal. Změněné počasí trvá minimálně 6 směn (pokud zvolené počasí není přirozené pro danou lokalitu) nebo do další přirozené změny počasí. Kouzlo buďto počasí uklidní nebo změní (klidně až do formy kalamit) dle sesilatelovi představy. 
+**Efekt:** Kouzlo během *1 směny* změní počasí v místě a okolí, kde zaříkávač tohle kouzlo seslal. Změněné počasí trvá minimálně *6 směn* (pokud zvolené počasí není přirozené pro danou lokalitu) nebo do další přirozené změny počasí. Kouzlo buďto počasí uklidní nebo změní (klidně až do formy kalamity) dle sesilatelovi představy. 
 
 - **Efekt počasí:** Vyhodnocení efektů změněného počasí záleží na PK. Déšť může způsobit obtížný terén a nevýhodu na útoky na dálku. Silný vítr může útoky na dálku kompletně znemožnit. Sníh nebo mlha mohou zhoršit viditelnost a vichřice může trhat střechy.
 - **Omezení:** Kouzlo lze seslat pouze venku pod otevřenou oblohou.
@@ -350,10 +350,10 @@
 
 **Dosah:** Dotyk
 
-**Efekt:** Grandiózní hodinu trvající rituál, který navrátí mrtvého k životu. Rituál musí být proveden na místě magického významu (např. katedrála nějakého boha či druidský kruh kamení v lesích) a vyžaduje magické regenty v celkové hodnotě 2000 šilinků. 
+**Efekt:** Grandiózní hodinu trvající rituál, který navrátí mrtvého k životu. Rituál musí být proveden na místě magického významu (např. katedrála nějakého boha či druidský kruh kamení v lesích) a vyžaduje magické regenty v celkové hodnotě *2000 šilinků*. 
 
 - **Omezení:** K oživení mrtvého jsou třeba jeho ostatky a jeho smrt se nesměla stát před více jak 30-ti dny.
-- **Slabost oživeného:** Oživené stvoření je navráceno k životu s *1 životem* a *smrtelným zraněním*. Na rozdíl od běžného fungování *smrtelného zranění*. V tomhle případě se vyruší až týdenním odpočinkem.
+- **Slabost oživeného:** Oživené stvoření je navráceno k životu s *1 životem* a *vyčerpáním*. Na rozdíl od běžného fungování *vyčerpání*. V tomhle případě se vyruší až týdenním odpočinkem.
 
 <img src="/assets/sep_line.png"/>
 

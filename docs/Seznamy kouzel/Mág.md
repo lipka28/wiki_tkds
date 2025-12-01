@@ -20,7 +20,7 @@
 
 **Dosah:** 30 metrů
 
-**Efekt:** L/2 magických energií se zhmotní nad rameny mága. Ty lze následně, buď jako součást sesílání nebo kdykoliv během trvání kouzla jako akci seslat na cíle v dosahu. Střela automaticky zasáhne cíl, způsobí *1k6+1* poškození a zničí se.
+**Efekt:** *L/2* magických střel se zhmotní nad rameny mága. Ty lze následně, buď jako součást sesílání nebo kdykoliv během trvání kouzla jako akci seslat na cíle v dosahu. Střela automaticky zasáhne cíl, způsobí *1k6+1* poškození a zničí se.
 
 <img src="/assets/sep_line.png"/>
 
@@ -44,23 +44,23 @@
 
 **Dosah:** Sesilatel
 
-**Efekt:** Vytvoří magickou kouli bílého světla, která levituje nad hlavou mága. Tahle koule poskytuje světlo stejné síly jako pochodeň do okolí 10 metrů.
+**Efekt:** Vytvoří magickou kouli bílého světla, která levituje nad hlavou mága. Tahle koule poskytuje světlo stejné síly jako pochodeň.
 
-**Záblesk:** Mág může při sesílání kouzla nebo kdykoliv během jeho trvání jako akci, kouzlo předčasně ukončit a tím vyvolat oslepující záblesk. Každý (mimo sesilatele) v dosahu světla musí uspět v záchranném hodu jinak je oslněn na 1k4 kol. Oslnění uděluje postih -2 k hodům na zásah.
+**Záblesk:** Mág může při sesílání kouzla nebo kdykoliv během jeho trvání jako akci, kouzlo předčasně ukončit a tím vyvolat oslepující záblesk. Každý (mimo sesilatele) v dosahu světla musí uspět v záchranném hodu jinak je oslněn na *1k4 kol*. Oslnění uděluje postih *-2* k hodům na zásah.
 
 <img src="/assets/sep_line.png"/>
 
 ### Neviditelný sluha
 
-**Trvání:** 6 směn nebo 1 činnost
+**Trvání:** 6 směn nebo 1 činnost  (co přijde dřív)
 
 **Dosah:** 10 metrů na vyvolání, následně neomezeně.
 
-**Efekt:** Kouzlo vyvolá vedle mága neviditelného sluhu, který za platbu aspoň 20 šilinků (nebo cetky stejné hodnoty), provede zadaný úkol. Platba musí být uhrazena jako komponenta v rámci sesílání kouzla. Neviditelný sluha provádí zadanou činnost / úkol dokud ji nedokončí nebo kouzlo nevyprchá (co přijde dřív). V obou případech kouzlo končí.
+**Efekt:** Kouzlo vyvolá vedle mága neviditelného sluhu, který za platbu aspoň *20 šilinků* (nebo cetky stejné hodnoty), provede zadaný úkol. Platba musí být uhrazena jako komponenta v rámci sesílání kouzla. Neviditelný sluha provádí zadanou činnost / úkol dokud ji nedokončí nebo kouzlo nevyprchá (co přijde dřív). V obou případech kouzlo končí.
 
 **Neviditelný sluha**
 
-**Popis:** Malé neviditelné létající humanoidní stvoření bez tváře. Zvládne provádět jakoukoliv aktivitu co by zvládl běžný člověk ale neunese větší předměty než jsou 2 sloty. Nekomunikuje ale následuje rozkazy. Taktéž nebojuje a může být napaden stvořeními co vidí neviditelné.
+**Popis:** Malé neviditelné létající humanoidní stvoření bez tváře. Zvládne provádět jakoukoliv aktivitu co by zvládl běžný člověk ale neunese větší předměty než jsou 2 sloty. Nekomunikuje ale následuje rozkazy. Nebojuje a může být napaden stvořeními co vidí neviditelné.
 
 **Úroveň:** 1; **Životy:** 1; **OČ:** 15; **ZH:** 13; **Pohyb:** Létání 4 metry; **Morálka:** Neoblomná; **Útoky:** Neútočí; **Speciální:** Neviditelný
 
@@ -68,7 +68,7 @@
 
 ### Okouzli osobu
 
-**Trvání:** 1 nebo více dní
+**Trvání:** Různé
 
 **Dosah:** 10 metrů
 
@@ -89,7 +89,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Svítící runa, bránící otevírání, se objeví na zavřených dveřích, víku, bráně nebo jiném uzavíratelném objektu.
+**Efekt:** Svítící runa se objeví na zavřených dveřích, víku, bráně nebo jiném uzavíratelném objektu a brání jeho otevření.
 
 **Násilné otevření:** Stvoření aspoň o 3 úrovně vyšší jako sesilatel se může pokusit o ověření *SIL* a při úspěchu pečetící runu silou prolomit.
 
@@ -103,10 +103,10 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Vyčaruje sled plamenných výbojů v počtu odpovídajícímu L, které zasáhnou mágem určené subjekty v dosahu. Zásah způsobí jedno z následujících:
+**Efekt:** Vyčaruje sled *L* plamenných výbojů, které zasáhnou mágem určené subjekty v dosahu. Zásah způsobí jedno z následujících:
 
 - **Hořlavý předmět:** Je-li zasažen hořlavý předmět, tak vzplane.
-- **Stvoření:** Způsobí 1 poškození za každý zásah. Zasažený může podstoupit záchranném hodu, aby se poškození vyhnul.
+- **Stvoření:** Obdrží *1* poškození za každý výboj. Zasažený se může pokusit uspět v záchranném hodu, aby poškození odolal. Háže se jeden záchranný hod proti všem výbojům do daného stvoření.
 
 <img src="/assets/sep_line.png"/>
 
@@ -126,7 +126,7 @@
 
 **Dosah:** 30 metrů
 
-**Efekt:** Zasáhne stvoření 4. nebo nižší úrovně v zóně velikosti 5 začínající v dosahu uspávacím kouzlem. Zasažená stvoření musí uspět v záchranném hodu nebo být po dobu trvání kouzla uspána.
+**Efekt:** Zasáhne stvoření *4. nebo nižší úrovně* v zóně velikosti *5* začínající v dosahu uspávacím kouzlem. Zasažená stvoření musí uspět v záchranném hodu nebo být po dobu trvání kouzla uspána.
 
 **Probuzení:** Uspané stvoření může být probuzeno například proliskáním.
 
@@ -138,7 +138,7 @@
 
 **Dosah:** 1 metr
 
-**Efekt:** Vytvoří levitující konkávní disk o průměru 1 metr. Po dobu trvání kouzla disk následuje mága ve výši kolen a lze na něj umístit až 10 slotů předmětů.
+**Efekt:** Vytvoří levitující konkávní disk o průměru *1 metr*. Po dobu trvání kouzla disk následuje mága ve výši kolen a lze na něj umístit až *10 slotů* předmětů.
 
 <img src="/assets/sep_line.png"/>
 
@@ -148,7 +148,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Vyčaruje sled větrných proudů v počtu odpovídajícímu L, které zasáhnou mágem určené subjekty v dosahu (Proud vždy směřuje od mága). Každý proud má dost síly na to, aby odstrčil subjekt o váze 1 slot nebo uhasil oheň adekvátní velikosti. Pokud je cílem stvoření nebo předmět ve výbavě stvoření, může se pokusit uspět v záchranném hodu, aby efektu kouzla odolalo.
+**Efekt:** Vyčaruje sled *L* větrných proudů, které zasáhnou mágem určené subjekty v dosahu (Proudy vždy směřují od mága). Každý proud má dost síly na to, aby odstrčil subjekt o váze 1 slot nebo uhasil oheň adekvátní velikosti. Pokud je cílem stvoření nebo předmět ve výbavě stvoření, může se pokusit uspět v záchranném hodu, aby efektu kouzla odolalo. Závan nezvládne vyrazit předmět z ruky ale může třeba uhasit pochodeň.
 
 <img src="/assets/sep_line.png"/>
 
@@ -166,7 +166,7 @@
 
 **1 směna koncentrace:** Mág se napojí na myšlenky jednoho stvoření v dosahu. 
 
-**Výměna stvoření:** Během trvání kouzla se může sesilatel "přepojit" na další stvoření v dosahu. To však vyžaduje další 1 směnu koncentrace.
+**Výměna stvoření:** Během trvání kouzla se může sesilatel "přepojit" na další stvoření v dosahu. To však vyžaduje další *1 směnu* koncentrace.
 
 **Blokování:** Fungování kouzla je narušeno metr tlustou kamennou zdí nebo tenkým plátem olova.
 
@@ -178,7 +178,7 @@
 
 **Dosah:** Dotyk
 
-**Efekt:** Mág posype předmět nebo objekt diamantovým práškem v hodnotě 200 šilinků (spotřebuje se jako komponenta kouzla). Následně se dozví vše o magii skrývající se v předmětu a to i případný přesný popis efektu či kouzla a také jak je takový případný efekt aktivován. Dozví se i zda je předmět prokletý.
+**Efekt:** Mág posype předmět nebo objekt diamantovým práškem v hodnotě *200 šilinků* (spotřebuje se jako komponenta kouzla). Následně se dozví vše o magii skrývající se v předmětu a to i případný přesný popis efektu či kouzla a také jak je takový případný efekt aktivován. Dozví se i zda je předmět prokletý.
 
 <img src="/assets/sep_line.png"/>
 
@@ -188,17 +188,17 @@
 
 **Dosah:** 30 metrů
 
-**Efekt:** Kouzlo vytvoří jednu z následujících iluzí v zóně velikosti 5 začínající v dosahu:
+**Efekt:** Kouzlo vytvoří jednu z následujících iluzí v zóně velikosti *5* začínající v dosahu:
 
--   **Iluzorní monstrum:** Vytvoří monstrum stejné nebo nižší úrovně jako sesilatel. Monstrum má své běžné statistiky a schopnosti avšak jeho OČ je 10 a pokud je zasaženo, iluze se rozplyne.
+-   **Iluzorní monstrum:** Vytvoří monstrum stejné nebo nižší úrovně jako sesilatel. Monstrum má své běžné statistiky a schopnosti avšak jeho *OČ je 10* a pokud je zasaženo, iluze se rozplyne.
 -   **Iluzorní scéna:** Modifikuje vzhled ovlivněné oblasti nebo v ní vytvoří něco nového. Iluze je čistě vizuální a při dotyku se rozplyne.
 -   **Iluzorní útok:** Vytvoří iluzorní útok jako například lavinu, pád stropu či nějaké útočné kouzlo.
 
 **Záchrana:** Všichni kdo spatří danou iluzi musí podstoupit záchranný hod. Při neúspěchu považují iluzi za skutečnou (včetně zranění, které způsobuje). Sesilatel a ti co uspějí vidí iluzi jen jako nehybný, tichý a zjevně falešný průhledný obraz.
 
-**Poškození:** Poškození způsobené iluzí není skutečné, i když ho ti co v iluzi věří za skutečné považují. Ti co jsou iluzí zabiti jsou však jen v bezvědomí, zkamenění jsou jen znehybněni a podobně. Veškerá zranění a negativní následky iluzí odezní za 1k4 směn. 
+**Poškození:** Poškození způsobené iluzí není skutečné, i když ho ti co v iluzi věří za skutečné považují. Ti co jsou iluzí zabiti jsou však jen v bezvědomí nebo krátkodobě paralyzováni. Veškerá zranění a negativní následky iluzí odezní za *1k4 směn*.
 
-**Iluze neznámého:** Pokud mág vytváří iluzi něčeho co nikdy neviděl, všechna ovlivněná stvoření mají výhodu na záchranný hod pro odolání iluzi.
+**Iluze neznámého:** Pokud mág vytváří iluzi něčeho co nikdy neviděl, všechna ovlivněná stvoření mají *výhodu* na záchranný hod pro odolání této iluzi.
 
 <img src="/assets/sep_line.png"/>
 
@@ -210,7 +210,7 @@
 
 **Efekt:** Mág začne volně levitovat ve vzduchu s následujícími omezeními:
 
--   **Vertikální pohyb:** Mág se může pohybovat nahoru a dolů rychlostí 4 metry za kolo.
+-   **Vertikální pohyb:** Mág se může pohybovat nahoru a dolů rychlostí *4 metry* za kolo.
 -   **Horizontální pohyb:** Horizontální pohyb je možný pouze odrážením se od stěn nebo jiných statických objektů.
 -   **Nosnost:** Kouzlo nemá žádný efekt na nosnost sesilatele.
 
@@ -262,13 +262,13 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Kouzlo vyplní oblast velikosti 3 lepkavou pavučinou, která zachytí všechny v oblasti nebo ty kdo se pokusí oblasti projít. Zachycená stvoření jsou znehybněna a nemůžou se hýbat a ani používat své akce. Jediné co mohou je pokusit se vysvobodit.
+**Efekt:** Kouzlo vyplní oblast velikosti *3* lepkavou pavučinou, která zachytí všechny v oblasti nebo ty kdo se pokusí oblasti projít. Zachycená stvoření jsou znehybněna a nemůžou se hýbat a ani používat své akce. Jediné co mohou je pokusit se vysvobodit.
 
 **Vysvobození:** Stvoření se ve svém tahu může pokusit vymanit. Úspěšným ověřením *SIL* nebo *HBI*. Pokud uspěje, je osvobozen a přesune se na nejbližší místo mimo dosah kouzla. Jeho tah končí. Pokud neuspěje, je kompletně znehybněn a již se o další osvobození nemůže pokoušet. Musí počkat na pomoc spojenců nebo konec kouzla.
 
-**Větší stvoření:** Velká stvoření mají na ověřovací hod na vysvobození výhodu. Taktéž pokud neuspějí, mohou se o osvobození pokusit další kolo. Stejné platí i pro stvoření a hráčské postavy, která by na dané ověření měla výhodu například z kouzla či talentu.
+**Větší stvoření:** Velká stvoření mají na ověřovací hod na vysvobození *výhodu*. Taktéž pokud neuspějí, mohou se o osvobození pokusit další kolo. Stejné platí i pro stvoření a hráčské postavy, která by na dané ověření měla výhodu například z kouzla či talentu.
 
-**Hořlavá:** Pokud zapálena, pavučina shoří během 2 kol. Všechna tímto osvobozená stvoření obdrží 1k8 poškození.
+**Hořlavá:** Pokud zapálena, pavučina shoří během *2 kol*. Všechna tímto osvobozená stvoření obdrží *1k8* poškození.
 
 <img src="/assets/sep_line.png"/>
 
@@ -278,7 +278,7 @@
 
 **Dosah:** sesilatel
 
-**Efekt:** Mág získá schopnost pravého vidění na vzdálenost 10 metrů kolem sebe. Dokáže tak vidět neviditelné a všechny magií dotčené subjekty vidí barveně světélkovat. Dokáže tím také rozpoznat jaká kouzla sesílají ostatní kouzelníci a kdo nebo co je jejich cílem.
+**Efekt:** Mág získá schopnost pravého vidění na vzdálenost *10 metrů* kolem sebe. Dokáže tak vidět neviditelné a všechny magií dotčené subjekty vidí barveně světélkovat. Dokáže tím také rozpoznat jaká kouzla sesílají ostatní kouzelníci a kdo nebo co je jejich cílem.
 
 <img src="/assets/sep_line.png"/>
 
@@ -288,7 +288,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Mág na místo v dosahu vyšlehne plamennou energii, která zasáhne všechno v přímé linii k cílenému místu. Všechna zasažená stvoření musí uspět v záchranném hodu, jinak obdrží *1k6 poškození*. Po dobu trvání kouzla zůstává tancující plamen tam kde byl umístěn. Každé další kolo, trvání kouzla, může mág přikázat tancujícímu plamenu (akce), aby se přesunulo na nové místo, opět působící poškození všem zasaženým v cestě. Na nové místo se oheň musí dostat přímou linií a nové místo nesmí být dále než 10 metrů od předchozí pozice plamene.
+**Efekt:** Mág na místo v dosahu vyšlehne plamennou energii, která zasáhne všechno v přímé linii k cílenému místu. Všechna zasažená stvoření musí uspět v záchranném hodu, jinak obdrží *1k6* poškození. Po dobu trvání kouzla zůstává tancující plamen tam kde byl umístěn. Každé další kolo, trvání kouzla, může mág přikázat tancujícímu plamenu (akce), aby se přesunulo na nové místo, opět působící poškození všem zasaženým v cestě. Na nové místo se oheň musí dostat přímou linií a nové místo nesmí být dále než 10 metrů od předchozí pozice plamene.
 
 <img src="/assets/sep_line.png"/>
 
@@ -300,7 +300,7 @@
 
 **Efekt:** Mág zaklepe na zavřené či zamčené dveře, bránu, víko nebo jiný druh poklopu. Ten se pak následně otevře.
 
-**Magické zámky a runy:** *Pečetící runa* je prolomena, *Magický zámek* a jiné pečetící runy jsou na 1 směnu vypnuty.
+**Magické zámky a runy:** *Pečetící runa* je prolomena, *Magický zámek* a jiné pečetící runy jsou na *1 směnu* vypnuty.
 
 **Tajné dveře:** Kouzlo otevře i tajné dveře, u kterých sesilatel netuší jak se otevírají. Musí však vědět o jejich existenci.
 
@@ -312,7 +312,7 @@
 
 **Dosah:** Sesilatel
 
-**Efekt:** Kolem mága, v okolí 1 metru, se objeví jeho *1k4* dokonalých kopií a mág se zamíchá mezi nimi. Tyto kopie se chovají všechny jako mág a pohybují se dokonale synchronně. Takže není poznat, která z nich mág ve skutečnosti je.
+**Efekt:** Kolem mága, v okolí *1 metru*, se objeví jeho *1k4* dokonalých kopií a mág se zamíchá mezi nimi. Tyto kopie se chovají všechny jako mág a pohybují se dokonale synchronně. Takže není poznat, která z nich mág ve skutečnosti je.
 
 **Mluva a sesílání kouzel:** Vychází vždy náhodně z jedné z kopií nebo mága.
 
@@ -330,7 +330,7 @@
 
 **Dosah:** Dotyk
 
-**Efekt:** Oči očarovaného stvoření kompletně zčernají. Stvoření získá schopnost vidět ve tmě jako za normálního světla na vzdálenost 20 metrů. 
+**Efekt:** Oči očarovaného stvoření kompletně zčernají. Stvoření získá schopnost v nepřítomnosti světla vidět ve tmě jako za normálního denního světla na vzdálenost *20 metrů*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -350,9 +350,9 @@
 
 **Dosah:** 20 metrů
 
-**Efekt:** Mág získá schopnost se 1 směnu koncentrovat na specifické stvoření v dosahu a následně vidět zrakem tohoto stvoření, když zavře své oči. Napojení pak trvá, i když se stvoření vzdálí s dosahu kouzla.
+**Efekt:** Mág získá schopnost se *1 směnu* koncentrovat na specifické stvoření v dosahu a následně vidět zrakem tohoto stvoření, když zavře své oči. Napojení pak trvá, i když se stvoření vzdálí s dosahu kouzla.
 
-**Výměna stvoření:** Během trvání kouzla se může sesilatel "přepojit" na další stvoření v dosahu. To však vyžaduje další 1 směnu koncentrace.
+**Výměna stvoření:** Během trvání kouzla se může sesilatel "přepojit" na další stvoření v dosahu. To však vyžaduje další *1 směnu* koncentrace.
 
 **Blokování:** Fungování kouzla je narušeno metr tlustou kamennou zdí nebo tenkým plátem olova.
 
@@ -376,9 +376,9 @@
 
 **Efekt:** Mág vytvoří na rovném povrchu svítivou runu o velikosti dlaně, uloží do ní další kouzlo a definuje podmínku spuštění. Když je podmínka naplněna kouzlo se sešle a runa se zničí.
 
-**Podmínka:** Sesilatel si může určit libovolnou podmínku spuštění a však runa kontroluje její naplnění jen v předem definované zóně velikosti 5 v okolí 10 metrů kolem runy.
+**Podmínka:** Sesilatel si může určit libovolnou podmínku spuštění a však runa kontroluje její naplnění jen v předem definované zóně velikosti *5* začínající v okolí *10 metrů* kolem runy.
 
-**Uložení kouzla:** Při seslání *magické pasti* lze definovat kouzlo, které v ní bude uloženo. Cenu sesílání tohohle dalšího kouzla je taktéž třeba zaplatit předem. Navíc musí sesilatel obětovat drahokam v hodnotě 100 šilinků za třídu uloženého kouzla.
+**Uložení kouzla:** Při seslání *magické pasti* lze definovat kouzlo, které v ní bude uloženo. Cenu sesílání tohohle dalšího kouzla je taktéž třeba zaplatit při sesílání kouzla. Navíc musí sesilatel obětovat drahokam v hodnotě *100 šilinků* za třídu uloženého kouzla.
 
 **Cíl kouzla:** Pokud není při přípravě kouzla definováno jinak. Uvolněné kouzlo zasáhne první cíl (nebo dopadne na jeho místo), který splní podmínku pasti. Pokud není validním cílem pro dané kouzlo, kouzlo selže.
 
@@ -392,9 +392,9 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Mág sešle elektrický výboj, který cestuje po rovné linii až do vzdálenosti dosahu kouzla. Zasáhne všechno v cestě za Lk6 poškození. Zasažené subjekty mohou uspět v záchranném hodu a tím poškození snížit na polovinu.
+**Efekt:** Mág sešle elektrický výboj, který cestuje po rovné linii až do vzdálenosti *10 metrů*. Zasáhne všechno v cestě za *Lk6* poškození. Zasažené subjekty mohou uspět v záchranném hodu a tím poškození snížit na polovinu.
 
-**Odražení:** Pokud blesk cestou narazí na pevný povrch, tak se odrazí. Snažíc se dodržet pravidlo "úhel dopadu se rovná úhlu odrazu". Pokud však ze situace není jasné kam se blesk odrazí nebo se hráč s PK neshodnou. Blesk se odrazí zpátky k sesilateli. Každé stvoření v cestě však může být zasaženou pouze jednou.
+**Odražení:** Pokud blesk cestou narazí na pevný povrch, tak se odrazí. Snažíce se dodržet pravidlo "úhel dopadu se rovná úhlu odrazu". Pokud však ze situace není jasné kam se blesk odrazí nebo se hráč s PK neshodnou na trase blesku. Blesk se při první odražení odrazí zpátky k sesilateli. Každé stvoření v cestě však může být zasaženou pouze jednou.
 
 <img src="/assets/sep_line.png"/>
 
@@ -404,7 +404,7 @@
 
 **Dosah:** 40 metrů
 
-**Efekt:** Oblast velikosti 9 začínající v dosahu je zasažena ohnivou explozí, která zapálí všechno hořlavé v oblasti. Zasažené subjekty obdrží Lk6 poškození. Mohou však uspět v záchranném hodu a tím poškození snížit na polovinu.
+**Efekt:** Oblast velikosti *9* začínající v dosahu je zasažena ohnivou explozí, která zapálí vše hořlavé v oblasti. Zasažené subjekty obdrží *Lk6* poškození. Mohou však uspět v záchranném hodu a tím poškození snížit na polovinu.
 
 <img src="/assets/sep_line.png"/>
 
@@ -416,7 +416,7 @@
 
 **Efekt:** Očarované stvoření pokryje magická bariéra, která jej chrání před obyčejnými střelami (jako jsou šípy, oštěpy či kameny z praku). Ty se neškodně roztříští při nárazu o bariéru.
 
-**Ostatní střeli:** Kouzlo nechrání před velkými střelami (jako třeba kámen z katapultu) nebo magickými či očarovanými střelami.
+**Ostatní střely:** Kouzlo nechrání před velkými střelami (jako třeba kámen z katapultu) nebo magickými či očarovanými střelami.
 
 <img src="/assets/sep_line.png"/>
 
@@ -426,7 +426,7 @@
 
 **Dosah:** 20 metrů
 
-**Efekt:** Náhlá děsivá představa paralyzuje Lx2 úrovní stvoření v oblasti velikosti 5, která začíná v dosahu kouzla. Zasažená stvoření mají nárok na záchranný hod, aby efektu odolali. Nemyslící stvoření jsou taktéž imunní. 
+**Efekt:** Náhlá děsivá představa paralyzuje *Lx2* úrovní stvoření v oblasti velikosti *5*, která začíná v dosahu kouzla. Zasažená stvoření mají nárok na záchranný hod, aby efektu odolali. Nemyslící stvoření jsou imunní.
 
 **Ovlivněné úrovně:** Stvoření jsou ovlivněny postupně od nejnižší úrovně po nejvyšší.
 
@@ -438,9 +438,9 @@
 
 **Dosah:** 20 metrů
 
-**Efekt:** Všechna probíhající kouzla a magické efekty v oblasti velikosti 5 začínající v dosahu kouzla. Jsou rozptýleny do barevné exploze a ukončeny.
+**Efekt:** Všechna probíhající kouzla a magické efekty v oblasti velikosti *5* začínající v dosahu kouzla. Jsou rozptýleny do neškodné exploze barev a ukončeny.
 
-**Úrovně čarodějů:** Pokud je úroveň sesílání stvoření, které rozptýlené kouzlo vyvolalo nižší než ta sesilatele *rozptyl magii*, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rozptýleného kouzla uspět v záchranném hodu.
+**Úrovně čarodějů:** Pokud je úroveň sesílání stvoření, které rozptýlené kouzlo vyvolalo nižší než ta sesilatele *rozptyl magii*, kouzlo je ihned ukončeno. V opačném případě musí původní sesilatel rozptýleného kouzla uspět v záchranném hodu, aby jeho kouzlo setrvalo (hod se provádí za každé ovlivněné kouzlo).
 
 **Magické předměty a prokletí:** Nejsou ovlivněny.
 
@@ -452,7 +452,7 @@
 
 **Dosah:** 40 metrů
 
-**Efekt:** Všechny pohybové rychlosti očarovaného stvoření jsou zdvojnásobeny. Taktéž může stvoření během svého tahu provést 2 akce na místo 1.
+**Efekt:** Všechny pohybové rychlosti očarovaného stvoření jsou *zdvojnásobeny*. Taktéž může stvoření během svého tahu provést *2 akce* na místo 1.
 
 <img src="/assets/sep_line.png"/>
 
@@ -462,9 +462,9 @@
 
 **Dosah:** 20
 
-**Efekt:** Očarované stvoření a další vybraná stvoření v okolí 3 metry kolem něj se zabalí do iluze, která je uschová před běžným zrakem. Subjekty jsou zneviditelněný včetně všech svých součástí při seslání kouzla (např. výbava).
+**Efekt:** Očarované stvoření a další vybraná stvoření v okolí *3 metry* kolem něj se zabalí do iluze, která je uschová před běžným zrakem. Subjekty jsou zneviditelněný včetně všech svých součástí při seslání kouzla (např. výbava).
 
-**Pohyblivá zóna:** Tato oblast 3 metrů kolem očarovaného stvoření se s ním i pohybuje. Pokud nějaké ovlivněné stvoření tuto zónu opustí, neviditelnost ztratí a již ji nemůže získat zpět. 
+**Pohyblivá zóna:** Tato oblast *3* metrů kolem očarovaného stvoření se s ním i pohybuje. Pokud nějaké ovlivněné stvoření tuto zónu opustí, neviditelnost ztratí a již ji nemůže získat zpět. 
 
 **Útok:** Pokud některé ovlivněné stvoření zaútočí, sešle kouzlo nebo provede jinou podobně agresivní akci. Nenávratně ztratí svou neviditelnost. Pokud tak učiní prvotní cíl kouzla, kouzlo je ukončeno a neviditelnost ztracena pro všechny ovlivněné.
 
@@ -492,11 +492,11 @@
 
 **Dosah:** 20 metrů
 
-**Efekt:** Mág vyvolá ledovou stěnu skládající se až z *L\*2* polo-průhledných ledových pilířů. Každý pilíř má délku a šířku *1 metr* a výšku až *4 metry*. Stvoření 3. nebo nižší úrovně nejsou schopny tuto stěnu překonat.
+**Efekt:** Mág vyvolá ledovou stěnu skládající se až z *Lx2* polo-průhledných ledových pilířů. Každý pilíř má délku a šířku *1 metr* a výšku až *4 metry*. Stvoření *3.* nebo nižší úrovně nejsou schopny tuto stěnu překonat.
 
 **Umisťování pilířů:** Sesilatel může pilíře umístit kdekoliv v dosahu kouzla avšak musí splnit tyto podmínky:
 
-- Pilíř musí na něčem stát (třeba na zemi)
+- Pilíř musí na něčem pevném stát (třeba na zemi)
 - Pilíř nelze vytvořit na místech obsazených nehybnými objekty.
 - Každý další pilíř musí navazovat na ten předchozí.
 - Pilíře nemohou navazovat ve větším úhlu jak *45°*.
@@ -511,9 +511,9 @@
 
 **Dosah:** 100 metrů
 
-**Efekt:** Mág si nad rukou vytvoří neviditelné oko, kterým může následně prozkoumávat okolí. Mágovo oko vidí ve tmě na 10 metrů a umí létat rychlostí až 20 metrů za kolo. Nesmí se však vzdálit z dosahu sesilatele. I když neviditelné oko má stále fyzickou formu o velikosti lidského oka.
+**Efekt:** Mág si nad rukou vytvoří neviditelné oko, kterým může následně prozkoumávat okolí. Mágovo oko vidí ve tmě na *10 metrů* a umí létat rychlostí až *20 metrů* za kolo. Nesmí se však vycestovat mimo dosah kouzla. I když neviditelné oko má stále fyzickou formu o velikosti lidského oka.
 
-**Hluboká koncentrace:** Používání oka může být dezorientující. Mág se při koncentraci na tohle kouzlo nemůže ani pohybovat.
+**Hluboká koncentrace:** Používání oka může být dezorientující. Mág se při koncentraci na tohle kouzlo nemůže pohybovat.
 
 <img src="/assets/sep_line.png"/>
 
@@ -526,7 +526,7 @@
 **Efekt:** Mág rozváže nebo usměrní nitky osudu protínající stvoření jedním z následujících způsobů:
 
 - **Odstraň prokletí:** Očarované stvoření je trvale vyléčeno z jednoho prokletí, které jej ovlivňovalo. Alternativně je mu umožněno zbavit se jednoho oblečeného prokletého předmětu. Tohle kouzlo nelze použít na odstranění prokletí z předmětů.
-- **Uval prokletí:** Na očarované stvoření je uvaleno prokletí. Prokletí může být v podobě až -5 bodů do specifické dovednosti nebo třeba nějaký adekvátní behaviorální efekt (např.: Již nikdy nedokážeš vstoupit na svou loď). Prokletí je trvalé.
+- **Uval prokletí:** Na očarované stvoření je uvaleno prokletí. Prokletí může být v podobě postihu až *-4* bodů do specifické dovednosti nebo třeba nějaký adekvátní behaviorální efekt (např.: Již nikdy nedokážeš vstoupit na loď). Prokletí je trvalé.
 
 **Vícero prokletí:** Jedno stvoření může být pod efektem vícero prokletí, pokud mají rozdílné efekty. 
 
@@ -538,11 +538,11 @@
 
 **Dosah:** 20 metrů
 
-**Efekt:** Mág vyvolá ohnivou stěnu skládající se až z *L\*2* divokých plamenů. Každý plamen má délku a šířku *1 metr* a výšku až *4 metry*. Stvoření 3. nebo nižší úrovně, které se pokusí plamen projít, jsou zničeny.
+**Efekt:** Mág vyvolá ohnivou stěnu skládající se až z *Lx2* divokých plamenů. Každý plamen má délku a šířku *1 metr* a výšku až *4 metry*. Stvoření *3.* nebo nižší úrovně, které se pokusí plamen projít, jsou zničeny.
 
 **Umisťování plamenů:** Sesilatel může plameny umístit kdekoliv v dosahu kouzla avšak musí splnit tyto podmínky:
 
-- Plamen musí na něčem stát (třeba na zemi)
+- Plamen musí na něčem pevném stát (třeba na zemi)
 - Plamen nelze vytvořit na místech obsazených nehybnými objekty.
 - Každý další plamen musí navazovat na ten předchozí.
 - Plameny nemohou navazovat ve větším úhlu jak *45°*.
@@ -557,7 +557,7 @@
 
 **Dosah:** 20 metrů
 
-**Efekt:** Mág sešle mocné mysl modifikující kouzlo na *3k6* stvoření 3. nebo nižší úrovně nebo na 1 stvoření vyšší úrovně. Cílená stvoření musí uspět v záchranném hodu. Při neúspěchu budou považovat sesilatele za velmi dobrého přítele. 
+**Efekt:** Mág sešle mocné mysl modifikující kouzlo na *3k6* stvoření *3.* nebo nižší úrovně nebo na *1* stvoření *4.* nebo vyšší úrovně. Cílená stvoření mohou podstoupit záchranný hod. Při neúspěchu budou považovat sesilatele za velmi dobrého přítele. 
 
 **Chování okouzleného:** Okouzlený je vůči sesilateli nápomocný jak jen to jde, taktéž bude následovat rozkazy sesilatele, pokud nejsou v rozporu s jeho zvyky či morálkou nebo pokud jej neohrozí na životě.
 
@@ -569,7 +569,7 @@
 
 **Dosah:** 20 metrů
 
-**Efekt:** Kouzlo pomate 3k6 náhodně vybraných stvoření v oblasti velikosti 10 začínající v dosahu kouzla. Pomatená stvoření ztrácí kontrolu nad svými akcemi.
+**Efekt:** Kouzlo pomate *3k6* náhodně vybraných stvoření v oblasti velikosti *10* začínající v dosahu kouzla. Pomatená stvoření ztrácí kontrolu nad svými akcemi.
 
 **Stvoření 3 nebo vyšší úrovně:** Každé kolo trvání kouzla má nárok na záchranný hod. Pokud uspěje, může v daném kole konat dle své svobodné vůle.
 
@@ -591,7 +591,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Průchod o průměru a hloubce až 2 metry se otevře ve stěně. Otvor nemá žádný vliv na strukturální stabilitu stěny. Ta se chová stále jako by v ní žádná díra nebyla.
+**Efekt:** Průchod o průměru a hloubce až *2 metry* se otevře ve stěně. Otvor nemá žádný vliv na strukturální stabilitu stěny. Ta se chová stále jako by v ní žádná díra nebyla.
 
 <img src="/assets/sep_line.png"/>
 
@@ -621,9 +621,9 @@
 
 **Dosah:** 2 metry / 100 metrů
 
-**Efekt:** Mág přemístí sebe nebo jedno stvoření ve vzdálenosti do 2 metrů. Na jiné místo až 100 metrů daleko.
+**Efekt:** Mág přemístí sebe nebo jedno stvoření ve vzdálenosti do *2 metrů*. Na jiné místo až *100 metrů* daleko.
 
-**Místo určení:** Cílené místo pro teleportaci může být buď libovolné místo do vzdálenosti 100 metrů, které sesilatel vidí. Nebo může být určeno koordináty, které dohromady dají 100 metrů (např.: 20 metrů na sever, 70 metrů na východ a 10 metrů dolů). Pokud na stanoveném místě není volný prostor pro přemístění, kouzlo selže.
+**Místo určení:** Cílené místo pro teleportaci může být buď libovolné místo do vzdálenosti *100 metrů*, které sesilatel vidí. Nebo může být určeno souřadnicemi, které dohromady dají 100 metrů (např.: 20 metrů na sever, 70 metrů na východ a 10 metrů dolů). Pokud na stanoveném místě není volný prostor pro přemístění, kouzlo selže.
 
 **Odolání:** Stvoření, které si nepřeje být přemístěno se může pokusit odolat úspěšným záchranným hodem.
 
@@ -635,9 +635,9 @@
 
 **Dosah:** 20 metrů
 
-**Efekt:** Vyšle řetězící se blesk, který zasáhne stvoření v dosahu a následně se odrazí na dalších *L* stvoření. Přeskakující vždy na nejbližší stvoření v okolí *2 metrů* od posledního zasaženého stvoření. Žádné stvoření nemůže být zasaženo více jak jedenkrát a pokud kouzlo nemá kam dále přeskočit, před vyčerpáním počtu odražení, tak končí.
+**Efekt:** Vyšle řetězící se blesk, který zasáhne stvoření v dosahu a následně se odrazí postupně na dalších *L* stvoření. Přeskakující vždy na nejbližší stvoření v okolí *2 metrů* od posledního zasaženého stvoření. Žádné stvoření nemůže být zasaženo více jak jedenkrát a pokud kouzlo nemá kam dále přeskočit, před vyčerpáním počtu odražení, tak kouzlo končí.
 
-**Poškození:** Každé zasažené stvoření obdrží *3k12* poškození. Může se pokusit jej zredukovat na polovinu úspěšným záchranným hodem. 
+**Poškození:** Každé zasažené stvoření obdrží *4k12* poškození. Může se pokusit jej zredukovat na polovinu úspěšným záchranným hodem. 
 
 <img src="/assets/sep_line.png"/>
 
@@ -645,13 +645,13 @@
 
 **Trvání:** L kol
 
-**Dosah:** Oblast velikosti 5 dotýkající se pozice sesilatele
+**Dosah:** Oblast velikosti *5* dotýkající se pozice sesilatele
 
 **Efekt:** Vír magické energie zasáhne stvoření v oblasti a k smrti je vyděsí. Zasažená stvoření musí uspět v záchranném hodu jinak se dají na útěk.
 
-**Akce zasažených stvoření:** Zasažená stvoření během trvání kouzla používají jak svůj pohyb tak svou akci na to, aby se přesunuli od sesilatele.
+**Akce zasažených stvoření:** Zasažená stvoření během trvání kouzla používají jak svůj pohyb tak svou akci na to, aby se vzdálili od sesilatele.
 
-**Zahazování předmětů:** Pokud stvoření neuspěje v záchranném hodu *o 5 nebo více* nebo hodí na záchranu přirozenou *1*. Kromě útěku i upustí na zem to co drželo v rukách. 
+**Zahazování předmětů:** Pokud stvoření neuspěje v záchranném hodu *o 5 nebo více* nebo hodí na záchranu přirozenou *1*. Kromě útěku i upustí na zem vše co drželo v rukách. 
 
 <img src="/assets/sep_line.png"/>
 
@@ -671,7 +671,7 @@
 
 **Neplnění úkolu:** Pokud se stvoření svým chováním snaží odporovat svému údělu. Utrpí postupně zhoršující se postihy (dle uvážení PK) a nakonec zemře.
 
-**Odstranění:** Kouzlo *Rozptyl magii* nemá na *Geas* žádný efekt. Lze jej však odstranit kouzlem  *Manipuluj osud* pokud je sesilatel aspoň o *2 úrovně vyšší*. Alternativně, je-li *Geas* konečně splnitelný, dá se ukončit jeho splněním.
+**Odstranění:** Kouzlo *Rozptyl magii* nemá na *Geas* žádný efekt. Lze jej však odstranit kouzlem  *Manipuluj osud* nebo *Sejmi kletbu* pokud je sesilatel aspoň o *2 úrovně vyšší*. Alternativně, je-li *Geas* konečně splnitelný, dá se ukončit jeho splněním.
 
 <img src="/assets/sep_line.png"/>
 
@@ -693,9 +693,9 @@
 
 **Dosah:** Sesilatel
 
-**Efekt:** Mága obalí ochranný štít magické energie, který jej ochraňuje před všemi kouzli 3. nebo nižší třídy (včetně svitků, hůlek a jiných obdobných předmětů). Sesilatel může tohle kouzlo kdykoliv předčasně ukončit.
+**Efekt:** Mága obalí ochranný štít magické energie, který jej ochraňuje před všemi kouzli *3.* nebo nižší třídy (včetně svitků, hůlek a jiných obdobných předmětů). Sesilatel může tohle kouzlo kdykoliv předčasně ukončit.
 
-**Rozptyl magii:** Může předčasně ukonči Proti-magický štít.
+**Rozptyl magii:** Může vyrušit Proti-magický štít.
 
 <img src="/assets/sep_line.png"/>
 
@@ -762,11 +762,11 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Mág ze svých rukou vypustí mrak jedovatého plynu, který naplní oblast velikosti 10 dotýkající se jeho pozice. 
+**Efekt:** Mág ze svých rukou vypustí mrak jedovatého plynu, který naplní oblast velikosti *10* dotýkající se jeho pozice. 
 
 **Pohyb plynu:** Mrak plynu se každé kolo pohne o 2 metry po směru větru. Plyn je také těžší než vzduch, takže má tendenci klesat (např.: z kopce či do děr v zemi).
 
-**Poškození:** Každé stvoření, kterého se plyn dotkne nebo které ukončí svůj tah v tomto plynu. Obdrží *2 poškození*. Pokud se jedná o stvoření 4. úrovně nebo méně musí navíc pokaždé uspět v záchranném hodu jinak zemře.
+**Poškození:** Každé stvoření, kterého se plyn dotkne nebo které ukončí svůj tah v tomto plynu. Obdrží *2 poškození*. Pokud se jedná o stvoření *4.* úrovně nebo méně musí navíc pokaždé uspět v záchranném hodu jinak zemře.
 
 <img src="/assets/sep_line.png"/>
 
@@ -776,7 +776,7 @@
 
 **Dosah:** 30 metrů
 
-**Efekt:** Mág svým soustředěním pohne na dálku předmětem nebo stvořením o maximální váze *2\*L slotů*.
+**Efekt:** Mág svým soustředěním pohne na dálku předmětem nebo stvořením o maximální váze *2xL slotů*.
 
 **Pohyb:** Sesilatel může pohnout očarovaným subjektem libovolným směrem (i vertikálně) a rychlostí *4 metry za kolo*.
 
@@ -793,17 +793,17 @@
 
 **Dosah:** Dotyk
 
-**Efekt:** Mág nebo cílené stvoření je přemístěno se vší svou výbavou na místo určené sesilatelem. Pokud si stvoření nepřeje být přemístěno může se pokusit odolat úspěšným záchranným hodem.
+**Efekt:** Mág nebo cílené stvoření je přemístěno se vší svou výbavou na místo kdekoliv na světě určené sesilatelem. Pokud si stvoření nepřeje být přemístěno může se pokusit odolat úspěšným záchranným hodem.
 
-**Místo určení:** Může být libovolné místo, které sesilatel zná, jakkoliv daleko a však musí v něm být dost místa pro přenášené stvoření. Přemístěné stvoření se musí také přistát nohama na zemi.
+**Místo určení:** Může být libovolné místo, které sesilatel zná, jakkoliv daleko (ale ve stejné sféře bytí) a však musí v něm být dost místa pro přenášené stvoření. Přemístěné stvoření také musí přistát nohama na zemi.
 
 **Riskantní teleportace:** Pokud seislatel nemá dobrou znalost cíleného místa. Například proto, že na něm byl jen párkrát nebo už je to dávno. Přenášené stvoření musí také podstoupit *hod štěstí* s následujícími výsledky:
 
-|  1k6  | Destinace                                              |
-| :---: | ------------------------------------------------------ |
-|   1   | Přemístěný se objeví 1k20 metrů pod místem určení*\**. |
-|   2   | Přemístěný se objeví 1k20 metrů nad místem určení*\**. |
-| 3 - 6 | Přemístěný se objeví na místě dle očekávání.           |
+|  1k6  | Destinace                                                |
+| :---: | -------------------------------------------------------- |
+|   1   | Přemístěný se objeví *1k20* metrů pod místem určení*\**. |
+|   2   | Přemístěný se objeví *1k20* metrů nad místem určení*\**. |
+| 3 - 6 | Přemístěný se objeví na místě dle očekávání.             |
 
 *\* Pokud se přemístěný objeví v pevném objektu tak zemře*
 
@@ -830,7 +830,7 @@
 
 **Efekt:** Probere živly k životu a vytvoří masivní živelné stvoření (z ohně, větru, vody nebo země) a podřídí jej dočasné kontrole mága.
 
-**Komponenty:** Vyvolání elementála vyžaduje velké množství daného materiálu.
+**Komponenty:** Vyvolání elementála vyžaduje velké množství živelného materiálu ze kterého má být stvořen.
 
 **Koncentrace:** Dokud sesilatel drží koncentraci, tak má kontrolu nad elementálem a může mu dávat rozkazy a také jej může kdykoliv odvolat. Ztratí-li koncentraci, elementála již nemůže odvolat a ten na něj zaútočí.
 
