@@ -100,15 +100,15 @@ Každá hráčská postava je definovaná následujícím atributy, které má k
 
 ### Rasa
 
-Každá hráčská postava je příslušníkem nějaké fantastické rasy. Ať už jsou to Trpaslíci, Elfové nebo obyčejní Lidé. Rasa většinou poskytuje nějaké speciální schopnost a podobně jako původ i vědomosti spjaté s touhle rasou. Více o dostupných hráčských rasách ==TODO:Link==.
+Každá hráčská postava je příslušníkem nějaké fantastické rasy. Ať už jsou to Trpaslíci, Elfové nebo obyčejní Lidé. Rasa většinou poskytuje nějaké speciální schopnost a podobně jako původ i vědomosti spjaté s touhle rasou.
 
 ### Původ
 
-Původ popisuje nějakou životní zkušenost vzniklou před začátkem hry. Hráč se může pokusit aplikovat svůj původ na řešení problému ve hře a tím získat nějaké bonusy (většinou výhodu k ověřovacímu hodu). Seznam původů ==TODO:Link==
+Původ popisuje nějakou životní zkušenost vzniklou před začátkem hry. Hráč se může pokusit aplikovat svůj původ na řešení problému ve hře a tím získat nějaké bonusy (většinou výhodu k ověřovacímu hodu).
 
 ### Specializace
 
-Specializace je hlavním gró postavy a dává jí naprostou většinu jejich speciálních schopností. Popis jednotlivých specializací lze nalézt ==TODO:link==
+Specializace je hlavním gró postavy a dává jí naprostou většinu jejich speciálních schopností.
 
 ### Úroveň
 
@@ -131,7 +131,7 @@ Speciální body, které slouží hráčům jako esa v rukávu a která, může 
 
 ### Dovednosti
 
-Dovednosti jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==. 
+Dovednosti jsou již rozebrány na [začátku této kapitoly](/Zakladni_pravidla/#dovednosti).
 
 ### Životy
 
@@ -157,7 +157,7 @@ Obranné číslo určuje jak těžké je zasáhnou postavu útokem v boji. Zákl
 
 ### Záchranný hod (ZH)
 
-Záchranné hody jsou již rozebrány na začátku této kapitoly ==TODO:odkaz==.
+Záchranné hody jsou již rozebrány [na začátku této kapitoly](/Zakladni_pravidla/#zachranne-hody).
 
 ### Rychlost
 
@@ -169,13 +169,13 @@ Určuje kolik metrů je postava se schopna pohnout během svého tahu v boji. Je
 
 ### Útoky
 
-Zbraně a jejich statistiky nebo jiné formy útoků, které postava může provádět. Více o boji ==TODO: link==
+Zbraně a jejich statistiky nebo jiné formy útoků, které postava může provádět. Více o boji [zde](/Procedury/#setkani-a-konflikt).
 
 ### Jazyky
 
 Většinou získané volbou rasy, talentu a nebo vysokou hodnotou dovednosti Mysl. Pokud postava získá nespecifikovaný jazyk. Může si vybrat jaký jazyk se naučí až ve chvíli, kdy se s daným jazykem setká ve hře.
 
--   **Inteligentní monstra:** Inteligentní monstra mají šanci *1-z-6-ti* (6 na hodu štěstí) že ovládají obecnou řeč.
+-   **Inteligentní monstra:** Inteligentní monstra ovládají obecnou řeč při výsledku *6* na kostce štěstí.
 
 ### Talenty
 
@@ -185,10 +185,10 @@ Dodatečné schopnosti získané postupem na vyšší úroveň. Otevírající n
 
 ### Kouzla
 
-Seznam kouzel, které postava může používat. Čarování je komplikovanější záležitost na delší povídání. Více tedy ==TODO: link==
+Seznam kouzel, které postava může používat. Čarování je komplikovanější záležitost na delší povídání. Více o magii [zde](/Magie).
 
 ### Vybavení
 
-Zbraně, brnění a jiná výbava, kterou může postava aplikovat na řešení problému. Výběr výbavy a pravidla pro nosnost ==TODO: link==.
+Zbraně, brnění a jiná výbava, kterou může postava aplikovat na řešení problému. Výběr výbavy a pravidla pro nosnost naleznete [zde](/Vybaveni).
 
 <img src="/assets/prav_hry_growth.webp"/>

@@ -170,21 +170,22 @@ Splnění milníku často mívá asociovanou cenu. Pokud postava není schopna c
 
 Nejběžnější volno-časové aktivity.
 
-**Zotavení**
+#### Zotavení
 
 Postava si může zaplatit léčitelské služby pro zotavení se z následků dlouhodobějšího charakteru. Všechna ostatní běžná zranění se během doby mezi dobrodružství (pokud dobrodružství skončilo v bezpečné lokalitě) automaticky vyléčí (magie se také doplní).
 
-**Naučit se něco nového** ==TODO: zavést koncept nedokonalých talentů, zlepšovaných tréninkem a investicemi== (navázat na MYS? jako limit)
+#### Naučit se něco nového
 
-Postava se může zlepšit v určité aktivitě či naučit se něco nového. Hráčská postava se nikdy nemůže naučit talent navíc nebo talent z jiné specializace. Lze se však naučit věci jako nový jazyk, věnovat se nějaké profesi (např bylinkářství), přeučit se některý ze svých talentů za něco jiného nebo získat přístup k novým talentům či kouzlům.
+Postava se může zlepšit v určité aktivitě, přeučit se existující talent či naučit se nedokonalý talent navíc.
 
 - **Mistr:** K učení je vždy potřeba mistr nebo nějaký trenér.
+- **Nedokonalý talent:** Je talent získaný mimo postup na novou úroveň a jehož používání má nějaké nedostatky nebo negativní následky, které se však dají jeho aktivním používáním a opakovaným tréninkem a investicemi postupem času odstranit.
 
-**Navazování a utužování vztahů**
+#### Navazování a utužování vztahů
 
 Postava může zlepšovat své vztahy s jinými NPC či frakcemi. Hráč určí s kým chce utužovat svůj vztah a za jakým účelem (co z toho chce na konec dostat). Strážce pak stanoví *milníky* a *ceny* k dosažení tohoto cíle.
 
-**Získávání informací**
+#### Získávání informací
 
 Postava může hledat odpověď na specifickou otázku. Věci jako: kde nalézt určité NPC, jak odolat dračímu ohni, kde najít specifický magický předmět. Při stanovení zkoumané otázky musí hráč vycházet ze znalostí své postavy.
 

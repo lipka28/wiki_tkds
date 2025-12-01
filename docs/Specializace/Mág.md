@@ -31,9 +31,9 @@ asd ==TODO: popis a art?==
 
 ### Magika
 
-Mágové disponují schopností ovládat magii ve formě Magiky. Podrobné vysvětlení magie a Magiky naleznete ==TODO:odkaz==.
+Mágové disponují schopností ovládat magii ve formě Magiky. Podrobné vysvětlení magie a Magiky naleznete [zde](/Magie).
 
-**Získávání kouzel:** Mág začíná hru s *2-ma* kouzly vlastního výběru ze seznamu kouzel *1. třídy* pro mága ==TODO: odkaz==. Pokaždé, když mág postoupí na novou úroveň, tak si může vybrat *1* další kouzlo třídy, kterou umí seslat. Dostupnou třídu kouzel určuje tabulka postupu výše.
+**Získávání kouzel:** Mág začíná hru s *2-mi* kouzly vlastního výběru ze [seznamu kouzel 1. třídy pro mága](/Seznamy kouzel/Mág/#kouzla-1-tridy). Pokaždé, když mág postoupí na novou úroveň, tak si může vybrat *1* další kouzlo třídy, kterou umí seslat. Dostupnou třídu kouzel určuje tabulka postupu výše.
 
 **Magická energie:** Mág disponuje magickou energií (ME), určenou tabulkou postup výše. Lze však získat další magickou energii například s předmětů či talentů. Magická energie slouží k sesílání kouzel, kdy cena ME sesílaného kouzla odpovídá jeho třídě (kouzlo 1. třídy = 1 ME). Magická energie se plně doplní, řádným přenocováním.
 

@@ -46,11 +46,11 @@ asd ==TODO: popis a art?==
 
 ### Zázračná magie
 
-Zaříkávač disponuje schopností ovládat Zázračnou magii. Podrobné vysvětlení magie a Zázračné magie naleznete ==TODO:odkaz==.
+Zaříkávač disponuje schopností ovládat Zázračnou magii. Podrobné vysvětlení magie a Zázračné magie naleznete [zde](/Magie).
 
 **Zázraky:** Zaříkávač začíná hru s možností seslat 1 zázrak první třídy denně. Postupem na vyšší úrovně získává schopnost sesílat více zázraků a zázraky vyšších tříd.
 
-**Příprava zázraků:** Zaříkávač, který není *vyčerpaný*, může jedenkrát denně podstoupit hodinový meditační rituál (většinou na začátku dne), kterým získá určený počet zázraků podle tabulky zázraků dle úrovně výše. Během této meditace si zaříkávač určí, které zázraky ze svého seznamu kouzel bude chtít sesílat. Pokud některý zázrak bude chtít seslat vícekrát. Musí si ho také vícekrát vybrat. Zaříkávač má pak daný zázrak připravený dokud jej nepoužije nebo dokud nepodstoupí další meditační rituál.
+**Příprava zázraků:** Zaříkávač, který není *vyčerpaný*, může jedenkrát denně podstoupit hodinový meditační rituál (většinou na začátku dne), kterým získá určený počet zázraků podle tabulky zázraků dle úrovně výše. Během této meditace si zaříkávač určí, které zázraky ze svého [seznamu zázraků](/Seznamy kouzel/Zaříkávač/#zarikavac-seznam-zazraku) bude chtít sesílat. Pokud některý zázrak bude chtít seslat vícekrát. Musí si ho také vícekrát vybrat. Zaříkávač má pak daný zázrak připravený dokud jej nepoužije nebo dokud nepodstoupí další meditační rituál.
 
 **Magické předměty:** Zaříkávač dokáže aktivovat magické svitky Zázračné magie, bez nutnosti ověřování dovednosti. Také dokáže aktivovat magické předměty (především hole) určené pro uživatele Zázračné magie.
 

@@ -6,7 +6,7 @@ Sada obecných talentů, které jsou přístupné všem specializacím.
 
 ### Větší inventář
 
-**Omezení:** ???
+**Omezení:** -
 
 **Opakování:** Lze vzít opakovaně
 
