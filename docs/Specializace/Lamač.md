@@ -36,6 +36,8 @@ Oko - a whatevr to přináší za bonusy (také bude dávat bonus k hit)
 - Hit bonus (no damage bonus) na nepřátele v dosahu svého oka
 - See magic (5 metrů)
 
+všechny magií dotčené subjekty vidí barveně světélkovat. Dokáže tím také rozpoznat jaká kouzla sesílají ostatní kouzelníci a kdo nebo co je jejich cílem.
+
 ### Ochranné tetování
 
 + +2 MO a snížení efektivity kouzel na tebe o polovinu problém s používáním magických předmětů?
@@ -61,7 +63,7 @@ Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si 
 <img src="/assets/sep_line.png"/>
 
 - break magic
-- Adv on magic saves
+- Adv on magic saves v dosahu oka
 - žadný postih na používání magických předmětů
 - to hit progress
 - Extended see magic 10 metrů
