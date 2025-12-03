@@ -1,10 +1,12 @@
-# Pouštní Ogrové (Orgrilové)
+# Orgril (Pouštní Ogr)
 
 *Popisek* ==TODO: Doplnit popisek==
 
 <img src="/assets/sep_line.png"/>
 
 **Jazyky:** *Obecná řeč* a *Orgrilština* + běžné jazyky ve výši tvé dovednosti *MYS*.
+
+**Předpokládaná doba dožití:** 70 - 100 let
 
 **Rychlost:** 6 metrů
 

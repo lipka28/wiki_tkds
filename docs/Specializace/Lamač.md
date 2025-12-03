@@ -29,12 +29,12 @@ asd ==TODO: popis a art?==
 
 ## Schopnosti povolání
 
-### Gausovo oko
+### Gaulosovo oko
 
 Oko - a whatevr to přináší za bonusy (také bude dávat bonus k hit)
 
 - Hit bonus (no damage bonus) na nepřátele v dosahu svého oka
-- See magic (10 metrů)
+- See magic (5 metrů)
 
 ### Ochranné tetování
 
@@ -64,7 +64,7 @@ Pokud tě žádný s talentů neoslovil a máš nápad na vlastní. Můžeš si 
 - Adv on magic saves
 - žadný postih na používání magických předmětů
 - to hit progress
-- Extended see magic 20 metrů
+- Extended see magic 10 metrů
 - Identify magic (pomocí vize)
 - Quick break (break magic mimo akci)
 - Two weapon fighting

@@ -66,7 +66,7 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 **Boj dvěma zbraněmi:** Kdokoliv může držet 2 zbraně a však útok může provést jen s jednou. Efektivní využití obou zbraní vyžaduje některé specializace nebo talenty.
 
-**Bojové manévry:** Jako jsou shození na zem, odkopnutí, či odzbrojení. Jsou čistě režiji PK. Pokud stvoření nebo postava nemá schopnost či talent, co by určoval jinak. Nejčastějšími metodami vyhodnocení jeho hod na zásah, záchranný hod nebo kombinace obojího.
+**Bojové manévry:** Jako jsou shození na zem či odkopnutí. Jsou čistě režiji PK. Pokud stvoření nebo postava nemá schopnost či talent, co by určoval jinak. Nejčastějšími metodami vyhodnocení jeho hod na zásah, záchranný hod nebo kombinace obojího.
 
 **Coup de grâce:** Bezmocní nepřátelé. Jako  například zmražení, paralyzovaní nebo třeba spící. Jsou zasaženi útokem bez potřeby házet na zásah. Při zásahu obdrží automaticky kritický zásah nebo jsou dokonce okamžitě zabiti (dle uvážení PK).
 

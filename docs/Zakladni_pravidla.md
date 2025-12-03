@@ -56,6 +56,8 @@ Hráčské postavy disponují 5-ti základními dovednostmi, které slouží př
 - **Hbitost (HBI):**  Zahrnuje pohotovost, zručnost, rovnováhu a reflexy. Využívá se třeba při pokusech o udržení rovnováhy ale i aktivitách vyžadujících manuální zručnost. Používá se také pro hody na zásah zbraní na dálku a někdy se přičítá k obrannému číslu.
 - **Vytrvalost (VYT):** Představuje odolnost, vytrvalost a zdraví jedince. Přičítá se k životům na první úrovni.
 - **Mysl (MYS):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů. Také má vliv na některé magické specializace a počet jazyků, které postava ovládá.
+    - *Negramotnost:* Pokud je tvá dovednost *Mysl* nižší jak *0*, jsi negramotný.
+
 - **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Inteligence, používá se u některých typů magie. Také se přičítá, jako magická odolnost k záchranným hodům proti magickým efektům.
 
 **Ztráta a doplňování dovednostních bodů:** Některá monstra mají schopnost dočasně nebo i dlouhodobě snížit některé dovednostní body. Pokud však není nic co by doplnění dovednostních bodů bránilo. Dovednostní body se doplňují rychlostí *1 bod za přenocování* (předpokládá se řádné přenocování jako u doplňování života popsáno níže.
