@@ -33,7 +33,7 @@ asd ==TODO: popis a art?==
 
 Ne tak tajná zbraň všech lamačů kouzel. Magicky upravené levé oko, které lamačům umožňuje vidět magii a lépe se tedy orientovat při boji s magickými nestvůrami a čaroději. Dosah Gaulosova oka je *5 metrů* a poskytuje lamači následující schopnosti:
 
-- **Bonus k zásahu:** Lamač má bonus ve výši poloviny své úrovně k zásahu proti cílům v dosahu jeho Gaulosova oka.
+- **Bonus k zásahu:** Lamač má bonus ve výši poloviny své úrovně (zaokrouhleno nahoru) k zásahu proti cílům v dosahu jeho Gaulosova oka.
 - **Vidění magie:** Lamač vidí všechny magií dotčené subjekty barveně světélkovat. Dokáže tím také rozpoznat jaká kouzla jsou sesílány a kdo nebo co je jejich cílem. A však neposkytuje žádný bonus k prokouknutí iluzí či neviditelnosti.
 
 ### Ochranné tetování

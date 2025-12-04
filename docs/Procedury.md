@@ -84,9 +84,9 @@ Stvoření pohybující se obtížným terénem se může pohybovat maximálně 
 
 **Kategorie morálky:**
 
-- **Slabá:** Stvoření uteče nebo se vzdá při výsledcích *4 - 6*.
-- **Normální:** Stvoření uteče nebo se vzdá při výsledcích *5* a *6*.
-- **Výjimečná:** Stvoření uteče nebo se vzdá při výsledku *6*.
+- **Slabá:** Stvoření uteče nebo se vzdá při výsledcích *1 - 3*.
+- **Normální:** Stvoření uteče nebo se vzdá při výsledcích *1* a *2*.
+- **Výjimečná:** Stvoření uteče nebo se vzdá při výsledku *1*.
 - **Neoblomná:** Stvoření bojuje do své smrti. 
 
 ### Negativní stavy

@@ -35,7 +35,7 @@ asd ==TODO: popis a art?==
 
 ### Zlodějství
 
-Přežíváním v ulicích měst si se kde co naučil. V první řadě to, že své nástroje obživy nikdy nedáš z ruky. Máš u sebe vždy *zlodějské náčiní*, které nezabírá místo v inventáři a také má neomezený počet použití. Navíc máš výhodu na ověřovací hody při vykonávání aktivit spjatých se zlodějstvím. Jako jsou:
+Přežíváním v ulicích měst si se kde co naučil. V první řadě to, že své nástroje obživy nikdy nedáš z ruky. Vždy máš u sebe *zlodějské náčiní*, které nezabírá místo v inventáři a také má neomezený počet použití. Navíc máš výhodu na ověřovací hody při vykonávání aktivit spjatých se zlodějstvím. Jako jsou:
 
 -   Kapsářství a podobné drobné triky vyžadující hbité prsty
 -   Manipulace drobných mechanizmů jako jsou zámky či pasti

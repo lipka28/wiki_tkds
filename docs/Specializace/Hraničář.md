@@ -29,15 +29,22 @@ asd ==TODO: popis a art?==
 
 ## Schopnosti povolání
 
-### asd
+### Mistr přežití
 
-asd Harničářská thing pro přežití v divočině (různé adv)
+Díky svým zkušenostem s divočinou máš výhodu na ověřovací hody spojené s:
 
-### asd
+- Improvizovaná výroba (např pastí či přístřešků)
+- Orientací v divočině
+- Plížení se a schovávaní
+- Stopování
+- Šplhání po přírodních površích
+- Zvířaty
 
-Hunters mark (bonusy na označené stvoření)
+### Lovec
 
-### asd
+Hraničář má bonus ve výši poloviny své úrovně (zaokrouhleno nahoru) do zásahu útoky na dálku.
+
+### Zvířecí společník
 
 Ranger magic
 
