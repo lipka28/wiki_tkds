@@ -21,7 +21,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-### Odhal zlo
+### Odhal zlo ==todo: nahradit za rally (buď tohle nebo nemrtvý služebník)==
 
 **Trvání:** L směn
 
