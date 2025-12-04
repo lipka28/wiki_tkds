@@ -46,7 +46,11 @@ Hraničář má bonus ve výši poloviny své úrovně (zaokrouhleno nahoru) do 
 
 ### Zvířecí společník
 
-Ranger magic
+Hraničář si může utvořit pevné mimořádné pouto s jedním zvířetem, které mu bude následně oddaně sloužit a pomáhat.
+
+- **Úroveň zvířete:** Zvíře musí být stejné nebo nižší úrovně jako hraničář (s výjimkou první úrovně, kde zvíře může mít úroveň 2).
+- **Typ zvířete:** Hraničář může navázat spojení s libovolným zvířetem. Zvíře nemůže mít lidskou inteligenci. PK může povolit navázaní pouta s fantastickými nebo zvířaty nebo obřími variantami zvířat.
+- **Navázání spojení:** Hraničář nabídne zvířeti kus nějaké potravy a podobu 1 směny s ním mírumilovně interaguje. Následně hraničář podstoupí ověření *SRD*. Pokud uspěje, zvíře se stane jeho společníkem.
 
 <img src="/assets/sep_line.png"/>
 
