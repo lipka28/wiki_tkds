@@ -48,7 +48,7 @@ Tvůj dosavadní život byl stráven jako vyšetřovatel nebo soukromé očko, r
 
 ## Farmářský pacholek
 
-Tvůj dosavadní život byl stráven tvrdou prací na poli, v zemědělství nebo jako pomocná síla v rodinné usedlosti, zvyklý na  drsný venkovský život.
+Tvůj dosavadní život byl stráven tvrdou prací na poli, v zemědělství nebo jako pomocná síla v rodinné usedlosti, zvyklý na drsný venkovský život.
 
 **Extra:** Provaz (10 metrů, 1 slot)
 

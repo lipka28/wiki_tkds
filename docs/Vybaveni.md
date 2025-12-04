@@ -85,7 +85,7 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 | Píka             |    1k8    |   2   | 15 ši | 2R, D(3 metry) |
 | Rapír            |    1k8    |   1   | 40 ši |      S/H       |
 | Sekyrka          |    1k6    |   1   | 2 ši  |       Ho       |
-| Stříbrný nůž     |    1k6    |   1   | 40 ši |       Ho       |
+| Stříbrný nůž     |    1k6    |   1   | 30 ši |       Ho       |
 | Válečná sekera   |    1k8    |   2   | 35 ši |    V(1k10)     |
 | Válečné kladivo  |   1k12    |   2   | 40 ši |       -        |
 
@@ -193,7 +193,7 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené *2 metry a více*. A�
 
 **Křesadlo:** Umožňuje rozdělat oheň. Úspěšné použití při vypjatých situacích (například v boji) vyžaduje úspěšné ověření *HBI*.
 
-**Lahvička oleje:** Umožňuje lucerně svítit až *24 směn*. Alternativně může pokrýt *zónu velikosti 5* kluzkou hořlavou tekutinou. ==todo: zjistit jak dlouho má hořet==
+**Lahvička oleje:** Umožňuje lucerně svítit až *24 směn*. Alternativně může pokrýt *zónu velikosti 5* kluzkou hořlavou tekutinou. Pokud zapálen hoří *1 směnu* a uděluje *1k8* poškození stvořením, které ním projdou.
 
 **Lahvička svěcené vody:** Lze použít jako hozenou zbraň proti proti nemrtvým a démonům působící *2k6 poškození*.
 
@@ -217,6 +217,20 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené *2 metry a více*. A�
 
 **Zlodějské náčiní (6 použití):** Umožňuje nositeli se pokusit odemykat zámky nebo jinak zasahovat do drobných mechanizmů.
 
+## Výbava pro lamače
+
+Výbava dostupná pouze postavám, které jsou členové řádu Lamačů kouzel.
+
+| Předmět           |            Sloty            |        cena         |
+| ----------------- | :-------------------------: | :-----------------: |
+| Pyriditová zbraň  |         dle zbraně          | cena zbraně x 10 ši |
+| Pyriditová munice | (součástí toulce / pouzdra) |        10 ši        |
+| Vázací mast       |              1              |        20 ši        |
+
+**Pyriditové zbraně a munice:** Mohou zranit stvoření, která jsou běžně imunní vůči zranění běžnou zbraní. Navíc uděluje extra 1 poškození magickým a magii ovládajícím stvoření.
+
+**Vázací mast:** Mast s tajnou recepturou. Potře-li lamač své tělo touhle mastí. Po dobu *1 hodiny* jsou veškeré efekty jeho ochranného tetování potlačeny.
+
 ## Nájemná pomoc
 
 | Povolání           | Cena za den |
@@ -233,20 +247,23 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené *2 metry a více*. A�
 | Žoldák             |       10 ši |
 | Žoldák veterán     |       20 ši |
 
-## Transport a služby
+## Transport, zvířata a služby
 
 | Název                                                        |   Cena |
 | ------------------------------------------------------------ | -----: |
-| Kárka (+6 slotů, *neskladná* třeba táhnout v rukách)         |  30 ši |
-| Kůň (+6 slotů)                                               |  75 ši |
+| Kárka (+4 slotů, *neskladná* třeba táhnout v rukách)         |  30 ši |
+| Kůň - Jezdecký                                               |  50 ši |
+| Kůň - Tažný                                                  |  75 ši |
+| Kůň - Válečný                                                | 100 ši |
+| Lovecký pes                                                  |  30 ši |
 | Místo na drožce                                              |   5 ši |
 | Místo na lodi                                                |  10 ši |
-| Mula (+8 slotů, pomalá)                                      |  30 ši |
+| Mula (+6 slotů, pomalá)                                      |  30 ši |
 | Ne tak odborná lékařská pomoc                                |  20 ši |
 | Odborná lékařská pomoc                                       |  50 ši |
 | Soukromý pokoj (pro 4, cena za noc)                          |  35 ši |
 | Společná místnost (cena za noc)                              |  10 ši |
 | Ustájení a krm pro zvěř (cena za noc)                        |   5 ši |
-| Vagón (4 lidi a +20 slotů, pomalý, musí být tažený koněm nebo 2-mi mulami) | 200 ši |
+| Vagón (4 lidi a +20 slotů, musí být tažen koněm nebo 2-mi mulami) | 200 ši |
 
 <img src="/assets/sep_line.png"/>

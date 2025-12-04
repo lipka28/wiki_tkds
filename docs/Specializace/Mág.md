@@ -177,7 +177,7 @@ Pokud nejsi *vyčerpaný*, Tak se můžeš vyčerpat a seslat kouzlo na jehož s
 
 **Opakování:** Nelze
 
-Jednou za kolo můžeš seslat Rozptyl magii na nepřítele, který se zrovna pokouší seslat kouzlo a tím jeho kouzlo vyrušit. 
+Jednou za kolo můžeš seslat Rozptyl magii na nepřítele, který se zrovna pokouší seslat kouzlo a tím jeho kouzlo vyrušit (a to i mimo svůj tah).
 
 - **Podmínky proti-kouzla:** Platí stejná pravidla jako popsána v kouzlu *Rozptyl magii*. Jediný rozdíl je cena kouzla. Ta je *minimálně 3* ME ale může být více. Mág musí odhadnout (na základě manifestací kouzla) kolik ME stojí kouzlo, které protivník sesílá a zaplatit za své proti-kouzlo stejně nebo více. Jinak proti-kouzlo selže a použitá ME je ztracena. Pokud je mág používající proti-kouzlo pod efektem kouzla *Pravé vidění*, PK mu přesně sedlí, kolik ME je třeba zaplatit.
 

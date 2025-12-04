@@ -178,7 +178,7 @@
 
 **Dosah:** Dotyk
 
-**Efekt:** Mág posype předmět nebo objekt diamantovým práškem v hodnotě *200 šilinků* (spotřebuje se jako komponenta kouzla). Následně se dozví vše o magii skrývající se v předmětu a to i případný přesný popis efektu či kouzla a také jak je takový případný efekt aktivován. Dozví se i zda je předmět prokletý.
+**Efekt:** Mág posype předmět nebo objekt diamantovým práškem v hodnotě *200 šilinků* (spotřebuje se jako komponenta kouzla). Následně se dozví vše o magii skrývající se v subjektu či místě a to i přesný popis efektu či kouzla a také jak je takový efekt aktivován. Dozví se i o o případných prokletí.
 
 <img src="/assets/sep_line.png"/>
 

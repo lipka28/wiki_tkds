@@ -39,7 +39,7 @@ Hunters mark (bonusy na označené stvoření)
 
 ### asd
 
-Nejspíš two weapon fighting
+Ranger magic
 
 <img src="/assets/sep_line.png"/>
 
