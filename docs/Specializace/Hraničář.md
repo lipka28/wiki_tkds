@@ -1,4 +1,4 @@
-# Hraničář ==TODO==
+# Hraničář
 
 <img src="/assets/sep_line.png"/>
 
