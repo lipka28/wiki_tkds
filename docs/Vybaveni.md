@@ -257,7 +257,7 @@ Výbava dostupná pouze postavám, které jsou členové řádu Lamačů kouzel.
 
 Ať už kovář, lovec, námořník či nosič pochodně. Všichni běžní lidé používají následující statistky. Běžný člověk nemusí být nutně člověk (může to být například trpaslík). V takovém případě má i schopnosti své rasy a stojí 2x tolik.
 
-**Úroveň:** 1; **Životy:** 4; **OČ:** 10; **ZH:** 15; **Pohyb:** Zem: 6 metrů; **Morálka:** Slabá (1-3); **Útoky:** +0 poškození dle zbraně; **Speciální:** Pokud nemusí tak nebojuje.
+**Úroveň:** 1; **Životy:** 3; **OČ:** 10; **ZH:** 15; **Pohyb:** Zem: 6 metrů; **Morálka:** Slabá (1-3); **Útoky:** +0 poškození dle zbraně; **Speciální:** Pokud nemusí tak nebojuje.
 
 **Žoldák**
 
@@ -296,7 +296,7 @@ Jako žoldák ale zkušenější v boji.
 
 Kůň vyšlechtěný pro rychlý přesun z místa na místo. Podobně jako ostatní koně odmítá vstoupit do kobek a jiných podzemních lokací.
 
-**Úroveň:** 2; **Životy:** 2k8(9); **OČ:** 12; **ZH:** 14; **Pohyb:** Zem: 16 metrů; **Morálka:** Normální (1-2); **Útoky:** Kopyta +1 (1k6+1 poškození);
+**Úroveň:** 2; **Životy:** 2k8(10); **OČ:** 12; **ZH:** 14; **Pohyb:** Zem: 16 metrů; **Morálka:** Normální (1-2); **Útoky:** Kopyta +1 (1k6+1 poškození);
 
 - **Nosnost se sedlovými brašnami:** 4 sloty
 
@@ -304,7 +304,7 @@ Kůň vyšlechtěný pro rychlý přesun z místa na místo. Podobně jako ostat
 
 Masivní kůň určený především k tahání těžkých nákladů. Podobně jako ostatní koně odmítá vstoupit do kobek a jiných podzemních lokací.
 
-**Úroveň:** 3; **Životy:** 3k8(13); **OČ:** 12; **ZH:** 13; **Pohyb:** Zem: 6 metrů; **Morálka:** Slabá (1-3); **Útoky:** Nebojuje;
+**Úroveň:** 3; **Životy:** 3k8(15); **OČ:** 12; **ZH:** 13; **Pohyb:** Zem: 6 metrů; **Morálka:** Slabá (1-3); **Útoky:** Nebojuje;
 
 - **Nosnost se sedlovými brašnami:** 6 slotů
 
@@ -312,7 +312,7 @@ Masivní kůň určený především k tahání těžkých nákladů. Podobně j
 
 Kůň vyšlechtěný k boji. Agresivní a odvážný. Podobně jako ostatní koně však odmítá vstoupit do kobek a jiných podzemních lokací.
 
-**Úroveň:** 3; **Životy:** 3k8(13); **OČ:** 12; **ZH:** 13; **Pohyb:** Zem: 8 metrů; **Morálka:** Vysoká (1); **Útoky:** Kopyta +2 (1k8+1 poškození); **Speciální:** V boji na blízko útočí kůň i jezdec zvlášť; Může nosit speciální brnění které stoji 100 šilinků a zvedá jeho OČ o 2;
+**Úroveň:** 3; **Životy:** 3k8(15); **OČ:** 12; **ZH:** 13; **Pohyb:** Zem: 8 metrů; **Morálka:** Vysoká (1); **Útoky:** Kopyta +2 (1k8+1 poškození); **Speciální:** V boji na blízko útočí kůň i jezdec zvlášť; Může nosit speciální brnění které stoji 100 šilinků a zvedá jeho OČ o 2;
 
 - **Nosnost se sedlovými brašnami:** 4 sloty (2 sloty pokud má na sobě brnění)
 
@@ -320,13 +320,13 @@ Kůň vyšlechtěný k boji. Agresivní a odvážný. Podobně jako ostatní kon
 
 Pes trénovaný k lovu. 
 
-**Úroveň:** 2; **Životy:** 2k8(9); **OČ:** 12; **ZH:** 14; **Pohyb:** Zem: 10 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousnutí +1 (1k6 poškození + přidržení); **Speciální:** *Přidržení* - Při úspěšném útoku na stvoření 4. nebo nižší úrovně, který způsobil 4 nebo více poškození. Může lovecký pes svou oběť přidržet. Dokud ji drží oběť se nemůže pohybovat a má postih -1 k OČ a útokům.
+**Úroveň:** 2; **Životy:** 2k8(8); **OČ:** 12; **ZH:** 14; **Pohyb:** Zem: 10 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousnutí +1 (1k6 poškození + přidržení); **Speciální:** *Přidržení* - Při úspěšném útoku na stvoření 4. nebo nižší úrovně, který způsobil 4 nebo více poškození. Může lovecký pes svou oběť přidržet. Dokud ji drží oběť se nemůže pohybovat a má postih -1 k OČ a útokům.
 
 **Mula**
 
 Tvrdohlavý kříženec koně a osla. Určený především k tahání těžkých břemen. Na rozdíl o koní je jí všechno tak nějak jedno a vkročí i do kobek a jiných podzemních lokací.
 
-**Úroveň:** 2; **Životy:** 2k8(9); **OČ:** 12; **ZH:** 14; **Pohyb:** Zem: 8 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousanec +1 (1k4 poškození);
+**Úroveň:** 2; **Životy:** 2k8(10); **OČ:** 12; **ZH:** 14; **Pohyb:** Zem: 8 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousanec +1 (1k4 poškození);
 
 - **Nosnost se sedlovými brašnami:** 6 slotů
 

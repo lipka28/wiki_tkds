@@ -135,7 +135,7 @@ Získáš malého magického společníka, který tě oddaně poslouchá na slov
 
 **Magický společník**
 
-**Úroveň:** 1; **Životy:** 2; **OČ:** 14; **ZH:** 14; **Statistiky:** Vše -2; **Pohyb:** Létání 8 metrů; **Morálka:** Neoblomná; **Útoky:** Neútočí;
+**Úroveň:** 1; **Životy:** 3; **OČ:** 14; **ZH:** 14; **Statistiky:** Vše -2; **Pohyb:** Létání 8 metrů; **Morálka:** Neoblomná; **Útoky:** Neútočí;
 
 <img src="/assets/sep_line.png"/>
 

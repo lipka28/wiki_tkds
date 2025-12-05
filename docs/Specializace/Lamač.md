@@ -120,12 +120,12 @@ Tvé Gaulosovo oko nově vidí neviditelné. Také iluzí dotčené subjekty lze
 
 **Opakování:** Nelze
 
-Objevil si způsob jak svou zbraní přetnout nitky magie, které jsou nutné k její aktivaci. V tahu, kdy nepoužiješ svůj pohyb. Můžeš provést speciální útok, který nepůsobí poškození ale buď znemožní stvoření dočasně sesílat kouzla nebo dočasně deaktivuje schopnosti magického předmětu.
+Objevil si způsob jak svou zbraní přetnout nitky magie, které jsou nutné k její aktivaci. Můžeš provést speciální útok, který nepůsobí poškození ale buď znemožní stvoření dočasně sesílat kouzla nebo dočasně deaktivuje schopnosti magického předmětu.
 
-- **Speciální útok:** Tento útok nepůsobí běžné poškození zbraně a je házen vždy proti OČ 15 nezávisle na skutečném OČ cíle.
+- **Speciální útok:** Tento útok nepůsobí běžné poškození zbraně a je házen proti *OČ 15* v případě stvoření a *OČ 17* v případě předmětu nezávisle na skutečném OČ cíle.
 - **Stvoření nebo předmět:** Při použití této schopnosti si vyber zda cílíš na stvoření samotné nebo nějaký jeho předmět.
-- **Efekt na stvoření:** Stvoření ztratí na *1k4* kol schopnost ovládat magii. To znamená, že nemůže sesílat kouzla a ani aktivovat magické předměty, které ovládání magie vyžadují (například hole či hůlky).
-- **Efekt na předmět:** Magický předmět ztratí své pasivní a aktivní schopnosti po dobu *1k4* kol. Prokleté předměty jsou neovlivněny.
+- **Efekt na stvoření:** Stvoření ztratí na *1k4 kol* schopnost ovládat magii. To znamená, že nemůže sesílat kouzla a ani aktivovat magické předměty, které ovládání magie vyžadují (například hole či hůlky).
+- **Efekt na předmět:** Magický předmět ztratí své pasivní a aktivní schopnosti po dobu *1k4 kol*. Prokleté předměty jsou neovlivněny.
 
 <img src="/assets/sep_line.png"/>
 

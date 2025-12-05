@@ -4,30 +4,13 @@
 
 <img src="/assets/sep_line.png"/>
 
-### Nemrtvý služebník
-
-**Trvání:** 6 + L směn
-
-**Dosah:** 10 metrů
-
-**Efekt:** Magicky rozpohybuje pod zaříkávačovou kontrolou jedno mrtvé tělo (či kostěné ostatky) mrtvé osoby. Nezávisle na tom, jakými schopnostmi a statistikami tato osoba disponovala za svého života. Používají následující statistiky.
-
-**Živý mrtvý**
-
-**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 12; **ZH:** 14; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
-
-!!! note "Objasnění: Co je osoba?"
-	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
-
-<img src="/assets/sep_line.png"/>
-
-### Odhal zlo ==todo: nahradit za rally (buď tohle nebo nemrtvý služebník)==
+### Odhal zlo
 
 **Trvání:** L směn
 
 **Dosah:** sesilatel
 
-**Efekt:** Zaříkávač získá schopnost odhalit zárodky zla v okolí *10 metrů*. To způsobuje, že vidí démony, nemrtvé, temnou magii ale i osoby s úmyslem mu ublížit slabě světélkovat.
+**Efekt:** Zaříkávač získá schopnost odhalit zárodky zla v okolí *20 metrů*. To způsobuje, že vidí démony, nemrtvé, temnou magii ale i osoby s úmyslem mu ublížit slabě světélkovat.
 
 <img src="/assets/sep_line.png"/>
 
@@ -68,6 +51,16 @@
 **Efekt:** Vytvoří magickou kouli zeleno-modrého neškodného plamene, který neklidně poletuje kolem zaříkávače. Tento plamen poskytuje světlo stejné síly jako pochodeň.
 
 **Sežehnout:** Zaříkávač může při sesílání kouzla nebo kdykoliv během jeho trvání jako akci, kouzlo předčasně ukončit a tím s neklidného plamínku vyšlehnout zelený plamen na cíl v okolí *10-ti* metrů. Cíl musí uspět v záchranném hodu nebo je obalen tímto plamenem. Plamen nepůsobí poškození ale zažehnutý cíl svítí stejně jako vílí plamen po dobu *1 směny* a nemůže se zneviditelnit nebo jinak maskovat svou polohu. Pokud je cíl nemrtví nebo démon navíc obdrží *1k8* poškození.
+
+<img src="/assets/sep_line.png"/>
+
+### Vzchopit 
+
+**Trvání:** 2 směny
+
+**Dosah:** 10 metrů
+
+**Efekt:** Náhlý příval odvahy zvedne morálku očarované stvoření o 1 stupeň (nikoliv však výše jak *Výjimečná (1)*). Očarované stvoření také obdrží bonus +L k záchranným hodům proti efektům strachu. Pokud se stvoření zrovna nachází pod takovým efektem, je mu ihned umožněno opakovat záchranný hod s tímto bonusem.
 
 <img src="/assets/sep_line.png"/>
 
@@ -265,7 +258,7 @@
 
 **Zmije**
 
-**Úroveň:** 1; **Životy:** 1k8(4); **OČ:** 13; **ZH:** 14; **Pohyb:** zem 6 metrů; **Morálka:** Slabá (1 - 3); **Útoky:** +0 poškození 1k3 + jed; **Speciální:** Jed (Cíl musí uspět v záchranném hodu jinak obdrží *1* poškození každé kolo po dobu *1k6* kol)
+**Úroveň:** 1; **Životy:** 3; **OČ:** 13; **ZH:** 14; **Pohyb:** zem 6 metrů; **Morálka:** Slabá (1 - 3); **Útoky:** +0 poškození 1k3 + jed; **Speciální:** Jed (Cíl musí uspět v záchranném hodu jinak obdrží *1* poškození každé kolo po dobu *1k6* kol)
 
 <img src="/assets/sep_line.png"/>
 
