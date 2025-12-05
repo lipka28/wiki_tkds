@@ -54,6 +54,12 @@ Hraničář si může utvořit pevné mimořádné pouto s jedním zvířetem, k
 - **Chování zvířete:** Zvířecí společník chrání hraničáře a plní jeho rozkazy jak nejlépe mu to jeho fyzická forma dovoluje. V boji také nikdy neověřuje morálku a pokud ztratí všechny své životy, platí pro něj pravidla umírání stejná jako pro hráčské postavy.
 - **Lovecký pes do začátku:** Pokud si hraničář přeje, může začínat hru s *Loveckým psem* zdarma, který slouží jako jeho zvířecí společník. 
 
+**Lovecký pes**
+
+Pes trénovaný k lovu. 
+
+**Úroveň:** 2; **Životy:** 2k8(8); **OČ:** 12; **ZH:** 14; **Pohyb:** Zem: 10 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousnutí +1 (1k6 poškození + přidržení); **Speciální:** *Přidržení* - Při úspěšném útoku na stvoření 4. nebo nižší úrovně, který způsobil 4 nebo více poškození. Může lovecký pes svou oběť přidržet. Dokud ji drží oběť se nemůže pohybovat a má postih -1 k OČ a útokům.
+
 <img src="/assets/sep_line.png"/>
 
 ## Hraničář talenty
