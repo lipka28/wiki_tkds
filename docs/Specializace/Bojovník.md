@@ -116,7 +116,7 @@ Osvojil sis pohyb ve svém brnění a cítíš se v něm jako doma. Vyber si typ
 
 **Opakování:** Nelze
 
-Jedenkrát za kolo, pokud máš bonus od OČ ze štítu. Můžeš zredukovat příchozí poškození o *1k6* pro sebe nebo pro spojence do 1 metru kolem tebe. Pokud tak učiníš, do začátku svého dalšího tahu již nemáš bonus do OČ ze štítu.
+Jedenkrát za kolo, pokud máš bonus od OČ ze štítu. Můžeš zredukovat příchozí poškození o *1k6* pro sebe nebo pro jednoho spojence do *1 metru* od tebe. Pokud tak učiníš, do začátku svého dalšího tahu již nemáš bonus do OČ ze štítu.
 
 <img src="/assets/sep_line.png"/>
 
