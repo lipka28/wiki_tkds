@@ -130,7 +130,7 @@ Jsi zběhlý ve výrobě magických předmětů, lektvarů a kdo ví čeho všeh
 Získáš malého magického společníka, který tě oddaně poslouchá na slovo.
 
 - **Forma:** Společník může mít libovolnou formu. Nezávisle na formě však umí létat a manipulovat nosit předměty (unese 1 slot).
-- **Smrt:** Společník je smrtelný, ale v případě smrti se navrátí při úsvitu dalšího dne. Jeho smrt však způsobí mágovi *1k6* poškození a spotřebuje 1 ME.
+- **Smrt:** Společník je smrtelný, ale v případě smrti se navrátí při úsvitu dalšího dne. Jeho smrt však způsobí mágovi *1k6* poškození.
 - **Dimenzionální kapsa:** Mág může společníka kdykoliv odvolat a přivolat z místa mezi světy. Pokud při odvolání nese společník předmět, ten spadne na zem.
 
 **Magický společník**
