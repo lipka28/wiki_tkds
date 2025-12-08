@@ -226,9 +226,12 @@ Výbava dostupná pouze postavám, které jsou členové řádu Lamačů kouzel.
 
 | Předmět           |            Sloty            |        cena         |
 | ----------------- | :-------------------------: | :-----------------: |
+| Lamačský štít     |              1              |        30 ši        |
 | Pyriditová zbraň  |         dle zbraně          | cena zbraně x 10 ši |
 | Pyriditová munice | (součástí toulce / pouzdra) |        10 ši        |
 | Vázací mast       |              1              |        20 ši        |
+
+**Lamačský štít:** Štít okovaný vzory s malou příměsí pyriditu. Mimo standardního bonusu *+2 OČ* štít poskytuji navíc i *+1 MO*.
 
 **Pyriditové zbraně a munice:** Mohou zranit stvoření, která jsou běžně imunní vůči zranění běžnou zbraní. Navíc uděluje extra 1 poškození magickým a magii ovládajícím stvoření.
 

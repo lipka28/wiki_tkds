@@ -1,5 +1,8 @@
 # Lamač kouzel
 
+!!! danger "Velkomocní a Lamači kouzel"
+    Ikdyž se Velkomocní mohou stát členy řádu lamačů kouzel. Není možné, aby se velkomocný stal lamačem kouzel. Vzhledem k modifikacím, kterým prochází lamači během tréninku. Tyto modifikace jsou nekompatibilní s fyziologií velkomocných. 
+
 <img src="/assets/sep_line.png"/>
 
 asd ==TODO: popis a art?==
