@@ -32,6 +32,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 - **Aktivity během tahu:** Stvoření během svého tahu se může přesunout o svou rychlost a provést akci. Provedení akce ukončuje tah stvoření.
 - **Akce:** Za akci lze považovat útok, seslání kouzla, použití talentu, další přesun o svou rychlost a nebo jiná smysluplná akce.
 - **Drobné akce:** Hráči mohou během svého tahu provádět i drobné akce jako je třeba obměna výbavy, mluvení, postavení se na nohy či drobné interakce s prostředím (např. otevření dveří)
+- **Mimo tahové akce:** I když ne příliš časté. Některé specializace mají s talentů přístup k akcím, které lze provést mimo vlastní tah (třeba v tahu soupeře). Pokud postava ovládá více takových mimo tahových akcí. Může v jednom kole použít pouze jednu z nich.
 
 ### Měření vzdálenosti
 
