@@ -87,7 +87,7 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 | Sekyrka          |    1k6    |   1   | 2 ši  |       Ho       |
 | Stříbrný nůž     |    1k6    |   1   | 30 ši |       Ho       |
 | Válečná sekera   |    1k8    |   2   | 35 ši |    V(1k10)     |
-| Válečné kladivo  |   1k12    |   2   | 40 ši |       -        |
+| Válečné kladivo  |   1k12    |   2   | 40 ši |       2R       |
 
 **Bič (Spec):** Bič lze použít jako prodlouženou ruku pro účely bojových manévrů zachytávání končetin nepřátel.
 
