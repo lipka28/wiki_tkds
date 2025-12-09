@@ -17,15 +17,15 @@ asd ==TODO: popis a art?==
 | úroveň | životy | Zásah |  ZH  |                        Ostatní                         |
 | :----- | :----: | :---: | :--: | :----------------------------------------------------: |
 | 1      | 8+VYT  |  +0   |  14  | Momentum; Nosič, potah ...; Mistrovství zbraně; Talent |
-| 2      |  +1k8  |  +0   |  14  |                         Talent                         |
-| 3      |  +1k8  |  +1   |  13  |                           -                            |
-| 4      |  +1k8  |  +1   |  13  |                         Talent                         |
-| 5      |  +1k8  |  +2   |  12  |                   1 dovednostní bod                    |
-| 6      |  +1k8  |  +2   |  12  |                         Talent                         |
-| 7      |  +1k8  |  +3   |  11  |                           -                            |
-| 8      |  +1k8  |  +3   |  11  |                         Talent                         |
-| 9      |  +1k8  |  +4   |  10  |                           -                            |
-| 10     |  +1k8  |  +4   |  10  |               1 dovednostní bod; Talent                |
+| 2      |  8+1k8+VYT  |  +0   |  14  |                         Talent                         |
+| 3      |  8+2k8+VYT  |  +1   |  13  |                           -                            |
+| 4      |  8+3k8+VYT  |  +1   |  13  |                         Talent                         |
+| 5      |  8+4k8+VYT  |  +2   |  12  |                   1 dovednostní bod                    |
+| 6      |  8+5k8+VYT  |  +2   |  12  |                         Talent                         |
+| 7      |  8+6k8+VYT  |  +3   |  11  |                           -                            |
+| 8      |  8+7k8+VYT  |  +3   |  11  |                         Talent                         |
+| 9      |  8+8k8+VYT  |  +4   |  10  |                           -                            |
+| 10     |  8+9k8+VYT  |  +4   |  10  |               1 dovednostní bod; Talent                |
 
 ## Schopnosti povolání
 

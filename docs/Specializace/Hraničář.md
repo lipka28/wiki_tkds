@@ -14,18 +14,18 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň | životy | Zásah |  ZH  |                          Ostatní                           |
-| :----- | :----: | :---: | :--: | :--------------------------------------------------------: |
-| 1      | 6+VYT  |  +0   |  15  | Mistr přežití v divočině; Lovec; Zvířecí společník; Talent |
-| 2      |  +1k6  |  +0   |  14  |                           Talent                           |
-| 3      |  +1k6  |  +1   |  14  |                             -                              |
-| 4      |  +1k6  |  +1   |  13  |                           Talent                           |
-| 5      |  +1k6  |  +2   |  13  |                     1 dovednostní bod                      |
-| 6      |  +1k6  |  +2   |  12  |                           Talent                           |
-| 7      |  +1k6  |  +3   |  12  |                             -                              |
-| 8      |  +1k6  |  +3   |  11  |                           Talent                           |
-| 9      |  +1k6  |  +4   |  11  |                             -                              |
-| 10     |  +1k6  |  +4   |  10  |                 1 dovednostní bod; Talent                  |
+| úroveň |  životy   | Zásah |  ZH  |                          Ostatní                           |
+| :----- | :-------: | :---: | :--: | :--------------------------------------------------------: |
+| 1      |   6+VYT   |  +0   |  15  | Mistr přežití v divočině; Lovec; Zvířecí společník; Talent |
+| 2      | 6+1k6+VYT |  +0   |  14  |                           Talent                           |
+| 3      | 6+2k6+VYT |  +1   |  14  |                             -                              |
+| 4      | 6+3k6+VYT |  +1   |  13  |                           Talent                           |
+| 5      | 6+4k6+VYT |  +2   |  13  |                     1 dovednostní bod                      |
+| 6      | 6+5k6+VYT |  +2   |  12  |                           Talent                           |
+| 7      | 6+6k6+VYT |  +3   |  12  |                             -                              |
+| 8      | 6+7k6+VYT |  +3   |  11  |                           Talent                           |
+| 9      | 6+8k6+VYT |  +4   |  11  |                             -                              |
+| 10     | 6+9k6+VYT |  +4   |  10  |                 1 dovednostní bod; Talent                  |
 
 ## Schopnosti povolání
 

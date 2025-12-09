@@ -14,18 +14,18 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň | životy |  ME   | Zásah |  ZH  |                           Ostatní                            |
-| :----- | :----: | :---: | :---: | :--: | :----------------------------------------------------------: |
-| 1      | 4+VYT  | 1+MYS |  +0   |  15  | Magika; Učení kouzel ze svitků; Magus (volitelné); Kouzla 1. třídy; Talent |
-| 2      |  +1k4  |  +1   |  +0   |  15  |                            Talent                            |
-| 3      |  +1k4  |  +1   |  +1   |  14  |                       Kouzla 2. třídy                        |
-| 4      |  +1k4  |  +1   |  +1   |  14  |                            Talent                            |
-| 5      |  +1k4  |  +1   |  +2   |  13  |              1 dovednostní bod; Kouzla 3. třídy              |
-| 6      |  +1k4  |  +1   |  +2   |  13  |                            Talent                            |
-| 7      |  +1k4  |  +1   |  +3   |  12  |                       Kouzla 4. třídy                        |
-| 8      |  +1k4  |  +1   |  +3   |  12  |                            Talent                            |
-| 9      |  +1k4  |  +1   |  +4   |  11  |                       Kouzla 5. třídy                        |
-| 10     |  +1k4  |  +1   |  +4   |  11  |                  1 dovednostní bod; Talent                   |
+| úroveň |  životy   |   ME   | Zásah |  ZH  |                           Ostatní                            |
+| :----- | :-------: | :----: | :---: | :--: | :----------------------------------------------------------: |
+| 1      |   4+VYT   | 1+MYS  |  +0   |  15  | Magika; Učení kouzel ze svitků; Magus (volitelné); Kouzla 1. třídy; Talent |
+| 2      | 4+1k4+VYT | 2+MYS  |  +0   |  15  |                            Talent                            |
+| 3      | 4+2k4+VYT | 3+MYS  |  +1   |  14  |                       Kouzla 2. třídy                        |
+| 4      | 4+3k4+VYT | 4+MYS  |  +1   |  14  |                            Talent                            |
+| 5      | 4+4k4+VYT | 5+MYS  |  +2   |  13  |              1 dovednostní bod; Kouzla 3. třídy              |
+| 6      | 4+5k4+VYT | 6+MYS  |  +2   |  13  |                            Talent                            |
+| 7      | 4+6k4+VYT | 7+MYS  |  +3   |  12  |                       Kouzla 4. třídy                        |
+| 8      | 4+7k4+VYT | 8+MYS  |  +3   |  12  |                            Talent                            |
+| 9      | 4+8k4+VYT | 9+MYS  |  +4   |  11  |                       Kouzla 5. třídy                        |
+| 10     | 4+9k4+VYT | 10+MYS |  +4   |  11  |                  1 dovednostní bod; Talent                   |
 
 ## Schopnosti povolání
 
