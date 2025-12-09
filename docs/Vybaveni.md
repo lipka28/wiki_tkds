@@ -159,6 +159,7 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené *2 metry a více*. A�
 | Křesadlo                                               |            1             | 10 ši |
 | Křída                                                  |       Zanedbatelná       | 2 ši  |
 | Lahvička oleje                                         |            1             | 6 ši  |
+| Lahvička protijedu                                     |            1             | 30 ši |
 | Lahvička s korkovou zátkou (prázdná)                   |            1             | 1 ši  |
 | Lahvička svěcené vody                                  |            1             | 10 ši |
 | Lezecké náčiní                                         |            1             | 15 ši |
@@ -195,6 +196,11 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené *2 metry a více*. A�
 **Křesadlo:** Umožňuje rozdělat oheň. Úspěšné použití při vypjatých situacích (například v boji) vyžaduje úspěšné ověření *HBI*.
 
 **Lahvička oleje:** Umožňuje lucerně svítit až *24 směn*. Alternativně může pokrýt *zónu velikosti 5* kluzkou hořlavou tekutinou. Pokud zapálen hoří *1 směnu* a uděluje *1k8* poškození stvořením, které ním projdou.
+
+**Lahvička protijedu:** Obecný protijed. Ne tak účinný jako protijed vyroben z jedu daného stvoření a však najde své využití.
+
+- **Odolnost vůči jedům:** Poskytuje bonus *+2* k záchranným hodům proti jedům po dobu *6 směn*.
+- **Záchrana života:** Je-li podán stvoření, které zemřelo následkem jedu před méně jak *3-mi koly*. Dané stvoření má nárok na opakování záchranného hodu s bonusem *+2*. Pokud uspěje, vrátí se k životu. 
 
 **Lahvička svěcené vody:** Lze použít jako hozenou zbraň proti proti nemrtvým a démonům působící *2k6 poškození*.
 
