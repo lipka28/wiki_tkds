@@ -147,7 +147,7 @@ V prvním kole boje, můžeš zdarma označit jednoho ze svých nepřátel jako 
 
 **Opakování:** Nelze
 
-V boji nemůžeš být nikdy připraven a máš výhodu na ověření *HBI* při hodech na iniciativu.
+V boji nemůžeš být nikdy překvapen a máš výhodu na ověření *HBI* při hodech na iniciativu.
 
 <img src="/assets/sep_line.png"/>
 
