@@ -41,7 +41,7 @@ Mágové disponují schopností ovládat magii ve formě Magiky. Podrobné vysv�
 
 ### Učení kouzel ze svitků
 
-Mág může strávit *volnočasovou aktivitu* studováním svitku za účelem naučit se kouzlo na něm zapsané. Aby se mág kouzlo úspěšně naučil, musí uspět v ověření *MYS*. Svitek je následně zničen nezávsile na výsledku ověřovacího hodu.
+Mág může strávit *volnočasovou aktivitu* studováním svitku za účelem naučit se kouzlo na něm zapsané. Aby se mág kouzlo úspěšně naučil, musí uspět v ověření *MYS*. Svitek je následně zničen nezávisle na výsledku ověřovacího hodu.
 
 ### Magus (Volitelné)
 

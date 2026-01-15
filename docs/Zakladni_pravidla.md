@@ -86,7 +86,7 @@ Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit vý
 
 ### Záchranné hody
 
-Pokud je postava vystavena negativnímu efektu jehož následku se lze vyhnout nebo jej aspoň zmírnit. Je ji umožněn záchranný hod. Vyhodnocení probíhá obdobně jako u ověřovacího hodu ale cílovou hodnotou není 12 ale hodnota ZH zaspané v deníku postavy (a získané z tabulky postupu specializace):
+Pokud je postava vystavena negativnímu efektu jehož následku se lze vyhnout nebo jej aspoň zmírnit (většinou následek speciálního útoku monstra či kouzla). Je ji umožněn záchranný hod. Vyhodnocení probíhá obdobně jako u ověřovacího hodu ale cílovou hodnotou není 12 ale hodnota *ZH zaspané v deníku postavy* (a získané z tabulky postupu specializace).
 
 - **Magická odolnost (MO):** Většinou odpovídá dovednosti *SRD* postavy, ale může být modifikována předměty nebo schopnosti postavy. Přičítá se ke všem záchranným hodům proti magickým efektům (jako jsou efekty kouzel, hůlek či svitků).
 
