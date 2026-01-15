@@ -6,7 +6,7 @@ Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus pa
 
 ## 1. Rasa, původ a specializace
 
-Začni tím, že si vybereš rasu, původ a specializaci. Prozatím si jen poznač jejich názvy. Avšak měl by sis aspoň pročíst co tvá volba obnáší. ==TODO: tabulky výběr rasy, původu a specializace==
+Začni tím, že si vybereš rasu, původ a specializaci. Prozatím si jen poznač jejich názvy. Avšak měl by sis aspoň pročíst co tvá volba obnáší. Vybírat můžeš z ras, specializací a původu definovaných v dalších kapitolách. Nebo z těch co ti dá PK k dispozici.
 
 ## 2. Dovednostní body
 
