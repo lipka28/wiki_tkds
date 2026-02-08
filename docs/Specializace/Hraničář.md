@@ -14,18 +14,18 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň |  životy   | Zásah |  ZH  |                          Ostatní                           |
-| :----- | :-------: | :---: | :--: | :--------------------------------------------------------: |
-| 1      |   6+VYT   |  +0   |  15  | Mistr přežití v divočině; Lovec; Zvířecí společník; Talent |
-| 2      | 6+1k6+VYT |  +0   |  14  |                           Talent                           |
-| 3      | 6+2k6+VYT |  +1   |  14  |                             -                              |
-| 4      | 6+3k6+VYT |  +1   |  13  |                           Talent                           |
-| 5      | 6+4k6+VYT |  +2   |  13  |                     1 dovednostní bod                      |
-| 6      | 6+5k6+VYT |  +2   |  12  |                           Talent                           |
-| 7      | 6+6k6+VYT |  +3   |  12  |                             -                              |
-| 8      | 6+7k6+VYT |  +3   |  11  |                           Talent                           |
-| 9      | 6+8k6+VYT |  +4   |  11  |                             -                              |
-| 10     | 6+9k6+VYT |  +4   |  10  |                 1 dovednostní bod; Talent                  |
+| úroveň |  životy   | Zásah |  Z   |  MO  |                          Ostatní                           |
+| :----- | :-------: | :---: | :--: | :--: | :--------------------------------------------------------: |
+| 1      |   6+VYT   |  +0   |  -2  |  -2  | Mistr přežití v divočině; Lovec; Zvířecí společník; Talent |
+| 2      | 6+1k6+VYT |  +0   |  -1  |  -2  |                           Talent                           |
+| 3      | 6+2k6+VYT |  +1   |  -1  |  -1  |                             -                              |
+| 4      | 6+3k6+VYT |  +1   |  +0  |  -1  |                           Talent                           |
+| 5      | 6+4k6+VYT |  +2   |  +0  |  +0  |                     1 dovednostní bod                      |
+| 6      | 6+5k6+VYT |  +2   |  +1  |  +0  |                           Talent                           |
+| 7      | 6+6k6+VYT |  +3   |  +1  |  +1  |                             -                              |
+| 8      | 6+7k6+VYT |  +3   |  +2  |  +1  |                           Talent                           |
+| 9      | 6+8k6+VYT |  +4   |  +2  |  +2  |                             -                              |
+| 10     | 6+9k6+VYT |  +4   |  +3  |  +2  |                 1 dovednostní bod; Talent                  |
 
 ## Schopnosti povolání
 
@@ -50,7 +50,7 @@ Hraničář si může utvořit pevné mimořádné pouto s jedním zvířetem, k
 
 - **Úroveň zvířete:** Zvíře musí být stejné nebo nižší úrovně jako hraničář (s výjimkou první úrovně, kde zvíře může mít úroveň 2).
 - **Typ zvířete:** Hraničář může navázat spojení s libovolným zvířetem. Zvíře nemůže mít lidskou inteligenci. PK může povolit navázaní pouta s fantastickými nebo zvířaty nebo obřími variantami zvířat.
-- **Navázání spojení:** Hraničář nabídne zvířeti kus nějaké potravy a podobu 1 směny s ním mírumilovně interaguje. Následně hraničář podstoupí ověření *SRD*. Pokud uspěje, zvíře se stane jeho společníkem.
+- **Navázání spojení:** Hraničář nabídne zvířeti kus nějaké potravy a podobu 1 směny s ním mírumilovně interaguje. Následně cílené zvíře podstoupí *záchranu* s postihem ve výši *SRD* lovce. Pokud selže, zvíře se stane lovcovým společníkem.
 - **Chování zvířete:** Zvířecí společník chrání hraničáře a plní jeho rozkazy jak nejlépe mu to jeho fyzická forma dovoluje. V boji také nikdy neověřuje morálku a pokud ztratí všechny své životy, platí pro něj pravidla umírání stejná jako pro hráčské postavy.
 - **Lovecký pes do začátku:** Pokud si hraničář přeje, může začínat hru s *Loveckým psem* zdarma, který slouží jako jeho zvířecí společník. 
 
@@ -58,7 +58,7 @@ Hraničář si může utvořit pevné mimořádné pouto s jedním zvířetem, k
 
 Pes trénovaný k lovu. 
 
-**Úroveň:** 2; **Životy:** 2k8(8); **OČ:** 12; **ZH:** 14; **Pohyb:** Zem: 10 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousnutí +1 (1k6 poškození + přidržení); **Speciální:** *Přidržení* - Při úspěšném útoku na stvoření 4. nebo nižší úrovně, který způsobil 4 nebo více poškození. Může lovecký pes svou oběť přidržet. Dokud ji drží oběť se nemůže pohybovat a má postih -1 k OČ a útokům.
+**Úroveň:** 2; **Životy:** 2k8(8); **OČ:** 12; **Z:** +0; **MO:** -2; **Pohyb:** Zem: 10 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousnutí +1 (1k6 poškození + přidržení); **Speciální:** *Přidržení* - Při úspěšném útoku na stvoření 4. nebo nižší úrovně, který způsobil 4 nebo více poškození. Může lovecký pes svou oběť přidržet. Dokud ji drží oběť se nemůže pohybovat a má postih -1 k OČ a útokům.
 
 <img src="/assets/sep_line.png"/>
 
@@ -137,7 +137,7 @@ Bonusy získané za označenou kořist platí i pro tvého zvířecího spojence
 
 **Opakování:** Lze vzít opakovaně a tím lze označit více nepřátel na začátku boje
 
-V prvním kole boje, můžeš zdarma označit jednoho ze svých nepřátel jako svou kořist. Do stvoření označené jako tvá kořist máš bonus *+1* k *poškození* a také k *OČ* a *záchranným hodům* proti útokům a schopnostem označeného stvoření.
+V prvním kole boje, můžeš zdarma označit jednoho ze svých nepřátel jako svou kořist. Do stvoření označené jako tvá kořist máš bonus *+1* k *poškození* a také k *OČ* a *záchraně* proti speciálním schopnostem označeného stvoření.
 
 <img src="/assets/sep_line.png"/>
 

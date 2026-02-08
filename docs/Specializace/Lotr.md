@@ -14,18 +14,18 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň |  životy   | Zásah |  ZH  |                 Ostatní                 |
-| :----- | :-------: | :---: | :--: | :-------------------------------------: |
-| 1      |   6+VYT   |  +0   |  15  | Přepadení; Zlodějství; Dvoj-řeč; Talent |
-| 2      | 6+1k6+VYT |  +0   |  14  |                 Talent                  |
-| 3      | 6+2k6+VYT |  +1   |  14  |                    -                    |
-| 4      | 6+3k6+VYT |  +1   |  13  |                 Talent                  |
-| 5      | 6+4k6+VYT |  +2   |  13  |            1 dovednostní bod            |
-| 6      | 6+5k6+VYT |  +2   |  12  |                 Talent                  |
-| 7      | 6+6k6+VYT |  +3   |  12  |                    -                    |
-| 8      | 6+7k6+VYT |  +3   |  11  |                 Talent                  |
-| 9      | 6+8k6+VYT |  +4   |  11  |                    -                    |
-| 10     | 6+9k6+VYT |  +4   |  10  |        1 dovednostní bod; Talent        |
+| úroveň |  životy   | Zásah |  Z   |  MO  |                 Ostatní                 |
+| :----- | :-------: | :---: | :--: | :--: | :-------------------------------------: |
+| 1      |   6+VYT   |  +0   |  -2  |  -2  | Přepadení; Zlodějství; Dvoj-řeč; Talent |
+| 2      | 6+1k6+VYT |  +0   |  -1  |  -1  |                 Talent                  |
+| 3      | 6+2k6+VYT |  +1   |  -1  |  -1  |                    -                    |
+| 4      | 6+3k6+VYT |  +1   |  +0  |  +0  |                 Talent                  |
+| 5      | 6+4k6+VYT |  +2   |  +0  |  +0  |            1 dovednostní bod            |
+| 6      | 6+5k6+VYT |  +2   |  +1  |  +1  |                 Talent                  |
+| 7      | 6+6k6+VYT |  +3   |  +1  |  +1  |                    -                    |
+| 8      | 6+7k6+VYT |  +3   |  +2  |  +2  |                 Talent                  |
+| 9      | 6+8k6+VYT |  +4   |  +2  |  +2  |                    -                    |
+| 10     | 6+9k6+VYT |  +4   |  +3  |  +3  |        1 dovednostní bod; Talent        |
 
 ## Schopnosti povolání
 
@@ -137,11 +137,13 @@ Máš *výhodu* při hodu na iniciativu.
 
 **Opakování:** Nelze
 
-Pokud máš volnou ruku, můžeš se v rámci svého útoku na blízko pokusit úspěšným ověřením *HBI* o jednu z následujících aktivit:
+Pokud máš volnou ruku, můžeš se v rámci svého útoku na blízko pokusit o jednu z následujících aktivit:
 
 -   **Sabotáž:** Naruší funkčnost mechanického zařízení (např kuše), štítu nebo zbroje co má cíl na sobě či v rukách. Efekt sabotáže záleží na domluvě s PK. Většinou se však jedná o nějaký postih (např -1 do OČ nebo nepoužitelnost kuše) při používání daného předmětu, dokud není obětována akce na nápravu sabotáže.
 -   **Ukrást:** Ukradneš předmět, který je součást výbavy cíle a není větší jak 1 slot. Cíl nesmí předmět držet v ruce.
 -   **Umístit:** Podobně jako ukrást, ale předmět umístíš do výbavy cíle. Nevyžaduje volnou ruku, jako ostatní možnosti avšak musíš mít umisťovaný předmět v ruce. 
+
+**Záchranný hod:** Cíl špinového triku má nárok na záchranu s postihem ve výši *HBI* lotra.
 
 <img src="/assets/sep_line.png"/>
 

@@ -62,7 +62,7 @@
 
 **Popis:** Malé neviditelné létající humanoidní stvoření bez tváře. Zvládne provádět jakoukoliv aktivitu co by zvládl běžný člověk ale neunese větší předměty než jsou 2 sloty. Nekomunikuje ale následuje rozkazy. Nebojuje a může být napaden stvořeními co vidí neviditelné.
 
-**Úroveň:** 1; **Životy:** 1; **OČ:** 15; **ZH:** 13; **Pohyb:** Létání 4 metry; **Morálka:** Neoblomná; **Útoky:** Neútočí; **Speciální:** Neviditelný
+**Úroveň:** 1; **Životy:** 1; **OČ:** 15; **Z:** +1; **MO:** +0; **Pohyb:** Létání 4 metry; **Morálka:** Neoblomná; **Útoky:** Neútočí; **Speciální:** Neviditelný
 
 <img src="/assets/sep_line.png"/>
 
@@ -737,7 +737,7 @@
 
 **Živý mrtvý**
 
-**Úroveň:** 1; **Životy:** 5; **OČ:** 12; **ZH:** 14; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
+**Úroveň:** 1; **Životy:** 5; **OČ:** 12; **Z:** +0; **MO:** -2; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
 
 !!! note "Objasnění: Co je osoba?"
 	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
@@ -838,7 +838,7 @@
 
 **Popis:** 5 metrů široké a 10 metrů vysoké bouřící uskupení živlů. S dvěma masivními pažemi a čtyřma očima planoucími barvou odpovídající danému živlu.
 
-**Úroveň:** 16; **Životy:** 75; **OČ:** 21; **ZH:** 4; **Pohyb:** Dle typu; **Morálka:** Neoblomná; **Útoky:** Úder (+11, 3k8, na vzdálenost až 3 metry)
+**Úroveň:** 16; **Životy:** 75; **OČ:** 21; **Z:** +7; **MO:** +7; **Pohyb:** Dle typu; **Morálka:** Neoblomná; **Útoky:** Úder (+11, 3k8, na vzdálenost až 3 metry)
 
 **Speciální:**
 

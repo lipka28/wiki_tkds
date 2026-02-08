@@ -26,6 +26,13 @@ Všechen text v těchto pravidlech předpokládají zasazení do Aldiru. Násled
 
 asd ==todo== (církev šesti strážců)
 
+- Neferité (Všematka)
+- Durnak (Kovář)
+- Alamar (Ochránce / Všeotec)
+- Juna (Léčitelka)
+- Umdur (Lovec / Válečník)
+- Neznámá (Smrt)
+
 <img src="/assets/sep_line.png"/>
 
 ## Významné frakce

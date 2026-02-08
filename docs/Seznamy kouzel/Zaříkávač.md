@@ -258,7 +258,7 @@
 
 **Zmije**
 
-**Úroveň:** 1; **Životy:** 3; **OČ:** 13; **ZH:** 14; **Pohyb:** zem 6 metrů; **Morálka:** Slabá (1 - 3); **Útoky:** +0 poškození 1k3 + jed; **Speciální:** Jed (Cíl musí uspět v záchranném hodu jinak obdrží *1* poškození každé kolo po dobu *1k6* kol)
+**Úroveň:** 1; **Životy:** 3; **OČ:** 13; **Z:** +0; **MO:** -2; **Pohyb:** zem 6 metrů; **Morálka:** Slabá (1 - 3); **Útoky:** +0 poškození 1k3 + jed; **Speciální:** Jed (Cíl musí uspět v záchranném hodu jinak obdrží *1* poškození každé kolo po dobu *1k6* kol)
 
 <img src="/assets/sep_line.png"/>
 

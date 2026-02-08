@@ -17,18 +17,18 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň |  životy   | Zásah |  ZH  |                           Ostatní                            |
-| :----- | :-------: | :---: | :--: | :----------------------------------------------------------: |
-| 1      |   8+VYT   |  +0   |  14  | Gaulosovo oko; Ochranné tetování; Členství v řádu (volitelné); Talent |
-| 2      | 8+1k8+VYT |  +0   |  14  |                            Talent                            |
-| 3      | 8+2k8+VYT |  +1   |  13  |                              -                               |
-| 4      | 8+3k8+VYT |  +1   |  13  |                            Talent                            |
-| 5      | 8+4k8+VYT |  +2   |  12  |                      1 dovednostní bod                       |
-| 6      | 8+5k8+VYT |  +2   |  12  |                            Talent                            |
-| 7      | 8+6k8+VYT |  +3   |  11  |                              -                               |
-| 8      | 8+7k8+VYT |  +3   |  11  |                            Talent                            |
-| 9      | 8+8k8+VYT |  +4   |  10  |                              -                               |
-| 10     | 8+9k8+VYT |  +4   |  10  |                  1 dovednostní bod; Talent                   |
+| úroveň |  životy   | Zásah |  Z   |  MO  |                           Ostatní                            |
+| :----- | :-------: | :---: | :--: | :--: | :----------------------------------------------------------: |
+| 1      |   8+VYT   |  +0   |  -1  |  +1  | Gaulosovo oko; Ochranné tetování; Členství v řádu (volitelné); Talent |
+| 2      | 8+1k8+VYT |  +0   |  -1  |  +1  |                            Talent                            |
+| 3      | 8+2k8+VYT |  +1   |  +0  |  +2  |                              -                               |
+| 4      | 8+3k8+VYT |  +1   |  +0  |  +2  |                            Talent                            |
+| 5      | 8+4k8+VYT |  +2   |  +1  |  +3  |                      1 dovednostní bod                       |
+| 6      | 8+5k8+VYT |  +2   |  +1  |  +3  |                            Talent                            |
+| 7      | 8+6k8+VYT |  +3   |  +2  |  +4  |                              -                               |
+| 8      | 8+7k8+VYT |  +3   |  +2  |  +4  |                            Talent                            |
+| 9      | 8+8k8+VYT |  +4   |  +3  |  +5  |                              -                               |
+| 10     | 8+9k8+VYT |  +4   |  +3  |  +5  |                  1 dovednostní bod; Talent                   |
 
 ## Schopnosti povolání
 
@@ -43,7 +43,7 @@ Ne tak tajná zbraň všech lamačů kouzel. Magicky upravené levé oko, které
 
 Další modifikací těla, kterou podstoupí každý lamač, je ochranné tetování inkoustem z pyriditu. Tohle tetování má následující efekty:
 
-- **Bonus do magické odolnosti:** Získáváš *+2 MO*.
+- **Bonus do magické odolnosti:** Máš bonus do magické odolnosti (již započítán v tabulce postupu výše).
 - **Poloviční efekt kouzel:** Efekty všech kouzel na tebe (i těch pozitivních) jsou poloviční. Jakýkoliv číselný efekt kouzla je pro tebe zredukovaný na polovinu (poškození, doplněné životy atd.). Pokud kouzlo nemá číselný efekt, který by se dal zredukovat, sníží se na polovinu jeho trvání. Pokud ani to není možné (např kouzlo je trvalé) dostaneš výhodu na záchranný hod na jeho odolání případně možnost záchranného hodu pokud kouzlo neposkytuje možnost záchranného hodu.
 - **Nespolehlivost magických předmětů:** Pokud vlastnoručně použiješ aktivovaný magický předmět (třeba prsten nebo vypití lektvaru) hodˇsi *kostkou štěstí*. Pokud ti padne *1* aktivace předmětu selže ale jeho použití se spotřebuje.
 
@@ -150,7 +150,7 @@ Díky nově objevené kontrole nad svým ochranným tetováním. Můžeš použ�
 
 Nacházíš-li se v dosahu ruky od probíhajícího magického efektu a máš volnou ruku. Můžeš se pokusit jej vyrušit. I když třídu kouzla neznáš předem můžeš vyrušit pouze kouzla stejné nebo nižší třídy jako je tvá *úroveň / 2* (zaokrouhleno nahoru).
 
-- **Pokud o vyrušení:** Lamač podstoupí ověření *HBI* pokud uspěje trvající kouzlo je předčasně ukončeno.
+- **Pokus o vyrušení:** Lamač podstoupí ověření *HBI* pokud uspěje trvající kouzlo je předčasně ukončeno.
 - **Neúspěch:** V případě neúspěchu nebo kouzla vyšší třídy než je lamač schopen vyrušit. Lamač obdrží poškození ve výší *třídy rušeného kouzla x 2* (pokud třída kouzla není jasná obdrží *2k6* poškození).
 - **Magické předměty a prokletí:** Nemohou být takto vyrušeny.
 
@@ -172,7 +172,7 @@ Máš *výhodu* na záchranné hody proti všem magickým efektům vzniklých v 
 
 **Opakování:** Nelze
 
-Naučil si se zničit magii už v zárodku. Jedenkrát za kolo můžeš použít *Vyruš magii* na stvoření právě sesílající kouzlo (a to i pokud nejsi zrovna na tahu). Pokud uspěješ sesílané kouzlo je vyrušeno a stvoření obdrží poškození ve výší *třídy rušeného kouzla x 2* (pokud třída kouzla není jasná obdrží *2k6* poškození).
+Naučil si se zničit magii už v zárodku. Jedenkrát za kolo můžeš použít *Vyruš magii* na stvoření právě sesílající kouzlo (a to i pokud nejsi zrovna na tahu). Stvoření má nárok na záchranu s postihem ve výši Lamačovi *HBI*. Pokud selže, sesílané kouzlo je vyrušeno a stvoření obdrží poškození ve výší *třídy rušeného kouzla x 2* (pokud třída kouzla není jasná obdrží *2k6* poškození).
 
 <img src="/assets/sep_line.png"/>
 

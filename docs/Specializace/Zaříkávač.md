@@ -14,18 +14,18 @@ asd ==TODO: popis a art?==
 
 ## Tabulka postupu
 
-| úroveň |  životy   | Zásah |  ZH  |                           Ostatní                            |
-| :----- | :-------: | :---: | :--: | :----------------------------------------------------------: |
-| 1      |   4+VYT   |  +0   |  15  | Zázračná magie; Duchové divočiny; Dráp (volitelné); Zázraky 1. třídy; Talent |
-| 2      | 4+1k4+VYT |  +0   |  15  |                            Talent                            |
-| 3      | 4+2k4+VYT |  +1   |  14  |                       Zázraky 2. třídy                       |
-| 4      | 4+3k4+VYT |  +1   |  14  |                            Talent                            |
-| 5      | 4+4k4+VYT |  +2   |  13  |             1 dovednostní bod; Zázraky 3. třídy              |
-| 6      | 4+5k4+VYT |  +2   |  13  |                            Talent                            |
-| 7      | 4+6k4+VYT |  +3   |  12  |                       Zázraky 4. třídy                       |
-| 8      | 4+7k4+VYT |  +3   |  12  |                            Talent                            |
-| 9      | 4+8k4+VYT |  +4   |  11  |                       Zázraky 5. třídy                       |
-| 10     | 4+9k4+VYT |  +4   |  11  |                  1 dovednostní bod; Talent                   |
+| úroveň |  životy   | Zásah |  Z   |  MO  |                           Ostatní                            |
+| :----- | :-------: | :---: | :--: | :--: | :----------------------------------------------------------: |
+| 1      |   4+VYT   |  +0   |  -2  |  -2  | Zázračná magie; Duchové divočiny; Dráp (volitelné); Zázraky 1. třídy; Talent |
+| 2      | 4+1k4+VYT |  +0   |  -2  |  -1  |                            Talent                            |
+| 3      | 4+2k4+VYT |  +1   |  -1  |  -1  |                       Zázraky 2. třídy                       |
+| 4      | 4+3k4+VYT |  +1   |  -1  |  +0  |                            Talent                            |
+| 5      | 4+4k4+VYT |  +2   |  +0  |  +0  |             1 dovednostní bod; Zázraky 3. třídy              |
+| 6      | 4+5k4+VYT |  +2   |  +0  |  +1  |                            Talent                            |
+| 7      | 4+6k4+VYT |  +3   |  +1  |  +1  |                       Zázraky 4. třídy                       |
+| 8      | 4+7k4+VYT |  +3   |  +1  |  +2  |                            Talent                            |
+| 9      | 4+8k4+VYT |  +4   |  +2  |  +2  |                       Zázraky 5. třídy                       |
+| 10     | 4+9k4+VYT |  +4   |  +2  |  +3  |                  1 dovednostní bod; Talent                   |
 
 ## Tabulka zázraků dle úrovně
 

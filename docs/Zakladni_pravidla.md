@@ -55,7 +55,7 @@ Hráčské postavy disponují 5-ti základními dovednostmi, které slouží př
 - **Síla (SIL):** Představuje hrubou sílu jedince. Používá se pro hody na zásah zbraněmi na blízko, lezení, plavání nebo třeba modifikuje nosnost inventáře.
 - **Hbitost (HBI):**  Zahrnuje pohotovost, zručnost, rovnováhu a reflexy. Využívá se třeba při pokusech o udržení rovnováhy ale i aktivitách vyžadujících manuální zručnost. Používá se také pro hody na zásah zbraní na dálku a někdy se přičítá k obrannému číslu.
 - **Vytrvalost (VYT):** Představuje odolnost, vytrvalost a zdraví jedince. Přičítá se k životům na první úrovni.
-- **Mysl (MYS):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů. Také má vliv na některé magické specializace a počet jazyků, které postava ovládá.
+- **Mysl (MYS):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů. Také má vliv na některé magické specializace, počet jazyků a počet nedokonalých talentů, které postava může ovládat.
     - *Negramotnost:* Pokud je tvá dovednost *Mysl* nižší jak *0*, jsi negramotný.
 
 - **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Inteligence, používá se u některých typů magie. Také se přičítá, jako magická odolnost k záchranným hodům proti magickým efektům.
@@ -86,9 +86,10 @@ Speciální schopnosti, talenty a nebo okolnost situace. Mohou na hod uvalit vý
 
 ### Záchranné hody
 
-Pokud je postava vystavena negativnímu efektu jehož následku se lze vyhnout nebo jej aspoň zmírnit (většinou následek speciálního útoku monstra či kouzla). Je ji umožněn záchranný hod. Vyhodnocení probíhá obdobně jako u ověřovacího hodu ale cílovou hodnotou není 12 ale hodnota *ZH zaspané v deníku postavy* (a získané z tabulky postupu specializace).
+Jsou také ověřovací hody, ale na místo modifikace nějkou specifickou dovedností, jsou dány specializací a úrovní postavy (mohou však být modifikovány schopnostmi postavy). Jejich použití je především v situacích kdy je třeba se reaktivně vyvarovat následkům pastí, speciálních schopností nestvůr a kouzlům. Existují 2 hlavní typy záchranných hodů:
 
-- **Magická odolnost (MO):** Většinou odpovídá dovednosti *SRD* postavy, ale může být modifikována předměty nebo schopnosti postavy. Přičítá se ke všem záchranným hodům proti magickým efektům (jako jsou efekty kouzel, hůlek či svitků).
+- **Záchrana (Z):** Obecný záchranný hod používaný ve většině situací, kdy je třeba záchranného hodu.
+- **Magická odolnost (MO):** Záchranný hod proti magickým efektům (jako jsou efekty kouzel, hůlek či svitků). Na rozdíl od běžné záchrany je také navíc modivikovaný dovedností *SRD*.
 
 ### Hod štěstí
 

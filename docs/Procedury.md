@@ -181,6 +181,8 @@ Postava se může zlepšit v určité aktivitě, přeučit se existující talen
 
 - **Mistr:** K učení je vždy potřeba mistr nebo nějaký trenér.
 - **Nedokonalý talent:** Je talent získaný mimo postup na novou úroveň a jehož používání má nějaké nedostatky nebo negativní následky, které se však dají jeho aktivním používáním a opakovaným tréninkem a investicemi postupem času odstranit.
+    - *Limit nedokonalých talentů:* Postava se může naučit nedokonalý talent jen pokud má na to dostatečnou *Mysl*. Postava může umět jen tolik schopností vzešlých z nedokonalých talentů, kolik je stupeň její dovednosti *Mysl*.
+
 
 #### Navazování a utužování vztahů
 
