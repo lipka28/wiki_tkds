@@ -184,7 +184,7 @@ Většinou získané volbou rasy, talentu a nebo vysokou hodnotou dovednosti MYS
 
 Dodatečné schopnosti získané postupem na vyšší úroveň. Otevírající nové možnosti postavy. Lze si vybírat z talentů specializace nebo sady [obecných talentů](/Talenty) dostupných všem specializacím.
 
--   **Získávání talentů navíc:** Mimo zásah PK (třeba odměnou v rámci kampaně či zajímavý vývoj postavy) hráč nemůže získat více talentů než umožňuje jeho úroveň. Může však (u talentů u kterých to dává smysl) je vyměnit, v rámci investic a tréninku mezi dobrodružstvími. 
+-   **Získávání talentů navíc:** Mimo zásah PK (třeba odměnou v rámci kampaně či zajímavý vývoj postavy) hráč může mít celkem jen tolik talentů (včetně těch nedokonalých) Kolik jich získá za *postup úrovněmi + Mysl(pokud kladné)*.
 
 ### Kouzla
 
