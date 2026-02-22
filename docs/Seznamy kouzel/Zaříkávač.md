@@ -116,7 +116,7 @@
 
 - **Obyčejný zdroj:** Očarovanému stvoření nemůžou ublížit běžné přírodní projevy dané energie (například nemůže se spálit běžným ohněm či nezmrzne když skočí do mrazivého jezera).
 - **Záchranný hod:** Očarované stvoření má bonus *+2* k záchranným hodům proti efektům stejné nátury jako je vybraná energie.
-- **Redukce poškození:** Obdržené poškození danou energií je sníženo o *1* za každou kostku v daném poškození (výsledné poškození může být minimálně 1).
+- **Redukce poškození:** Obdržené poškození danou energií je sníženo na polovinu.
 
 <img src="/assets/sep_line.png"/>
 
