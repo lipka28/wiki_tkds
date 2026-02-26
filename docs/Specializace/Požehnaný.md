@@ -16,18 +16,18 @@
 
 ## Tabulka postupu
 
-| úroveň |  životy   | Zásah |  Z   |  MO  |                   Ostatní                   |
-| :----- | :-------: | :---: | :--: | :--: | :-----------------------------------------: |
-| 1      |   8+VYT   |  +0   |  -2  |  -2  | Požehnání; Svaté texty; Svaté zbraně Talent |
-| 2      | 8+1k8+VYT |  +0   |  -1  |  -2  |                   Talent                    |
-| 3      | 8+2k8+VYT |  +1   |  -1  |  -1  |                      -                      |
-| 4      | 8+3k8+VYT |  +1   |  +0  |  -1  |                   Talent                    |
-| 5      | 8+4k8+VYT |  +2   |  +0  |  +0  |              1 dovednostní bod              |
-| 6      | 8+5k8+VYT |  +2   |  +1  |  +0  |                   Talent                    |
-| 7      | 8+6k8+VYT |  +3   |  +1  |  +1  |                      -                      |
-| 8      | 8+7k8+VYT |  +3   |  +2  |  +1  |                   Talent                    |
-| 9      | 8+8k8+VYT |  +4   |  +2  |  +2  |                      -                      |
-| 10     | 8+9k8+VYT |  +4   |  +3  |  +2  |          1 dovednostní bod; Talent          |
+| úroveň |  životy   | Zásah |  Z   |  MO  |                   Ostatní                    |
+| :----- | :-------: | :---: | :--: | :--: | :------------------------------------------: |
+| 1      |   8+VYT   |  +0   |  -2  |  -2  | Požehnání; Svaté texty; Svaté zbraně; Talent |
+| 2      | 8+1k8+VYT |  +0   |  -1  |  -2  |                    Talent                    |
+| 3      | 8+2k8+VYT |  +1   |  -1  |  -1  |                      -                       |
+| 4      | 8+3k8+VYT |  +1   |  +0  |  -1  |                    Talent                    |
+| 5      | 8+4k8+VYT |  +2   |  +0  |  +0  |              1 dovednostní bod               |
+| 6      | 8+5k8+VYT |  +2   |  +1  |  +0  |                    Talent                    |
+| 7      | 8+6k8+VYT |  +3   |  +1  |  +1  |                      -                       |
+| 8      | 8+7k8+VYT |  +3   |  +2  |  +1  |                    Talent                    |
+| 9      | 8+8k8+VYT |  +4   |  +2  |  +2  |                      -                       |
+| 10     | 8+9k8+VYT |  +4   |  +3  |  +2  |          1 dovednostní bod; Talent           |
 
 ## Schopnosti povolání
 

@@ -50,7 +50,7 @@ Základní pravidla k běžným magickým předmětům.
 
 Díky energii, kterou magické předměty vyzařují. Dokáže i běžný magicky nenadaný jedinec rozpoznat, že se dotýká magického předmětu.
 
- ### Identifikace magických předmětů.
+### Identifikace magických předmětů
 
 Celkově jsou 2 způsoby jak identifikovat efekty magických předmětů.
 

@@ -20,7 +20,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Pulz mystické energie zažene *Lx2* úrovní nemrtvých a démonů v oblasti velikosti *5 začínající v dosahu kouzla. Zasažená stvoření mají nárok na záchranný hod, aby efektu odolali. Ovlivněná stvoření se po dobu 1 směny budou snažit vyhýbat sesilateli.
+**Efekt:** Pulz mystické energie zažene *Lx2* úrovní nemrtvých a démonů v oblasti velikosti *5* začínající v dosahu kouzla. Zasažená stvoření mají nárok na záchranný hod, aby efektu odolali. Ovlivněná stvoření se po dobu 1 směny budou snažit vyhýbat sesilateli.
 
 **Ovlivněné úrovně:** Stvoření jsou ovlivněny postupně od nejnižší úrovně po nejvyšší.
 
