@@ -38,6 +38,7 @@ Základní pravidla a definice platící pro všechny kouzla ve hře.
 -   **Koncentrace** - Kouzla vyžadující koncentraci vyžadují nerušené soustředění na dané kouzlo. Během udržování koncentrace musí sesilatel každé kolo svou akci použít na udržování daného kouzla. Jinak je kouzlo ztraceno. Kouzlo je také ztraceno, je-li sesilatel zasažen kouzlem, zraněn nebo jinak násilně vyrušen.
 -   **Zóna velikosti X:** Popisuje krychlovou oblast o délce hrany X metrů.
 -   **Předčasné ukončení kouzel:** Pokud kouzlo ve svém popisku samo neudává jinak, kouzla nelze předčasně ukončit.
+-   **Kumulace magických efektů:** Pokud je stvoření pod efektem více kouzel co by ovlivňovalo tu samou dovednost či statistiku (například bonus do OČ) počítá se jen ten silnější z těchto efektů.
 
 <img src="/assets/sep_line.png"/>
 

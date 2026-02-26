@@ -60,7 +60,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Náhlý příval odvahy zvedne morálku očarované stvoření o 1 stupeň (nikoliv však výše jak *Výjimečná (1)*). Očarované stvoření také obdrží bonus +L k záchranným hodům proti efektům strachu. Pokud se stvoření zrovna nachází pod takovým efektem, je mu ihned umožněno opakovat záchranný hod s tímto bonusem.
+**Efekt:** Náhlý příval odvahy zvedne morálku očarovaného stvoření o 1 stupeň. Očarované stvoření také obdrží bonus +L k záchranným hodům proti efektům strachu. Pokud se stvoření zrovna nachází pod takovým efektem, je mu ihned umožněno opakovat záchranný hod s tímto bonusem.
 
 <img src="/assets/sep_line.png"/>
 

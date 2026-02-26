@@ -14,7 +14,7 @@
 
 **Speciální vlastnosti:** 
 
-- *Malý* - Jejich malý vzrůst jim poskytuje bonus *+1* do OČ proti útokům na dálku a bonus *+2* do OČ, proti velkým nepřátelům (Významně větší jak člověk)
+- *Malý* - Jejich malý vzrůst jim poskytuje bonus *+1* do OČ proti útokům na dálku a bonus *+2* do OČ, proti útokům na blízku velkých nepřátel (Významně větší jak člověk)
 - *Eulerský vynález* -Kuduci jsou národ známí pro svou vynalézavost. Těžko jen najít Kuduka, který by u sebe neměl nějakou vymoženost. Získáváš jeden z vynálezů níže, nebo spolupracuj s PK a vytvoř si vlastní.
 
 <img src="/assets/sep_line.png"/>

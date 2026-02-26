@@ -1,8 +1,10 @@
 # Zaříkávač
 
+<img src="/assets/Aldir/classess/mystic.webp"/>
+
 <img src="/assets/sep_line.png"/>
 
-asd ==TODO: popis a art?==
+*Spirituální čaroděj napojen na síly přírody. Zaměřující se především na podporu spojenců.*
 
 <img src="/assets/sep_line.png"/>
 
@@ -86,7 +88,7 @@ Pokud si zaříkávač přeje, při tvorbě postavy si může vybrat býti dráp
 
 Naučíš se používat 2 jednoruční zbraně naráz. Můžeš je používat následujícími dvěma způsoby:
 
--   **1 Cíl:** Pokud útočíš oběma zbraněmi na 1 cíl máš bonus *+1* k zásah. Kostky poškození pak hážeš na obou zbraních a bereš vyšší výsledek.
+-   **1 Cíl:** Pokud útočíš oběma zbraněmi na 1 cíl máš bonus *+1* k zásahu. Kostky poškození pak hážeš na obou zbraních a bereš vyšší výsledek.
 -   **2 Cíle:** Rozdělíš svůj útok do dvou cílů. Na každý zásah hážeš s postihem *-2*. Poškození se počítá zvlášť za každou zbraň.
 
 <img src="/assets/sep_line.png"/>

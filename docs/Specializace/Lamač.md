@@ -1,11 +1,10 @@
 # Lamač kouzel
 
-!!! danger "Velkomocní a Lamači kouzel"
-    Ikdyž se Velkomocní mohou stát členy řádu lamačů kouzel. Není možné, aby se velkomocný stal lamačem kouzel. Vzhledem k modifikacím, kterým prochází lamači během tréninku. Tyto modifikace jsou nekompatibilní s fyziologií velkomocných. 
+<img src="/assets/Aldir/classess/Spellbreaker.webp"/>
 
 <img src="/assets/sep_line.png"/>
 
-asd ==TODO: popis a art?==
+*Magií vyšlechtění bojovníci trénovaní za účelem lovení mágů.*
 
 <img src="/assets/sep_line.png"/>
 
@@ -70,7 +69,7 @@ Při tvorbě postavy si lamač může vybrat zda je aktivním členem Řádu lam
 
 Naučíš se používat 2 jednoruční zbraně naráz. Můžeš je používat následujícími dvěma způsoby:
 
--   **1 Cíl:** Pokud útočíš oběma zbraněmi na 1 cíl máš bonus *+1* k zásah. Kostky poškození pak hážeš na obou zbraních a bereš vyšší výsledek.
+-   **1 Cíl:** Pokud útočíš oběma zbraněmi na 1 cíl máš bonus *+1* k zásahu. Kostky poškození pak hážeš na obou zbraních a bereš vyšší výsledek.
 -   **2 Cíle:** Rozdělíš svůj útok do dvou cílů. Na každý zásah hážeš s postihem *-2*. Poškození se počítá zvlášť za každou zbraň.
 
 <img src="/assets/sep_line.png"/>

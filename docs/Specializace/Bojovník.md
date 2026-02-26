@@ -1,8 +1,10 @@
 # Bojovník
 
+<img src="/assets/Aldir/classess/warrior.webp"/>
+
 <img src="/assets/sep_line.png"/>
 
-asd ==TODO: popis a art?==
+*Všestranný mistr zbraní a bojových technik, který dokonale ovládá chaos bojiště.*
 
 <img src="/assets/sep_line.png"/>
 
@@ -15,7 +17,7 @@ asd ==TODO: popis a art?==
 ## Tabulka postupu
 
 | úroveň | životy | Zásah |  Z  |  MO  |                        Ostatní                         |
-| :----- | :----: | :---: | :--: | :----------------------------------------------------: | ------------------------------------------------------ |
+| :----- | :----: | :---: | :--: | :----------------------------------------------------: | :----------------------------------------------------: |
 | 1      | 8+VYT  |  +0   |  -1  |  -3  | Momentum; Nosič, potah ...; Mistrovství zbraně; Talent |
 | 2      |  8+1k8+VYT  |  +0   |  -1  |  -3  |                         Talent                         |
 | 3      |  8+2k8+VYT  |  +1   |  +0  |  -2  |                           -                            |
@@ -55,7 +57,7 @@ Vyber si zbraň, kterou mistrně ovládáš. S touhle zbraní máš bonus ve vý
 
 Naučíš se používat 2 jednoruční zbraně naráz. Můžeš je používat následujícími dvěma způsoby:
 
--   **1 Cíl:** Pokud útočíš oběma zbraněmi na 1 cíl máš bonus *+1* k zásah. Kostky poškození pak hážeš na obou zbraních a bereš vyšší výsledek.
+-   **1 Cíl:** Pokud útočíš oběma zbraněmi na 1 cíl máš bonus *+1* k zásahu. Kostky poškození pak hážeš na obou zbraních a bereš vyšší výsledek.
 -   **2 Cíle:** Rozdělíš svůj útok do dvou cílů. Na každý zásah hážeš s postihem *-2*. Poškození se počítá zvlášť za každou zbraň.
 
 <img src="/assets/sep_line.png"/>

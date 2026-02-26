@@ -12,6 +12,8 @@
 
 **Modifikace dovedností:** Libovolná dovednost *+1* (nelze přesáhnout +4).
 
+**Omezení povolání:** Nemůže být *Lamačem kouzel*.
+
 **Speciální vlastnosti:** 
 
 - *Vzácní* - Jejich četnost na Aldiru je nízká nebo se vyhýbají civilizaci, a tudíž potkat jednoho je poměrně vzácné. V hráčské skupině může být za celou kampaň pouze jedna postava této rasy.
