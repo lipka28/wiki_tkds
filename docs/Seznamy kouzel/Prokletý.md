@@ -1,6 +1,6 @@
-# Zaříkávač - Seznam zázraků
+# Prokletý - Seznam kouzel
 
-## Zázraky 1. tříd
+## Kouzla 1. tříd
 
 <img src="/assets/sep_line.png"/>
 
@@ -20,9 +20,18 @@
 
 **Trvání:** L směn
 
-**Dosah:** sesilatel
+**Dosah:** 10 metrů
 
-**Efekt:** asd
+**Efekt:** Rozpohybuj ostatky zesnulé osoby do podoby poslušného nemrtvého sluhy.
+
+- **Speciální schopnosti:** Rozpohybované stvoření nemá žádné schopnosti, které mělo za svého života.
+
+**Nemrtvý sluha**
+
+**Úroveň:** 1; **Životy:** 5; **OČ:** 12; **Z:** +0; **MO:** -2; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození 1k6 nebo dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
+
+!!! note "Objasnění: Co je osoba?"
+	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
 
 <img src="/assets/sep_line.png"/>
 
@@ -32,37 +41,82 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Proti živému cíli v dosahu vyšlehne paprsek negativní energie. Cíl obdrží *1k4* poškození a po dobu trvání kouzla má postih *-1* k zásahu svými útoky. Cíl má nárok na záchranný hod, aby efektu odolal.
+**Efekt:** Proti živému cíli masa a krve v dosahu, vyšlehne paprsek negativní energie. Cíl obdrží  postih *-2* k zásahu svými útoky. Cíl má nárok na záchranný hod, pokud uspěje obdržený postih je pouze *-1*.
 
-- **Kumulativní postih:** Postih k zásahu může být kumulativně až *-4*. S každým dalším zásahem oslabujícího paprsku je trvání kouzla obnoveno.
+- **Kumulativní postih:** Postih k zásahu z tohoto kouzla je kumulativní až  po maximum *-4*. S každým dalším zásahem oslabujícího paprsku je trvání kouzla obnoveno.
 
 <img src="/assets/sep_line.png"/>
 
 ### Přikaž mrtvým
 
-**Trvání:** L směn
+**Trvání:** L kol
 
-**Dosah:** sesilatel
+**Dosah:** 20 metrů
 
-**Efekt:** asd
+**Efekt:** Na krátkou dobu rozpohybuj ostatky *2k6* zesnulých osob v dosahu, Tito rozpohybovaní mrtví jsou pod tvou kontrolou a následují tvé rozkazy.
+
+- **Speciální schopnosti:** Rozpohybované stvoření nemá žádné schopnosti, které mělo za svého života.
+
+**Rozpohybovaní mrtví**
+
+**Úroveň:** 1; **Životy:** 1; **OČ:** 10; **Z:** -2; **MO:** -2; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození 1k6 nebo dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
+
+!!! note "Objasnění: Co je osoba?"
+	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
 
 <img src="/assets/sep_line.png"/>
 
-## Zázraky 2. třídy
+## Kouzla 2. třídy
 
 <img src="/assets/sep_line.png"/>
 
-### Kůrže
+### Brnění z kostí
 
-**Trvání:** L směn
+**Trvání:** 1 den nebo dokud nezničeno
+
+**Dosah:** Sesilatel
+
+**Efekt:** Sesilatel pokryje své tělo kostěným brnění. Tvé OČ v brnění je *14*. Navíc pokud tě někdo zraní útokem na blízko, z brnění se ulomí fragment kosti, který udělí útočníkovi *2* poškození.
+
+- **Zničení zbroje:** Pokud obdržíš od seslání kouzla *6+L* poškození, brnění je zničeno.
+
+<img src="/assets/sep_line.png"/>
+
+### Přiškrtit
+
+**Trvání:** Koncentrace po dobu až L kol
+
+**Dosah:** 30 metrů
+
+**Efekt:** Jedno živé stvoření z masa a krve v dosahu je chyceno pod krkem přízračnými prsty. Cíl obdrží *1k4* poškození a postih -1 do OČ a všech záchranných a ověřovacích hodů (včetně útoku). Tento efekt se opakuje každé kolo, co se sesilatel rozhodne na kouzlo koncentrovat.
+
+- **Záchranný hod:** Při prvotním zásahu kouzlem se může cíl pokusit uspět v záchranném hodu aby efektu kouzla odolal.
+
+<img src="/assets/sep_line.png"/>
+
+### Ticho
+
+**Trvání:** 12 směn
+
+**Dosah:** 30 metrů
+
+**Efekt:** V zóně velikosti *5* začínající v dosahu kouzla vytvoří oblast, ve které nemůže vzniknout žádný zvuk. 
+
+**Očarovat stvoření:** Kouzlo lze seslat i přímo na nějaké stvoření. To se může pokusit o záchranný hod. Pokud neuspěje, vyčarovaná zóna je pak centrovaná na daném stvoření a pohybuje se s ním. V případě úspěchu je efekt kouzla ve směs stejný ale zóna se s očarovaným stvořením nepohybuje.
+
+<img src="/assets/sep_line.png"/>
+
+### Vyleč nemrtvé
+
+**Trvání:** Okamžité
 
 **Dosah:** Dotyk
 
-**Efekt:** asd
+**Efekt:** Z ruky prokletého začne vzejde pulz negativní energie, která vyléčí nemrtvého za *2k6* života.
 
 <img src="/assets/sep_line.png"/>
 
-## Zázraky 3. třídy
+## Kouzla 3. třídy
 
 <img src="/assets/sep_line.png"/>
 
@@ -76,7 +130,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-## Zázraky 4. třídy
+## Kouzla 4. třídy
 
 <img src="/assets/sep_line.png"/>
 
@@ -90,7 +144,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-## Zázraky 5. třídy
+## Kouzla 5. třídy
 
 <img src="/assets/sep_line.png"/>
 
