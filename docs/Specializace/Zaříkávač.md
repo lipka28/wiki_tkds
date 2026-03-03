@@ -76,7 +76,7 @@ Pokud si zaříkávač přeje, při tvorbě postavy si může vybrat býti dráp
 - **Omezené zázraky:** Dráp připravuje zázraky stejným způsobem jako zaříkávač, ale disponuje jen jedním zázrakem pro každou přístupnou třídu kouzel.
 - **Omezená požehnání:** Dráp má také přístup k méně požehnání než zaříkávač a to pouze (1+SRD)/2 (zaokrouhleno nahoru) 
 
-## Zaříkávač talenty
+## Zaříkávač - talenty
 
 <img src="/assets/sep_line.png"/>
 

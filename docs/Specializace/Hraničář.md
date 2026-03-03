@@ -64,7 +64,7 @@ Pes trénovaný k lovu.
 
 <img src="/assets/sep_line.png"/>
 
-## Hraničář talenty
+## Hraničář - talenty
 
 <img src="/assets/sep_line.png"/>
 

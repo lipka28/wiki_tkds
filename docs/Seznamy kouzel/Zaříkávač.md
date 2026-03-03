@@ -345,7 +345,7 @@
 
 **Efekt:** Grandiózní hodinu trvající rituál, který navrátí mrtvého k životu. Rituál musí být proveden na místě magického významu (např. katedrála nějakého boha či druidský kruh kamení v lesích) a vyžaduje magické regenty v celkové hodnotě *2000 šilinků*. 
 
-- **Omezení:** K oživení mrtvého jsou třeba jeho ostatky a jeho smrt se nesměla stát před více jak 30-ti dny.
+- **Omezení:** K oživení mrtvého jsou třeba jeho ostatky a jeho smrt se nesměla stát před více jak 10-ti dny.
 - **Slabost oživeného:** Oživené stvoření je navráceno k životu s *1 životem* a *vyčerpáním*. Na rozdíl od běžného fungování *vyčerpání*. V tomhle případě se vyruší až týdenním odpočinkem.
 
 <img src="/assets/sep_line.png"/>

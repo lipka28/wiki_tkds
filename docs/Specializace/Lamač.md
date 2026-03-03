@@ -57,7 +57,7 @@ Při tvorbě postavy si lamač může vybrat zda je aktivním členem Řádu lam
 
 <img src="/assets/sep_line.png"/>
 
-## Lamač kouzel talenty
+## Lamač kouzel  - talenty
 
 <img src="/assets/sep_line.png"/>
 

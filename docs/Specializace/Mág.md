@@ -54,7 +54,7 @@ Pokud si mág přeje, při tvorbě postavy si může vybrat býti magusem na mí
 - **Extra trénované brnění:** Jsi trénovaný v používání lehkých zbrojí a pukléřů.
 - **Omezená magie:** Magusové získávají odemykají nová kouzla stejným tempem jako mágové. Jejich množství magické energie je však daleko menší. Magus na první úrovni získává (1+MYS)/2 (zaokrouhleno nahoru) magické energie. Mimo talenty však pak již získává +1 ME jen každou sudou úroveň.
 
-## Mág talenty
+## Mág - talenty
 
 <img src="/assets/sep_line.png"/>
 

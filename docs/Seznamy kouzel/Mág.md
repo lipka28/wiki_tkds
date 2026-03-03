@@ -501,7 +501,7 @@
 - Každý další pilíř musí navazovat na ten předchozí.
 - Pilíře nemohou navazovat ve větším úhlu jak *45°*.
 
-**Stvoření 4 nebo vyšší úrovně:** Se mohou ověřením *SIL* s nevýhodou pokusit probít skrz pilíř. Stvoření, kterému se to povede obdrží *2k6* poškození za roztříštění pilíře.
+**Stvoření 4 nebo vyšší úrovně:** Se může skrz pilíř probít při čemž obdrží *2k6* poškození.
 
 <img src="/assets/sep_line.png"/>
 
@@ -526,7 +526,7 @@
 **Efekt:** Mág rozváže nebo usměrní nitky osudu protínající stvoření jedním z následujících způsobů:
 
 - **Odstraň prokletí:** Očarované stvoření je trvale vyléčeno z jednoho prokletí, které jej ovlivňovalo. Alternativně je mu umožněno zbavit se jednoho oblečeného prokletého předmětu. Tohle kouzlo nelze použít na odstranění prokletí z předmětů.
-- **Uval prokletí:** Na očarované stvoření je uvaleno prokletí. Prokletí může být v podobě postihu až *-4* bodů do specifické dovednosti nebo třeba nějaký adekvátní behaviorální efekt (např.: Již nikdy nedokážeš vstoupit na loď). Prokletí je trvalé.
+- **Uval prokletí:** Očarované stvoření musí uspět v záchranném hodu jinak je na něj uvaleno prokletí. Prokletí může být v podobě postihu až *-4* bodů do specifické dovednosti nebo třeba nějaký adekvátní behaviorální efekt (např.: Již nikdy nedokážeš vstoupit na loď). Prokletí je trvalé.
 
 **Vícero prokletí:** Jedno stvoření může být pod efektem vícero prokletí, pokud mají rozdílné efekty. 
 
@@ -547,7 +547,7 @@
 - Každý další plamen musí navazovat na ten předchozí.
 - Plameny nemohou navazovat ve větším úhlu jak *45°*.
 
-**Stvoření 4 nebo vyšší úrovně:** Mohou plameny projít. A však vstoupení do plamenů a každý ukončený tah v plamenech, způsobí stvoření *3k6* poškození.
+**Stvoření 4 nebo vyšší úrovně:** Mohou plameny projít. A však vstoupení do plamenů a každý ukončený tah v plamenech, způsobí stvoření *2k6* poškození.
 
 <img src="/assets/sep_line.png"/>
 
@@ -733,7 +733,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Magicky rozpohybuje pod mágovou kontrolou kontrolou *L* těl (či kostěných ostatků) mrtvých osob. Nezávisle na tom, jakými schopnostmi a statistikami disponovali tyto osoby za svého života. Všechny používají následující statistiky.
+**Efekt:** Magicky rozpohybuje pod mágovou kontrolou *L* těl (či kostěných ostatků) mrtvých osob. Nezávisle na tom, jakými schopnostmi a statistikami disponovali tyto osoby za svého života. Všechny používají následující statistiky.
 
 **Živý mrtvý**
 

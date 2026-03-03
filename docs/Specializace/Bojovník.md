@@ -45,7 +45,7 @@ Vyber si zbraň, kterou mistrně ovládáš. S touhle zbraní máš bonus ve vý
 
 <img src="/assets/sep_line.png"/>
 
-## Bojovníkovy talenty
+## Bojovník - talenty
 
 <img src="/assets/sep_line.png"/>
 

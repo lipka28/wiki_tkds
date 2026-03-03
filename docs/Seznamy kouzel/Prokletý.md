@@ -120,13 +120,52 @@
 
 <img src="/assets/sep_line.png"/>
 
-### Bouře blesků
+### Mrtvolná exploze
+
+**Trvání:** Okamžité
+
+**Dosah:** 20 metrů
+
+**Efekt:** Okolí *5 metrů* kolem mrtvého těla nebo tebou ovládaného nemrtvého exploduje negativní energií. Zasažené subjekty obdrží *Lk6* poškození. Mohou však uspět v záchranném hodu a tím poškození snížit na polovinu. Tělo nebo nemrtvý použiti pro vyvolání tohoto kouzla, jsou zničeni.
+
+<img src="/assets/sep_line.png"/>
+
+### Prokletí
+
+**Trvání:** Trvalé
+
+**Dosah:** Dotyk
+
+**Efekt:** Cílené stvoření musí uspět v záchranném hodu jinak je na něj uvaleno prokletí. Prokletí může být v podobě postihu až *-4* bodů do specifické dovednosti nebo třeba nějaký adekvátní behaviorální efekt (např.: Již nikdy nedokážeš vstoupit na loď). Prokletí je trvalé.
+
+**Vícero prokletí:** Jedno stvoření může být pod efektem vícero prokletí, pokud mají rozdílné efekty. 
+
+<img src="/assets/sep_line.png"/>
+
+### Rozpohybuj mrtvého
 
 **Trvání:** L směn
 
-**Dosah:** 100 metrů
+**Dosah:** 20 metrů
 
-**Efekt:** asd
+**Efekt:** Magicky rozpohybuje pod kontrolou prokletého *L* úrovní těl (či kostěných ostatků) mrtvých stvoření. 
+
+- **Omezení:** Prokletý nemůže mít v jednu chvíli, efektem tohohle kouzla, pod kontrolou více než L úrovní takto vytvořených nemrtvých.
+- **Statistiky:** Stvoření používá ve směs stejné statistiky jako mělo za života, jeho *OČ* je však pouze *12* a jeho *záchranné hody jsou sníženy o -2*. Jakékoliv speciální schopnosti, které stvoření mohlo používat za svého života v této podobě používat nemůže (i když PK může udělat výjimku).
+- **Specializace:** Je-li kouzlo použito na hráčskou postavu nebo jiného humanoida se specializací, je oživený nemrtvý považován za běžného nemrtvého 2. úrovně.
+- **Konec kouzla:** Po skončení kouzla nebo smrti nemrtvého se tělo dotyčného rozpadne v prach. 
+
+<img src="/assets/sep_line.png"/>
+
+### Zadrž kosti
+
+**Trvání:** L směn
+
+**Dosah:** 30 metrů
+
+**Efekt:** Kouzlo paralyzuje L úrovní stvoření v dosahu (přesněji jejich kostry), dle výběru sesilatele. Zasažená stvoření se mohou pokusit o záchranný hod, aby efektu odolali.
+
+**Paralýza:** Stvoření je schopno vnímat ale nemůže se hýbat. Sesilatel může očarované stvoření kdykoliv s paralýzy částečně (například aby mohla mluvit) nebo plně uvolnit.
 
 <img src="/assets/sep_line.png"/>
 
@@ -134,13 +173,61 @@
 
 <img src="/assets/sep_line.png"/>
 
-### Falešný les
+### Ovládni nemrtvé
 
-**Trvání:** Trvalé
+**Trvání:** Trvalé / Jeden a více dní
 
 **Dosah:** 50 metrů
 
-**Efekt:** asd
+**Efekt:** Kouzlo ovládne buďto *L úrovní* nemyslících nemrtvých a nebo *1* inteligentní nemrtvé stvoření maximálně *L úrovně*.
+
+- **Nemyslící nemrtví:** Kouzlo je trvalé a očarovaní oddaně následují i sebevražedné rozkazy. Pokud byli cílení nemrtví očarováni nebo vytvořeni nějakým jiným kouzelníkem, dotyčný kouzelník se může pokusit uspět v záchranném hodu, aby kouzlu bylo odoláno.
+- **Inteligentní nemrtví:** Nemrtvý se může pokusit uspět v záchranném hodu, aby kouzlu odolal. Když selže, musí oddaně následovat rozkazy svého nového pána. Zřejmě sebevražedné rozkazy může ignorovat. Očarovaný nemrtvý má nárok na opakování záchranného hodu každý měsíc, aby se z kouzla vyvázal. Pokud se jedná o nemrtvého *4 nebo vyšší úrovně*, pak může hod opakovat každý týden. Nemrtvý *7 nebo vyšší úrovně* pak každý den.
+
+<img src="/assets/sep_line.png"/>
+
+### Proměna v roj
+
+**Trvání:** Trvalé nebo dokud neodvoláno
+
+**Dosah:** Sesilatel
+
+**Efekt:** Prokletý včetně veškeré své výbavy se promění v roj nějaké létající havěti (např. hmyzu). Roj může pokrývat až *zónu velikosti 2*. Pro nepřátele je tato zóna považována za *obtížný terén*.
+
+- **Pohyb:** Roj může létat až rychlostí 6 metrů za kolo.
+- **Odolnosti:** Roj nelze zranit běžnými fyzickými útoky. Lze jej však zranit kouzly nebo plošnými útoky.
+- **Útok:** Roj může automaticky udělit 4 poškození všem stvořením stojící v něm. Pokud má stvoření OČ stejné nebo vyšší jak 14, poškození je poloviční.
+- **Jiné akce:** Roj nemůže mluvit ani používat kouzla. Může však manipulovat předměty velikosti až 1 slot.
+- **Trvání:** Kouzlo je trvalé ale může být předčasně ukončeno sesilatelem. Také pokud sesilatel zemře v podobě roje, vrátí se do své původní podoby.
+
+<img src="/assets/sep_line.png"/>
+
+### Stěna z kostí
+
+**Trvání:** 12 směn
+
+**Dosah:** 20 metrů
+
+**Efekt:** Prokletý vyvolá stěnu skládající se až z *Lx2* drápů vytvořených z kostěných úlomků. Každý dráp má délku a šířku *1 metr* a výšku až *4 metry*. Stvoření *3.* nebo nižší úrovně nejsou schopny tuto stěnu překonat.
+
+**Umisťování pilířů:** Sesilatel může pilíře umístit kdekoliv v dosahu kouzla avšak musí splnit tyto podmínky:
+
+- Pilíř musí na něčem pevném stát (třeba na zemi)
+- Pilíř nelze vytvořit na místech obsazených nehybnými objekty.
+- Každý další pilíř musí navazovat na ten předchozí.
+- Pilíře nemohou navazovat ve větším úhlu jak *45°*.
+
+**Stvoření 4 nebo vyšší úrovně:** Se může skrz dráp probít při čemž obdrží *2k6* poškození.
+
+<img src="/assets/sep_line.png"/>
+
+### Vysaj život
+
+**Trvání:** Okamžité
+
+**Dosah:** Dotyk
+
+**Efekt:** Dotyk prokletého vysaje život z živého stvoření z masa a krve. Dotyk způsobí *4k6* poškození. Cíl se může pokusit uspět v záchranném hodu, aby bylo udělené poškození poloviční. Sesilatel si následně doplní zdraví ve výši uděleného poškození. Léčení, které by přesáhlo maximální zdraví je ztraceno.
 
 <img src="/assets/sep_line.png"/>
 
@@ -148,12 +235,55 @@
 
 <img src="/assets/sep_line.png"/>
 
-### Navázat spojení
+### Armáda nemrtvých
 
-**Trvání:** 3 směny
+**Trvání:** Trvalé
 
-**Dosah:** Sesilatel
+**Dosah:** 20 metrů
 
-**Efekt:** asd
+**Efekt:** Magicky rozpohybuje pod kontrolou prokletého *L* úrovní těl (či kostěných ostatků) mrtvých stvoření. 
+
+- **Statistiky:** Stvoření používá ve směs stejné statistiky jako mělo za života, jeho *OČ* je však pouze *12* a jeho *záchranné hody jsou sníženy o -2*. Jakékoliv speciální schopnosti, které stvoření mohlo používat za svého života v této podobě používat nemůže (i když PK může udělat výjimku).
+- **Specializace:** Je-li kouzlo použito na hráčskou postavu nebo jiného humanoida se specializací, je oživený nemrtvý považován za běžného nemrtvého 2. úrovně.
+- **Usmrcení:** Po smrti nemrtvého se tělo dotyčného rozpadne v prach. 
+
+<img src="/assets/sep_line.png"/>
+
+<img src="/assets/sep_line.png"/>
+
+### Kouzlo smrti
+
+**Trvání:** Okamžité
+
+**Dosah:** 20 metrů
+
+**Efekt:** Živé stvoření z masa a krve v dosahu je zasaženo paprskem negativní energie. Zasažený musí uspět v záchranném hodu jinak zemře.
+
+<img src="/assets/sep_line.png"/>
+
+### Krvavé oživení
+
+**Trvání:** Okamžité
+
+**Dosah:** Dotyk
+
+**Efekt:** Krvavý hodinu trvající rituál, který navrátí mrtvého k životu. Rituál musí být proveden na místě magického významu (např. katedrála nějakého boha či druidský kruh kamení v lesích), které je při rituálu znesvěceno. Během rituálu také musí být zavražděno tolik úrovní inteligentních stvoření z masa a krve, kolik odpovídá úrovni oživovaného. 
+
+- **Omezení:** K oživení mrtvého jsou třeba jeho ostatky a jeho smrt se nesměla stát před více jak 10-ti dny.
+- **Slabost oživeného:** Oživené stvoření je navráceno k životu s *1 životem* a *vyčerpáním*. Na rozdíl od běžného fungování *vyčerpání*. V tomhle případě se vyruší až týdenním odpočinkem.
+
+<img src="/assets/sep_line.png"/>
+
+### Smrtonosný mrak
+
+**Trvání:** 6 směn
+
+**Dosah:** 10 metrů
+
+**Efekt:** Prokletý ze svých rukou vypustí mrak jedovatého plynu, který naplní oblast velikosti *10* dotýkající se jeho pozice. 
+
+**Pohyb plynu:** Mrak plynu se každé kolo pohne o 2 metry po směru větru. Plyn je také těžší než vzduch, takže má tendenci klesat (např.: z kopce či do děr v zemi).
+
+**Poškození:** Každé stvoření, kterého se plyn dotkne nebo které ukončí svůj tah v tomto plynu. Obdrží *2 poškození*. Pokud se jedná o stvoření *4.* úrovně nebo méně musí navíc pokaždé uspět v záchranném hodu jinak zemře.
 
 <img src="/assets/sep_line.png"/>

@@ -54,7 +54,7 @@ Aurory jsou speciální schopností požehnaného, které poskytují magický pa
 
 <img src="/assets/sep_line.png"/>
 
-## Talenty požehnaného
+## Požehnaný - talenty
 
 <img src="/assets/sep_line.png"/>
 
