@@ -4,7 +4,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-*Spirituální čaroděj napojen na síly přírody. Zaměřující se především na podporu spojenců.*
+*Prokletý čaroděj potrestán za hrátky se sílami, kterým nerozuměl.*
 
 <img src="/assets/sep_line.png"/>
 
@@ -41,15 +41,27 @@ Jsi imunní vůči nemocem a tvé počáteční zdraví je o *4* vyšší (již 
 
 ### Prokletá magie
 
-Prokletý disponuje schopností ovládat Zázračnou magii. Podrobné vysvětlení magie a Zázračné magie naleznete [zde](/Magie).
+Prokletá magie je zvláštní kombinací magiky a zázračné magie. Obecná pravidla pro užívání magie lze nalézt [zde](/Magie).
 
-**Kouzla:** Zaříkávač začíná hru s možností seslat 1 zázrak první třídy denně. Postupem na vyšší úrovně získává schopnost sesílat více zázraků a zázraky vyšších tříd.
+**Kouzla:** Prokletý může sesílat všechna kouzla ze svého seznamu kouzel pro třídy, které ovládá. Bez další nutnosti si připravovat nebo učit se nová kouzla. Na 1. úrovni má prokletý přístup ke svým kouzlům 1. třídy. Další třídy se zpřístupní postupem na vyšší úroveň dle tabulky postupu výše.
 
-**Cena kouzel:** Zaříkávač, který není *vyčerpaný*, může jedenkrát denně podstoupit hodinový meditační rituál (většinou na začátku dne), kterým získá určený počet zázraků podle tabulky zázraků dle úrovně výše. Během této meditace si zaříkávač určí, které zázraky ze svého [seznamu kouzel](/Seznamy kouzel/Zaříkávač/#proklety-seznam-kouzel) bude chtít sesílat. Pokud některý zázrak bude chtít seslat vícekrát. Musí si ho také vícekrát vybrat. Zaříkávač má pak daný zázrak připravený dokud jej nepoužije nebo dokud nepodstoupí další meditační rituál.
+**Cena kouzel:** Prokletý za sesílání svých kouzel platí svými životy. Ztráta života odpovídá vždy třídě seslaného kouzla (kouzlo 1. třídy = -1 život). Takto ztracené životy nelze doplnit běžným ani magickým léčením pouze přirozenou regenerací.
 
-**Magické předměty:** Zaříkávač dokáže aktivovat magické svitky Zázračné magie, bez nutnosti ověřování dovednosti. Také dokáže aktivovat magické předměty (především hole) určené pro uživatele Zázračné magie.
+**Magické předměty:** Prokletý dokáže aktivovat svity, hůlky i hole magiky i zázračné magie. Za každou aktivaci však musí zaplatit životy jako při sesílání kouzla. Cena života odpovídá třídě sesílaného kouzla. Pokud třída kouzla v předmětu není jasná cena je 1k6. Tohle neplatí u magických předmětů, které mohou používat všichni (např. magické prsteny).
 
 ## Prokletý - talenty
+
+Impozantní moc
+Komunikuj s mrtvým
+Létající nemrtvý kůň 
+Nemrtvý kůň
+Nepřirozená regenerace
+Očaruj obouruční zbraň
+Očaruj zbraň
+Přesuň zranění
+Temný zrak
+Vylepšený vysaj život
+Vyvolej kostěnou zbraň
 
 <img src="/assets/sep_line.png"/>
 
