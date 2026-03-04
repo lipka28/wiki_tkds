@@ -219,6 +219,8 @@
 
 **Stvoření 4 nebo vyšší úrovně:** Se může skrz dráp probít při čemž obdrží *2k6* poškození.
 
+**Díry ve stěně:** Vzhledem k nepravidelnosti a vzdušnosti stěny vytvořené z kostí je možné skrz stěnu (jednu vrstvu) provádět *útoky na dálku s nevýhodou* a *sesílat kouzla*.
+
 <img src="/assets/sep_line.png"/>
 
 ### Vysaj život
