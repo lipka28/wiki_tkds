@@ -40,8 +40,6 @@ Nakonec si nakup svou výbavu. Každá postava má nosnost *10 + SIL slotů* (po
 
 Nakonec doplň detaily jako je *jméno* postavy a formuluj její *popis*. Pokud si nevíš rady s popisem a nebo nemáš jasnou představu jak by tvoje postava měla vypadat nebo se chovat. Mohou ti pomoci tabulky rysů postav níže.
 
--   **Body štěstí:** Také nezapomeň, že na každé herní sezení vstupuje tvá postava s *1 bodem štěstí*.
-
 ### Tabulky rysů postav
 
 **Postava**

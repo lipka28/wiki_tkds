@@ -6,7 +6,7 @@
 
 **Jazyky:** *Obecná řeč*, *Elfština* a *Dračí řeč* + běžné jazyky ve výši tvé dovednosti *MYS*.
 
-**Předpokládaná doba dožití:** Nesmrtelní
+**Předpokládaná doba dožití:** 200 - 400 let
 
 **Rychlost:** 6 metrů
 
