@@ -76,7 +76,7 @@
 
 **Chování okouzleného:** Okouzlený je vůči sesilateli nápomocný jak jen to jde, taktéž bude následovat rozkazy sesilatele, pokud nejsou v rozporu s jeho zvyky či morálkou nebo pokud jej neohrozí na životě.
 
-**Vyprchání:** Okouzlená osoba má nárok na další záchranný hod každých *5-MYS okouzlené osoby* dní. Po vyprchání kouzla si okouzlená osoba uvědomí, že byla očarována.
+**Vyprchání:** Okouzlená osoba má nárok na další záchranný hod každých *5-MYS okouzlené osoby* dní. Při úspěchu kouzlo končí. Po vyprchání kouzla si okouzlená osoba uvědomí, že byla očarována. Alternativně je kouzlo ukončeno je-li okouzlený napaden sesilatelem nebo jeho spojenci.
 
 !!! note "Objasnění: Co je osoba?"
 	Osoba je jakékoliv člověku podobné stvoření či obdobné humanoidní monstrum lidské inteligence. Například člověk, elf, trpaslík, goblin nebo gnoll.
@@ -553,13 +553,15 @@
 
 ### Okouzli
 
-**Trvání:** Trvalé
+**Trvání:** Trvalé dokud neprolomeno
 
 **Dosah:** 20 metrů
 
 **Efekt:** Mág sešle mocné mysl modifikující kouzlo na *3k6* stvoření *3.* nebo nižší úrovně nebo na *1* stvoření *4.* nebo vyšší úrovně. Cílená stvoření mohou podstoupit záchranný hod. Při neúspěchu budou považovat sesilatele za velmi dobrého přítele. 
 
 **Chování okouzleného:** Okouzlený je vůči sesilateli nápomocný jak jen to jde, taktéž bude následovat rozkazy sesilatele, pokud nejsou v rozporu s jeho zvyky či morálkou nebo pokud jej neohrozí na životě.
+
+**Vyprchání:** Okouzlená stvoření mají nárok na další záchranný hod každý den. Při úspěchu kouzlo končí. Po vyprchání kouzla si stvoření uvědomí, že bylo očarováno. Alternativně je kouzlo ukončeno je-li okouzlený napaden sesilatelem nebo jeho spojenci.
 
 <img src="/assets/sep_line.png"/>
 
