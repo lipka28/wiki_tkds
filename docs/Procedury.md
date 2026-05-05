@@ -175,6 +175,10 @@ Nejběžnější volno-časové aktivity.
 
 Postava si může zaplatit léčitelské služby pro zotavení se z následků dlouhodobějšího charakteru. Všechna ostatní běžná zranění se během doby mezi dobrodružství (pokud dobrodružství skončilo v bezpečné lokalitě) automaticky vyléčí (magie se také doplní).
 
+#### Flámování
+
+Postava může strávit volný čas flámováním a tím proměnit část svých našetřených peněz v extra zkušenosti. Postava může do flámování investovat až *Úroveň\*200 šilinků*. Pokud se flámování účastí více postav, tak se tento limit vztahuje na každou postavu jednotlivě. Získané zkušenosti se rovnoměrně rozdělí mezí všechny postavy účastnící se společného flámování. ==todo: dokončit==
+
 #### Naučit se něco nového
 
 Postava se může zlepšit v určité aktivitě, přeučit se existující talent či naučit se nedokonalý talent navíc.

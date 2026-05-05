@@ -115,15 +115,33 @@ Specializace je hlavním gró postavy a dává jí naprostou většinu jejich sp
 
 ### Úroveň
 
-Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou úrovní. Nové úrovně poskytují extra možnosti každé postavě. Postup úrovněmi má každá specializace popsán ve své tabulce postupu.
+Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou úrovní. Nové úrovně poskytují extra možnosti každé postavě. Specializace mají tyto nově odemčené možnosti popsány ve své tabulce postupu.
 
-**Získávání úrovní:** Hráčské postavy získávají nové úrovně za každých *1000* získaných zkušenostních bodů. Jak PK rozdává zkušenosti je na něm. Avšak lze se řídit následujícími vodítky.
+**Získávání úrovní:** Hráčské postavy získávají nové úrovně za získané zkušenostní body. Jak PK rozdává zkušenosti je na něm. Avšak lze se řídit následujícími vodítky.
 
 - **Potyčka (10 - 100 zk):** Dle obtížnosti boje. Vyrovnaný boj by měl být kolem *50 zk*. Zatímco zdolání velkého monstra na konci příběhu *100 zk*. Zkušenosti za potyčky získávají všichni v plném rozsahu.
-- **Peníze:** Postavy by si měli rozdělit *10 zk* za každých získaných *100 šilinků*. Zkušenosti za peníze si hráčské postavy dělí rovnoměrně mezi sebe.
 - **Splnění úkolu či poslání (250+ zk):** Dokončení významného úkolu by mělo odměnit hráče minimálně *250 zk*. Zkušenosti za úkoly získávají všichni zúčastnění v plném rozsahu.
+- **Flámování:** Postavy mohou strávit volný čas flámováním a tím proměnit část svého bohatství na zkušenosti.
 
-**Maximální úroveň:** Teoretická maximální úroveň je *10*. Ale nic vám nebrání pokračovat i dále. Po 10. úrovni by však hráči ze svých specializací neměli získávat nic mimo nových talentů každou sudou úroveň.
+**Nová úroveň:** Potřebné zkušenosti k dosažení nové úrovně jsou popsány v tabulce níže. Pokud postava nasbírá tolik zkušenostních bodů, že by dosáhla na novou úroveň. Zvedne si svou úroveň a případně si poznačí nové získané schopnosti. *Nakumulované zkušenosti se s dosažením nové úrovně ne nulují!*
+
+| Úroveň  |      Potřebné zkušenosti (celkem)      |
+| :------ | :------------------------------------: |
+| 1       |                   0                    |
+| 2       |                 1 000                  |
+| 3       |                 2 000                  |
+| 4       |                 4 000                  |
+| 5       |                 6 000                  |
+| 6       |                 9 000                  |
+| 7       |                 12 000                 |
+| 8       |                 16 000                 |
+| 9       |                 20 000                 |
+| 10      |                 25 000                 |
+| 10+*\** | 30 000 (+5 000 na každou další úroveň) |
+
+*\*Teoretická maximální úroveň je 10. Ale nic vám nebrání pokračovat i dále. Po 10. úrovni by však hráči ze svých specializací neměli získávat nic mimo nových talentů každou sudou úroveň.*
+
+**Maximální získané zkušenosti:** Postava nemůže za sezení (a případné následující volno-časové aktivity), získat více jak *1* úroveň. Pokud by hrozilo získání *2 úrovní za sezení*. Zkušenosti postavy se zastaví na *o 1 méně* bodech, než je třeba k dosažení další úrovně. Veškeré přebytečné zkušenosti jsou ztraceny.
 
 ### Dovednosti
 
