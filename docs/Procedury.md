@@ -177,7 +177,19 @@ Postava si může zaplatit léčitelské služby pro zotavení se z následků d
 
 #### Flámování
 
-Postava může strávit volný čas flámováním a tím proměnit část svých našetřených peněz v extra zkušenosti. Postava může do flámování investovat až *Úroveň\*200 šilinků*. Pokud se flámování účastí více postav, tak se tento limit vztahuje na každou postavu jednotlivě. Získané zkušenosti se rovnoměrně rozdělí mezí všechny postavy účastnící se společného flámování. ==todo: dokončit==
+Postava může strávit volný čas flámováním a tím proměnit část svých našetřených peněz v extra zkušenostní body. Postava může do flámování investovat až *Úroveň\*200 šilinků* a tím z něj získat ekvivalentní počet zkušenostních bodů. Pokud se flámování účastí více postav, tak se tento limit vztahuje na každou postavu jednotlivě. Získané zkušenosti se rovnoměrně rozdělí mezí všechny postavy účastnící se společného flámování. Skupina účastnící se flámování si také musí hodit nad tabulkou níže a řídit se výsledkem.
+
+| 2k6   | Výsledek flámování                                           |
+| ----- | ------------------------------------------------------------ |
+| 2     | **Finanční újma** - Ať už kvůli karbanu nebo jinému nezodpovědnému zacházení s penězi. Flámování se skupině prodražilo. Na místo původně stanoveného obnosu skupina utratila *2x* tolik a však za tyto extra utracené peníze neobdrží žádné zkušenosti. Pokud se nemohou dovolit obnos zaplatit, tak jsou zadluženi nějaké, pro kampaň relevantní, nehráčské postavě. |
+| 3     | **Urážka na cti** - Flámující skupina hluboce urazila nějakou, pro kampaň významnou, nehráčskou postavu. Jakékoliv budoucí interakce s touto nehráčskou postavou budou náležitě postiženy (dle úsudku PK). |
+| 4     | **Nemoc** - Náhodný člen flámující skupiny chytil nějakou chorobu. Ať už pohlavně přenosnou nemoc, parazita či nějakou alergickou reakci. Efek a následky této choroby by měl být mírný ale dlouho trvající. Její vyléčení by mělo vyžadovat podstoupení nějakého specifického dobrodružství na získání léku. |
+| 5     | **Ztracený předmět** - Náhodný člen flámující skupiny ztratil jeden svůj náhodný předmět. Jeho opětovné získání vyžaduje nejdříve zjistit, kdo jej má. Následně pak podstoupení nějakého specifického dobrodružství na jeho získání. |
+| 6 - 8 | **Dobrý flám** - bez trvalejších následků.                   |
+| 9     | **Tajná informace** - Náhodný člen flámující skupiny obdrží významnou tajnou informaci. |
+| 10    | **Živoucí legenda** -  Náhodný člen flámující skupiny provedl, během flámování, něco naprosto legendárního. O čem se bude ještě dlouho vyprávět. Reputace dotyčného významně vzrostla. To by se mělo pozitivně podepsat na jeho budoucí interakce v dané lokalitě (dle úsudku PK). |
+| 11    | **Štědrý patron** - Flámující skupina narazila na štědrého patrona. Který zaplatil polovinu jejich útraty. Cena flámování je tedy poloviční a však postavy získají zkušenosti v plénem rozsahu. |
+| 12    | **Životní zážitek** - Tento flám byl naprosto život definující zážitek. Všechny postavy, které se tohohle flámu účastnili. Obdrží *dvojnásobek zkušeností* za utracené peníze. Tento výsledek se může stát pouze *1x za život postavy*. |
 
 #### Naučit se něco nového
 
