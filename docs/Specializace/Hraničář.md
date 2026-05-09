@@ -74,10 +74,7 @@ Pes trénovaný k lovu.
 
 **Opakování:** Nelze
 
-Naučíš se používat 2 jednoruční zbraně naráz. Můžeš je používat následujícími dvěma způsoby:
-
--   **1 Cíl:** Pokud útočíš oběma zbraněmi na 1 cíl máš bonus *+1* k zásahu. Kostky poškození pak hážeš na obou zbraních a bereš vyšší výsledek.
--   **2 Cíle:** Rozdělíš svůj útok do dvou cílů. Na každý zásah hážeš s postihem *-2*. Poškození se počítá zvlášť za každou zbraň.
+Naučíš se používat *2 jednoruční zbraně* naráz. To ti umožňuje provést útok oběma zbraněmi jako součást jedné útočné akce. Oba tyto úroky probíhají s postihem *-3* k zásahu. 
 
 <img src="/assets/sep_line.png"/>
 
@@ -140,6 +137,8 @@ Bonusy získané za označenou kořist platí i pro tvého zvířecího spojence
 **Opakování:** Lze vzít opakovaně a tím lze označit více nepřátel na začátku boje
 
 V prvním kole boje, můžeš zdarma označit jednoho ze svých nepřátel jako svou kořist. Do stvoření označené jako tvá kořist máš bonus *+1* k *poškození* a také k *OČ* a *záchraně* proti speciálním schopnostem označeného stvoření.
+
+Pokud ovládáš schopnost *Boj se dvěma zbraněmi*, tak tvůj více násobný útok proti cíli označenému jako kořist. Probíhá s postihem pouze *-2*.
 
 <img src="/assets/sep_line.png"/>
 

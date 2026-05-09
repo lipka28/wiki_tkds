@@ -67,10 +67,7 @@ Při tvorbě postavy si lamač může vybrat zda je aktivním členem Řádu lam
 
 **Opakování:** Nelze
 
-Naučíš se používat 2 jednoruční zbraně naráz. Můžeš je používat následujícími dvěma způsoby:
-
--   **1 Cíl:** Pokud útočíš oběma zbraněmi na 1 cíl máš bonus *+1* k zásahu. Kostky poškození pak hážeš na obou zbraních a bereš vyšší výsledek.
--   **2 Cíle:** Rozdělíš svůj útok do dvou cílů. Na každý zásah hážeš s postihem *-2*. Poškození se počítá zvlášť za každou zbraň.
+Naučíš se používat *2 jednoruční zbraně* naráz. To ti umožňuje provést útok oběma zbraněmi jako součást jedné útočné akce. Oba tyto úroky probíhají s postihem *-3* k zásahu. 
 
 <img src="/assets/sep_line.png"/>
 
