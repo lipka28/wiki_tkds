@@ -54,11 +54,11 @@ Hráčské postavy disponují 5-ti základními dovednostmi, které slouží př
 
 - **Síla (SIL):** Představuje hrubou sílu jedince. Používá se pro hody na zásah zbraněmi na blízko, lezení, plavání nebo třeba modifikuje nosnost inventáře.
 - **Hbitost (HBI):**  Zahrnuje pohotovost, zručnost, rovnováhu a reflexy. Využívá se třeba při pokusech o udržení rovnováhy ale i aktivitách vyžadujících manuální zručnost. Používá se také pro hody na zásah zbraní na dálku a někdy se přičítá k obrannému číslu.
-- **Vytrvalost (VYT):** Představuje odolnost, vytrvalost a zdraví jedince. Přičítá se k životům na první úrovni.
+- **Vytrvalost (VYT):** Představuje odolnost, vytrvalost a zdraví jedince. Přičítá se k životům na první úrovni a také určuje jak dlouho postava vydrží na pokraji smrti.
 - **Mysl (MYS):** Představuje znalosti, inteligenci, bystrost a paměť. Najde využití například při vybavování si informací, luštění kódů. Také má vliv na některé magické specializace, počet jazyků a počet nedokonalých talentů, které postava může ovládat.
     - *Negramotnost:* Pokud je tvá dovednost *Mysl* nižší jak *0*, jsi negramotný.
 
-- **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Inteligence, používá se u některých typů magie. Také se přičítá, jako magická odolnost k záchranným hodům proti magickým efektům.
+- **Srdce (SRD):** Popisuje odvahu, sílu vůle, odhodlání ale i charisma. Používá se pro vyjednávání, zastrašování, či získávání informací od lidí. Stejně jako Mysl, používá se u některých typů magie. Také se přičítá, jako magická odolnost k záchranným hodům proti magickým efektům.
 
 **Ztráta a doplňování dovednostních bodů:** Některá monstra mají schopnost dočasně nebo i dlouhodobě snížit některé dovednostní body. Pokud však není nic co by doplnění dovednostních bodů bránilo. Dovednostní body se doplňují rychlostí *1 bod za přenocování* (předpokládá se řádné přenocování jako u doplňování života popsáno níže.
 
@@ -162,8 +162,12 @@ Dovednosti jsou již rozebrány na [začátku této kapitoly](/Zakladni_pravidla
 Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a umírá. Jakékoliv vyléčené množství životů ji přivede zpět k sobě (smrtelné zranění však zůstává). Jakékoliv další obdržené zranění, ji v tomhle stavu ihned zabije.
 
 - **Bezvědomí:** Postava je bezvládná nemůže nic dělat.
-- **Smrt:** Na konci každého tahu své strany podstoupí postava *hod štěstí*. Pokud padne *1* postava umírá.
+- **Smrt:** Postava je na pokraji smrti po dobu *1k6+VYT* kol (minimálně 1, odečítá se na konci tahu vlastní skupiny). Pokud tato hodnota dojde na 0, postava ihned umírá.
 - **Smrtelné zranění:** Postava má *-2 do všech ověřovacích a záchranných hodů* a pokud znovu ztratí všechny své životy, tak zemře. Tento stav se ukončí, když je postava vyléčena do plného zdraví a nerušeně si odpočine do dalšího dne.
+
+!!! note "Více napětí"
+
+​    Aby bylo umírání více napínavé. Doporučuje se házet na to, jak dlouho postava vydrží na pokraji smrti až ve chvíli, kdy je vyléčena nebo aspoň zkontrolována jedním ze spojenců. Takto je potencionální smrt méně předvídatelná.
 
 ### Obranné číslo (OČ)
 
