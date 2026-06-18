@@ -1,9 +1,5 @@
 # Hraničář
 
-<img src="/assets/Aldir/classess/Ranger.webp"/>
-
-<img src="/assets/sep_line.png"/>
-
 *Mistr lovu a pohybu v divočině. Doprovázen oddaným zvířecím společníkem.*
 
 <img src="/assets/sep_line.png"/>

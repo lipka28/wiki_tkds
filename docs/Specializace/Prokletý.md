@@ -1,9 +1,5 @@
 # Prokletý
 
-<img src="/assets/Aldir/classess/Cursed.webp"/>
-
-<img src="/assets/sep_line.png"/>
-
 *Prokletý čaroděj potrestán za hrátky se silami, kterým nerozuměl.*
 
 <img src="/assets/sep_line.png"/>

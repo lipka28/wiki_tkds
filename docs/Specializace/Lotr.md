@@ -1,9 +1,5 @@
 # Lotr
 
-<img src="/assets/Aldir/classess/Rogue.webp"/>
-
-<img src="/assets/sep_line.png"/>
-
 *Mrštný potížista s oblibou v porušování pravidel. Žádná zákeřnost mu není cizí.*
 
 <img src="/assets/sep_line.png"/>

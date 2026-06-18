@@ -1,7 +1,5 @@
 # Tvorba postavy
 
-<img src="/assets/char_creation.webp"/>
-
 Pro tvorbu postavy budeš v první řadě potřebovat tužku a libovolný kus papíru, na který zaznamenáš vlastnosti své postavy. Alternativně můžeš použít digitální *deník postavy*, který najdeš [zde](https://docs.google.com/spreadsheets/d/1dWkjRkZ4v823rt_PWX0bQu6T31rGZKwwI4chJiuFY7w/edit?usp=sharing). Jak budeš připraven, následuj tyto kroky.
 
 ## 1. Rasa, původ a specializace
@@ -22,6 +20,7 @@ Poznač si schopnosti a jiné statistiky obsažené ve výběrech co si udělal 
 -   **Úroveň:** Pokud se vaše skupina nedomluvila jinak. Tvá úroveň je 1 a máš 0 zkušenostních bodů.
 -   **Životy:** Tvé počáteční životy jsou dány maximální hodnotou na *kostce života danou tvou specializací* a modifikované tvou *VYT*.
 -   **Talenty:** Na první úrovni máš také možnost si vybrat *1 talent* (pokud jsi člověk tak 2). Pokaždé když dostaneš možnost si vybrat talent, tak můžeš vybírat buďto z talentů své specializace a nebo [obecných talentů](/Talenty).
+-   **Jazyky:** Poznač si jazyky, které si získal výběrem rasy, specializace či talentů. Pokud máš přístup k extra jazykům. Poznač si jejich počet. Když se při hře setkáš s novým jazykem, můžeš se jej automaticky naučit (do počtu volných jazyků).
 
 ## 3. Výbava
 
@@ -122,4 +121,3 @@ Nakonec doplň detaily jako je *jméno* postavy a formuluj její *popis*. Pokud 
 | 4    | Podvodný  | 9    | Marnivý      |
 | 5    | Chamtivý  | 10   | Pomstychtivý |
 
-<img src="/assets/sep_line.png"/>

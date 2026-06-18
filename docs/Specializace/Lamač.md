@@ -1,9 +1,5 @@
 # Lamač kouzel
 
-<img src="/assets/Aldir/classess/Spellbreaker.webp"/>
-
-<img src="/assets/sep_line.png"/>
-
 *Magií vyšlechtění bojovníci trénovaní za účelem lovení mágů.*
 
 <img src="/assets/sep_line.png"/>

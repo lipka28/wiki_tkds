@@ -1,7 +1,5 @@
 # Vybavení
 
-<img src="/assets/equipment.webp"/>
-
 ## Nosnost
 
 Nosnost postavy udává, kolik výbavy a jiných předmětů může mít postava v jednu chvíli u sebe. Výbava postavy se umisťuje do tak zvaných *Slotů* v *inventáři*.
@@ -340,5 +338,3 @@ Tvrdohlavý kříženec koně a osla. Určený především k tahání těžkýc
 **Úroveň:** 2; **Životy:** 2k8(10); **OČ:** 12; **ZH:** +0; **MO:** -2 **Pohyb:** Zem: 8 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousanec +1 (1k4 poškození);
 
 - **Nosnost se sedlovými brašnami:** 6 slotů
-
-<img src="/assets/sep_line.png"/>

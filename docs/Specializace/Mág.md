@@ -1,9 +1,5 @@
 # Mág
 
-<img src="/assets/Aldir/classess/wizard.webp"/>
-
-<img src="/assets/sep_line.png"/>
-
 *Mocný čaroděj s velkou škálou užitečných kouzel a obecnou oblibou ve sbírání dalších.*
 
 <img src="/assets/sep_line.png"/>

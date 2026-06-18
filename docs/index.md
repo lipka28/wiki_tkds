@@ -20,4 +20,3 @@ Základní principy na kterých tato hra staví.
 
 **Společné cíle:** Hráči by si navzájem měli důvěřovat, v následování společných cílů a společném pokoření překážek. Družina hráčských postavy by tedy měla mít vždy nějaký jasný společný cíl.
 
-<img src="/assets/sep_line.png"/>

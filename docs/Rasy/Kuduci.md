@@ -1,6 +1,6 @@
 # Kuduk
 
-*Popisek* ==TODO: Doplnit popisek==
+*Šedivé malé humanoidní stvoření, vzdáleně připomínající svým vzhledem holé bezocasé krysy se zamáčklým buldočím nosem a ušima připomínající netopýra. Vzhledem k nedostatku ochlupení jejich nejvýznamnějším rozlišovacím prvkem (především pro lidi) je tvar a velikost jejich uší a symetrické pigmentové vzory pokrývající celá jejich těla. Kuduci jsou často vysoce inteligentní a zruční. Žijí po boku lidí především v Eulérii. Nesmírně si libují v drobných titěrných pracích, vynalézání a magii*
 
 <img src="/assets/sep_line.png"/>
 

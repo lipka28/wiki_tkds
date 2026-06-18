@@ -1,9 +1,5 @@
 # Požehnaný
 
-<img src="/assets/Aldir/classess/Blessed.webp"/>
-
-<img src="/assets/sep_line.png"/>
-
 *Bojovník vycvičený a požehnaný ve jménu Šesti strážců. Vládnoucí jednoduchou magií užitečnou pro potírání zla a ochranu spojenců.*
 
 <img src="/assets/sep_line.png"/>

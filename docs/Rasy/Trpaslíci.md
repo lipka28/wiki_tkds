@@ -1,6 +1,6 @@
 # Trpaslík
 
-*Popisek* ==TODO: Doplnit popisek==
+*Tvrdošijný národ žijící ve skalních městech Kaspenských skal ale také volně mezi lidmi Ismerie, Aldiru či Eulérie. I když jsou o 2 hlavy nižší než průměrný člověk, svou menší výšku vynahrazují svou mohutností. Nejvíce si váží dobře odvedené práce a jsou dobrými, i když občas vznětlivými, partnery co vždy dodrží své slovo. V tom jim především napomáhá jejich výjimečná paměť, která si nepamatuje jen sliby ale i křivdy. Trpaslík umí být dobrým přítelem ale i neoblomným nepřítelem.*
 
 <img src="/assets/sep_line.png"/>
 

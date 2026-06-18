@@ -1,9 +1,5 @@
 # Zaříkávač
 
-<img src="/assets/Aldir/classess/mystic.webp"/>
-
-<img src="/assets/sep_line.png"/>
-
 *Spirituální čaroděj napojen na síly přírody. Zaměřující se především na podporu spojenců.*
 
 <img src="/assets/sep_line.png"/>

@@ -103,5 +103,3 @@ Při hře se lze setkat i s dalšími magickými předměty. Obecně platí, že
 -   **Omezení:** Stvoření může mít naráz vybaven jen 1 magický předmět daného typu (jedny boty, jedna přilba, jeden plášť atd...). Výjimkou jsou magické prsteny. Ty lze mít vybavené 2 (1 na každé ruce).
 -   **Aktivace:** Jak je magický předmět aktivován nemusí být na první pohled jasné. Hráč si na způsob aktivace může přijít [identifikací](/Magie/#Identifikace-magickych-predmetu). Aktivace předmětu je většinou považována za *akci*.
 -   **Prokleté předměty:** Některé předměty mohou být prokleté. Nasazený prokletý předmět nelze sundat, dokud není prokletí zlomeno.
-
-<img src="/assets/sep_line.png"/>

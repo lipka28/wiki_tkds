@@ -1,9 +1,5 @@
 # Bojovník
 
-<img src="/assets/Aldir/classess/warrior.webp"/>
-
-<img src="/assets/sep_line.png"/>
-
 *Všestranný mistr zbraní a bojových technik, který dokonale ovládá chaos bojiště.*
 
 <img src="/assets/sep_line.png"/>

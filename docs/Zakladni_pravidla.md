@@ -209,4 +209,3 @@ Seznam kouzel, které postava může používat. Čarování je komplikovanějš
 
 Zbraně, brnění a jiná výbava, kterou může postava aplikovat na řešení problému. Výběr výbavy a pravidla pro nosnost naleznete [zde](/Vybaveni).
 
-<img src="/assets/sep_line.png"/>

@@ -1,6 +1,6 @@
 # Velkomocný
 
-*Popisek* ==TODO: Doplnit popisek==
+*Lidé rodící se s úlomkem magie ve svém srdci. Nebo ta se to alespoň traduje. V naprosté většině vlastností jsou nerozeznatelní od lidí. Bývají však schopnější, krásnější a netrpí na lidské nemoci. Jejich život je také daleko delší oproti běžným lidem. Historicky bývali loveni Lamači kouzel pro své potencionální nebezpečí. Tím však jak Velkomocných v populaci ubylo a řád Lamačů se reformoval, těmto dobám již odzvonilo. Jejich hlavním poznávacím prvkem, mimo magických schopností, jsou pestrobarevné až mimozemsky působící oči.*
 
 <img src="/assets/sep_line.png"/>
 
@@ -17,7 +17,7 @@
 **Speciální vlastnosti:** 
 
 - *Vzácní* - Jejich četnost na Aldiru je nízká nebo se vyhýbají civilizaci, a tudíž potkat jednoho je poměrně vzácné. V hráčské skupině může být za celou kampaň pouze jedna postava této rasy.
-- *Magické stvoření* - Pro účely vyhodnocování některých schopností a kouzel si považován za magické stvoření. Pokud máš přístup k Magice máš +1 ME. Pokud máš přístup k Zázračné magii máš +1 sesílání 1. třídy. Navíc si imunní vůči nemocem.
+- *Magické stvoření* - Pro účely vyhodnocování některých schopností a kouzel si považován za magické stvoření.
 - *Vrozená schopnost* - Máš vrozenou unikátní magickou schopnost jakou si sám (ve spolupráci s PK) určíš. Může se jednat o pasivní efekt či aktivovanou schopnost. Pokud tě nic nenapadá můžeš si vybrat jeden z příkladů níže.
 - *Nedokonalost* - Tvá vrozená schopnost má nějakou cenu či negativní vedlejší efekt svého používání. Při vytváření své vrozené schopnosti definuj i tuto nedokonalost. Rozsah této nedokonalosti by měl odpovídat rozsahu tvé vrozené schopnosti. Tato nedokonalost zmizí dosažením 5. úrovně.
 
@@ -45,8 +45,8 @@
 
 ### Ochranná bariéra
 
-**Efekt:** Každý den disponuješ *6 + 2xL* štítové energie, která se doplňuje řádným odpočinkem do dalšího dne. Pokud máš štítovou energii, tak můžeš pokrýt zónu až velikosti *L* začínající do vzdálenosti *20 metrů* ochrannou bariérou. Tato bariéra má životy odpovídající tvé zbývající štítové energii a blokuje všechno průchozí poškození nebo stvoření snažící se projít. Sesilatel může barieru kdykoliv odvolat a také může při sesílání určit co ní může a nemůže projít. V jednu chvíli může být aktivní jen jedna bariéra.
+**Efekt:** Každý den disponuješ *6 + 2xL* štítové energie, která se doplňuje řádným odpočinkem do dalšího dne. Pokud máš štítovou energii, tak můžeš pokrýt zónu až velikosti *L* začínající do vzdálenosti *20 metrů* ochrannou bariérou. Tato bariéra má životy odpovídající tvé zbývající štítové energii a blokuje všechno průchozí poškození nebo stvoření snažící se projít. Sesilatel může barieru kdykoliv odvolat a také může při sesílání určit co ní může a nemůže projít.
 
-**Nedokonalost:** Aby se bariéra udržela musí se na ni sesilatel plně a hluboce koncentrovat. Nemůže se pohybovat a nemůže provádět jiné akce než udržování koncentrace.
+**Nedokonalost:** Vyžaduje koncentraci.
 
 <img src="/assets/sep_line.png"/>

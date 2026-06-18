@@ -188,6 +188,3 @@ Tvůj dosavadní život byl stráven mimo zákon, jako zloděj, pašerák, vrah 
 
 **Extra:** Zlodějské náčiní (6 použití, 1 slot)
 
-
-
-<img src="/assets/sep_line.png"/>

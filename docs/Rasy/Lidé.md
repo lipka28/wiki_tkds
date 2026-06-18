@@ -1,6 +1,6 @@
 # Člověk
 
-*Popisek* ==TODO: Doplnit popisek==
+*Rozmanitá a díky své přizpůsobivosti nejrozšířenější rasa na celém světě. Lidi určitě není třeba představovat.* 
 
 <img src="/assets/sep_line.png"/>
 
@@ -14,6 +14,6 @@
 
 **Speciální vlastnosti:** 
 
-- *Talentovaný* - Na první úrovni si vyber jeden extra talent.
+- *Přizpůsobivý* - Tvá přizpůsobivá nátura ti dává schopnost jedenkrát denně vyrušit efekt nevýhody na jeden z tvých ověřovacích či záchranných hodů.
 
 <img src="/assets/sep_line.png"/>
