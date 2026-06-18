@@ -1,7 +1,5 @@
 # Pravidla hry
 
-<img src="/assets/prav_hry.webp"/>
-
 ## Nástroje potřebné ke hře
 
 Ke hře jsou zapotřebí minimálně následující nástroje.
