@@ -175,7 +175,7 @@ Postava si může zaplatit léčitelské služby pro zotavení se z následků d
 
 #### Flámování
 
-Postava může strávit volný čas flámováním a tím proměnit část svých našetřených peněz v extra zkušenostní body. Postava může do flámování investovat až *Úroveň\*200 šilinků* a tím z něj získat ekvivalentní počet zkušenostních bodů. Pokud se flámování účastí více postav, tak se tento limit vztahuje na každou postavu jednotlivě. Získané zkušenosti se rovnoměrně rozdělí mezí všechny postavy účastnící se společného flámování. Skupina účastnící se flámování si také musí hodit nad tabulkou níže a řídit se výsledkem.
+Postava může strávit volný čas flámováním a tím proměnit část svých našetřených peněz v extra zkušenostní body. Postava může do flámování investovat až *Úroveň\*200 šilinků* a tím z něj získat ekvivalentní počet zkušenostních bodů. Pokud se flámování účastní více postav, tak se tento limit vztahuje na každou postavu jednotlivě. Získané zkušenosti se rovnoměrně rozdělí mezí všechny postavy účastnící se společného flámování. Skupina účastnící se flámování si také musí hodit nad tabulkou níže a řídit se výsledkem. 
 
 | 2k6   | Výsledek flámování                                           |
 | ----- | ------------------------------------------------------------ |
