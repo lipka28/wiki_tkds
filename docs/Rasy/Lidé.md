@@ -14,6 +14,6 @@
 
 **Speciální vlastnosti:** 
 
-- *Přizpůsobivý* - Tvá přizpůsobivá nátura ti dává schopnost jedenkrát denně vyrušit efekt nevýhody na jeden z tvých ověřovacích či záchranných hodů.
+- *Přizpůsobivý* - Tvá přizpůsobivá nátura ti dává schopnost jedenkrát denně si přidat *+2* k ověřovacímu či záchrannému hodu a to i po té co si již hodil.
 
 <img src="/assets/sep_line.png"/>
