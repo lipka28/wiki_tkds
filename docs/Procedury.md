@@ -136,8 +136,8 @@ Při cestování či průzkumu divočiny se čas měří na *hlídky*. Každý d
 
 Hráčské postavy mohou, mimo jiné, provádět následující *hlídkové akce*.
 
-- **Cestování:** Posun k bodu zájmu na mapě o *1 hlídku*. Všechny zřejmé prvky dané oblasti jsou hráčům průchodem odhaleny. Tato akce musí být prováděna celou skupinou.
-- **Průzkum:** Jeden nebo více členů skupiny se může zúčastnit průzkumu velké oblasti. Umožňující zaručeně odhalit skryté prvky, které nemusí být odhaleny pouhým průchodem. Pokud oblast obsahuje více takových to prvků, je třeba ji prozkoumat vícekrát nebo se průzkumu musí zúčastnit více průzkumníků (1 prvek za každého průzkumníka).
+- **Cestování:** Posun na mapě o *1 hlídku* (jeden 10-ti kilometrový hex). Všechny zřejmé prvky dané oblasti jsou hráčům průchodem odhaleny. Tato akce musí být prováděna celou skupinou.
+- **Průzkum:** Jeden nebo více členů skupiny se může zúčastnit průzkumu velké oblasti. Umožňující odhalit skryté prvky, které nemusí být odhaleny pouhým průchodem. Pokud oblast obsahuje více takových to prvků, je třeba ji prozkoumat vícekrát nebo se průzkumu musí zúčastnit více průzkumníků (1 prvek za každého průzkumníka). Prozkoumání oblasti trvá celkem *2 hlídkové akce*.
 - **Zásobování:** Jeden nebo více členů skupiny se může zúčastnit lovení, rybaření nebo jiného způsobu sběru jídla. A získat tak *1k4* čerstvých zásob (kazí se). Každý účastník lovu zvedá nalezené množství o *1k4*.
 - **Založit tábor:** Skupina se zastaví a založí si tábor (většinou 3. *hlídková akce* každého dne. Každý ve skupině (včetně zvířat a jiných družníků) spotřebuje *1 zásobu*. Pokud možné, určí se pořadí nočních hlídek a postavy se vyspí do dalšího dne. Nerušený spánek umožní *přirozenou regeneraci* a případnou léčbu jednoho dovednostního bodu. Pokud je tato akce vynechána všichni členové výpravy jsou *vyčerpaní*.
 - **Jiné:** Cokoliv zabere relevantní množství času z daného dne. Například nákup ve vesnici či získávání informací.
