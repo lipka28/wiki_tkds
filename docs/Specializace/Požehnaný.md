@@ -10,6 +10,8 @@
 
 **Trénované Zbroje:** Všechny včetně štítů
 
+**Podstata:** *Čistá* a musí tak zůstat. Pokud se podstata Požehnaného během hry změní na jinou. Požehnaný ztrácí přístup ke všem požehnáním a aurorám.
+
 ## Tabulka postupu
 
 | úroveň |  životy   | Zásah |  Z   |  MO  |                   Ostatní                    |

@@ -26,6 +26,8 @@
 
 - **Speciální schopnosti:** Rozpohybované stvoření nemá žádné schopnosti, které mělo za svého života.
 
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
+
 **Nemrtvý sluha**
 
 **Úroveň:** 1; **Životy:** 5; **OČ:** 12; **Z:** +0; **MO:** -2; **Pohyb:** zem 4 metry; **Morálka:** Neoblomná; **Útoky:** +0 poškození 1k6 nebo dle zbraně; **Speciální:** Nemrtvý (Imunní vůči biologickým efektům, jako jsou jedy či nemoci, a také proti kouzlům ovlivňující mysl, jako jsou Uspi, Paralyzuj či Okouzli.)
@@ -56,6 +58,8 @@
 **Efekt:** Na krátkou dobu rozpohybuj ostatky *2k6* zesnulých osob v dosahu, Tito rozpohybovaní mrtví jsou pod tvou kontrolou a následují tvé rozkazy.
 
 - **Speciální schopnosti:** Rozpohybované stvoření nemá žádné schopnosti, které mělo za svého života.
+
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
 
 **Rozpohybovaní mrtví**
 
@@ -114,6 +118,8 @@
 
 **Efekt:** Z ruky prokletého začne vzejde pulz negativní energie, která vyléčí nemrtvého za *2k6* života.
 
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
+
 <img src="/assets/sep_line.png"/>
 
 ## Kouzla 3. třídy
@@ -127,6 +133,8 @@
 **Dosah:** 20 metrů
 
 **Efekt:** Okolí *5 metrů* kolem mrtvého těla nebo tebou ovládaného nemrtvého exploduje negativní energií. Zasažené subjekty obdrží *Lk6* poškození. Mohou však uspět v záchranném hodu a tím poškození snížit na polovinu. Tělo nebo nemrtvý použiti pro vyvolání tohoto kouzla, jsou zničeni.
+
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -154,6 +162,8 @@
 - **Statistiky:** Stvoření používá ve směs stejné statistiky jako mělo za života, jeho *OČ* je však pouze *12* a jeho *záchranné hody jsou sníženy o -2*. Jakékoliv speciální schopnosti, které stvoření mohlo používat za svého života v této podobě používat nemůže (i když PK může udělat výjimku).
 - **Specializace:** Je-li kouzlo použito na hráčskou postavu nebo jiného humanoida se specializací, je oživený nemrtvý považován za běžného nemrtvého 2. úrovně.
 - **Konec kouzla:** Po skončení kouzla nebo smrti nemrtvého se tělo dotyčného rozpadne v prach. 
+
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -183,6 +193,8 @@
 
 - **Nemyslící nemrtví:** Kouzlo je trvalé a očarovaní oddaně následují i sebevražedné rozkazy. Pokud byli cílení nemrtví očarováni nebo vytvořeni nějakým jiným kouzelníkem, dotyčný kouzelník se může pokusit uspět v záchranném hodu, aby kouzlu bylo odoláno.
 - **Inteligentní nemrtví:** Nemrtvý se může pokusit uspět v záchranném hodu, aby kouzlu odolal. Když selže, musí oddaně následovat rozkazy svého nového pána. Zřejmě sebevražedné rozkazy může ignorovat. Očarovaný nemrtvý má nárok na opakování záchranného hodu každý měsíc, aby se z kouzla vyvázal. Pokud se jedná o nemrtvého *4 nebo vyšší úrovně*, pak může hod opakovat každý týden. Nemrtvý *7 nebo vyšší úrovně* pak každý den.
+
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -231,6 +243,8 @@
 
 **Efekt:** Dotyk prokletého vysaje život z živého stvoření z masa a krve. Dotyk způsobí *4k6* poškození. Cíl se může pokusit uspět v záchranném hodu, aby bylo udělené poškození poloviční. Sesilatel si následně doplní zdraví ve výši uděleného poškození. Léčení, které by přesáhlo maximální zdraví je ztraceno.
 
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
+
 <img src="/assets/sep_line.png"/>
 
 ## Kouzla 5. třídy
@@ -249,6 +263,8 @@
 - **Specializace:** Je-li kouzlo použito na hráčskou postavu nebo jiného humanoida se specializací, je oživený nemrtvý považován za běžného nemrtvého 2. úrovně.
 - **Usmrcení:** Po smrti nemrtvého se tělo dotyčného rozpadne v prach. 
 
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
+
 <img src="/assets/sep_line.png"/>
 
 <img src="/assets/sep_line.png"/>
@@ -260,6 +276,8 @@
 **Dosah:** 20 metrů
 
 **Efekt:** Živé stvoření z masa a krve v dosahu je zasaženo paprskem negativní energie. Zasažený musí uspět v záchranném hodu jinak zemře.
+
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
 
 <img src="/assets/sep_line.png"/>
 
@@ -273,6 +291,8 @@
 
 - **Omezení:** K oživení mrtvého jsou třeba jeho ostatky a jeho smrt se nesměla stát před více jak 10-ti dny.
 - **Slabost oživeného:** Oživené stvoření je navráceno k životu s *1 životem* a *vyčerpáním*. Na rozdíl od běžného fungování *vyčerpání*. V tomhle případě se vyruší až týdenním odpočinkem.
+
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele a oživeného změní na *Poskvrněnou*.
 
 <img src="/assets/sep_line.png"/>
 

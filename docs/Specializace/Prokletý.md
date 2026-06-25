@@ -10,6 +10,8 @@
 
 **Trénované Zbroje:** Žádné
 
+**Podstata:** *Poskvrněná* a nelze v průběhu hry změnit.
+
 ## Tabulka postupu
 
 | úroveň |  životy   | Zásah |  Z   |  MO  |                   Ostatní                   |
@@ -33,7 +35,7 @@ Jsi imunní vůči nemocem a tvé počáteční zdraví je o *4* vyšší (již 
 
 ### Prokletá magie
 
-Prokletá magie je zvláštní kombinací magiky a zázračné magie. Obecná pravidla pro užívání magie lze nalézt [zde](/Magie).
+Prokletá magie je zvláštní variantou magiky. Obecná pravidla pro užívání magie lze nalézt [zde](/Magie).
 
 **Kouzla:** Prokletý může sesílat všechna kouzla ze svého seznamu kouzel pro třídy, které ovládá. Bez další nutnosti si připravovat nebo učit se nová kouzla. Na 1. úrovni může prokletý používat všechny kouzla 1. třídy ze svého [seznamu kouzel](/Seznamy kouzel/Prokletý). Další třídy se zpřístupní postupem na vyšší úroveň dle tabulky postupu výše.
 

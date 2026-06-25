@@ -10,6 +10,8 @@
 
 **Trénované Zbroje:** Žádné
 
+**Podstata:** *Nedotčená* a musí tak zůstat. Pokud se podstata Zaříkávače během hry změní na jinou. Zaříkávač ztrácí přístup k duchům divočiny a může sesílat kouzla maximálně 1. třídy.
+
 ## Tabulka postupu
 
 | úroveň |  životy   | Zásah |  Z   |  MO  |                           Ostatní                            |

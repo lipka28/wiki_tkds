@@ -723,7 +723,7 @@
 
 **Efekt:** Okamžitě rozmetá na prach cílené stvoření nebo objekt.
 
-**Cílem je stvoření:** Cílené stvoření má nárok na záchranný hod, aby kouzlu odolalo.
+**Cílem je stvoření:** Cílené stvoření má nárok na záchranný hod, aby kouzlu odolalo. Pokud je cílem stvoření jiné než *Poskvrněné* podstaty. Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
 
 **Cílem je objekt:** Jaké objekty či jejich části mohou být zasaženy kouzlem je čistě v režii PK (např.: kámen, strom, příď lodi atd.). 
 
@@ -736,6 +736,8 @@
 **Dosah:** 10 metrů
 
 **Efekt:** Magicky rozpohybuje pod mágovou kontrolou *L* těl (či kostěných ostatků) mrtvých osob. Nezávisle na tom, jakými schopnostmi a statistikami disponovali tyto osoby za svého života. Všechny používají následující statistiky.
+
+**Změna podstaty:** Použitím tohohle kouzla se podstata sesilatele změní na *Poskvrněnou*.
 
 **Živý mrtvý**
 

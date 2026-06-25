@@ -343,6 +343,8 @@
 
 **Dosah:** Dotyk
 
+**Speciální:** Může být vyčarování pouze stvořením *Nedotčené* nebo *Čisté* podstaty.
+
 **Efekt:** Grandiózní hodinu trvající rituál, který navrátí mrtvého k životu. Rituál musí být proveden na místě magického významu (např. katedrála nějakého boha či druidský kruh kamení v lesích) a vyžaduje magické regenty v celkové hodnotě *2000 šilinků*. 
 
 - **Omezení:** K oživení mrtvého jsou třeba jeho ostatky a jeho smrt se nesměla stát před více jak 10-ti dny.
