@@ -513,7 +513,7 @@
 
 **Efekt:** Mág si nad rukou vytvoří neviditelné oko, kterým může následně prozkoumávat okolí. Mágovo oko vidí ve tmě na *10 metrů* a umí létat rychlostí až *20 metrů* za kolo. Nesmí se však vycestovat mimo dosah kouzla. I když neviditelné oko má stále fyzickou formu o velikosti lidského oka.
 
-**Hluboká koncentrace:** Používání oka může být dezorientující. Mág se při koncentraci na tohle kouzlo nemůže pohybovat.
+**Hluboká koncentrace:** Používání oka může být dezorientující. Mág při koncentraci na tohle kouzlo nemůže dělat nic jiného.
 
 <img src="/assets/sep_line.png"/>
 
