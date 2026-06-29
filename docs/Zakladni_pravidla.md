@@ -175,8 +175,7 @@ Postava zredukovaná na 0 životů je v *bezvědomí*, *smrtelně raněná* a um
 - **Smrtelné zranění:** Postava má *-2 do všech ověřovacích a záchranných hodů* a pokud znovu ztratí všechny své životy, tak zemře. Tento stav se ukončí, když je postava vyléčena do plného zdraví a nerušeně si odpočine do dalšího dne.
 
 !!! note "Více napětí"
-
-​    Aby bylo umírání více napínavé. Doporučuje se házet na to, jak dlouho postava vydrží na pokraji smrti až ve chvíli, kdy je vyléčena nebo aspoň zkontrolována jedním ze spojenců. Takto je potencionální smrt méně předvídatelná.
+	Aby bylo umírání více napínavé. Doporučuje se házet na to, jak dlouho postava vydrží na pokraji smrti až ve chvíli, kdy je vyléčena nebo aspoň zkontrolována jedním ze spojenců. Takto je potencionální smrt méně předvídatelná.
 
 ### Obranné číslo (OČ)
 
