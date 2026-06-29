@@ -35,7 +35,3 @@ asd ==todo== (církev šesti strážců)
 
 <img src="/assets/sep_line.png"/>
 
-## Významné frakce
-
-asd ==todo==, Církev, Lamači, Arkanisté Luminastry, Cech ochránců (ala Bracers guild), Nějaká forma reformátroské frakce toužící po návratu k monarchii (neefektivita republiky)?
-
