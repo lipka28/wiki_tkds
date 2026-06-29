@@ -6,7 +6,7 @@
 
 Pokud není ze situace jasné jaká strana (pokud nějaká) je překvapena. PK může rozhodnout hodem štěstí. Výsledek 1 znamená, že jsou překvapení hráči a výsledek 6, že nepřítel.
 
-- **Překvapená strana:** netáhne v prvním kole konfliktu. Dále se pokračuje ve standardním pořadí.
+- **Překvapená strana:** netáhne v prvním kole konfliktu. Dále se pokračuje ve standardním pořadí. Pokud se jedná o hráče stále musí podstoupit hod na iniciativu (v tomhle případě tedy až ve druhém kole konfliktu).
 
 ### Reakce
 

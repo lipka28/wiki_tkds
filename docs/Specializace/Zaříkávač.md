@@ -59,7 +59,7 @@ Zaříkávač disponuje schopností ovládat Zázračnou magii. Podrobné vysvě
 Zaříkávač se umí napojit na duchy divočiny a převzít nebo darovat některé jejich aspekty formou požehnání. Zaříkávač disponuje 1+SRD požehnání, které může seslat na sebe nebo své spojence v okolí 10 metrů. Pokud není specifikováno jinak, požehnání má trvání L směn. Jedno stvoření může mít na sobě v jednu chvíli jen jedno požehnání. Zaříkávač začíná hru s těmito požehnáními:
 
 - **Medvěd:** Požehnané stvoření získá bonus +1 ke všem ověřením SIL (včetně útoků) a +1 poškození zbraněmi na blízko.
-- **Gepard:** Požehnané stvoření získá bonus +1 ke všem ověřením HBI (včetně útoků) a +1 k rychlosti pohybu na zemi.
+- **Gepard:** Požehnané stvoření získá bonus +1 ke všem ověřením HBI (včetně útoků) a +2 k rychlosti pohybu na zemi.
 - **Delfín:** Požehnané stvoření získá schopnost dýchat pod vodou a rychlost plavání 6 metrů.
 
 **Doplňování požehnání:** Požehnání se doplňují stejným meditačním rituálem jako tvé zázraky.
