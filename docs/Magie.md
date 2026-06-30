@@ -61,7 +61,7 @@ Celkově jsou 2 způsoby jak identifikovat efekty magických předmětů.
 
 Lektvary a svitky jsou z čistě mechanického hlediska jedna a ta samá věc. Jedná se o *jednorázový* předmět, který se po použití zničí a jehož výsledkem, je nějaký většinou magický nebo magii podobný efekt.
 
--   **Použití lektvaru:** Lektvary může aktivovat (vypít nebo hodit) *kdokoliv*, kdo má volnou ruku.
+-   **Použití lektvaru:** Lektvary může aktivovat (vypít nebo hodit) *kdokoliv*, kdo má volnou ruku. Trvání lektvaru je běžně *1k6+6* směn (neznámo uživateli)
 -   **Použití svitku:** Vyžaduje obě ruce. Specializace ovládající daný typ magie může použít svitek stejného typu magie. Ostatní mohou také, ale musí uspět v ověření *MYS* (pro svitky Magiky) nebo *SRD* (pro svitky Zázračné magie). Při neúspěchu se kouzlo stále sešle ale nějakým způsobem se pokazí (Záleží na PK).
 
 ### Magická žezla
