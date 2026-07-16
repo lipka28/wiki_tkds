@@ -60,11 +60,12 @@ Hráčské postavy disponují 5-ti základními dovednostmi, které slouží př
 
 **Ztráta a doplňování dovednostních bodů:** Některá monstra mají schopnost dočasně nebo i dlouhodobě snížit některé dovednostní body. Pokud však není nic co by doplnění dovednostních bodů bránilo. Dovednostní body se doplňují rychlostí *1 bod za přenocování* (předpokládá se řádné přenocování jako u doplňování života popsáno níže.
 
+**Minimální dovednostní body:** Hráčská postava může mít minimální hodnotu dovednosti *-4*. Pokud by dovednost postavy klesla pod tuto hodnotu. Postava se stává nehratelnou. Jestli umře, propadne beznaději, je paralyzována nebo něco úplně jiného je na rozhodnutí PK. 
+
 ### Ověřovací hody
 
 Pokud se postava pokouší o *riskantní akci s potencionálními negativními následky*, často musí podstoupit ověřovací hod. Ten probíhá jako hod *1k20* + Hodnota ověřované dovednosti. Výsledek se pak musí být větší nebo rovno *12*.
 
-- **Tajný hod:** Někdy může být třeba, aby hráč nevěděl zda něco provedlo úspěšně nebo ne, dokud neuběhne určitý čas. V takový případech lze použít tajný hod, který háže PK s hráčovými modifikátory a výsledek mu prozradí až nastane správný čas.
 - **Obtížnost hodu:** PK může ovlivnit obtížnost hodu uvalením výhody či nevýhody na jeho provedení.
 
 **Přirozených 1 a přirozených 20**
