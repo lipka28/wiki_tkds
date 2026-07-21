@@ -46,7 +46,7 @@
 
 **Efekt:** Vytvoří magickou kouli bílého světla, která levituje nad hlavou mága. Tahle koule poskytuje světlo stejné síly jako pochodeň.
 
-**Záblesk:** Mág může při sesílání kouzla nebo kdykoliv během jeho trvání jako akci, kouzlo předčasně ukončit a tím vyvolat oslepující záblesk. Každý (mimo sesilatele) v dosahu světla musí uspět v záchranném hodu jinak je oslněn na *1k4 kol*. Oslnění uděluje postih *-2* k hodům na zásah.
+**Záblesk:** Mág může při sesílání kouzla nebo kdykoliv během jeho trvání jako akci, kouzlo předčasně ukončit a tím vyvolat oslepující záblesk. Každý (mimo sesilatele) v dosahu světla musí uspět v záchranném hodu jinak je oslněn na *1k4 kol*. Oslnění uděluje postih *-1* k hodům na zásah.
 
 <img src="/assets/sep_line.png"/>
 
@@ -252,7 +252,7 @@
 
 **Dosah:** 10 metrů
 
-**Efekt:** Na mágem určené zbrani se dočasně objeví magická runa která způsobí, že zbraň se stane magickou s bonusem +1 k útoku a poškození. Kouzlo nefunguje na již magické zbraně.
+**Efekt:** Na mágem určené zbrani se dočasně objeví magická runa která způsobí, že zbraň se stane magickou s bonusem *+1* k útoku a poškození. Kouzlo nefunguje na již magické zbraně.
 
 <img src="/assets/sep_line.png"/>
 
@@ -268,7 +268,7 @@
 
 **Větší stvoření:** Velká stvoření mají na ověřovací hod na vysvobození *výhodu*. Taktéž pokud neuspějí, mohou se o osvobození pokusit další kolo. Stejné platí i pro stvoření a hráčské postavy, která by na dané ověření měla výhodu například z kouzla či talentu.
 
-**Hořlavá:** Pokud zapálena, pavučina shoří během *2 kol*. Všechna tímto osvobozená stvoření obdrží *1k8* poškození.
+**Hořlavá:** Pokud zapálena, pavučina shoří během *2 kol*. Všechna stvoření v pavučině obdrží *1k8* poškození.
 
 <img src="/assets/sep_line.png"/>
 
@@ -394,7 +394,7 @@
 
 **Efekt:** Mág sešle elektrický výboj, který cestuje po rovné linii až do vzdálenosti *10 metrů*. Zasáhne všechno v cestě za *Lk6* poškození. Zasažené subjekty mohou uspět v záchranném hodu a tím poškození snížit na polovinu.
 
-**Odražení:** Pokud blesk cestou narazí na pevný povrch, tak se odrazí. Snažíce se dodržet pravidlo "úhel dopadu se rovná úhlu odrazu". Pokud však ze situace není jasné kam se blesk odrazí nebo se hráč s PK neshodnou na trase blesku. Blesk se při první odražení odrazí zpátky k sesilateli. Každé stvoření v cestě však může být zasaženou pouze jednou.
+**Odražení:** Pokud blesk cestou narazí na pevný povrch, tak se odrazí. Snažíce se dodržet pravidlo "úhel dopadu se rovná úhlu odrazu". Pokud však ze situace není jasné kam se blesk odrazí nebo se hráč s PK neshodnou na trase blesku. Blesk se, při první odražení, odrazí zpátky k sesilateli. Každé stvoření v cestě však může být zasaženou pouze jednou.
 
 <img src="/assets/sep_line.png"/>
 

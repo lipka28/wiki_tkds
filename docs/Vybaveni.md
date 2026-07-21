@@ -68,7 +68,7 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 
 | Zbraň            |       Poškození       | Sloty |        Cena         |   Vlastnosti   |
 | :--------------- | :-------------------: | :---: | :-----------------: | :------------: |
-| Neozbrojený útok |           1           |   -   |          -          |      S/H       |
+| Neozbrojený útok |          1k2          |   -   |          -          |      S/H       |
 | Bič              |          1k4          |   1   |        12 ši        |  D, Hbi, Spec  |
 | Bojová hůl       |          1k8          |   2   |        20 ši        |    2R, S/H     |
 | Cep              |          1k6          |   1   |        18 ši        |      Spec      |
@@ -93,7 +93,7 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 
 ### Zbraně na dálku
 
-Zbraněmi na dálku lze útočit pouze na cíle vzdálené *2 metry a více*. Až do efektivního dostřelu zbraně. Útok zbraní na dálku většinou probíhá jako ověření *HBI* s relevantními modifikátory. Pokud je útočník při útoku zbraní na dálku ohrožen útokem na blízku nějakého nepřátele, útočí s *nevýhodou*.
+Zbraněmi na dálku lze útočit pouze na cíle vzdálené *2 metry a více*. Až do efektivního dostřelu zbraně. Útok zbraní na dálku většinou probíhá jako ověření *HBI* s relevantními modifikátory.
 
 -   **Efektivní dostřel:** Vzdálenost na kterou lze zbraní cíleně něco trefit. Lze se pokusit střílet až na dvojnásobnou vzdálenost avšak s *nevýhodou*.
 
@@ -206,7 +206,7 @@ Zbraněmi na dálku lze útočit pouze na cíle vzdálené *2 metry a více*. A�
 
 **Lezecké náčiní:** Umožňuje zdolat obtížné vertikální plochy. Zároveň kompletně neguje šanci na pád při šplhání.
 
-**Léčivá mast:** Aplikace masti vyléčí po přenocování *1k6 života*.
+**Léčivá mast:** Aplikace masti před spánkem. Vyléčí po přenocování *1k6 života*.
 
 **Lucerna:** Poskytuje světlo v oblasti *10 metrů* kolem nositele. Pro fungování vyžaduje olej. Lze připevnit na výbavu a tak nezabírá místo v ruce. Není tak náchylná na efekty prostředí ale je křehká.
 

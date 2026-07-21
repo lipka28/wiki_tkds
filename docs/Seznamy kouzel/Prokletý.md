@@ -92,7 +92,7 @@
 
 **Dosah:** 30 metrů
 
-**Efekt:** Jedno živé stvoření z masa a krve v dosahu je chyceno pod krkem přízračnými prsty. Cíl obdrží *1k4* poškození a postih -1 do OČ a všech záchranných a ověřovacích hodů (včetně útoku). Tento efekt se opakuje každé kolo, co se sesilatel rozhodne na kouzlo koncentrovat.
+**Efekt:** Jedno živé stvoření z masa a krve v dosahu je chyceno pod krkem přízračnými prsty. Cíl obdrží *1k4* poškození a postih *-1* do OČ a všech záchranných a ověřovacích hodů (včetně útoku). Tento efekt se opakuje každé kolo, co se sesilatel rozhodne na kouzlo koncentrovat.
 
 - **Záchranný hod:** Při prvotním zásahu kouzlem se může cíl pokusit uspět v záchranném hodu aby efektu kouzla odolal.
 
