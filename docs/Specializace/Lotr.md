@@ -29,7 +29,7 @@
 
 ### Přepadení
 
-Útočíš-li na překvapené nebo nic netušící stvoření tak útočíš s výhodou. Kdykoliv útočíš s výhodou přidáváš +*(Úroveň/2)k6* poškození ke svému útoku (zaokrouhluje se nahoru).
+Útočíš-li na nic netušící stvoření tak útočíš s výhodou. Kdykoliv útočíš s výhodou přidáváš +*(Úroveň/2)k6* poškození ke svému útoku (zaokrouhluje se nahoru).
 
 ### Zlodějství
 

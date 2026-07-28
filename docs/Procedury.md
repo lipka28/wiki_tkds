@@ -4,9 +4,7 @@
 
 ### Překvapení
 
-Pokud není ze situace jasné jaká strana (pokud nějaká) je překvapena. PK může rozhodnout hodem štěstí. Výsledek 1 znamená, že jsou překvapení hráči a výsledek 6, že nepřítel.
-
-- **Překvapená strana:** netáhne v prvním kole konfliktu. Dále se pokračuje ve standardním pořadí. Pokud se jedná o hráče stále musí podstoupit hod na iniciativu (v tomhle případě tedy až ve druhém kole konfliktu).
+Smyslem překvapení je především určit přibližnou vzdálenost náhodného setkání a kdo koho spatří jako první a kdo má jako první možnost na situaci reagovat. Pokud není ze situace jasné jaká strana (pokud nějaká) je překvapena. PK může rozhodnout hodem štěstí. Výsledek 1 znamená, že jsou překvapení hráči a výsledek 6, že nepřítel. Dojde-li na boj. Postupuje se dle procedury konfliktu níže avšak PK může uvalit výhody/nevýhody či úplně prominout hráčům hod na iniciativu. 
 
 ### Reakce
 
@@ -19,7 +17,7 @@ Pokud se hráčská postava poprvé setká s NPC a z dané situace není jasné,
 | 4 - 5 |   Zvídavá   |
 | 6     |  Přátelská  |
 
-### Kola konfliktu
+### Konflikt
 
 - **Kolo:** Představuje přibližně *10 vteřin* času, během kterého všechny strany konfliktu odehrají svůj tah. Pokud není stanoveno jinak, hráčské postavy odehrávají své tahy jako první.
 - **První kolo (hod na iniciativu):** Pokud ze situace nebo schopností postav nevyplývá jinak, všechny hráčské postavy musí v prvním kole boje podstoupit ověření *HBI*. Pokud neuspějí, první kolo vynechávají.

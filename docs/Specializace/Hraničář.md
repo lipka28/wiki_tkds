@@ -144,7 +144,7 @@ Pokud ovládáš schopnost *Boj se dvěma zbraněmi*, tak tvůj více násobný 
 
 **Opakování:** Nelze
 
-V boji nemůžeš být nikdy překvapen a máš výhodu na ověření *HBI* při hodech na iniciativu.
+Máš výhodu na ověření *HBI* při hodech na iniciativu.
 
 <img src="/assets/sep_line.png"/>
 
