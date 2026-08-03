@@ -305,36 +305,44 @@ Jako žoldák ale zkušenější v boji.
 
 Kůň vyšlechtěný pro rychlý přesun z místa na místo. Podobně jako ostatní koně odmítá vstoupit do kobek a jiných podzemních lokací.
 
-**Úroveň:** 2; **Životy:** 2k8(10); **OČ:** 12; **Z:** +0; **MO:** -2; **Pohyb:** Zem: 16 metrů; **Morálka:** Normální (1-2); **Útoky:** Kopyta +1 (1k6+1 poškození);
+**Úroveň:** 2; **Životy:** 2k8(10); **OČ:** 12; **Z:** +0; **MO:** -2; **Pohyb:** Zem: 16 metrů; **Morálka:** Normální (1-2); **Útoky:** Kopyta +1 (1k6+1 poškození); **Speciální:**
 
 - **Nosnost se sedlovými brašnami:** 4 sloty
+- **Jezdecké zvíře:** Lze osedlat a při cestování divočinou ignoruje postihy za obtížný terén.
+- **Do klusu:** Jezdecký kůň může být přiveden do klusu (*2 kroky* za *1 hlídku* až max 3 hlídky) ale vyžaduje hlídku odpočinku za každou takto procestovanou hlídku (potencionálně až celý den odpočinku). Již po prvním použití je kůň *vyčerpaný* dokud si neodpočine. 
 
 **Kůň - Tažný**
 
 Masivní kůň určený především k tahání těžkých nákladů. Podobně jako ostatní koně odmítá vstoupit do kobek a jiných podzemních lokací.
 
-**Úroveň:** 3; **Životy:** 3k8(15); **OČ:** 12; **Z:** +1; **MO:** -1; **Pohyb:** Zem: 6 metrů; **Morálka:** Slabá (1-3); **Útoky:** Nebojuje;
+**Úroveň:** 3; **Životy:** 3k8(15); **OČ:** 12; **Z:** +1; **MO:** -1; **Pohyb:** Zem: 6 metrů; **Morálka:** Slabá (1-3); **Útoky:** Nebojuje; **Speciální:** 
 
-- **Nosnost se sedlovými brašnami:** 6 slotů
+- **Nosnost se sedlovými brašnami:** 8 slotů
+- **Jezdecké zvíře:** Lze osedlat a při cestování divočinou ignoruje postihy za obtížný terén.
 
 **Kůň - Válečný**
 
 Kůň vyšlechtěný k boji. Agresivní a odvážný. Podobně jako ostatní koně však odmítá vstoupit do kobek a jiných podzemních lokací.
 
-**Úroveň:** 3; **Životy:** 3k8(15); **OČ:** 12; **Z:** +1; **MO:** -1; **Pohyb:** Zem: 8 metrů; **Morálka:** Vysoká (1); **Útoky:** Kopyta +2 (1k8+1 poškození); **Speciální:** V boji na blízko útočí kůň i jezdec zvlášť; Může nosit speciální brnění které stoji 100 šilinků a zvedá jeho OČ o 2;
+**Úroveň:** 3; **Životy:** 3k8(15); **OČ:** 12; **Z:** +1; **MO:** -1; **Pohyb:** Zem: 8 metrů; **Morálka:** Vysoká (1); **Útoky:** Kopyta +2 (1k8+1 poškození); **Speciální:** 
 
+- **Cvičený pro boj:** V boji na blízko útočí kůň i jezdec zvlášť a také může nosit speciální brnění které stoji 100 šilinků a zvedá jeho OČ o 2;
 - **Nosnost se sedlovými brašnami:** 4 sloty (2 sloty pokud má na sobě brnění)
+- **Jezdecké zvíře:** Lze osedlat a při cestování divočinou ignoruje postihy za obtížný terén.
 
 **Lovecký pes**
 
 Pes trénovaný k lovu. 
 
-**Úroveň:** 2; **Životy:** 2k8(8); **OČ:** 12; **Z:** +0; **MO:** -2; **Pohyb:** Zem: 10 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousnutí +1 (1k6 poškození + přidržení); **Speciální:** *Přidržení* - Při úspěšném útoku na stvoření 4. nebo nižší úrovně, který způsobil 4 nebo více poškození. Může lovecký pes svou oběť přidržet. Dokud ji drží oběť se nemůže pohybovat a má postih -1 k OČ a útokům.
+**Úroveň:** 2; **Životy:** 2k8(8); **OČ:** 12; **Z:** +0; **MO:** -2; **Pohyb:** Zem: 10 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousnutí +1 (1k6 poškození + přidržení); **Speciální:** 
+
+- **Přidržení:** Při úspěšném útoku na stvoření 4. nebo nižší úrovně, který způsobil 4 nebo více poškození. Může lovecký pes svou oběť přidržet. Dokud ji drží oběť se nemůže pohybovat a má postih -1 k OČ a útokům.
 
 **Mula**
 
 Tvrdohlavý kříženec koně a osla. Určený především k tahání těžkých břemen. Na rozdíl o koní je jí všechno tak nějak jedno a vkročí i do kobek a jiných podzemních lokací.
 
-**Úroveň:** 2; **Životy:** 2k8(10); **OČ:** 12; **ZH:** +0; **MO:** -2 **Pohyb:** Zem: 8 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousanec +1 (1k4 poškození);
+**Úroveň:** 2; **Životy:** 2k8(10); **OČ:** 12; **ZH:** +0; **MO:** -2 **Pohyb:** Zem: 8 metrů; **Morálka:** Normální (1-2); **Útoky:** Kousanec +1 (1k4 poškození); **Speciální:** 
 
 - **Nosnost se sedlovými brašnami:** 6 slotů
+- **Jezdecké zvíře pro malá stvoření:** Lze osedlat malými stvoření, jako jsou třeba Kuduci. Při cestování divočinou ignoruje postihy za obtížný terén.

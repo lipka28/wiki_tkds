@@ -128,13 +128,18 @@ Při cestování či průzkumu divočiny se čas měří na *hlídky*. Každý d
 
 - **Hlídková akce:** Každý hráč si může určit svou hlídkovou akci co bude provádět. Některé hlídkové akce však požadují účast všech členů skupiny.
 - **Cestování:** Postavy většinou cestují mezi zajímavými lokacemi jako body na mapě. PK určuje, kolik hlídek trvá cesta mezi určitými body. Při určování délky cesty by měl PK, mimo vzdálenosti, také vzít v potaz stav skupiny, jejích schopnosti, počasí, terén a jiné proměnné, které mohou ovlivnit délku cesty. Hráči by měli mít vždy přibližnou představu o nástrahách, které je mohou potkat na dané cestě.
-- **Speciální události:** Každou *hlídku* může PK hodit na speciální událost. Používá stejný *hod štěstí* a *tabulku speciálních událostí* jako je popsána výše. S tím rozdílem, že výsledek na kostce *6* znamená objev. Ať už významné lokace, zdroje jídla, poklad nebo cokoliv jiného s pozitivním dopadem na skupinu. Také ztráta může být interpretována jako ztráta směru.
+- **Speciální události:** Každou *hlídku* (nebo přesun mezi hexy) může PK hodit na speciální událost. Používá stejný *hod štěstí* a *tabulku speciálních událostí* jako je popsána výše. S tím rozdílem, že výsledek na kostce *6* znamená objev. Ať už významné lokace, zdroje jídla, poklad nebo cokoliv jiného s pozitivním dopadem na skupinu. Také ztráta může být interpretována jako ztráta směru.
 
 ### Hlídkové akce
 
 Hráčské postavy mohou, mimo jiné, provádět následující *hlídkové akce*.
 
-- **Cestování:** Posun na mapě o *1 hlídku* (jeden 10-ti kilometrový hex). Všechny zřejmé prvky dané oblasti jsou hráčům průchodem odhaleny. Tato akce musí být prováděna celou skupinou.
+- **Cestování:** Posun na mapě o *1 krok* (jeden 10-ti kilometrový hex). Všechny zřejmé prvky dané oblasti jsou hráčům průchodem odhaleny. Tato akce musí být prováděna celou skupinou. Většinou *1 krok* odpovídá době *1 hlídky*. Avšak alternativní způsoby dopravy mohou postavám umožnit i více kroků během jedné hlídky.
+    - **Cesty:** Přesun po cestě sebere vždy jen *1 krok*, nezávisle na terénu, kterým vede.
+    - **Obtížný terén:** Například lesy a kopce. Vyžadují pro opuštění takového hexu ověření *VYT* členem skupiny s nejnižší danou dovedností. Pokud neuspěje, tento pohyb vyžaduje *2 kroky*.
+    - **Velmi obtížný terén:** Například bažiny či skály. Přesun z takového hexu vyžaduje vždy *2 kroky*.
+    - **Neprůchodné překážky:** Při cestování lze narazit na neprůchodné překážky, jako například řeky. Postavy se mohou pokusit nalézt cestu pomocí průzkumu (popsáno níže), následovaným hodem štěstí.
+
 - **Průzkum:** Jeden nebo více členů skupiny se může zúčastnit průzkumu velké oblasti. Umožňující odhalit skryté prvky, které nemusí být odhaleny pouhým průchodem. Pokud oblast obsahuje více takových to prvků, je třeba ji prozkoumat vícekrát nebo se průzkumu musí zúčastnit více průzkumníků (1 prvek za každého průzkumníka). Prozkoumání oblasti trvá celkem *1 hlídkovou akci*.
 - **Zásobování:** Jeden nebo více členů skupiny se může zúčastnit lovení, rybaření nebo jiného způsobu sběru jídla. A získat tak *1k4* čerstvých zásob (kazí se). Každý účastník lovu zvedá nalezené množství o *1k4*.
 - **Založit tábor:** Skupina se zastaví a založí si tábor (většinou 3. *hlídková akce* každého dne. Každý ve skupině (včetně zvířat a jiných družníků) spotřebuje *1 zásobu*. Pokud možné, určí se pořadí nočních hlídek a postavy se vyspí do dalšího dne. Nerušený spánek umožní *přirozenou regeneraci* a případnou léčbu jednoho dovednostního bodu. Pokud je tato akce vynechána všichni členové výpravy jsou *vyčerpaní*.

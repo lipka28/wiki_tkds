@@ -128,8 +128,8 @@ Určuje sílu a zkušenosti postavy. Postava se zlepšuje s každou dosaženou �
 
 **Získávání úrovní:** Hráčské postavy získávají nové úrovně za získané zkušenostní body. Jak PK rozdává zkušenosti je na něm. Avšak lze se řídit následujícími vodítky.
 
-- **Setkání (10 - 100 zk):** Vyřešení setkání s monstrem či NPC při průzkumu.  Hráči obdrží zkušenosti nezávisle na tom, zda setkání vyřeší bojem lstí nebo diplomacií. Obdržené zkušenostní body odpovídají kreativnosti řešení nebo obtížnosti boje (dle úvahy PK).
-- **Získání magického předmětu (10 nebo 50 zk):** Najití magického předmětu při průzkumu. Postavy obdrží *50 zk* za permanentní magické předměty a *10 zk* za jednorázové magické předměty.
+- **Setkání (10 - 100 zk):** Vyřešení setkání s monstrem či NPC při průzkumu.  Hráči obdrží zkušenosti nezávisle na tom, zda setkání vyřeší bojem lstí nebo diplomacií. Obdržené zkušenostní body odpovídají kreativnosti řešení nebo obtížnosti boje (dle úvahy PK). Takto získané zkušenosti se dělí rovným dílem mezi všechny členy skupiny.
+- **Získání magického předmětu (10 nebo 50 zk):** Najití magického předmětu při průzkumu. Postavy obdrží *50 zk* za permanentní magické předměty a *10 zk* za jednorázové magické předměty. Takto získané zkušenosti se dělí rovným dílem mezi všechny členy skupiny.
 - **Splnění úkolu či poslání (250+ zk):** Dokončení významného úkolu by mělo odměnit hráče minimálně *250 zk*. Zkušenosti za úkoly získávají všichni zúčastnění v plném rozsahu.
 - **Flámování:** Postavy mohou strávit volný čas flámováním a tím proměnit část svého bohatství na zkušenosti. Více o flámování [zde](/Procedury/#flamovani).
 
