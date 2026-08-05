@@ -73,7 +73,7 @@ Zbraněmi na blízku lze útočit pouze na cíle v bezprostřední blízkosti. N
 | Bojová hůl       |          1k8          |   2   |        20 ši        |    2R, S/H     |
 | Cep              |          1k6          |   1   |        18 ši        |      Spec      |
 | Hůl              |          1k4          |   2   |        1 ši         |   NT, V(1k6)   |
-| Kopí             |          1k6          |   2   |        5 ši         |   D, V(1k8)    |
+| Krátké Kopí      |          1k6          |   2   |        5 ši         |  D, Ho(10 m)   |
 | Meč              |          1k8          |   1   |        30 ši        |       -        |
 | Meč bastard      |          1k8          |   2   |        60 ši        |    V(1k10)     |
 | Nůž              |          1k6          |   1   |        3 ši         |    Ho, S/H     |
