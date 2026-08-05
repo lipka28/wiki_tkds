@@ -62,7 +62,7 @@ Aurory jsou speciální schopností požehnaného, které poskytují magický pa
 
 **Opakování:** Nelze
 
-Požehnaný a jeho spojenci v dosahu mají bonus *+2* na záchranné hody proti efektům strachu. Jedná-li se o nehráčské postavy jejich morálka je o stupeň vyšší (nikoliv však výše jak *Výjimečná (1)*).
+Požehnaný a jeho spojenci v dosahu mají *výhodu* na záchranné hody proti efektům strachu. Jedná-li se o nehráčské postavy jejich morálka je o stupeň vyšší (nikoliv však výše jak *Výjimečná (1)*).
 
 <img src="/assets/sep_line.png"/>
 
