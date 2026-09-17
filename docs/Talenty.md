@@ -33,7 +33,6 @@ Získáváš extra 2 životy.
 Setkáš-li se s jazykem, který neovládáš (ať už v psané či mluvené formě) Můžeš podstoupit ověření MYS na porozumění (danému textu či mluvené větě). Na delší psané texty provádíš hod s nevýhodou. Můžeš se také pokusit daným jazykem psát či mluvit. Což se ti povede při úspěšném ověření MYS s nevýhodou. Psaní delších textů v neznámém jazyce je pro tebe nemožné.
 
 !!! note "Tajný hod"
-
 ​    Tato ověření je lepší házet jako tajný hod.
 
 <img src="/assets/sep_line.png"/>
