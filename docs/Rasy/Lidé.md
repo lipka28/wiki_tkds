@@ -4,7 +4,7 @@
 
 <img src="/assets/sep_line.png"/>
 
-**Jazyky:** *Obecná řeč* + běžné jazyky ve výši tvé dovednosti *MYS*.
+**Jazyky:** *Obecná řeč* + 1 běžný jazyk dle vlastního výběru a dále běžné jazyky ve výši tvé dovednosti *MYS*.
 
 **Předpokládaná doba dožití:** 60 - 80 let
 
